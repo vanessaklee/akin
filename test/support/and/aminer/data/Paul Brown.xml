@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>3092</personID>
+	<FullName>Paul Brown</FullName>
+	<FirstName>Paul</FirstName>
+	<LastName>Brown</LastName>
+	<publication>
+		<title>Distributed Component Database Management Systems</title>
+		<year>2001</year>
+		<authors>Paul Brown</authors>
+		<jconf>Compontent Database Systems</jconf>
+		<id>2187</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Relational DBMSs, Second Edition</title>
+		<year>1998</year>
+		<authors>Michael Stonebraker,Paul Brown,Dorothy Moore</authors>
+		<jconf>null</jconf>
+		<id>2369</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward Automated Large-Scale Information Integration and Discovery</title>
+		<year>2005</year>
+		<authors>Paul Brown,Peter J. Haas,Jussi Myllymaki,Hamid Pirahesh,Berthold Reinwald,Yannis Sismanis</authors>
+		<jconf>Data Management in a Connected World</jconf>
+		<id>65661</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Requirements for XML Functionality in Relational Database Management Systems - An Informix Perspective</title>
+		<year>2001</year>
+		<authors>Paul Brown,Martin Herbach,Akmal B. Chaudhri,Alexander Koerner</authors>
+		<jconf>DEXA Workshop</jconf>
+		<id>151072</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implicit Fitness Functions for Evolving a Drawing Robot</title>
+		<year>2008</year>
+		<authors>Jon Bird,Phil Husbands,Martin Perris,Bill Bigge,Paul Brown</authors>
+		<jconf>EvoWorkshops</jconf>
+		<id>199620</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementing the Spirit of SQL-99</title>
+		<year>1999</year>
+		<authors>Paul Brown</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598218</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The BUCKY Object-Relational Benchmark (Experience Paper)</title>
+		<year>1997</year>
+		<authors>Michael J. Carey,David J. DeWitt,Jeffrey F. Naughton,Mohammad Asgarian,Paul Brown,Johannes Gehrke,Dhaval Shah</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598271</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CORDS: Automatic Discovery of Correlations and Soft Functional Dependencies</title>
+		<year>2004</year>
+		<authors>Ihab F. Ilyas,Volker Markl,Peter J. Haas,Paul Brown,Ashraf Aboulnaga</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598915</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Facilitating innovative faculty projects: an information technology perspective</title>
+		<year>2006</year>
+		<authors>Paul Brown,Kenneth Janz</authors>
+		<jconf>SIGUCCS</jconf>
+		<id>602979</id>
+		<label>5</label>
+		<organization>Eastern Illinois University, Charleston, Illinois</organization>
+	</publication>
+	<publication>
+		<title>BigSur: A System For the Management of Earth Science Data</title>
+		<year>1995</year>
+		<authors>Paul Brown,Michael Stonebraker</authors>
+		<jconf>VLDB</jconf>
+		<id>642197</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BHUNT: Automatic Discovery of Fuzzy Algebraic Constraints in Relational Data</title>
+		<year>2003</year>
+		<authors>Paul Brown,Peter J. Haas</authors>
+		<jconf>VLDB</jconf>
+		<id>642711</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GORDIAN: Efficient and Scalable Discovery of Composite Keys</title>
+		<year>2006</year>
+		<authors>Yannis Sismanis,Paul Brown,Peter J. Haas,Berthold Reinwald</authors>
+		<jconf>VLDB</jconf>
+		<id>643781</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DAMIA - A Data Mashup Fabric for Intranet Applications</title>
+		<year>2007</year>
+		<authors>Mehmet Altinel,Paul Brown,Susan Cline,Rajesh Kartha,Eric Louie,Volker Markl,Louis Mau,Yip-Hing Ng,David E. Simmen,Ashutosh Singh</authors>
+		<jconf>VLDB</jconf>
+		<id>644269</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Creating histories</title>
+		<year>2005</year>
+		<authors>Paul Brown,Phil Husbands,Margaret A. Boden,Catherine Mason,Alan Sutcliffe</authors>
+		<jconf>Creativity  Cognition</jconf>
+		<id>691316</id>
+		<label>3</label>
+		<organization>Birkbeck College, University of London, London, United Kingdom</organization>
+	</publication>
+	<publication>
+		<title>Fix my street or else: using the internet to voice local public service concerns</title>
+		<year>2007</year>
+		<authors>Stephen F. King,Paul Brown</authors>
+		<jconf>ICEGOV</jconf>
+		<id>708707</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interoperability, Distributed Applications and Distributed Databases: The Virtual Table Interface</title>
+		<year>1998</year>
+		<authors>Michael Stonebraker,Paul Brown,Martin Herbach</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>845052</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Relational DBMSs, Second Edition</title>
+		<year>1998</year>
+		<authors>Michael Stonebraker,Paul Brown,Dorothy Moore</authors>
+		<jconf>null</jconf>
+		<id>1204038</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Relational DBMSs, Second Edition</title>
+		<year>1998</year>
+		<authors>Michael Stonebraker,Paul Brown,Dorothy Moore</authors>
+		<jconf>null</jconf>
+		<id>1235344</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reality versus imagination</title>
+		<year>1992</year>
+		<authors>Paul Brown</authors>
+		<jconf>ACM SIGGRAPH 92 Visual Proceedings</jconf>
+		<id>1401503</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The ethics and aesthetics of the image interface</title>
+		<year>1994</year>
+		<authors>Paul Brown</authors>
+		<jconf>ACM SIGGRAPH Computer Graphics</jconf>
+		<id>1498765</id>
+		<label>2</label>
+		<organization>Professor of Art, Mississippi State University, P.O. Box 5182, Mississippi State, MS</organization>
+	</publication>
+	<publication>
+		<title>Object-Relational DBMSs: Tracking the Next Great Wave, 2nd edition</title>
+		<year>1998</year>
+		<authors>Michael Stonebraker,Dorothy Moore,Paul Brown</authors>
+		<jconf>null</jconf>
+		<id>1539058</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>My gasket</title>
+		<year>1999</year>
+		<authors>Paul Brown</authors>
+		<jconf>ACM SIGGRAPH 99 Electronic art and animation catalog</jconf>
+		<id>1545291</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Programming Apache Axis</title>
+		<year>2004</year>
+		<authors>Chris Haddad,Kevin Bedell,Paul Brown,Davanum Srinivas,Dion Almaer</authors>
+		<jconf>null</jconf>
+		<id>1557352</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Damia: a data mashup fabric for intranet applications</title>
+		<year>2007</year>
+		<authors>Mehmet Altinel,Paul Brown,Susan Cline,Rajesh Kartha,Eric Louie,Volker Markl,Louis Mau,Yip-Hing Ng,David Simmen,Ashutosh Singh</authors>
+		<jconf>Proceedings of the 33rd international conference on Very large data bases</jconf>
+		<id>1586082</id>
+		<label>1</label>
+		<organization>IBM Almaden Research Center, San Jose, CA</organization>
+	</publication>
+	<publication>
+		<title>Realism and computer-integrated manufacturing</title>
+		<year>1989</year>
+		<authors>Paul Brown</authors>
+		<jconf>Computers in art, design and animation</jconf>
+		<id>1635837</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What next? A provocative look at curriculum, creativity and organization in teaching artists and designers to use computers</title>
+		<year>1991</year>
+		<authors>Paul Brown,Judith Crow,Brenda Laurel,Simon Penny</authors>
+		<jconf>ACM SIGGRAPH Computer Graphics</jconf>
+		<id>1665618</id>
+		<label>2</label>
+		<organization>Creative Director of the Advanced Computer Graphics Center at the Royal Melbourne Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>Stepping stones in the mist</title>
+		<year>2001</year>
+		<authors>Paul Brown</authors>
+		<jconf>Creative evolutionary systems</jconf>
+		<id>1744066</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+</person>

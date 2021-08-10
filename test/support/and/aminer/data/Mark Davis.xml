@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>264068</personID>
+	<FullName>Mark Davis</FullName>
+	<FirstName>Mark</FirstName>
+	<LastName>Davis</LastName>
+	<publication>
+		<title>RARE - Resource Aware Routing for mEsh</title>
+		<year>2007</year>
+		<authors>Karol Kowalik,Brian Keegan,Mark Davis</authors>
+		<jconf>ICC</jconf>
+		<id>277586</id>
+		<label>1</label>
+		<organization>Dublin Inst. of Technol., Dublin</organization>
+	</publication>
+	<publication>
+		<title>An Experimental Investigation of Parallel Multimedia Streams Over IEEE 802.11e WLAN Networks Using TXOP</title>
+		<year>2007</year>
+		<authors>Nicola Cranley,Tanmoy Debnath,Mark Davis</authors>
+		<jconf>ICC</jconf>
+		<id>277878</id>
+		<label>1</label>
+		<organization>Commun. Network Res. Inst., Dublin</organization>
+	</publication>
+	<publication>
+		<title>A Network-Based Architecture for Storing Digital Evidence</title>
+		<year>2005</year>
+		<authors>Mark Davis,Gavin Manes,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378761</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracting Concealed Data from BIOS Chips</title>
+		<year>2005</year>
+		<authors>Pavel Gershteyn,Mark Davis,Gavin Manes,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378765</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detecting Data Concealment Programs Using File System Analysis</title>
+		<year>2006</year>
+		<authors>Mark Davis,Richard Kennedy,Kristina Pyles,Amanda Strickler,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378768</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detecting Hidden Data in Ext2/Ext3 File Systems</title>
+		<year>2005</year>
+		<authors>Scott Piper,Mark Davis,Gavin Manes,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378782</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Forensic Analysis of BIOS Chips</title>
+		<year>2006</year>
+		<authors>Pavel Gershteyn,Mark Davis,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378838</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Countering Hostile Forensic Techniques</title>
+		<year>2006</year>
+		<authors>Scott Piper,Mark Davis,Sujeet Shenoi</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378853</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The capability of the EDCA mechanism to support voice traffic in a mixed voice/data transmission over 802.11e WLANs - an experimental investigation</title>
+		<year>2007</year>
+		<authors>Miroslaw Narbutt,Mark Davis</authors>
+		<jconf>LCN</jconf>
+		<id>482492</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, Ireland</organization>
+	</publication>
+	<publication>
+		<title>Experimental investigation on VoIP performance and the resource utilization in 802.11b WLANs</title>
+		<year>2006</year>
+		<authors>Miroslaw Narbutt,Mark Davis</authors>
+		<jconf>LCN</jconf>
+		<id>482819</id>
+		<label>1</label>
+		<organization>Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>An Assessment of the Audio Codec Performance in Voice over WLAN (VoWLAN) Systems</title>
+		<year>2005</year>
+		<authors>Miroslaw Narbutt,Mark Davis</authors>
+		<jconf>MobiQuitous</jconf>
+		<id>506709</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>A wireless traffic probe for radio resource management and QoS provisioning in IEEE 802.11 WLANs</title>
+		<year>2004</year>
+		<authors>Mark Davis</authors>
+		<jconf>MSWiM</jconf>
+		<id>509614</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, IRELAND</organization>
+	</publication>
+	<publication>
+		<title>Performance evaluation of video streaming with background traffic over IEEE 802.11 WLAN networks</title>
+		<year>2005</year>
+		<authors>Nicola Cranley,Mark Davis</authors>
+		<jconf>WMuNeP</jconf>
+		<id>509865</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, Dublin, Ireland</organization>
+	</publication>
+	<publication>
+		<title>A Novel Framework for Radio Resource Management in IEEE 802.11 Wireless LANs</title>
+		<year>2005</year>
+		<authors>Mark Davis,Tristan Raimondi</authors>
+		<jconf>WiOpt</jconf>
+		<id>662716</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>Gauging VoIP Call Quality from 802.11 WLAN Resource Usage</title>
+		<year>2006</year>
+		<authors>Miroslaw Narbutt,Mark Davis</authors>
+		<jconf>WOWMOM</jconf>
+		<id>666854</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, Ireland</organization>
+	</publication>
+	<publication>
+		<title>Experimental tuning of AIFSN and CWmin parameters to prioritize voice over data transmission in 802.11e WLAN networks</title>
+		<year>2007</year>
+		<authors>Miroslaw Narbutt,Mark Davis</authors>
+		<jconf>IWCMC</jconf>
+		<id>699476</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, Dublin, Ireland</organization>
+	</publication>
+	<publication>
+		<title>An Experimental Investigation of IEEE 802.11e TXOP Facility for Real-Time Video Streaming</title>
+		<year>2007</year>
+		<authors>Nicola Cranley,Mark Davis</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704139</id>
+		<label>1</label>
+		<organization>CNRI, Dublin</organization>
+	</publication>
+	<publication>
+		<title>A Noice Whitening approach to Multiple-Access Noise Rejection - Part II: Implementation Issues</title>
+		<year>1996</year>
+		<authors>Mark Davis,Anton M. Monk,Laurence B. Milstein</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>991421</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experimental Evaluation of the Hewlett-Packard Exemplar File System</title>
+		<year>1997</year>
+		<authors>Rajesh Bordawekar,Steven Landherr,Don Capps,Mark Davis</authors>
+		<jconf>SIGMETRICS Performance Evaluation Review</jconf>
+		<id>1063868</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Evaluation of a Conservative Transmit Power Control Mechanism on an Indoor 802.11 Wireless Mesh Testbed</title>
+		<year>2008</year>
+		<authors>Karol Kowalik,Marek Bykowski,Brian Keegan,Mark Davis</authors>
+		<jconf>Computers & Chemical Engineering</jconf>
+		<id>1262730</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MeshScan: fast and efficient handoff in IEEE802.11 mesh networks.</title>
+		<year>2009</year>
+		<authors>Yin Chen,Karol Kowalik,Mark Davis</authors>
+		<jconf>null</jconf>
+		<id>1311688</id>
+		<label>1</label>
+		<organization>Dublin Institute of Technology, Dublin, Ireland</organization>
+	</publication>
+	<publication>
+		<title>The Unicode standard version 3.0</title>
+		<year>1999</year>
+		<authors>Joan Aliprand,Julie Allen,Joe Becker,Mark Davis,Michael Everson,Asmus Freytag,John H. Jenkins,Mike Ksar,Rick McGowan,Lisa Moore,Michel Suignard,Ken Whistler</authors>
+		<jconf>null</jconf>
+		<id>1544594</id>
+		<label>4</label>
+		<organization>The Unicode Consortium</organization>
+	</publication>
+	<publication>
+		<title>International text in JDK 1.2</title>
+		<year>2000</year>
+		<authors>Mark Davis,Doug Felt,John Raley</authors>
+		<jconf>More Java gems</jconf>
+		<id>1548374</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classical optimizations in Ada</title>
+		<year>1981</year>
+		<authors>Mark Davis</authors>
+		<jconf>ACM SIGAda Ada Letters</jconf>
+		<id>1564772</id>
+		<label>5</label>
+		<organization>Intermetrics, Inc., Cambridge, Mass.</organization>
+	</publication>
+</person>

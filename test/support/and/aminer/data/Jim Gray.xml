@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>3152</personID>
+	<FullName>Jim Gray</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Introduction</title>
+		<year>1991</year>
+		<authors>Jim Gray</authors>
+		<jconf>The Benchmark Handbook</jconf>
+		<id>2226</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database and Transaction Processing Performance Handbook</title>
+		<year>1993</year>
+		<authors>Jim Gray</authors>
+		<jconf>The Benchmark Handbook</jconf>
+		<id>2241</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (1st Edition)</title>
+		<year>1991</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>2328</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (2nd Edition)</title>
+		<year>1993</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>2329</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transaction Processing: Concepts and Techniques</title>
+		<year>1993</year>
+		<authors>Jim Gray,Andreas Reuter</authors>
+		<jconf>null</jconf>
+		<id>2330</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Notes on Data Base Operating Systems</title>
+		<year>1978</year>
+		<authors>Jim Gray</authors>
+		<jconf>Advanced Course: Operating Systems</jconf>
+		<id>17461</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Revolution in Database System Architecture</title>
+		<year>2004</year>
+		<authors>Jim Gray</authors>
+		<jconf>ADBIS (Local Proceedings)</jconf>
+		<id>25987</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Views, Authorization, and Locking in a Relational Data Base System</title>
+		<year>1975</year>
+		<authors>Donald D. Chamberlin,Jim Gray,Irving L. Traiger</authors>
+		<jconf>AFIPS National Computer Conference</jconf>
+		<id>28520</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Straw Man Analysis of the Probability of Waiting and Deadlock in a Database System</title>
+		<year>1981</year>
+		<authors>Jim Gray,Pete Homan,Henry F. Korth,Ron Obermarck</authors>
+		<jconf>Berkeley Workshop</jconf>
+		<id>63002</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Super Servers: Commodity Computer Clusters Pose a Software Challenge</title>
+		<year>1995</year>
+		<authors>Jim Gray</authors>
+		<jconf>BTW</jconf>
+		<id>69411</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Why do Computer Stop and What Can be About it?</title>
+		<year>1985</year>
+		<authors>Jim Gray</authors>
+		<jconf>Buroautomation</jconf>
+		<id>69875</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile technologies for the world's children</title>
+		<year>2009</year>
+		<authors>Allison Druin,David Cavallo,Christopher Fabian,Benjamin B. Bederson,Glenda Revelle,Yvonne Rogers,Jim Gray</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>92243</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>When Database Systems Meet the Grid</title>
+		<year>2005</year>
+		<authors>Maria A. Nieto-Santisteban,Jim Gray,Alexander S. Szalay,James Annis,Aniruddha R. Thakar,William O'Mullane</authors>
+		<jconf>CIDR</jconf>
+		<id>94668</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>One Thousand Transactions per Second</title>
+		<year>1985</year>
+		<authors>Jim Gray,Pete Homan,Harald Sammer,Bob Good,Dieter Gawlick</authors>
+		<jconf>COMPCON</jconf>
+		<id>109990</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Desktop Batch Processing</title>
+		<year>1994</year>
+		<authors>Jim Gray,Chris Nyberg</authors>
+		<jconf>COMPCON</jconf>
+		<id>109991</id>
+		<label>1</label>
+		<organization>Syst. Center, Digital Equipment Corp., San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>Granularity of Locks and Degrees of Consistency in a Shared Data Base</title>
+		<year>1976</year>
+		<authors>Jim Gray,Raymond A. Lorie,Gianfranco R. Putzolu,Irving L. Traiger</authors>
+		<jconf>IFIP Working Conference on Modelling in Data Base Management Systems</jconf>
+		<id>160561</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function</title>
+		<year>1990</year>
+		<authors>Michael Stonebraker,Lawrence A. Rowe,Bruce G. Lindsay,Jim Gray,Michael J. Carey,Michael L. Brodie,Philip A. Bernstein,David Beech</authors>
+		<jconf>DS-4</jconf>
+		<id>160685</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Triumphs, Sins, and Challenges of Database Benchmarking</title>
+		<year>2006</year>
+		<authors>Jim Gray</authors>
+		<jconf>ExpDB</jconf>
+		<id>200993</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Greetings from a Filesystem User</title>
+		<year>2005</year>
+		<authors>Jim Gray</authors>
+		<jconf>FAST</jconf>
+		<id>202466</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Single Pass Precedence Analysis (Extended Abstract)</title>
+		<year>1969</year>
+		<authors>Jim Gray,Michael A. Harrison</authors>
+		<jconf>FOCS</jconf>
+		<id>210813</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design and Architecture of the Microsoft Cluster Service - A Practical Approach to High-Availability and Scalability</title>
+		<year>1998</year>
+		<authors>Werner Vogels,Dan Dumitriu,Kenneth P. Birman,Rod Gamache,Mike Massa,Rob Short,John Vert,Joe Barrera,Jim Gray</authors>
+		<jconf>FTCS</jconf>
+		<id>220608</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Cornell Univ., Ithaca, NY</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of the Byzantine Agreement Problem and the Transaction Commit Problem</title>
+		<year>1986</year>
+		<authors>Jim Gray</authors>
+		<jconf>Fault-Tolerant Distributed Computing</jconf>
+		<id>220647</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault Tolerance in Tandem Systems</title>
+		<year>1985</year>
+		<authors>Jim Gray</authors>
+		<jconf>HPTS</jconf>
+		<id>255807</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Why TP-Lite will Dominate the TP Market</title>
+		<year>1993</year>
+		<authors>Jim Gray</authors>
+		<jconf>HPTS</jconf>
+		<id>255808</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Transaction Model</title>
+		<year>1980</year>
+		<authors>Jim Gray</authors>
+		<jconf>ICALP</jconf>
+		<id>268123</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract</title>
+		<year>1996</year>
+		<authors>Surajit Chaudhuri,Ashok K. Chandra,Umeshwar Dayal,Jim Gray,Michael Stonebraker,Gio Wiederhold,Moshe Y. Vardi</authors>
+		<jconf>ICDE</jconf>
+		<id>299651</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total</title>
+		<year>1996</year>
+		<authors>Jim Gray,Adam Bosworth,Andrew Layman,Hamid Pirahesh</authors>
+		<jconf>ICDE</jconf>
+		<id>300027</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rules of Thumb in Data Engineering</title>
+		<year>2000</year>
+		<authors>Jim Gray,Prashant J. Shenoy</authors>
+		<jconf>ICDE</jconf>
+		<id>300028</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fcast Multicast File Distribution: 'Tune in, Download, and Drop Out</title>
+		<year>1999</year>
+		<authors>Jim Gemmell,Eve M. Schooler,Jim Gray</authors>
+		<jconf>IMSA</jconf>
+		<id>398104</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On-line science: the world-wide telescope as a prototype for the new computational science</title>
+		<year>2003</year>
+		<authors>Jim Gray</authors>
+		<jconf>KDD</jconf>
+		<id>472721</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>The Cost of Messages</title>
+		<year>1988</year>
+		<authors>Jim Gray</authors>
+		<jconf>PODC</jconf>
+		<id>544016</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory - A memory model for scientific algorithms on graphics processors</title>
+		<year>2006</year>
+		<authors>Naga K. Govindaraju,Scott Larsen,Jim Gray,Dinesh Manocha</authors>
+		<jconf>SC</jconf>
+		<id>575797</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data analysis tools for sensor-based science</title>
+		<year>2006</year>
+		<authors>Stuart Ozer,Jim Gray,Alexander S. Szalay,Andreas Terzis,Razvan Musaloiu-Elefteri,Katalin Szlavecz,Randal C. Burns,Joshua Cogan</authors>
+		<jconf>SenSys</jconf>
+		<id>584544</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>A Benchmark of NonStop SQL Release 2 Demonstrating Near-Linear Speedup and Scaleup on Large Databases</title>
+		<year>1990</year>
+		<authors>Susanne Englert,Jim Gray,Terrye Kocher,Praful Shah</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>597076</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A View of Database System Performance Measures</title>
+		<year>1987</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>597143</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Critique of ANSI SQL Isolation Levels</title>
+		<year>1995</year>
+		<authors>Hal Berenson,Philip A. Bernstein,Jim Gray,Jim Melton,Elizabeth J. O'Neil,Patrick E. O'Neil</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598040</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TerraServer: A Spatial Data Warehouse</title>
+		<year>2000</year>
+		<authors>Tom Barclay,Donald R. Slutz,Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598098</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GPUTeraSort: high performance graphics co-processor sorting for large database management</title>
+		<year>2006</year>
+		<authors>Naga K. Govindaraju,Jim Gray,Ritesh Kumar,Dinesh Manocha</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598654</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>The Next Database Revolution</title>
+		<year>2004</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598685</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Practical Problems in Data Management - A Position Paper</title>
+		<year>1983</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598687</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Operating System Support for Data Management Systems</title>
+		<year>1987</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598694</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database Performance Metrics</title>
+		<year>1989</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598696</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database and Transaction Processing Benchmarks</title>
+		<year>1992</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598698</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Database Systems 101</title>
+		<year>1995</year>
+		<authors>Jim Gray</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598715</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Dangers of Replication and a Solution</title>
+		<year>1996</year>
+		<authors>Jim Gray,Pat Helland,Patrick E. O'Neil,Dennis Shasha</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598717</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for CPU Time</title>
+		<year>1987</year>
+		<authors>Jim Gray,Gianfranco R. Putzolu</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598719</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quickly Generating Billion-Record Synthetic Databases</title>
+		<year>1994</year>
+		<authors>Jim Gray,Prakash Sundaresan,Susanne Englert,Kenneth Baclawski,Peter J. Weinberger</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598721</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Lowell Report</title>
+		<year>2003</year>
+		<authors>Jim Gray,Hans-Jorg Schek,Michael Stonebraker,Jeffrey D. Ullman</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598723</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AlphaSort: A RISC Machine Sort</title>
+		<year>1994</year>
+		<authors>Chris Nyberg,Tom Barclay,Zarka Cvetanovic,Jim Gray,David B. Lomet</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599440</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FastSort: A Distributed Single-Input Single-Output External Sort</title>
+		<year>1990</year>
+		<authors>Betty Salzberg,Alex Tsukerman,Jim Gray,Michael Stewart,Susan Uren,Bonnie Vaughan</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599654</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey</title>
+		<year>2000</year>
+		<authors>Alexander S. Szalay,Peter Z. Kunszt,Ani Thakar,Jim Gray,Donald R. Slutz,Robert J. Brunner</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599773</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The SDSS skyserver: public access to the sloan digital sky server data</title>
+		<year>2002</year>
+		<authors>Alexander S. Szalay,Jim Gray,Ani Thakar,Peter Z. Kunszt,Tanu Malik,Jordan Raddick,Christopher Stoughton,Jan vandenBerg</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599775</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Committee for Advanced DBMS Function': Third Generation Data Base System Manifesto</title>
+		<year>1990</year>
+		<authors>Michael Stonebraker,Lawrence A. Rowe,Bruce G. Lindsay,Jim Gray,Michael J. Carey,David Beech</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599864</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Why Do Computers Stop and What Can Be Done About It?</title>
+		<year>1986</year>
+		<authors>Jim Gray</authors>
+		<jconf>Symposium on Reliability in Distributed Software and Database Systems</jconf>
+		<id>617014</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Where the Rubber Meets the Sky: The Semantic Gap between Data Producers and Data Consumers</title>
+		<year>2004</year>
+		<authors>Jim Gray</authors>
+		<jconf>SSDBM</jconf>
+		<id>617990</id>
+		<label>1</label>
+		<organization>Microsoft</organization>
+	</publication>
+	<publication>
+		<title>Disk Shadowing</title>
+		<year>1988</year>
+		<authors>Dina Bitton,Jim Gray</authors>
+		<jconf>VLDB</jconf>
+		<id>642043</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Transaction Concept: Virtues and Limitations (Invited Paper)</title>
+		<year>1981</year>
+		<authors>Jim Gray</authors>
+		<jconf>VLDB</jconf>
+		<id>642677</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput</title>
+		<year>1990</year>
+		<authors>Jim Gray,Bob Horst,Mark Walker</authors>
+		<jconf>VLDB</jconf>
+		<id>642678</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Granularity of Locks in a Large Shared Data Base</title>
+		<year>1975</year>
+		<authors>Jim Gray,Raymond A. Lorie,Gianfranco R. Putzolu,Irving L. Traiger</authors>
+		<jconf>VLDB</jconf>
+		<id>642679</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Storage Service Providers: a Solution for Storage Management? (Panel)</title>
+		<year>2001</year>
+		<authors>Banu Ozden,Eran Gabber,Bruce Hillyer,Wee Teck Ng,Elizabeth A. M. Shriver,David J. DeWitt,Bruce Gordon,Jim Gray,John Wilkes</authors>
+		<jconf>VLDB</jconf>
+		<id>643455</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Databases and Workflow Management: What is it All About? (Panel)</title>
+		<year>1995</year>
+		<authors>Andreas Reuter,Stefano Ceri,Jim Gray,Betty Salzberg,Gerhard Weikum</authors>
+		<jconf>VLDB</jconf>
+		<id>643587</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Hash Join Algorithm for Multiuser Environments</title>
+		<year>1990</year>
+		<authors>Hansjorg Zeller,Jim Gray</authors>
+		<jconf>VLDB</jconf>
+		<id>644107</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Panel Session: Do the DBMS SW Vendors Offer the Products Required by the Industrial User in the Communication Industry?</title>
+		<year>1999</year>
+		<authors>Jim Gray,Svein-Olaf Hvasshovd</authors>
+		<jconf>Databases in Telecommunications</jconf>
+		<id>644283</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Mining the SDSS SkyServer Database</title>
+		<year>2002</year>
+		<authors>Jim Gray,Alexander S. Szalay,Ani Thakar,Peter Z. Kunszt,Christopher Stoughton,Donald R. Slutz,Jan van den Berg</authors>
+		<jconf>WDAS</jconf>
+		<id>654208</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Lowell database research self-assessment</title>
+		<year>2005</year>
+		<authors>Serge Abiteboul,Rakesh Agrawal,Philip A. Bernstein,Michael J. Carey,Stefano Ceri,W. Bruce Croft,David J. DeWitt,Michael J. Franklin,Hector Garcia-Molina,Dieter Gawlick,Jim Gray,Laura M. Haas,Alon Y. Halevy,Joseph M. Hellerstein,Yannis E. Ioannidis,Martin L. Kersten,Michael J. Pazzani,Michael Lesk,David Maier,Jeffrey F. Naughton,Hans-Jorg Schek,Timos K. Sellis,Avi Silberschatz,Michael Stonebraker,Richard T. Snodgrass,Jeffrey D. Ullman,Gerhard Weikum,Jennifer Widom,Stanley B. Zdonik</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>769438</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Digital immortality</title>
+		<year>2001</year>
+		<authors>Gordon Bell,Jim Gray</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>769921</id>
+		<label>1</label>
+		<organization>Microsoft, Redmond, WA</organization>
+	</publication>
+	<publication>
+		<title>What's next in high-performance computing?</title>
+		<year>2002</year>
+		<authors>Gordon Bell,Jim Gray</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>769922</id>
+		<label>1</label>
+		<organization>Bay Area Research Center of Microsoft Research, San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>A History and Evaluation of System R</title>
+		<year>1981</year>
+		<authors>Donald D. Chamberlin,Morton M. Astrahan,Mike W. Blasgen,Jim Gray,W. Frank King III,Bruce G. Lindsay,Raymond A. Lorie,James W. Mehl,Thomas G. Price,Gianfranco R. Putzolu,Patricia G. Selinger,Mario Schkolnick,Donald R. Slutz,Irving L. Traiger,Bradford W. Wade,Robert A. Yost</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>770550</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Database Systems: The Future of High Performance Database Systems</title>
+		<year>1992</year>
+		<authors>David J. DeWitt,Jim Gray</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>771176</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Notions of Consistency and Predicate Locks in a Database System</title>
+		<year>1976</year>
+		<authors>Kapali P. Eswaran,Jim Gray,Raymond A. Lorie,Irving L. Traiger</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>771521</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The world-wide telescope</title>
+		<year>2002</year>
+		<authors>Jim Gray,Alexander S. Szalay</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>772375</id>
+		<label>1</label>
+		<organization>Microsoft Research Group, San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>System R: A Relational Data Base Management System</title>
+		<year>1979</year>
+		<authors>Morton M. Astrahan,Mike W. Blasgen,Donald D. Chamberlin,Jim Gray,W. Frank King III,Bruce G. Lindsay,Raymond A. Lorie,James W. Mehl,Thomas G. Price,Gianfranco R. Putzolu,Mario Schkolnick,Patricia G. Selinger,Donald R. Slutz,H. Raymond Strong,Paolo Tiberio,Irving L. Traiger,Bradford W. Wade,Robert A. Yost</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>805711</id>
+		<label>1</label>
+		<organization>IBM San Jose Research Laboratory</organization>
+	</publication>
+	<publication>
+		<title>Petascale Computational Systems</title>
+		<year>2006</year>
+		<authors>Gordon Bell,Jim Gray,Alexander S. Szalay</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>805782</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>Evolution of Data Management</title>
+		<year>1996</year>
+		<authors>Jim Gray</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>806566</id>
+		<label>1</label>
+		<organization>Microsoft Res., San Francisco, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>High-Availability Computer Systems</title>
+		<year>1991</year>
+		<authors>Jim Gray,Daniel P. Siewiorek</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>806569</id>
+		<label>1</label>
+		<organization>Digital Equipment Corp., San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>Locally Served Network Computers</title>
+		<year>1998</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>816317</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalability Terminology: Farms, Clones, Partitions, Packs, RACS and RAPS</title>
+		<year>1999</year>
+		<authors>Bill Devlin,Jim Gray,Bill Laing,George Spix</authors>
+		<jconf>CoRR</jconf>
+		<id>816319</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Mining the SDSS SkyServer Database</title>
+		<year>2002</year>
+		<authors>Jim Gray,Alexander S. Szalay,Ani Thakar,Peter Z. Kunszt,Christopher Stoughton,Donald R. Slutz,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>817465</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Petabyte Scale Data Mining: Dream or Reality?</title>
+		<year>2002</year>
+		<authors>Alexander S. Szalay,Jim Gray,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>817478</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial Clustering of Galaxies in Large Datasets</title>
+		<year>2002</year>
+		<authors>Alexander S. Szalay,Tamas Budavari,Andrew Connolly,Jim Gray,Takahiko Matsubara,Adrian Pope,Istvan Szapudi</authors>
+		<jconf>CoRR</jconf>
+		<id>817479</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Lowell Database Research Self Assessment</title>
+		<year>2003</year>
+		<authors>Serge Abiteboul,Rakesh Agrawal,Philip A. Bernstein,Michael J. Carey,Stefano Ceri,W. Bruce Croft,David J. DeWitt,Michael J. Franklin,Hector Garcia-Molina,Dieter Gawlick,Jim Gray,Laura M. Haas,Alon Y. Halevy,Joseph M. Hellerstein,Yannis E. Ioannidis,Martin L. Kersten,Michael J. Pazzani,Michael Lesk,David Maier,Jeffrey F. Naughton,Hans-Jorg Schek,Timos K. Sellis,Avi Silberschatz,Michael Stonebraker,Richard T. Snodgrass,Jeffrey D. Ullman,Gerhard Weikum,Jennifer Widom,Stanley B. Zdonik</authors>
+		<jconf>CoRR</jconf>
+		<id>817512</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending the SDSS Batch Query System to the National Virtual Observatory Grid</title>
+		<year>2004</year>
+		<authors>Maria A. Nieto-Santisteban,William O'Mullane,Jim Gray,Nolan Li,Tamas Budavari,Alexander S. Szalay,Aniruddha R. Thakar</authors>
+		<jconf>CoRR</jconf>
+		<id>817535</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The World Wide Telescope: An Archetype for Online Science</title>
+		<year>2004</year>
+		<authors>Jim Gray,Alexander S. Szalay</authors>
+		<jconf>CoRR</jconf>
+		<id>817536</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte Astronomical Archive from Object to Relational DBMS</title>
+		<year>2004</year>
+		<authors>Aniruddha R. Thakar,Alexander S. Szalay,Peter Z. Kunszt,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>817537</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Quick Look at SATA Disk Performance</title>
+		<year>2004</year>
+		<authors>Tom Barclay,Wyman Chong,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>817538</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Revolution In Database System Architecture</title>
+		<year>2004</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>817550</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>There Goes the Neighborhood: Relational Algebra for Spatial Data Search</title>
+		<year>2004</year>
+		<authors>Jim Gray,Alexander S. Szalay,Aniruddha R. Thakar,Gyorgy Fekete,William O'Mullane,Maria A. Nieto-Santisteban,Gerd Heber,Arnold H. Rots</authors>
+		<jconf>CoRR</jconf>
+		<id>817551</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance / Price Sort</title>
+		<year>1998</year>
+		<authors>Jim Gray,Joshua Coates,Chris Nyberg</authors>
+		<jconf>CoRR</jconf>
+		<id>817560</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb</title>
+		<year>1998</year>
+		<authors>Jim Gray,Goetz Graefe</authors>
+		<jconf>CoRR</jconf>
+		<id>817561</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Microsoft TerraServer</title>
+		<year>1998</year>
+		<authors>Tom Barclay,Robert Eberl,Jim Gray,John Nordlinger,Guru Raghavendran,Donald R. Slutz,Greg Smith,Phil Smoot,John Hoffman,Natt Robb III,Hedy Rossmeissl,Beth Duff,George Lee,Theresa Mathesmier,Randall Sunne</authors>
+		<jconf>CoRR</jconf>
+		<id>817562</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Asilomar Report on Database Research</title>
+		<year>1998</year>
+		<authors>Philip A. Bernstein,Michael L. Brodie,Stefano Ceri,David J. DeWitt,Michael J. Franklin,Hector Garcia-Molina,Jim Gray,Gerald Held,Joseph M. Hellerstein,H. V. Jagadish,Michael Lesk,David Maier,Jeffrey F. Naughton,Hamid Pirahesh,Michael Stonebraker,Jeffrey D. Ullman</authors>
+		<jconf>CoRR</jconf>
+		<id>817565</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey</title>
+		<year>1999</year>
+		<authors>Alexander S. Szalay,Peter Z. Kunszt,Ani Thakar,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>817567</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Microsoft TerraServer: A Spatial Data Warehouse</title>
+		<year>1999</year>
+		<authors>Tom Barclay,Jim Gray,Donald R. Slutz</authors>
+		<jconf>CoRR</jconf>
+		<id>817568</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Services for the Virtual Observatory</title>
+		<year>2002</year>
+		<authors>Alexander S. Szalay,Tamas Budavari,Tanu Malik,Jim Gray,Ani Thakar</authors>
+		<jconf>CoRR</jconf>
+		<id>817635</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Consensus on Transaction Commit</title>
+		<year>2004</year>
+		<authors>Jim Gray,Leslie Lamport</authors>
+		<jconf>CoRR</jconf>
+		<id>817774</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The SDSS SkyServer, Public Access to the Sloan Digital Sky Server Data</title>
+		<year>2001</year>
+		<authors>Alexander S. Szalay,Jim Gray,Ani Thakar,Peter Z. Kunszt,Tanu Malik,Jordan Raddick,Christopher Stoughton,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>817810</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The SDSS SkyServer: Public Access to the Sloan Digital Sky Server Data</title>
+		<year>2002</year>
+		<authors>Alexander S. Szalay,Jim Gray,Ani Thakar,Peter Z. Kunszt,Tanu Malik,Jordan Raddick,Christopher Stoughton,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>817814</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TerraService.NET: An Introduction to Web Services</title>
+		<year>2002</year>
+		<authors>Tom Barclay,Jim Gray,Eric Strand,Steve Ekblad,Jeffrey Richter</authors>
+		<jconf>CoRR</jconf>
+		<id>817816</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Scientific Data Curation, Publication, and Archiving</title>
+		<year>2002</year>
+		<authors>Jim Gray,Alexander S. Szalay,Ani Thakar,Christopher Stoughton,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>817817</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Revolution Yet to Happen</title>
+		<year>1998</year>
+		<authors>Gordon Bell,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>818108</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What Next? A Dozen Information-Technology Research Goals</title>
+		<year>1999</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>818110</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TeraScale SneakerNet: Using Inexpensive Disks for Backup, Archiving, and Data Exchange</title>
+		<year>2002</year>
+		<authors>Jim Gray,Wyman Chong,Tom Barclay,Alexander S. Szalay,Jan vandenBerg</authors>
+		<jconf>CoRR</jconf>
+		<id>818825</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Computing Economics</title>
+		<year>2004</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>818865</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals</title>
+		<year>2007</year>
+		<authors>Jim Gray,Surajit Chaudhuri,Adam Bosworth,Andrew Layman,Don Reichart,Murali Venkatrao,Frank Pellow,Hamid Pirahesh</authors>
+		<jconf>CoRR</jconf>
+		<id>819855</id>
+		<label>1</label>
+		<organization>Microsoft Corp., Redmond, WA</organization>
+	</publication>
+	<publication>
+		<title>Data Management: Past, Present, and Future</title>
+		<year>2007</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819856</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Critique of ANSI SQL Isolation Levels</title>
+		<year>2007</year>
+		<authors>Hal Berenson,Philip A. Bernstein,Jim Gray,Jim Melton,Elizabeth J. O'Neil,Patrick E. O'Neil</authors>
+		<jconf>CoRR</jconf>
+		<id>819857</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Queues Are Databases</title>
+		<year>2007</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819858</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting Finite Element Analysis with a Relational Database Backend, Part I: There is Life beyond Files</title>
+		<year>2007</year>
+		<authors>Gerd Heber,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819859</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting Finite Element Analysis with a Relational Database Backend, Part II: Database Design and Access</title>
+		<year>2007</year>
+		<authors>Gerd Heber,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819860</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Thousands of DebitCredit Transactions-Per-Second: Easy and Inexpensive</title>
+		<year>2007</year>
+		<authors>Jim Gray,Charles Levine</authors>
+		<jconf>CoRR</jconf>
+		<id>819861</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Measure of Transaction Processing 20 Years Later</title>
+		<year>2007</year>
+		<authors>Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819862</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Table Valued Functions in SQL Server 2005 To Implement a Spatial Data Library</title>
+		<year>2007</year>
+		<authors>Jim Gray,Alexander S. Szalay,Gyorgy Fekete</authors>
+		<jconf>CoRR</jconf>
+		<id>819863</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Indexing the Sphere with the Hierarchical Triangular Mesh</title>
+		<year>2007</year>
+		<authors>Alexander S. Szalay,Jim Gray,George Fekete,Peter Z. Kunszt,Peter Kukol,Ani Thakar</authors>
+		<jconf>CoRR</jconf>
+		<id>819864</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Petascale Computational Systems</title>
+		<year>2007</year>
+		<authors>Gordon Bell,Jim Gray,Alexander S. Szalay</authors>
+		<jconf>CoRR</jconf>
+		<id>819865</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>Empirical Measurements of Disk Failure Rates and Error Rates</title>
+		<year>2007</year>
+		<authors>Jim Gray,Catharine van Ingen</authors>
+		<jconf>CoRR</jconf>
+		<id>819866</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large-Scale Query and XMatch, Entering the Parallel Zone</title>
+		<year>2007</year>
+		<authors>Maria A. Nieto-Santisteban,Aniruddha R. Thakar,Alexander S. Szalay,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819867</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem?</title>
+		<year>2007</year>
+		<authors>Russell Sears,Catharine van Ingen,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>819868</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Life Under Your Feet: An End-to-End Soil Ecology Sensor Network, Database, Web Server, and Analysis Service</title>
+		<year>2007</year>
+		<authors>Katalin Szlavecz,Andreas Terzis,Stuart Ozer,Razvan Musaloiu-Elefteri,Joshua Cogan,Sam Small,Randal C. Burns,Jim Gray,Alexander S. Szalay</authors>
+		<jconf>CoRR</jconf>
+		<id>819870</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Zones Algorithm for Finding Points-Near-a-Point or Cross-Matching Spatial Datasets</title>
+		<year>2007</year>
+		<authors>Jim Gray,Maria A. Nieto-Santisteban,Alexander S. Szalay</authors>
+		<jconf>CoRR</jconf>
+		<id>819871</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cross-Matching Multiple Spatial Observations and Dealing with Missing Data</title>
+		<year>2007</year>
+		<authors>Jim Gray,Alexander S. Szalay,Tamas Budavari,Robert Lupton,Maria A. Nieto-Santisteban,Ani Thakar</authors>
+		<jconf>CoRR</jconf>
+		<id>819872</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SkyServer Traffic Report - The First Five Years</title>
+		<year>2007</year>
+		<authors>Vik Singh,Jim Gray,Ani Thakar,Alexander S. Szalay,Jordan Raddick,Bill Boroski,Svetlana Lebedeva,Brian Yanny</authors>
+		<jconf>CoRR</jconf>
+		<id>819873</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scientific Data Management in the Coming Decade</title>
+		<year>2005</year>
+		<authors>Jim Gray,David T. Liu,Maria A. Nieto-Santisteban,Alexander S. Szalay,David J. DeWitt,Gerd Heber</authors>
+		<jconf>CoRR</jconf>
+		<id>822162</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Considerations for Gigabyte per Second Transcontinental Disk-to-Disk File Transfers</title>
+		<year>2005</year>
+		<authors>Peter Kukol,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>822163</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TerraServer SAN-Cluster Architecture and Operations Experience</title>
+		<year>2005</year>
+		<authors>Tom Barclay,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>822164</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science</title>
+		<year>2005</year>
+		<authors>Jim Gray,Alexander S. Szalay</authors>
+		<jconf>CoRR</jconf>
+		<id>822165</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sequential File Programming Patterns and Performance with .NET</title>
+		<year>2005</year>
+		<authors>Peter Kukol,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>822166</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>When Database Systems Meet the Grid</title>
+		<year>2005</year>
+		<authors>Maria A. Nieto-Santisteban,Alexander S. Szalay,Aniruddha R. Thakar,William O'Mullane,Jim Gray,James Annis</authors>
+		<jconf>CoRR</jconf>
+		<id>822172</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Batch is back: CasJobs, serving multi-TB data on the Web</title>
+		<year>2005</year>
+		<authors>William O'Mullane,Nolan Li,Maria A. Nieto-Santisteban,Alexander S. Szalay,Ani Thakar,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>822226</id>
+		<label>1</label>
+		<organization>Johns Hopkins Univ., USA</organization>
+	</publication>
+	<publication>
+		<title>Designing a Multi-petabyte Database for LSST</title>
+		<year>2006</year>
+		<authors>Jacek Becla,Andrew Hanushevsky,Sergei Nikolaev,Ghaleb Abdulla,Alexander S. Szalay,Maria A. Nieto-Santisteban,Ani Thakar,Jim Gray</authors>
+		<jconf>CoRR</jconf>
+		<id>822474</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Recovery Manager of the System R Database Manager</title>
+		<year>1981</year>
+		<authors>Jim Gray,Paul R. McJones,Mike W. Blasgen,Bruce G. Lindsay,Raymond A. Lorie,Thomas G. Price,Gianfranco R. Putzolu,Irving L. Traiger</authors>
+		<jconf>ACM Comput. Surv.</jconf>
+		<id>832561</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals</title>
+		<year>1997</year>
+		<authors>Jim Gray,Surajit Chaudhuri,Adam Bosworth,Andrew Layman,Don Reichart,Murali Venkatrao,Frank Pellow,Hamid Pirahesh</authors>
+		<jconf>Data Min. Knowl. Discov.</jconf>
+		<id>839619</id>
+		<label>1</label>
+		<organization>Microsoft Corp., Redmond, WA</organization>
+	</publication>
+	<publication>
+		<title>Transaction Acceleration</title>
+		<year>1985</year>
+		<authors>Timothy C. K. Chou,Jim Gray</authors>
+		<jconf>IEEE Database Eng. Bull.</jconf>
+		<id>844438</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A 'Measure of Transaction Processing' 20 Years Later</title>
+		<year>2005</year>
+		<authors>Jim Gray</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>844613</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science</title>
+		<year>2004</year>
+		<authors>Jim Gray,Alexander S. Szalay</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>844615</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What Next? A Few Remaining Problems in Information Technlogy, SIGMOD Conference 1999, ACM Turing Award Lecture, Video</title>
+		<year>2000</year>
+		<authors>Jim Gray</authors>
+		<jconf>ACM SIGMOD Digital Symposium Collection</jconf>
+		<id>845478</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Review - Benchmarking Database Systems A Systematic Approach</title>
+		<year>1999</year>
+		<authors>Jim Gray</authors>
+		<jconf>ACM SIGMOD Digital Review</jconf>
+		<id>856314</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Theory of Sequential Relations</title>
+		<year>1966</year>
+		<authors>Jim Gray,Michael A. Harrison</authors>
+		<jconf>Information and Control</jconf>
+		<id>888067</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two-Way Pushdown Automata</title>
+		<year>1967</year>
+		<authors>Jim Gray,Michael A. Harrison,Oscar H. Ibarra</authors>
+		<jconf>Information and Control</jconf>
+		<id>888068</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>System R: An Architectural Overview</title>
+		<year>1981</year>
+		<authors>Mike W. Blasgen,Morton M. Astrahan,Donald D. Chamberlin,Jim Gray,W. Frank King III,Bruce G. Lindsay,Raymond A. Lorie,James W. Mehl,Thomas G. Price,Gianfranco R. Putzolu,Mario Schkolnick,Patricia G. Selinger,Donald R. Slutz,H. Raymond Strong,Irving L. Traiger,Bradford W. Wade,Robert A. Yost</authors>
+		<jconf>IBM Systems Journal</jconf>
+		<id>891747</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>System R: An Architectural Overview</title>
+		<year>1999</year>
+		<authors>Mike W. Blasgen,Morton M. Astrahan,Donald D. Chamberlin,Jim Gray,W. Frank King III,Bruce G. Lindsay,Raymond A. Lorie,James W. Mehl,Thomas G. Price,Gianfranco R. Putzolu,Mario Schkolnick,Patricia G. Selinger,Donald R. Slutz,H. Raymond Strong,Irving L. Traiger,Bradford W. Wade,Robert A. Yost</authors>
+		<jconf>IBM Systems Journal</jconf>
+		<id>891750</id>
+		<label>1</label>
+		<organization>IBM at 10215 Fernwood Road, Bethesda, MD 20034, USA</organization>
+	</publication>
+	<publication>
+		<title>Designing and Building TerraService</title>
+		<year>2006</year>
+		<authors>Tom Barclay,Jim Gray,Steve Ekblad,Eric Strand,Jeffrey Richter</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<id>929341</id>
+		<label>1</label>
+		<organization>Microsoft</organization>
+	</publication>
+	<publication>
+		<title>What next?: A dozen information-technology research goals</title>
+		<year>2003</year>
+		<authors>Jim Gray</authors>
+		<jconf>J. ACM</jconf>
+		<id>950518</id>
+		<label>1</label>
+		<organization>Microsoft Research, San Francisco, California</organization>
+	</publication>
+	<publication>
+		<title>On the Covering and Reduction Problems for Context-Free Grammars</title>
+		<year>1972</year>
+		<authors>Jim Gray,Michael A. Harrison</authors>
+		<jconf>J. ACM</jconf>
+		<id>950520</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Canonical Precedence Schemes</title>
+		<year>1973</year>
+		<authors>Jim Gray,Michael A. Harrison</authors>
+		<jconf>J. ACM</jconf>
+		<id>950521</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Infinite Linear Sequential Machines</title>
+		<year>1968</year>
+		<authors>Herve Gallaire,Jim Gray,Michael A. Harrison,Gabor T. Herman</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971987</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A conversation with Tim Bray</title>
+		<year>2005</year>
+		<authors>Jim Gray</authors>
+		<jconf>ACM Queue</jconf>
+		<id>1048746</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A call to arms</title>
+		<year>2005</year>
+		<authors>Jim Gray,Mark Compton</authors>
+		<jconf>ACM Queue</jconf>
+		<id>1048748</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Loading Databases Using Dataflow Parallelism</title>
+		<year>1994</year>
+		<authors>Tom Barclay,Robert Barnes,Jim Gray,Prakash Sundaresan</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064531</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Asilomar Report on Database Research</title>
+		<year>1998</year>
+		<authors>Philip A. Bernstein,Michael L. Brodie,Stefano Ceri,David J. DeWitt,Michael J. Franklin,Hector Garcia-Molina,Jim Gray,Gerald Held,Joseph M. Hellerstein,H. V. Jagadish,Michael Lesk,David Maier,Jeffrey F. Naughton,Hamid Pirahesh,Michael Stonebraker,Jeffrey D. Ullman</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064679</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Future Directions in DBMS Research - The Laguna Beach Participants</title>
+		<year>1989</year>
+		<authors>Philip A. Bernstein,Umeshwar Dayal,David J. DeWitt,Dieter Gawlick,Jim Gray,Matthias Jarke,Bruce G. Lindsay,Peter C. Lockemann,David Maier,Erich J. Neuhold,Andreas Reuter,Lawrence A. Rowe,Hans-Jorg Schek,Joachim W. Schmidt,Michael Schrefl,Michael Stonebraker</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064680</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Database Systems: The Future of Database Processing or a Passing Fad?</title>
+		<year>1990</year>
+		<authors>David J. DeWitt,Jim Gray</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064875</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb</title>
+		<year>1997</year>
+		<authors>Jim Gray,Goetz Graefe</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1065061</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scientific data management in the coming decade</title>
+		<year>2005</year>
+		<authors>Jim Gray,David T. Liu,Maria A. Nieto-Santisteban,Alexander S. Szalay,David J. DeWitt,Gerd Heber</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1065063</id>
+		<label>1</label>
+		<organization>Microsoft</organization>
+	</publication>
+	<publication>
+		<title>Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function</title>
+		<year>1990</year>
+		<authors>Michael Stonebraker,Lawrence A. Rowe,Bruce G. Lindsay,Jim Gray,Michael J. Carey,Michael L. Brodie,Philip A. Bernstein,David Beech</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1065693</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Convoy Phenomenon</title>
+		<year>1979</year>
+		<authors>Mike W. Blasgen,Jim Gray,Michael F. Mitoma,Thomas G. Price</authors>
+		<jconf>Operating Systems Review</jconf>
+		<id>1066145</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Increasing the Effectiveness of OS Research</title>
+		<year>1992</year>
+		<authors>Jim Gray</authors>
+		<jconf>Operating Systems Review</jconf>
+		<id>1066315</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>System R: Relational Approach to Database Management</title>
+		<year>1976</year>
+		<authors>Morton M. Astrahan,Mike W. Blasgen,Donald D. Chamberlin,Kapali P. Eswaran,Jim Gray,Patricia P. Griffiths,W. Frank King III,Raymond A. Lorie,Paul R. McJones,James W. Mehl,Gianfranco R. Putzolu,Irving L. Traiger,Bradford W. Wade,Vera Watson</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118209</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Consensus on transaction commit</title>
+		<year>2006</year>
+		<authors>Jim Gray,Leslie Lamport</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118425</id>
+		<label>1</label>
+		<organization>Microsoft Research, San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>Transactions and Consistency in Distributed Database Systems</title>
+		<year>1982</year>
+		<authors>Irving L. Traiger,Jim Gray,Cesare A. Galtieri,Bruce G. Lindsay</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118715</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Decentralized Computer Systems</title>
+		<year>1986</year>
+		<authors>Jim Gray</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1128267</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AlphaSort: A Cache-Sensitive Parallel External Sort</title>
+		<year>1995</year>
+		<authors>Chris Nyberg,Tom Barclay,Zarka Cvetanovic,Jim Gray,David B. Lomet</authors>
+		<jconf>VLDB J.</jconf>
+		<id>1138239</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Management in the Worldwide Sensor Web</title>
+		<year>2007</year>
+		<authors>Magdalena Balazinska,Amol Deshpande,Michael J. Franklin,Phillip B. Gibbons,Jim Gray,Mark H. Hansen,Michael Liebhold,Suman Nath,Alexander S. Szalay,Vincent Tao</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<id>1179249</id>
+		<label>1</label>
+		<organization>Washington Univ., St. Louis, MO</organization>
+	</publication>
+	<publication>
+		<title>A Shared Segment and Interprocess Communication Facility for VM/370</title>
+		<year>1975</year>
+		<authors>Jim Gray,Vera Watson</authors>
+		<jconf>IBM Research Report</jconf>
+		<id>1196557</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transactions and Consistency in Distributed Database Systems</title>
+		<year>1979</year>
+		<authors>Irving L. Traiger,Jim Gray,Cesare A. Galtieri,Bruce G. Lindsay</authors>
+		<jconf>IBM Research Report</jconf>
+		<id>1196564</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (1st Edition)</title>
+		<year>1991</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>1203997</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (2nd Edition)</title>
+		<year>1993</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>1203998</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transaction Processing: Concepts and Techniques</title>
+		<year>1993</year>
+		<authors>Jim Gray,Andreas Reuter</authors>
+		<jconf>null</jconf>
+		<id>1203999</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flash Disk Opportunity for Server Applications</title>
+		<year>2008</year>
+		<authors>Jim Gray,Bob Fitzgerald</authors>
+		<jconf>ACM Queue</jconf>
+		<id>1227155</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Computing Economics</title>
+		<year>2008</year>
+		<authors>Jim Gray</authors>
+		<jconf>ACM Queue</jconf>
+		<id>1227187</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (1st Edition)</title>
+		<year>1991</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>1235303</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Benchmark Handbook for Database and Transaction Systems (2nd Edition)</title>
+		<year>1993</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>1235304</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transaction Processing: Concepts and Techniques</title>
+		<year>1993</year>
+		<authors>Jim Gray,Andreas Reuter</authors>
+		<jconf>null</jconf>
+		<id>1235305</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The sqlLoader Data-Loading Pipeline</title>
+		<year>2008</year>
+		<authors>Alexander S. Szalay,Ani R. Thakar,Jim Gray</authors>
+		<jconf>Computing in Science and Engineering</jconf>
+		<id>1269959</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>The Catalog Archive Server Database Management System</title>
+		<year>2008</year>
+		<authors>Ani R. Thakar,Alexander S. Szalay,George Fekete,Jim Gray</authors>
+		<jconf>Computing in Science and Engineering</jconf>
+		<id>1269994</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>The Lowell database research self-assessment</title>
+		<year>2005</year>
+		<authors>Serge Abiteboul,Rakesh Agrawal,Phil Bernstein,Mike Carey,Stefano Ceri,Bruce Croft,David DeWitt,Mike Franklin,Hector Garcia Molina,Dieter Gawlick,Jim Gray,Laura Haas,Alon Halevy,Joe Hellerstein,Yannis Ioannidis,Martin Kersten,Michael Pazzani,Mike Lesk,David Maier,Jeff Naughton,Hans Schek,Timos Sellis,Avi Silberschatz,Mike Stonebraker,Rick Snodgrass,Jeff Ullman,Gerhard Weikum,Jennifer Widom,Stan Zdonik</authors>
+		<jconf>Communications of the ACM</jconf>
+		<id>1412437</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The transaction concept: virtues and limitations</title>
+		<year>1988</year>
+		<authors>Jim Gray</authors>
+		<jconf>Readings in database systems</jconf>
+		<id>1441129</id>
+		<label>1</label>
+		<organization>Tandem Computers Inc., Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>The 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for CPU time</title>
+		<year>1987</year>
+		<authors>Jim Gray,Franco Putzolu</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1469234</id>
+		<label>1</label>
+		<organization>Tandem Computers, Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Transaction Processing: Concepts and Techniques, 1st edition</title>
+		<year>1992</year>
+		<authors>Jim Gray,Andreas Reuter</authors>
+		<jconf>null</jconf>
+		<id>1534524</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Asilomar report on database research</title>
+		<year>1998</year>
+		<authors>Phil Bernstein,Michael Brodie,Stefano Ceri,David DeWitt,Mike Franklin,Hector Garcia-Molina,Jim Gray,Jerry Held,Joe Hellerstein,H. V. Jagadish,Michael Lesk,Dave Maier,Jeff Naughton,Hamid Pirahesh,Mike Stonebraker,Jeff Ullman</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1544088</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AlphaSort: a cache-sensitive parallel external sort</title>
+		<year>1998</year>
+		<authors>Chris Nyberg,Tom Barclay,Zarka Cvetanovic,Jim Gray,Dave Lomet</authors>
+		<jconf>Readings in database systems (3rd ed.)</jconf>
+		<id>1545278</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel database systems: the future of high performance database systems</title>
+		<year>1998</year>
+		<authors>David DeWitt,Jim Gray</authors>
+		<jconf>Readings in database systems (3rd ed.)</jconf>
+		<id>1545539</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Cube: a relational aggregation operator generalizing group-by, cross-tab, and sub-totals</title>
+		<year>1998</year>
+		<authors>Jim Gray,Surajit Chaudhuri,Adam Bosworth,Andrew Layman,Don Reichart,Murali Venkatrao,Frank Pellow,Hamid Pirahesh</authors>
+		<jconf>Readings in database systems (3rd ed.)</jconf>
+		<id>1548510</id>
+		<label>1</label>
+		<organization>Microsoft Corp., Redmond, WA</organization>
+	</publication>
+	<publication>
+		<title>Microsoft TerraServer: a spatial data warehouse</title>
+		<year>2000</year>
+		<authors>Tom Barclay,Jim Gray,Don Slutz</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1551876</id>
+		<label>1</label>
+		<organization>Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>The dangers of replication and a solution</title>
+		<year>1998</year>
+		<authors>Jim Gray,Pat Helland,Patrick O'Neil,Dennis Shasha</authors>
+		<jconf>Readings in database systems (3rd ed.)</jconf>
+		<id>1553770</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Third-generation database system manifesto</title>
+		<year>1990</year>
+		<authors>Michael Stonebraker,Lawrence A. Rowe,Bruce G. Lindsay,Jim Gray,Michael J. Carey,Michael L. Brodie,Philip A. Bernstein,David Beech</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1574840</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Recovery Manager of the System R Database Manager</title>
+		<year>1981</year>
+		<authors>Jim Gray,Paul McJones,Mike Blasgen,Bruce Lindsay,Raymond Lorie,Tom Price,Franco Putzolu,Irving Traiger</authors>
+		<jconf>ACM Computing Surveys (CSUR)</jconf>
+		<id>1574963</id>
+		<label>1</label>
+		<organization>Tandem Computers, 19333 Vallco Parkway, Cupertino, California</organization>
+	</publication>
+	<publication>
+		<title>Storage Service Providers: a Solution for Storage Management? (Panel)</title>
+		<year>2001</year>
+		<authors>Banu Özden,Eran Gabber,Bruce Hillyer,Wee Teck Ng,Elizabeth A. M. Shriver,David J. DeWitt,Bruce Gordon,Jim Gray,John Wilkes</authors>
+		<jconf>Proceedings of the 27th International Conference on Very Large Data Bases</jconf>
+		<id>1589364</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A performance study of sequential I/O on windows NTTM4</title>
+		<year>1998</year>
+		<authors>Erik Riedel,Catharine van Ingen,Jim Gray</authors>
+		<jconf>Proceedings of the 2nd conference on USENIX Windows NT Symposium - Volume 2</jconf>
+		<id>1607878</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>Parity striping of disc arrays: low-cost reliable storage with acceptable throughput</title>
+		<year>1990</year>
+		<authors>Jim Gray,Bob Horst,Mark Walker</authors>
+		<jconf>Proceedings of the sixteenth international conference on Very large databases</jconf>
+		<id>1630476</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comparison of the Byzantine agreement problem and the transaction commit problem</title>
+		<year>1990</year>
+		<authors>J. Gray</authors>
+		<jconf>Fault-Tolerant Distributed Computing</jconf>
+		<id>1666800</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A critique of ANSI SQL isolation levels</title>
+		<year>1995</year>
+		<authors>Hal Berenson,Phil Bernstein,Jim Gray,Jim Melton,Elizabeth O'Neil</authors>
+		<jconf>Proceedings of the 1995 ACM SIGMOD international conference on Management of data</jconf>
+		<id>1709412</id>
+		<label>1</label>
+		<organization>U.C. Berkeley</organization>
+	</publication>
+	<publication>
+		<title>Benchmark Handbook: For Database and Transaction Processing Systems</title>
+		<year>1992</year>
+		<authors>Jim Gray</authors>
+		<jconf>null</jconf>
+		<id>1735595</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+</person>

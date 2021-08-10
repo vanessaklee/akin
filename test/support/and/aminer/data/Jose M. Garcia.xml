@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>1398618</personID>
+	<FullName>Jose M. García</FullName>
+	<FirstName>Jose</FirstName>
+	<LastName>M.</LastName>
+	<publication>
+		<title>The Use of Prediction for Accelerating Upgrade Misses in cc-NUMA Multiprocessors</title>
+		<year>2002</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IEEE PACT</jconf>
+		<id>9591</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Evaluation of Parallel Computing in PC Clusters with Fast Ethernet</title>
+		<year>1999</year>
+		<authors>Manuel E. Acacio,Oscar Canovas Reverte,Jose M. Garcia,Pedro E. Lopez-de-Teruel</authors>
+		<jconf>ACPC</jconf>
+		<id>23548</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Congestion Control for High Performance Virtual Cut-through Networks</title>
+		<year>2003</year>
+		<authors>Lorenzo Fernandez,Jose M. Garcia</authors>
+		<jconf>Applied Informatics</jconf>
+		<id>46131</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable Directory Organization for Tiled CMP Architectures</title>
+		<year>2008</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>CDES</jconf>
+		<id>84680</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient cache design for scalable glueless shared-memory multiprocessors</title>
+		<year>2006</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>Conf. Computing Frontiers</jconf>
+		<id>85495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive VP decay: making value predictors leakage-efficient designs for high performance processors</title>
+		<year>2007</year>
+		<authors>Juan M. Cebrian,Juan L. Aragon,Jose M. Garcia,Stefanos Kaxiras</authors>
+		<jconf>Conf. Computing Frontiers</jconf>
+		<id>85596</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A fault-tolerant directory-based cache coherence protocol for CMP architectures</title>
+		<year>2008</year>
+		<authors>Ricardo Fernandez Pascual,Jose M. Garcia,Manuel E. Acacio,Jose Duato</authors>
+		<jconf>DSN</jconf>
+		<id>162106</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a Grid-Enabled Component Container for CORBA Lightweight Components</title>
+		<year>2003</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>European Across Grids Conference</jconf>
+		<id>164039</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory Conscious 3D Wavelet Transform</title>
+		<year>2002</year>
+		<authors>Gregorio Bernabe,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>EUROMICRO</jconf>
+		<id>194648</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Improve the Performance of Interconnection Networks with Hot - Spots</title>
+		<year>1996</year>
+		<authors>Jose M. Garcia,A. Flores</authors>
+		<jconf>EUROMICRO</jconf>
+		<id>194871</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Deadlock Frequency during Dynamic Reconfiguration in NOWs</title>
+		<year>2001</year>
+		<authors>Lorenzo Fernandez,Jose M. Garcia,Rafael Casado</authors>
+		<jconf>Euro-Par</jconf>
+		<id>196417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Lightweight Directory Architecture for Scalable Shared-Memory Multiprocessors</title>
+		<year>2005</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>Euro-Par</jconf>
+		<id>197326</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CORBA Lightweight Components : A Model for Distributed Component-BasedHeterogeneous Computation</title>
+		<year>2001</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>Euro-Par</jconf>
+		<id>197398</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Confidence Estimation for Branch Prediction Reversal</title>
+		<year>2001</year>
+		<authors>Juan L. Aragon,Jose Gonzalez,Jose M. Garcia,Antonio Gonzalez</authors>
+		<jconf>HiPC</jconf>
+		<id>250856</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of Real-Time Communication Services on High-Speed LANs under Topology Changes</title>
+		<year>2001</year>
+		<authors>Juan Fernandez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>HiPC</jconf>
+		<id>250883</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Directory-Based Conflict Detection in Hardware Transactional Memory</title>
+		<year>2008</year>
+		<authors>J. Ruben Titos Gil,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>HiPC</jconf>
+		<id>251271</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Direct Coherence: Bringing Together Performance and Scalability in Shared-Memory Multiprocessors</title>
+		<year>2007</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>HiPC</jconf>
+		<id>251320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault-Tolerant Cache Coherence Protocols for CMPs: Evaluation and Trade-Offs</title>
+		<year>2008</year>
+		<authors>Ricardo Fernandez Pascual,Jose M. Garcia,Manuel E. Acacio,Jose Duato</authors>
+		<jconf>HiPC</jconf>
+		<id>251358</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of GRASP and an Exact Method for Solving a Production and Delivery Scheduling Problem</title>
+		<year>2001</year>
+		<authors>Jose M. Garcia,Kate A. Smith,Sebastian Lozano,Fernando Guerrero</authors>
+		<jconf>HIS</jconf>
+		<id>251514</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Scalable Directory Architecture for Large-Scale Multiprocessors</title>
+		<year>2001</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>HPCA</jconf>
+		<id>252661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Low Overhead Fault Tolerant Coherence Protocol for CMP Architectures</title>
+		<year>2007</year>
+		<authors>Ricardo Fernandez Pascual,Jose M. Garcia,Manuel E. Acacio,Jose Duato</authors>
+		<jconf>HPCA</jconf>
+		<id>253039</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory Subsystem Characterization in a 16-Core Snoop-Based Chip-Multiprocessor Architecture</title>
+		<year>2005</year>
+		<authors>Francisco J. Villa,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>HPCC</jconf>
+		<id>253339</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Solving a Production and Delivery Scheduling Problem with Time Windows</title>
+		<year>2002</year>
+		<authors>Jose M. Garcia,Sebastian Lozano,Fernando Guerrero,Ignacio Eguia</authors>
+		<jconf>IBERAMIA</jconf>
+		<id>261995</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Viral System to Solve Optimization Problems: An Immune-Inspired Computational Intelligence Approach</title>
+		<year>2008</year>
+		<authors>Pablo Cortes,Jose M. Garcia,Luis Onieva,Jesus Munuzuri,Jose Guadix</authors>
+		<jconf>ICARIS</jconf>
+		<id>273469</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Evaluation of x86 Web Servers Using Simics: Limitations and Trade-Offs</title>
+		<year>2004</year>
+		<authors>Francisco J. Villa,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<id>280373</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selective Branch Prediction Reversal By Correlating with Data Values and Control Flow</title>
+		<year>2001</year>
+		<authors>Juan L. Aragon,Jose Gonzalez,Jose M. Garcia,Antonio Gonzalez</authors>
+		<jconf>ICCD</jconf>
+		<id>285750</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation Requirements for CORBA Lightweight Components</title>
+		<year>2001</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>ICPP Workshops</jconf>
+		<id>345607</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Parallel Algorithm for Tracking of Segments in Noisy Edge Images</title>
+		<year>2000</year>
+		<authors>Pedro E. Lopez-de-Teruel,Alberto Ruiz,Jose M. Garcia</authors>
+		<jconf>ICPR</jconf>
+		<id>347778</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DualFS: a new journaling file system without meta-data duplication</title>
+		<year>2002</year>
+		<authors>Juan Piernas,Toni Cortes,Jose M. Garcia</authors>
+		<jconf>ICS</jconf>
+		<id>360562</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Extraction of Colored Segments for Robot Visual Navigation</title>
+		<year>2003</year>
+		<authors>Pedro E. Lopez-de-Teruel,Alberto Ruiz,Gines Garcia-Mateos,Jose M. Garcia</authors>
+		<jconf>ICVS</jconf>
+		<id>368860</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Reduce L2 Miss Latency in Shared-Memory Multiprocessors</title>
+		<year>2002</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IPDPS</jconf>
+		<id>407893</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Approach to Provide Real-Time Services on High-Speed Local Area Networks</title>
+		<year>2001</year>
+		<authors>Joaquin Fernandez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IPDPS</jconf>
+		<id>408893</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>P-EDR: An Algorithm for Parallel Implementation of Parzen Density Estimation from Uncertain Observations</title>
+		<year>1999</year>
+		<authors>Pedro E. Lopez-de-Teruel,Jose M. Garcia,Manuel E. Acacio,Oscar Canovas Reverte</authors>
+		<jconf>IPPS/SPDP</jconf>
+		<id>409962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reconfigurable Wormhole Networks: A Realistic Approach</title>
+		<year>1998</year>
+		<authors>Jose L. Sanchez,Jose M. Garcia,Francisco Jose Alfaro</authors>
+		<jconf>IPPS/SPDP Workshops</jconf>
+		<id>410674</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Leakage Energy Reduction in Value Predictors through Static Decay</title>
+		<year>2007</year>
+		<authors>Juan M. Cebrian,Juan L. Aragon,Jose M. Garcia</authors>
+		<jconf>IPDPS</jconf>
+		<id>412049</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DiCo-CMP: Efficient cache coherency in tiled CMP architectures</title>
+		<year>2008</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>IPDPS</jconf>
+		<id>412710</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Evolutionary Algorithm for the Design of Hybrid Fiber Optic-Coaxial Cable Networks in Small Urban Areas</title>
+		<year>2001</year>
+		<authors>Pablo Cortes,Fernando Guerrero,David Canca,Jose M. Garcia</authors>
+		<jconf>IWANN (1)</jconf>
+		<id>462136</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CORBA Lightweight Compontents: An Early Report</title>
+		<year>2001</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>JISBD</jconf>
+		<id>470387</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Grid-aware Component-based development in CORBA Lightweight Components</title>
+		<year>2003</year>
+		<authors>Diego Sevilla,Jose A. Perez,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>JISBD</jconf>
+		<id>470389</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Performance of Real-Time Communication Services on High-Speed LANs under Topology Changes</title>
+		<year>2002</year>
+		<authors>J. Fernandez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>LCN</jconf>
+		<id>481749</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Aspect-Oriented Programing Techniques to support Distribution, Fault Tolerance, and Load Balancing in the CORBA-LC Component Model</title>
+		<year>2007</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio F. Gomez-Skarmeta</authors>
+		<jconf>NCA</jconf>
+		<id>512279</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Performance of Scientific Parallel Applications in a Cluster of Workstations</title>
+		<year>1998</year>
+		<authors>A. Flores,Jose M. Garcia</authors>
+		<jconf>PARA</jconf>
+		<id>528443</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PEPE: A Trace-Driven Simulator to Evaluate Reconfigurable Multicomputer Architectures</title>
+		<year>1996</year>
+		<authors>Jose M. Garcia,Jose L. Sanchez,Pascual Gonzalez</authors>
+		<jconf>PARA</jconf>
+		<id>528475</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Performance of Parallel Triangularization of a Sparse Matrix Using a Reconfigurable Multicomputer</title>
+		<year>1995</year>
+		<authors>Jose L. Sanchez,Jose M. Garcia,Joaquin Fernandez</authors>
+		<jconf>PARA</jconf>
+		<id>528661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using AOP to Automatically Provide Distribution, Fault Tolerance, and Load Balancing to the CORBA-LC Component Model</title>
+		<year>2007</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio Gomez</authors>
+		<jconf>PARCO</jconf>
+		<id>529464</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing the Latency of L2 Misses in Shared-Memory Multiprocessors through On-Chip Directory Integration</title>
+		<year>2002</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>PDP</jconf>
+		<id>534070</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing 3D Wavelet Transform Execution Time through the Streaming SIMD Extensions</title>
+		<year>2003</year>
+		<authors>Gregorio Bernabe,Jose M. Garcia,Jose Gonzalez</authors>
+		<jconf>PDP</jconf>
+		<id>534078</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing a 3D-FWT Video Encoder for SMPs and HyperThreading Architectures</title>
+		<year>2005</year>
+		<authors>Ricardo Fernandez,Jose M. Garcia,Gregorio Bernabe,Manuel E. Acacio</authors>
+		<jconf>PDP</jconf>
+		<id>534276</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Performance Evaluation of P-EDR in Different Parallel Environments</title>
+		<year>1999</year>
+		<authors>Manuel E. Acacio,Jose M. Garcia,Pedro E. Lopez-de-Teruel</authors>
+		<jconf>PDPTA</jconf>
+		<id>534967</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The MPI-Delphi Interface: A Visual Programming Environment for Clusters of Workstations</title>
+		<year>1999</year>
+		<authors>Manuel E. Acacio,Pedro E. Lopez-de-Teruel,Jose M. Garcia,Oscar Canovas Reverte</authors>
+		<jconf>PDPTA</jconf>
+		<id>534969</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Parallel EM Algorithm and its Applications in Computer Vision</title>
+		<year>1999</year>
+		<authors>Pedro E. Lopez-de-Teruel,Jose M. Garcia,Manuel E. Acacio</authors>
+		<jconf>PDPTA</jconf>
+		<id>536160</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cluster Computing Using MPI and Windows NT to Solve the Processing of Remotely Sensed Imagery</title>
+		<year>1999</year>
+		<authors>Jose A. Gallud,Jose M. Garcia,Jesus D. Garcia-Consuegra</authors>
+		<jconf>PVM/MPI</jconf>
+		<id>555916</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating the DIPORSI Framework: Distributed Processing of Remotely Sensed Imagery</title>
+		<year>2001</year>
+		<authors>Jose A. Gallud,Jesus D. Garcia-Consuegra,Jose M. Garcia,Luis Orozco-Barbosa</authors>
+		<jconf>PVM/MPI</jconf>
+		<id>555918</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Assessing MPI Performance on QsNetII</title>
+		<year>2005</year>
+		<authors>Pablo E. Garcia,Juan Fernandez,Fabrizio Petrini,Jose M. Garcia</authors>
+		<jconf>PVM/MPI</jconf>
+		<id>555924</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the Performance of MPI in a Cluster of Workstations Based on Fast Ethernet</title>
+		<year>1997</year>
+		<authors>Juan Piernas,A. Flores,Jose M. Garcia</authors>
+		<jconf>PVM/MPI</jconf>
+		<id>556170</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Evaluation of Dense Chip-Multiprocessor Architectures</title>
+		<year>2006</year>
+		<authors>Francisco J. Villa,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>ICSAMOS</jconf>
+		<id>572230</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Owner prediction for accelerating cache-to-cache transfer misses in a cc-NUMA architecture</title>
+		<year>2002</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>SC</jconf>
+		<id>574640</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Code Generation for Non-Funtional Aspects in the CORBA-LC Component Model</title>
+		<year>2006</year>
+		<authors>Diego Sevilla,Jose M. Garcia,Antonio Gomez</authors>
+		<jconf>ICUC</jconf>
+		<id>731235</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic algorithm for planning cable telecommunication networks</title>
+		<year>2001</year>
+		<authors>Pablo Cortes,Juan Larraneta,Luis Onieva,Jose M. Garcia,Maria S. Caraballo</authors>
+		<jconf>Appl. Soft Comput.</jconf>
+		<id>760349</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Viral systems: A new bio-inspired optimisation approach</title>
+		<year>2008</year>
+		<authors>Pablo Cortes,Jose M. Garcia,Jesus Munuzuri,Luis Onieva</authors>
+		<jconf>Computers  OR</jconf>
+		<id>814767</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MPI-Delphi: an MPI implementation for visual programming environments and heterogeneous computing</title>
+		<year>2002</year>
+		<authors>Manuel E. Acacio,Oscar Canovas Reverte,Jose M. Garcia,Pedro E. Lopez-de-Teruel</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>876610</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two proposals for the inclusion of directory information in the last-level private caches of glueless shared-memory multiprocessors</title>
+		<year>2008</year>
+		<authors>Alberto Ros,Ricardo Fernandez Pascual,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>990405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating IA-32 web servers through simics: a practical experience</title>
+		<year>2005</year>
+		<authors>Francisco J. Villa,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>Journal of Systems Architecture</jconf>
+		<id>990921</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient implementation of a 3D wavelet transform based encoder on hyper-threading technology</title>
+		<year>2007</year>
+		<authors>Gregorio Bernabe,Ricardo Fernandez,Jose M. Garcia,Manuel E. Acacio,Jose Gonzalez</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1035925</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Specification of a Generic Multicomputer Using Lotos</title>
+		<year>1995</year>
+		<authors>Jose A. Gallud,Jose M. Garcia</authors>
+		<jconf>SIGPLAN Notices</jconf>
+		<id>1067438</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design of New Journaling File Systems: The DualFS Case</title>
+		<year>2007</year>
+		<authors>Juan Piernas,Toni Cortes,Jose M. Garcia</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082895</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Architecture for High-Performance Scalable Shared-Memory Multiprocessors Exploiting On-Chip Integration</title>
+		<year>2004</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1124544</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Two-Level Directory Architecture for Highly Scalable cc-NUMA Multiprocessors</title>
+		<year>2005</year>
+		<authors>Manuel E. Acacio,Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1124546</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending the TokenCMP Cache Coherence Protocol for Low Overhead Fault Tolerance in CMP Architectures</title>
+		<year>2008</year>
+		<authors>Ricardo Fernandez Pascual,Jose M. Garcia,Manuel E. Acacio,Jose Duato</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126426</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing 3D Fast Wavelet Transform Execution Time Using Blocking and the Streaming SIMD Extensions</title>
+		<year>2005</year>
+		<authors>Gregorio Bernabe,Jose M. Garcia,Jose Gonzalez</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165487</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An algorithm for dynamic reconfiguration of a multicomputer network</title>
+		<year>1991</year>
+		<authors>Jose M. Garcia,Jose Duato</authors>
+		<jconf>SPDP</jconf>
+		<id>1214380</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A lossy 3D wavelet transform for high-quality compression of medical video</title>
+		<year>2009</year>
+		<authors>Gregorio Bernabe,Jose M. Garcia,Jose Gonzalez</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>1226212</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dealing with Traffic-Area Trade-Off in Direct Coherence Protocols for Many-Core CMPs</title>
+		<year>2009</year>
+		<authors>Alberto Ros,Manuel E. Acacio,Jose M. Garcia</authors>
+		<jconf>APPT</jconf>
+		<id>1237749</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>REPAS: Reliable Execution for Parallel ApplicationS in Tiled-CMPs</title>
+		<year>2009</year>
+		<authors>Daniel Sanchez,Juan L. Aragon,Jose M. Garcia</authors>
+		<jconf>Euro-Par</jconf>
+		<id>1243423</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient microarchitecture policies for accurately adapting to power constraints</title>
+		<year>2009</year>
+		<authors>Juan M. Cebrian,Juan L. Aragon,Jose M. Garcia,Pavlos Petoumenos,Stefanos Kaxiras</authors>
+		<jconf>IPDPS</jconf>
+		<id>1250347</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending SRT for parallel applications in tiled-CMP architectures</title>
+		<year>2009</year>
+		<authors>Daniel Sanchez,Juan L. Aragon,Jose M. Garcia</authors>
+		<jconf>IPDPS</jconf>
+		<id>1250366</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic reconfiguration of node location in wormhole networks</title>
+		<year>2000</year>
+		<authors>Jose L. Sanchez,Jose M. Garcia</authors>
+		<jconf>Journal of Systems Architecture</jconf>
+		<id>1277983</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Low Overhead Fault Tolerant Coherence Protocol for CMP Architectures</title>
+		<year>2007</year>
+		<authors>Ricardo Fernandez-Pascual,Jose M. Garcia,Manuel E. Acacio,Jose Duato</authors>
+		<jconf>Proceedings of the 2007 IEEE 13th International Symposium on High Performance Computer Architecture</jconf>
+		<id>1582110</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Architecture for High-Performance Scalable Shared-Memory Multiprocessors Exploiting On-Chip Integration</title>
+		<year>2004</year>
+		<authors>Manuel E. Acacio Jose Gonzalez,Jose M. Garcia,Jose Duato</authors>
+		<jconf>IEEE Transactions on Parallel and Distributed Systems</jconf>
+		<id>1614514</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementing P Systems Parallelism by Means of GPUs.</title>
+		<year>2009</year>
+		<authors>Jose M. Cecilia,José M. García,Ginés D. Guerrero,Miguel A. Martínez-del-Amor,Ignacio Pérez-Hurtado,Mario J. Pérez-Jiménez</authors>
+		<jconf>null</jconf>
+		<id>1321493</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A scalable organization for distributed directories</title>
+		<year>2010</year>
+		<authors>Alberto Ros,Manuel E. Acacio,José M. García</authors>
+		<jconf>Journal of Systems Architecture: the EUROMICRO Journal</jconf>
+		<id>1367267</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two proposals for the inclusion of directory information in the last-level private caches of glueless shared-memory multiprocessors</title>
+		<year>2008</year>
+		<authors>Alberto Ros,Ricardo Fernández-Pascual,Manuel E. Acacio,José M. García</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<id>1589941</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Extraction of Colored Segments for Robot Visual Navigation</title>
+		<year>2003</year>
+		<authors>Pedro E. Lopez-de-Teruel,Alberto Ruiz,Gines Garcia-Mateos,Jose M. Garcia</authors>
+		<jconf>ICVS</jconf>
+		<id>368860</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

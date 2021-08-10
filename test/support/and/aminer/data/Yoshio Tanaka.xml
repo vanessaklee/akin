@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>14595</personID>
+	<FullName>Yoshio Tanaka</FullName>
+	<FirstName>Yoshio</FirstName>
+	<LastName>Tanaka</LastName>
+	<publication>
+		<title>BAXSQL: A Functional MRI Data Management Tool for the Medical Grid Using Ninf-G</title>
+		<year>2006</year>
+		<authors>Epifanio Bagarinao,Yoshio Tanaka</authors>
+		<jconf>CIT</jconf>
+		<id>8623</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan</organization>
+	</publication>
+	<publication>
+		<title>GEO Grid: Grid Infrastructure for Integration of Huge Satellite Imagery and Geoscience Data Setsets</title>
+		<year>2006</year>
+		<authors>Naotaka Yamamoto,Ryosuke Nakamura,Hirokazu Yamamoto,Satoshi Tsuchida,Isao Kojima,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>CIT</jconf>
+		<id>8657</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology (AIST), Japan</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Distributed Task Sequencing on GridRPC</title>
+		<year>2006</year>
+		<authors>Yusuke Tanimura,Hidemoto Nakada,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>CIT</jconf>
+		<id>8679</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Resource Allocation Based on On-the-Fly Reservation</title>
+		<year>2006</year>
+		<authors>Yingwen Song,Hiroshi Takemiya,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>CIT</jconf>
+		<id>8743</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan</organization>
+	</publication>
+	<publication>
+		<title>Web Service-Based Dynamic Resource and Job Managements for Large-Scale and Long-Time Grid Computations</title>
+		<year>2007</year>
+		<authors>Yingwen Song,Yoshio Tanaka,Hiroshi Takemiya,Satoshi Sekiguchi</authors>
+		<jconf>CIT</jconf>
+		<id>8762</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology Tsukuba, Japan</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a Local Scheduling System with Advance Reservation for Co-allocation on the Grid</title>
+		<year>2006</year>
+		<authors>Hidemoto Nakada,Atsuko Takefusa,Katsuhiko Ookubo,Makoto Kishimoto,Tomohiro Kudoh,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>CIT</jconf>
+		<id>8815</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology (AIST), Japan</organization>
+	</publication>
+	<publication>
+		<title>P3: P2P-based middleware enabling transfer and aggregation of computational resources</title>
+		<year>2005</year>
+		<authors>Kazuyuki Shudo,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>CCGRID</jconf>
+		<id>83019</id>
+		<label>0</label>
+		<organization>Grid Technol. Res. Center, National Inst. of Adv. Ind. Sci. & Technol., Ibaraki, Japan</organization>
+	</publication>
+	<publication>
+		<title>The PRAGMA Testbed - Building a Multi-Application International Grid</title>
+		<year>2006</year>
+		<authors>Cindy Zheng,David Abramson,Peter W. Arzberger,Shahaan Ayyub,Colin Enticott,Slavisa Garic,Mason J. Katz,Jae-Hyuck Kwak,Bu-Sung Lee,Philip M. Papadopoulos,Sugree Phatanapherom,Somsak Sriprayoonsakul,Yoshio Tanaka,Yusuke Tanimura,Osamu Tatebe,Putchong Uthayopas</authors>
+		<jconf>CCGRID</jconf>
+		<id>83255</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan</organization>
+	</publication>
+	<publication>
+		<title>Partial Marking GC</title>
+		<year>1994</year>
+		<authors>Yoshio Tanaka,Shogo Matsui,Atsushi Maeda,Masakazu Nakanishi</authors>
+		<jconf>CONPAR</jconf>
+		<id>115263</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design, Implementation and Performance Evaluation of GridRPC Programming Middleware for a Large-Scale Computational Grid</title>
+		<year>2004</year>
+		<authors>Yoshio Tanaka,Hiroshi Takemiya,Hidemoto Nakada,Satoshi Sekiguchi</authors>
+		<jconf>GRID</jconf>
+		<id>236864</id>
+		<label>0</label>
+		<organization>Grid Technology Research Center, AIST, Japan</organization>
+	</publication>
+	<publication>
+		<title>GridFMO - Quantum chemistry of proteins on the grid</title>
+		<year>2007</year>
+		<authors>Tsutomu Ikegamial,Jun Maki,Toshiya Takami,Yoshio Tanaka,Mitsuo Yokokawa,Satoshi Sekiguchi,Mutsumi Aoyagi</authors>
+		<jconf>GRID</jconf>
+		<id>236911</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network Interface Active Messages for Low Overhead Communication on SMP PC Clusters</title>
+		<year>1999</year>
+		<authors>Motohiko Matsuda,Yoshio Tanaka,Kazuto Kubota,Mitsuhisa Sato</authors>
+		<jconf>HPCN Europe</jconf>
+		<id>254274</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelization of Saprse Cholesky Factorization on an SMP Cluster</title>
+		<year>1999</year>
+		<authors>Shigehisa Satoh,Kazuhiro Kusano,Yoshio Tanaka,Motohiko Matsuda,Mitsuhisa Sato</authors>
+		<jconf>HPCN Europe</jconf>
+		<id>254468</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of a Firewall-Compliant Globus-based Wide-Area Cluster System</title>
+		<year>2000</year>
+		<authors>Yoshio Tanaka,Motonori Hirano,Mitsuhisa Sato,Hidemoto Nakada,Satoshi Sekiguchi</authors>
+		<jconf>HPDC</jconf>
+		<id>255378</id>
+		<label>0</label>
+		<organization>Real Work Comput. Partnership, Ibaraki</organization>
+	</publication>
+	<publication>
+		<title>Vision Based Navigation System by Variable Template Matching for Autonomous Mobile Robots</title>
+		<year>1998</year>
+		<authors>Yasunori Abe,Masaru Shikano,Toshio Fukuda,Fumihito Arai,Yoshio Tanaka</authors>
+		<jconf>ICRA</jconf>
+		<id>350761</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Vision Based Navigation System for Autonomous Mobile Robot with Global Matching</title>
+		<year>1999</year>
+		<authors>Yasunori Abe,Masaru Shikano,Toshio Fukuda,Fumihito Arai,Yoshio Tanaka</authors>
+		<jconf>ICRA</jconf>
+		<id>350763</id>
+		<label>1</label>
+		<organization>Shinryo Corp., Tsukuba</organization>
+	</publication>
+	<publication>
+		<title>Mechanism and Control of Mobile Pipeline Maintenance Robot with Lazy Tongs Mechanism</title>
+		<year>1995</year>
+		<authors>Hidemi Hosokai,Fumio Hara,Yasuyuki Uchida,Yasunori Abe,Koetsu Tanaka,Yoshio Tanaka</authors>
+		<jconf>ICRA</jconf>
+		<id>352508</id>
+		<label>1</label>
+		<organization>Dept. of Manage. & Syst. Sci., Sci. Univ. of Tokyo</organization>
+	</publication>
+	<publication>
+		<title>COMPaS: A Pentium Pro PC-based SMP Cluster and Its Experience</title>
+		<year>1998</year>
+		<authors>Yoshio Tanaka,Motohiko Matsuda,Makoto Ando,Kazuto Kubota,Mitsuhisa Sato</authors>
+		<jconf>IPPS/SPDP Workshops</jconf>
+		<id>410987</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>OpenGR: A Directive-Based Grid Programming Environment</title>
+		<year>2003</year>
+		<authors>Motonori Hirano,Mitsuhisa Sato,Yoshio Tanaka</authors>
+		<jconf>ISHPC</jconf>
+		<id>435428</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GRPLib: A Web Service Based Framework Supporting Sustainable Execution of Large-Scale and Long-Time Grid Applications</title>
+		<year>2008</year>
+		<authors>Yingwen Song,Hiroshi Takemiya,Yoshio Tanaka,Hidemoto Nakada,Satoshi Sekiguchi</authors>
+		<jconf>ISPA</jconf>
+		<id>445645</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resource Manager for Globus-Based Wide-Area Cluster Computing</title>
+		<year>1999</year>
+		<authors>Yoshio Tanaka,Mitsuhisa Sato,Motonori Hirano,Hidemoto Nakada,Satoshi Sekiguchi</authors>
+		<jconf>IWCC</jconf>
+		<id>463331</id>
+		<label>0</label>
+		<organization>Real World Comput. Partnership, Ibaraki</organization>
+	</publication>
+	<publication>
+		<title>Complementary Garbage Collector</title>
+		<year>1995</year>
+		<authors>Shogo Matsui,Yoshio Tanaka,Atsushi Maeda,Masakazu Nakanishi</authors>
+		<jconf>IWMM</jconf>
+		<id>465099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The ninf portal: an automatic generation tool for grid portals</title>
+		<year>2002</year>
+		<authors>Toyotaro Suzumura,Hidemoto Nakada,Masayuki Saito,Satoshi Matsuoka,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>Java Grande</jconf>
+		<id>466777</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science</organization>
+	</publication>
+	<publication>
+		<title>GridARS: An Advance Reservation-Based Grid Co-allocation Framework for Distributed Computing and Network Resources</title>
+		<year>2007</year>
+		<authors>Atsuko Takefusa,Hidemoto Nakada,Tomohiro Kudoh,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>JSSPP</jconf>
+		<id>471176</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication Performance of Gigabit LAN Workstation Cluster RWC/WSC</title>
+		<year>1997</year>
+		<authors>Kazuto Kubota,Yoshio Tanaka,Motohiko Matsuda,Mitsuhisa Sato,Hiroshi Tezuka,Atsushi Hori,Yutaka Ishikawa</authors>
+		<jconf>PARCO</jconf>
+		<id>529265</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Grid applications - Sustainable adaptive grid supercomputing: multiscale simulation of semiconductor processing across the pacific</title>
+		<year>2006</year>
+		<authors>Hiroshi Takemiya,Yoshio Tanaka,Satoshi Sekiguchi,Shuji Ogata,Rajiv K. Kalia,Aiichiro Nakano,Priya Vashishta</authors>
+		<jconf>SC</jconf>
+		<id>575708</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Site Virtual Cluster System for Wide Area Networks</title>
+		<year>2008</year>
+		<authors>Takahiro Hirofuchi,Takeshi Yokoi,Tadashi Ebara,Yusuke Tanimura,Hirotaka Ogawa,Hidetomo Nakada,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>LASCO</jconf>
+		<id>636710</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>OmniRPC: A Grid RPC Facility for Cluster and Global Computing in OpenMP</title>
+		<year>2001</year>
+		<authors>Mitsuhisa Sato,Motonori Hirano,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>WOMPAT</jconf>
+		<id>666077</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Overlay Weaver: An overlay construction toolkit</title>
+		<year>2008</year>
+		<authors>Kazuyuki Shudo,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>Computer Communications</jconf>
+		<id>802910</id>
+		<label>0</label>
+		<organization>Grid Technology Research Center, National Institute of Advanced Industrial Science and Technology, AIST Tsukuba Central 2, Tsukuba, Ibaraki 305-8568, Japan</organization>
+	</publication>
+	<publication>
+		<title>Interoperation of world-wide production e-Science infrastructures</title>
+		<year>2009</year>
+		<authors>Morris Riedel,Erwin Laure,Th. Soddemann,L. Field,J. P. Navarro,James Casey,Maarten Litmaath,Jean-Philippe Baud,Birger Koblitz,C. Catlett,D. Skow,Cindy Zheng,Philip M. Papadopoulos,M. Katz,N. Sharma,Oxana Smirnova,B. Konya,P. Arzberger,F. Wurthwein,A. S. Rana,T. Martin,M. Wan,V. Welch,T. Rimovsky,S. Newhouse,A. Vanni,Yoshio Tanaka,Yusuke Tanimura,Tsutomu Ikegami,David Abramson,Colin Enticott,G. Jenkins,R. Pordes,N. Sharma,S. Timm,N. Sharma,G. Moont,M. Aggarwal,D. Colling,O. van der Aa,Alex Sim,Vijaya Natarajan,Arie Shoshani,Junmin Gu,S. Chen,G. Galang,Riccardo Zappi,Luca Magnoni,Vincenzo Ciaschini,M. Pace,Valerio Venturi,Moreno Marzolla,Paolo Andreetto,B. Cowles,S. Wang,Y. Saeki,H. Sato,Satoshi Matsuoka,Putchong Uthayopas,Somsak Sriprayoonsakul,O. Koeroo,Matthew Viljoen,L. Pearlman,S. Pickles,David Wallom,G. Moloney,J. Lauret,J. Marsteller,P. Sheldon,S. Pathak,Shaun De Witt,J. Mencak,Jens Jensen,M. Hodges,D. Ross,Sugree Phatanapherom,Gilbert Netzer,A. R. Gregersen,M. Jones,S. Chen,Peter Kacsuk,Achim Streit,Daniel Mallmann,Felix Wolf,Thomas Lippert,Thierry Delaitre,E. Huedo,Neil Geddes</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<id>811434</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network interface active messages for low overhead communication on SMP PC clusters</title>
+		<year>2000</year>
+		<authors>Motohiko Matsuda,Yoshio Tanaka,Kazuto Kubota,Mitsuhisa Sato</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>877374</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementation of Fault-Tolerant GridRPC Applications</title>
+		<year>2006</year>
+		<authors>Yusuke Tanimura,Tsutomu Ikegami,Hidemoto Nakada,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>J. Grid Comput.</jconf>
+		<id>885285</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructing Grid Applications Using Standard Grid Middleware</title>
+		<year>2003</year>
+		<authors>Hiroshi Takemiya,Kazuyuki Shudo,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>J. Grid Comput.</jconf>
+		<id>885296</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ninf-G: A Reference Implementation of RPC-based Programming Middleware for Grid Computing</title>
+		<year>2003</year>
+		<authors>Yoshio Tanaka,Hidemoto Nakada,Satoshi Sekiguchi,Toyotaro Suzumura,Satoshi Matsuoka</authors>
+		<jconf>J. Grid Comput.</jconf>
+		<id>885300</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>OpenGR: A directive-based grid programming environment</title>
+		<year>2005</year>
+		<authors>Motonori Hirano,Mitsuhisa Sato,Yoshio Tanaka</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1034786</id>
+		<label>0</label>
+		<organization>Grid Technology Research Center, National Institute of Advanced Industrial Science and Technology, 1-1-1 Umezono, Tsukuba, Ibaraki 305-8568, Japan</organization>
+	</publication>
+	<publication>
+		<title>Implementation and evaluation of adaptive garbage collection</title>
+		<year>2000</year>
+		<authors>Eiko Takaoka,Yoshio Tanaka,Masakazu Nakanishi</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<id>1055992</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lessons learned through driving science applications in the PRAGMA grid</title>
+		<year>2007</year>
+		<authors>Cindy Zheng,Mason J. Katz,Philip M. Papadopoulos,David Abramson,Shahaan Ayyub,Colin Enticott,Slavisa Garic,Wojtek Goscinski,Peter W. Arzberger,Bu-Sung Lee,Sugree Phatanapherom,Somsak Sriprayoonsakul,Putchong Uthayopas,Yoshio Tanaka,Yusuke Tanimura</authors>
+		<jconf>IJWGS</jconf>
+		<id>1170364</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan.</organization>
+	</publication>
+	<publication>
+		<title>The Grid Enablement and Sustainable Simulation of Multiscale Physics Applications.</title>
+		<year>2009</year>
+		<authors>Yingwen Song,Yoshio Tanaka,Hiroshi Takemiya,Aiichiro Nakano,Shuji Ogata,Satoshi Sekiguchi</authors>
+		<jconf>null</jconf>
+		<id>1303575</id>
+		<label>0</label>
+		<organization>Nat. Inst. of Adv. Ind. Sci. & Technol., Tsukuba</organization>
+	</publication>
+	<publication>
+		<title>G-lambda: coordination of a grid scheduler and lambda path service over GMPLS</title>
+		<year>2006</year>
+		<authors>Atsuko Takefusa,Michiaki Hayashi,Naohide Nagatsu,Hidemoto Nakada,Tomohiro Kudoh,Takahiro Miyamoto,Tomohiro Otani,Hideaki Tanaka,Masatoshi Suzuki,Yasunori Sameshima,Wataru Imajuku,Masahiko Jinno,Yoshihiro Takigawa,Shuichi Okamoto,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>Future Generation Computer Systems</jconf>
+		<id>1373450</id>
+		<label>0</label>
+		<organization>Grid Technology Research Center, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan</organization>
+	</publication>
+	<publication>
+		<title>GridFMO Quantum chemistry of proteins on the grid</title>
+		<year>2007</year>
+		<authors>Tsutomu Ikegamial,Jun Maki,Toshiya Takami,Yoshio Tanaka,Mitsuo Yokokawa,Satoshi Sekiguchi,Mutsumi Aoyagi</authors>
+		<jconf>Proceedings of the 8th IEEE/ACM International Conference on Grid Computing</jconf>
+		<id>1383008</id>
+		<label>0</label>
+		<organization>Grid Technology Research Center, AIST 1-1-1 Umezono, Tsukuba 305-8568, JAPAN</organization>
+	</publication>
+	<publication>
+		<title>The Design and Implementation of a Fault-Tolerant RPC System: Ninf-C</title>
+		<year>2004</year>
+		<authors>Hidemoto Nakada,Satoshi Matsuoka,Yoshio Tanaka,Satoshi Sekiguchi</authors>
+		<jconf>Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference</jconf>
+		<id>1613263</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial, Japan</organization>
+	</publication>
+	<publication>
+		<title>Relis-G: Remote Library Install System for Computational Grids</title>
+		<year>2004</year>
+		<authors>Hiromasa Watanabe,Hiroki Honda,Toshitsugu Yuba,Yoshio Tanaka,Mitsuhisa Sato</authors>
+		<jconf>Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference</jconf>
+		<id>1613424</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology, Japan</organization>
+	</publication>
+	<publication>
+		<title>Grid PSE Builder: A Framework for Building Web-based Distributed PSE on Grid</title>
+		<year>2004</year>
+		<authors>Motonori Hirano,Naotaka Yamamoto,Hiroshi Takemiya,Yoshio Tanaka,Satoshi Itoh,Satoshi Sekiguchi</authors>
+		<jconf>Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference</jconf>
+		<id>1614420</id>
+		<label>0</label>
+		<organization>National Institute of Advanced Industrial Science and Technology</organization>
+	</publication>
+</person>

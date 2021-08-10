@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>19216</personID>
+	<FullName>Jianping Wang</FullName>
+	<FirstName>Jianping</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>Optimal Wavelength Assignment for Multicast in WDM Networks</title>
+		<year>2001</year>
+		<authors>Biao Chen,Jianping Wang</authors>
+		<jconf>ISCA PDCS</jconf>
+		<id>10945</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordinated survivability in IP-over-optical networks with IP-layer dual-homing and optical-layer protection</title>
+		<year>2005</year>
+		<authors>Vinod Vokkarane,Jianping Wang,Jason P. Jue</authors>
+		<jconf>BROADNETS</jconf>
+		<id>68943</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>1-Persistent Collision-Free CSMA Protocols for Opportunistic Optical Hyperchannels</title>
+		<year>2008</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Ashwin Gumaste,Si-Qing Zheng</authors>
+		<jconf>ICA3PP</jconf>
+		<id>264151</id>
+		<label>1</label>
+		<organization>Department of Computer Science, City University of Hong Kong, Hong Kong,</organization>
+	</publication>
+	<publication>
+		<title>Mobility-Assisted Spatiotemporal Detection in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Guoliang Xing,Jianping Wang,Ke Shen,Qingfeng Huang,Xiaohua Jia,Hing Cheung So</authors>
+		<jconf>ICDCS</jconf>
+		<id>298228</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis Group-Based Key Management</title>
+		<year>2007</year>
+		<authors>Shaobin Cai,Jianping Wang,Guochang Gu,Wenbin Yao,Nianmin Yao</authors>
+		<jconf>IMSCCS</jconf>
+		<id>398816</id>
+		<label>3</label>
+		<organization>Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Finding Minimum-Cost Paths with Minimum Sharability</title>
+		<year>2007</year>
+		<authors>Si-Qing Zheng,Bing Yang,Mei Yang,Jianping Wang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403308</id>
+		<label>1</label>
+		<organization>Univ. of Texas at Dallas, Richardson</organization>
+	</publication>
+	<publication>
+		<title>Fault-Tolerant Wireless Access Network Design for Dual-Homed Users</title>
+		<year>2006</year>
+		<authors>Xiaodong Huang,Jianping Wang,Vinod Vokkarane,Jason P. Jue</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403556</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploring Core Based Tree (CBT) in WDM Networks</title>
+		<year>2004</year>
+		<authors>Jianping Wang,Xiangtong Qi,Mei Yang,Biao Chen</authors>
+		<jconf>ISPAN</jconf>
+		<id>446102</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Georgia Southern Univ., Statesboro, GA, USA</organization>
+	</publication>
+	<publication>
+		<title>Minimum Cost Paths Subject to Minimum Vulnerability for Reliable Communications</title>
+		<year>2005</year>
+		<authors>Bing Yang,Mei Yang,Jianping Wang,S. Q. Zheng</authors>
+		<jconf>ISPAN</jconf>
+		<id>446141</id>
+		<label>1</label>
+		<organization>Georgia Southern University, Statesboro, GA</organization>
+	</publication>
+	<publication>
+		<title>Coordinated Robust Routing by Dual Cluster Heads in Layered Wireless Sensor Networks</title>
+		<year>2005</year>
+		<authors>Mei Yang,Jianping Wang,Zhen-guo Gao,Yingtao Jiang,Yoohwan Kim</authors>
+		<jconf>ISPAN</jconf>
+		<id>446172</id>
+		<label>1</label>
+		<organization>Georgia Southern University, Statesboro, GA</organization>
+	</publication>
+	<publication>
+		<title>Programming Overlay Networks with Overlay Sockets</title>
+		<year>2003</year>
+		<authors>Jorg Liebeherr,Jianping Wang,Guimin Zhang</authors>
+		<jconf>Networked Group Communication</jconf>
+		<id>514079</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Traffic Engineering with AIMD in MPLS Networks</title>
+		<year>2002</year>
+		<authors>Jianping Wang,Stephen D. Patek,Haiyong Wang,Jorg Liebeherr</authors>
+		<jconf>Protocols for High-Speed Networks</jconf>
+		<id>540397</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Handover Cost Optimization in Traffic Management for Multi-homed Mobile Networks</title>
+		<year>2007</year>
+		<authors>Shupeng Wang,Jianping Wang,Mei Yang,Xiao-chun Yun,Yingtao Jiang</authors>
+		<jconf>UIC</jconf>
+		<id>633823</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Meta Service Description Assisted Service Discovery Protocol for MANETs</title>
+		<year>2007</year>
+		<authors>Zhen-guo Gao,Ling Wang,Mei Yang,Jianping Wang</authors>
+		<jconf>UIC</jconf>
+		<id>633898</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pipelined Implementation of TCAM-Based Search Engines in High-Performance IP Routers</title>
+		<year>2008</year>
+		<authors>Hui Yu,Jing Chen,Jianping Wang,Si-Qing Zheng</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705864</id>
+		<label>1</label>
+		<organization>Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>Fault Tolerant Service Composition in Service Overlay Networks</title>
+		<year>2008</year>
+		<authors>Jin Wang,Jianping Wang,Naijie Gu,Bing Yang</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705930</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>Multicast Routing in Light-Trail WDM Networks</title>
+		<year>2008</year>
+		<authors>Yan Li,Jianping Wang,Ashwin Gumaste,Yun Xu,Yinlong Xu</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705946</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Univ. of Sci. & Tech, Hefei</organization>
+	</publication>
+	<publication>
+		<title>Maximizing Throughput of an Optical Opportunistic Hyperchannel Subject to QoS Constraint</title>
+		<year>2008</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Si-Qing Zheng</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705974</id>
+		<label>1</label>
+		<organization>Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>Traffic regulation under the percentile-based pricing policy</title>
+		<year>2006</year>
+		<authors>Jianping Wang</authors>
+		<jconf>Infoscale</jconf>
+		<id>708915</id>
+		<label>1</label>
+		<organization>Georgia Southern University, Statesboro, GA</organization>
+	</publication>
+	<publication>
+		<title>HOPNET: A hybrid ant colony optimization routing algorithm for mobile ad hoc network</title>
+		<year>2009</year>
+		<authors>Jianping Wang,Eseosa Osagie,Parimala Thulasiraman,Ruppa K. Thulasiram</authors>
+		<jconf>Ad Hoc Networks</jconf>
+		<id>743166</id>
+		<label>2</label>
+		<organization>Department of Computer Science, University of Manitoba, Winnipeg, Manitoba, Canada R3T 2N2</organization>
+	</publication>
+	<publication>
+		<title>Routing and wavelength assignment for core-based tree in WDM networks</title>
+		<year>2006</year>
+		<authors>Jianping Wang,Xiangtong Qi,Mei Yang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>802339</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Traffic regulation with single- and dual-homed ISPs under a percentile-based pricing policy</title>
+		<year>2009</year>
+		<authors>Jianping Wang,Jing Chen,Mei Yang,S. Q. Zheng</authors>
+		<jconf>J. Comb. Optim.</jconf>
+		<id>970407</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dual-Homing Based Scalable Partia Multicast Protection</title>
+		<year>2006</year>
+		<authors>Jianping Wang,Mei Yang,Bin Yang,S. Q. Zheng</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082604</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wavelength assignment for multicast in all-optical WDM networks with splitting constraints</title>
+		<year>2006</year>
+		<authors>Jianping Wang,Xiangtong Qi,Biao Chen</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1122808</id>
+		<label>1</label>
+		<organization>Department of Computer Science, Georgia Southern University, Statesboro, GA</organization>
+	</publication>
+	<publication>
+		<title>Collaborative Target Detection in Wireless Sensor Networks with Reactive Mobility</title>
+		<year>2008</year>
+		<authors>Rui Tan,Guoliang Xing,Jianping Wang,Hing Cheung So</authors>
+		<jconf>IWQoS</jconf>
+		<id>1251508</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Hong Kong City Univ., Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Data fusion improves the coverage of wireless sensor networks</title>
+		<year>2009</year>
+		<authors>Guoliang Xing,Rui Tan,Benyuan Liu,Jianping Wang,Xiaohua Jia,Chih-Wei Yi</authors>
+		<jconf>MOBICOM</jconf>
+		<id>1253218</id>
+		<label>1</label>
+		<organization>City University of Hong Kong, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>BR-Tree: A Scalable Prototype for Supporting Multiple Queries of Multidimensional Data</title>
+		<year>2009</year>
+		<authors>Yu Hua,Bin Xiao,Jianping Wang</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1281335</id>
+		<label>1</label>
+		<organization>City University of Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Opportunistic Optical Hyperchannel and Its Distributed QoS Assuring Access Control</title>
+		<year>2009</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Si-Qing Zheng</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1282262</id>
+		<label>1</label>
+		<organization>City University of Hong Kong, Kowloon</organization>
+	</publication>
+	<publication>
+		<title>Impact of Data Fusion on Real-Time Detection in Sensor Networks.</title>
+		<year>2009</year>
+		<authors>Rui Tan,Guoliang Xing,Benyuan Liu,Jianping Wang</authors>
+		<jconf>null</jconf>
+		<id>1321897</id>
+		<label>1</label>
+		<organization>City Univ. of Hong Kong, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Fast Sensor Placement Algorithms for Fusion-Based Target Detection.</title>
+		<year>2008</year>
+		<authors>Zhaohui Yuan,Rui Tan,Guoliang Xing,Chenyang Lu,Yixin Chen,Jianping Wang</authors>
+		<jconf>null</jconf>
+		<id>1321970</id>
+		<label>1</label>
+		<organization>City Univ. of Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>A Study of Network Throughput Gain in Optical-Wireless (FiWi) Networks Subject to Peer-to-Peer Communications.</title>
+		<year>2009</year>
+		<authors>Zeyu Zheng,Jianping Wang,Jin Wang</authors>
+		<jconf>null</jconf>
+		<id>1323786</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>MultiHop Light-Trails (MLT) - A Solution to Extended Metro Networks.</title>
+		<year>2009</year>
+		<authors>Ashwin Gumaste,Jianping Wang,Abhay Karandikar,Nasir Ghani</authors>
+		<jconf>null</jconf>
+		<id>1324432</id>
+		<label>1</label>
+		<organization>Massachusetts Inst. of Technol., Cambridge, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Dual-Homing Based Scalable Partia Multicast Protection</title>
+		<year>2006</year>
+		<authors>Jianping Wang,Mei Yang,Bin Yang S. Q. Zheng</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<id>1373278</id>
+		<label>1</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Interference Aware and Delay Bounded Routing in Hybrid Wireless-Optical Access Network</title>
+		<year>2009</year>
+		<authors>Zeyu Zheng,Jianping Wang,Jin Wang</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02</jconf>
+		<id>1386838</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Cross-layer Routing Design in Cognitive Radio Networks by Colored Multigraph Model</title>
+		<year>2009</year>
+		<authors>Xianwei Zhou,Lin Lin,Jianping Wang,Xuesong Zhang</authors>
+		<jconf>Wireless Personal Communications: An International Journal</jconf>
+		<id>1387361</id>
+		<label>0</label>
+		<organization>Department of Communication Engineering, School of Information Engineering, University of Science and Technology Beijing, Beijing, People's Republic of China 100083</organization>
+	</publication>
+	<publication>
+		<title>Qos-assuring multicast in wdm networks</title>
+		<year>2003</year>
+		<authors>Jianping Wang</authors>
+		<jconf>null</jconf>
+		<id>1565925</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Service composition in service-oriented wireless sensor networks with persistent queries</title>
+		<year>2009</year>
+		<authors>Xiumin Wang,Jianping Wang,Zeyu Zheng,Yinlong Xu,Mei Yang</authors>
+		<jconf>Proceedings of the 6th IEEE Conference on Consumer Communications and Networking Conference</jconf>
+		<id>1587216</id>
+		<label>1</label>
+		<organization>Department of Computer Science, University of Science and Technology of China, China</organization>
+	</publication>
+</person>

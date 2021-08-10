@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>416787</personID>
+	<FullName>Paul Wang</FullName>
+	<FirstName>Paul</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>MP: A Protocol for Efficient Exchange of Mathematical Expressions</title>
+		<year>1994</year>
+		<authors>Simon Gray,Norbert Kajler,Paul S. Wang</authors>
+		<jconf>ISSAC</jconf>
+		<id>449229</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Practical Factorization of Univariate Polynomials over Finite Fields</title>
+		<year>1991</year>
+		<authors>Vilmar Trevisan,Paul S. Wang</authors>
+		<jconf>ISSAC</jconf>
+		<id>449745</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PRELUDE: A System for Portable Parallel Software</title>
+		<year>1992</year>
+		<authors>William E. Weihl,Eric A. Brewer,Adrian Colbrook,Chrysanthos Dellarocas,Wilson C. Hsieh,Anthony D. Joseph,Carl A. Waldspurger,Paul Wang</authors>
+		<jconf>PARLE</jconf>
+		<id>530178</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computation Migration: Enhancing Locality for Distributed-Memory Parallel Systems</title>
+		<year>1993</year>
+		<authors>Wilson C. Hsieh,Paul Wang,William E. Weihl</authors>
+		<jconf>PPOPP</jconf>
+		<id>548317</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pipes: Linguistic Support for Ordered Asynchronous Invocations</title>
+		<year>1992</year>
+		<authors>Eric A. Brewer,Adrian Colbrook,Wilson C. Hsieh,Paul Wang,William E. Weihl</authors>
+		<jconf>SIGPLAN Workshop</jconf>
+		<id>600920</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-version memory: software cache management for concurrent B-trees</title>
+		<year>1990</year>
+		<authors>William E. Weihl,Paul Wang</authors>
+		<jconf>SPDP</jconf>
+		<id>615298</id>
+		<label>1</label>
+		<organization>Lab. for Comput. Sci., MIT, Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Scalable Concurrent B-Trees Using Multi-Version Memory</title>
+		<year>1996</year>
+		<authors>Paul Wang,William E. Weihl</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989951</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Time-domain simulation of uniform and nonuniform multiconductor lossy lines by the method of characteristics</title>
+		<year>1993</year>
+		<authors>Neven Orhanovic,Paul Wang,Vijay K. Tripathi</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1085341</id>
+		<label>2</label>
+		<organization>Dept. of Electr. & Comput. Eng., Oregon State Univ., Corvallis, OR</organization>
+	</publication>
+	<publication>
+		<title>A non-equilibrium analysis and control framework for active queue management</title>
+		<year>2008</year>
+		<authors>Tansu Alpcan,Paul Wang,Prashant G. Mehta,Tamer Basar</authors>
+		<jconf>Automatica</jconf>
+		<id>1181115</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DMAS: a web-based distributed mathematics assessment system (abstract only)</title>
+		<year>2008</year>
+		<authors>Saleh Al-shomrani,Paul Wang</authors>
+		<jconf>ACM Communications in Computer Algebra</jconf>
+		<id>1378451</id>
+		<label>0</label>
+		<organization>Kent State Univresity</organization>
+	</publication>
+	<publication>
+		<title>A Mammography Database and View System for the African American Patients</title>
+		<year>2004</year>
+		<authors>Shani Ross,O'tega Ejofodomi,Ahmed Jendoubi,Mohamed Chouikha,Ben Lo,Paul Wang,Jianchao Zeng</authors>
+		<jconf>Proceedings of the 33rd Applied Imagery Pattern Recognition Workshop</jconf>
+		<id>1414636</id>
+		<label>4</label>
+		<organization>Howard University, Washington DC</organization>
+	</publication>
+	<publication>
+		<title>Pipes: linguistic support for ordered asynchronous invocations</title>
+		<year>1993</year>
+		<authors>Eric A. Brewer,Adrian Colbrook,Wilson C. Hsieh,Paul Wang,William E. Weihl</authors>
+		<jconf>ACM SIGPLAN Notices</jconf>
+		<id>1506516</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding online archiving</title>
+		<year>2000</year>
+		<authors>Paul Wang</authors>
+		<jconf>Storage Management Solutions</jconf>
+		<id>1571584</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A non-equilibrium analysis and control framework for active queue management</title>
+		<year>2008</year>
+		<authors>Tansu Alpcan,Paul Wang,Prashant G. Mehta,Tamer Başar</authors>
+		<jconf>Automatica (Journal of IFAC)</jconf>
+		<id>1596341</id>
+		<label>3</label>
+		<organization>Department of Mechanical Science and Engineering, University of Illinois, 1206 W. Green Street, Urbana IL 61801, United States and Coordinated Science Laboratory, University of Illinois, 1308 West Main Street, Urbana IL 61801, United States</organization>
+	</publication>
+	<publication>
+		<title>The TMS390C602A Floating-Point Coprocessor for Sparc Systems</title>
+		<year>1990</year>
+		<authors>Merrick Darley,Bill Kronlage,Dvaid Bural,Bob Churchill,David Pulling,Paul Wang,Rick Iwamoto,Larry Yang</authors>
+		<jconf>IEEE Micro</jconf>
+		<id>1618603</id>
+		<label>6</label>
+		<organization>Texas Instrum. Inc., Dallas, TX</organization>
+	</publication>
+	<publication>
+		<title>Brief paper: Hopf bifurcation and oscillations in a communication network with heterogeneous delays</title>
+		<year>2009</year>
+		<authors>Huibing Yin,Paul Wang,Tansu Alpcan,Prashant G. Mehta</authors>
+		<jconf>Automatica (Journal of IFAC)</jconf>
+		<id>1654704</id>
+		<label>3</label>
+		<organization>Department of Mechanical Science & Engineering and the Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 1206 W. Green Street, Urbana, IL 61801, United States</organization>
+	</publication>
+</person>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>37836</personID>
+	<FullName>Thomas Wolf</FullName>
+	<FirstName>Thomas</FirstName>
+	<LastName>Wolf</LastName>
+	<publication>
+		<title>Secure Communication in Distributed Ada</title>
+		<year>1996</year>
+		<authors>Jorg Kienzle,Thomas Wolf,Alfred Strohmeier</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25459</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Oriented Programming and Protected Objects in Ada 95</title>
+		<year>2000</year>
+		<authors>Andy J. Wellings,Bob Johnson,Bo Sanden,Jorg Kienzle,Thomas Wolf,Stephen Michell</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25705</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault Tolerance by Transparent Replication for Distributed Ada 95</title>
+		<year>1999</year>
+		<authors>Thomas Wolf,Alfred Strohmeier</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25712</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analytical Decoupling, Decision of Compatibility and Partial Integration of Systems of Non-Linear Ordinary and Partial Differential Equations</title>
+		<year>1985</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>European Conference on Computer Algebra (2)</jconf>
+		<id>191844</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A package for the analytic investigation and exact solution of differential equations</title>
+		<year>1987</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>EUROCAL</jconf>
+		<id>191846</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global Biclustering of Microarray Data</title>
+		<year>2006</year>
+		<authors>Thomas Wolf,Benedikt Brors,Thomas Hofmann,Elisabeth Georgii</authors>
+		<jconf>ICDM Workshops</jconf>
+		<id>303275</id>
+		<label>3</label>
+		<organization>TU Darmstadt, Germany</organization>
+	</publication>
+	<publication>
+		<title>Programs for Applying Symmetries</title>
+		<year>1995</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>ISSAC</jconf>
+		<id>449704</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Vom Rechenzentrum zum Zentrum fur Informations- und Kommunikationstechnik</title>
+		<year>1995</year>
+		<authors>Thomas Wolf,Peter Noelle</authors>
+		<jconf>GI-Fachtagung uber Rechenzentren</jconf>
+		<id>566182</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transparent Filtering of Streams in GLADE</title>
+		<year>1997</year>
+		<authors>Laurent Pautet,Thomas Wolf</authors>
+		<jconf>TRI-Ada</jconf>
+		<id>588138</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing GoTools' Search Heuristics using Genetic Algorithms</title>
+		<year>2003</year>
+		<authors>Matthew Pratola,Thomas Wolf</authors>
+		<jconf>CoRR</jconf>
+		<id>818736</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comparison of four approaches to the calculation of conservation laws</title>
+		<year>2003</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>CoRR</jconf>
+		<id>819252</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The integration of systems of linear PDEs using conservation laws of syzygies</title>
+		<year>2003</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>CoRR</jconf>
+		<id>819253</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Size reduction and partial decoupling of systems of equations</title>
+		<year>2003</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>CoRR</jconf>
+		<id>819254</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model Checking (Grundlagen und Praxiserfahrungen)</title>
+		<year>2004</year>
+		<authors>Ralf Buschermohle,Mark Brorkens,Ingo Bruckner,Werner Damm,Wilhelm Hasselbring,Bernhard Josko,Christoph Schulte,Thomas Wolf</authors>
+		<jconf>Informatik Spektrum</jconf>
+		<id>925608</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Forward Pruning and Other Heuristic Search Techniques in Tsume Go</title>
+		<year>2000</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>942102</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Symbolic Integration of Exact PDEs</title>
+		<year>2000</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>994764</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Size Reduction and Partial Decoupling of Systems of Equations</title>
+		<year>2002</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>994766</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The integration of systems of linear PDEs using conservation laws of syzygies</title>
+		<year>2003</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>994768</id>
+		<label>1</label>
+		<organization>Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1</organization>
+	</publication>
+	<publication>
+		<title>Computer Algebra Algorithms and Routines for the Computation of Conservation Laws and Fixing of Gauge in Differential Expressions</title>
+		<year>1999</year>
+		<authors>Thomas Wolf,A. Brand,M. Mohammadzadeh</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>994770</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating object-oriented programming and protected objects in Ada 95</title>
+		<year>2000</year>
+		<authors>Andy J. Wellings,Bob Johnson,Bo Sanden,Jorg Kienzle,Thomas Wolf,Stephen Michell</authors>
+		<jconf>ACM Trans. Program. Lang. Syst.</jconf>
+		<id>1123975</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>VIRTAB - Ein Programmsystem zur Generierung groser und reich strukturierter virtueller Tabellen und deren Aufteilung auf beschrankte Ausgabemedien</title>
+		<year>1986</year>
+		<authors>Wolffried Stucky,Hans Dieter Unkelbach,Wolfgang Weber,Thomas Wolf,Thomas Zeh</authors>
+		<jconf>Angewandte Informatik</jconf>
+		<id>1139875</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Checking Life-and Death Problems in Go.</title>
+		<year>2007</year>
+		<authors>Thomas Wolf,Lei Shen</authors>
+		<jconf>ICGA Journal</jconf>
+		<id>1344782</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On solving large systems of polynomial equations appearing In discrete differential geometry</title>
+		<year>2009</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>ACM Communications in Computer Algebra</jconf>
+		<id>1385543</id>
+		<label>1</label>
+		<organization>Brock University, Ontario, Canada</organization>
+	</publication>
+	<publication>
+		<title>Computers and Crafts: A Practical Guide</title>
+		<year>1986</year>
+		<authors>Mark Goldring,Thomas Wolf,Pat Doran</authors>
+		<jconf>null</jconf>
+		<id>1530863</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On exceptions as first-class objects in Ada 95</title>
+		<year>2001</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>ACM SIGAda Ada Letters</jconf>
+		<id>1539175</id>
+		<label>0</label>
+		<organization>Paranor AG, Switzerland</organization>
+	</publication>
+	<publication>
+		<title>Transparent replication for fault tolerance in distributed Ada 95</title>
+		<year>1999</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>Proceedings of the ninth international workshop on Real-time Ada</jconf>
+		<id>1546991</id>
+		<label>0</label>
+		<organization>Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland</organization>
+	</publication>
+	<publication>
+		<title>The symbolic integration of exact PDE's</title>
+		<year>2000</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>Journal of Symbolic Computation</jconf>
+		<id>1574861</id>
+		<label>1</label>
+		<organization>Queen Mary and Westfield College, London, U.K.</organization>
+	</publication>
+	<publication>
+		<title>Automatic determination of dynamical symmetries of ordinary differential equations</title>
+		<year>1989</year>
+		<authors>Hans-Jürgen Pohle,Thomas Wolf</authors>
+		<jconf>Computing</jconf>
+		<id>1628897</id>
+		<label>1</label>
+		<organization>Friedrich-Schiller-Univ. Jena, Jena, E. Germany</organization>
+	</publication>
+	<publication>
+		<title>Ein neuer Ansatz zur L&ouml;sung der Phasenentfaltungsproblematik</title>
+		<year>1996</year>
+		<authors>Thomas Wolf, II,Andreas Wicker,Bernd Gutmann,Herbert Weber, II</authors>
+		<jconf>Mustererkennung 1996, 18. DAGM-Symposium</jconf>
+		<id>1699194</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ein optisches Me&szlig;system zur Echtzeitanalyse von Konturen mit der PLL-Schaltung</title>
+		<year>1996</year>
+		<authors>Thomas Wolf, II,Ralf Lichtenberger,Herbert Weber, II</authors>
+		<jconf>Mustererkennung 1996, 18. DAGM-Symposium</jconf>
+		<id>1701049</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ein Fuzzy geregeltes optisches Me&szlig;system zur Messung von 3D-Verformungn</title>
+		<year>1995</year>
+		<authors>Thomas Wolf, II,Bernd Gutmann,Herbert Weber, II</authors>
+		<jconf>Mustererkennung 1995, 17. DAGM-Symposium</jconf>
+		<id>1702741</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Investigating DEs with CRACK and related programs</title>
+		<year>1995</year>
+		<authors>Thomas Wolf,Andreas Brand</authors>
+		<jconf>ACM SIGSAM Bulletin</jconf>
+		<id>1714312</id>
+		<label>1</label>
+		<organization>School of Mathematical Sciences, QMW, University of London, London</organization>
+	</publication>
+	<publication>
+		<title>Size reduction and partial decoupling of sytems of equations</title>
+		<year>2002</year>
+		<authors>Thomas Wolf</authors>
+		<jconf>Journal of Symbolic Computation</jconf>
+		<id>1745134</id>
+		<label>1</label>
+		<organization>Brock Univ., St. Catherines, Ont., Canada</organization>
+	</publication>
+</person>

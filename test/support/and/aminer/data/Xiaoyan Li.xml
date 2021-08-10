@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>39665</personID>
+	<FullName>Xiaoyan Li</FullName>
+	<FirstName>Xiaoyan</FirstName>
+	<LastName>Li</LastName>
+	<publication>
+		<title>An Analytic Model Predicting the Optimal Range for Maximizing 1-Hop Broadcast Coverage in Dense Wireless Networks</title>
+		<year>2004</year>
+		<authors>Xiaoyan Li,Thu D. Nguyen,Richard P. Martin</authors>
+		<jconf>ADHOC-NOW</jconf>
+		<id>26986</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Time-based language models</title>
+		<year>2003</year>
+		<authors>Xiaoyan Li,W. Bruce Croft</authors>
+		<jconf>CIKM</jconf>
+		<id>95338</id>
+		<label>1</label>
+		<organization>University of Massachusetts, MA</organization>
+	</publication>
+	<publication>
+		<title>Novelty detection based on sentence level patterns</title>
+		<year>2005</year>
+		<authors>Xiaoyan Li,W. Bruce Croft</authors>
+		<jconf>CIKM</jconf>
+		<id>95624</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving novelty detection for general topics using sentence level information patterns</title>
+		<year>2006</year>
+		<authors>Xiaoyan Li,W. Bruce Croft</authors>
+		<jconf>CIKM</jconf>
+		<id>96043</id>
+		<label>1</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>An Image-Semantic Ontological Framework for Large Image Databases</title>
+		<year>2007</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Kian-Lee Tan</authors>
+		<jconf>DASFAA</jconf>
+		<id>141056</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Robustness of Localization Algorithms to Signal Strength Attacks: A Comparative Study</title>
+		<year>2006</year>
+		<authors>Yingying Chen,Konstantinos Kleisouris,Xiaoyan Li,Wade Trappe,Richard P. Martin</authors>
+		<jconf>DCOSS</jconf>
+		<id>147357</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Relevance Models with Adaptive Passage Retrieval</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,Zhigang Zhu</authors>
+		<jconf>ECIR</jconf>
+		<id>170205</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Image Segmentation Method Based on a Modified Pulse Coupled Neural Network</title>
+		<year>2006</year>
+		<authors>Min Li,Wei Cai,Xiaoyan Li</authors>
+		<jconf>ICNC (1)</jconf>
+		<id>337702</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Pixel-Level and Feature-Level Combined Multisensor Image Fusion Scheme</title>
+		<year>2008</year>
+		<authors>Min Li,Gang Li,Wei Cai,Xiaoyan Li</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443894</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Image Segmentation Using Modified Pulse Coupled Neural Network</title>
+		<year>2008</year>
+		<authors>Wei Cai,Gang Li,Min Li,Xiaoyan Li</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443921</id>
+		<label>5</label>
+		<organization>Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858</organization>
+	</publication>
+	<publication>
+		<title>Active Tapes: Bus-Based Sensor Networks</title>
+		<year>2004</year>
+		<authors>Andrew Tjang,Michael Pagliorola,Hiral Patel,Xiaoyan Li,Richard P. Martin</authors>
+		<jconf>LCN</jconf>
+		<id>482356</id>
+		<label>0</label>
+		<organization>Rutgers University, Pisacataway, NJ</organization>
+	</publication>
+	<publication>
+		<title>Using adaptive range control to optimize 1-hop broadcast coverage in dense wireless networks</title>
+		<year>2003</year>
+		<authors>Xiaoyan Li,Thu D. Nguyen,Richard P. Martin</authors>
+		<jconf>SenSys</jconf>
+		<id>584308</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The limits of localization using RSS</title>
+		<year>2004</year>
+		<authors>Eiman Elnahrawy,Xiaoyan Li,Richard P. Martin</authors>
+		<jconf>SenSys</jconf>
+		<id>584369</id>
+		<label>0</label>
+		<organization>Rutgers University, Piscataway, NJ</organization>
+	</publication>
+	<publication>
+		<title>GRAIL: general real-time adaptable indoor localization</title>
+		<year>2006</year>
+		<authors>Yingying Chen,John-Austen Francisco,Konstantinos Kleisouris,Hongyi Xue,Richard P. Martin,Eiman Elnahrawy,Xiaoyan Li</authors>
+		<jconf>SenSys</jconf>
+		<id>584452</id>
+		<label>0</label>
+		<organization>Lafayette College</organization>
+	</publication>
+	<publication>
+		<title>Syntactic features in question answering</title>
+		<year>2003</year>
+		<authors>Xiaoyan Li</authors>
+		<jconf>SIGIR</jconf>
+		<id>595150</id>
+		<label>1</label>
+		<organization>University of Massachusetts Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>INQUERY and TREC-9</title>
+		<year>2000</year>
+		<authors>James Allan,Margaret E. Connell,W. Bruce Croft,Fangfang Feng,David Fisher,Xiaoyan Li</authors>
+		<jconf>TREC</jconf>
+		<id>629755</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Fault Injection and Modeling to Evaluate the Performability of Cluster-Based Services</title>
+		<year>2003</year>
+		<authors>Kiran Nagaraja,Xiaoyan Li,Ricardo Bianchini,Richard P. Martin,Thu D. Nguyen</authors>
+		<jconf>USENIX Symposium on Internet Technologies and Systems</jconf>
+		<id>636715</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HISA: A Query System Bridging The Semantic Gap For Large Image Databases</title>
+		<year>2006</year>
+		<authors>Gang Chen,Xiaoyan Li,Lidan Shou,Jinxiang Dong,Chun Chen</authors>
+		<jconf>VLDB</jconf>
+		<id>642368</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of GeoBrain Online Analysis System (GeOnAS)</title>
+		<year>2008</year>
+		<authors>Weiguo Han,Liping Di,Peisheng Zhao,Yaxing Wei,Xiaoyan Li</authors>
+		<jconf>W2GIS</jconf>
+		<id>649917</id>
+		<label>2</label>
+		<organization>Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770</organization>
+	</publication>
+	<publication>
+		<title>A Latent Image Semantic Indexing Scheme for Image Retrieval on the Web</title>
+		<year>2006</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Lujiang Ou</authors>
+		<jconf>WISE</jconf>
+		<id>663701</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pivotbrowser: a tag-space image searching prototype</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Xiaolong Zhang,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>WWW</jconf>
+		<id>675342</id>
+		<label>4</label>
+		<organization>Zhejiang University, Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Modeling of Grey Neural Network and Its Applications</title>
+		<year>2008</year>
+		<authors>Jingling Yuan,Luo Zhong,Xiaoyan Li,Jie Li</authors>
+		<jconf>ISICA</jconf>
+		<id>700619</id>
+		<label>3</label>
+		<organization>Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070</organization>
+	</publication>
+	<publication>
+		<title>Optimized Grey RBF Prediction Model Based on Genetic Algorithm</title>
+		<year>2008</year>
+		<authors>Jingling Yuan,Xiaoyan Li,Luo Zhong</authors>
+		<jconf>CSSE (1)</jconf>
+		<id>728800</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new robust relevance model in the language model framework</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>937292</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An information-pattern-based approach to novelty detection</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,W. Bruce Croft</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>937313</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bottom-up discovery of frequent rooted unordered subtrees</title>
+		<year>2009</year>
+		<authors>Yijun Bei,Gang Chen,Lidan Shou,Xiaoyan Li,Jinxiang Dong</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>943199</id>
+		<label>4</label>
+		<organization>College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China</organization>
+	</publication>
+	<publication>
+		<title>Modeling Image Data for Effective Indexing and Retrieval in Large General Image Databases</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1114092</id>
+		<label>4</label>
+		<organization>Zhejing University , HangZhou</organization>
+	</publication>
+	<publication>
+		<title>A security and robustness performance analysis of localization algorithms to signal strength attacks</title>
+		<year>2009</year>
+		<authors>Yingying Chen,Konstantinos Kleisouris,Xiaoyan Li,Wade Trappe,Richard P. Martin</authors>
+		<jconf>TOSN</jconf>
+		<id>1124502</id>
+		<label>0</label>
+		<organization>Lafayette College, Easton, PA</organization>
+	</publication>
+	<publication>
+		<title>UMass at TREC 2004: Novelty and HARD</title>
+		<year>2004</year>
+		<authors>Nasreen Abdul Jaleel,James Allan,W. Bruce Croft,Fernando Diaz,Leah S. Larkey,Xiaoyan Li,Mark D. Smucker,Courtney Wade</authors>
+		<jconf>TREC</jconf>
+		<id>1214791</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Building an On-line Geospatial Analysis System with AJAX and Web Services.</title>
+		<year>2009</year>
+		<authors>Weiguo Han,Liping Di,Peisheng Zhao,Xiaoyan Li</authors>
+		<jconf>null</jconf>
+		<id>1314525</id>
+		<label>2</label>
+		<organization>Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA</organization>
+	</publication>
+	<publication>
+		<title>A Novel Image Fusion Method Based on Contourlet Decomposition.</title>
+		<year>2009</year>
+		<authors>Min Li,Wei Cai,Jian-she Song,Xiaoyan Li,Yun Sun</authors>
+		<jconf>null</jconf>
+		<id>1316372</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating question-answering techniques in Chinese</title>
+		<year>2001</year>
+		<authors>Xiaoyan Li,W. Bruce Croft</authors>
+		<jconf>Proceedings of the first international conference on Human language technology research</jconf>
+		<id>1413612</id>
+		<label>1</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Poster abstract: using adaptive range control to optimize 1-hop broadcast coverage in dense wireless networks</title>
+		<year>2003</year>
+		<authors>Xiaoyan Li,Thu D. Nguyen,Richard P. Martin</authors>
+		<jconf>Proceedings of the 1st international conference on Embedded networked sensor systems</jconf>
+		<id>1564119</id>
+		<label>0</label>
+		<organization>Rutgers University, Piscataway, NJ</organization>
+	</publication>
+</person>

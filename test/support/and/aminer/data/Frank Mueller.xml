@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>37994</personID>
+	<FullName>Frank Mueller</FullName>
+	<FirstName>Frank</FirstName>
+	<LastName>Mueller</LastName>
+	<publication>
+		<title>Supporting Ada 95 Passive Partitions in a Distributed Environment</title>
+		<year>1997</year>
+		<authors>Frank Mueller</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25603</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast instruction cache analysis via static cache simulation</title>
+		<year>1995</year>
+		<authors>Frank Mueller,David B. Whalley</authors>
+		<jconf>Annual Simulation Symposium</jconf>
+		<id>42344</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Florida State Univ., Tallahassee, FL</organization>
+	</publication>
+	<publication>
+		<title>Encryption overhead in embedded systems and sensor network nodes: modeling and analysis</title>
+		<year>2003</year>
+		<authors>Ramnath Venugopalan,Prasanth Ganesan,Pushkin Peddabachagari,Alexander G. Dean,Frank Mueller,Mihail L. Sichitiu</authors>
+		<jconf>CASES</jconf>
+		<id>77632</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>METRIC: Tracking Down Inefficiencies in the Memory Hierarchy via Binary Rewriting</title>
+		<year>2003</year>
+		<authors>Jaydeep Marathe,Frank Mueller,Tushar Mohan,Bronis R. de Supinski,Sally A. McKee,Andy Yoo</authors>
+		<jconf>CGO</jconf>
+		<id>86591</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Handling Irreducible Loops: Optimized Node Splitting vs. DJ-Graphs</title>
+		<year>2001</year>
+		<authors>Sebastian Unger,Frank Mueller</authors>
+		<jconf>Euro-Par</jconf>
+		<id>197551</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Token-Based Read/Write-Locks for Distributed Mutual Exclusion</title>
+		<year>2000</year>
+		<authors>Claus Wagner,Frank Mueller</authors>
+		<jconf>Euro-Par</jconf>
+		<id>197594</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable Distributed Concurrency Services for Hierarchical Locking</title>
+		<year>2003</year>
+		<authors>Nirmit Desai,Frank Mueller</authors>
+		<jconf>ICDCS</jconf>
+		<id>296650</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>On-the-Fly Recovery of Job Input Data in Supercomputers</title>
+		<year>2008</year>
+		<authors>Chao Wang,Zhe Zhang,Sudharshan S. Vazhkudai,Xiaosong Ma,Frank Mueller</authors>
+		<jconf>ICPP</jconf>
+		<id>345099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A hybrid hardware/software approach to efficiently determine cache coherence Bottlenecks</title>
+		<year>2005</year>
+		<authors>Jaydeep Marathe,Frank Mueller,Bronis R. de Supinski</authors>
+		<jconf>ICS</jconf>
+		<id>360500</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Detailed cache coherence characterization for OpenMP benchmarks</title>
+		<year>2004</year>
+		<authors>Jaydeep Marathe,Anita Nagarajan,Frank Mueller</authors>
+		<jconf>ICS</jconf>
+		<id>360502</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Scalable, fault tolerant membership for MPI tasks on HPC systems</title>
+		<year>2006</year>
+		<authors>Jyothish Varma,Chao Wang,Frank Mueller,Christian Engelmann,Stephen L. Scott</authors>
+		<jconf>ICS</jconf>
+		<id>360837</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Proactive fault tolerance for HPC with Xen virtualization</title>
+		<year>2007</year>
+		<authors>Arun Babu Nagarajan,Frank Mueller,Christian Engelmann,Stephen L. Scott</authors>
+		<jconf>ICS</jconf>
+		<id>360886</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Preserving time in large-scale communication traces</title>
+		<year>2008</year>
+		<authors>Prasun Ratn,Frank Mueller,Bronis R. de Supinski,Martin Schulz</authors>
+		<jconf>ICS</jconf>
+		<id>360924</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>A Log(n) Multi-Mode Locking Protocol for Distributed Systems</title>
+		<year>2003</year>
+		<authors>Nirmit Desai,Frank Mueller</authors>
+		<jconf>IPDPS</jconf>
+		<id>408733</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Fault-Tolerance for Token-based Synchronization Protocols</title>
+		<year>2001</year>
+		<authors>Frank Mueller</authors>
+		<jconf>IPDPS</jconf>
+		<id>410137</id>
+		<label>0</label>
+		<organization>Humboldt University Berlin</organization>
+	</publication>
+	<publication>
+		<title>Timing Analysis: In Search of Multiple Paradigms</title>
+		<year>2004</year>
+		<authors>Frank Mueller</authors>
+		<jconf>IPDPS</jconf>
+		<id>410138</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Prioritized Token-Based Mutual Exclusion for Distributed Systems</title>
+		<year>1998</year>
+		<authors>Frank Mueller</authors>
+		<jconf>IPPS/SPDP</jconf>
+		<id>410139</id>
+		<label>0</label>
+		<organization>Inst. fur Inf., Humboldt-Univ., Berlin</organization>
+	</publication>
+	<publication>
+		<title>Adaptive DSM-Behavior via Speculative Data Distribution</title>
+		<year>1999</year>
+		<authors>Frank Mueller</authors>
+		<jconf>IPPS/SPDP Workshops</jconf>
+		<id>410140</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clix - A Hybrid Programming Environment for Distributed Objects and Distributed Shared Memory</title>
+		<year>2000</year>
+		<authors>Frank Mueller,Jorg Nolte,Alexander Schlaefer</authors>
+		<jconf>IPDPS Workshops</jconf>
+		<id>410142</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication Characteristics of Large-Scale Scientific Applications for Contemporary Cluster Architectures</title>
+		<year>2002</year>
+		<authors>Jeffrey S. Vetter,Frank Mueller</authors>
+		<jconf>IPDPS</jconf>
+		<id>411139</id>
+		<label>0</label>
+		<organization>Center for Appl. Sci. Comput., Lawrence Livermore Nat. Lab., CA</organization>
+	</publication>
+	<publication>
+		<title>Scalable Compression and Replay of Communication Traces in Massively P arallel E nvironments</title>
+		<year>2007</year>
+		<authors>Michael Noeth,Frank Mueller,Martin Schulz,Bronis R. de Supinski</authors>
+		<jconf>IPDPS</jconf>
+		<id>412098</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>A Job Pause Service under LAM/MPI+BLCR for Transparent Fault Tolerance</title>
+		<year>2007</year>
+		<authors>Chao Wang,Frank Mueller,Christian Engelmann,Stephen L. Scott</authors>
+		<jconf>IPDPS</jconf>
+		<id>412194</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Virtual Simple Architecture (VISA): Exceeding the Complexity Limit in Safe Real-Time Systems</title>
+		<year>2003</year>
+		<authors>Aravindh Anantaraman,Kiran Seth,Kaustubh Patil,Eric Rotenberg,Frank Mueller</authors>
+		<jconf>ISCA</jconf>
+		<id>418485</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A thread-aware debugger with an open interface</title>
+		<year>2000</year>
+		<authors>Daniel Schulz,Frank Mueller</authors>
+		<jconf>ISSTA</jconf>
+		<id>450958</id>
+		<label>0</label>
+		<organization>Humboldt Univ., Berlin, Germany</organization>
+	</publication>
+	<publication>
+		<title>A brief overview of scalable distributed concurrency services for hierarchical locking</title>
+		<year>2002</year>
+		<authors>Nirmit Desai,Frank Mueller</authors>
+		<jconf>Java Grande</jconf>
+		<id>466779</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Compiler Support for Software-Based Cache Partitioning</title>
+		<year>1995</year>
+		<authors>Frank Mueller</authors>
+		<jconf>Workshop on Languages, Compilers,  Tools for Real-Time Systems</jconf>
+		<id>483537</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Energy-conserving feedback EDF scheduling for embedded systems with real-time constraints</title>
+		<year>2002</year>
+		<authors>Ajay Dudani,Frank Mueller,Yifan Zhu</authors>
+		<jconf>LCTES-SCOPES</jconf>
+		<id>483645</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Compositional static instruction cache simulation</title>
+		<year>2004</year>
+		<authors>Kaustubh Patil,Kiran Seth,Frank Mueller</authors>
+		<jconf>LCTES</jconf>
+		<id>483695</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DVSleak: combining leakage reduction and voltage scaling in feedback EDF scheduling</title>
+		<year>2007</year>
+		<authors>Yifan Zhu,Frank Mueller</authors>
+		<jconf>LCTES</jconf>
+		<id>483703</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Generalizing parametric timing analysis</title>
+		<year>2007</year>
+		<authors>Joel Coffman,Christopher A. Healy,Frank Mueller,David B. Whalley</authors>
+		<jconf>LCTES</jconf>
+		<id>483743</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Parametric Timing Analysis</title>
+		<year>2001</year>
+		<authors>Emilio Vivancos,Christopher A. Healy,Frank Mueller,David B. Whalley</authors>
+		<jconf>LCTES/OM</jconf>
+		<id>483787</id>
+		<label>0</label>
+		<organization>Lawrence Livermore National Laboratory, Livermore, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Feedback EDF scheduling exploiting hardware-assisted asynchronous dynamic voltage scaling</title>
+		<year>2005</year>
+		<authors>Yifan Zhu,Frank Mueller</authors>
+		<jconf>LCTES</jconf>
+		<id>483800</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Penumbra: an Eclipse plugin for introductory programming</title>
+		<year>2003</year>
+		<authors>Frank Mueller,Antony L. Hosking</authors>
+		<jconf>OOPSLA Workshop on Eclipse Technology eXchange</jconf>
+		<id>522561</id>
+		<label>2</label>
+		<organization>Purdue University, West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>On the Design and Implementation of DSM-Threads</title>
+		<year>1997</year>
+		<authors>Frank Mueller</authors>
+		<jconf>PDPTA</jconf>
+		<id>536343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Debugging by Minimal Hardware Simulation</title>
+		<year>1994</year>
+		<authors>Frank Mueller,David B. Whalley,Marion G. Harmon</authors>
+		<jconf>PEARL</jconf>
+		<id>538001</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Avoiding Unconditional Jumps by Code Replication</title>
+		<year>1992</year>
+		<authors>Frank Mueller,David B. Whalley</authors>
+		<jconf>PLDI</jconf>
+		<id>542755</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Avoiding Conditional Branches by Code Replication</title>
+		<year>1995</year>
+		<authors>Frank Mueller,David B. Whalley</authors>
+		<jconf>PLDI</jconf>
+		<id>542756</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hardware profile-guided automatic page placement for ccNUMA systems</title>
+		<year>2006</year>
+		<authors>Jaydeep Marathe,Frank Mueller</authors>
+		<jconf>PPOPP</jconf>
+		<id>548411</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>A tunable holistic resiliency approach for high-performance computing systems</title>
+		<year>2009</year>
+		<authors>Stephen L. Scott,Christian Engelmann,Geoffroy Vallee,Thomas Naughton,Anand Tikotekar,George Ostrouchov,Chokchai Leangsuksun,Nichamon Naksinehaboon,Raja Nassar,Mihaela Paun,Frank Mueller,Chao Wang,Arun Babu Nagarajan,Jyothish Varma</authors>
+		<jconf>PPOPP</jconf>
+		<id>548602</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Timing Analysis for Sensor Network Nodes of the Atmega Processor Family</title>
+		<year>2005</year>
+		<authors>Sibin Mohan,Frank Mueller,David B. Whalley,Christopher A. Healy</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>563956</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of Static Analysis and Evolutionary Testing for the Verification of Timing Constraints</title>
+		<year>1998</year>
+		<authors>Frank Mueller,Joachim Wegener</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<id>563976</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bounding Worst-Case Data Cache Behavior by Analytically Deriving Cache Reference Patterns</title>
+		<year>2005</year>
+		<authors>Harini Ramaprasad,Frank Mueller</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564061</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Bounding Preemption Delay within Data Cache Reference Patterns for Real-Time Tasks</title>
+		<year>2006</year>
+		<authors>Harini Ramaprasad,Frank Mueller</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<id>564062</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Timing Analysis for Data Caches and Set-Associative Caches</title>
+		<year>1997</year>
+		<authors>Randall T. White,Christopher A. Healy,David B. Whalley,Frank Mueller,Marion G. Harmon</authors>
+		<jconf>IEEE Real Time Technology and Applications Symposium</jconf>
+		<id>564139</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Florida State Univ., Tallahassee, FL</organization>
+	</publication>
+	<publication>
+		<title>Improving WCET by Optimizing Worst-Case Paths</title>
+		<year>2005</year>
+		<authors>Wankang Zhao,William C. Kreahling,David B. Whalley,Christopher A. Healy,Frank Mueller</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564158</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Tuning the WCET of Embedded Applications</title>
+		<year>2004</year>
+		<authors>Wankang Zhao,Prasad Kulkarni,David B. Whalley,Christopher A. Healy,Frank Mueller,Gang-Ryung Uh</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564159</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feedback EDF Scheduling Exploiting Dynamic Voltage Scaling</title>
+		<year>2004</year>
+		<authors>Yifan Zhu,Frank Mueller</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564164</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bounding Worst-Case Response Time for Tasks with Non-Preemptive Regions</title>
+		<year>2008</year>
+		<authors>Harini Ramaprasad,Frank Mueller</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564178</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Timing Analysis of Modern Processor Pipelines via Hardware/Software Interactions</title>
+		<year>2008</year>
+		<authors>Sibin Mohan,Frank Mueller</authors>
+		<jconf>IEEE Real-Time and Embedded Technology and Applications Symposium</jconf>
+		<id>564199</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Enforcing Safety of Real-Time Schedules on Contemporary Processors Using a Virtual Simple Architecture (VISA)</title>
+		<year>2004</year>
+		<authors>Aravindh Anantaraman,Kiran Seth,Eric Rotenberg,Frank Mueller</authors>
+		<jconf>RTSS</jconf>
+		<id>564993</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Bounding Worst-Case Instruction Cache Performance</title>
+		<year>1994</year>
+		<authors>Robert D. Arnold,Frank Mueller,David B. Whalley,Marion G. Harmon</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<id>565015</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Florida State Univ., Tallahassee, FL</organization>
+	</publication>
+	<publication>
+		<title>ParaScale: Exploiting Parametric Timing Analysis for Real-Time Schedulers and Dynamic Voltage Scaling</title>
+		<year>2005</year>
+		<authors>Sibin Mohan,Frank Mueller,William Hawkins,Michael Root,Christopher A. Healy,David B. Whalley</authors>
+		<jconf>RTSS</jconf>
+		<id>565366</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>MiThOS - A Real-Time Micro-Kernel Threads Operating System</title>
+		<year>1995</year>
+		<authors>Frank Mueller,Viresh Rustagi,Ted Baker</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<id>565380</id>
+		<label>0</label>
+		<organization>Humboldt-Univ., Berlin</organization>
+	</publication>
+	<publication>
+		<title>FAST: Frequency-Aware Static Timing Analysis</title>
+		<year>2003</year>
+		<authors>Kiran Seth,Aravindh Anantaraman,Frank Mueller,Eric Rotenberg</authors>
+		<jconf>RTSS</jconf>
+		<id>565473</id>
+		<label>0</label>
+		<organization>Departments of CS/ECE & Center for Embedded Syst. Res., North Carolina State Univ., Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Tightening the Bounds on Feasible Preemption Points</title>
+		<year>2006</year>
+		<authors>Harini Ramaprasad,Frank Mueller</authors>
+		<jconf>RTSS</jconf>
+		<id>565611</id>
+		<label>0</label>
+		<organization>North Carolina State University, USA</organization>
+	</publication>
+	<publication>
+		<title>WCET Code Positioning</title>
+		<year>2004</year>
+		<authors>Wankang Zhao,David B. Whalley,Christopher A. Healy,Frank Mueller</authors>
+		<jconf>RTSS</jconf>
+		<id>565628</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Efficient On-the-fly Analysis of Program Behavior and Static Cache Simulation</title>
+		<year>1994</year>
+		<authors>Frank Mueller,David B. Whalley</authors>
+		<jconf>SAS</jconf>
+		<id>572816</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying and Exploiting Spatial Regularity in Data Memory References</title>
+		<year>2003</year>
+		<authors>Tushar Mohan,Bronis R. de Supinski,Sally A. McKee,Frank Mueller,Andy Yoo,Martin Schulz</authors>
+		<jconf>SC</jconf>
+		<id>575261</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Cross-Platform Performance Prediction of Parallel Applications Using Partial Execution</title>
+		<year>2005</year>
+		<authors>Leo T. Yang,Xiaosong Ma,Frank Mueller</authors>
+		<jconf>SC</jconf>
+		<id>575624</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh</organization>
+	</publication>
+	<publication>
+		<title>Poster reception - Scalable compression and replay of communication traces in massively parallel environments</title>
+		<year>2006</year>
+		<authors>Michael Noeth,Jaydeep Marathe,Frank Mueller,Martin Schulz,Bronis R. de Supinski</authors>
+		<jconf>SC</jconf>
+		<id>575649</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing center performance through coordinated data staging, scheduling and recovery</title>
+		<year>2007</year>
+		<authors>Zhe Zhang,Chao Wang,Sudharshan S. Vazhkudai,Xiaosong Ma,Gregory G. Pike,John W. Cobb,Frank Mueller</authors>
+		<jconf>SC</jconf>
+		<id>575965</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Proactive process-level live migration in HPC environments</title>
+		<year>2008</year>
+		<authors>Chao Wang,Frank Mueller,Christian Engelmann,Stephen L. Scott</authors>
+		<jconf>SC</jconf>
+		<id>576117</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Implementing Ada 9X Features Using POSIX Threads: Design Issues</title>
+		<year>1993</year>
+		<authors>E. W. Giering,Frank Mueller,Theodore P. Baker</authors>
+		<jconf>TRI-Ada</jconf>
+		<id>587996</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Features of the GNU Ada Runtime Library</title>
+		<year>1994</year>
+		<authors>E. W. Giering,Frank Mueller,Theodore P. Baker</authors>
+		<jconf>TRI-Ada</jconf>
+		<id>587997</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Rendezvous is Dead - Long Live the Protected Object</title>
+		<year>1998</year>
+		<authors>Dragan Macos,Frank Mueller</authors>
+		<jconf>SIGAda</jconf>
+		<id>588055</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Library Implementation of POSIX Threads under UNIX</title>
+		<year>1993</year>
+		<authors>Frank Mueller</authors>
+		<jconf>USENIX Winter</jconf>
+		<id>636203</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>2006 WCET Preface - Proceedings of the 6th Intl. Workshop on Worst-Case Execution Time Analysis (WCET'06)</title>
+		<year>2006</year>
+		<authors>Frank Mueller</authors>
+		<jconf>WCET</jconf>
+		<id>652994</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>2006 WCET Abstracts Collection - 6th Intl. Workshop on Worst-Case Execution Time (WCET) Analysis</title>
+		<year>2006</year>
+		<authors>Frank Mueller</authors>
+		<jconf>WCET</jconf>
+		<id>652995</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing and modeling encryption overhead for sensor network nodes</title>
+		<year>2003</year>
+		<authors>Prasanth Ganesan,Ramnath Venugopalan,Pushkin Peddabachagari,Alexander G. Dean,Frank Mueller,Mihail L. Sichitiu</authors>
+		<jconf>Wireless Sensor Networks and Applications</jconf>
+		<id>709580</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Analysis assistant for single-molecule force spectroscopy data on membrane proteins - MPTV</title>
+		<year>2006</year>
+		<authors>Frank Mueller,Daniel J. Muller,Dirk Labudde</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>765161</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LegoSim: simulation of embedded kernels over Pthreads</title>
+		<year>2002</year>
+		<authors>Thomas Roblitz,Frank Mueller,Oliver Buhn</authors>
+		<jconf>ACM Journal of Educational Resources in Computing</jconf>
+		<id>980242</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable hierarchical locking for distributed systems</title>
+		<year>2004</year>
+		<authors>Nirmit Desai,Frank Mueller</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>988641</id>
+		<label>0</label>
+		<organization>Department of Computer Science, North Carolina State University, 448 EGRC, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Communication characteristics of large-scale scientific applications for contemporary cluster architectures</title>
+		<year>2003</year>
+		<authors>Jeffrey S. Vetter,Frank Mueller</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989921</id>
+		<label>0</label>
+		<organization>Department of Computer Science, North Carolina State University, 448 EGRC, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of Static Analysis and Evolutionary Testing for the Verification of Timing Constraints</title>
+		<year>2001</year>
+		<authors>Joachim Wegener,Frank Mueller</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1053298</id>
+		<label>0</label>
+		<organization>Department of Computer Science, North Carolina State University, Raleigh, NC 27695-8206 mueller@cs.ncsu.edu</organization>
+	</publication>
+	<publication>
+		<title>Timing Analysis for Data and Wrap-Around Fill Caches</title>
+		<year>1999</year>
+		<authors>Randall T. White,Frank Mueller,Christopher A. Healy,David B. Whalley,Marion G. Harmon</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1053302</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feedback EDF Scheduling of Real-Time Tasks Exploiting Dynamic Voltage Scaling</title>
+		<year>2005</year>
+		<authors>Yifan Zhu,Frank Mueller</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1053323</id>
+		<label>0</label>
+		<organization>Department of Computer Science/Center for Embedded Systems Research, North Carolina State University, Raleigh, USA 27695-7534</organization>
+	</publication>
+	<publication>
+		<title>Improving WCET by applying worst-case path optimizations</title>
+		<year>2006</year>
+		<authors>Wankang Zhao,William C. Kreahling,David B. Whalley,Christopher A. Healy,Frank Mueller</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1053324</id>
+		<label>0</label>
+		<organization>Computer Science Department, North Carolina State University, USA</organization>
+	</publication>
+	<publication>
+		<title>MOLAR: adaptive runtime support for high-end computing operating and runtime systems</title>
+		<year>2006</year>
+		<authors>Christian Engelmann,Stephen L. Scott,David E. Bernholdt,Narasimha Raju Gottumukkala,Chokchai Leangsuksun,Jyothish Varma,Chao Wang,Frank Mueller,Aniruddha G. Shet,P. Sadayappan</authors>
+		<jconf>Operating Systems Review</jconf>
+		<id>1066870</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>The 3rd ACM SIGPLAN Workshop on Languages, Compilers, and Tools for Real-Time Systems (Workshop Report)</title>
+		<year>1997</year>
+		<authors>Frank Mueller</authors>
+		<jconf>SIGPLAN Notices</jconf>
+		<id>1067876</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving WCET by applying a WC code-positioning optimization</title>
+		<year>2005</year>
+		<authors>Wankang Zhao,David B. Whalley,Christopher A. Healy,Frank Mueller</authors>
+		<jconf>TACO</jconf>
+		<id>1077178</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Analysis of cache-coherence bottlenecks with hybrid hardware/software techniques</title>
+		<year>2006</year>
+		<authors>Jaydeep Marathe,Frank Mueller,Bronis R. de Supinski</authors>
+		<jconf>TACO</jconf>
+		<id>1077185</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Bounding Pipeline and Instruction Cache Performance</title>
+		<year>1999</year>
+		<authors>Christopher A. Healy,Robert D. Arnold,Frank Mueller,David B. Whalley,Marion G. Harmon</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1079604</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FAST: Frequency-aware static timing analysis</title>
+		<year>2006</year>
+		<authors>Kiran Seth,Aravindh Anantaraman,Frank Mueller,Eric Rotenberg</authors>
+		<jconf>ACM Trans. Embedded Comput. Syst.</jconf>
+		<id>1098625</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the special issue</title>
+		<year>2005</year>
+		<authors>Frank Mueller,Per Stenstrom</authors>
+		<jconf>ACM Trans. Embedded Comput. Syst.</jconf>
+		<id>1098649</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting synchronous and asynchronous DVS for feedback EDF scheduling on an embedded platform</title>
+		<year>2007</year>
+		<authors>Yifan Zhu,Frank Mueller</authors>
+		<jconf>ACM Trans. Embedded Comput. Syst.</jconf>
+		<id>1098706</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, North Carolina</organization>
+	</publication>
+	<publication>
+		<title>The worst-case execution-time problem - overview of methods and survey of tools</title>
+		<year>2008</year>
+		<authors>Reinhard Wilhelm,Jakob Engblom,Andreas Ermedahl,Niklas Holsti,Stephan Thesing,David B. Whalley,Guillem Bernat,Christian Ferdinand,Reinhold Heckmann,Tulika Mitra,Frank Mueller,Isabelle Puaut,Peter P. Puschner,Jan Staschulat,Per Stenstrom</authors>
+		<jconf>ACM Trans. Embedded Comput. Syst.</jconf>
+		<id>1098727</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Handling irreducible loops: optimized node splitting versus DJ-graphs</title>
+		<year>2002</year>
+		<authors>Sebastian Unger,Frank Mueller</authors>
+		<jconf>ACM Trans. Program. Lang. Syst.</jconf>
+		<id>1123952</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>METRIC: Memory tracing via dynamic binary rewriting to identify cache inefficiencies</title>
+		<year>2007</year>
+		<authors>Jaydeep Marathe,Frank Mueller,Tushar Mohan,Sally A. McKee,Bronis R. de Supinski,Andy Yoo</authors>
+		<jconf>ACM Trans. Program. Lang. Syst.</jconf>
+		<id>1124057</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Source-Code-Correlated Cache Coherence Characterization of OpenMP Benchmarks</title>
+		<year>2007</year>
+		<authors>Jaydeep Marathe,Frank Mueller</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126241</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Push-assisted migration of real-time tasks in multi-core processors</title>
+		<year>2009</year>
+		<authors>Abhik Sarkar,Frank Mueller,Harini Ramaprasad,Sibin Mohan</authors>
+		<jconf>LCTES</jconf>
+		<id>1212535</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Improving the availability of supercomputer job input data using temporal replication</title>
+		<year>2009</year>
+		<authors>Chao Wang,Zhe Zhang,Xiaosong Ma,Sudharshan S. Vazhkudai,Frank Mueller</authors>
+		<jconf>Computer Science - RD</jconf>
+		<id>1225438</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CheckerCore: enhancing an FPGA soft core to capture worst-case execution times</title>
+		<year>2009</year>
+		<authors>Jin Ouyang,Raghuveer Raghavendra,Sibin Mohan,Tao Zhang,Yuan Xie,Frank Mueller</authors>
+		<jconf>CASES</jconf>
+		<id>1238780</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Bounding Worst-Case Response Times of Tasks under PIP.</title>
+		<year>2009</year>
+		<authors>Harini Ramaprasad,Frank Mueller</authors>
+		<jconf>null</jconf>
+		<id>1321809</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Merging State and Preserving Timing Anomalies in Pipelines of High-End Processors.</title>
+		<year>2008</year>
+		<authors>Sibin Mohan,Frank Mueller</authors>
+		<jconf>null</jconf>
+		<id>1321957</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ScalaTrace: Scalable compression and replay of communication traces for high-performance computing.</title>
+		<year>2009</year>
+		<authors>Michael Noeth,Prasun Ratn,Frank Mueller,Martin Schulz,Bronis R. de Supinski</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>1339572</id>
+		<label>0</label>
+		<organization>North Carolina State University, Department of Computer Science, Raleigh, NC 27695-7534, United States</organization>
+	</publication>
+	<publication>
+		<title>PFetch: software prefetching exploiting temporal predictability of memory access streams</title>
+		<year>2008</year>
+		<authors>Jaydeep Marathe,Frank Mueller</authors>
+		<jconf>Proceedings of the 9th workshop on MEmory performance: DEaling with Applications, systems and architecture</jconf>
+		<id>1384967</id>
+		<label>0</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>The rendezvous is dead&mdash;long live the protected object</title>
+		<year>1998</year>
+		<authors>Dragan Macos,Frank Mueller</authors>
+		<jconf>Proceedings of the 1998 annual ACM SIGAda international conference on Ada</jconf>
+		<id>1396886</id>
+		<label>0</label>
+		<organization>Humboldt-Universität zu Berlin , Institut für Informatik, 10099 Berlin, Germany</organization>
+	</publication>
+	<publication>
+		<title>Analytically bounding data cache behavior for real-time systems</title>
+		<year>2008</year>
+		<authors>Frank Mueller</authors>
+		<jconf>null</jconf>
+		<id>1429697</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Exploiting hardware/software interactions for analyzing embedded systems</title>
+		<year>2008</year>
+		<authors>Frank Mueller</authors>
+		<jconf>null</jconf>
+		<id>1430763</id>
+		<label>0</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Analysis assistant for single-molecule force spectroscopy data on membrane proteins—MPTV</title>
+		<year>2006</year>
+		<authors>Frank Mueller,Daniel J. Muller,Dirk Labudde</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1578715</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Static cache simulation and its applications</title>
+		<year>1995</year>
+		<authors>Frank Mueller</authors>
+		<jconf>null</jconf>
+		<id>1724319</id>
+		<label>0</label>
+		<organization>The Florida State Univ.</organization>
+	</publication>
+</person>

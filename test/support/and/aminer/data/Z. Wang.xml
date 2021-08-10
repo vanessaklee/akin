@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>71320</personID>
+	<FullName>Z. Wang</FullName>
+	<FirstName>Z.</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>Word Segmentation Method using Inductive Learning for Chinese Text</title>
+		<year>2000</year>
+		<authors>Z. Wang,Kenji Araki,Koji Tochinai</authors>
+		<jconf>Artificial Intelligence and Soft Computing</jconf>
+		<id>50457</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An index-based checkpointing/recovery approach for distributed systems</title>
+		<year>2001</year>
+		<authors>B. Gupta,S. K. Banerjee,Z. Wang</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<id>78532</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scheduling High-Level Blocks for Functional Simulation</title>
+		<year>1989</year>
+		<authors>Zhicheng Wang,Peter M. Maurer</authors>
+		<jconf>DAC</jconf>
+		<id>134242</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A bandpass sigma-delta modulator employing micro-mechanical resonator</title>
+		<year>2003</year>
+		<authors>X. Wang,Y. P. Xu,Z. Wang,S. Liw,W. H. Sun,L. S. Tan</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>424723</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Comput. Eng., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A 1-V UHF low noise amplifier for ultralow-power applications</title>
+		<year>2006</year>
+		<authors>H. S. Savci,Z. Wang,A. Sula,Numan Sadi Dogan,Ercument Arvas</authors>
+		<jconf>ISCAS</jconf>
+		<id>430272</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>1-V ultra-low-power CMOS LC VCO for UHF quadrature signal generation</title>
+		<year>2006</year>
+		<authors>Z. Wang,H. S. Savci,Numan Sadi Dogan</authors>
+		<jconf>ISCAS</jconf>
+		<id>430358</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decomposition of Multiple-Valued Relations </title>
+		<year>1997</year>
+		<authors>Marek A. Perkowski,Malgorzata Marek-Sadowska,Lech Jozwiak,Tadeusz Luba,Stan Grygiel,Miroslawa Nowicka,Rahul Malvi,Zhi Wang,Jin S. Zhang</authors>
+		<jconf>ISMVL</jconf>
+		<id>441220</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified Defense Against DDoS Attacks</title>
+		<year>2007</year>
+		<authors>Muthusrinivasan Muthuprasanna,G. Manimaran,Zhengdao Wang</authors>
+		<jconf>Networking</jconf>
+		<id>513660</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Digital Watermarking via Public-Key Cryptosystems</title>
+		<year>2007</year>
+		<authors>H. K. Dai,C.-T. Yeh,Z. Wang</authors>
+		<jconf>PDPTA</jconf>
+		<id>537543</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The design and fabrication of welded tubular joints using solid modelling techniques</title>
+		<year>1993</year>
+		<authors>Z. Wang,S. Bedi,D. C. Weckman</authors>
+		<jconf>Solid Modeling and Applications</jconf>
+		<id>606211</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DC Coefficients Recovery-based Error Concealment Technique for Mpeg-2 Video Streams</title>
+		<year>2003</year>
+		<authors>J. Cao,Z. Wang,F. Li</authors>
+		<jconf>WAA</jconf>
+		<id>650289</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CT Image of Liver Cancer Enhancement Using Wavelet Transform</title>
+		<year>2003</year>
+		<authors>D. Feng,Z. Wang,Y. Cheng,W. Bao,S. Zhou,Y. Luo</authors>
+		<jconf>WAA</jconf>
+		<id>650329</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wavelt Transform Application of Video Coding at Very Low Bit Rate</title>
+		<year>2003</year>
+		<authors>X. Fu,Z. Wang,D. Liang</authors>
+		<jconf>WAA</jconf>
+		<id>650333</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Radar Detection of Minimum Altitude Flying Targets Based on Wavelet Transforms</title>
+		<year>2003</year>
+		<authors>H. Li,C. Shang,Y. Hang,Z. Wang</authors>
+		<jconf>WAA</jconf>
+		<id>650404</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatically Generating Ada95 Codes for Concurrent Objects</title>
+		<year>1998</year>
+		<authors>Z. Wang,H. Zhao,L. Zhang</authors>
+		<jconf>TOOLS (27)</jconf>
+		<id>684215</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Walk to here: a voice driven animation system</title>
+		<year>2006</year>
+		<authors>Z. Wang,M. van de Panne</authors>
+		<jconf>Symposium on Computer Animation</jconf>
+		<id>692736</id>
+		<label>12</label>
+		<organization>University of British Columbia</organization>
+	</publication>
+	<publication>
+		<title>Energy efficiency of two virtual infrastructures for MANETs</title>
+		<year>2005</year>
+		<authors>Z. Wang,J. Zhang</authors>
+		<jconf>IPCCC</jconf>
+		<id>693181</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Closed On-Line Bin Packing</title>
+		<year>2002</year>
+		<authors>E. Asgeirsson,Urtzi Ayesta,Edward G. Coffman Jr,J. Etra,Petar Momcilovic,D. Phillips,V. Vokhshoori,Z. Wang,J. Wolfe</authors>
+		<jconf>Acta Cybern.</jconf>
+		<id>741735</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Validation and enclosure of solutions of linear complementarity problems</title>
+		<year>2007</year>
+		<authors>Z. Wang</authors>
+		<jconf>Computing</jconf>
+		<id>809975</id>
+		<label>16</label>
+		<organization>Nanjing University, Department of Mathematics, HanKouLu 22, 210093, Nanjing, China and Chinese Academy of Sciences, Institute of Computational Mathematics and Scientific/Engineering Computing ZhongGuanCun DongLu 55, Beijing, 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Micromachined Polycrystalline Sige-Based Thermopiles for Micropower Generation on Human Body</title>
+		<year>2008</year>
+		<authors>Z. Wang,V. Leonov,P. Fiorini,C. Van Hoof</authors>
+		<jconf>CoRR</jconf>
+		<id>826341</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Good equidistant codes constructed from certain combinatorial designs</title>
+		<year>2008</year>
+		<authors>K. Sinha,Z. Wang,D. Wu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>855485</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>System development for parallel cellular automata and its applications</title>
+		<year>1999</year>
+		<authors>C. Hecker,David Roytenberg,Jorg-Rudiger Sack,Z. Wang</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>877438</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Biomolecular Interaction Network Database and related tools 2005 update</title>
+		<year>2005</year>
+		<authors>C. Alfarano,C. E. Andrade,K. Anthony,N. Bahroos,M. Bajec,K. Bantoft,Doron Betel,B. Bobechko,K. Boutilier,E. Burgess,K. Buzadzija,R. Cavero,C. D'Abreo,Ian Donaldson,D. Dorairajoo,M. J. Dumontier,M. R. Dumontier,V. Earles,R. Farrall,Howard J. Feldman,E. Garderman,Y. Gong,R. Gonzaga,V. Grytsan,E. Gryz,V. Gu,E. Haldorsen,A. Halupa,R. Haw,A. Hrvojic,L. Hurrell,Ruth Isserlin,F. Jack,F. Juma,A. Khan,T. Kon,S. Konopinsky,V. Le,E. Lee,S. Ling,M. Magidin,J. Moniakis,J. Montojo,S. Moore,B. Muskat,I. Ng,J. P. Paraiso,B. Parker,Greg Pintilie,R. Pirone,John J. Salama,S. Sgro,T. Shan,Y. Shu,J. Siew,D. Skinner,Kevin A. Snyder,R. Stasiuk,D. Strumpf,Brigitte Tuekam,S. Tao,Z. Wang,M. White,R. Willis,Cheryl Wolting,S. Wong,A. Wrong,C. Xin,R. Yao,B. Yates,S. Zhang,K. Zheng,Tony Pawson,B. F. Francis Ouellette,Christopher W. V. Hogue</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1020390</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Solving the Inverse Scattering Problem with RBF Neural Networks: Noise-Free Case</title>
+		<year>1999</year>
+		<authors>Z. Wang,Zygmunt Ulanowski,P. H. Kaye</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<id>1021973</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Java-Based Enterprise System Architecture for Implementing a Continuously Supported and Entirely Web-Based Exercise Solution</title>
+		<year>2006</year>
+		<authors>Z. Wang,T. Kiryu</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<id>1111416</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editorial Foreword to the Special Issue on Intelligent Computation for Bioinformatics</title>
+		<year>2008</year>
+		<authors>Z. Wang,X. Liu</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part C</jconf>
+		<id>1133297</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non Contact Surface Potential Measurements for Charging Reduction During Manufacturing of Metal-Insulator-Metal Capacitors</title>
+		<year>2001</year>
+		<authors>Jan Ackaert,Z. Wang,Eddy De Backer,P. Colson,Peter Coppens</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<id>1153477</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global Asymptotic Stability of Delayed Cellular Neural Networks</title>
+		<year>2007</year>
+		<authors>H. Zhang,Z. Wang</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1174256</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A fixture design system for networked manufacturing</title>
+		<year>2007</year>
+		<authors>Y. G. Kang,Z. Wang,R. Li,C. Jiang</authors>
+		<jconf>Int. J. Computer Integrated Manufacturing</jconf>
+		<id>1188388</id>
+		<label>9</label>
+		<organization>School of Mechatronic Engineering, Northwestern Polytechnical University, Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>Error bounds for complementarity problems with tridiagonal nonlinear functions</title>
+		<year>2008</year>
+		<authors>Gotz Alefeld,Z. Wang</authors>
+		<jconf>Computing</jconf>
+		<id>1222160</id>
+		<label>16</label>
+		<organization>Nanjing University, Department of Mathematics, 210093, Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Robust Synchronization of an Array of Coupled Stochastic Discrete-Time Delayed Neural Networks</title>
+		<year>2008</year>
+		<authors>J. Liang,Z. Wang,Y. Liu,X. Liu</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1230475</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using stereo geometry towards accurate 3D reconstruction</title>
+		<year>2009</year>
+		<authors>Z. Wang,Boubakeur Boufama</authors>
+		<jconf>J. Knowledge Management</jconf>
+		<id>1265467</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Generalized Expansion Matching Based Feature Extractor</title>
+		<year>1996</year>
+		<authors>Z. Wang,R. K. Rao,D. Nandy,J. Ben-Arie,N. Jojic</authors>
+		<jconf>Proceedings of the 13th International Conference on Pattern Recognition - Volume 2</jconf>
+		<id>1352402</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power-Aware Test Data Compression for Embedded IP Cores</title>
+		<year>2006</year>
+		<authors>N. Badereddine,Z. Wang,P. Girard,K. Chakrabarty,S. Pravossoudovitch,C. Landrault</authors>
+		<jconf>Proceedings of the 15th Asian Test Symposium</jconf>
+		<id>1372129</id>
+		<label>28</label>
+		<organization>Duke University</organization>
+	</publication>
+	<publication>
+		<title>Change analysis of land surface temperature based on robust statistics in the estuarine area of Pearl River (China) from 1990 to 2000 by Landsat TM/ETM+ data</title>
+		<year>2007</year>
+		<authors>J. Zhang,Y. Wang,Z. Wang</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1374590</id>
+		<label>14</label>
+		<organization>Faculty of Science and Technology, University of Macau, Macao, China</organization>
+	</publication>
+	<publication>
+		<title>Gold nanograins deposited from a liquid metal ion source</title>
+		<year>1997</year>
+		<authors>C. Vieu,J. Gierak,C. David,Y. Lagadec,A. Bourlange,D. Larigaldie,Z. Wang,J. Flicstein,H. Launois</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1398429</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamics of Controlled Mechanical Systems with Delayed Feedback</title>
+		<year>2002</year>
+		<authors>H. Hu,Z. Wang</authors>
+		<jconf>null</jconf>
+		<id>1424306</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementation of frequency offset correction using CORDIC algorithm for 5 GHz WLAN applications</title>
+		<year>2002</year>
+		<authors>H. Zhana,Z. Wang,S. S. Chandra</authors>
+		<jconf>Proceedings of the The 8th International Conference on Communication Systems - Volume 02</jconf>
+		<id>1602955</id>
+		<label>31</label>
+		<organization>VLSI Circuit Design & Test Dept., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Decoding metrics and their applications in VLSI turbo decoders</title>
+		<year>2000</year>
+		<authors>Z. Wang</authors>
+		<jconf>Proceedings of the Acoustics, Speech, and Signal Processing, 2000. on IEEE International Conference - Volume 06</jconf>
+		<id>1603794</id>
+		<label>29</label>
+		<organization>Dept. of Electr. & Comput. Eng., Minnesota Univ., Minneapolis, MN, USA</organization>
+	</publication>
+	<publication>
+		<title>Closed on-line bin packing</title>
+		<year>2002</year>
+		<authors>E. Asgeirsson,U. Ayesta,E. Coffman,J. Etra,P. Momcilovic,D. Phillips,V. Vokhshoori,Z. Wang,J. Wolfe</authors>
+		<jconf>Acta Cybernetica</jconf>
+		<id>1617907</id>
+		<label>13</label>
+		<organization>Graduate School of Business, Columbia University, New York, NY</organization>
+	</publication>
+	<publication>
+		<title>The solution of nonlinear partial difference equation</title>
+		<year>1990</year>
+		<authors>Z. Wang</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>1645492</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast discrete sine transform algorithms</title>
+		<year>1990</year>
+		<authors>Z. Wang</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1646684</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transformation theorems for fuzzy integrals on fuzzy sets</title>
+		<year>1990</year>
+		<authors>Z. Wang,Z. Qiao</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>1649001</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A shortest augmenting path algorithm for the semi-assignment problem</title>
+		<year>1992</year>
+		<authors>J. Kennington,Z. Wang</authors>
+		<jconf>Operations Research</jconf>
+		<id>1679779</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High resolution schemes for steady flow computation</title>
+		<year>1991</year>
+		<authors>Z. Wang,B. E. Richards</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1683968</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fiber Tract Mapping from Diffusion Tensor MRI</title>
+		<year>2001</year>
+		<authors>B. C. Vemuri,Y. Chen,M. Rao,T. McGraw,Z. Wang,T. Mareci</authors>
+		<jconf>Proceedings of the IEEE Workshop on Variational and Level Set Methods (VLSM'01)</jconf>
+		<id>1694796</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast unified computation of the multi-dimensional discrete sinusoidal transforms</title>
+		<year>2002</year>
+		<authors>L. Z. Cheng,Z. Wang,Z. H. Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1703282</id>
+		<label>27</label>
+		<organization>7700 SW Mohawk, St. Tualatin, OR</organization>
+	</publication>
+</person>

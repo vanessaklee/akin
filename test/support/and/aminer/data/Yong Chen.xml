@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>15610</personID>
+	<FullName>Yong Chen</FullName>
+	<FirstName>Yong</FirstName>
+	<LastName>Chen</LastName>
+	<publication>
+		<title>Affective Computing Model Based on Rough Fuzzy Sets</title>
+		<year>2006</year>
+		<authors>Yong Chen,Yuehui Chen</authors>
+		<jconf>IEEE ICCI</jconf>
+		<id>9161</id>
+		<label>0</label>
+		<organization>Sch. of Sci., Jinan Univ.</organization>
+	</publication>
+	<publication>
+		<title>A fault tolerant topology control in wireless sensor networks</title>
+		<year>2005</year>
+		<authors>Yong Chen,S. H. Son</authors>
+		<jconf>AICCSA</jconf>
+		<id>32405</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Virginia Univ., Charlottesville, VA, USA</organization>
+	</publication>
+	<publication>
+		<title>Implementation and Evaluation of MPI+OpenMP Programming Model on Dawning3000</title>
+		<year>2003</year>
+		<authors>Yong Chen,Guoliang Chen,Yinlong Xu,Jiulong Shan</authors>
+		<jconf>Applied Informatics</jconf>
+		<id>45996</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>QoS Oriented Resource Reservation in Shared Environments</title>
+		<year>2006</year>
+		<authors>Ming Wu,Xian-He Sun,Yong Chen</authors>
+		<jconf>CCGRID</jconf>
+		<id>83184</id>
+		<label>3</label>
+		<organization>Illinois Institute of Technology, USA</organization>
+	</publication>
+	<publication>
+		<title>STAS: A Scalability Testing and Analysis System</title>
+		<year>2006</year>
+		<authors>Yong Chen,Xian-He Sun</authors>
+		<jconf>CLUSTER</jconf>
+		<id>100030</id>
+		<label>3</label>
+		<organization>Illinois Inst. of Technol., Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>CoStore: A Reliable and Highly Available Storage System Using Clusters</title>
+		<year>2002</year>
+		<authors>Yong Chen,Lionel M. Ni,Cheng-Zhong Xu,Mingyao Yang,Jay F. Kusler,Pei Zheng</authors>
+		<jconf>HPCS</jconf>
+		<id>254726</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci. & Eng., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Risk Probability Estimating Based on Clustering</title>
+		<year>2003</year>
+		<authors>Yong Chen,Christian Damsgaard Jensen,Jean-Marc Seigneur,Elizabeth Gray</authors>
+		<jconf>IAW</jconf>
+		<id>261819</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elastic Algorithm: A New Path Planning Algorithm About Auto-navigation in 3D Virtual Scene</title>
+		<year>2006</year>
+		<authors>Yong Chen,Ke-qin Wu,Dong Wang,Ge Chen</authors>
+		<jconf>ICAT</jconf>
+		<id>273691</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Optimization Method Based on Chaotic Immune Evolutionary Algorithm</title>
+		<year>2005</year>
+		<authors>Yong Chen,Xiyue Huang</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337522</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CoStore: A Storage Cluster Architecture Using Network Attached Storage Devices</title>
+		<year>2002</year>
+		<authors>Yong Chen,Lionel M. Ni,Mingyao Yang</authors>
+		<jconf>ICPADS</jconf>
+		<id>340886</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalability of Heterogeneous Computing</title>
+		<year>2005</year>
+		<authors>Xian-He Sun,Yong Chen,Ming Wu</authors>
+		<jconf>ICPP</jconf>
+		<id>344409</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Runtime Parallel Incremental Scheduling of DAGs</title>
+		<year>2000</year>
+		<authors>Min-You Wu,Wei Shu,Yong Chen</authors>
+		<jconf>ICPP</jconf>
+		<id>344479</id>
+		<label>11</label>
+		<organization>New Mexico Univ., Albuquerque, NM</organization>
+	</publication>
+	<publication>
+		<title>2008 International Conference on Parallel Processing September 8-12, 2008 Portland, Oregon Exploring Parallel I/O Concurrency with Speculative Prefetching</title>
+		<year>2008</year>
+		<authors>Yong Chen,Surendra Byna,Xian-He Sun,Rajeev Thakur,William Gropp</authors>
+		<jconf>ICPP</jconf>
+		<id>345092</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wireless Drive and Control of a Swimming Microrobot</title>
+		<year>2002</year>
+		<authors>Tao Mei,Yong Chen,Guoqiang Fu,Deyi Kong</authors>
+		<jconf>ICRA</jconf>
+		<id>353851</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Runtime System for Dynamic DAG Programming</title>
+		<year>2000</year>
+		<authors>Min-You Wu,Wei Shu,Yong Chen</authors>
+		<jconf>IPDPS Workshops</jconf>
+		<id>411327</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Data Access Performance with Server Push Architecture</title>
+		<year>2007</year>
+		<authors>Xian-He Sun,Surendra Byna,Yong Chen</authors>
+		<jconf>IPDPS</jconf>
+		<id>412154</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Weighted Rough Graph and Its Application</title>
+		<year>2006</year>
+		<authors>Tong He,Yong Chen,Kaiquan Shi</authors>
+		<jconf>ISDA (1)</jconf>
+		<id>434450</id>
+		<label>0</label>
+		<organization>Shandong Univ., China; Jinan Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Novel Exponential Stability Criteria for Fuzzy Cellular Neural Networks with Time-Varying Delay</title>
+		<year>2004</year>
+		<authors>Yong Chen,Xiaofeng Liao</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>441921</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Generalized Congruence Neural Networks</title>
+		<year>2005</year>
+		<authors>Yong Chen,Guoyin Wang,Fan Jin,Tianyun Yan</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>441969</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Robust Stability of BAM Neural Networks with Constant Delays</title>
+		<year>2004</year>
+		<authors>Chuandong Li,Xiaofeng Liao,Yong Chen</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442448</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Region-Based Image Enhancement Algorithm with the Grossberg Network</title>
+		<year>2006</year>
+		<authors>Bo Mi,Pengcheng Wei,Yong Chen</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442652</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RBF Kernel Based Support Vector Machine with Universal Approximation and Its Application</title>
+		<year>2004</year>
+		<authors>Junping Wang,Quanshi Chen,Yong Chen</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442899</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Symmetric Cryptography Based on Chaotic Signal Generator and a Clipped Neural Network</title>
+		<year>2004</year>
+		<authors>Tsing Zhou,Xiaofeng Liao,Yong Chen</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443313</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Statistical Neurodynamics for Sequence Processing Neural Networks with Finite Dilution</title>
+		<year>2007</year>
+		<authors>Pan Zhang,Yong Chen</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443357</id>
+		<label>17</label>
+		<organization>Institute of Theoretical Physics, Lanzhou University, 730000 Lanzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Target Recognition of FLIR Images on Radial Basis Function Neural Network</title>
+		<year>2007</year>
+		<authors>Jun Liu,Xiyue Huang,Yong Chen,Naishuai He</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443625</id>
+		<label>8</label>
+		<organization>Automation College, Chongqing University, Chongqing 400030, China</organization>
+	</publication>
+	<publication>
+		<title>A Taxonomy of Data Prefetching Mechanisms</title>
+		<year>2008</year>
+		<authors>Surendra Byna,Yong Chen,Xian-He Sun</authors>
+		<jconf>ISPAN</jconf>
+		<id>446119</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Exact analytical solutions to the nonlinear Schrodinger equation model</title>
+		<year>2005</year>
+		<authors>Biao Li,Yong Chen,Qi Wang</authors>
+		<jconf>ISSAC</jconf>
+		<id>449452</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trust Propagation in Small Worlds</title>
+		<year>2003</year>
+		<authors>Elizabeth Gray,Jean-Marc Seigneur,Yong Chen,Christian Damsgaard Jensen</authors>
+		<jconf>iTrust</jconf>
+		<id>458294</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hypertool/2: A Parallel Incremental DAG Scheduling System</title>
+		<year>2000</year>
+		<authors>Min-You Wu,Wei Shu,Yong Chen</authors>
+		<jconf>PDPTA</jconf>
+		<id>537213</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Risk Probability Estimating Using Fuzzy Clustering for Dynamic Security Assessment</title>
+		<year>2005</year>
+		<authors>Fang Liu,Yong Chen,Kui Dai,Zhiying Wang,Zhiping Cai</authors>
+		<jconf>RSFDGrC (2)</jconf>
+		<id>561952</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data access history cache and associated data prefetching mechanisms</title>
+		<year>2007</year>
+		<authors>Yong Chen,Surendra Byna,Xian-He Sun</authors>
+		<jconf>SC</jconf>
+		<id>575992</id>
+		<label>3</label>
+		<organization>Illinois Institute of Technology, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Parallel I/O prefetching using MPI file caching and I/O signatures</title>
+		<year>2008</year>
+		<authors>Surendra Byna,Yong Chen,Xian-He Sun,Rajeev Thakur,William Gropp</authors>
+		<jconf>SC</jconf>
+		<id>576077</id>
+		<label>3</label>
+		<organization>Illinois Institute of Technology, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Hiding I/O latency with pre-execution prefetching for parallel applications</title>
+		<year>2008</year>
+		<authors>Yong Chen,Surendra Byna,Xian-He Sun,Rajeev Thakur,William Gropp</authors>
+		<jconf>SC</jconf>
+		<id>576121</id>
+		<label>3</label>
+		<organization>Illinois Institute of Technology, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Mining circumstance-oriented association rules using singular value decomposition technique</title>
+		<year>2004</year>
+		<authors>Yong Chen,Kwok-Ping Chan</authors>
+		<jconf>SMC (4)</jconf>
+		<id>606533</id>
+		<label>20</label>
+		<organization>Dept. of Comput. Sci., Hong Kong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>End-to-End Trust Starts with Recognition</title>
+		<year>2003</year>
+		<authors>Jean-Marc Seigneur,Stephen Farrell,Christian Damsgaard Jensen,Elizabeth Gray,Yong Chen</authors>
+		<jconf>SPC</jconf>
+		<id>614985</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generalized Cascade Synchronization of Discrete-time Henon-like Map</title>
+		<year>2008</year>
+		<authors>Yin Li,Biao Li,Yong Chen</authors>
+		<jconf>ICYCS</jconf>
+		<id>730633</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An accurate sampling-based method for approximating geometry</title>
+		<year>2007</year>
+		<authors>Yong Chen</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779852</id>
+		<label>22</label>
+		<organization>Epstein Department of Industrial and Systems Engineering, University of Southern California, Los Angeles, CA 90089, United States</organization>
+	</publication>
+	<publication>
+		<title>On the (co)girth of a connected matroid</title>
+		<year>2007</year>
+		<authors>Jung Jin Cho,Yong Chen,Yu Ding</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>838723</id>
+		<label>3</label>
+		<organization>Department of Mechanical and Industrial Engineering, The University of Iowa, Iowa City, IA 52242, USA</organization>
+	</publication>
+	<publication>
+		<title>Trust Evolution Policies for Security in Collaborative Ad Hoc Applications</title>
+		<year>2006</year>
+		<authors>Elizabeth Gray,Christian Damsgaard Jensen,Paul O'Connell,Stefan Weber,Jean-Marc Seigneur,Yong Chen</authors>
+		<jconf>Electr. Notes Theor. Comput. Sci.</jconf>
+		<id>867540</id>
+		<label>6</label>
+		<organization>Department of Computer Science, Trinity College, Dublin, Ireland</organization>
+	</publication>
+	<publication>
+		<title>A Region Based Method to Automated Design of Multi-Piece Molds with Application to Rapid Tooling</title>
+		<year>2002</year>
+		<authors>Yong Chen,David W. Rosen</authors>
+		<jconf>J. Comput. Inf. Sci. Eng.</jconf>
+		<id>969213</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Reverse Glue Approach to Automated Construction of Multi-Piece Molds</title>
+		<year>2003</year>
+		<authors>Yong Chen,David W. Rosen</authors>
+		<jconf>J. Comput. Inf. Sci. Eng.</jconf>
+		<id>969215</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Server-Based Data Push Architecture for Multi-Processor Environments</title>
+		<year>2007</year>
+		<authors>Xian-He Sun,Surendra Byna,Yong Chen</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>974105</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algorithm-system scalability of heterogeneous computing</title>
+		<year>2008</year>
+		<authors>Yong Chen,Xian-He Sun,Ming Wu</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>990353</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA</organization>
+	</publication>
+	<publication>
+		<title>Using data mining techniques and rough set theory for language modeling</title>
+		<year>2007</year>
+		<authors>Yong Chen,Kwok-Ping Chan</authors>
+		<jconf>ACM Trans. Asian Lang. Inf. Process.</jconf>
+		<id>1077469</id>
+		<label>20</label>
+		<organization>University of Hong Kong, The 54th Research Institute of CTE, China and Fudan University</organization>
+	</publication>
+	<publication>
+		<title>Quality-oriented-maintenance for multiple interactive tooling components in discrete manufacturing processes</title>
+		<year>2006</year>
+		<authors>Yong Chen,Jionghua Jin</authors>
+		<jconf>IEEE Transactions on Reliability</jconf>
+		<id>1126728</id>
+		<label>3</label>
+		<organization>Dept. of Mech., Univ. of Iowa, Iowa City, IA, USA</organization>
+	</publication>
+	<publication>
+		<title>Reliability of two-stage weighted-k-out-of-n systems with components in common</title>
+		<year>2005</year>
+		<authors>Yong Chen,Qingyu Yang</authors>
+		<jconf>IEEE Transactions on Reliability</jconf>
+		<id>1126774</id>
+		<label>3</label>
+		<organization>Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA</organization>
+	</publication>
+	<publication>
+		<title>Quality-reliability chain modeling for system-reliability analysis of complex manufacturing processes</title>
+		<year>2005</year>
+		<authors>Yong Chen,Jionghua Jin</authors>
+		<jconf>IEEE Transactions on Reliability</jconf>
+		<id>1126795</id>
+		<label>3</label>
+		<organization>Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA</organization>
+	</publication>
+	<publication>
+		<title>A new elliptic equation rational expansion method and its application to the shallow long wave approximate equations</title>
+		<year>2006</year>
+		<authors>Yong Chen,Qi Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1144949</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Weierstrass semi-rational expansion method and new doubly periodic solutions of the generalized Hirota-Satsuma coupled KdV system</title>
+		<year>2006</year>
+		<authors>Yong Chen,Zhenya Yan</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145313</id>
+		<label>19</label>
+		<organization>Nonlinear Science Center and Department of Mathematics, Ningbo University, Ningbo, PR China</organization>
+	</publication>
+	<publication>
+		<title>Generalized Q-S (lag, anticipated and complete) synchronization in modified Chua's circuit and Hindmarsh-Rose systems</title>
+		<year>2006</year>
+		<authors>Qi Wang,Yong Chen</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145526</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generalized algebraic method and new exact traveling wave solutions for (2+1)-dimensional dispersive long wave equation</title>
+		<year>2006</year>
+		<authors>Qi Wang,Yong Chen,Hongqing Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145569</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The function cascade synchronization approach with uncertain parameters or not for hyperchaotic systems</title>
+		<year>2008</year>
+		<authors>Yong Chen,Hongli An,Zhibin Li</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147461</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical solutions of coupled Burgers equations with time- and space-fractional derivatives</title>
+		<year>2008</year>
+		<authors>Yong Chen,Hongli An</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147715</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New exact travelling wave solutions for the shallow long wave approximate equations</title>
+		<year>2005</year>
+		<authors>Qi Wang,Yong Chen,Biao Li,Hongqing Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148267</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new general algebraic method with symbolic computation to construct new doubly-periodic solutions of the (2 + 1)-dimensional dispersive long wave equation</title>
+		<year>2005</year>
+		<authors>Yong Chen,Qi Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148754</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new general algebraic method with symbolic computation to construct new travelling wave solution for the (1 + 1)-dimensional dispersive long wave equation</title>
+		<year>2005</year>
+		<authors>Yong Chen,Qi Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148878</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Homotopy perturbation method for a type of nonlinear coupled equations with parameters derivative</title>
+		<year>2008</year>
+		<authors>Yong Chen,Hongli An</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149360</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical complexiton solutions for the complex KdV equation by the homotopy perturbation method</title>
+		<year>2008</year>
+		<authors>Hongli An,Yong Chen</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149618</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New exact solutions for modified nonlinear dispersive equations mK(m, n) in higher dimensions spaces</title>
+		<year>2004</year>
+		<authors>Yong Chen,Biao Li,Hongqing Zhang</authors>
+		<jconf>Mathematics and Computers in Simulation</jconf>
+		<id>1158389</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An effective algorithm of motif finding problem</title>
+		<year>2008</year>
+		<authors>Yong Chen,Guojun Li</authors>
+		<jconf>IJBRA</jconf>
+		<id>1169083</id>
+		<label>0</label>
+		<organization>School of Mathematics and System Sciences, Shandong University, Jinan 250100, Shandong, China; School of Sciences, Jinan University, Jinan 250022, Shandong, China.</organization>
+	</publication>
+	<publication>
+		<title>A Model and Algorithm of Two-dimensional Optimum Layout in Blanking</title>
+		<year>2002</year>
+		<authors>Yong Chen,Min Tang,Ruofeng Tong,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>1206623</id>
+		<label>24</label>
+		<organization>State Key Lab. of CAD& CG, Zhejiang Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Study on Steering Control Strategy of Electric Vehicles Driven by Hub-Motors</title>
+		<year>2009</year>
+		<authors>Yong Chen,Zhongkui Lu,Daming Zhang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211336</id>
+		<label>23</label>
+		<organization>School of Automotive and Traffic Engineering, Liaoning University of Technology, Jinzhou, China 121001</organization>
+	</publication>
+	<publication>
+		<title>Taxonomy of Data Prefetching for Multicore Processors</title>
+		<year>2009</year>
+		<authors>Surendra Byna,Yong Chen,Xian-He Sun</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1225902</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Core-aware memory access scheduling schemes</title>
+		<year>2009</year>
+		<authors>Zhibin Fang,Xian-He Sun,Yong Chen,Surendra Byna</authors>
+		<jconf>IPDPS</jconf>
+		<id>1250460</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Illinois Institute of Technology, Chicago, 60616, USA</organization>
+	</publication>
+	<publication>
+		<title>A Neural Network Architecture for Perceptual Grouping, Attention Modulation and Boundary-Surface Interaction</title>
+		<year>2009</year>
+		<authors>Yong Chen,Zhengzhi Wang</authors>
+		<jconf>ISICA</jconf>
+		<id>1259108</id>
+		<label>5</label>
+		<organization>Institute of Automation, National University of Defense Technology, Changsha, China 410073</organization>
+	</publication>
+	<publication>
+		<title>Generalized Riccati equation expansion method and its application to the (3 + 1)-dimensional Jumbo-Miwa equation</title>
+		<year>2004</year>
+		<authors>Biao Li,Yong Chen,Hengnong Xuan,Hongqing Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283118</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ADM-Pade technique for the nonlinear lattice equations</title>
+		<year>2009</year>
+		<authors>Pei Yang,Yong Chen,Zhibin Li</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283457</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two-dimensional symmetry reduction of (2 + 1)-dimensional nonlinear Klein-Gordon equation</title>
+		<year>2009</year>
+		<authors>Xiao-Rui Hu,Yong Chen</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283750</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Artificial Neural Network Based on CIEA.</title>
+		<year>2008</year>
+		<authors>Yong Chen,Xia Liu,Qi Huang,Chang-hua Zhang</authors>
+		<jconf>null</jconf>
+		<id>1304079</id>
+		<label>1</label>
+		<organization>Sch. of Autom. Eng., Univ. of Electron. Sci. & Technol. of China, Chengdu, China</organization>
+	</publication>
+	<publication>
+		<title>VR-GIS: an integrated platform of VR navigation and GIS analysis for city/region simulation.</title>
+		<year>2008</year>
+		<authors>Chunyong Ma,Yongyang Qi,Yong Chen,Yong Han,Ge Chen</authors>
+		<jconf>null</jconf>
+		<id>1315849</id>
+		<label>7</label>
+		<organization>Ocean University of China</organization>
+	</publication>
+	<publication>
+		<title>Aspect-Oriented Middleware-Based Real-Time and Embedded Systems Software Process.</title>
+		<year>2009</year>
+		<authors>Jingyong Liu,Yong Zhong,Lichen Zhang,Yong Chen</authors>
+		<jconf>null</jconf>
+		<id>1318152</id>
+		<label>4</label>
+		<organization>Fac. of Comput., Guangdong Univ. of Technol., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Comparison of Two Fitness Functions for GA-Based Path-Oriented Test Data Generation.</title>
+		<year>2009</year>
+		<authors>Yong Chen,Yong Zhong,Tingting Shi,Jingyong Liu</authors>
+		<jconf>null</jconf>
+		<id>1320106</id>
+		<label>4</label>
+		<organization>Zhongkai Univ. of Agric. & Eng., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A Porn Video Detecting Method Based on Motion Features Using HMM.</title>
+		<year>2009</year>
+		<authors>Zhiyi Qu,Yanmin Liu,Ying Liu,Kang Jiu,Yong Chen</authors>
+		<jconf>null</jconf>
+		<id>1327864</id>
+		<label>17</label>
+		<organization>Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of a Power System Sensor Network for Wide-Area Measurement.</title>
+		<year>2008</year>
+		<authors>Qi Huang,Shi Jing,Chang-hua Zhang,Yong Chen</authors>
+		<jconf>null</jconf>
+		<id>1328241</id>
+		<label>1</label>
+		<organization>Sch. of Autom. Eng., Univ. of Electron. Sci. & Technol. of China (UESTC), Chengdu, China</organization>
+	</publication>
+	<publication>
+		<title>Reevaluating Amdahl's law in the multicore era.</title>
+		<year>2010</year>
+		<authors>Xian-He Sun,Yong Chen</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>1339594</id>
+		<label>3</label>
+		<organization>Computer Science Department, Illinois Institute of Technology, United States</organization>
+	</publication>
+	<publication>
+		<title>A unified rational expansion method to construct a series of explicit exact solutions to nonlinear evolution equations</title>
+		<year>2006</year>
+		<authors>Yong Chen,Qi Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1371079</id>
+		<label>19</label>
+		<organization>Nonlinear Science Center and Department of Mathematics, Ningbo University, Ningbo, China and Key Laboratory of Mathematics Mechanization, Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Improved glass-PDMS-glass device technology for accurate measurements of electro-osmotic mobilities</title>
+		<year>2008</year>
+		<authors>Adrien Plecis,Yong Chen</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1375729</id>
+		<label>9</label>
+		<organization>Ecole Normale Supérieure, 24 Rue Lhomond, 75231 Paris, France</organization>
+	</publication>
+	<publication>
+		<title>Gold nanohole arrays for biochemical sensing fabricated by soft UV nanoimprint lithography</title>
+		<year>2009</year>
+		<authors>Jing Chen,Jian Shi,Dominique Decanini,Edmond Cambril,Yong Chen,Anne-Marie Haghiri-Gosnet</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1385525</id>
+		<label>9</label>
+		<organization>Ecole Normale Supérieure de Paris, 24 rue lhomond,Paris 750005, France</organization>
+	</publication>
+	<publication>
+		<title>Accelerated Publication: A resist for electric imprint lithography</title>
+		<year>2009</year>
+		<authors>Yong Sik Ahn,Yong Chen,H. Thomas Hahn</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1387582</id>
+		<label>10</label>
+		<organization>Department of Mechanical and Aerospace Engineering, University of California, Los Angeles, CA 90095, United States</organization>
+	</publication>
+	<publication>
+		<title>The Impact of Smart Disks and Spatial Reuse Property on RAID-5 Storage Systems</title>
+		<year>1998</year>
+		<authors>H. Jayaram,Eric Torng,Yong Chen,Stephen Wagner,Lionel M. Ni,Paul Hodges</authors>
+		<jconf>Proceedings of the 1998 International Conference on Parallel Processing Workshops</jconf>
+		<id>1418123</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Using Trust for Secure Collaboration in Uncertain Environments</title>
+		<year>2003</year>
+		<authors>Vinny Cahill,Elizabeth Gray,Jean-Marc Seigneur,Christian D. Jensen,Yong Chen,Brian Shand,Nathan Dimmock,Andy Twigg,Jean Bacon,Colin English,Waleed Wagealla,Sotirios Terzis,Paddy Nixon,Giovanna di Marzo Serugendo,Ciaran Bryce,Marco Carbone,Karl Krukow,Mogens Nielsen</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<id>1596895</id>
+		<label>6</label>
+		<organization>Trinity College Dublin</organization>
+	</publication>
+	<publication>
+		<title>A wide dynamic range CMOS image sensor with pulse-frequency-modulation and in-pixel amplification</title>
+		<year>2009</year>
+		<authors>Yong Chen,Fei Yuan,Gul Khan</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1653164</id>
+		<label>16</label>
+		<organization>Department of Electrical and Computer Engineering, Ryerson University, Toronto, Ontario, Canada</organization>
+	</publication>
+	<publication>
+		<title>An Optimizing Strategy for Massive Data Management System Based on SQLSERVER 2000</title>
+		<year>2009</year>
+		<authors>Lei-Yue Yao,Yong Chen</authors>
+		<jconf>Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 01</jconf>
+		<id>1657025</id>
+		<label>18</label>
+		<organization>Comput. & Inf. Dept., Jiang Xi Blue Sky Univ., Nanchang, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic Path-Oriented Test Data Generation Using a Multi-population Genetic Algorithm</title>
+		<year>2008</year>
+		<authors>Yong Chen,Yong Zhong</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01</jconf>
+		<id>1750418</id>
+		<label>4</label>
+		<organization>Chengdu Inst. of Comput. Applic., Chinese Acad. of Sci., Chengdu</organization>
+	</publication>
+</person>

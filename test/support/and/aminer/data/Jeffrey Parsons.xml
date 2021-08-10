@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>1359</personID>
+	<FullName>Jeffrey Parsons</FullName>
+	<FirstName>Jeffrey</FirstName>
+	<LastName>Parsons</LastName>
+	<publication>
+		<title>Use Cases and the UML</title>
+		<year>2005</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>Encyclopedia of Information Science and Technology (V)</jconf>
+		<id>971</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Role of Use Cases in the UML: A Review and Research Agenda</title>
+		<year>2002</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>Advanced Topics in Database Research, Vol. 1</jconf>
+		<id>1588</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Experimental Evaluation of Property Precedence in Conceptual Modelling</title>
+		<year>2004</year>
+		<authors>Jeffrey Parsons,Linda Cole</authors>
+		<jconf>APCCM</jconf>
+		<id>43863</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Current Practices in the Use of UML</title>
+		<year>2005</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>ER (Workshops)</jconf>
+		<id>183115</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experimental Research on Conceptual Modeling: What Should We Be Doing and Why?</title>
+		<year>2006</year>
+		<authors>Geert Poels,Andrew Burton-Jones,Andrew Gemino,Jeffrey Parsons,V. Ramesh</authors>
+		<jconf>ER</jconf>
+		<id>183752</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>iQL: A Query Language for the Instance-Based Data Model</title>
+		<year>2006</year>
+		<authors>Jeffrey Parsons,Jianmin Su</authors>
+		<jconf>ER</jconf>
+		<id>183792</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Property-Based Semantic Reconciliation of Heterogeneous Information Sources</title>
+		<year>2002</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>ER</jconf>
+		<id>183794</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What Is the Role of Cognition in Conceptual Modeling? A Report on the First Workshop on Cognition and Conceptual Modeling</title>
+		<year>1997</year>
+		<authors>Venkataraman Ramesh,Jeffrey Parsons,Glenn J. Browne</authors>
+		<jconf>Conceptual Modeling</jconf>
+		<id>183815</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ontological Semantics for the Use of UML in Conceptual Modeling</title>
+		<year>2007</year>
+		<authors>Xueming Li,Jeffrey Parsons</authors>
+		<jconf>ER (Tutorials, Posters, Panels  Industrial Contributions)</jconf>
+		<id>183984</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Ontological Metamodel of Classifiers and Its Application to Conceptual Modelling and Database Design</title>
+		<year>2007</year>
+		<authors>Jeffrey Parsons,Xueming Li</authors>
+		<jconf>ER</jconf>
+		<id>184249</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface to FP-UML 2007</title>
+		<year>2007</year>
+		<authors>Juan Trujillo,Jeffrey Parsons</authors>
+		<jconf>ER Workshops</jconf>
+		<id>184268</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Framework for Targeting Banner Advertising On the Internet</title>
+		<year>1997</year>
+		<authors>Katherine Gallagher,Jeffrey Parsons</authors>
+		<jconf>HICSS (4)</jconf>
+		<id>244888</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A graphical technique for modeling multi-user data requirements</title>
+		<year>1995</year>
+		<authors>Jeffrey Parsons</authors>
+		<jconf>HICSS (3)</jconf>
+		<id>247242</id>
+		<label>0</label>
+		<organization>Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.</organization>
+	</publication>
+	<publication>
+		<title>Messages in the Medium: An Experimental Investigation of Web Advertising Effectiveness and Attitudes toward Web Content</title>
+		<year>2000</year>
+		<authors>Jeffrey Parsons,Katherine Gallagher,K. Dale Foster</authors>
+		<jconf>HICSS</jconf>
+		<id>247243</id>
+		<label>0</label>
+		<organization>Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada</organization>
+	</publication>
+	<publication>
+		<title>Conceptual Modeling in Systems Development: Should it Be Driven by User's or Designer's Needs?</title>
+		<year>1995</year>
+		<authors>Dinesh Batra,Eckhard D. Falkenberg,Jeffrey Parsons,Yair Wand</authors>
+		<jconf>ICIS</jconf>
+		<id>326264</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experimental Research in Systems Development Methodologies: Opportunities and Challenges</title>
+		<year>1994</year>
+		<authors>Jeffrey Parsons,Ritu Agarwal,Dinesh Batra,Iris Vessey,Yair Wand</authors>
+		<jconf>ICIS</jconf>
+		<id>326852</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guidelines for Evaluating Classes in Data Modeling</title>
+		<year>1992</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>ICIS</jconf>
+		<id>326853</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Choosing Classes In Conceptual Modeling</title>
+		<year>1997</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>774939</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Objects for Systems Analysis</title>
+		<year>1997</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>774940</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>How UML is used</title>
+		<year>2006</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>777412</id>
+		<label>0</label>
+		<organization>Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada</organization>
+	</publication>
+	<publication>
+		<title>What do the pictures mean? Guidelines for experimental evaluation of representation fidelity in diagrammatical conceptual modeling techniques</title>
+		<year>2005</year>
+		<authors>Jeffrey Parsons,Linda Cole</authors>
+		<jconf>Data Knowl. Eng.</jconf>
+		<id>845979</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding the Role of Use Cases in UML: A Review and Research Agenda</title>
+		<year>2000</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>J. Database Manag.</jconf>
+		<id>979776</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dimensions of UML Diagram Use: A Survey of Practitioners</title>
+		<year>2008</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>J. Database Manag.</jconf>
+		<id>979896</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Attribute-Based Semantic Reconciliation of Multiple Data Sources</title>
+		<year>2003</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>J. Data Semantics</jconf>
+		<id>986524</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model driven middleware: A new paradigm for developing distributed real-time and embedded systems</title>
+		<year>2008</year>
+		<authors>Aniruddha S. Gokhale,Krishnakumar Balasubramanian,Arvind S. Krishna,Jaiganesh Balasubramanian,George Edwards,Gan Deng,Emre Turkay,Jeffrey Parsons,Douglas C. Schmidt</authors>
+		<jconf>Sci. Comput. Program.</jconf>
+		<id>1057372</id>
+		<label>1</label>
+		<organization>Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA</organization>
+	</publication>
+	<publication>
+		<title>Emancipating instances from the tyranny of classes in information modeling</title>
+		<year>2000</year>
+		<authors>Jeffrey Parsons,Yair Wand</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118601</id>
+		<label>0</label>
+		<organization>Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada</organization>
+	</publication>
+	<publication>
+		<title>Cognitive Heuristics in Software Engineering: Applying and Extending Anchoring and Adjustment to Artifact Reuse</title>
+		<year>2004</year>
+		<authors>Jeffrey Parsons,Chad Saunders</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1129199</id>
+		<label>0</label>
+		<organization>Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada</organization>
+	</publication>
+	<publication>
+		<title>Instance-Based Data Management -- Is it Useful for Biodiversity Informatics Applications?</title>
+		<year>2009</year>
+		<authors>Jeffrey Parsons</authors>
+		<jconf>null</jconf>
+		<id>1305525</id>
+		<label>0</label>
+		<organization>Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada</organization>
+	</publication>
+	<publication>
+		<title>What Is the Role of Cognition in Conceptual Modeling? A Report on the First Workshop on Cognition and Conceptual Modeling</title>
+		<year>1999</year>
+		<authors>Venkataraman Ramesh,Jeffrey Parsons,Glenn J. Browne</authors>
+		<jconf>Selected Papers from the Symposium on Conceptual Modeling, Current Issues and Future Directions</jconf>
+		<id>1540791</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The role of use cases in the UML: a review and research agenda</title>
+		<year>2003</year>
+		<authors>Brian Dobing,Jeffrey Parsons</authors>
+		<jconf>Advanced topics in database research vol. 1</jconf>
+		<id>1557074</id>
+		<label>0</label>
+		<organization>Memorial University of Newfoundland, Canada</organization>
+	</publication>
+	<publication>
+		<title>Theoretical foundations for conceptual modelling in information systems development</title>
+		<year>1995</year>
+		<authors>Yair Wand,David E. Monarchi,Jeffrey Parsons,Carson C. Woo</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1587611</id>
+		<label>0</label>
+		<organization>Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada</organization>
+	</publication>
+</person>

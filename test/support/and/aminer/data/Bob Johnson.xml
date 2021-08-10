@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>38108</personID>
+	<FullName>Bob Johnson</FullName>
+	<FirstName>Bob</FirstName>
+	<LastName>Johnson</LastName>
+	<publication>
+		<title>Object-Oriented Programming and Protected Objects in Ada 95</title>
+		<year>2000</year>
+		<authors>Andy J. Wellings,Bob Johnson,Bo Sanden,Jorg Kienzle,Thomas Wolf,Stephen Michell</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25705</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>UNIX Metrics: Is The Data In Open Systems The Same From Platform To Platform?</title>
+		<year>1995</year>
+		<authors>Bob Johnson</authors>
+		<jconf>Int. CMG Conference</jconf>
+		<id>101675</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Triad Of Computing In The 21st Century Or, Back To The Future Again</title>
+		<year>1995</year>
+		<authors>Bob Johnson</authors>
+		<jconf>Int. CMG Conference</jconf>
+		<id>101676</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>User-centeredness, situatedness, and designing the media of computer documentation</title>
+		<year>1990</year>
+		<authors>Bob Johnson</authors>
+		<jconf>SIGDOC</jconf>
+		<id>592593</id>
+		<label>2</label>
+		<organization>Miami University of Ohio</organization>
+	</publication>
+	<publication>
+		<title>Introduction to commentaries on 'Spurious Coin: A History of Science, Management, and Technical Writing' by Bernadette Longo</title>
+		<year>2001</year>
+		<authors>Bob Johnson</authors>
+		<jconf>ACM Journal of Computer Documentation</jconf>
+		<id>965379</id>
+		<label>3</label>
+		<organization>Michigan Technological University</organization>
+	</publication>
+	<publication>
+		<title>Manager: The Project Scoping Gamble</title>
+		<year>1997</year>
+		<authors>Brian Lawrence,Bob Johnson</authors>
+		<jconf>IEEE Software</jconf>
+		<id>1071125</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating object-oriented programming and protected objects in Ada 95</title>
+		<year>2000</year>
+		<authors>Andy J. Wellings,Bob Johnson,Bo Sanden,Jorg Kienzle,Thomas Wolf,Stephen Michell</authors>
+		<jconf>ACM Trans. Program. Lang. Syst.</jconf>
+		<id>1123975</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Testing Applications on the Web: Test Planning for Mobile and Internet-Based Systems, 2 edition</title>
+		<year>2002</year>
+		<authors>Hung Quoc Nguyen,Bob Johnson,Robert Johnson,Michael Hackett</authors>
+		<jconf>null</jconf>
+		<id>1420785</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Wired Neighborhood: An Extended Multimedia Conversation</title>
+		<year>1997</year>
+		<authors>Bob Johnson</authors>
+		<jconf>ACM SIGDOC Asterisk Journal of Computer Documentation</jconf>
+		<id>1534175</id>
+		<label>2</label>
+		<organization>Miami University, Oxford, OH</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the book commentaries</title>
+		<year>1998</year>
+		<authors>Bob Johnson</authors>
+		<jconf>ACM SIGDOC Asterisk Journal of Computer Documentation</jconf>
+		<id>1549049</id>
+		<label>2</label>
+		<organization>Miami University, Oxford, OH</organization>
+	</publication>
+	<publication>
+		<title>The cult of ISDN</title>
+		<year>1989</year>
+		<authors>Bob Johnson</authors>
+		<jconf>PC/Computing</jconf>
+		<id>1625919</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

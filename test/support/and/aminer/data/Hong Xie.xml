@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>292499</personID>
+	<FullName>Hong Xie</FullName>
+	<FirstName>Hong</FirstName>
+	<LastName>Xie</LastName>
+	<publication>
+		<title>An Efficient Method of Volume Rendering for Medical Slices</title>
+		<year>1994</year>
+		<authors>Wanqing Li,Hong Xie,Yianni Attikiouzel</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>319210</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Electron. Eng., Western Australia Univ., Nedlands, WA</organization>
+	</publication>
+	<publication>
+		<title>Application of Weighted Ideal Point Method to Environmental/Economic Load Dispatch</title>
+		<year>2005</year>
+		<authors>Guoli Zhang,Gengyin Li,Hong Xie,Jianwei Ma</authors>
+		<jconf>ICMLC</jconf>
+		<id>336488</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BSP Pro: A Java-Based BSP Performance Profiling System</title>
+		<year>1999</year>
+		<authors>Weiqun Zheng,Shamim Khan,Hong Xie</authors>
+		<jconf>ISPAN</jconf>
+		<id>446066</id>
+		<label>2</label>
+		<organization>Sch. of Inf. Technol., Murdoch Univ., WA</organization>
+	</publication>
+	<publication>
+		<title>BSP Performance Analysis and Prediction: Tools and Application</title>
+		<year>1999</year>
+		<authors>Weiqun Zheng,Shamim Khan,Hong Xie</authors>
+		<jconf>PaCT</jconf>
+		<id>526028</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Economic Load Dispatch Based on Hybrid Evolutionary Algorithm and Fuzzy Number Ranking Method</title>
+		<year>2006</year>
+		<authors>Guoli Zhang,Gengyin Li,Hong Xie,Jianwei Ma</authors>
+		<jconf>International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems</jconf>
+		<id>921863</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of multiple query reformulations on the web: The interactive information retrieval context</title>
+		<year>2006</year>
+		<authors>Soo Young Rieh,Hong Iris Xie</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>936538</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting ease-of-use and user control: desired features and structure of Web-based online IR systems</title>
+		<year>2003</year>
+		<authors>Hong (Iris) Xie</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>937074</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-segmented Document Clustering Using Self-Organizing Map and Frequent Max Substring Technique.</title>
+		<year>2009</year>
+		<authors>Todsanai Chumwatana,Kok Wai Wong,Hong Xie</authors>
+		<jconf>null</jconf>
+		<id>1306566</id>
+		<label>2</label>
+		<organization>School of Information Technology, Murdoch University, Murdoch 6150</organization>
+	</publication>
+	<publication>
+		<title>Blind Source Separation of Temporal Correlated Signals</title>
+		<year>2007</year>
+		<authors>Bin Xia,Hong Xie</authors>
+		<jconf>Proceedings of the 2007 Third International IEEE Conference on Signal-Image Technologies and Internet-Based System</jconf>
+		<id>1595438</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>C&agr;&ohgr;&macr;solutions of a class of nonlinear degenerate elliptic systems arising in the thermistor problem</title>
+		<year>1991</year>
+		<authors>Hong Xie,W. Allegretto</authors>
+		<jconf>SIAM Journal on Mathematical Analysis</jconf>
+		<id>1669076</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>State digital library usability: contributing organizational factors</title>
+		<year>2002</year>
+		<authors>Hong Xie,Dietmar Wolfram</authors>
+		<jconf>Journal of the American Society for Information Science and Technology</jconf>
+		<id>1705165</id>
+		<label>4</label>
+		<organization>School of Information Studies, University of Wisconsin-Milwaukee, P.O. Box 413, Milwaukee, WI</organization>
+	</publication>
+	<publication>
+		<title>L2,&mgr;(&OHgr;) estimate to the mixed boundary value problem for second order elliptic equations and its application in the thermistor problem</title>
+		<year>1995</year>
+		<authors>Hong Xie</authors>
+		<jconf>Nonlinear Analysis: Theory, Methods Applications</jconf>
+		<id>1713389</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

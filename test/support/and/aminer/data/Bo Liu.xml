@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>13520</personID>
+	<FullName>Bo Liu</FullName>
+	<FirstName>Bo</FirstName>
+	<LastName>Liu</LastName>
+	<publication>
+		<title>Rate-Distortion Optimized Progressive Geometry Compression</title>
+		<year>2006</year>
+		<authors>Wenbo Zhang,Bo Liu,Hongbin Zhang</authors>
+		<jconf>CGIV</jconf>
+		<id>8141</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-resolution Meshes Deformation Based on Pyramid Coordinates</title>
+		<year>2007</year>
+		<authors>Chenming Sha,Bo Liu,Zhanguo Ma,Hongbin Zhang</authors>
+		<jconf>CGIV</jconf>
+		<id>8149</id>
+		<label>0</label>
+		<organization>Beijing University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>A Blind Watermarking of 3D Triangular Meshes Using Geometry Image</title>
+		<year>2007</year>
+		<authors>Yi-qiang Ni,Bo Liu,Hongbin Zhang</authors>
+		<jconf>CGIV</jconf>
+		<id>8164</id>
+		<label>0</label>
+		<organization>Beijing University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Mesh Editing in ROI with Dual Laplacian</title>
+		<year>2007</year>
+		<authors>Qiong Luo,Bo Liu,Zhanguo Ma,Hongbin Zhang</authors>
+		<jconf>CGIV</jconf>
+		<id>8193</id>
+		<label>0</label>
+		<organization>Beijing University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-Agent Based Network Management Task Decomposition and Scheduling</title>
+		<year>2005</year>
+		<authors>Bo Liu,Junzhou Luo,Wei Li</authors>
+		<jconf>AINA</jconf>
+		<id>35593</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SQUARE: A New TCP Variant for Future High Speed and Long Delay Environments</title>
+		<year>2008</year>
+		<authors>Yansheng Qu,Junzhou Luo,Wei Li,Bo Liu,Laurence Tianruo Yang</authors>
+		<jconf>AINA</jconf>
+		<id>36524</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Architecture and Key Technology for Service-Oriented Workflow Performance Analysis</title>
+		<year>2007</year>
+		<authors>Bo Liu,Yushun Fan</authors>
+		<jconf>APWeb/WAIM Workshops</jconf>
+		<id>48641</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Particle Swarm Optimization for Flow Shop Scheduling with Stochastic Processing Time</title>
+		<year>2005</year>
+		<authors>Bo Liu,Ling Wang,Yihui Jin</authors>
+		<jconf>CIS (1)</jconf>
+		<id>97041</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Intelligent Network Management Model for the Large-Scale Computer Network</title>
+		<year>2005</year>
+		<authors>Junzhou Luo,Wei Li,Bo Liu</authors>
+		<jconf>CSCWD (Selected papers)</jconf>
+		<id>122305</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-online Task Allocation Algorithm among Cooperative Agents</title>
+		<year>2006</year>
+		<authors>Bo Liu,Junzhou Luo,Wei Li</authors>
+		<jconf>CSCWD</jconf>
+		<id>122388</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collective Behavior Analysis of a Class of Social Foraging Swarms</title>
+		<year>2005</year>
+		<authors>Bo Liu,Tianguang Chu,Long Wang</authors>
+		<jconf>ECAL</jconf>
+		<id>166912</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Controllability of a Leader-Follower Dynamic Network with Interaction Time Delays</title>
+		<year>2008</year>
+		<authors>Bo Liu,Jietao Zou,Jie Zhang,Tianguang Chu,Long Wang</authors>
+		<jconf>FSKD (5)</jconf>
+		<id>218671</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variable Weights Decision-Making and Its Fuzzy Inference Implementation</title>
+		<year>2007</year>
+		<authors>Bo Liu,Xuejun Zhang,Shangran Xie,Hannan Ma</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218884</id>
+		<label>4</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Graph-Based Algorithm for Mining Maximal Frequent Itemsets</title>
+		<year>2007</year>
+		<authors>Bo Liu,Jiuhui Pan</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219061</id>
+		<label>8</label>
+		<organization>Jinan University, Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>CoDevFrame: An Event-drive Grid Oriented Cooperative Software Development System</title>
+		<year>2006</year>
+		<authors>Bo Liu,Deyu Qi</authors>
+		<jconf>GCA</jconf>
+		<id>222807</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Manufacturing Grid: Needs, Concept, and Architecture</title>
+		<year>2003</year>
+		<authors>Yushun Fan,Dazhe Zhao,Liqin Zhang,Shuangxi Huang,Bo Liu</authors>
+		<jconf>GCC (1)</jconf>
+		<id>223591</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Data Server in Grid Environment</title>
+		<year>2004</year>
+		<authors>Bin Chen,Nong Xiao,Bo Liu</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>223628</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A High-Performance Intelligent Integrated Data Services System in Data Grid</title>
+		<year>2003</year>
+		<authors>Bin Huang,Xiaoning Peng,Nong Xiao,Bo Liu</authors>
+		<jconf>GCC (1)</jconf>
+		<id>223682</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WBEM Based Distributed Network Monitoring</title>
+		<year>2004</year>
+		<authors>Bo Liu,Hui Liu</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>223836</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Performance Evaluation Model and AHP-Based Analysis Method in Service-Oriented Workflow</title>
+		<year>2007</year>
+		<authors>Bo Liu,Yushun Fan</authors>
+		<jconf>GCC</jconf>
+		<id>224525</id>
+		<label>4</label>
+		<organization>Tsinghua University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Classification Rule Discovery with Ant Colony Optimization</title>
+		<year>2003</year>
+		<authors>Bo Liu,Hussein A. Abbass,Bob McKay</authors>
+		<jconf>IAT</jconf>
+		<id>260877</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Learning Process Using SVMs for Multi-agents Decision Classification</title>
+		<year>2008</year>
+		<authors>Yanshan Xiao,Feiqi Deng,Bo Liu,Shouqiang Liu,Dan Luo,Guohua Liang</authors>
+		<jconf>Web Intelligence/IAT Workshops</jconf>
+		<id>261732</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-Data-Aided Nonlinear Carrier Recovery for BPSK Burst-Mode Transmissions</title>
+		<year>2008</year>
+		<authors>Yunpeng Hu,Hongyi Yu,Bo Liu,Hanying Hu</authors>
+		<jconf>ICC</jconf>
+		<id>275975</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mixed Monte Carlo Parallel Algorithms for Matrix Computation</title>
+		<year>2002</year>
+		<authors>Behrouz Fathi,Bo Liu,Vassil N. Alexandrov</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>278642</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical Experiments with Monte Carlo Methods and SPAI Preconditioner for Solving System of Linear Equations</title>
+		<year>2002</year>
+		<authors>Bo Liu,Behrouz Fathi,Vassil N. Alexandrov</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>279438</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Analysis of Test Signals for System Identification</title>
+		<year>2006</year>
+		<authors>Bo Liu,Jun Zhao,Jixin Qian</authors>
+		<jconf>International Conference on Computational Science (3)</jconf>
+		<id>279473</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-Space-Mapped SVMs for Multi-class Classification</title>
+		<year>2008</year>
+		<authors>Bo Liu,Longbing Cao,Philip S. Yu,Chengqi Zhang</authors>
+		<jconf>ICDM</jconf>
+		<id>303714</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improved Differential Evolution with Dynamic Population Size</title>
+		<year>2006</year>
+		<authors>Fuzhuo Huang,Ling Wang,Bo Liu</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>313432</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DE and NLP Based QPLS Algorithm</title>
+		<year>2007</year>
+		<authors>Xiaodong Yu,Dexian Huang,Xiong Wang,Bo Liu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314092</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constrained Nonlinear State Estimation - A Differential Evolution Based Moving Horizon Approach</title>
+		<year>2007</year>
+		<authors>Yudong Wang,Jingchun Wang,Bo Liu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314151</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Energy-Minimizing Mesh Parameterization</title>
+		<year>2007</year>
+		<authors>Li Yong,Bo Liu,Hongbin Zhang</authors>
+		<jconf>ICME</jconf>
+		<id>332946</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study on Information Extraction from PDF Files</title>
+		<year>2005</year>
+		<authors>Fang Yuan,Bo Liu,Ge Yu</authors>
+		<jconf>ICMLC</jconf>
+		<id>336484</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Service-Oriented Workflow and Performance Evaluation</title>
+		<year>2007</year>
+		<authors>Bo Liu,Yushun Fan</authors>
+		<jconf>ICWS</jconf>
+		<id>371261</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Joint estimation of image and coil sensitivities in parallel MRI</title>
+		<year>2006</year>
+		<authors>Leslie Ying,Jinhua Sheng,Bo Liu</authors>
+		<jconf>ISBI</jconf>
+		<id>417117</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improved spiral sense reconstruction using a multiscale wavelet model</title>
+		<year>2008</year>
+		<authors>Bo Liu,Emad Abdelsalam,Jinhua Sheng,Leslie Ying</authors>
+		<jconf>ISBI</jconf>
+		<id>417695</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Joint Estimation of Image and Coil Sensitivities in Parallel Spiral MRI</title>
+		<year>2007</year>
+		<authors>Jinhua Sheng,Leslie Ying,Erik Wiener,Bo Liu</authors>
+		<jconf>ISBI</jconf>
+		<id>418016</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Regularized Sense Reconstruction Using Iteratively Refined Total Variation Method</title>
+		<year>2007</year>
+		<authors>Bo Liu,Leslie Ying,Michael Steckner,Jun Xie,Jinhua Sheng</authors>
+		<jconf>ISBI</jconf>
+		<id>418053</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The design of nonuniform-band maxmally decimated filter banks</title>
+		<year>1993</year>
+		<authors>Bo Liu,Leonard T. Bruton</authors>
+		<jconf>ISCAS</jconf>
+		<id>422585</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Video Coding using Mixed-Domain Filter Banks having Optimal-Shaped Subbands</title>
+		<year>1994</year>
+		<authors>Bo Liu,Leonard T. Bruton</authors>
+		<jconf>ISCAS</jconf>
+		<id>422587</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BitTube: Case Study of a Web-Based Peer-Assisted Video-on-Demand System</title>
+		<year>2008</year>
+		<authors>Bo Liu,Yi Cui,Bin Chang,Ben Gotow,Yuan Xue</authors>
+		<jconf>ISM</jconf>
+		<id>437835</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Twi-Map Support Vector Machine for Multi-classification Problems</title>
+		<year>2005</year>
+		<authors>Zhifeng Hao,Bo Liu,Xiaowei Yang,Yanchun Liang,Feng Zhao</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442184</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing Neural Networks Using Hybrid Particle Swarm Optimization</title>
+		<year>2005</year>
+		<authors>Bo Liu,Ling Wang,Yihui Jin,Dexian Huang</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442545</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Binary Tree Support Vector Machine Based on Kernel Fisher Discriminant for Multi-classification</title>
+		<year>2006</year>
+		<authors>Bo Liu,Xiaowei Yang,Zhifeng Hao</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442567</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Intelligent Differential Evolution Algorithm for Designing Trading-Ratio System of Water Market</title>
+		<year>2007</year>
+		<authors>Ying Liu,Bo Liu,Jikun Huang,Yunhua Wu,Ling Wang,Yihui Jin</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>443725</id>
+		<label>4</label>
+		<organization>Department of Automation, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Designing Neural Networks Using PSO-Based Memetic Algorithm</title>
+		<year>2007</year>
+		<authors>Bo Liu,Ling Wang,Yihui Jin,Dexian Huang</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>443819</id>
+		<label>4</label>
+		<organization>Department of Automation, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Monte Carlo Methods for Matrix Computation</title>
+		<year>2002</year>
+		<authors>Vassil N. Alexandrov,Bo Liu</authors>
+		<jconf>Numerical Methods and Application</jconf>
+		<id>518969</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Worm Detection Model Based on Host Packet Behavior Ranking</title>
+		<year>2008</year>
+		<authors>Fengtao Xiao,Huaping Hu,Bo Liu,Xin Chen</authors>
+		<jconf>OTM Conferences (2)</jconf>
+		<id>525133</id>
+		<label>35</label>
+		<organization>School of Computer Science, National University of Defense Technology, Chang Sha, 410073</organization>
+	</publication>
+	<publication>
+		<title>Incremental Clustering Based on Swarm Intelligence</title>
+		<year>2006</year>
+		<authors>Bo Liu,Jiuhui Pan,Robert I. McKay</authors>
+		<jconf>SEAL</jconf>
+		<id>579905</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Scable Peer-to-Peer Overlay for Applications with Time Constraints</title>
+		<year>2007</year>
+		<authors>Bo Liu,Yansheng Lu</authors>
+		<jconf>SNPD (2)</jconf>
+		<id>609317</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ASG Automated Signature Generation for Worm-Like P2P Traffic Patterns</title>
+		<year>2008</year>
+		<authors>Fengtao Xiao,Huaping Hu,Xin Chen,Bo Liu</authors>
+		<jconf>WAIM</jconf>
+		<id>652414</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Support Vector Machines for Text Categorization in Chinese Question Classification</title>
+		<year>2006</year>
+		<authors>Xu-Dong Lin,Hong Peng,Bo Liu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655446</id>
+		<label>36</label>
+		<organization>South China University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Cut-and-Paste Editing over 3D Meshes</title>
+		<year>2006</year>
+		<authors>Zhanguo Ma,Bo Liu,Hongbin Zhang</authors>
+		<jconf>ICICIC (3)</jconf>
+		<id>679447</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-agent System for Custom Relationship Management with SVMs Tool</title>
+		<year>2008</year>
+		<authors>Yanshan Xiao,Bo Liu,Dan Luo,Longbing Cao</authors>
+		<jconf>KES-AMSTA</jconf>
+		<id>695594</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A memetic co-evolutionary differential evolution algorithm for constrained optimization</title>
+		<year>2007</year>
+		<authors>Bo Liu,Hannan Ma,Xuejun Zhang,Yan Zhou</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697744</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid differential evolution for noisy optimization</title>
+		<year>2008</year>
+		<authors>Bo Liu,Xuejun Zhang,Hannan Ma</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>698218</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Ant Colony Algorithm and Its Application on Function Optimization</title>
+		<year>2008</year>
+		<authors>Bo Liu,Huiguang Li,Tihua Wu,Qingbin Zhang</authors>
+		<jconf>ISICA</jconf>
+		<id>700520</id>
+		<label>39</label>
+		<organization>Institute of Electrical Engineering, Yanshan University, Qinhuangdao, China 066004</organization>
+	</publication>
+	<publication>
+		<title>Flocking of Multi-Vehicle Systems With A Leader</title>
+		<year>2006</year>
+		<authors>Bo Liu,Tianguang Chu,Long Wang</authors>
+		<jconf>IROS</jconf>
+		<id>724663</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Study of Distribution Map of a General Architecture for Wireless Sensor Networks Based on GDI+</title>
+		<year>2008</year>
+		<authors>Guiling Sun,Wenhe Yue,Bo Liu,Weixiang Li</authors>
+		<jconf>CSSE (2)</jconf>
+		<id>728991</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multithreaded Optimizing Technique for Dynamic Binary Translator CrossBit</title>
+		<year>2008</year>
+		<authors>Haibing Guan,Bo Liu,Tingtao Li,Alei Liang</authors>
+		<jconf>CSSE (5)</jconf>
+		<id>729765</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Algorithm Combining Ant Colony Algorithm with Genetic Algorithm for Continuous Domain</title>
+		<year>2008</year>
+		<authors>Bo Liu,Peisheng Meng</authors>
+		<jconf>ICYCS</jconf>
+		<id>730255</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Vector Matrix Iterative Self-Organizing Assistant Clustering Algorithm of XML Document</title>
+		<year>2008</year>
+		<authors>Bo Liu,LuMing Yang,Yunlong Deng</authors>
+		<jconf>ICYCS</jconf>
+		<id>730381</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of the HLLACF</title>
+		<year>2008</year>
+		<authors>Xin Chen,Huaping Hu,Bo Liu,Fengtao Xiao,Zunguo Huang</authors>
+		<jconf>ICYCS</jconf>
+		<id>730582</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classification Rule Discovery with Ant Colony Optimization</title>
+		<year>2004</year>
+		<authors>Bo Liu,Hussein A. Abbass,Robert I. McKay</authors>
+		<jconf>IEEE Intelligent Informatics Bulletin</jconf>
+		<id>789293</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intrusion detection system for high-speed network</title>
+		<year>2004</year>
+		<authors>Wu Yang,Binxing Fang,Bo Liu,Hongli Zhang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>802219</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A service-oriented business performance evaluation model and the performance-aware service selection method</title>
+		<year>2008</year>
+		<authors>Bo Liu,Yushun Fan,Shuangxi Huang</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<id>811207</id>
+		<label>4</label>
+		<organization>Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>An effective hybrid PSO-based algorithm for flow shop scheduling with limited buffers</title>
+		<year>2008</year>
+		<authors>Bo Liu,Ling Wang,Yihui Jin</authors>
+		<jconf>Computers  OR</jconf>
+		<id>814728</id>
+		<label>4</label>
+		<organization>Department of Automation, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Noise-Analysis Based Threshold-Choosing Algorithm in Motion Estimation</title>
+		<year>2005</year>
+		<authors>Xiaoying Gan,Shiying Sun,Wentao Song,Bo Liu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898630</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Rotary Micromirror For Fiber-Optic Switching</title>
+		<year>2003</year>
+		<authors>Min Hu,Hejun Du,Shih-Fu Ling,Bo Liu</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<id>905114</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Development Of An Soi-Based Micro Check Valve</title>
+		<year>2003</year>
+		<authors>Min Hu,Hejun Du,Shih-Fu Ling,Bo Liu</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<id>905116</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Substitution effect on the geometry and electronic structure of the ferrocene</title>
+		<year>2007</year>
+		<authors>Guiling Zhang,Hui Zhang,Miao Sun,Yanhong Liu,Xiaohong Pang,Xiaoyang Yu,Bo Liu,Ze-Sheng Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>964804</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theoretical study on the Br + CH3SCH3 reaction</title>
+		<year>2007</year>
+		<authors>Hui Zhang,Guiling Zhang,Li Wang,Bo Liu,Xiaoyang Yu,Ze-Sheng Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>964940</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theoretical study on the OH + CH3NHC(O)OCH3 reaction</title>
+		<year>2008</year>
+		<authors>Hui Zhang,Guiling Zhang,Jing-Yao Liu,Bo Liu,Xiaoyang Yu,Ze-Sheng Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>965051</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theoretical study on the reaction of SiH(CH3)3 with SiH3 radical</title>
+		<year>2009</year>
+		<authors>Hui Zhang,Guiling Zhang,Jing-Yao Liu,Miao Sun,Bo Liu,Ze-Sheng Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>965189</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust content-based image indexing using contextual clues and automatic pseudofeedback</title>
+		<year>2004</year>
+		<authors>Y. Alp Aslandogan,Clement T. Yu,Ravishankar Mysore,Bo Liu</authors>
+		<jconf>Multimedia Syst.</jconf>
+		<id>1011044</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nesting Algorithm for Multi-Classification Problems</title>
+		<year>2007</year>
+		<authors>Bo Liu,Zhifeng Hao,Xiaowei Yang</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1070003</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database and location management schemes for mobile communications</title>
+		<year>1998</year>
+		<authors>Anna Hac,Bo Liu</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1122214</id>
+		<label>10</label>
+		<organization>Univ. of Hawaii at Manoa, Honolulu</organization>
+	</publication>
+	<publication>
+		<title>An Effective PSO-Based Memetic Algorithm for Flow Shop Scheduling</title>
+		<year>2007</year>
+		<authors>Bo Liu,Ling Wang,Yihui Jin</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132898</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Effective PSO-Based Hybrid Algorithm for Multiobjective Permutation Flow Shop Scheduling</title>
+		<year>2008</year>
+		<authors>Bin-Bin Li,Ling Wang,Bo Liu</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1133053</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Particle swarm optimization for function optimization in noisy environment</title>
+		<year>2006</year>
+		<authors>Hui Pan,Ling Wang,Bo Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145616</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Defending against distributed denial-of-service attacks with an auction-based method</title>
+		<year>2006</year>
+		<authors>Zhihong Tian,Mingzeng Hu,Bin Li,Bo Liu,Hongli Zhang</authors>
+		<jconf>Web Intelligence and Agent Systems</jconf>
+		<id>1157746</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Chinese question classification using one-vs-one method as a learning tool</title>
+		<year>2008</year>
+		<authors>Yanshan Xiao,Bo Liu,Longbing Cao</authors>
+		<jconf>IJIIDS</jconf>
+		<id>1172210</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A weight based compact genetic algorithm</title>
+		<year>2009</year>
+		<authors>Qingbin Zhang,Tihua Wu,Bo Liu</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207585</id>
+		<label>39</label>
+		<organization>Hebei Academy of Sciences, Shijiazhuang, China</organization>
+	</publication>
+	<publication>
+		<title>Accommodating colorblind users in image search</title>
+		<year>2009</year>
+		<authors>Meng Wang,Bo Liu,Linjun Yang,Xian-Sheng Hua</authors>
+		<jconf>SIGIR</jconf>
+		<id>1213967</id>
+		<label>17</label>
+		<organization>University of Science and Technology of China, Hefei, China</organization>
+	</publication>
+	<publication>
+		<title>A memetic approach to the automatic design of high-performance analog integrated circuits</title>
+		<year>2009</year>
+		<authors>Bo Liu,Francisco V. Fernandez,Georges G. E. Gielen,R. Castro-Lopez,Elisenda Roca</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1227846</id>
+		<label>4</label>
+		<organization>ESAT-MICAS, Katholieke Universiteit Leuven, Leuven, Belgium</organization>
+	</publication>
+	<publication>
+		<title>Consensus in Networks of Multiagents With Cooperation and Competition Via Stochastically Switching Topologies</title>
+		<year>2008</year>
+		<authors>Bo Liu,Tianping Chen</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1230374</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nesting One-Against-One Algorithm Based on SVMs for Pattern Classification</title>
+		<year>2008</year>
+		<authors>Bo Liu,Zhifeng Hao,Eric C. C. Tsang</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1230405</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fully Automatic Text Categorization by Exploiting WordNet</title>
+		<year>2009</year>
+		<authors>Jianqiang Li,Yu Zhao,Bo Liu</authors>
+		<jconf>AIRS</jconf>
+		<id>1237522</id>
+		<label>13</label>
+		<organization>NEC Laboratories China, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>ALHACF: An Anonymity-Level Selected Hierarchical Anonymous Communication Framework</title>
+		<year>2008</year>
+		<authors>Xin Chen,Huaping Hu,Bo Liu,Fengtao Xiao,Zunguo Huang</authors>
+		<jconf>Advanced Information Processing</jconf>
+		<id>1243171</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Analytical Model for Broadcasting by Self Pruning in Wireless Ad Hoc Networks</title>
+		<year>2008</year>
+		<authors>Yu Huang,Bo Liu,XianPing Tao,Jiannong Cao,Beihong Jin</authors>
+		<jconf>Advanced Information Processing</jconf>
+		<id>1243262</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Boundary Constrained Manifold Unfolding</title>
+		<year>2008</year>
+		<authors>Bo Liu,Hongbin Zhang,WenAn Chen</authors>
+		<jconf>ICMLA</jconf>
+		<id>1248093</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accessible image search</title>
+		<year>2009</year>
+		<authors>Meng Wang,Bo Liu,Xian-Sheng Hua</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>1253029</id>
+		<label>17</label>
+		<organization>University of Science and Technology of China, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Repairing Inconsistency and Uncertainty in DL-based Ontologies</title>
+		<year>2009</year>
+		<authors>Bo Liu,Jianqiang Li,Yu Zhao</authors>
+		<jconf>SWWS</jconf>
+		<id>1256530</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation of Distribution Algorithms for the Machine-Part Cell Formation</title>
+		<year>2009</year>
+		<authors>Qingbin Zhang,Bo Liu,Lihong Bi,Zhuangwei Wang,Boyuan Ma</authors>
+		<jconf>ISICA</jconf>
+		<id>1259112</id>
+		<label>39</label>
+		<organization>Hebei Academy of Sciences, Shijiazhuang, China 050081</organization>
+	</publication>
+	<publication>
+		<title>Analog circuit optimization system based on hybrid evolutionary algorithms</title>
+		<year>2009</year>
+		<authors>Bo Liu,Yan Wang,Zhiping Yu,Leibo Liu,Miao Li,Zheng Wang,Jing Lu,Francisco V. Fernandez</authors>
+		<jconf>Integration</jconf>
+		<id>1275726</id>
+		<label>4</label>
+		<organization>Institute of Microelectronics, Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>ARDB - Antibiotic Resistance Genes Database</title>
+		<year>2009</year>
+		<authors>Bo Liu,Mihai Pop</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1279506</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fully automatic and segmentation-robust classification of breast tumors based on local texture analysis of ultrasound images</title>
+		<year>2010</year>
+		<authors>Bo Liu,H. D. Cheng,Jianhua Huang,Jiawei Tian,Xianglong Tang,Jiafeng Liu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1280398</id>
+		<label>35</label>
+		<organization>School of Computer Science and Technology, Harbin Institute of Technology, Harbin, No. 92, Xidazhi Street, Harbin 150001, PR China</organization>
+	</publication>
+	<publication>
+		<title>A Quality Metric Based on Color Similarity for Image Fusion</title>
+		<year>2008</year>
+		<authors>Shanshan Li,Richang Hong,Bo Liu,Xiuqing Wu</authors>
+		<jconf>Advances in Adaptive Data Analysis</jconf>
+		<id>1292789</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed network self-management model based on CSCW.</title>
+		<year>2005</year>
+		<authors>Junzhou Luo,Wei Li,Bo Liu</authors>
+		<jconf>null</jconf>
+		<id>1304550</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design of the GPS-Based Surveying Robot Automatic Monitoring System for Underground Mining Safety.</title>
+		<year>2009</year>
+		<authors>Chenguang Jiang,Jianguo Peng,Chunqiao Yuan,Guohui Wang,Yong He,Shaohong Li,Bo Liu</authors>
+		<jconf>null</jconf>
+		<id>1312646</id>
+		<label>27</label>
+		<organization>Qingdao Agricultural University, Shandong Qingdao, China 266109</organization>
+	</publication>
+	<publication>
+		<title>Filtering Spam in Social Tagging System with Dynamic Behavior Analysis.</title>
+		<year>2009</year>
+		<authors>Bo Liu,Ennan Zhai,Huiping Sun,Yelu Chen,Zhong Chen</authors>
+		<jconf>null</jconf>
+		<id>1315524</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Control System on Embedded Downloading Server Based on C/S Architecture.</title>
+		<year>2009</year>
+		<authors>Bo Liu,Xiangqian Ding,Haiyong Zheng,Xiaodong Wang</authors>
+		<jconf>null</jconf>
+		<id>1318353</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stability Analysis of Swarm with Interaction Time Delays Using Nearest Neighbors Information.</title>
+		<year>2009</year>
+		<authors>Bo Liu,Yan Yu,Jie Zhang,Huan Li</authors>
+		<jconf>null</jconf>
+		<id>1318850</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-linear Correlation Techniques in Educational Data Mining.</title>
+		<year>2009</year>
+		<authors>Bo Liu,Jian-Hua Zhao</authors>
+		<jconf>null</jconf>
+		<id>1318943</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scheduling strategies for mapping application workflows onto the grid.</title>
+		<year>2005</year>
+		<authors>Anirban Mandal,Ken Kennedy,Charles Koelbel,Gabriel Marin,John M. Mellor-Crummey,Bo Liu,S. Lennart Johnsson</authors>
+		<jconf>null</jconf>
+		<id>1319201</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-sphere Support Vector Data Description for Outliers Detection on Multi-distribution Data.</title>
+		<year>2009</year>
+		<authors>Yanshan Xiao,Bo Liu,Longbing Cao,Xindong Wu,Chengqi Zhang,Zhifeng Hao,Fengzhao Yang,Jie Cao</authors>
+		<jconf>null</jconf>
+		<id>1319564</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction and Analysis of Landslide Based on Fuzzy Theory.</title>
+		<year>2009</year>
+		<authors>Chenguang Jiang,Jianguo Peng,Chunqiao Yuan,Guohui Wang,Yong He,Bo Liu</authors>
+		<jconf>null</jconf>
+		<id>1322975</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Complex Analysis of Anisotropic Swarms with Gaussian Profiles.</title>
+		<year>2009</year>
+		<authors>Bo Liu,Haili Liang,Jie Zhang,Huan Li</authors>
+		<jconf>null</jconf>
+		<id>1322976</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collective Behavior of Dynamic Swarm with General Topology and Complex Communication Time-Delays</title>
+		<year>2009</year>
+		<authors>Huan Li,Bo Liu</authors>
+		<jconf>Proceedings of the 2009 Fifth International Joint Conference on INC, IMS and IDC</jconf>
+		<id>1365799</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reactive-ion etching of Ge2Sb2Te5 in CF4/Ar plasma for non-volatile phase-change memories</title>
+		<year>2008</year>
+		<authors>Gaoming Feng,Bo Liu,Zhitang Song,Songlin Feng,Bomy Chen</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1376335</id>
+		<label>33</label>
+		<organization>Laboratory of Nanotechnology, Shanghai Institute of Microsystem and Information Technology, CAS, 865 Changning Road, Shanghai 200050, PR China</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Resource Allocation in Multiuser OFDM System Based on Genetic Algorithm</title>
+		<year>2009</year>
+		<authors>Bo Liu,Mingyan Jiang,Dongfeng Yuan</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 01</jconf>
+		<id>1383923</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced sensitivity refractive index sensor using tilted fiber Bragg grating with thinned cladding</title>
+		<year>2008</year>
+		<authors>Yinping Miao,Bo Liu,Qida Zhao</authors>
+		<jconf>Proceedings of the 2008 International Conference on Advanced Infocomm Technology</jconf>
+		<id>1385496</id>
+		<label>32</label>
+		<organization>Nankai university</organization>
+	</publication>
+	<publication>
+		<title>Temperature wireless sensors network based on fiber Bragg grating</title>
+		<year>2008</year>
+		<authors>Bo Liu,Haibin Zhou,Junhao Tao,Yange Liu</authors>
+		<jconf>Proceedings of the 2008 International Conference on Advanced Infocomm Technology</jconf>
+		<id>1385648</id>
+		<label>32</label>
+		<organization>Nankai university, Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Region-of-Interest Coding of 3D Mesh Based on Wavelet Transform</title>
+		<year>2004</year>
+		<authors>Hongjuan Zheng,Bo Liu,Hongbin Zhang</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1414703</id>
+		<label>0</label>
+		<organization>Beijing University of Technology</organization>
+	</publication>
+	<publication>
+		<title>On the spectral properties and stabilization of acoustic flow</title>
+		<year>1998</year>
+		<authors>Walter Littman,Bo Liu</authors>
+		<jconf>SIAM Journal on Applied Mathematics</jconf>
+		<id>1552536</id>
+		<label>40</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Co-evolutionary Differential Evolution Algorithm for Constrained Optimization</title>
+		<year>2007</year>
+		<authors>Bo Liu,Hannan Ma,Xuejun Zhang</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 04</jconf>
+		<id>1582434</id>
+		<label>4</label>
+		<organization>Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>A Scalable Peer-to-Peer Overlay for Applications with Time Constraints</title>
+		<year>2007</year>
+		<authors>Bo Liu,Yansheng Lu</authors>
+		<jconf>Proceedings of the Eighth ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing - Volume 02</jconf>
+		<id>1583573</id>
+		<label>38</label>
+		<organization>Huazhong University of Sci and Tech, China</organization>
+	</publication>
+	<publication>
+		<title>A Population-Based Incremental Learning Algorithm with Elitist Strategy</title>
+		<year>2007</year>
+		<authors>Qingbin Zhang,Tihua Wu,Bo Liu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 03</jconf>
+		<id>1585435</id>
+		<label>39</label>
+		<organization>Yanshan University, China</organization>
+	</publication>
+	<publication>
+		<title>Demand Flow Network</title>
+		<year>2004</year>
+		<authors>Linyan Sun,Bo Liu,Xiting Wu</authors>
+		<jconf>Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference</jconf>
+		<id>1613835</id>
+		<label>37</label>
+		<organization>Xi'an Jiaotong University, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Entropy-based metrics in swarm clustering</title>
+		<year>2009</year>
+		<authors>Bo Liu,Jiuhui Pan,R. I. (Bob) McKay</authors>
+		<jconf>International Journal of Intelligent Systems</jconf>
+		<id>1652140</id>
+		<label>8</label>
+		<organization>Dept of Computer Science, Jinan University, Guangzhou 510632, China</organization>
+	</publication>
+	<publication>
+		<title>Neural Network Identification Method Applied to the Nonlinear System</title>
+		<year>2009</year>
+		<authors>Bo Liu,Huiguang Li,Tihua Wu</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 04</jconf>
+		<id>1652295</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Complex Analysis of Anisotropic Swarms</title>
+		<year>2009</year>
+		<authors>Bo Liu,Haili Liang,Jie Zhang,Huan Li</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01</jconf>
+		<id>1658986</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stability Analysis of Social Foraging Swarm with Interaction Time Delays</title>
+		<year>2009</year>
+		<authors>Bo Liu,Yan Yu,Jie Zhang,Huan Li</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01</jconf>
+		<id>1658996</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Parallel Segmentation Model Based on Dictionary and Mutual Information</title>
+		<year>2008</year>
+		<authors>Bo Liu,Liang Gui Tang,Can Tang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1753760</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An effective parameter extraction method based on memetic differential evolution algorithm</title>
+		<year>2008</year>
+		<authors>Bo Liu,Jing Lu,Yan Wang,Yang Tang</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1755014</id>
+		<label>4</label>
+		<organization>Institute of Microelectronics, Tsinghua University, Beijing, China</organization>
+	</publication>
+</person>

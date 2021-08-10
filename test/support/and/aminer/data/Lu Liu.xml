@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>74713</personID>
+	<FullName>Lu Liu</FullName>
+	<FirstName>Lu</FirstName>
+	<LastName>Liu</LastName>
+	<publication>
+		<title>A monolithic CMOS L band DAB receiver</title>
+		<year>2005</year>
+		<authors>Ziqiang Wang,Baoyong Chi,Min Lin,Shuguang Han,Lu Liu,Jinke Yao,Zhihua Wang</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>53050</id>
+		<label>0</label>
+		<organization>Tsinghua University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Mining Condensed and Lossless Association Rules by Pruning Redundancy</title>
+		<year>2008</year>
+		<authors>Lu Liu,Yin Chen,Siqing Shan,Lu Yin</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218214</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An automatic approach to integrate routing-relevant information from different resources</title>
+		<year>2008</year>
+		<authors>Meng Zhang,Lu Liu,Hongbo Gong,Liqiu Meng</authors>
+		<jconf>GIS</jconf>
+		<id>233168</id>
+		<label>2</label>
+		<organization>Technische Universität München, Munich, Germany</organization>
+	</publication>
+	<publication>
+		<title>Does Familiarity Breed Content? Taking Account of Familiarity with a Topic in Personalizing Information Retrieval</title>
+		<year>2006</year>
+		<authors>Gheorghe Muresan,Michael Cole,Catherine L. Smith,Lu Liu,Nicholas J. Belkin</authors>
+		<jconf>HICSS</jconf>
+		<id>246915</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detecting Document Genre for Personalization of Information Retrieval</title>
+		<year>2006</year>
+		<authors>Gheorghe Muresan,Catherine L. Smith,Michael Cole,Lu Liu,Nicholas J. Belkin</authors>
+		<jconf>HICSS</jconf>
+		<id>246918</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Small World Architecture for Peer-to-Peer Networks</title>
+		<year>2006</year>
+		<authors>Lu Liu,Stephen Mackin,Nick Antonopoulos</authors>
+		<jconf>IAT Workshops</jconf>
+		<id>261258</id>
+		<label>4</label>
+		<organization>University of Surrey, United Kingdom</organization>
+	</publication>
+	<publication>
+		<title>Asymmetric Demand Information and Channel Profits When Retailers Compete</title>
+		<year>2004</year>
+		<authors>Bin Xiao,Lu Liu,Aling Zhang</authors>
+		<jconf>ICEB</jconf>
+		<id>304471</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Decentralized Resource Discovery Based on Keywords Combinations and Node Clusters in Knowledge Grid</title>
+		<year>2007</year>
+		<authors>Hong Li,Lu Liu</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>313889</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast and robust detection of near-duplicates in web video database</title>
+		<year>2008</year>
+		<authors>Hui Xu,Lu Liu,Li-Feng Sun,Shi-Qiang Yang</authors>
+		<jconf>ICME</jconf>
+		<id>333339</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Small-World Peer-to-Peer for Resource Discovery</title>
+		<year>2007</year>
+		<authors>Lu Liu,Nick Antonopoulos,Stephen Mackin</authors>
+		<jconf>ICOIN</jconf>
+		<id>339367</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Research on Dissipative Structure of the Information Resource Organization of E-Government</title>
+		<year>2007</year>
+		<authors>Na Wang,Wenyi Zhang,Xiaofang Wang,Lu Liu</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384296</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Development and Status of Automobile E-Commerce in China</title>
+		<year>2007</year>
+		<authors>Lingli Gan,Lu Liu</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384301</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Inventory Management Using Actuarial Method</title>
+		<year>2007</year>
+		<authors>Yunpeng Wu,Lu Liu,Yin Guo</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384314</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Object-Dependent and Context Constraints-Aware Access Control Approach Based on RBAC</title>
+		<year>2007</year>
+		<authors>Xiaoli Ren,Lu Liu,Chenggong Lv</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384317</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Enterprise Application Integration Based on Ontology Semantic Description</title>
+		<year>2007</year>
+		<authors>Lu Liu,Deyu Kong,Yi Li,Zhe Liu</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384354</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Online Personalized Recommendation Model Based on Bayesian Networks</title>
+		<year>2007</year>
+		<authors>Shaozhong Zhang,Lu Liu</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384371</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Impacts of Enterprise Resource Planning Systems on Firm Performance: An Empirical Analysis of Chinese Chemical Firms</title>
+		<year>2007</year>
+		<authors>Lu Liu,Rui Miao,Chengzhi Li</authors>
+		<jconf>CONFENIS (1)</jconf>
+		<id>384415</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Case Study of Enterprise Application Integration Based on Workflow Management System</title>
+		<year>2007</year>
+		<authors>Baosen Yang,Lu Liu</authors>
+		<jconf>CONFENIS (1)</jconf>
+		<id>384440</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new high gain low voltage 1.45 GHz CMOS mixer</title>
+		<year>2005</year>
+		<authors>Lu Liu,Zhihua Wang</authors>
+		<jconf>ISCAS (5)</jconf>
+		<id>422642</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Calculation of intermodulation distortion in CMOS transconductance stage</title>
+		<year>2005</year>
+		<authors>Lu Liu,Zhihua Wang,Guolin Li</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>430816</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reduce Feature Based NN for Transient Stability Analysis of Large-Scale Power Systems</title>
+		<year>2007</year>
+		<authors>Youping Fan,Min Xiong,Lu Liu,Jiguan Men,Cheng Tan,Yunping Chen</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>443762</id>
+		<label>13</label>
+		<organization>Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China</organization>
+	</publication>
+	<publication>
+		<title>Service-Oriented Integration of Systems for Military Capability</title>
+		<year>2008</year>
+		<authors>Duncan Russell,Nik Looker,Lu Liu,Jie Xu</authors>
+		<jconf>ISORC</jconf>
+		<id>444616</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selecting books: a performance-based study</title>
+		<year>2006</year>
+		<authors>Nina Wacholder,Lu Liu,Ying-Hsang Liu</authors>
+		<jconf>JCDL</jconf>
+		<id>467806</id>
+		<label>3</label>
+		<organization>Rutgers University, New Brunswick, NJ</organization>
+	</publication>
+	<publication>
+		<title>Interactive Separation of Segmented Bones in CT Volumes Using Graph Cut</title>
+		<year>2008</year>
+		<authors>Lu Liu,David Raber,David Nopachai,Paul Commean,David Sinacore,Fred Prior,Robert Pless,Tao Ju</authors>
+		<jconf>MICCAI (1)</jconf>
+		<id>498850</id>
+		<label>14</label>
+		<organization>Washington University in St. Louis, St. Louis, USA MO 63130</organization>
+	</publication>
+	<publication>
+		<title>Video Histogram: A Novel Video Signature for Efficient Web Video Duplicate Detection</title>
+		<year>2007</year>
+		<authors>Lu Liu,Wei Lai,Xian-Sheng Hua,Shi-Qiang Yang</authors>
+		<jconf>MMM (2)</jconf>
+		<id>504999</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Social Peer-to-Peer for Resource Discovery</title>
+		<year>2007</year>
+		<authors>Lu Liu,Nick Antonopoulos,Stephen Mackin</authors>
+		<jconf>PDP</jconf>
+		<id>534639</id>
+		<label>4</label>
+		<organization>University of Surrey, United Kingdom</organization>
+	</publication>
+	<publication>
+		<title>The Separation of Duty with Privilege Calculus</title>
+		<year>2008</year>
+		<authors>Chenggong Lv,Jun Wang,Lu Liu,Weijia You</authors>
+		<jconf>RSKT</jconf>
+		<id>562426</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An interactive tool for fitting surfaces to volume data</title>
+		<year>2008</year>
+		<authors>Ross T. Sowell,Lu Liu,Tao Ju,Cindy M. Grimm</authors>
+		<jconf>SIGGRAPH Posters</jconf>
+		<id>594319</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Surface reconstruction from point set using projection operator</title>
+		<year>2008</year>
+		<authors>Ly Phan,Lu Liu,Sasakthi S. Abeysinghe,Tao Ju,Cindy M. Grimm</authors>
+		<jconf>SIGGRAPH Posters</jconf>
+		<id>594326</id>
+		<label>14</label>
+		<organization>Washington University in St. Louis</organization>
+	</publication>
+	<publication>
+		<title>Web video topic discovery and tracking via bipartite graph reinforcement model</title>
+		<year>2008</year>
+		<authors>Lu Liu,Lifeng Sun,Yong Rui,Yao Shi,Shiqiang Yang</authors>
+		<jconf>WWW</jconf>
+		<id>675383</id>
+		<label>8</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Self-Organization of Autonomous Peers with Human Strategies</title>
+		<year>2008</year>
+		<authors>Lu Liu,Jie Xu,Duncan Russell,Nick Antonopoulos</authors>
+		<jconf>ICIW</jconf>
+		<id>711588</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Surface Reconstruction From Non-parallel Curve Networks</title>
+		<year>2008</year>
+		<authors>Lu Liu,C. Bajaj,Joseph Deasy,Daniel A. Low,Tao Ju</authors>
+		<jconf>Comput. Graph. Forum</jconf>
+		<id>788570</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient resource discovery in self-organized unstructured peer-to-peer networks</title>
+		<year>2009</year>
+		<authors>Lu Liu,Nick Antonopoulos,Stephen Mackin,Jie Xu,Duncan Russell</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<id>811497</id>
+		<label>4</label>
+		<organization>School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.</organization>
+	</publication>
+	<publication>
+		<title>The Separation of Duty with Privilege Calculus</title>
+		<year>2008</year>
+		<authors>Chenggong Lv,Jun Wang,Lu Liu,Weijia You</authors>
+		<jconf>CoRR</jconf>
+		<id>827525</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault-tolerant peer-to-peer search on small-world networks</title>
+		<year>2007</year>
+		<authors>Lu Liu,Nick Antonopoulos,Stephen Mackin</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>877563</id>
+		<label>4</label>
+		<organization>Surrey Space Centre, University of Surrey, Surrey, United Kingdom</organization>
+	</publication>
+	<publication>
+		<title>Assessing term effectiveness in the interactive information access process</title>
+		<year>2008</year>
+		<authors>Nina Wacholder,Lu Liu</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>937323</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Three-objective fuzzy chance-constrained programming model for multiproject and multi-item investment combination</title>
+		<year>2009</year>
+		<authors>Bin Xu,Weiguo Fang,Ruifeng Shi,Jing Yu,Lu Liu</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>943151</id>
+		<label>7</label>
+		<organization>School of Economics and Management, Beihang University, Beijing 100083, China</organization>
+	</publication>
+	<publication>
+		<title>User preference: A measure of query-term quality</title>
+		<year>2006</year>
+		<authors>Nina Wacholder,Lu Liu</authors>
+		<jconf>JASIST</jconf>
+		<id>957213</id>
+		<label>3</label>
+		<organization>Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901</organization>
+	</publication>
+	<publication>
+		<title>Managing peer-to-peer networks with human tactics in social interactions</title>
+		<year>2008</year>
+		<authors>Lu Liu,Nick Antonopoulos,Stephen Mackin</authors>
+		<jconf>The Journal of Supercomputing</jconf>
+		<id>1112253</id>
+		<label>4</label>
+		<organization>Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT</organization>
+	</publication>
+	<publication>
+		<title>Global robust output regulation of lower triangular systems with unknown control direction</title>
+		<year>2008</year>
+		<authors>Lu Liu,Jie Huang</authors>
+		<jconf>Automatica</jconf>
+		<id>1181122</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rutgers' HARD Track Experiences at TREC 2004</title>
+		<year>2004</year>
+		<authors>Nicholas J. Belkin,I. Chaleva,Michael Cole,Y.-L. Li,Lu Liu,Ying-Hsang Liu,Gheorghe Muresan,Catherine L. Smith,Ying Sun,Xiao-Jun Yuan,Xiao-Min Zhang</authors>
+		<jconf>TREC</jconf>
+		<id>1214785</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parameter convergence and minimal internal model with an adaptive output regulation problem</title>
+		<year>2009</year>
+		<authors>Lu Liu,Zhiyong Chen,Jie Huang</authors>
+		<jconf>Automatica</jconf>
+		<id>1231169</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Performance Support of Lustre over Customized HSNI for HPC</title>
+		<year>2009</year>
+		<authors>Yufeng Guo,Xuejun Yang,Li Luo,Qiong Li,Lu Liu</authors>
+		<jconf>APPT</jconf>
+		<id>1237759</id>
+		<label>9</label>
+		<organization>School of Computer, National University of Defense Technology, Changsha, China 410073</organization>
+	</publication>
+	<publication>
+		<title>A Scenario-Based Architecture Evaluation Framework for Network Enabled Capability</title>
+		<year>2009</year>
+		<authors>Colin C. Venters,Duncan Russell,Lu Liu,Zongyang Luo,David Webster,Jie Xu</authors>
+		<jconf>COMPSAC (2)</jconf>
+		<id>1240057</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Simulation Platform for Intelligent Scheduling In Automated Container Terminal</title>
+		<year>2009</year>
+		<authors>Lu Liu,Zaizhou Ma,Mingsen Guo</authors>
+		<jconf>MSV</jconf>
+		<id>1253414</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>User studies on the feasibility of oblique contouring</title>
+		<year>2009</year>
+		<authors>Ross T. Sowell,Lu Liu,Tao Ju,Cindy Grimm,Christopher Abraham,Garima Gokhroo,Daniel A. Low</authors>
+		<jconf>SIGGRAPH Posters</jconf>
+		<id>1255910</id>
+		<label>14</label>
+		<organization>Washington University in St. Louis</organization>
+	</publication>
+	<publication>
+		<title>Defining and computing multi-dimensional skeletons</title>
+		<year>2009</year>
+		<authors>Lu Liu,Tao Ju</authors>
+		<jconf>SIGGRAPH Posters</jconf>
+		<id>1255965</id>
+		<label>14</label>
+		<organization>Washington University in St. Louis</organization>
+	</publication>
+	<publication>
+		<title>Modelling and simulation of Network Enabled Capability on service-oriented architecture</title>
+		<year>2009</year>
+		<authors>Lu Liu,Duncan Russell,Jie Xu,David Webster,Zongyang Luo,Colin C. Venters,John K. Davies</authors>
+		<jconf>Simulation Modelling Practice and Theory</jconf>
+		<id>1280568</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dependable Dynamic Service Integration on Service-Oriented Peer-to-Peer Networks.</title>
+		<year>2009</year>
+		<authors>Lu Liu,Jie Xu,Duncan Russell,K. P. Lam,Zongyang Luo,Kaigui Wu,Dave Collins</authors>
+		<jconf>null</jconf>
+		<id>1316792</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges for End-to-End Quality of Service in Heterogeneous Networks.</title>
+		<year>2009</year>
+		<authors>Wen-an Zhou,Lu Liu,Jun-de Song</authors>
+		<jconf>null</jconf>
+		<id>1316892</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Delivering Sustainable Capability on Evolutionary Service-oriented Architecture.</title>
+		<year>2009</year>
+		<authors>Lu Liu,Duncan Russell,David Webster,Zongyang Luo,Colin C. Venters,Jie Xu,John K. Davies</authors>
+		<jconf>null</jconf>
+		<id>1324655</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topic mining on web-shared videos.</title>
+		<year>2008</year>
+		<authors>Lu Liu,Yong Rui,Lifeng Sun,Bo Yang,Jianwei Zhang,Shi-Qiang Yang</authors>
+		<jconf>null</jconf>
+		<id>1329982</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Vector Data Management of GIS Based on PDA.</title>
+		<year>2009</year>
+		<authors>Lu Liu</authors>
+		<jconf>null</jconf>
+		<id>1331106</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tarsal and Metatarsal Bone Mineral Density Measurement Using Volumetric Quantitative Computed Tomography.</title>
+		<year>2009</year>
+		<authors>Paul K. Commean,Tao Ju,Lu Liu,David R. Sinacore,Mary K. Hastings,Michael J. Mueller</authors>
+		<jconf>J. Digital Imaging</jconf>
+		<id>1344620</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient and scalable search on scale-free P2P networks.</title>
+		<year>2009</year>
+		<authors>Lu Liu,Jie Xu,Duncan Russell,Paul Townend,David Webster</authors>
+		<jconf>Peer-to-Peer Networking and Applications</jconf>
+		<id>1345625</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Investigation of Research towards Efficient Social Peer-to-Peer Networks</title>
+		<year>2008</year>
+		<authors>Lu Liu,Nick Antonopoulos,Jie Xu,Duncan Russell</authors>
+		<jconf>Proceedings of the 2008 The Third International Multi-Conference on Computing in the Global Information Technology (iccgi 2008)</jconf>
+		<id>1590417</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on System Architecture and Interfaces in Heterogeneous Network Platform</title>
+		<year>2009</year>
+		<authors>Fei Ma,Wen-an Zhou,Lu Liu,Jun-de Song</authors>
+		<jconf>Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 01</jconf>
+		<id>1649960</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Airport Internal Safety Risk Assessment using Fuzzy Hierarchy Process Approach</title>
+		<year>2008</year>
+		<authors>Zhenwu Zhao,Lu Liu,Fang Liu</authors>
+		<jconf>Proceedings of the 2008 International Symposium on Computational Intelligence and Design - Volume 01</jconf>
+		<id>1747634</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+</person>

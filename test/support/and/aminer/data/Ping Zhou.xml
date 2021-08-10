@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>91639</personID>
+	<FullName>Ping Zhou</FullName>
+	<FirstName>Ping</FirstName>
+	<LastName>Zhou</LastName>
+	<publication>
+		<title>A Binary Correlation Matrix Memory k-NN Classifier with Hardware Implementation</title>
+		<year>1998</year>
+		<authors>Ping Zhou,Jim Austin,John Kennedy</authors>
+		<jconf>BMVC</jconf>
+		<id>67599</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Web Usage Mining in Electronic Government</title>
+		<year>2007</year>
+		<authors>Ping Zhou,Zhongjian Le</authors>
+		<jconf>I3E (2)</jconf>
+		<id>258333</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fuzzy Logic Expert System for Fault Diagnosis and Security Assessment of Power Transformers</title>
+		<year>1993</year>
+		<authors>Ping Zhou,Shiheng Xu</authors>
+		<jconf>ICTAI</jconf>
+		<id>367811</id>
+		<label>3</label>
+		<organization>Electr. Power Res. Inst. Beijing</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Intelligent System for Supervisory Control of Mineral Grinding Process</title>
+		<year>2006</year>
+		<authors>Jinliang Ding,Ping Zhou,Changxin Liu,Tianyou Chai</authors>
+		<jconf>ISDA (1)</jconf>
+		<id>434443</id>
+		<label>5</label>
+		<organization>Northeastern University, China</organization>
+	</publication>
+	<publication>
+		<title>Available Bit Rate (ABR) Source Control and Delay Estimation</title>
+		<year>2000</year>
+		<authors>Ping Zhou,Charles Thompson</authors>
+		<jconf>LCN</jconf>
+		<id>482507</id>
+		<label>6</label>
+		<organization>Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>A High Performance k-NN Classifier Using a Binary Correlation Matrix Memory</title>
+		<year>1998</year>
+		<authors>Ping Zhou,Jim Austin,John Kennedy</authors>
+		<jconf>NIPS</jconf>
+		<id>517627</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A proof theory for asynchronously communicating real-time systems</title>
+		<year>1992</year>
+		<authors>Ping Zhou,Jozef Hooman</authors>
+		<jconf>IEEE Real-Time Systems Symposium</jconf>
+		<id>565710</id>
+		<label>7</label>
+		<organization>Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>On Adding Link Dimensional Dynamism to CSMA/CA Based MAC Protocols</title>
+		<year>2007</year>
+		<authors>B. S. Manoj,Ping Zhou,Ramesh R. Rao</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704449</id>
+		<label>8</label>
+		<organization>Univ. of California San Diego, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Local Elastic Registration of Multimodal Medical Image Using Robust Point Matching and Compact Support RBF</title>
+		<year>2008</year>
+		<authors>Xuan Yang,Zhixiong Zhang,Ping Zhou</authors>
+		<jconf>BMEI (2)</jconf>
+		<id>716823</id>
+		<label>9</label>
+		<organization>Coll. of Inf. Eng., Shenzhen Univ., Shenzhen</organization>
+	</publication>
+	<publication>
+		<title>On the finite sum representations of the Lauricella functions FD</title>
+		<year>2005</year>
+		<authors>Jieqing Tan,Ping Zhou</authors>
+		<jconf>Adv. Comput. Math.</jconf>
+		<id>742396</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic adaptation of CSMA/CA MAC protocol for wide area wireless mesh networks</title>
+		<year>2008</year>
+		<authors>B. S. Manoj,Ping Zhou,Ramesh R. Rao</authors>
+		<jconf>Computer Communications</jconf>
+		<id>803059</id>
+		<label>8</label>
+		<organization>Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States</organization>
+	</publication>
+	<publication>
+		<title>Compositional Verification of Real-Time Systems with Explicit Clock Temporal Logic</title>
+		<year>1996</year>
+		<authors>Ping Zhou,Jozef Hooman,Ruurd Kuiper</authors>
+		<jconf>Formal Asp. Comput.</jconf>
+		<id>876484</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracting Motor Unit Firing Information by Independent Component Analysis of Surface Electromyogram: A Preliminary Study Using a Simulation Approach</title>
+		<year>2006</year>
+		<authors>Ping Zhou,M. M. Lowery,W. Zev Rymer</authors>
+		<jconf>Int. J. Comput. Syst. Signal</jconf>
+		<id>907451</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comparison between the China Scientific and Technical Papers and Citations Database and the Science Citation Index in terms of journal hierarchies and interjournal citation relations</title>
+		<year>2007</year>
+		<authors>Ping Zhou,Loet Leydesdorff</authors>
+		<jconf>JASIST</jconf>
+		<id>957518</id>
+		<label>12</label>
+		<organization>Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands</organization>
+	</publication>
+	<publication>
+		<title>Co-word analysis using the Chinese character set</title>
+		<year>2008</year>
+		<authors>Loet Leydesdorff,Ping Zhou</authors>
+		<jconf>JASIST</jconf>
+		<id>957888</id>
+		<label>12</label>
+		<organization>K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Formal Specification and Compositional Verification of an Atomic Broadcast Protocol</title>
+		<year>1995</year>
+		<authors>Ping Zhou,Jozef Hooman</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1053322</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Are the contributions of China and Korea upsetting the world system of science?</title>
+		<year>2005</year>
+		<authors>Loet Leydesdorff,Ping Zhou</authors>
+		<jconf>Scientometrics</jconf>
+		<id>1054710</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nanotechnology as a field of science: Its delineation in terms of journals and patents</title>
+		<year>2007</year>
+		<authors>Loet Leydesdorff,Ping Zhou</authors>
+		<jconf>Scientometrics</jconf>
+		<id>1055015</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The citation impacts and citation environments of Chinese journals in mathematics</title>
+		<year>2007</year>
+		<authors>Ping Zhou,Loet Leydesdorff</authors>
+		<jconf>Scientometrics</jconf>
+		<id>1055060</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient random access scheme for OFDMA systems with implicit message transmission</title>
+		<year>2008</year>
+		<authors>Ping Zhou,Honglin Hu,Haifeng Wang,Hsiao-Hwa Chen</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1177249</id>
+		<label>13</label>
+		<organization>Shanghai Res. Center for Wireless Commun., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Horseshoe in the hyperchaotic Mck Circuit</title>
+		<year>2007</year>
+		<authors>Fangyan Yang,Qingdu Li,Ping Zhou</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1193330</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Frequent value compression in packet-based NoC architectures</title>
+		<year>2009</year>
+		<authors>Ping Zhou,Bo Zhao,Yu Du,Yi Xu,Youtao Zhang,Jun Yang,Li Zhao</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>1205478</id>
+		<label>14</label>
+		<organization>University of Pittsburgh, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>A durable and energy efficient main memory using phase change memory technology</title>
+		<year>2009</year>
+		<authors>Ping Zhou,Bo Zhao,Jun Yang,Youtao Zhang</authors>
+		<jconf>ISCA</jconf>
+		<id>1211017</id>
+		<label>14</label>
+		<organization>University of Pittsburgh, Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Asymptotic Capacity of Infrastructure Wireless Mesh Networks</title>
+		<year>2008</year>
+		<authors>Ping Zhou,Xudong Wang,Ramesh R. Rao</authors>
+		<jconf>IEEE Trans. Mob. Comput.</jconf>
+		<id>1227749</id>
+		<label>8</label>
+		<organization>Qualcomm, Inc., San Diego, CA</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Buffer Management for Efficient Code Dissemination in Multi-Application Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Weijia Li,Yu Du,Youtao Zhang,Bruce Childers,Ping Zhou,Jun Yang</authors>
+		<jconf>Semantics Structures in Computation</jconf>
+		<id>1243109</id>
+		<label>14</label>
+		<organization>Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>A Speaker Verification System Based on EMD.</title>
+		<year>2009</year>
+		<authors>Lizhen Tang,Ping Zhou,Xing Wei</authors>
+		<jconf>null</jconf>
+		<id>1329076</id>
+		<label>16</label>
+		<organization>Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China</organization>
+	</publication>
+	<publication>
+		<title>Analysis of Welding Defects in Spot Welding Process U-I Curves.</title>
+		<year>2009</year>
+		<authors>Ru-xiong Li,Xiao-chun Lei,Ping Zhou</authors>
+		<jconf>null</jconf>
+		<id>1329105</id>
+		<label>16</label>
+		<organization>Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China</organization>
+	</publication>
+	<publication>
+		<title>Co-word Analysis using the Chinese Character Set</title>
+		<year>2009</year>
+		<authors>Loet Leydesdorff,Ping Zhou</authors>
+		<jconf>CoRR</jconf>
+		<id>1334311</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comparison between the China Scientific and Technical Papers and Citations Database and the Science Citation Index in terms of journal hierarchies and inter-journal citation relations</title>
+		<year>2009</year>
+		<authors>Ping Zhou,Loet Leydesdorff</authors>
+		<jconf>CoRR</jconf>
+		<id>1334431</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Citation Impacts and Citation Environments of Chinese Journals in Mathematics</title>
+		<year>2009</year>
+		<authors>Ping Zhou,Loet Leydesdorff</authors>
+		<jconf>CoRR</jconf>
+		<id>1334432</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multivariate Pad&eacute; approximants to a meromorphic function</title>
+		<year>2001</year>
+		<authors>Ping Zhou</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1526752</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A high performance k-NN classifier using a binary correlation matrix memory</title>
+		<year>1999</year>
+		<authors>Ping Zhou,Jim Austin,John Kennedy</authors>
+		<jconf>Proceedings of the 1998 conference on Advances in neural information processing systems II</jconf>
+		<id>1542902</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Explicit construction of multivariate Pad&eacute; approximants for a q-Logarithm function</title>
+		<year>2000</year>
+		<authors>Ping Zhou</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<id>1552527</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approximate Controller for Nonlinear Networked Control Systems with Time Delay</title>
+		<year>2008</year>
+		<authors>Peng Liu,Ping Zhou,Chuanwen Liu</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05</jconf>
+		<id>1600076</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Energy Reporting Aggregation Method Based on EAFM and DTRM in WSN</title>
+		<year>2009</year>
+		<authors>Sheng Zhang,Ping Zhou,Jian Shu</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01</jconf>
+		<id>1657213</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China</organization>
+	</publication>
+	<publication>
+		<title>Spectral estimation of segmented random signals</title>
+		<year>1992</year>
+		<authors>Ping Zhou</authors>
+		<jconf>null</jconf>
+		<id>1678072</id>
+		<label>12</label>
+		<organization>The Univ. of Alabama in Huntsville</organization>
+	</publication>
+</person>

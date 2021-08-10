@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>35936</personID>
+	<FullName>Yi Deng</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>A Resource Access Decision Service for CORBA-Based Distributed Systems</title>
+		<year>1999</year>
+		<authors>Konstantin Beznosov,Yi Deng,Bob Blakley,C. Burt,John F. Barkley</authors>
+		<jconf>ACSAC</jconf>
+		<id>24134</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating Software Engineering Methods and Petri Nets for the Specification and Prototyping of Complex Information Systems</title>
+		<year>1993</year>
+		<authors>Yi Deng,Shi-Kuo Chang,Jorge C. A. de Figueiredo,Angelo Perkusich</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45248</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication Model to Support Rapid Application Development</title>
+		<year>2006</year>
+		<authors>Yingbo Wang,Peter J. Clarke,Yi Deng</authors>
+		<jconf>Communications in Computing</jconf>
+		<id>93977</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resettable Zero Knowledge with Concurrent Soundness in the Bare Public-Key Model under Standard Assumption</title>
+		<year>2007</year>
+		<authors>Yi Deng,Dongdai Lin</authors>
+		<jconf>Inscrypt</jconf>
+		<id>97503</id>
+		<label>2</label>
+		<organization>The state key laboratory of information security, Institute of software, Chinese Academy of sciences, Beijing, China 100080 and Graduate School of Chinese Academy of Sciences,</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Traffic Control System Based on Stochastic Timed Petri Net Models</title>
+		<year>1999</year>
+		<authors>Jiacun Wang,Chun Jin,Yi Deng</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112833</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Architecture-Centered Enterprise System Development and Integration Based on Distributed Object Technology Standard</title>
+		<year>1999</year>
+		<authors>Kent Wreder,Yi Deng</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112870</id>
+		<label>0</label>
+		<organization>Object Technol. Group, Baptist Health Syst. of Florida, Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A Formal Method for Analyzing Software Architecture Models in SAM</title>
+		<year>2002</year>
+		<authors>Huiqun Yu,Xudong He,Yi Deng,Lian Mo</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112986</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A Communication Virtual Machine</title>
+		<year>2006</year>
+		<authors>Yi Deng,Seyed Masoud Sadjadi,Peter J. Clarke,Chi Zhang,Vagelis Hristidis,Raju Rangaswami,Nagarajan Prabakar</authors>
+		<jconf>COMPSAC (1)</jconf>
+		<id>113059</id>
+		<label>0</label>
+		<organization>Florida International University, USA</organization>
+	</publication>
+	<publication>
+		<title>A HyperNet Model for Large Hypertext Systems</title>
+		<year>1991</year>
+		<authors>Yi Deng,Shi-Kuo Chang</authors>
+		<jconf>DASFAA</jconf>
+		<id>140496</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a business continuity information network for rapid disaster recovery</title>
+		<year>2008</year>
+		<authors>Khalid Saleem,Steven Luis,Yi Deng,Shu-Ching Chen,Vagelis Hristidis,Tao Li</authors>
+		<jconf>DG.O</jconf>
+		<id>154954</id>
+		<label>0</label>
+		<organization>Florida International University, Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A Fast Line Segment Based Dense Stereo Algorithm Using Tree Dynamic Programming</title>
+		<year>2006</year>
+		<authors>Yi Deng,Xueyin Lin</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>168405</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Instance-Dependent Verifiable Random Functions and Their Application to Simultaneous Resettability</title>
+		<year>2007</year>
+		<authors>Yi Deng,Dongdai Lin</authors>
+		<jconf>EUROCRYPT</jconf>
+		<id>193649</id>
+		<label>2</label>
+		<organization>The state key laboratory of information security,Institute of software, Chinese Academy of sciences, Beijing, 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-level specification and protocol design for distributed multimedia communication</title>
+		<year>1991</year>
+		<authors>Taieb Znati,Yi Deng,Brian Field,Shi-Kuo Chang</authors>
+		<jconf>COOCS</jconf>
+		<id>237404</id>
+		<label>0</label>
+		<organization>Computer Science Department, University of Pittsburgh, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Integrated Architectural Modeling and Analysis for High-Assurance Command and Control System Design</title>
+		<year>1998</year>
+		<authors>Yi Deng,Jiacun Wang</authors>
+		<jconf>HASE</jconf>
+		<id>239150</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A Formal Approach to Designing Secure Software Architectures</title>
+		<year>2004</year>
+		<authors>Huiqun Yu,Xudong He,Yi Deng,Lian Mo</authors>
+		<jconf>HASE</jconf>
+		<id>239279</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>A Formal Approach for Architectural Modeling and Prototyping of Distributed Real-Time Systems</title>
+		<year>1997</year>
+		<authors>Yi Deng,Shengkai Lu,Michael Evangelist</authors>
+		<jconf>HICSS (1)</jconf>
+		<id>244483</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Symmetric Patch-Based Correspondence Model for Occlusion Handling</title>
+		<year>2005</year>
+		<authors>Yi Deng,Qiong Yang,Xueyin Lin,Xiaoou Tang</authors>
+		<jconf>ICCV</jconf>
+		<id>293010</id>
+		<label>6</label>
+		<organization>Tsinghua University</organization>
+	</publication>
+	<publication>
+		<title>A Delay-Optimal Quorum-Based Mutual Exclusion Scheme with Fault-Tolerance Capability</title>
+		<year>1998</year>
+		<authors>Guohong Cao,Mukesh Singhal,Yi Deng,Naphtali Rishe,Wei Sun</authors>
+		<jconf>ICDCS</jconf>
+		<id>296440</id>
+		<label>0</label>
+		<organization>Dept. of Comput. & Inf. Sci., Ohio State Univ., Columbus, OH</organization>
+	</publication>
+	<publication>
+		<title>Optimal Deadlock Detection in Distributed Systems Based on Locally Constructed Wait-for Graphs</title>
+		<year>1996</year>
+		<authors>Shigang Chen,Yi Deng,Paul C. Attie,Wei Sun</authors>
+		<jconf>ICDCS</jconf>
+		<id>296519</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Traffic Networks Based on Stochastic Timed Petri Net Models</title>
+		<year>1999</year>
+		<authors>Jiacun Wang,Chun Jin,Yi Deng</authors>
+		<jconf>ICECCS</jconf>
+		<id>305581</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Incremental Architectural Modeling and Verification of Real-Time Concurrent Systems</title>
+		<year>1998</year>
+		<authors>Yi Deng,Jiacun Wang,Rakesh Sinha</authors>
+		<jconf>ICFEM</jconf>
+		<id>309522</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Formal Analysis of Real-Time Systems with SAM</title>
+		<year>2002</year>
+		<authors>Huiqun Yu,Xudong He,Yi Deng,Lian Mo</authors>
+		<jconf>ICFEM</jconf>
+		<id>309779</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Panther: An Inexpensive and Integrated Multimedia Environment</title>
+		<year>1994</year>
+		<authors>Sha Guo,Wei Sun,Yi Deng,Wei Li,Qing Liu,Weiping Zhang</authors>
+		<jconf>ICMCS</jconf>
+		<id>330171</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Strengthening QIM-Based Watermarking by Non-uniform Discrete Cosine Transform</title>
+		<year>2008</year>
+		<authors>Xianfeng Zhao,Bingbing Xia,Yi Deng</authors>
+		<jconf>Information Hiding</jconf>
+		<id>385706</id>
+		<label>2</label>
+		<organization>State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China 100190</organization>
+	</publication>
+	<publication>
+		<title>Formal Analysis of Software Security System Architectures</title>
+		<year>2001</year>
+		<authors>Yi Deng,Jiacun Wang,Jeffrey J. P. Tsai</authors>
+		<jconf>ISADS</jconf>
+		<id>416284</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., Dallas, TX</organization>
+	</publication>
+	<publication>
+		<title>An Architecture for Operating System Support of Distributed Multimedia Systems</title>
+		<year>1995</year>
+		<authors>Ya Xu,Cyril U. Orji,Yi Deng,Naphtali Rishe</authors>
+		<jconf>IW-MMDBMS</jconf>
+		<id>465315</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Analyzing SMIL Documents in SAM</title>
+		<year>2002</year>
+		<authors>Huiqun Yu,Xudong He,Shu Gao,Yi Deng</authors>
+		<jconf>ISMSE</jconf>
+		<id>508471</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Implementing Role-Based Access Control Using CORBA Security Service</title>
+		<year>1999</year>
+		<authors>Konstantin Beznosov,Yi Deng</authors>
+		<jconf>ACM Workshop on Role-Based Access Control</jconf>
+		<id>557950</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing security policies in a distributed environment using eXtensible markup language (XML)</title>
+		<year>2001</year>
+		<authors>Nathan N. Vuong,Geoffrey Smith,Yi Deng</authors>
+		<jconf>SAC</jconf>
+		<id>568739</id>
+		<label>0</label>
+		<organization>University of Texas at Dallas, School of Engineering and Computer Science, Embedded Software Center, Richardson, Texas</organization>
+	</publication>
+	<publication>
+		<title>A Formalism for Architectural Modeling of Distributed Real-Time Systems</title>
+		<year>1996</year>
+		<authors>Yi Deng,Wenliang Du,Paul C. Attie,Michael Evangelist</authors>
+		<jconf>SEKE</jconf>
+		<id>581877</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applying Aspect-Orientation in Designing Security Systems: A Case Study</title>
+		<year>2004</year>
+		<authors>Shu Gao,Yi Deng,Huiqun Yu,Xudong He,Konstantin Beznosov,Kendra Cooper</authors>
+		<jconf>SEKE</jconf>
+		<id>581911</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model checking software architecture specifications in SAM</title>
+		<year>2002</year>
+		<authors>Xudong He,Junhua Ding,Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>581942</id>
+		<label>0</label>
+		<organization>Florida International University, FL</organization>
+	</publication>
+	<publication>
+		<title>An Environment for Specification, Simulation and Analysis of Distributed Object-Oriented Systems</title>
+		<year>1995</year>
+		<authors>Shengkai Lu,Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>582029</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating Security Administration into Software Architectures Design</title>
+		<year>2004</year>
+		<authors>Huiqun Yu,Xudong He,Yi Deng,Lian Mo</authors>
+		<jconf>SEKE</jconf>
+		<id>582168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formal Software Architecture Design of Secure Distributed Systems</title>
+		<year>2003</year>
+		<authors>Huiqun Yu,Xudong He,Shu Gao,Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>582169</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Executable Specifications for the Design of Object-Oriented Systems</title>
+		<year>1993</year>
+		<authors>Yi Deng,Raimund K. Ege,Wei Sun</authors>
+		<jconf>SEKE</jconf>
+		<id>582229</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intermediate Executable Architectural Specifications for KBSA, Part II</title>
+		<year>1993</year>
+		<authors>Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>582282</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic query optimization by class reference reduction in object- oriented databases</title>
+		<year>1994</year>
+		<authors>Sha Guo,Wei Sun,Naphtali Rishe,Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>582423</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Achieving a Better Middleware Design through Formal Modeling and Analysis</title>
+		<year>2006</year>
+		<authors>Weixiang Sun,Tianjun Shi,Gonzalo Argote-Garcia,Yi Deng,Xudong He</authors>
+		<jconf>SEKE</jconf>
+		<id>582503</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design an Interoperable Mobile Agent System Based on Predicate Transition Net Models</title>
+		<year>2005</year>
+		<authors>Junhua Ding,Dianxiang Xu,Yi Deng,Peter J. Clarke,Xudong He</authors>
+		<jconf>SEKE</jconf>
+		<id>582593</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unifying Multi-Paradigms in Software System Design</title>
+		<year>1992</year>
+		<authors>Yi Deng,Shi-Kuo Chang</authors>
+		<jconf>SEKE</jconf>
+		<id>582702</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Pittsburgh Univ., PA</organization>
+	</publication>
+	<publication>
+		<title>Building Global Ecosystem for Collaborative Computing Research and Education</title>
+		<year>2008</year>
+		<authors>Yi Deng</authors>
+		<jconf>SEKE</jconf>
+		<id>583082</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Modeling and Analysis of Software Architectures: An Aspect-Oriented UML Based Approach</title>
+		<year>2004</year>
+		<authors>Kendra Cooper,Lirong Dai,Yi Deng</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>585069</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Developing a Formal Design Analysis Framework</title>
+		<year>2003</year>
+		<authors>Kendra Cooper,Lirong Dai,Yi Deng,Jing Dong</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>585071</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Component Framework for Resource Management Systems</title>
+		<year>2004</year>
+		<authors>Jing Dong,Rucha Khisti,Kendra Cooper,Yi Deng</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>585101</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Instant and Accurate Estimation Method for Joins and Selection in a Retrieval-Intensive Environment</title>
+		<year>1993</year>
+		<authors>Wei Sun,Yibei Ling,Naphtali Rishe,Yi Deng</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599759</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Visual Approach to XML Document Design and Transformation</title>
+		<year>2001</year>
+		<authors>Kang Zhang,Da-Qian Zhang,Yi Deng</authors>
+		<jconf>HCC</jconf>
+		<id>641554</id>
+		<label>0</label>
+		<organization>State Key Lab for Novel Software Technol., Nanjing Univ.</organization>
+	</publication>
+	<publication>
+		<title>A flexible approach for electronic medical records exchange</title>
+		<year>2006</year>
+		<authors>Vagelis Hristidis,Peter J. Clarke,Nagarajan Prabakar,Yi Deng,Jeffrey A. White,Redmond P. Burke</authors>
+		<jconf>HIKM</jconf>
+		<id>681960</id>
+		<label>0</label>
+		<organization>Florida International University</organization>
+	</publication>
+	<publication>
+		<title>Automatic Generation of User-Centric Multimedia Communication Services</title>
+		<year>2007</year>
+		<authors>Raju Rangaswami,Seyed Masoud Sadjadi,Nagarajan Prabakar,Yi Deng</authors>
+		<jconf>IPCCC</jconf>
+		<id>693460</id>
+		<label>0</label>
+		<organization>Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Characterizing and Detecting Virus Replication</title>
+		<year>2008</year>
+		<authors>Jose Andre Morales,Peter J. Clarke,Yi Deng</authors>
+		<jconf>ICONS</jconf>
+		<id>715681</id>
+		<label>0</label>
+		<organization>Sch. of Comput. & Inf. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A Self-Configuring Communication Virtual Machine</title>
+		<year>2008</year>
+		<authors>Seyed Masoud Sadjadi,Selim Kalayci,Yi Deng</authors>
+		<jconf>ICNSC</jconf>
+		<id>735871</id>
+		<label>0</label>
+		<organization>Florida Int. Univ., Miami</organization>
+	</publication>
+	<publication>
+		<title>Integrated Architectural Modeling and Analysis for High-Assurance Command and Control System Design</title>
+		<year>1999</year>
+		<authors>Yi Deng,Jiacun Wang</authors>
+		<jconf>Ann. Software Eng.</jconf>
+		<id>753319</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Graphical Transformation of Multimedia XML Documents</title>
+		<year>2001</year>
+		<authors>Kang Zhang,Da-Qian Zhang,Yi Deng</authors>
+		<jconf>Ann. Software Eng.</jconf>
+		<id>753409</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Texas at Dallas, Richardson, TX 75083-0688, USA yideng@utdallas.edu</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Developing and Analyzing Software Architecture Specifications in SAM</title>
+		<year>2002</year>
+		<authors>Xudong He,Yi Deng</authors>
+		<jconf>Comput. J.</jconf>
+		<id>790339</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Concurrently Non-Malleable Zero Knowledge in the Authenticated Public-Key Model</title>
+		<year>2006</year>
+		<authors>Yi Deng,Giovanni Di Crescenzo,Dongdai Lin</authors>
+		<jconf>CoRR</jconf>
+		<id>821506</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resettable Zero Knowledge in the Bare Public-Key Model under Standard Assumption</title>
+		<year>2006</year>
+		<authors>Yi Deng,Dongdai Lin</authors>
+		<jconf>CoRR</jconf>
+		<id>822948</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: Special Issue on Embedded Software Engineering</title>
+		<year>2002</year>
+		<authors>Yi Deng,Farokh B. Bastani</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>920632</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constraint Propagation And Progressive Verification For Component-Based Process Model</title>
+		<year>2004</year>
+		<authors>Yi Deng,Jiacun Wang,Xudong He,Jeffrey J. P. Tsai</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>920636</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for the Modeling and Prototyping of Distributed Information Systems</title>
+		<year>1991</year>
+		<authors>Yi Deng,Shi-Kuo Chang</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>920696</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction - Best Papers from SEKE'98</title>
+		<year>2000</year>
+		<authors>Mark Gerken,Yi Deng</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>920703</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Executable Specification and Analysis for the Design of Concurrent Object-Oriented Systems</title>
+		<year>1994</year>
+		<authors>Yi Deng,Shi-Kuo Chang,Xiaola Lin</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>921138</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introducing software architecture specification and analysis in SAM through an example</title>
+		<year>1999</year>
+		<authors>Jiacun Wang,Xudong He,Yi Deng</authors>
+		<jconf>Information  Software Technology</jconf>
+		<id>924938</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architecture-driven modeling of real-time concurrent systems with applications in FMS</title>
+		<year>1999</year>
+		<authors>Yi Deng,Chia-Rung Yang</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>995962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formally analyzing software architectural specifications using SAM </title>
+		<year>2004</year>
+		<authors>Xudong He,Huiqun Yu,Tianjun Shi,Junhua Ding,Yi Deng</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>996364</id>
+		<label>0</label>
+		<organization>School of Computer Science, Florida International University, Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>CVM - A communication virtual machine</title>
+		<year>2008</year>
+		<authors>Yi Deng,Seyed Masoud Sadjadi,Peter J. Clarke,Vagelis Hristidis,Raju Rangaswami,Yingbo Wang</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997847</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stereo Correspondence with Occlusion Handling in a Symmetric Patch-Based Graph-Cuts Model</title>
+		<year>2007</year>
+		<authors>Yi Deng,Qiong Yang,Xueyin Lin,Xiaoou Tang</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033672</id>
+		<label>6</label>
+		<organization>Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Performance modeling and analysis of software architectures: An aspect-oriented UML based approach</title>
+		<year>2005</year>
+		<authors>Kendra Cooper,Lirong Dai,Yi Deng</authors>
+		<jconf>Sci. Comput. Program.</jconf>
+		<id>1056731</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Florida International University High Performance Database Research Center</title>
+		<year>1995</year>
+		<authors>Naphtali Rishe,Wei Sun,David Barton,Yi Deng,Cyril U. Orji,Michael Alexopoulos,Leonard Loureiro,Carlos Ordonez,Mario Sanchez,Artyom Shaposhnikov</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1065499</id>
+		<label>0</label>
+		<organization>School of Computer Science, FIU, University Park, Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>A G-Net Model for Knowledge Representation and Reasoning</title>
+		<year>1990</year>
+		<authors>Yi Deng,Shi-Kuo Chang</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1112694</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Pittsburgh Univ., PA</organization>
+	</publication>
+	<publication>
+		<title>An Approach for Modeling and Analysis of Security System Architectures</title>
+		<year>2003</year>
+		<authors>Yi Deng,Jiacun Wang,Jeffrey J. P. Tsai,Konstantin Beznosov</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1112695</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>A Formal Architectural Model for Logical Agent Mobility</title>
+		<year>2003</year>
+		<authors>Dianxiang Xu,Jianwen Yin,Yi Deng,Junhua Ding</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1129897</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Texas A&M Univ., College Station, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>Reachability analysis of real-time systems using time Petri nets</title>
+		<year>2000</year>
+		<authors>Jiacun Wang,Yi Deng,Gang Xu</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132316</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Compositional time Petri nets and reduction rules</title>
+		<year>2000</year>
+		<authors>Jiacun Wang,Yi Deng,Mengchu Zhou</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132317</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>Testing and evaluating virus detectors for handheld devices</title>
+		<year>2006</year>
+		<authors>Jose Andre Morales,Peter J. Clarke,Yi Deng,B. M. Golam Kibria</authors>
+		<jconf>Journal in Computer Virology</jconf>
+		<id>1137441</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterization of virus replication</title>
+		<year>2008</year>
+		<authors>Jose Andre Morales,Peter J. Clarke,Yi Deng,B. M. Golam Kibria</authors>
+		<jconf>Journal in Computer Virology</jconf>
+		<id>1137499</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Novel Omega-protocols for NP</title>
+		<year>2008</year>
+		<authors>Yi Deng,Dongdai Lin</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180537</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A formal model-based approach for developing an interoperable mobile agent system</title>
+		<year>2006</year>
+		<authors>Junhua Ding,Peter J. Clarke,Dianxiang Xu,Xudong He,Yi Deng</authors>
+		<jconf>Multiagent and Grid Systems</jconf>
+		<id>1184077</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary document summarization for disaster management</title>
+		<year>2009</year>
+		<authors>Dingding Wang,Li Zheng,Tao Li,Yi Deng</authors>
+		<jconf>SIGIR</jconf>
+		<id>1213897</id>
+		<label>0</label>
+		<organization>Florida International University, Miami, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>Towards the Operational Semantics of User-Centric Communication Models</title>
+		<year>2009</year>
+		<authors>Yingbo Wang,Yali Wu,Andrew A. Allen,Barbara Espinoza,Peter J. Clarke,Yi Deng</authors>
+		<jconf>COMPSAC (1)</jconf>
+		<id>1239987</id>
+		<label>0</label>
+		<organization>Sch. of Comput. & Inf. Sci., Florida Int. Univ., Miami, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>Concurrently Non-malleable Black-Box Zero Knowledge in the Bare Public-Key Model</title>
+		<year>2009</year>
+		<authors>Yi Deng,Giovanni Di Crescenzo,Dongdai Lin,Dengguo Feng</authors>
+		<jconf>CSR</jconf>
+		<id>1240662</id>
+		<label>2</label>
+		<organization>State Key Laboratory of Information Security, Institute of Software, Chinese Academy of sciences, Beijing, China 100190</organization>
+	</publication>
+	<publication>
+		<title>PIRE: a global living laboratory for cyberinfrastructure application enablement</title>
+		<year>2009</year>
+		<authors>Seyed Masoud Sadjadi,Shuyi Chen,S. Graham,S. Luis,Yi Deng,Borko Furht,P. Martinez,N. Bowen,J. Caraballo</authors>
+		<jconf>Richard Tapia Celebration of Diversity in Computing Conference</jconf>
+		<id>1256566</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resolving the Simultaneous Resettability Conjecture and a New Non-Black-Box Simulation Strategy.</title>
+		<year>2009</year>
+		<authors>Yi Deng,Vipul Goyal,Amit Sahai</authors>
+		<jconf>null</jconf>
+		<id>1322426</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Declarative Approach for Specifying User-Centric Communication</title>
+		<year>2006</year>
+		<authors>Peter J. Clarke,Vagelis Hristidis,Yingbo Wang,Nagarajan Prabakar,Yi Deng</authors>
+		<jconf>Proceedings of the International Symposium on Collaborative Technologies and Systems</jconf>
+		<id>1369659</id>
+		<label>0</label>
+		<organization>Florida International University</organization>
+	</publication>
+	<publication>
+		<title>Formal Analysis of Software Security System Architectures</title>
+		<year>2001</year>
+		<authors>Jeffrey J. P. Tsai,Yi Deng,Jiacun Wang</authors>
+		<jconf>Proceedings of the Fifth International Symposium on Autonomous Decentralized Systems</jconf>
+		<id>1422985</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., Dallas, TX</organization>
+	</publication>
+	<publication>
+		<title>A behavior based approach to virus detection</title>
+		<year>2008</year>
+		<authors>Peter J. Clarke,Yi Deng</authors>
+		<jconf>null</jconf>
+		<id>1433608</id>
+		<label>0</label>
+		<organization>Florida International University</organization>
+	</publication>
+	<publication>
+		<title>An instant and accurate size estimation method for joins and selections in a retrieval-intensive environment</title>
+		<year>1993</year>
+		<authors>Wei Sun,Yibei Ling,Naphtali Rishe,Yi Deng</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1497429</id>
+		<label>0</label>
+		<organization>School of Computer Science, Florida International University, Miami, Florida</organization>
+	</publication>
+	<publication>
+		<title>A unified framework for the modeling, prototyping and design of distributed information systems</title>
+		<year>1992</year>
+		<authors>Yi Deng</authors>
+		<jconf>null</jconf>
+		<id>1508705</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient algorithms for detection and resolution of distributed deadlocks</title>
+		<year>1995</year>
+		<authors>Shigang Chen,Yi Deng,Wei Sun,N. Rishe</authors>
+		<jconf>Proceedings of the 7th IEEE Symposium on Parallel and Distributeed Processing</jconf>
+		<id>1686338</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Florida Int. Univ., Miami, FL</organization>
+	</publication>
+	<publication>
+		<title>An approach for design and analysis of user-centric communication middleware</title>
+		<year>2008</year>
+		<authors>Xudong He,Yi Deng</authors>
+		<jconf>null</jconf>
+		<id>1749337</id>
+		<label>0</label>
+		<organization>Florida International University</organization>
+	</publication>
+</person>

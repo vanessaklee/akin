@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>26696</personID>
+	<FullName>Robert Schreiber</FullName>
+	<FirstName>Robert</FirstName>
+	<LastName>Schreiber</LastName>
+	<publication>
+		<title>Large-Scale Parallel Collaborative Filtering for the Netflix Prize</title>
+		<year>2008</year>
+		<authors>Yunhong Zhou,Dennis Wilkinson,Robert Schreiber,Rong Pan</authors>
+		<jconf>AAIM</jconf>
+		<id>17128</id>
+		<label>0</label>
+		<organization>HP Labs, Palo Alto, 94304</organization>
+	</publication>
+	<publication>
+		<title>An Introduction to HPF</title>
+		<year>1996</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>The Data Parallel Programming Model</jconf>
+		<id>17746</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-Level Synthesis of Nonprogrammable Hardware Accelerators</title>
+		<year>2000</year>
+		<authors>Robert Schreiber,Shail Aditya,B. Ramakrishna Rau,Vinod Kathail,Scott A. Mahlke,Santosh G. Abraham,Greg Snider</authors>
+		<jconf>ASAP</jconf>
+		<id>50246</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lattice-based memory allocation</title>
+		<year>2003</year>
+		<authors>Alain Darte,Robert Schreiber,Gilles Villard</authors>
+		<jconf>CASES</jconf>
+		<id>77536</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Manycores in the Future</title>
+		<year>2007</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>HPCC</jconf>
+		<id>253373</id>
+		<label>0</label>
+		<organization>HP Labs,</organization>
+	</publication>
+	<publication>
+		<title>A Constructive Solution to the Juggling Problem in Processor Array Synthesis</title>
+		<year>2000</year>
+		<authors>Alain Darte,Robert Schreiber,B. Ramakrishna Rau,Frederic Vivien</authors>
+		<jconf>IPDPS</jconf>
+		<id>408675</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Support for Irregular Computation in High Performance Fortran (Abstract)</title>
+		<year>1996</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>IRREGULAR</jconf>
+		<id>414981</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Corona: System Implications of Emerging Nanophotonic Technology</title>
+		<year>2008</year>
+		<authors>Dana Vantrease,Robert Schreiber,Matteo Monchiero,Moray McLaren,Norman P. Jouppi,Marco Fiorentino,Al Davis,Nathan L. Binkert,Raymond G. Beausoleil,Jung Ho Ahn</authors>
+		<jconf>ISCA</jconf>
+		<id>419684</id>
+		<label>0</label>
+		<organization>Univ. of Wisconsin - Madison, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>The Alignment-Distribution Graph</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Robert Schreiber</authors>
+		<jconf>LCPC</jconf>
+		<id>482983</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Array Distribution in Data-Parallel Programs</title>
+		<year>1994</year>
+		<authors>Siddhartha Chatterjee,Robert Schreiber,Thomas J. Sheffler,John R. Gilbert</authors>
+		<jconf>LCPC</jconf>
+		<id>482985</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Distribution Analysis via Graph Contraction</title>
+		<year>1995</year>
+		<authors>Thomas J. Sheffler,Robert Schreiber,William Pugh,John R. Gilbert,Siddhartha Chatterjee</authors>
+		<jconf>LCPC</jconf>
+		<id>483274</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Array Alignment in Data-Parallel Programs</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>POPL</jconf>
+		<id>546078</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating Local Address and Communication Sets for Data-Parallel Programs</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Fred J. E. Long,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>PPOPP</jconf>
+		<id>548343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A linear-time algorithm for optimal barrier placement</title>
+		<year>2005</year>
+		<authors>Alain Darte,Robert Schreiber</authors>
+		<jconf>PPOPP</jconf>
+		<id>548378</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Data Placement for Distributed Memory Architectures</title>
+		<year>1991</year>
+		<authors>John R. Gilbert,Robert Schreiber</authors>
+		<jconf>PPSC</jconf>
+		<id>549090</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Parallel Sparse Cholesky Factorization</title>
+		<year>1995</year>
+		<authors>Edward Rothberg,Robert Schreiber</authors>
+		<jconf>PPSC</jconf>
+		<id>549489</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast exact and heuristic methods for role minimization problems</title>
+		<year>2008</year>
+		<authors>Alina Ene,William Horne,Nikola Milosavljevic,Prasad Rao,Robert Schreiber,Robert Endre Tarjan</authors>
+		<jconf>SACMAT</jconf>
+		<id>570313</id>
+		<label>0</label>
+		<organization>Hewlett-Packard, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>The NAS parallel benchmarks - summary and preliminary results</title>
+		<year>1991</year>
+		<authors>David H. Bailey,E. Barszcz,J. T. Barton,D. S. Browning,Robert L. Carter,Leonardo Dagum,Rod Fatoohi,Paul O. Frederickson,T. A. Lasinski,Robert Schreiber,Horst D. Simon,V. Venkatakrishnan,Sisira Weeratunga</authors>
+		<jconf>SC</jconf>
+		<id>574687</id>
+		<label>0</label>
+		<organization>Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Mobile and replicated alignment of arrays in data-parallel programs</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Robert Schreiber</authors>
+		<jconf>SC</jconf>
+		<id>574853</id>
+		<label>0</label>
+		<organization>NASA Ames Res. Center, Moffett Field, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Improved load distribution in parallel sparse Cholesky factorization</title>
+		<year>1994</year>
+		<authors>Edward Rothberg,Robert Schreiber</authors>
+		<jconf>SC</jconf>
+		<id>575398</id>
+		<label>0</label>
+		<organization>Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA</organization>
+	</publication>
+	<publication>
+		<title>Spatial Scan Statistics for Graph Clustering</title>
+		<year>2008</year>
+		<authors>Bei Wang,Jeff M. Phillips,Robert Schreiber,Dennis Wilkinson</authors>
+		<jconf>SDM</jconf>
+		<id>579226</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering Social Networks</title>
+		<year>2007</year>
+		<authors>Nina Mishra,Robert Schreiber,Isabelle Stanton,Robert Endre Tarjan</authors>
+		<jconf>WAW</jconf>
+		<id>652728</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Systolic Array Methods for Band Matrix Factorizations</title>
+		<year>1986</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>BIT</jconf>
+		<id>768287</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On On Systolic Arrays for Updating the Cholesky Factorization</title>
+		<year>1986</year>
+		<authors>Robert Schreiber,Wei-Pai Tang</authors>
+		<jconf>BIT</jconf>
+		<id>768288</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PICO: Automatically Designing Custom Computers</title>
+		<year>2002</year>
+		<authors>Vinod Kathail,Shail Aditya,Robert Schreiber,B. Ramakrishna Rau,Darren C. Cronquist,Mukund Sivaraman</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>806937</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient ICCG on a Shared Memory Multiprocessor</title>
+		<year>1992</year>
+		<authors>Steven W. Hammond,Robert Schreiber</authors>
+		<jconf>International Journal of High Speed Computing</jconf>
+		<id>910094</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Assessment of the Connection Machine</title>
+		<year>1993</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>International Journal of High Speed Computing</jconf>
+		<id>910133</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating Local Address and Communication Sets for Data-Parallel Programs</title>
+		<year>1995</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Fred J. E. Long,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>988487</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algorithms for Automatic Alignment of Arrays</title>
+		<year>1996</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Leonid Oliker,Robert Schreiber,Thomas J. Sheffler</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>988488</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Expression Evaluation for Data Parallel Architectures</title>
+		<year>1991</year>
+		<authors>John R. Gilbert,Robert Schreiber</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>988827</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Performance Fortran, Version 2</title>
+		<year>1997</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<id>1038154</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Performance Fortran Comes of Age: Guest Editors' Introduction</title>
+		<year>1997</year>
+		<authors>Robert Schreiber,Piyush Mehrotra</authors>
+		<jconf>Scientific Programming</jconf>
+		<id>1073300</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lattice-Based Memory Allocation</title>
+		<year>2005</year>
+		<authors>Alain Darte,Robert Schreiber,Gilles Villard</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1078852</id>
+		<label>0</label>
+		<organization>LIP, Ecole Normale Superieure de Lyon, France</organization>
+	</publication>
+	<publication>
+		<title>Bitwidth cognizant architecture synthesis of custom hardwareaccelerators</title>
+		<year>2001</year>
+		<authors>Scott A. Mahlke,Rajiv A. Ravindran,Michael S. Schlansker,Robert Schreiber,Timothy Sherwood</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1085057</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructing and exploiting linear schedules with prescribed parallelism</title>
+		<year>2002</year>
+		<authors>Alain Darte,Robert Schreiber,B. Ramakrishna Rau,Frederic Vivien</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1117745</id>
+		<label>0</label>
+		<organization>Hewlett-Packard Company, Palo Alto, CA</organization>
+	</publication>
+	<publication>
+		<title>Optimal Evaluation of Array Expressions on Massively Parallel Machines</title>
+		<year>1995</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>ACM Trans. Program. Lang. Syst.</jconf>
+		<id>1123417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editorial</title>
+		<year>2005</year>
+		<authors>Michael J. Schulte,Shuvra S. Bhattacharyya,Robert Schreiber</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165510</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PICO-NPA: High-Level Synthesis of Nonprogrammable Hardware Accelerators</title>
+		<year>2002</year>
+		<authors>Robert Schreiber,Shail Aditya,Scott A. Mahlke,Vinod Kathail,B. Ramakrishna Rau,Darren C. Cronquist,Mukund Sivaraman</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165879</id>
+		<label>0</label>
+		<organization>Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA</organization>
+	</publication>
+	<publication>
+		<title>Defining and Measuring the Productivity of Programming Languages</title>
+		<year>2004</year>
+		<authors>Ken Kennedy,Charles Koelbel,Robert Schreiber</authors>
+		<jconf>IEEE/ACM Transactions on Networking (TON)</jconf>
+		<id>1295506</id>
+		<label>0</label>
+		<organization>Advanced Computer Systems Laboratory at Hewlett Packard Laboratories</organization>
+	</publication>
+	<publication>
+		<title>Light speed arbitration and flow control for nanophotonic interconnects.</title>
+		<year>2009</year>
+		<authors>Dana Vantrease,Nathan L. Binkert,Robert Schreiber,Mikko H. Lipasti</authors>
+		<jconf>null</jconf>
+		<id>1325038</id>
+		<label>0</label>
+		<organization>HP Laboratories</organization>
+	</publication>
+	<publication>
+		<title>Robust Software for Computing Camera Motion Parameters.</title>
+		<year>2009</year>
+		<authors>Robert Schreiber,Zeyu Li,Harlyn Baker</authors>
+		<jconf>Journal of Mathematical Imaging and Vision</jconf>
+		<id>1339036</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Saxpy Matrix-1: A General-Purpose Systolic Computer</title>
+		<year>1987</year>
+		<authors>David E. Foulser,Robert Schreiber</authors>
+		<jconf>Computer</jconf>
+		<id>1446006</id>
+		<label>0</label>
+		<organization>Saxpy Computer Corporation</organization>
+	</publication>
+	<publication>
+		<title>Block reflectors: theory and computation</title>
+		<year>1988</year>
+		<authors>Robert Schreiber,Beresford Parlett</authors>
+		<jconf>SIAM Journal on Numerical Analysis</jconf>
+		<id>1447316</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>An aplicaiton of systolic arrays to linear discrete Ill posed problems</title>
+		<year>1986</year>
+		<authors>Lars Eldén,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Scientific and Statistical Computing</jconf>
+		<id>1453683</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computing generalized inverses and eigenvalues of symmetric matrices using sytolic arrays</title>
+		<year>1985</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>Proc. of the sixth int'l. symposium on Computing methods in applied sciences and engineering, VI</jconf>
+		<id>1453813</id>
+		<label>0</label>
+		<organization>Stanford Univ., Stanford, CA</organization>
+	</publication>
+	<publication>
+		<title>On systolic arrays for updating the Cholesky factorization</title>
+		<year>1986</year>
+		<authors>Robert Schreiber,Wei-Pai Tang</authors>
+		<jconf>BIT</jconf>
+		<id>1467721</id>
+		<label>0</label>
+		<organization>The Royal Institute of Technology, Stockholm, Sweden</organization>
+	</publication>
+	<publication>
+		<title>Efficient massively parallel eigenvalue computation</title>
+		<year>1993</year>
+		<authors>Yan Huo,Robert Schreiber</authors>
+		<jconf>International Journal of Supercomputer Applications and High Performance Engineering</jconf>
+		<id>1498685</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal evaluation of array expressions on massively parallel machines (extended abstract)</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>ACM SIGPLAN Notices</jconf>
+		<id>1504820</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating local addresses and communication sets for data-parallel programs</title>
+		<year>1993</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Fred J. E. Long,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>ACM SIGPLAN Notices</jconf>
+		<id>1507075</id>
+		<label>0</label>
+		<organization>Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA</organization>
+	</publication>
+	<publication>
+		<title>Optimal parallel solution of sparse triangular systems</title>
+		<year>1993</year>
+		<authors>Fernando L. Alvarado,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Scientific Computing</jconf>
+		<id>1510627</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Methods for Out-of-Core Sparse Cholesky Factorization</title>
+		<year>1999</year>
+		<authors>Edward Rothberg,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Scientific Computing</jconf>
+		<id>1545461</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Implementation of Sparse Gaussian Elimination</title>
+		<year>1982</year>
+		<authors>Robert Schreiber</authors>
+		<jconf>ACM Transactions on Mathematical Software (TOMS)</jconf>
+		<id>1576010</id>
+		<label>0</label>
+		<organization>Department of Computer Science, Stanford University, Stanford, CA</organization>
+	</publication>
+	<publication>
+		<title>On the convergence of the cyclic Jacobi method for parallel block orderings</title>
+		<year>1989</year>
+		<authors>Gautham Shroff,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Matrix Analysis and Applications</jconf>
+		<id>1645702</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Highly parallel sparse Cholesky factorization</title>
+		<year>1992</year>
+		<authors>John R. Gilbert,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Scientific and Statistical Computing</jconf>
+		<id>1670021</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An improved Newton interaction for the generalized inverse of a Matrix, with applications</title>
+		<year>1991</year>
+		<authors>Victor Pan,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Scientific and Statistical Computing</jconf>
+		<id>1675233</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards the Teraflops capability for CFD</title>
+		<year>1992</year>
+		<authors>Robert Schreiber,Horst D. Simon</authors>
+		<jconf>Parallel computational fluid dynamics: implementations and results</jconf>
+		<id>1683612</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sparse matrices in matlab: design and implementation</title>
+		<year>1992</year>
+		<authors>John R. Gilbert,Cleve Moler,Robert Schreiber</authors>
+		<jconf>SIAM Journal on Matrix Analysis and Applications</jconf>
+		<id>1684055</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating local addresses and communication sets for data-parallel programs</title>
+		<year>1995</year>
+		<authors>Siddhartha Chatterjee,John R. Gilbert,Fred J. E. Long,Robert Schreiber,Shang-Hua Teng</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<id>1713221</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

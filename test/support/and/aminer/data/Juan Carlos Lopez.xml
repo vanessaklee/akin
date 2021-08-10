@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>132195</personID>
+	<FullName>Juan Carlos Lopez</FullName>
+	<FirstName>Juan Carlos</FirstName>
+	<LastName>Lopez</LastName>
+	<publication>
+		<title>An agent-based approach towards automatic service composition in ambient intelligence.</title>
+		<year>2008</year>
+		<authors>Maria J. Santofimia,Francisco Moya,Felix Jesús Villanueva,David Villa,Juan Carlos López</authors>
+		<jconf>Artif. Intell. Rev.</jconf>
+		<id>1331982</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Co-Design Methodology Based on Formal Specification and High-level Estimation</title>
+		<year>1996</year>
+		<authors>Carlos Carreras,Juan Carlos Lopez,Maria Luisa Lopez,Luis Sanchez,Carlos Delgado Kloos,Natividad Martinez Madrid</authors>
+		<jconf>CODES</jconf>
+		<id>106105</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Influence of Manufacturing Variations in IDDQ Measurements: A New Test Criterion</title>
+		<year>2000</year>
+		<authors>Juan M. Diez,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>141781</id>
+		<label>0</label>
+		<organization>Dept. de Ingenieria Electron., Univ. Politecnica de Madrid</organization>
+	</publication>
+	<publication>
+		<title>The Design Space Layer: Supporting Early Design Space Exploration for Core-Based Designs</title>
+		<year>1999</year>
+		<authors>Margarida F. Jacome,Helvio P. Peixoto,Ander Royo,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>142157</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Texas Univ., Austin, TX</organization>
+	</publication>
+	<publication>
+		<title>Constraint-Driven System Partitioning</title>
+		<year>2000</year>
+		<authors>Marisa Luisa Lopez-Vallejo,Jesus Grajal,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>142411</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Knowledge-based System for Hardware-Software Partitioning</title>
+		<year>1998</year>
+		<authors>Marisa Luisa Lopez-Vallejo,Carlos Angel Iglesias,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>142412</id>
+		<label>0</label>
+		<organization>Dept. Ing. Electronica, Univ. Politecnica de Madrid</organization>
+	</publication>
+	<publication>
+		<title>A hardware-software operating system for heterogeneous designs</title>
+		<year>2001</year>
+		<authors>Jose Manuel Moya,Francisco Moya,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>142578</id>
+		<label>0</label>
+		<organization>Escuela Superior de Inf., Univ. of Castilla-La Mancha, Ciudad Real</organization>
+	</publication>
+	<publication>
+		<title>A Flexible Specification Framework for Hardware-Software Codesign</title>
+		<year>2000</year>
+		<authors>Jose Manuel Moya,Francisco Moya,Juan Carlos Lopez,Santiago Dominguez</authors>
+		<jconf>DATE</jconf>
+		<id>142579</id>
+		<label>0</label>
+		<organization>Dept. de Inf., Univ. de Castilla-La Mancha, Spain</organization>
+	</publication>
+	<publication>
+		<title>Model Reuse through Hardware Design Patterns</title>
+		<year>2005</year>
+		<authors>Fernando Rincon,Francisco Moya,Jesus Barba,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>142877</id>
+		<label>0</label>
+		<organization>University of Castilla-La Mancha</organization>
+	</publication>
+	<publication>
+		<title>Lightweight middleware for seamless HW-SW interoperability, with application to wireless sensor networks</title>
+		<year>2007</year>
+		<authors>Felix Jesus Villanueva,David Villa,Francisco Moya,Jesus Barba,Fernando Rincon,Juan Carlos Lopez</authors>
+		<jconf>DATE</jconf>
+		<id>143459</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and implementation of a coprocessor for cryptography applications</title>
+		<year>1997</year>
+		<authors>Ander Royo,Javier Moran,Juan Carlos Lopez</authors>
+		<jconf>EDTC</jconf>
+		<id>143889</id>
+		<label>0</label>
+		<organization>Dept. of Ingenieria Electron., Univ. Politecnica de Madrid</organization>
+	</publication>
+	<publication>
+		<title>OOCE: Object-Oriented Communication Engine for SoC Design</title>
+		<year>2007</year>
+		<authors>Jesus Barba,Fernando Rincon,Francisco Moya,Felix Jesus Villanueva,David Villa,Julio Dondo,Juan Carlos Lopez</authors>
+		<jconf>DSD</jconf>
+		<id>161319</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of Design Space Exploration Strategies</title>
+		<year>1999</year>
+		<authors>Francisco Moya,Juan Carlos Lopez,Jose Manuel Moya</authors>
+		<jconf>EUROMICRO</jconf>
+		<id>195202</id>
+		<label>0</label>
+		<organization>Dept. de Inf., Castilla-La Mancha Univ., Ciudad</organization>
+	</publication>
+	<publication>
+		<title>A Methodology for Task Based Partitioning and Scheduling of Dynamically Reconfigurable Systems</title>
+		<year>1998</year>
+		<authors>Pedro Merino,Margarida F. Jacome,Juan Carlos Lopez</authors>
+		<jconf>FCCM</jconf>
+		<id>203370</id>
+		<label>0</label>
+		<organization>Dept. de Ingenieria Electron., Univ. Politecnica de Madrid</organization>
+	</publication>
+	<publication>
+		<title>A Hardwar Operating System for Dynamic Reconfiguration of FPGAs</title>
+		<year>1998</year>
+		<authors>Pedro Merino,Juan Carlos Lopez,Margarida F. Jacome</authors>
+		<jconf>FPL</jconf>
+		<id>215593</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic reconfiguration management based on a distributed object model</title>
+		<year>2007</year>
+		<authors>Julio Dondo,Fernando Rincon,Jesus Barba,Francisco Moya,Felix Jesus Villanueva,David Villa,Juan Carlos Lopez</authors>
+		<jconf>FPL</jconf>
+		<id>216302</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimalist Object Oriented Service Discovery Protocol for Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>David Villa,Felix Jesus Villanueva,Francisco Moya,Fernando Rincon,Jesus Barba,Juan Carlos Lopez</authors>
+		<jconf>GPC</jconf>
+		<id>235461</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Embedding a Middleware for Networked Hardware and Software Objects</title>
+		<year>2006</year>
+		<authors>David Villa,Felix Jesus Villanueva,Francisco Moya,Fernando Rincon,Jesus Barba,Juan Carlos Lopez</authors>
+		<jconf>GPC</jconf>
+		<id>235481</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Services for Deeply Embedded Extra Low-Cost Devices</title>
+		<year>2009</year>
+		<authors>David Villa,Felix Jesus Villanueva,Francisco Moya,Fernando Rincon,Jesus Barba,Juan Carlos Lopez</authors>
+		<jconf>GPC</jconf>
+		<id>235595</id>
+		<label>0</label>
+		<organization>Dept. of Technology and Information Systems, School of Computer Science, University of Castilla-La Mancha, Ciudad Real., Spain 13071</organization>
+	</publication>
+	<publication>
+		<title>Integration of Intelligent Agents Supporting Automatic Service Composition in Ambient Intelligence</title>
+		<year>2008</year>
+		<authors>Maria J. Santofimia,Francisco Moya,Felix Jesus Villanueva,David Villa,Juan Carlos Lopez</authors>
+		<jconf>IAT</jconf>
+		<id>261608</id>
+		<label>0</label>
+		<organization>Comput. Archit. & Networks Group, Univ. of Castilla-La Mancha, Toledo</organization>
+	</publication>
+	<publication>
+		<title>Measurements, Quality of Service and Efficient Load Balancing Algorithm in Mobile Ad-hoc Network</title>
+		<year>2008</year>
+		<authors>Jesus Hamilton Ortiz,Juan Carlos Lopez,Carlos Andres Lucero</authors>
+		<jconf>ICWN</jconf>
+		<id>370329</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quality of Service and Mobility in New Generation Networks</title>
+		<year>2008</year>
+		<authors>Jesus Hamilton Ortiz,Juan Carlos Lopez,Carlos Andres Lucero</authors>
+		<jconf>ICWN</jconf>
+		<id>370471</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applying the ProposeRevise Strategy to the Hardware-Software Partitioning Problem</title>
+		<year>1998</year>
+		<authors>Marisa Luisa Lopez-Vallejo,Carlos Angel Iglesias,Juan Carlos Lopez</authors>
+		<jconf>IEA/AIE (Vol. 1)</jconf>
+		<id>374412</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Embedded System Design by Means of HW-SW Compilation on Reconfigurable Coprocessors</title>
+		<year>2002</year>
+		<authors>Juan Carlos Lopez,Fernando Rincon,Francisco Moya,Jose Manuel Moya</authors>
+		<jconf>ISSS</jconf>
+		<id>450576</id>
+		<label>0</label>
+		<organization>Dept. Electron. Eng., Tech. Univ. of Madrid, Spain</organization>
+	</publication>
+	<publication>
+		<title>A New Model for NoC-based Distributed Heterogeneous System Design</title>
+		<year>2005</year>
+		<authors>Fernando Rincon,Francisco Moya,Jesus Barba,David Villa,Felix Jesus Villanueva,Juan Carlos Lopez</authors>
+		<jconf>PARCO</jconf>
+		<id>529442</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified Inter-Communication Architecture for Systems-on-Chip</title>
+		<year>2007</year>
+		<authors>Fernando Rincon,Jesus Barba,Francisco Moya,Felix Jesus Villanueva,David Villa,Julio Dondo,Juan Carlos Lopez</authors>
+		<jconf>IEEE International Workshop on Rapid System Prototyping</jconf>
+		<id>562805</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transparent Dynamic Reconfiguration as a Service of a System-Level Middleware</title>
+		<year>2009</year>
+		<authors>Fernando Rincon,Jesus Barba,Francisco Moya,Juan Carlos Lopez,Julio Dondo</authors>
+		<jconf>ARC</jconf>
+		<id>693710</id>
+		<label>0</label>
+		<organization>Escuela Superior de Informática, Ciudad Real, Universidad de Castilla-La Mancha, Spain</organization>
+	</publication>
+	<publication>
+		<title>Hardware-Software Partitioning at the Knowledge Level</title>
+		<year>1999</year>
+		<authors>Marisa Luisa Lopez-Vallejo,Juan Carlos Lopez,Carlos Angel Iglesias</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>754877</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model Reuse through Hardware Design Patterns</title>
+		<year>2007</year>
+		<authors>Fernando Rincon,Francisco Moya,Jesus Barba,Juan Carlos Lopez</authors>
+		<jconf>CoRR</jconf>
+		<id>824118</id>
+		<label>0</label>
+		<organization>Univ. de Castilla-La Mancha, Ciudad Real, Spain</organization>
+	</publication>
+	<publication>
+		<title>Context-Aware QoS Provision for Mobile Ad-hoc Network -based Ambient Intelligent Environments</title>
+		<year>2006</year>
+		<authors>Felix Jesus Villanueva,David Villa,Francisco Moya,Jesus Barba,Fernando Rincon,Juan Carlos Lopez</authors>
+		<jconf>J. UCS</jconf>
+		<id>1002415</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the hardware-software partitioning problem: System modeling and partitioning techniques</title>
+		<year>2003</year>
+		<authors>Marisa Luisa Lopez-Vallejo,Juan Carlos Lopez</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1117867</id>
+		<label>0</label>
+		<organization>Universidad Castilla-La de Mancha, Ciudad Real, Spain</organization>
+	</publication>
+	<publication>
+		<title>Embedding standard distributed object-oriented middlewares in wireless sensor networks</title>
+		<year>2009</year>
+		<authors>Francisco Moya,David Villa,Felix Jesus Villanueva,Jesus Barba,Fernando Rincon,Juan Carlos Lopez</authors>
+		<jconf>Wireless Communications and Mobile Computing</jconf>
+		<id>1140965</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Architectural Strategy towards Ambient Intelligence</title>
+		<year>2009</year>
+		<authors>Maria J. Santofimia,Francisco Moya,Felix Jesus Villanueva,David Villa,Juan Carlos Lopez</authors>
+		<jconf>IWANN (2)</jconf>
+		<id>1212056</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic HW/SW Interface Generation for Seamless Integration from Object-Oriented Models</title>
+		<year>2009</year>
+		<authors>Jesus Barba,Fernando Rincon,Francisco Moya,David Villa,Felix Jesus Villanueva,Juan Carlos Lopez</authors>
+		<jconf>ESA</jconf>
+		<id>1240754</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting Operating Systems for Reconfigurable Computing: A Distributed Service Oriented Approach</title>
+		<year>2009</year>
+		<authors>Fernando Rincon,Julio Dondo,Jesus Barba,Francisco Moya,Juan Carlos Lopez</authors>
+		<jconf>ERSA</jconf>
+		<id>1242895</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Advanced Techniques for Embedded Systems Design and Test</title>
+		<year>1998</year>
+		<authors>Juan Carlos Lopez,Roman Hermida,Walter Geisselhardt</authors>
+		<jconf>null</jconf>
+		<id>1514292</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

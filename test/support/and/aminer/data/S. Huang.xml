@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>348130</personID>
+	<FullName>S. Huang</FullName>
+	<FirstName>S.</FirstName>
+	<LastName>Huang</LastName>
+	<publication>
+		<title>A Robust and Efficient Algorithm for Image Registration</title>
+		<year>1997</year>
+		<authors>Baba C. Vemuri,S. Huang,Sartaj Sahni,Christiana Morison Leonard,C. Mohr,T. Lucas,R. L. Gilmore,J. Fitzsimmons</authors>
+		<jconf>IPMI</jconf>
+		<id>407397</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling and analysis of power in multicore network processors</title>
+		<year>2008</year>
+		<authors>S. Huang,Y. Luo,W. Feng</authors>
+		<jconf>IPDPS</jconf>
+		<id>412479</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Virginia Tech, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>Phatpackets for Data Transport within an HPC Network</title>
+		<year>2002</year>
+		<authors>S. Huang,Robert D. McLeod</authors>
+		<jconf>IASTED PDCS</jconf>
+		<id>533546</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information optimization for Monte Carlo data and application to high-temperature quantum chromodynamics</title>
+		<year>1990</year>
+		<authors>S. Huang,K. J. M. Moriarty,E. Ann Myers,J. Potvin</authors>
+		<jconf>SC</jconf>
+		<id>575075</id>
+		<label>3</label>
+		<organization>Boston University</organization>
+	</publication>
+	<publication>
+		<title>Visual Hierarchical Dimension Reduction for Exploration of High Dimensional Datasets</title>
+		<year>2003</year>
+		<authors>Jing Yang,Matthew O. Ward,Elke A. Rundensteiner,Shiping Huang</authors>
+		<jconf>VisSym</jconf>
+		<id>639055</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model-driven business process integration and management: A case study with the Bank SinoPac regional service platform</title>
+		<year>2004</year>
+		<authors>Jun Zhu,Zhong Tian,Thomas Li,Wei Sun,Sheng Ye,Wei Ding,C. C. Wang,Gerland Wu,Leo Weng,Simon Huan,Bill Liu,Daniel Chou</authors>
+		<jconf>IBM Journal of Research and Development</jconf>
+		<id>890930</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Heuristic Approach to Sparse Approximation of Gene Regulatory Networks</title>
+		<year>2008</year>
+		<authors>M. Andrecut,S. Huang,Stuart A. Kauffman</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<id>962291</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BITS: A Binary Tree Based Web Service Composition System</title>
+		<year>2007</year>
+		<authors>A. Zhou,S. Huang,X. Wang</authors>
+		<jconf>Int. J. Web Service Res.</jconf>
+		<id>1003318</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Near boundary behavior of primal-dual potential reduction algorithms for linear programming</title>
+		<year>1993</year>
+		<authors>Yinyu Ye,Kenneth O. Kortanek,J. Kaliski,S. Huang</authors>
+		<jconf>Math. Program.</jconf>
+		<id>1014394</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Enhanced Multiplicative Spread Spectrum Watermarking Scheme</title>
+		<year>2006</year>
+		<authors>J. Zhong,S. Huang</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097579</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci. & Eng., Shanghai Jiaotong Univ.</organization>
+	</publication>
+	<publication>
+		<title>Optical Watermarking for Printed Document Authentication</title>
+		<year>2007</year>
+		<authors>S. Huang,J. K. Wu</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<id>1185727</id>
+		<label>10</label>
+		<organization>BearingPoint, Inc., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Energy-Efficient Cluster Computing via Accurate Workload Characterization.</title>
+		<year>2009</year>
+		<authors>S. Huang,W. Feng</authors>
+		<jconf>null</jconf>
+		<id>1303594</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Virginia Tech, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>3D Segmentation and Quantification of a Masticatory Muscle from MR Data Using Patient-Specific Models and Matching Distributions.</title>
+		<year>2009</year>
+		<authors>Hsiao Piau Ng,Sim Heng Ong,J. Liu,S. Huang,Kelvin Weng Chiong Foong,Poh-Sun Goh,Wieslaw Lucjan Nowinski</authors>
+		<jconf>J. Digital Imaging</jconf>
+		<id>1344655</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A novel methodology for transistor-level power estimation</title>
+		<year>1996</year>
+		<authors>S. Huang,K. Cheng,K. Chen,T. Lee</authors>
+		<jconf>Proceedings of the 1996 international symposium on Low power electronics and design</jconf>
+		<id>1402217</id>
+		<label>12</label>
+		<organization>Dept. of Electrical & Computer Engrineering, Univ. of California, Santa Barbara, Santa Barbara, CA</organization>
+	</publication>
+	<publication>
+		<title>On the business value and technical challenges of adopting web services</title>
+		<year>2004</year>
+		<authors>S. Tilley,J. Gerdes,T. Hamilton,S. Huang,H. Müller,D. Smith,K. Wong</authors>
+		<jconf>Journal of Software Maintenance and Evolution: Research and Practice</jconf>
+		<id>1565532</id>
+		<label>13</label>
+		<organization>Department of Computer Science, University of California, Riverside, CA</organization>
+	</publication>
+	<publication>
+		<title>Predictor-corrector method for linear complementarity problems with polynomial complexity and superlinear convergence</title>
+		<year>1995</year>
+		<authors>J. Ji,F. A. Potra,S. Huang</authors>
+		<jconf>Journal of Optimization Theory and Applications</jconf>
+		<id>1715503</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+</person>

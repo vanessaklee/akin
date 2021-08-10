@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>215875</personID>
+	<FullName>R. Balasubramanian</FullName>
+	<FirstName>R.</FirstName>
+	<LastName>Balasubramanian</LastName>
+	<publication>
+		<title>Path Balance Heuristic for Self-Adjusting Binary Search Trees</title>
+		<year>1995</year>
+		<authors>R. Balasubramanian,Venkatesh Raman</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219330</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Colorimetric modeling of binary color printers</title>
+		<year>1995</year>
+		<authors>R. Balasubramanian</authors>
+		<jconf>ICIP</jconf>
+		<id>316259</id>
+		<label>2</label>
+		<organization>Xerox Digital Imaging Technol. Center, Webster, NY</organization>
+	</publication>
+	<publication>
+		<title>The Least Witness of a Composite Number</title>
+		<year>1997</year>
+		<authors>R. Balasubramanian,S. V. Nagaraj</authors>
+		<jconf>ISW</jconf>
+		<id>452717</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tight Bounds for Finding Degrees from the Adjacency Matrix</title>
+		<year>1995</year>
+		<authors>R. Balasubramanian,Venkatesh Raman,G. Srinivasaraghavan</authors>
+		<jconf>LATIN</jconf>
+		<id>481117</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Local and Global Tree Graph Structures for Fingerprint Verification</title>
+		<year>2006</year>
+		<authors>S. Nalin Pradeep,Mayur D. Jain,Raman Balasubramanian,Rama Bhargava</authors>
+		<jconf>SPPRA</jconf>
+		<id>619356</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Complexity of Finding Certain Trees in Tournaments</title>
+		<year>1993</year>
+		<authors>R. Balasubramanian,Venkatesh Raman,G. Srinivasaraghavan</authors>
+		<jconf>WADS</jconf>
+		<id>651089</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maximal Sets of Integers with Distinct Divisors</title>
+		<year>1995</year>
+		<authors>R. Balasubramanian,K. Soundararajan</authors>
+		<jconf>Electr. J. Comb.</jconf>
+		<id>798915</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new Contrast Based Image Fusion using Wavelet Packets</title>
+		<year>2008</year>
+		<authors>R. Balasubramanian,Gaurav Bhatnagar</authors>
+		<jconf>CoRR</jconf>
+		<id>829145</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Sampling Colorings of Bipartite Graphs</title>
+		<year>2006</year>
+		<authors>R. Balasubramanian,C. R. Subramanian</authors>
+		<jconf>Discrete Mathematics  Theoretical Computer Science</jconf>
+		<id>855944</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the pseudoachromatic number of join of graphs</title>
+		<year>2003</year>
+		<authors>R. Balasubramanian,Venkatesh Raman,V. Yegnanarayanan</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906387</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Fixed-Parameter Algorithm for Vertex Cover</title>
+		<year>1998</year>
+		<authors>R. Balasubramanian,Michael R. Fellows,Venkatesh Raman</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>929855</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Perfect Power Testing</title>
+		<year>1996</year>
+		<authors>R. Balasubramanian,S. V. Nagaraj</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>929857</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finding Scores in Tournaments</title>
+		<year>1997</year>
+		<authors>R. Balasubramanian,Venkatesh Raman,G. Srinivasaragavan</authors>
+		<jconf>J. Algorithms</jconf>
+		<id>952583</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Improbability That an Elliptic Curve Has Subexponential Discrete Log Problem under the Menezes - Okamoto - Vanstone Algorithm</title>
+		<year>1998</year>
+		<authors>R. Balasubramanian,Neal Koblitz</authors>
+		<jconf>J. Cryptology</jconf>
+		<id>985846</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Soft-output detection of CPM signals in frequency flat, Rayleigh fading channels</title>
+		<year>2000</year>
+		<authors>R. Balasubramanian,Michael P. Fitz</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>991326</id>
+		<label>5</label>
+		<organization>COMSAT Lab., Clarksburg, MD</organization>
+	</publication>
+	<publication>
+		<title>Density of Carmichael numbers with three prime factors</title>
+		<year>1997</year>
+		<authors>R. Balasubramanian,S. V. Nagaraj</authors>
+		<jconf>Math. Comput.</jconf>
+		<id>1011624</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Blended Learning - A Trend in e-Learning</title>
+		<year>2009</year>
+		<authors>R. Murugan,R. Balasubramanian</authors>
+		<jconf>Lecture Notes in Computer Science</jconf>
+		<id>1240713</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Error estimation in reconstruction of quadratic curves in 3D space</title>
+		<year>2007</year>
+		<authors>N. Sukavanam,R. Balasubramanian,Sanjeev Kumar</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<id>1379402</id>
+		<label>4</label>
+		<organization>Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India</organization>
+	</publication>
+	<publication>
+		<title>On ideal-function-like functions</title>
+		<year>2003</year>
+		<authors>R. Balasubramanian,S. Kanemitsu,K. Ramachandra</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1558773</id>
+		<label>0</label>
+		<organization>Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India</organization>
+	</publication>
+	<publication>
+		<title>A comparison of techniques for nondestructive composition measurements in CdZnTe substrates</title>
+		<year>1995</year>
+		<authors>S. P. Tobin,J. P. Tower,P. W. Norton,D. Chandler-Horowitz,P. M. Amirtharaj,V. C. Lopes,W. M. Duncan,A. J. Syllaios,C. K. Ard,N. C. Giles,R. Balasubramanian,A. B. Bollong,T. W. Steiner,M. L. W. Thewalt,D. K. Bowen,B. K. Tanner</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1709354</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+</person>

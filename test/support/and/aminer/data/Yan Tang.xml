@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>15718</personID>
+	<FullName>Yan Tang</FullName>
+	<FirstName>Yan</FirstName>
+	<LastName>Tang</LastName>
+	<publication>
+		<title>A Novel Stroke Extraction Model for Chinese Characters based on Steerable Filters</title>
+		<year>2006</year>
+		<authors>Rui Chen,Yan Tang,Yuhui Qiu</authors>
+		<jconf>IEEE ICCI</jconf>
+		<id>9215</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Practical Peer-Performance-Aware DHT</title>
+		<year>2004</year>
+		<authors>Yan Tang,Zhengguo Hu,Yang Zhang,Lin Zhang,Changquan Ai</authors>
+		<jconf>AP2PC</jconf>
+		<id>43510</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Zero-Efficient Buffer Design for Reliable Network-on-Chip in Tiled Chip-Multi-Processor</title>
+		<year>2008</year>
+		<authors>Jun Wang,Hongbo Zeng,Kun Huang,Ge Zhang,Yan Tang</authors>
+		<jconf>DATE</jconf>
+		<id>143842</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Constructing Semantic Decision Tables</title>
+		<year>2007</year>
+		<authors>Yan Tang,Robert Meersman</authors>
+		<jconf>DEXA</jconf>
+		<id>150710</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Decision Tables: Self-organizing and Reorganizable Decision Tables</title>
+		<year>2008</year>
+		<authors>Yan Tang,Robert Meersman,Jan Vanthienen</authors>
+		<jconf>DEXA</jconf>
+		<id>150749</id>
+		<label>3</label>
+		<organization>Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050</organization>
+	</publication>
+	<publication>
+		<title>A Wavelet Approach to Extracting Contours of Document Images</title>
+		<year>1999</year>
+		<authors>L. Feng,Yan Tang,L. Yang</authors>
+		<jconf>ICDAR</jconf>
+		<id>294750</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accelerating the 2-D Mallat Decomposition Algorithm with Cyclical Convolution and FNTT</title>
+		<year>1999</year>
+		<authors>Yuan Yan Tang,Qi Sun,Hong Ma,De B. Ren,Yan Tang,Zhi K. Chen</authors>
+		<jconf>ICDAR</jconf>
+		<id>295581</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EIRS: An Intelligent E-Commerce Application System for Small Retailers in China</title>
+		<year>2007</year>
+		<authors>Liyi Zhang,Yan Tang,Jian Meng</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384320</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Judicial Support Systems: Ideas for a Privacy Ontology-Based Case Analyzer</title>
+		<year>2005</year>
+		<authors>Yan Tang,Robert Meersman</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>524287</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Organizing Meaning Evolution Supporting Systems Using Semantic Decision Tables</title>
+		<year>2007</year>
+		<authors>Yan Tang,Robert Meersman</authors>
+		<jconf>OTM Conferences (1)</jconf>
+		<id>524751</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Conducting a Decision Group to Construct Semantic Decision Tables</title>
+		<year>2007</year>
+		<authors>Yan Tang</authors>
+		<jconf>OTM Workshops (1)</jconf>
+		<id>524864</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Defining Re-usable Composite Aspect Patterns: An FDAF Based Approach</title>
+		<year>2008</year>
+		<authors>Kun Tian,Kendra M. L. Cooper,Kunwu Feng,Yan Tang</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>525136</id>
+		<label>7</label>
+		<organization>Department of Computer Science, The University of Texas at Dallas, Richardson, USA</organization>
+	</publication>
+	<publication>
+		<title>Model Ontological Commitments Using ORM+ in T-Lex</title>
+		<year>2008</year>
+		<authors>Yan Tang,Damien Trog</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>525262</id>
+		<label>3</label>
+		<organization>Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050</organization>
+	</publication>
+	<publication>
+		<title>DRC-BK: Mining Classification Rules with Help of SVM</title>
+		<year>2004</year>
+		<authors>Yang Zhang,Zhanhuai Li,Yan Tang,Kebin Cui</authors>
+		<jconf>PAKDD</jconf>
+		<id>527272</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Ontological Commitments with Omega -RIDL Markup Language</title>
+		<year>2007</year>
+		<authors>Damien Trog,Yan Tang,Robert Meersman</authors>
+		<jconf>RuleML</jconf>
+		<id>565789</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Semantically Grounded Decision Rules Using ORM + </title>
+		<year>2007</year>
+		<authors>Yan Tang,Peter Spyns,Robert Meersman</authors>
+		<jconf>RuleML</jconf>
+		<id>565824</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient checkpointing of java software using context-sensitive capture and replay</title>
+		<year>2007</year>
+		<authors>Guoqing Xu,Atanas Rountev,Yan Tang,Feng Qin</authors>
+		<jconf>ESEC/SIGSOFT FSE</jconf>
+		<id>601479</id>
+		<label>2</label>
+		<organization>Ohio State University, Columbus, OH</organization>
+	</publication>
+	<publication>
+		<title>Use Semantic Decision Tables to Improve Meaning Evolution Support Systems</title>
+		<year>2008</year>
+		<authors>Yan Tang,Robert Meersman</authors>
+		<jconf>UIC</jconf>
+		<id>633843</id>
+		<label>3</label>
+		<organization>Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050</organization>
+	</publication>
+	<publication>
+		<title>LeakSurvivor: Towards Safely Tolerating Memory Leaks for Garbage-Collected Languages</title>
+		<year>2008</year>
+		<authors>Yan Tang,Qi Gao,Feng Qin</authors>
+		<jconf>USENIX Annual Technical Conference</jconf>
+		<id>636695</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PROFILE COMPILER: Ontology-based, community-grounded, multilingual online services to support collaborative decision making</title>
+		<year>2008</year>
+		<authors>Yan Tang,Stijn Christiaens,Koen Kerremans,Robert Meersman</authors>
+		<jconf>RCIS</jconf>
+		<id>691064</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Model Simplification Method Based on ROI</title>
+		<year>2008</year>
+		<authors>Yan Tang,Xin Fu,Rui Chen</authors>
+		<jconf>CSSE (6)</jconf>
+		<id>730168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The design and implementation of LilyTask in shared memory</title>
+		<year>2005</year>
+		<authors>Yan Tang,Tao Wang,Xiaoming Li</authors>
+		<jconf>Operating Systems Review</jconf>
+		<id>1066677</id>
+		<label>4</label>
+		<organization>Institute of Computing Technology</organization>
+	</publication>
+	<publication>
+		<title>An ontology engineering methodology for DOGMA</title>
+		<year>2008</year>
+		<authors>Peter Spyns,Yan Tang,Robert Meersman</authors>
+		<jconf>Applied Ontology</jconf>
+		<id>1168217</id>
+		<label>3</label>
+		<organization>STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be</organization>
+	</publication>
+	<publication>
+		<title>Auction-Based Resource Reservation Game in Small World</title>
+		<year>2007</year>
+		<authors>Zhixing Huang,Yan Tang,Yuhui Qiu</authors>
+		<jconf>Emergent Intelligence of Networked Agents</jconf>
+		<id>1201397</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Pattern-Driven Topical Ontology Modeling Methodology in Elderly Care Homes</title>
+		<year>2009</year>
+		<authors>Yan Tang,Peter De Baer,Gang Zhao,Robert Meersman,Kevin Pudkey</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>1253739</id>
+		<label>3</label>
+		<organization>VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050</organization>
+	</publication>
+	<publication>
+		<title>On Constructing, Grouping and Using Topical Ontology for Semantic Matching</title>
+		<year>2009</year>
+		<authors>Yan Tang,Peter De Baer,Gang Zhao,Robert Meersman</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>1253837</id>
+		<label>3</label>
+		<organization>VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050</organization>
+	</publication>
+	<publication>
+		<title>First-aid: surviving and preventing memory management bugs during production runs</title>
+		<year>2009</year>
+		<authors>Qi Gao,Wenbin Zhang,Yan Tang,Feng Qin</authors>
+		<jconf>EuroSys</jconf>
+		<id>1258296</id>
+		<label>2</label>
+		<organization>Ohio State University, Columbus, OH, USA</organization>
+	</publication>
+	<publication>
+		<title>An Expert System Based Approach to Modeling and Selecting Requirement Engineering Techniques</title>
+		<year>2009</year>
+		<authors>Yan Tang,Kunwu Feng</authors>
+		<jconf>WISM</jconf>
+		<id>1266064</id>
+		<label>7</label>
+		<organization>Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021</organization>
+	</publication>
+	<publication>
+		<title>The Data Scales in Multi-valued Context Based on Formal Concept Analysis.</title>
+		<year>2009</year>
+		<authors>Shao-chun Wu,Ming-dong Li,Yan Tang,Ling-yu Xu,Da-ming Wei</authors>
+		<jconf>null</jconf>
+		<id>1301927</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Ontology-based Data Matching Framework: use Case Competency-based HRM.</title>
+		<year>2009</year>
+		<authors>Peter De Baer,Yan Tang,Pieter De Leenheer</authors>
+		<jconf>null</jconf>
+		<id>1309649</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Parameter Optimization of Human-Simulated Intelligent Controller Based on Improved Genetic Algorithm</title>
+		<year>2009</year>
+		<authors>Guiqiang Chen,Linjian Tang,Yan Tang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1652433</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Algorithm of R Peak Detection in ECG Based on Empirical Mode Decomposition</title>
+		<year>2008</year>
+		<authors>Jing-tian Tang,Xiao-li Yang,Jun-chao Xu,Yan Tang,Qing Zou,Xiao-kai Zhang</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 05</jconf>
+		<id>1747976</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+</person>

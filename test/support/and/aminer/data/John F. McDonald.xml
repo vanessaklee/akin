@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>189466</personID>
+	<FullName>John F. McDonald</FullName>
+	<FirstName>John F.</FirstName>
+	<LastName>McDonald</LastName>
+	<publication>
+		<title>Reconfigurable FPGA's in the 1-20 GHz Band with HBT BiCMOS</title>
+		<year>1999</year>
+		<authors>John F. McDonald,Bryan S. Goda</authors>
+		<jconf>Evolvable Hardware</jconf>
+		<id>179680</id>
+		<label>0</label>
+		<organization>Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Gigahertz FPGAs with New Power Saving Techniques and Decoding Logic</title>
+		<year>2002</year>
+		<authors>Channakeshav,Kuan Zhou,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>Evolvable Hardware</jconf>
+		<id>179790</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Multi-Speed, Power Saving Architecture for SiGe HBT FPGA</title>
+		<year>2003</year>
+		<authors>Jong-Ru Guo,Chao You,Michael Chu,Kuan Zhou,Young Uk Yim,Robert W. Heikaus,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>Engineering of Reconfigurable Systems and Algorithms</jconf>
+		<id>185259</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The gigahertz FPGA: design consideration and applications</title>
+		<year>2004</year>
+		<authors>Jong-Ru Guo,Chao You,Michael Chu,Robert W. Heikaus,Kuan Zhou,Okan Erdogan,Jiedong Diao,Bryan S. Goda,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>FPGA</jconf>
+		<id>214437</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A scalable 2 V, 20 GHz FPGA using SiGe HBT BiCMOS technology</title>
+		<year>2003</year>
+		<authors>Jong-Ru Guo,Chao You,Kuan Zhou,Bryan S. Goda,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>FPGA</jconf>
+		<id>214439</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A four-bit full adder implemented on fast SiGe FPGAs with novel power control scheme</title>
+		<year>2003</year>
+		<authors>Kuan Zhou,Michael Chu,Chao You,Jong-Ru Guo,Channakeshav,John Mayega,John F. McDonald,Russell P. Kraft,Bryan S. Goda</authors>
+		<jconf>FPGA</jconf>
+		<id>214694</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gigahertz Reconfigurable Computing Using SiGe HBT BiCMOS FPGAs</title>
+		<year>2001</year>
+		<authors>Bryan S. Goda,Russell P. Kraft,Steven R. Carlough,Thomas W. Krawczyk Jr,John F. McDonald</authors>
+		<jconf>FPL</jconf>
+		<id>215267</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A 11 GHz FPGA with Test Applications</title>
+		<year>2005</year>
+		<authors>Chao You,Jong-Ru Guo,Michael Chu,Russell P. Kraft,Bryan S. Goda,John F. McDonald</authors>
+		<jconf>FPL</jconf>
+		<id>216005</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gigahertz FPGA by SiGe BiCMOS Technology for Low Power, High Speed Computing with 3-D Memory</title>
+		<year>2003</year>
+		<authors>Chao You,Jong-Ru Guo,Russell P. Kraft,Michael Chu,Robert W. Heikaus,Okan Erdogan,Peter F. Curran,Bryan S. Goda,Kuan Zhou,John F. McDonald</authors>
+		<jconf>FPL</jconf>
+		<id>216006</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast SiGe HBT BiCMOS FPGAs with New Architecture and Power Saving Techniques</title>
+		<year>2002</year>
+		<authors>Channakeshav,Kuan Zhou,Jong-Ru Guo,Chao You,Bryan S. Goda,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>FPL</jconf>
+		<id>216018</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The 10GHz 4: 1 MUX and 1: 4 DEMUX implemented via the gigahertz SiGe FPGA</title>
+		<year>2004</year>
+		<authors>Jong-Ru Guo,Chao You,Paul F. Curran,Michael Chu,Kuan Zhou,Jiedong Diao,A. George,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>233864</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chip Pad Migration is a Key Component to High Performance MCM Design</title>
+		<year>1996</year>
+		<authors>James Loy,Atul Garg,Mukkai S. Krishnamoorthy,John F. McDonald</authors>
+		<jconf>Great Lakes Symposium on VLSI</jconf>
+		<id>234000</id>
+		<label>0</label>
+		<organization>US Mil. Acad., West Point, NY</organization>
+	</publication>
+	<publication>
+		<title>3D direct vertical interconnect microprocessors test vehicle</title>
+		<year>2003</year>
+		<authors>John Mayega,Okan Erdogan,Paul M. Belemjian,Kuan Zhou,John F. McDonald,Russell P. Kraft</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234062</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>A 5-20 GHz, low power FPGA implemented by SiGe HBT BiCMOS technology</title>
+		<year>2003</year>
+		<authors>Chao You,Jong-Ru Guo,Russell P. Kraft,Kuan Zhou,Michael Chu,John F. McDonald</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234340</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute, Troy NY</organization>
+	</publication>
+	<publication>
+		<title>Multi-GHz SiGe design methodologies for reconfigurable computing</title>
+		<year>2005</year>
+		<authors>Kuan Zhou,John F. McDonald</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234363</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Differential Routing of MCMs - CIF: The Ideal Bifurcation Medium</title>
+		<year>1994</year>
+		<authors>James Loy,Atul Garg,Mukkai S. Krishnamoorthy,John F. McDonald</authors>
+		<jconf>ICCD</jconf>
+		<id>286418</id>
+		<label>0</label>
+		<organization>US Mil. Acad., West Point, NY</organization>
+	</publication>
+	<publication>
+		<title>Amdahl's figure of merit, SiGe HBT BiCMOS, and 3D chip stacking</title>
+		<year>2007</year>
+		<authors>Phil Jacobs,Aamir Zia,Okan Erdogan,Paul M. Belemjian,Peng Jin,Jin Woo Kim,Michael Chu,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>ICCD</jconf>
+		<id>287132</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Triple-rail MOS current mode logic for high-speed self-timed pipeline applications</title>
+		<year>2006</year>
+		<authors>Kuan Zhou,Yifei Luo,Sizhong Chen,A. Drake,John F. McDonald,Tong Zhang</authors>
+		<jconf>ISCAS</jconf>
+		<id>430262</id>
+		<label>0</label>
+		<organization>New Hampshire Univ., Durham, NH</organization>
+	</publication>
+	<publication>
+		<title>A High Speed Reconfigurable Gate Array for Gigahertz Applications</title>
+		<year>2005</year>
+		<authors>Jong-Ru Guo,Chao You,Michael Chu,Okan Erdogan,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>ISVLSI</jconf>
+		<id>452299</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>12-23 GHz Ultra Wide Tuning Range Voltage-Controlled Ring Oscillator with Hybrid Control Schemes</title>
+		<year>2005</year>
+		<authors>Young Uk Yim,John F. McDonald,Russell P. Kraft</authors>
+		<jconf>ISVLSI</jconf>
+		<id>452389</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LTR_STRUC: a novel search and identification program for LTR retrotransposons</title>
+		<year>2003</year>
+		<authors>Eugene M. McCarthy,John F. McDonald</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>765004</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting the Performance of a 3D Processor-Memory Chip Stack</title>
+		<year>2005</year>
+		<authors>Philip Jacob,Okan Erdogan,Aamir Zia,Paul M. Belemjian,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>IEEE Design  Test of Computers</jconf>
+		<id>858102</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute</organization>
+	</publication>
+	<publication>
+		<title>A 10 GHz 4: 1 MUX and 1: 4 DEMUX implemented by a Gigahertz SiGe FPGA for fast ADC</title>
+		<year>2005</year>
+		<authors>Jong-Ru Guo,Chao You,Kuan Zhou,Michael Chu,Peter F. Curran,Jiedong Diao,Bryan S. Goda,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>Integration</jconf>
+		<id>926978</id>
+		<label>0</label>
+		<organization>Department of Electrical, Computer and Systems Engineering, Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Multi-ghz Sige Bicmos Fpgas with New Architecture and Novel Power Management Techniques</title>
+		<year>2005</year>
+		<authors>Kuan Zhou,Jong-Ru Guo,Chao You,John Mayega,Russell P. Kraft,T. Zhang,John F. McDonald,Bryan S. Goda</authors>
+		<jconf>Journal of Circuits, Systems, and Computers</jconf>
+		<id>971092</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accurate high-speed performance prediction for full differential current-mode logic: the effect of dielectric anisotropy</title>
+		<year>1999</year>
+		<authors>Atul Garg,Y. L. Le Coz,Hans J. Greub,R. B. Iverson,Robert F. Philhower,Pete M. Campbell,Cliff A. Maier,Sam A. Steidl,Matthew W. Ernest,Russell P. Kraft,Steven R. Carlough,J. W. Perry,Thomas W. Krawczyk Jr,John F. McDonald</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1084204</id>
+		<label>0</label>
+		<organization>Center for Integrated Electron. & Electron. Manuf., Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>A 12-Gb/s DEMUX Implemented With SiGe High-Speed FPGA Circuits</title>
+		<year>2007</year>
+		<authors>Chao You,Jong-Ru Guo,Russell P. Kraft,Michael Chu,Bryan S. Goda,John F. McDonald</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1134922</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of a 32 b monolithic microprocessor based on GaAs HMESFET technology</title>
+		<year>1997</year>
+		<authors>C.-K. V. Tien,K. Lewis,Hans J. Greub,T. Tsen,John F. McDonald</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135156</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A very wide bandwidth digital VCO using quadrature frequency multiplication and division implemented in AlGaAs/GaAs HBT's</title>
+		<year>1998</year>
+		<authors>Pete M. Campbell,Hans J. Greub,Atul Garg,A. Steidl,Steven R. Carlough,Matthew W. Ernest,Robert F. Philhower,Cliff A. Maier,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135201</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A 5-10GHz SiGe BiCMOS FPGA with new configurable logic block</title>
+		<year>2005</year>
+		<authors>Chao You,Jong-Ru Guo,Russell P. Kraft,Michael Chu,Peter F. Curran,Kuan Zhou,Bryan S. Goda,John F. McDonald</authors>
+		<jconf>Microprocessors and Microsystems</jconf>
+		<id>1152940</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Controller for a flexible disk.</title>
+		<year>1974</year>
+		<authors>Ronald G. Harris,James E. Sustman,John F. McDonald</authors>
+		<jconf>null</jconf>
+		<id>1302244</id>
+		<label>0</label>
+		<organization>Yale University, New Haven, Connecticut</organization>
+	</publication>
+	<publication>
+		<title>Design of a 32 b monolithic microprocessor based on GaAs HMESFET technology</title>
+		<year>1997</year>
+		<authors>Chien-Kuo V. Tien,Hans J. Greub,John F. McDonald,Kelvin Lewis,Tom Tsen</authors>
+		<jconf>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</jconf>
+		<id>1396704</id>
+		<label>0</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Characterization of algaas/gaas hbt interconnect for digital applications and design of a dense multi-chip module for a 1 ghz risc processor</title>
+		<year>1997</year>
+		<authors>John F. Mcdonald</authors>
+		<jconf>null</jconf>
+		<id>1486713</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gigahertz Reconfigurable Computing Using SiGe HBT BiCMOS FPGAs</title>
+		<year>2001</year>
+		<authors>Bryan S. Goda,Russell P. Kraft,Steven R. Carlough,Thomas W. Krawczyk, Jr.,John F. McDonald</authors>
+		<jconf>Proceedings of the 11th International Conference on Field-Programmable Logic and Applications</jconf>
+		<id>1540320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast SiGe HBT BiCMOS FPGAs with New Architecture and Power Saving Techniques</title>
+		<year>2002</year>
+		<authors>Kuan Zhou,Channakeshav,Jong-Ru Guo,Chao You,Bryan S. Goda,Russell P. Kraft,John F. McDonald</authors>
+		<jconf>Proceedings of the Reconfigurable Computing Is Going Mainstream, 12th International Conference on Field-Programmable Logic and Applications</jconf>
+		<id>1542831</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

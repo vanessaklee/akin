@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>5742</personID>
+	<FullName>Li Shen</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Efficient Photometric Stereo Technique for Three-Dimensional Surfaces with Unknown BRDF</title>
+		<year>2005</year>
+		<authors>Li Shen,Takashi Machida,Haruo Takemura</authors>
+		<jconf>3DIM</jconf>
+		<id>4155</id>
+		<label>0</label>
+		<organization>Osaka University</organization>
+	</publication>
+	<publication>
+		<title>A Spatio-Temporal Modeling Method for Shape Representation</title>
+		<year>2006</year>
+		<authors>Heng Huang,Li Shen,Rong Zhang,Fillia Makedon,Justin D. Pearlman</authors>
+		<jconf>3DPVT</jconf>
+		<id>4443</id>
+		<label>0</label>
+		<organization>Univ. of Mass. Dartmouth, USA</organization>
+	</publication>
+	<publication>
+		<title>Hemispherical Harmonic Surface Description and Applications to Medical Image Analysis</title>
+		<year>2006</year>
+		<authors>Heng Huang,Lei Zhang,Dimitris Samaras,Li Shen,Rong Zhang,Fillia Makedon,Justin D. Pearlman</authors>
+		<jconf>3DPVT</jconf>
+		<id>4475</id>
+		<label>0</label>
+		<organization>Univ. of Mass. Dartmouth, USA</organization>
+	</publication>
+	<publication>
+		<title>Large-Scale Modeling of Parametric Surfaces Using Spherical Harmonics</title>
+		<year>2006</year>
+		<authors>Li Shen,Moo K. Chung</authors>
+		<jconf>3DPVT</jconf>
+		<id>4486</id>
+		<label>0</label>
+		<organization>University of Massachusetts Dartmouth, USA</organization>
+	</publication>
+	<publication>
+		<title>Shape Analysis and Spatio-Temporal Tracking of Mesoscale Eddies in Miami Isopycnic Coordinate Ocean Model</title>
+		<year>2006</year>
+		<authors>Veena Moolani,Ramprasad Balasubramanian,Li Shen,Amit Tandon</authors>
+		<jconf>3DPVT</jconf>
+		<id>4511</id>
+		<label>0</label>
+		<organization>University of Massachusetts Dartmouth, USA</organization>
+	</publication>
+	<publication>
+		<title>PLS and SVD based penalized logistic regression for cancer classification using microarray data</title>
+		<year>2005</year>
+		<authors>Li Shen,Eng Chong Tan</authors>
+		<jconf>APBC</jconf>
+		<id>43724</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Generalized Output-Coding Scheme with SVM for Multiclass Microarray Classification</title>
+		<year>2006</year>
+		<authors>Li Shen,Eng Chong Tan</authors>
+		<jconf>APBC</jconf>
+		<id>43726</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicate Analysis Based on Path Information</title>
+		<year>2003</year>
+		<authors>Li Shen,Zhiying Wang,Jianzhuang Lu</authors>
+		<jconf>APPT</jconf>
+		<id>46775</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Architecture For Multiple-Precision Floating-Point Multiply-Add Fused Unit Design</title>
+		<year>2007</year>
+		<authors>Libo Huang,Li Shen,Kui Dai,Zhiying Wang</authors>
+		<jconf>IEEE Symposium on Computer Arithmetic</jconf>
+		<id>49697</id>
+		<label>4</label>
+		<organization>National University of Defense Technology</organization>
+	</publication>
+	<publication>
+		<title>RTL Concurrent Fault Simulation</title>
+		<year>2003</year>
+		<authors>Li Shen</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<id>58635</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Based Test Generation for Sequential Circuits</title>
+		<year>1999</year>
+		<authors>Li Shen</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<id>58636</id>
+		<label>7</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Morphometric Analysis of Hippocampal Shape in Mild Cognitive Impairment: An Imaging Genetics Study</title>
+		<year>2007</year>
+		<authors>Li Shen,Andrew J. Saykin,Moo K. Chung,Heng Huang</authors>
+		<jconf>BIBE</jconf>
+		<id>63560</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Registration of 3D SPHARM Surfaces</title>
+		<year>2007</year>
+		<authors>Li Shen,Heng Huang,Fillia Makedon,Andrew J. Saykin</authors>
+		<jconf>CRV</jconf>
+		<id>119559</id>
+		<label>0</label>
+		<organization>University of Massachusetts</organization>
+	</publication>
+	<publication>
+		<title>K-means+ Method for Improving Gene Selection for Classification of Microarray Data</title>
+		<year>2005</year>
+		<authors>Heng Huang,Rong Zhang,Fei Xiong,Fillia Makedon,Li Shen,Bruce Hettleman,Justin D. Pearlman</authors>
+		<jconf>CSB Workshops</jconf>
+		<id>121000</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial Reflectance Recovery under Complex Illumination from Sparse Images</title>
+		<year>2006</year>
+		<authors>Li Shen,Haruo Takemura</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129042</id>
+		<label>0</label>
+		<organization>Osaka University</organization>
+	</publication>
+	<publication>
+		<title>Intrinsic image decomposition with non-local texture cues</title>
+		<year>2008</year>
+		<authors>Li Shen,Ping Tan,Stephen Lin</authors>
+		<jconf>CVPR</jconf>
+		<id>130603</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Customizing computation accelerators for extensible multi-issue processors with effective optimization techniques</title>
+		<year>2008</year>
+		<authors>Ya-shuai Lu,Li Shen,Libo Huang,Zhiying Wang,Nong Xiao</authors>
+		<jconf>DAC</jconf>
+		<id>134879</id>
+		<label>4</label>
+		<organization>National University of Defense Technology, Changsha, Hunan, China</organization>
+	</publication>
+	<publication>
+		<title>Mining Flexible Multiple-Level Association Rules in All Concept Hierarchies (Extended Abstract)</title>
+		<year>1998</year>
+		<authors>Li Shen,Hong Shen</authors>
+		<jconf>DEXA</jconf>
+		<id>150310</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MetaDL: A Digital Library of Metadata for Sensitive or Complex Research Data</title>
+		<year>2002</year>
+		<authors>Fillia Makedon,James Ford,Li Shen,Tilmann Steinberg,Andrew J. Saykin,Heather Wishart,Sarantos Kapidakis</authors>
+		<jconf>ECDL</jconf>
+		<id>184750</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Technique for Program Code Compression in Embedded Microprocessor</title>
+		<year>2004</year>
+		<authors>Ming-che Lai,Kui Dai,Li Shen,Zhiying Wang</authors>
+		<jconf>ICESS</jconf>
+		<id>308990</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>VLSI functional testing using critical path traces at hardware description language level</title>
+		<year>1984</year>
+		<authors>Li Shen,Stephen Y. H. Su</authors>
+		<jconf>Fehlertolerierende Rechensysteme</jconf>
+		<id>310458</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Surface Harmonics for Shape Modeling</title>
+		<year>2007</year>
+		<authors>Heng Huang,Li Shen</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>324759</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Kernel MSE Methods for Cancer Classification</title>
+		<year>2005</year>
+		<authors>Li Shen,Eng Chong Tan</authors>
+		<jconf>ICNC (1)</jconf>
+		<id>337854</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Sample Pairs Method for Detection of LSB Embedding</title>
+		<year>2004</year>
+		<authors>Peizhong Lu,Xiangyang Luo,Qingyang Tang,Li Shen</authors>
+		<jconf>Information Hiding</jconf>
+		<id>385587</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Quick Method for Synthesizing Photorealistic Color Images under Various Illumination Conditions</title>
+		<year>2001</year>
+		<authors>Li Shen,Noboru Babaguchi,Tadahiro Kitahashi</authors>
+		<jconf>ISAR</jconf>
+		<id>438062</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Simplified Algorithm for Testing Microprocessors</title>
+		<year>1983</year>
+		<authors>Kewal K. Saluja,Li Shen,Stephen Y. H. Su</authors>
+		<jconf>ITC</jconf>
+		<id>455760</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Equivalence of Punctured Convolutional Codes from Shift Equivalent Puncturing Patterns</title>
+		<year>2004</year>
+		<authors>Li Shen,Peizhong Lu,Xiangyang Luo,Yan Zou</authors>
+		<jconf>ITCC (1)</jconf>
+		<id>457328</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spherical Parameterization for 3D Surface Analysis in Volumetric Images</title>
+		<year>2004</year>
+		<authors>Li Shen,Fillia Makedon</authors>
+		<jconf>ITCC (1)</jconf>
+		<id>457329</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating fuzzy semantic metadata describing spatial relations from images using the R-histogram</title>
+		<year>2004</year>
+		<authors>Yuhang Wang,Fillia Makedon,James Ford,Li Shen,Dina Q. Goldin</authors>
+		<jconf>JCDL</jconf>
+		<id>467822</id>
+		<label>0</label>
+		<organization>Dartmouth College, Hanover, NH</organization>
+	</publication>
+	<publication>
+		<title>SCENS: A System for the Mediated Sharing of Sensitive Data</title>
+		<year>2003</year>
+		<authors>Song Ye,Fillia Makedon,Tilmann Steinberg,Li Shen,James Ford,Yuhang Wang,Yan Zhao,Sarantos Kapidakis</authors>
+		<jconf>JCDL</jconf>
+		<id>467888</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-scale Voxel-Based Morphometry Via Weighted Spherical Harmonic Representation</title>
+		<year>2006</year>
+		<authors>Moo K. Chung,Li Shen,Kim M. Dalton,Richard J. Davidson</authors>
+		<jconf>MIAR</jconf>
+		<id>495787</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Surface Alignment of 3D Spherical Harmonic Models: Application to Cardiac MRI Analysis</title>
+		<year>2005</year>
+		<authors>Heng Huang,Li Shen,Rong Zhang,Fillia Makedon,Bruce Hettleman,Justin D. Pearlman</authors>
+		<jconf>MICCAI</jconf>
+		<id>497359</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Prediction Framework for Cardiac Resynchronization Therapy Via 4D Cardiac Motion Analysis</title>
+		<year>2005</year>
+		<authors>Heng Huang,Li Shen,Rong Zhang,Fillia Makedon,Bruce Hettleman,Justin D. Pearlman</authors>
+		<jconf>MICCAI</jconf>
+		<id>497371</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Morphometric Analysis of Brain Structures for Improved Discrimination</title>
+		<year>2003</year>
+		<authors>Li Shen,James Ford,Fillia Makedon,Yuhang Wang,Tilmann Steinberg,Song Ye,Andrew J. Saykin</authors>
+		<jconf>MICCAI (2)</jconf>
+		<id>498110</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classification of Facial Images Using Gaussian Mixture Models</title>
+		<year>2001</year>
+		<authors>Pin Liao,Wen Gao,Li Shen,Xilin Chen,Shiguang Shan,Wenbing Zeng</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531691</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Illumination Brush: Interactive Design of All-Frequency Lighting</title>
+		<year>2007</year>
+		<authors>Makoto Okabe,Yasuyuki Matsushita,Li Shen,Takeo Igarashi</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<id>540264</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A clustering-based approach for prediction of cardiac resynchronization therapy</title>
+		<year>2005</year>
+		<authors>Heng Huang,Li Shen,Fillia Makedon,Sheng Zhang,Mark Greenberg,Ling Gao,Justin D. Pearlman</authors>
+		<jconf>SAC</jconf>
+		<id>567463</id>
+		<label>0</label>
+		<organization>University of Massachusetts Dartmouth, MA</organization>
+	</publication>
+	<publication>
+		<title>Application of Software Fault Tree Analysis to an Airport Ground Control System</title>
+		<year>2008</year>
+		<authors>Massood Towhidnejad,Li Shen,Thomas B. Hilburn</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>585782</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Brokers: Building Collections through Automated Negotiation</title>
+		<year>2004</year>
+		<authors>Fillia Makedon,Song Ye,Sheng Zhang,James Ford,Li Shen,Sarantos Kapidakis</authors>
+		<jconf>SETN</jconf>
+		<id>585980</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Spatio-temporal Multi-modal Data Management and Analysis Environment for Tracking MS Lesions</title>
+		<year>2003</year>
+		<authors>Tilmann Steinberg,Yuhang Wang,Fillia Makedon,Li Shen,Andrew J. Saykin,Heather Wishart</authors>
+		<jconf>SSDBM</jconf>
+		<id>618368</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining the Most Interesting Web Access Associations</title>
+		<year>2000</year>
+		<authors>Li Shen,Ling Cheng,James Ford,Fillia Makedon,Vasileios Megalooikonomou,Tilmann Steinberg</authors>
+		<jconf>WebNet</jconf>
+		<id>658048</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hardware Support for Arithmetic Units of Processor with Multimedia Extension</title>
+		<year>2007</year>
+		<authors>Libo Huang,Ming-che Lai,Kui Dai,Hong Yue,Li Shen</authors>
+		<jconf>MUE</jconf>
+		<id>692046</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New CORDIC Algorithm and Software Implementation Based on Synchronized Data Triggering Architecture</title>
+		<year>2008</year>
+		<authors>Xinbiao Gan,Kui Dai,Libo Huang,Li Shen,Zhiying Wang</authors>
+		<jconf>MUE</jconf>
+		<id>692120</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Hardware Assisted Full Virtualization Technique</title>
+		<year>2008</year>
+		<authors>Wei Chen,Hongyi Lu,Li Shen,Zhiying Wang,Nong Xiao,Dan Chen</authors>
+		<jconf>ICYCS</jconf>
+		<id>730702</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing multiclass cancer classification to binary by output coding and SVM</title>
+		<year>2006</year>
+		<authors>Li Shen,Eng Chong Tan</authors>
+		<jconf>Computational Biology and Chemistry</jconf>
+		<id>782592</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A surface-based approach for classification of 3D neuroanatomic structures</title>
+		<year>2004</year>
+		<authors>Li Shen,James Ford,Fillia Makedon,Andrew J. Saykin</authors>
+		<jconf>Intell. Data Anal.</jconf>
+		<id>893297</id>
+		<label>0</label>
+		<organization>(Correspd. Tel.: +1 508 910 6691; Fax: +1 508 999 9144; lshen@umassd.edu) Dartmouth Exp. Vis. Lab., Dept. of Comp. Sci., Dartmouth Coll., Hanover, NH 03755, USA and Dept. of Comp. and Info. Sci., Umass Dartmouth, MA 02747, USA</organization>
+	</publication>
+	<publication>
+		<title>New Algorithms for Efficient Mining of Association Rules</title>
+		<year>1999</year>
+		<authors>Li Shen,Hong Shen,Ling Cheng</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>941746</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Inf. Technol., Griffith Univ., Nathan, Qld.</organization>
+	</publication>
+	<publication>
+		<title>Spherical mapping for processing of 3D closed surfaces</title>
+		<year>2006</year>
+		<authors>Li Shen,Fillia Makedon</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947448</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified Probabilistic Models for Face Recognition from a Single Example Image per Person</title>
+		<year>2004</year>
+		<authors>Pin Liao,Li Shen</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973637</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified Model in Identity Subspace for Face Recognition</title>
+		<year>2004</year>
+		<authors>Pin Liao,Li Shen,Yi-Qiang Chen,Shu-Chang Liu</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973640</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>VFSim: Concurrent Fault Simulation at Register Transfer Level</title>
+		<year>2005</year>
+		<authors>Li Shen</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973742</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast Association Discovery in Derivative Transaction Collections</title>
+		<year>2000</year>
+		<authors>Li Shen,Hong Shen,Ling Cheng,Paul Pritchard</authors>
+		<jconf>Knowl. Inf. Syst.</jconf>
+		<id>1003533</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design and Implementation of a Program Development System Based on Rewriting Method</title>
+		<year>1997</year>
+		<authors>Yongqiang Sun,Kai Lin,Li Shen</authors>
+		<jconf>SIGPLAN Notices</jconf>
+		<id>1068282</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Functional Testing Method for Microprocessors</title>
+		<year>1988</year>
+		<authors>Li Shen,Stephen Y. H. Su</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1081979</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dimension Reduction-Based Penalized Logistic Regression for Cancer Classification Using Microarray Data</title>
+		<year>2005</year>
+		<authors>Li Shen,Eng Chong Tan</authors>
+		<jconf>IEEE/ACM Trans. Comput. Biology Bioinform.</jconf>
+		<id>1087048</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Surface Registration Algorithm With Biomedical Modeling Applications</title>
+		<year>2007</year>
+		<authors>Heng Huang,Li Shen,Rong Zhang,Fillia Makedon,Andrew J. Saykin,Justin D. Pearlman</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<id>1111674</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Weighted Fourier Series Representation and Its Application to Quantifying the Amount of Gray Matter</title>
+		<year>2007</year>
+		<authors>Moo K. Chung,Kim M. Dalton,Li Shen,Alan C. Evans,Richard J. Davidson</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1115977</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GBNet: Deciphering regulatory rules in the co-regulated genes using a Gibbs sampler enhanced Bayesian network approach</title>
+		<year>2008</year>
+		<authors>Li Shen,Jie Liu,Wei Wang</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1220810</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamically utilizing computation accelerators for extensible processors in a software approach</title>
+		<year>2009</year>
+		<authors>Ya-shuai Lu,Li Shen,Zhiying Wang,Nong Xiao</authors>
+		<jconf>CODES+ISSS</jconf>
+		<id>1239846</id>
+		<label>4</label>
+		<organization>National University of Defense Technology, Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Fast Shape-Simplifying Image Abstraction Using Graphics Hardware</title>
+		<year>2009</year>
+		<authors>Hanli Zhao,Xiaogang Jin,Jianbing Shen,Li Shen,Ruifang Pan</authors>
+		<jconf>Edutainment</jconf>
+		<id>1242429</id>
+		<label>5</label>
+		<organization>State Key Lab of CAD & CG, Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>DBTIM: An Advanced Hardware Assisted Full Virtualization Architecture</title>
+		<year>2008</year>
+		<authors>Wei Chen,Hongyi Lu,Li Shen,Zhiying Wang,Nong Xiao</authors>
+		<jconf>Advanced Information Processing</jconf>
+		<id>1243195</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Three-dimensional Models for Cardiac Bioelectricity Simulation: Cell to Organ</title>
+		<year>2007</year>
+		<authors>Heng Huang,Li Shen,Nha Nguyen</authors>
+		<jconf>Simulation</jconf>
+		<id>1280657</id>
+		<label>0</label>
+		<organization>Center for Neuroimaging, Dept. of Radiology Center forComputational Biology & Bioinformatics Indiana University School of MedicineIndianapolis, IN 46202</organization>
+	</publication>
+	<publication>
+		<title>A Hardware Approach for Reducing Interpretation Overhead.</title>
+		<year>2009</year>
+		<authors>Wei Chen,Zhiying Wang,Hongyi Lu,Li Shen,Nong Xiao,Zhong Zheng</authors>
+		<jconf>null</jconf>
+		<id>1301918</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Photometric stereo and weather estimation using internet images.</title>
+		<year>2009</year>
+		<authors>Li Shen,Ping Tan</authors>
+		<jconf>null</jconf>
+		<id>1305021</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fourier method for large-scale surface modeling and registration.</title>
+		<year>2009</year>
+		<authors>Li Shen,Sungeun Kim,Andrew J. Saykin</authors>
+		<jconf>Computers & Graphics</jconf>
+		<id>1333578</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel simulation of chip-multiprocessor by using multi-threading</title>
+		<year>2007</year>
+		<authors>Ya-shuai Lü,Li Shen,Zhi-ying Wang,Kui Dai</authors>
+		<jconf>Proceedings of the IASTED Asian Conference on Modelling and Simulation</jconf>
+		<id>1365520</id>
+		<label>4</label>
+		<organization>National University of Defense Technology</organization>
+	</publication>
+	<publication>
+		<title>Technical Section: Fourier method for large-scale surface modeling and registration</title>
+		<year>2009</year>
+		<authors>Li Shen,Sungeun Kim,Andrew J. Saykin</authors>
+		<jconf>Computers and Graphics</jconf>
+		<id>1431896</id>
+		<label>0</label>
+		<organization>Center for Neuroimaging, Division of Imaging Sciences, Department of Radiology, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, 950 W Walnut St, R2 E124, Indianapolis, IN 46074, USA</organization>
+	</publication>
+	<publication>
+		<title>Optimal Matrix Computing Using Vector Division with Sub-word Parallel</title>
+		<year>2008</year>
+		<authors>Xin-biao Gan,Kui Dai,Li Shen,Zhi-ying Wang</authors>
+		<jconf>Proceedings of the 2008 International Symposium on Ubiquitous Multimedia Computing</jconf>
+		<id>1755063</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

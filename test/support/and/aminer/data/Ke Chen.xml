@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>89730</personID>
+	<FullName>Ke Chen</FullName>
+	<FirstName>Ke</FirstName>
+	<LastName>Chen</LastName>
+	<publication>
+		<title>Optimal Search Model for Combined Strategy in Sequence Alignment</title>
+		<year>2008</year>
+		<authors>Qingxin Zhu,Fan Yang,Ke Chen</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction of the Number of Helices for the Twilight Zone Proteins</title>
+		<year>2006</year>
+		<authors>Kanaka Durga Kedarisetti,Ke Chen,Aashima Kapoor,Lukasz A. Kurgan</authors>
+		<jconf>CIBCB</jconf>
+		<id>93660</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Comput. Eng., Alberta Univ., Edmonton, Alta.</organization>
+	</publication>
+	<publication>
+		<title>Optimization of the Sliding Window Size for Protein Structure Prediction</title>
+		<year>2006</year>
+		<authors>Ke Chen,Lukasz A. Kurgan,Jishou Ruan</authors>
+		<jconf>CIBCB</jconf>
+		<id>93688</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Comput. Eng., Alberta Univ., Edmonton, Alta.</organization>
+	</publication>
+	<publication>
+		<title>How to play a coloring game against a color-blind adversary</title>
+		<year>2006</year>
+		<authors>Ke Chen</authors>
+		<jconf>Symposium on Computational Geometry</jconf>
+		<id>110835</id>
+		<label>4</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>The orienteering problem in the plane revisited</title>
+		<year>2006</year>
+		<authors>Ke Chen,Sariel Har-Peled</authors>
+		<jconf>Symposium on Computational Geometry</jconf>
+		<id>110838</id>
+		<label>4</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Securely Sharing Data in Encrypted Databases</title>
+		<year>2006</year>
+		<authors>Lihua Yu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122403</id>
+		<label>6</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Database Encryption Scheme for Enhanced Security and Easy Sharing</title>
+		<year>2006</year>
+		<authors>Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122463</id>
+		<label>6</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Resilient Rights Protection for Product Data</title>
+		<year>2006</year>
+		<authors>Ke Chen,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122566</id>
+		<label>6</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>An Architecture Approach to Dynamic Policy in RBAC</title>
+		<year>2006</year>
+		<authors>Cheng Zang,Zhongdong Huang,Ke Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>122627</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fractal Watermark Solution for Product Data</title>
+		<year>2006</year>
+		<authors>Ke Chen,Gang Chen,Cheng Zang,Jinxiang Dong</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>122667</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Speaker Modeling with Various Speech Representations</title>
+		<year>2004</year>
+		<authors>Ke Chen</authors>
+		<jconf>ICBA</jconf>
+		<id>274279</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Processing of Warping Time Series Join of Motion Capture Data</title>
+		<year>2009</year>
+		<authors>Yueguo Chen,Gang Chen,Ke Chen,Beng Chin Ooi</authors>
+		<jconf>ICDE</jconf>
+		<id>302250</id>
+		<label>6</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation of Gradient-Based Neural Network for Online Matrix Inversion</title>
+		<year>2007</year>
+		<authors>Yunong Zhang,Ke Chen,Weimu Ma,Xiao-Dong Li</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314190</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Online Solution of Linear Time-Varying Matrix Equation AXB-C=0</title>
+		<year>2008</year>
+		<authors>Ke Chen,Shuai Yue,Yunong Zhang</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314339</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Zhang Neural Network Versus Gradient Neural Network for Online Time-Varying Quadratic Function Minimization</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Zhan Li,Chenfu Yi,Ke Chen</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314341</id>
+		<label>9</label>
+		<organization>School of Software, Sun Yat-Sen University, Guangzhou, China 510275</organization>
+	</publication>
+	<publication>
+		<title>Boosting Input/Output Hidden Markov Models for Sequence Classification</title>
+		<year>2005</year>
+		<authors>Ke Chen</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337510</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Systematic Generation of Assembly Precedence Graphs</title>
+		<year>1994</year>
+		<authors>Ke Chen,Jean-Michel Henrioud</authors>
+		<jconf>ICRA</jconf>
+		<id>351455</id>
+		<label>12</label>
+		<organization>Lab. d'Automatique de Besancon</organization>
+	</publication>
+	<publication>
+		<title>Personalized News Reading via Hybrid Learning</title>
+		<year>2004</year>
+		<authors>Ke Chen,Sunny Yeung</authors>
+		<jconf>IDEAL</jconf>
+		<id>371768</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Model-Directed Image Understanding System for Computer Vision</title>
+		<year>1990</year>
+		<authors>Huasheng Chen,Ke Chen</authors>
+		<jconf>IEA/AIE (Vol. 1)</jconf>
+		<id>373722</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Capture Inter-Speaker Information with a Neural Network for Speaker Identification</title>
+		<year>2000</year>
+		<authors>Lan Wang,Ke Chen,Huisheng Chi</authors>
+		<jconf>IJCNN (5)</jconf>
+		<id>392519</id>
+		<label>7</label>
+		<organization>Nat. Lab. of Machine Perception, Beijing Univ.</organization>
+	</publication>
+	<publication>
+		<title>Ensemble Learning with Active Data Selection for Semi-Supervised Pattern Classification</title>
+		<year>2007</year>
+		<authors>Shihai Wang,Ke Chen</authors>
+		<jconf>IJCNN</jconf>
+		<id>392893</id>
+		<label>7</label>
+		<organization>Manchester Univ., Manchester</organization>
+	</publication>
+	<publication>
+		<title>An Ensemble of Competitive Learning Networks with Different Representations for Temporal Data Clustering</title>
+		<year>2006</year>
+		<authors>Yun Yang,Ke Chen</authors>
+		<jconf>IJCNN</jconf>
+		<id>393455</id>
+		<label>7</label>
+		<organization>Univ. of Manchester, Manchester</organization>
+	</publication>
+	<publication>
+		<title>A simplified LVI-based primal-dual neural network for repetitive motion planning of PA10 robot manipulator starting from different initial states</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Zhiguo Tan,Zhi Yang,Xuanjiao Lv,Ke Chen</authors>
+		<jconf>IJCNN</jconf>
+		<id>394407</id>
+		<label>9</label>
+		<organization>Dept. of Electron. & Commun. Eng., Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Zhang neural network without using time-derivative information for constant and time-varying matrix inversion</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Zenghai Chen,Ke Chen,Binghuang Cai</authors>
+		<jconf>IJCNN</jconf>
+		<id>394458</id>
+		<label>9</label>
+		<organization>Dept. of Electron. & Commun. Eng., Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Time-Varying Lyapunov Equation Solving</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Shuai Yue,Ke Chen,Chenfu Yi</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443758</id>
+		<label>9</label>
+		<organization>School of Software, Sun Yat-Sen University, Guangzhou, China 510275</organization>
+	</publication>
+	<publication>
+		<title>Universal Background Models for Real-time Speaker Change Detection</title>
+		<year>2003</year>
+		<authors>Ting-Yao Wu,Lie Lu,Ke Chen,HongJiang Zhang</authors>
+		<jconf>MMM</jconf>
+		<id>504727</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Perceiving without Learning: From Spirals to Inside/Outside Relations</title>
+		<year>1998</year>
+		<authors>Ke Chen,DeLiang L. Wang</authors>
+		<jconf>NIPS</jconf>
+		<id>515146</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Regularized Boost for Semi-Supervised Learning</title>
+		<year>2007</year>
+		<authors>Ke Chen,Shihai Wang</authors>
+		<jconf>NIPS</jconf>
+		<id>517944</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On k-Median clustering in high dimensions</title>
+		<year>2006</year>
+		<authors>Ke Chen</authors>
+		<jconf>SODA</jconf>
+		<id>610207</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A constant factor approximation algorithm for k-median clustering with outliers</title>
+		<year>2008</year>
+		<authors>Ke Chen</authors>
+		<jconf>SODA</jconf>
+		<id>611527</id>
+		<label>4</label>
+		<organization>University of Illinois at Urbana-Champaign; Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>An Immunity-Based Intrusion Detection Solution for Database Systems</title>
+		<year>2005</year>
+		<authors>Ke Chen,Gang Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651887</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Watermarking Abstract Tree-Structured Data</title>
+		<year>2005</year>
+		<authors>Gang Chen,Ke Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651889</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GARWM: Towards a Generalized and Adaptive Watermark Scheme for Relational Data</title>
+		<year>2005</year>
+		<authors>Tianlei Hu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651890</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cost-Aware Caching Algorithms for Distributed Storage Servers</title>
+		<year>2007</year>
+		<authors>Shuang Liang,Ke Chen,Song Jiang,Xiaodong Zhang</authors>
+		<jconf>DISC</jconf>
+		<id>654035</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Empirical Study on Improving the Manufacturing Informatization Index System of China</title>
+		<year>2008</year>
+		<authors>Wei Guo,Ke Chen,Jia Wang</authors>
+		<jconf>WKDD</jconf>
+		<id>713026</id>
+		<label>1</label>
+		<organization>Univ. of Tianjin, Tianjin</organization>
+	</publication>
+	<publication>
+		<title>The Data Mining Technology Based on CIMS and its Application on Automotive Remanufacturing</title>
+		<year>2008</year>
+		<authors>Ke Chen,Jia Wang</authors>
+		<jconf>WKDD</jconf>
+		<id>713147</id>
+		<label>1</label>
+		<organization>Univ. of Tianjin, Tianjin</organization>
+	</publication>
+	<publication>
+		<title>Common Nature of Learning Exemplified by BP and Hopfield Neural Networks for Solving Online a System of Linear Equations</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Zhan Li,Ke Chen,Binghuang Cai</authors>
+		<jconf>ICNSC</jconf>
+		<id>735735</id>
+		<label>9</label>
+		<organization>Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulink Modeling and Simulation of Zhang Neural Network for Online Time-Varying Matrix Inversion</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Xiaojiao Guo,Weimu Ma,Ke Chen,Binghuang Cai</authors>
+		<jconf>ICNSC</jconf>
+		<id>735922</id>
+		<label>9</label>
+		<organization>Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>PFRES: protein fold classification by using evolutionary information and predicted secondary structure</title>
+		<year>2007</year>
+		<authors>Ke Chen,Lukasz A. Kurgan</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767249</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accurate sequence-based prediction of catalytic residues</title>
+		<year>2008</year>
+		<authors>Tuo Zhang,Hua Zhang,Ke Chen,Shiyi Shen,Jishou Ruan,Lukasz A. Kurgan</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767954</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient parallelization of the iterative solution of a coupled fluid-structure interaction problem</title>
+		<year>2007</year>
+		<authors>Martyn D. Hughes,Ke Chen</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<id>810979</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Recursive Schur Preconditioner for Iterative Solution of a Class of Dense Matrix Problems</title>
+		<year>2003</year>
+		<authors>Judith M. Ford,Ke Chen,David J. Evans</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906412</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New wavelet preconditioner for solving boundary integral equations over nonsmooth boundaries</title>
+		<year>2004</year>
+		<authors>Stuart C. Hawkins,Ke Chen</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906471</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient preconditioned iterative solver for solving a coupled fluid structure interaction problem</title>
+		<year>2004</year>
+		<authors>Martyn D. Hughes,Ke Chen</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906482</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An improved and accelerated non-linear multigrid method for total-variation denoising</title>
+		<year>2005</year>
+		<authors>Joseph Savage,Ke Chen</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906655</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preconditioning and convergence in the right norm</title>
+		<year>2007</year>
+		<authors>Raymond H. Chan,Ke Chen</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906967</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast iterative and preconditioning methods for linear and non-linear systems</title>
+		<year>2007</year>
+		<authors>Ke Chen</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>907044</id>
+		<label>8</label>
+		<organization>University of Liverpool, UK</organization>
+	</publication>
+	<publication>
+		<title>A Modular Neural Network Architecture for Pattern Classification Based on Different Feature Sets</title>
+		<year>1999</year>
+		<authors>Ke Chen,Huisheng Chi</authors>
+		<jconf>Int. J. Neural Syst.</jconf>
+		<id>914539</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A method of combining multiple probabilistic classifiers through soft competition on different feature sets</title>
+		<year>1998</year>
+		<authors>Ke Chen,Huisheng Chi</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>915552</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A self-generating modular neural network architecture for supervised learning</title>
+		<year>1997</year>
+		<authors>Ke Chen,Liping Yang,Xiang Yu,Huisheng Chi</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>915586</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulink modeling and simulation of LVI-based primal-dual neural network for solving linear and quadratic programs</title>
+		<year>2009</year>
+		<authors>Yunong Zhang,Weimu Ma,Xiao-Dong Li,Hong-Zhou Tan,Ke Chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>918209</id>
+		<label>9</label>
+		<organization>School of Software, Sun Yat-Sen University, Guangzhou 510275, China</organization>
+	</publication>
+	<publication>
+		<title>Methods of Combining Multiple Classifiers with Different Features and Their Applications to Text-Independent Speaker Identification</title>
+		<year>1997</year>
+		<authors>Ke Chen,Lan Wang,Huisheng Chi</authors>
+		<jconf>IJPRAI</jconf>
+		<id>918814</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction of protein structural class using novel evolutionary collocation-based sequence representation</title>
+		<year>2008</year>
+		<authors>Ke Chen,Lukasz A. Kurgan,Jishou Ruan</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>965180</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction of integral membrane protein type by collocated hydrophobic amino acid pairs</title>
+		<year>2009</year>
+		<authors>Ke Chen,Yingfu Jiang,Li Du,Lukasz A. Kurgan</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>965315</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Nonlinear Multigrid Method for Total Variation Minimization from Image Restoration</title>
+		<year>2007</year>
+		<authors>Ke Chen,Xue-Cheng Tai</authors>
+		<jconf>J. Sci. Comput.</jconf>
+		<id>995315</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Liverpool, UK L69 7ZL</organization>
+	</publication>
+	<publication>
+		<title>Combining Linear Discriminant Functions with Neural Networks for Supervised Learning</title>
+		<year>1997</year>
+		<authors>Ke Chen,Xiang Yu,Huisheng Chi</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<id>1021596</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A dynamically coupled neural oscillator network for image segmentation</title>
+		<year>2002</year>
+		<authors>Ke Chen,DeLiang L. Wang</authors>
+		<jconf>Neural Networks</jconf>
+		<id>1026117</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improved learning algorithms for mixture of experts in multiclass classification</title>
+		<year>1999</year>
+		<authors>Ke Chen,Lei Xu,Huishen Chi</authors>
+		<jconf>Neural Networks</jconf>
+		<id>1026118</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Text-Dependent Speaker Identification Based on Input/Output HMMs: An Empirical Study</title>
+		<year>1996</year>
+		<authors>Ke Chen,Dahong Xie,Huisheng Chi</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<id>1028101</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flexible parallelization of fast wavelet transforms</title>
+		<year>2003</year>
+		<authors>Judith M. Ford,Ke Chen,Neville J. Ford</authors>
+		<jconf>Parallel Algorithms Appl.</jconf>
+		<id>1030533</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Smoothing via Contextual and Local Discontinuities</title>
+		<year>2005</year>
+		<authors>Ke Chen</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1031308</id>
+		<label>7</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Parallel algorithms of the Purcell method for direct solution of linear systems</title>
+		<year>2002</year>
+		<authors>Ke Chen,Choi H. Lai</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1034283</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Peach Street, Liverpool L69 7ZL, UK</organization>
+	</publication>
+	<publication>
+		<title>Towards better making a decision in speaker verification</title>
+		<year>2003</year>
+		<authors>Ke Chen</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1038760</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A connectionist method for pattern classification with diverse features</title>
+		<year>1998</year>
+		<authors>Ke Chen</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1044151</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the use of nearest feature line for speaker identification</title>
+		<year>2002</year>
+		<authors>Ke Chen,Ting-Yao Wu,HongJiang Zhang</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1044178</id>
+		<label>7</label>
+		<organization>School of Computer Science, The University of Birmingham, Edgbaston, Birmingham B15 2TT, UK</organization>
+	</publication>
+	<publication>
+		<title>Online Conflict-Free Coloring for Intervals</title>
+		<year>2007</year>
+		<authors>Ke Chen,Amos Fiat,Haim Kaplan,Meital Levy,Jiri Matousek,Elchanan Mossel,Janos Pach,Micha Sharir,Shakhar Smorodinsky,Uli Wagner,Emo Welzl</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1060746</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Euclidean Orienteering Problem Revisited</title>
+		<year>2008</year>
+		<authors>Ke Chen,Sariel Har-Peled</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1060819</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles</title>
+		<year>2009</year>
+		<authors>Ke Chen,Haim Kaplan,Micha Sharir</authors>
+		<jconf>ACM Transactions on Algorithms</jconf>
+		<id>1077417</id>
+		<label>4</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Hbm infty Fuzzy Filtering of Nonlinear Systems With Intermittent Measurements</title>
+		<year>2009</year>
+		<authors>Huijun Gao,Yan Zhao,James Lam,Ke Chen</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1100135</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Two Multigrid Algorithms for Modeling Variational Multiphase Image Segmentation</title>
+		<year>2009</year>
+		<authors>N. Badshah,K. Chen</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1103071</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Heuristic Discovery of Role-Based Trust Chains in Peer-to-Peer Networks</title>
+		<year>2009</year>
+		<authors>Ke Chen,Kai Hwang,Gang Chen</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126452</id>
+		<label>6</label>
+		<organization>Zhejiang University, Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>On the use of different speech representations for speaker modeling</title>
+		<year>2005</year>
+		<authors>Ke Chen</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part C</jconf>
+		<id>1130811</id>
+		<label>7</label>
+		<organization>Sch. of Informatics, Univ. of Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>An Implicit Wavelet Sparse Approximate Inverse Preconditioner</title>
+		<year>2005</year>
+		<authors>Stuart C. Hawkins,Ke Chen</authors>
+		<jconf>SIAM J. Scientific Computing</jconf>
+		<id>1164122</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast Multilevel Algorithm for a Minimization Problem in Impulse Noise Removal</title>
+		<year>2008</year>
+		<authors>Raymond H. Chan,Ke Chen</authors>
+		<jconf>SIAM J. Scientific Computing</jconf>
+		<id>1164503</id>
+		<label>8</label>
+		<organization>k.chen@liverpool.ac.uk</organization>
+	</publication>
+	<publication>
+		<title>On Adapting Test Function Methods for Fast Detection of fold bifurcations in Power Systems</title>
+		<year>2002</year>
+		<authors>Anwar Hussein,Ke Chen,Haibin Wan</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1194953</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trends in Neural Computation</title>
+		<year>2007</year>
+		<authors>Ke Chen,Lipo Wang</authors>
+		<jconf>null</jconf>
+		<id>1200937</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining Competitive Learning Networks of Various Representations for Sequential Data Clustering</title>
+		<year>2007</year>
+		<authors>Yun Yang,Ke Chen</authors>
+		<jconf>Trends in Neural Computation</jconf>
+		<id>1201144</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sequence based residue depth prediction using evolutionary information and predicted secondary structure</title>
+		<year>2008</year>
+		<authors>Hua Zhang,Tuo Zhang,Ke Chen,Shiyi Shen,Jishou Ruan,Lukasz A. Kurgan</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1221014</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SCPRED: Accurate prediction of protein structural class for sequences of twilight-zone similarity with predicting sequences</title>
+		<year>2008</year>
+		<authors>Lukasz A. Kurgan,Krzysztof J. Cios,Ke Chen</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1221114</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Erratum to 'Adaptive Smoothing via Contextual and Local Discontinuities</title>
+		<year>2008</year>
+		<authors>Ke Chen</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1226680</id>
+		<label>7</label>
+		<organization>The University of Manchester, Mancheter</organization>
+	</publication>
+	<publication>
+		<title>Repetitive motion of redundant robots planned by three kinds of recurrent neural networks and illustrated with a four-link planar manipulator's straight-line example</title>
+		<year>2009</year>
+		<authors>Yunong Zhang,Zhiguo Tan,Ke Chen,Zhi Yang,Xuanjiao Lv</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<id>1227262</id>
+		<label>9</label>
+		<organization>School of Information Science and Technology, Sun Yat-Sen University, Guangzhou 510275, China</organization>
+	</publication>
+	<publication>
+		<title>Trends in Neural Computation</title>
+		<year>2007</year>
+		<authors>Ke Chen,Lipo Wang</authors>
+		<jconf>null</jconf>
+		<id>1234471</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global exponential convergence and stability of gradient-based neural network for online matrix inversion</title>
+		<year>2009</year>
+		<authors>Yunong Zhang,Yanyan Shi,Ke Chen,Chaoli Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283822</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HuMiTar: A sequence-based method for prediction of human microRNA targets</title>
+		<year>2008</year>
+		<authors>Jishou Ruan,Hanzhe Chen,Lukasz A. Kurgan,Ke Chen,Chunsheng Kang,Peiyu Pu</authors>
+		<jconf>Synthesis Lectures on Computer Science</jconf>
+		<id>1292237</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trends in Neural Computation</title>
+		<year>2007</year>
+		<authors>Ke Chen,Lipo Wang</authors>
+		<jconf>null</jconf>
+		<id>1301111</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An adaptive load balancing framework for parallel database systems based on collaborative agents.</title>
+		<year>2005</year>
+		<authors>Tianlei Hu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304542</id>
+		<label>6</label>
+		<organization>Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A logical replication-based intrusion detection approach for CSCW system.</title>
+		<year>2005</year>
+		<authors>Ke Chen,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304653</id>
+		<label>6</label>
+		<organization>Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Holistic Twig Join Algorithm on XML Documents with Optimization Rules and Index.</title>
+		<year>2008</year>
+		<authors>Jinhua Jiang,Gang Chen,Lidan Shou,Ke Chen</authors>
+		<jconf>null</jconf>
+		<id>1305253</id>
+		<label>6</label>
+		<organization>Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>OTJFast: Processing Ordered XML Twig Join Fast.</title>
+		<year>2008</year>
+		<authors>Jinhua Jiang,Gang Chen,Lidan Shou,Ke Chen</authors>
+		<jconf>null</jconf>
+		<id>1327441</id>
+		<label>6</label>
+		<organization>Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Boundary-Based Feature Extraction and Recognition of Breast Tumors Using Support Vector Machine.</title>
+		<year>2009</year>
+		<authors>Jiangli Lin,Ke Chen,Yulan Peng</authors>
+		<jconf>null</jconf>
+		<id>1330851</id>
+		<label>15</label>
+		<organization>Dept. of Biomed. Eng., Sichuan Univ., Chengdu, China</organization>
+	</publication>
+	<publication>
+		<title>On Coresets for k-Median and k-Means Clustering in Metric and Euclidean Spaces and Their Applications.</title>
+		<year>2009</year>
+		<authors>Ke Chen</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1341458</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trends in Neural Computation (Studies in Computational Intelligence)</title>
+		<year>2006</year>
+		<authors>Ke Chen,Lipo Wang</authors>
+		<jconf>null</jconf>
+		<id>1351945</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Advances in Natural Computation: First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part I (Lecture Notes in ... Science) (Lecture Notes in Computer Science)</title>
+		<year>2005</year>
+		<authors>Lipo Wang,Ke Chen,Yew Soon Ong</authors>
+		<jconf>null</jconf>
+		<id>1360157</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>UBM-based incremental speaker adaptation</title>
+		<year>2003</year>
+		<authors>Yi-Wen Liu,Lie Lu,Ke Chen,Hong-Jiang Zhang</authors>
+		<jconf>Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1</jconf>
+		<id>1371515</id>
+		<label>7</label>
+		<organization>Inst. for Human-Comput. Commun., Technische Univ. Munchen, Germany</organization>
+	</publication>
+	<publication>
+		<title>Multilevel algorithm for a Poisson noise removal model with total-variation regularization</title>
+		<year>2007</year>
+		<authors>Raymond H. Chan,Ke Chen</authors>
+		<jconf>International Journal of Computer Mathematics</jconf>
+		<id>1380860</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Liverpool, UK</organization>
+	</publication>
+	<publication>
+		<title>Application research of an LFB management and development model in ForCES router</title>
+		<year>2008</year>
+		<authors>Ke Chen,Ligang Dong,Weiming Wang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Advanced Infocomm Technology</jconf>
+		<id>1387029</id>
+		<label>14</label>
+		<organization>Zhejiang Gongshang University, Hangzhou, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>An efficient method for evaluating the integral of a class of highly oscillatory functions</title>
+		<year>2009</year>
+		<authors>Paul J. Harris,Ke Chen</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1391625</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Peach Street, Liverpool L69 7ZL, UK</organization>
+	</publication>
+	<publication>
+		<title>On efficient preconditioners for iterative solution of a Galerkin boundary element equation for the three-dimensional exterior Helmholtz problem</title>
+		<year>2003</year>
+		<authors>Paul J. Harris,Ke Chen</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1423544</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Peach Street, Liverpool L69 7ZL, UK</organization>
+	</publication>
+	<publication>
+		<title>Bonding of Cu-based high aspect ratio microscale structures with Sn intermediate layers</title>
+		<year>2009</year>
+		<authors>Fanghua Mei,Ke Chen,B. Lu,Wen Jin Meng</authors>
+		<jconf>Microsystem Technologies</jconf>
+		<id>1433788</id>
+		<label>5</label>
+		<organization>Louisiana State University, Mechanical Engineering Department, 70803, Baton Rouge, LA, USA</organization>
+	</publication>
+	<publication>
+		<title>An Analysis of Sparse Approximate Inverse Preconditioners for Boundary Integral Equations</title>
+		<year>2000</year>
+		<authors>Ke Chen</authors>
+		<jconf>SIAM Journal on Matrix Analysis and Applications</jconf>
+		<id>1518850</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Two Variants of an Algebraic Wavelet Preconditioner</title>
+		<year>2002</year>
+		<authors>Tony F. Chan,Ke Chen</authors>
+		<jconf>SIAM Journal on Scientific Computing</jconf>
+		<id>1523441</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Class of Preconditioning Methods for Dense Linear Systems from Boundary Elements</title>
+		<year>1998</year>
+		<authors>Ke Chen</authors>
+		<jconf>SIAM Journal on Scientific Computing</jconf>
+		<id>1553450</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Perceiving without learning: from spirals to inside/outside relations</title>
+		<year>1999</year>
+		<authors>Ke Chen,DeLiang L. Wang</authors>
+		<jconf>Proceedings of the 1998 conference on Advances in neural information processing systems II</jconf>
+		<id>1554737</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Online Solution of Linear Time-Varying Matrix Equation AXB - C = 0</title>
+		<year>2008</year>
+		<authors>Ke Chen,Shuai Yue,Yunong Zhang</authors>
+		<jconf>Proceedings of the 4th international conference on Intelligent Computing: Advanced Intelligent Computing Theories and Applications - with Aspects of Artificial Intelligence</jconf>
+		<id>1590557</id>
+		<label>9</label>
+		<organization>School of Software,</organization>
+	</publication>
+	<publication>
+		<title>Efficient parallelization of the iterative solution of a coupled fluid&ndash;structure interaction problem: Research Articles</title>
+		<year>2007</year>
+		<authors>Martyn D. Hughes,Ke Chen</authors>
+		<jconf>Concurrency and Computation: Practice Experience</jconf>
+		<id>1610134</id>
+		<label>8</label>
+		<organization>Department of Mathematical Sciences, University of Liverpool, Liverpool L69 7ZL, U.K.</organization>
+	</publication>
+	<publication>
+		<title>Online Conflict-Free Coloring for Intervals</title>
+		<year>2006</year>
+		<authors>Ke Chen,Amos Fiat,Haim Kaplan,Meital Levy,Jir&caron;i´ Matous&caron;ek,Elchanan Mossel,Ja´nos Pach,Micha Sharir,Shakhar Smorodinsky,Uli Wagner,Emo Welzl</authors>
+		<jconf>SIAM Journal on Computing</jconf>
+		<id>1610658</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulink Modeling and Comparison of Zhang Neural Networks and Gradient Neural Networks for Time-Varying Lyapunov Equation Solving</title>
+		<year>2008</year>
+		<authors>Yunong Zhang,Ke Chen,Xuezhong Li,Chengfu Yi,Hong Zhu</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03</jconf>
+		<id>1752154</id>
+		<label>9</label>
+		<organization>Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+</person>

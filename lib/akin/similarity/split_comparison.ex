@@ -51,19 +51,7 @@ defmodule Akin.Similarity.SplitNameDisambiguation do
 
       iex(4)> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet", "Edouard Manet")
       0.6944444444444443
-"""
-
-  alias Akin.Similarity.{
-    ChunkSet,
-    JaroWinkler,
-    Preprocessed,
-    Preprocessor,
-    SortedChunks,
-    Strategy,
-    SubstringComparison
-  }
-
-  @bias 0.95
+  """
 
   @doc """
   Compares two binaries for their similarity and returns a float in the range of
@@ -97,48 +85,6 @@ defmodule Akin.Similarity.SplitNameDisambiguation do
     count_left = Enum.count(left)
     count_right = Enum.count(right)
 
-    # if count_left == count_right do
-    #   tuple_left = Enum.reduce(left, [], fn n, acc ->
-    #     [acc | [{String.first(n), n}]] |> List.flatten()
-    #   end)
-    #   tuple_right = Enum.reduce(right, [], fn n, acc ->
-    #     [acc | [{String.first(n), n}]] |> List.flatten()
-    #   end)
-
-    #   if parts_compare(tuple_left, tuple_right, []) == 1 do
-    #     1.0
-    #   else
-    #     # try reversing one of the names
-    #     parts_compare(Enum.reverse(left), right)
-    #   end
-    # else
-    #   # Akin.Similarity.StringCompare.compare(left, right)
-    #   [first_left | rest_left] = left
-    #   last_left = List.last(rest_left)
-    #   middle_left = rest_left -- [last_left] |> Enum.join(" ") |> String.trim()
-
-    #   [first_right | rest_right] = right
-    #   last_right = List.last(rest_right)
-    #   middle_right = rest_right -- [last_right] |> Enum.join(" ") |> String.trim()
-
-    #   tuple_left = Enum.reduce([first_left, last_left], [], fn n, acc ->
-    #     [acc | [{String.first(n), n}]] |> List.flatten()
-    #   end)
-    #   tuple_right = Enum.reduce([first_right, last_right], [], fn n, acc ->
-    #     [acc | [{String.first(n), n}]] |> List.flatten()
-    #   end)
-    #   end_scores = parts_compare(tuple_left, tuple_right, [])
-    #   IO.inspect(end_scores, label: "end scores")
-
-    #   mid_scores = mid_compare(middle_left, middle_right)
-    #   IO.inspect(mid_scores, label: "mid scores")
-    # end
-
-    # TODO then reverse one of the lists and compare that way
-
-    IO.inspect(count_left, label: "count left")
-    IO.inspect(count_right, label: "count right")
-
     cond do
       count_left == count_right ->
         tuple_left = Enum.reduce(left, [], fn n, acc ->
@@ -160,14 +106,10 @@ defmodule Akin.Similarity.SplitNameDisambiguation do
           {:ins, block_value}, acc -> [String.trim(block_value) | acc]
           _, accu -> accu
         end)
-        IO.inspect(inserts, label: "inserts")
-        IO.inspect(left, label: "left")
         reduced_right = right -- inserts
-        IO.inspect(reduced_right, label: "reduced_right")
         parts_compare(left, reduced_right)
 
       true ->
-        # Akin.Similarity.StringCompare.compare(left, right)
         [first_left | rest_left] = left
         last_left = List.last(rest_left)
         middle_left = rest_left -- [last_left] |> Enum.join(" ") |> String.trim()
@@ -177,7 +119,6 @@ defmodule Akin.Similarity.SplitNameDisambiguation do
         middle_right = rest_right -- [last_right] |> Enum.join(" ") |> String.trim()
 
         mid_scores = mid_compare(middle_left, middle_right)
-        IO.inspect(mid_scores, label: "mid scores")
 
         tuple_left = Enum.reduce([first_left, last_left], [], fn n, acc ->
           [acc | [{String.first(n), n}]] |> List.flatten()
@@ -186,16 +127,11 @@ defmodule Akin.Similarity.SplitNameDisambiguation do
           [acc | [{String.first(n), n}]] |> List.flatten()
         end)
         end_scores = parts_compare(tuple_left, tuple_right, [])
-        IO.inspect(end_scores, label: "end scores")
 
         Enum.sum([mid_scores, end_scores]) / 2
     end
   end
 
-
-  # either string consists of only one letter each (i.e. an initial)
-  # so only compare the first initials
-  # TODO this should result in a low confidence in the score
   def parts_compare([{a, a_full} | a_rest], [{b, b_full} | b_rest], score) when a == a_full or b == b_full do
     s = if a == b, do: 1.0, else: 0
     parts_compare(a_rest, b_rest, [score | [s]] |> List.flatten())

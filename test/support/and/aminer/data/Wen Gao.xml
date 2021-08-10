@@ -1,0 +1,4363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>5537</personID>
+	<FullName>Wen Gao</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>An Adaptive Dandelion Model for Reconstructing Spherical Terrain-Like Visual Hull Surfaces</title>
+		<year>2005</year>
+		<authors>Xin Liu,Hongxun Yao,Wen Gao</authors>
+		<jconf>3DIM</jconf>
+		<id>4031</id>
+		<label>0</label>
+		<organization>Chinese Academy of Science</organization>
+	</publication>
+	<publication>
+		<title>Randomized Parallel Scheduling Algorithm for Input Queued Crossbar Switches</title>
+		<year>2005</year>
+		<authors>Yanfeng Zheng,Wen Gao</authors>
+		<jconf>CIT</jconf>
+		<id>8598</id>
+		<label>0</label>
+		<organization>Graduate School of Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Self-calibration Based 3D Information Extraction and Application in Broadcast Soccer Video</title>
+		<year>2006</year>
+		<authors>Yang Liu,Dawei Liang,Qingming Huang,Wen Gao</authors>
+		<jconf>ACCV (2)</jconf>
+		<id>18145</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Matching by Multiscale Oriented Corner Correlation</title>
+		<year>2006</year>
+		<authors>Feng Zhao,Qingming Huang,Wen Gao</authors>
+		<jconf>ACCV (1)</jconf>
+		<id>18286</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Bunch-Active Shape Model</title>
+		<year>2005</year>
+		<authors>Jingcai Fan,Hongxun Yao,Wen Gao,Yazhou Liu,Xin Liu</authors>
+		<jconf>ACII</jconf>
+		<id>18735</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Static Gesture Quantization and DCT Based Sign Language Generation</title>
+		<year>2005</year>
+		<authors>Chenxi Zhang,Feng Jiang,Hongxun Yao,Guilin Yao,Wen Gao</authors>
+		<jconf>ACII</jconf>
+		<id>18782</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Scoring Based on Small-World Phenomenon for Feature Selection in Text Mining</title>
+		<year>2006</year>
+		<authors>Chong Huang,YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>ADMA</jconf>
+		<id>27371</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Collective Classification with Contextual Dependency Network Models</title>
+		<year>2006</year>
+		<authors>YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>ADMA</jconf>
+		<id>27417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CSLDS: Chinese Sign Language Dialog System</title>
+		<year>2003</year>
+		<authors>Yiqiang Chen,Wen Gao,Gaolin Fang,Changshui Yang,Zhaoqi Wang</authors>
+		<jconf>AMFG</jconf>
+		<id>40580</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>How to Train a Classifier Based on the Huge Face Database?</title>
+		<year>2005</year>
+		<authors>Jie Chen,Ruiping Wang,Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>AMFG</jconf>
+		<id>40584</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Illumination Normalization for Robust Face Recognition Against Varying Lighting Conditions</title>
+		<year>2003</year>
+		<authors>Shiguang Shan,Wen Gao,Bo Cao,Debin Zhao</authors>
+		<jconf>AMFG</jconf>
+		<id>40632</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>AdaBoost Gabor Fisher Classifier for Face Recognition</title>
+		<year>2005</year>
+		<authors>Shiguang Shan,Peng Yang,Xilin Chen,Wen Gao</authors>
+		<jconf>AMFG</jconf>
+		<id>40633</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Animating 3D Facial Models with MPEG-4 FaceDefTables</title>
+		<year>2002</year>
+		<authors>Dalong Jiang,Zhiguo Li,Zhaoqi Wang,Wen Gao</authors>
+		<jconf>Annual Simulation Symposium</jconf>
+		<id>42124</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Text-independent Speaker Identification Based on Spectral Weighting Functions</title>
+		<year>1997</year>
+		<authors>Jiyong Ma,Wen Gao</authors>
+		<jconf>AVBPA</jconf>
+		<id>60605</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pose Invariant Face Recognition Under Arbitrary Illumination Based on 3D Face Reconstruction</title>
+		<year>2005</year>
+		<authors>Xiujuan Chai,Laiyun Qing,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>AVBPA</jconf>
+		<id>60610</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Detection Based on the Manifold</title>
+		<year>2005</year>
+		<authors>Ruiping Wang,Jie Chen,Shengye Yan,Wen Gao</authors>
+		<jconf>AVBPA</jconf>
+		<id>60838</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Features Extracting  Selecting for Lipreading</title>
+		<year>2003</year>
+		<authors>Hongxun Yao,Wen Gao,Wei Shan,Ming-hui Xu</authors>
+		<jconf>AVBPA</jconf>
+		<id>60858</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discriminant Analysis Based on Kernelized Decision Boundary for Face Recognition</title>
+		<year>2005</year>
+		<authors>Baochang Zhang,Xilin Chen,Wen Gao</authors>
+		<jconf>AVBPA</jconf>
+		<id>60861</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search</title>
+		<year>2003</year>
+		<authors>Baochang Zhang,Wen Gao,Shiguang Shan,Wei Wang</authors>
+		<jconf>AVBPA</jconf>
+		<id>60863</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-resolution Histograms of Local Variation Patterns (MHLVP) for Robust Face Recognition</title>
+		<year>2005</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Hongming Zhang,Wen Gao,Xilin Chen</authors>
+		<jconf>AVBPA</jconf>
+		<id>60864</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Flexible Stem-Based Local Search Algorithm for Predicting RNA Secondary Structures Including Pseudoknots</title>
+		<year>2007</year>
+		<authors>Xiang Chen,Simin He,Dong-Bo Bu,Runsheng Chen,Wen Gao</authors>
+		<jconf>BIBE</jconf>
+		<id>63600</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Sequence Decomposition Method for Computing a Grobner Basis and Its Application to Bivariate Spline</title>
+		<year>1995</year>
+		<authors>Wen Gao,Baocai Yin</authors>
+		<jconf>COCOON</jconf>
+		<id>105230</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compunication: From Concept to Practice</title>
+		<year>1997</year>
+		<authors>Wen Gao</authors>
+		<jconf>COMPSAC</jconf>
+		<id>111823</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>An Efficient VLSI Architecture for MC Interpolation in AVC Video Coding</title>
+		<year>2004</year>
+		<authors>Deng Lei,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji</authors>
+		<jconf>ESA/VLSI</jconf>
+		<id>125946</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Selecting Discriminative Tracking Features Using Particle Filter</title>
+		<year>2005</year>
+		<authors>Jianyu Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129347</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology and Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Face Recognition Based on Maximum Average Margin Criterion</title>
+		<year>2005</year>
+		<authors>Baochang Zhang,Xilin Chen,Shiguang Shan,Wen Gao</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129623</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology and Chinese Academy of Science</organization>
+	</publication>
+	<publication>
+		<title>Matrix-Structural Learning (MSL) of Cascaded Classifier from Enormous Training Set</title>
+		<year>2007</year>
+		<authors>Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao,Jie Chen</authors>
+		<jconf>CVPR</jconf>
+		<id>129713</id>
+		<label>0</label>
+		<organization>lCT-ISVISION FRJDL, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Locally Assembled Binary (LAB) feature with feature-centric cascade for fast and accurate face detection</title>
+		<year>2008</year>
+		<authors>Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>CVPR</jconf>
+		<id>130201</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci. (CAS), Beijing</organization>
+	</publication>
+	<publication>
+		<title>Classifiability-based Optimal Discriminatory Projection Pursuit</title>
+		<year>2008</year>
+		<authors>Yu Su,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>CVPR</jconf>
+		<id>130317</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Manifold-Manifold Distance with application to face recognition based on image set</title>
+		<year>2008</year>
+		<authors>Ruiping Wang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>CVPR</jconf>
+		<id>130550</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A robust descriptor based on Weber's Law</title>
+		<year>2008</year>
+		<authors>Jie Chen,Shiguang Shan,Guoying Zhao,Xilin Chen,Wen Gao,Matti Pietikainen</authors>
+		<jconf>CVPR</jconf>
+		<id>130592</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified Principal Component Analysis with generalized Covariance Matrix for face recognition</title>
+		<year>2008</year>
+		<authors>Shiguang Shan,Bo Cao,Yu Su,Laiyun Qing,Xilin Chen,Wen Gao</authors>
+		<jconf>CVPR</jconf>
+		<id>130620</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>On-Line Sprite Encoding with Large Global Motion Estimation</title>
+		<year>1998</year>
+		<authors>Feng Wu,Wen Gao,Xiang YangZhou,Gao Peng,Chen DaTong</authors>
+		<jconf>Data Compression Conference</jconf>
+		<id>146271</id>
+		<label>0</label>
+		<organization>Comput. Dept., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Bandwidth Adaptive Quality Smoothing for Unequal Error Protected Scalable Video Streaming</title>
+		<year>2005</year>
+		<authors>Longshe Huo,Wen Gao,Qingming Huang</authors>
+		<jconf>DCC</jconf>
+		<id>146389</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Morphological Representation of DCT Data for Image Coding</title>
+		<year>2001</year>
+		<authors>Debin Zhao,Y. K. Chan,Wen Gao</authors>
+		<jconf>Data Compression Conference</jconf>
+		<id>147056</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FACOLA - Face Coder Based on Location and Attention</title>
+		<year>1998</year>
+		<authors>Debin Zhao,Y. K. Chan,Wen Gao</authors>
+		<jconf>Data Compression Conference</jconf>
+		<id>147058</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Extending DACLIC for Near Lossless Compression with Postprocessing of Greyscale Images</title>
+		<year>1999</year>
+		<authors>Debin Zhao,Y. K. Chan,Wen Gao</authors>
+		<jconf>Data Compression Conference</jconf>
+		<id>147060</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Hong Kong City Univ.</organization>
+	</publication>
+	<publication>
+		<title>An Enhanced Robust Entropy Coder for Video Codecs Based on Context-Adaptive Reversible VLC</title>
+		<year>2007</year>
+		<authors>Qiang Wang,Debin Zhao,Siwei Ma,Wen Gao</authors>
+		<jconf>DCC</jconf>
+		<id>147105</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Dual Frame Motion Compensation</title>
+		<year>2008</year>
+		<authors>Da Liu,Xiangyang Ji,Debin Zhao,Xiaobin Zhu,Zhi Bian,Wen Gao</authors>
+		<jconf>DCC</jconf>
+		<id>147197</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Discovering Sequence Association Rules with User Access Transaction Grammars</title>
+		<year>2000</year>
+		<authors>Shi Wang,Wen Gao,Jintao Li</authors>
+		<jconf>DEXA Workshop</jconf>
+		<id>152392</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Robust Multi-view Face Detection Using Error Correcting Output Codes</title>
+		<year>2006</year>
+		<authors>Hongming Zhang,Wen Gao,Xilin Chen,Shiguang Shan,Debin Zhao</authors>
+		<jconf>ECCV (4)</jconf>
+		<id>169528</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Action Recognition in Broadcast Tennis Video Using Optical Flow and Support Vector Machine</title>
+		<year>2006</year>
+		<authors>Guangyu Zhu,Changsheng Xu,Wen Gao,Qingming Huang</authors>
+		<jconf>ECCV Workshop on HCI</jconf>
+		<id>169566</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transition Movement Models for Large Vocabulary Continuous Sign Language Recognition</title>
+		<year>2004</year>
+		<authors>Wen Gao,Gaolin Fang,Debin Zhao,Yiqiang Chen</authors>
+		<jconf>FGR</jconf>
+		<id>205351</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Expand Training Set for Face Detection by GA Re-sampling</title>
+		<year>2004</year>
+		<authors>Jie Chen,Xilin Chen,Wen Gao</authors>
+		<jconf>FGR</jconf>
+		<id>205376</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A SRN/HMM System for Signer-Independent Continuous Sign Language Recognition</title>
+		<year>2002</year>
+		<authors>Gaolin Fang,Wen Gao</authors>
+		<jconf>FGR</jconf>
+		<id>205450</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A Continuous Chinese Sign Language Recognition System</title>
+		<year>2000</year>
+		<authors>Jiyong Ma,Wen Gao,Jiangqin Wu,Chunli Wang</authors>
+		<jconf>FG</jconf>
+		<id>205480</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Eigen-Harmonics Faces: Face Recognition under Generic Lighting</title>
+		<year>2004</year>
+		<authors>Laiyun Qing,Shiguang Shan,Wen Gao</authors>
+		<jconf>FGR</jconf>
+		<id>205614</id>
+		<label>0</label>
+		<organization>Graduate Sch., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Curse of Mis-alignment in Face Recognition: Problem and a Novel Mis-alignment Learning Solution</title>
+		<year>2004</year>
+		<authors>Shiguang Shan,Yizheng Chang,Wen Gao,Bo Cao,Peng Yang</authors>
+		<jconf>FGR</jconf>
+		<id>205650</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>An Approach Based on Phonemes to Large Vocabulary Chinese Sign Language Recognition</title>
+		<year>2002</year>
+		<authors>Chunli Wang,Shiguang Shan,Wen Gao</authors>
+		<jconf>FGR</jconf>
+		<id>205713</id>
+		<label>0</label>
+		<organization>Dept. of Comput., Dalian Univ. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Face Recognition Using Ada-Boosted Gabor Features</title>
+		<year>2004</year>
+		<authors>Peng Yang,Shiguang Shan,Wen Gao,Stan Z. Li,Dong Zhang</authors>
+		<jconf>FGR</jconf>
+		<id>205746</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>Expanding Training Set for Chinese Sign Language Recognition</title>
+		<year>2006</year>
+		<authors>Chunli Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205795</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, China</organization>
+	</publication>
+	<publication>
+		<title>Illumination transfer using homomorphic wavelet filtering and its application to light-insensitive face recognition</title>
+		<year>2008</year>
+		<authors>Hu Han,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205806</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process. of CAS, Inst. of Comput. Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Ensemble of Gabor Fisher Classifier for Face Recognition</title>
+		<year>2006</year>
+		<authors>Yu Su,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205810</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Recovering 3D facial shape via coupled 2D/3D space learning</title>
+		<year>2008</year>
+		<authors>Annan Li,Shiguang Shan,Xilin Chen,Xiujuan Chai,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205840</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., CAS, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Local Linear Regression (LLR) for Pose Invariant Face Recognition</title>
+		<year>2006</year>
+		<authors>Xiujuan Chai,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205905</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Face reconstruction using fixation positions and foveated imaging</title>
+		<year>2008</year>
+		<authors>Fang Fang,Zhiguo Ma,Laiyun Qing,Jun Miao,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205939</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Design sparse features for age estimation using hierarchical face model</title>
+		<year>2008</year>
+		<authors>Jin-Li Suo,Tianfu Wu,Song Chun Zhu,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>205992</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci.(CAS)</organization>
+	</publication>
+	<publication>
+		<title>Discriminant analysis for perceptionally comparable classes</title>
+		<year>2008</year>
+		<authors>Bingpeng Ma,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>FG</jconf>
+		<id>206024</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Reconfigurable High Availability Infrastructure in Cluster for Grid</title>
+		<year>2003</year>
+		<authors>Wen Gao,Xinyu Liu,Lei Wang,Takashi Nanya</authors>
+		<jconf>GCC (1)</jconf>
+		<id>223622</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Recognition of Finger-Spelling for Chinese Sign Language</title>
+		<year>2001</year>
+		<authors>Jiangqin Wu,Wen Gao</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238266</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Signer-Independent Continuous Sign Language Recognition Based on SRN/HMM</title>
+		<year>2001</year>
+		<authors>Gaolin Fang,Wen Gao,Xilin Chen,Chunli Wang,Jiyong Ma</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238304</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Re-sampling for Chinese Sign Language Recognition</title>
+		<year>2005</year>
+		<authors>Chunli Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comparison Between Etymon- and Word-Based Chinese Sign Language Recognition Systems</title>
+		<year>2005</year>
+		<authors>Chunli Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238380</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Real-Time Large Vocabulary Recognition System for Chinese Sign Language</title>
+		<year>2001</year>
+		<authors>Chunli Wang,Wen Gao,Jiyong Ma</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238381</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Sign Language Recognition Based on HMMs and Auto-regressive HMMs</title>
+		<year>2005</year>
+		<authors>Xiaolin Yang,Feng Jiang,Han Liu,Hongxun Yao,Wen Gao,Chunli Wang</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238384</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating Data for Signer Adaptation</title>
+		<year>2007</year>
+		<authors>Chunli Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238413</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Cache-Based Distributed Terabyte Text Retrieval System in CADAL</title>
+		<year>2002</year>
+		<authors>Jun Cheng,Wen Gao,Bin Liu,Tiejun Huang,Ling Zhang</authors>
+		<jconf>ICADL</jconf>
+		<id>264625</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pose Estimation Based on Gaussian Error Models</title>
+		<year>2006</year>
+		<authors>Xiujuan Chai,Shiguang Shan,Laiyun Qing,Wen Gao</authors>
+		<jconf>ICB</jconf>
+		<id>274056</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Application of Extended Geodesic Distance in Head Poses Estimation</title>
+		<year>2006</year>
+		<authors>Bingpeng Ma,Fei Yang,Wen Gao,Baochang Zhang</authors>
+		<jconf>ICB</jconf>
+		<id>274147</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Characterisation of Face Recognition Algorithms and Their Sensitivity to Severe Illumination Changes</title>
+		<year>2006</year>
+		<authors>Kieron Messer,Josef Kittler,James Short,Guillaume Heusch,Fabien Cardinaux,Sebastien Marcel,Yann Rodriguez,Shiguang Shan,Yu Su,Wen Gao,Xilin Chen</authors>
+		<jconf>ICB</jconf>
+		<id>274149</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhance the Alignment Accuracy of Active Shape Models Using Elastic Graph Matching</title>
+		<year>2004</year>
+		<authors>Sanqiang Zhao,Wen Gao,Shiguang Shan,Baocai Yin</authors>
+		<jconf>ICBA</jconf>
+		<id>274318</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Backward-Compatible Solution for Next Generation DVB-C System</title>
+		<year>2008</year>
+		<authors>Jing Lei,Wen Gao</authors>
+		<jconf>ICC</jconf>
+		<id>276105</id>
+		<label>4</label>
+		<organization>WINLAB, Rutgers Univ., North Brunswick, NJ</organization>
+	</publication>
+	<publication>
+		<title>Spectrum Sensing for OFDM Systems Employing Pilot Tones and Application to DVB-T OFDM</title>
+		<year>2008</year>
+		<authors>Hou-Shin Chen,Wen Gao,David G. Daut</authors>
+		<jconf>ICC</jconf>
+		<id>276352</id>
+		<label>4</label>
+		<organization>Dept. of Electr. & Comput. Eng., Rutgers Univ., Piscataway, NJ</organization>
+	</publication>
+	<publication>
+		<title>Spectrum Sensing for DMB-T Systems Using PN Frame Headers</title>
+		<year>2008</year>
+		<authors>Hou-Shin Chen,Wen Gao,David G. Daut</authors>
+		<jconf>ICC</jconf>
+		<id>276557</id>
+		<label>4</label>
+		<organization>Dept. of Electr. & Comput. Eng., Rutgers Univ., Piscataway, NJ</organization>
+	</publication>
+	<publication>
+		<title>Signature Based Spectrum Sensing Algorithms for IEEE 802.22 WRAN</title>
+		<year>2007</year>
+		<authors>Hou-Shin Chen,Wen Gao,David G. Daut</authors>
+		<jconf>ICC</jconf>
+		<id>277233</id>
+		<label>4</label>
+		<organization>Rutgers Univ., Piscataway</organization>
+	</publication>
+	<publication>
+		<title>Network-Tree Model and Shortest Path Algorithm</title>
+		<year>2003</year>
+		<authors>Guozhen Tan,Xiaojun Han,Wen Gao</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<id>280272</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reliability Theory Model and Expected Life Shortest Path in Stochastic and Time-Dependent Networks</title>
+		<year>2003</year>
+		<authors>Guozhen Tan,Xiang-fu Xia,Wen Gao</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<id>280275</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FaceTracker: A Human Face Tracking and Facial Organ Localizing System</title>
+		<year>2001</year>
+		<authors>Jun Miao,Hongming Zhang,Wen Gao,Gang Deng,Hong Liu,Xilin Chen</authors>
+		<jconf>ICCV</jconf>
+		<id>293427</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Local Gabor Binary Pattern Histogram Sequence (LGBPHS): A Novel Non-Statistical Model for Face Representation and Recognition</title>
+		<year>2005</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Wen Gao,Xilin Chen,Hongming Zhang</authors>
+		<jconf>ICCV</jconf>
+		<id>294018</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology and Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Ensemble of Global and Local Classifiers for Face Recognition</title>
+		<year>2007</year>
+		<authors>Yu Su,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICCV</jconf>
+		<id>294386</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>A system for automatic Chinese seal imprint verification</title>
+		<year>1995</year>
+		<authors>Wen Gao,Shengfu Dong,Xilin Chen</authors>
+		<jconf>ICDAR</jconf>
+		<id>294771</id>
+		<label>0</label>
+		<organization>Artificial Intelligence Lab., MIT, Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Recognizing components of handwritten characters by attributed relational graphs with stable features</title>
+		<year>1997</year>
+		<authors>Xingyuan Li,Weon-Geun Oh,Jiarong Hong,Wen Gao</authors>
+		<jconf>ICDAR</jconf>
+		<id>295160</id>
+		<label>0</label>
+		<organization>Image Process. Dept., Syst. Eng. Res. Inst., Taejon</organization>
+	</publication>
+	<publication>
+		<title>A Robust Method for Unknown Forms Analysis</title>
+		<year>1999</year>
+		<authors>Li Xingyuan,Wen Gao,David S. Doermann,Weon-Geun Oh</authors>
+		<jconf>ICDAR</jconf>
+		<id>295726</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Fast Moving Region Detection Scheme in Ad Hoc Sensor Network</title>
+		<year>2004</year>
+		<authors>Yazhou Liu,Wen Gao,Hongxun Yao,Shaohui Liu,Lijun Wang</authors>
+		<jconf>ICIAR (2)</jconf>
+		<id>312792</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Inter-frame Differential Energy Video Watermarking Algorithm Based on Compressed Domain</title>
+		<year>2004</year>
+		<authors>Lijun Wang,Hongxun Yao,Shaohui Liu,Wen Gao,Yazhou Liu</authors>
+		<jconf>ICIAR (2)</jconf>
+		<id>313026</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimizing the Distortion Spatial Data Hiding Based on Equivalence Class</title>
+		<year>2007</year>
+		<authors>Shaohui Liu,Hongxun Yao,Wen Gao,Dingguo Yang</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>313920</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Lattice Based General Blind Watermark Scheme</title>
+		<year>2003</year>
+		<authors>Yongliang Liu,Wen Gao,Zhao Wang,Shaohui Liu</authors>
+		<jconf>ICICS</jconf>
+		<id>314892</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reconstruction Problems in 3D for Viral Cryo Electron Microscopy</title>
+		<year>1998</year>
+		<authors>Wen Gao,Peter C. Doerschuk</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>317650</id>
+		<label>2</label>
+		<organization>Sch. of Electr. & Comput. Eng., Purdue Univ., West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>New scaling technique for direct mode coding in B pictures</title>
+		<year>2004</year>
+		<authors>Xiangyang Ji,Debin Zhao,Wen Gao,Yan Lu,Siwei Ma</authors>
+		<jconf>ICIP</jconf>
+		<id>318461</id>
+		<label>0</label>
+		<organization>Inst. of Comput.Technol., Acad. Sinica, China</organization>
+	</publication>
+	<publication>
+		<title>A novel compressed domain shot segmentation algorithm on H.264/AVC</title>
+		<year>2004</year>
+		<authors>Yang Liu,Weiqiang Wang,Wen Gao,Wei Zeng</authors>
+		<jconf>ICIP</jconf>
+		<id>319359</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Rate control for JVT video coding scheme with HRD considerations</title>
+		<year>2003</year>
+		<authors>Siwei Ma,Wen Gao,Feng Wu,Yan Lu</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>319386</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Sprite generation for frame-based video coding</title>
+		<year>2001</year>
+		<authors>Yan Lu,Wen Gao,Feng Wu</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>319439</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>High efficient sprite coding with directional spatial prediction</title>
+		<year>2002</year>
+		<authors>Yan Lu,Wen Gao,Feng Wu</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>319441</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Individual 3D Face Synthesis Based on Orthogonal Photos and Speech-Driven Facial Animation</title>
+		<year>2000</year>
+		<authors>Shiguang Shan,Wen Gao,Jie Yan,Hongming Zhang,Xilin Chen</authors>
+		<jconf>ICIP</jconf>
+		<id>321147</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>An implemented architecture of deblocking filter for H.264/AVC</title>
+		<year>2004</year>
+		<authors>Bin Sheng,Wen Gao,Di Wu</authors>
+		<jconf>ICIP</jconf>
+		<id>321186</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>The improved SP frame coding technique for the JVT standard</title>
+		<year>2003</year>
+		<authors>Xiaoyan Sun,Shipeng Li,Feng Wu,Jacky Shen,Wen Gao</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>321502</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Application, Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Macroblock-based progressive fine granularity scalable (PFGS) video coding with flexible temporal-SNR scalablilities</title>
+		<year>2001</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>321514</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Application, Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>A novel pupil localization method based on gaboreye model and radial symmetry operator</title>
+		<year>2004</year>
+		<authors>Peng Yang,Bo Du,Shiguang Shan,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>322397</id>
+		<label>0</label>
+		<organization>ICT-ISVISION Joint R&D Lab. for Face Recognition, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic text segmentation from complex background</title>
+		<year>2004</year>
+		<authors>Qixiang Ye,Wen Gao,Qingming Huang</authors>
+		<jconf>ICIP</jconf>
+		<id>322462</id>
+		<label>0</label>
+		<organization>Graduate Sch. of Chinese Acad. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>Error resilience video coding in H.264 encoder with potential distortion tracking</title>
+		<year>2004</year>
+		<authors>Yuan Zhang,Wen Gao,Huifang Sun,Qingming Huang,Yan Lu</authors>
+		<jconf>ICIP</jconf>
+		<id>322589</id>
+		<label>0</label>
+		<organization>Graduate Sch., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Mode mapping method for h.264/avc spatial downscaling transcoding</title>
+		<year>2004</year>
+		<authors>Peng Zhang,Yan Lu,Qingming Huang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>322603</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Video indexing by motion activity maps</title>
+		<year>2002</year>
+		<authors>Wei Zeng,Wen Gao,Debin Zhao</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>322666</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>An active volumetric model for 3D reconstruction</title>
+		<year>2005</year>
+		<authors>Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>323102</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Improving particle filter with support vector regression for efficient visual tracking</title>
+		<year>2005</year>
+		<authors>Guangyu Zhu,Dawei Liang,Yang Liu,Qingming Huang,Wen Gao</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>323103</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Motion vector prediction in multiview video coding</title>
+		<year>2005</year>
+		<authors>Xun Guo,Wen Gao,Debin Zhao</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>323268</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>An adaptive skin color detection algorithm with confusing backgrounds elimination</title>
+		<year>2005</year>
+		<authors>Ming-Ji Zhang,Wen Gao</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>323290</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Extended direct mode for hierarchical B picture coding</title>
+		<year>2005</year>
+		<authors>Jiali Zheng,Xiangyang Ji,Guangnan Ni,Wen Gao,Feng Wu</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>323295</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Image matching based on a local invariant descriptor</title>
+		<year>2005</year>
+		<authors>Lei Qin,Wen Gao</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>323571</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Viewpoint invariant sign language recognition</title>
+		<year>2005</year>
+		<authors>Qi Wang,Xilin Chen,Liangguo Zhang,Chunli Wang,Wen Gao</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>323622</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>An Efficient FGS Coding Scheme for Interlaced Scalable Video Coding</title>
+		<year>2006</year>
+		<authors>Yanyan Zheng,Xiangyang Ji,Feng Wu,Debin Zhao,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>323885</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Practical Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming</title>
+		<year>2006</year>
+		<authors>Mei Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>324013</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Visual Hull Embossment by Graph Cuts</title>
+		<year>2006</year>
+		<authors>Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>324045</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Block-Size Transform Based on Extended Integer 88/44 Transforms for H.264/AVC</title>
+		<year>2006</year>
+		<authors>Honggang Qi,Wen Gao,Siwei Ma,Debin Zhao</authors>
+		<jconf>ICIP</jconf>
+		<id>324336</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wyner-Ziv Video Coding Based on Set Partitioning in Hierarchical Tree</title>
+		<year>2006</year>
+		<authors>Xun Guo,Yan Lu,Feng Wu,Wen Gao,Shipeng Li</authors>
+		<jconf>ICIP</jconf>
+		<id>324400</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding</title>
+		<year>2007</year>
+		<authors>Xiaoming Li,Debin Zhao,Xiangyang Ji,Qiang Wang,Wen Gao</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>324882</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Mean-Shift Blob Tracking with Adaptive Feature Selection and Scale Adaptation</title>
+		<year>2007</year>
+		<authors>Dawei Liang,Qingming Huang,Shuqiang Jiang,Hongxun Yao,Wen Gao</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>324903</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Software Pipelines Design for Variable Block-Size Motion Estimation with Large Search Range</title>
+		<year>2007</year>
+		<authors>Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao</authors>
+		<jconf>ICIP (5)</jconf>
+		<id>325148</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>A Novel Error Concealment Method for Stereoscopic Video Coding</title>
+		<year>2007</year>
+		<authors>Xinguang Xiang,Debin Zhao,Qiang Wang,Xiangyang Ji,Wen Gao</authors>
+		<jconf>ICIP (5)</jconf>
+		<id>325181</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Monocular Tracking 3D People By Gaussian Process Spatio-Temporal Variable Model</title>
+		<year>2007</year>
+		<authors>Junbiao Pang,Laiyun Qing,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICIP (5)</jconf>
+		<id>325214</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Object Recognition Based on Dependent Pachinko Allocation Model</title>
+		<year>2007</year>
+		<authors>Yuanning Li,Weiqiang Wang,Wen Gao</authors>
+		<jconf>ICIP (5)</jconf>
+		<id>325251</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>DSP Implementation of Deblocking Filter for AVS</title>
+		<year>2007</year>
+		<authors>Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao</authors>
+		<jconf>ICIP (6)</jconf>
+		<id>325321</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>People re-detection using Adaboost with sift and color correlogram</title>
+		<year>2008</year>
+		<authors>Lei Hu,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>325579</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Shot classification for action movies based on motion characteristics</title>
+		<year>2008</year>
+		<authors>Shuhui Wang,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>325580</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Info. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Pedestrian detection via logistic multiple instance boosting</title>
+		<year>2008</year>
+		<authors>Junbiao Pang,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>325757</id>
+		<label>0</label>
+		<organization>Grad. Sch. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Object tracking using incremental 2D-LDA learning and Bayes inference</title>
+		<year>2008</year>
+		<authors>Guorong Li,Dawei Liang,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>325783</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci.(CAS), Beijing</organization>
+	</publication>
+	<publication>
+		<title>Multi-polarity text segmentation using graph theory</title>
+		<year>2008</year>
+		<authors>Jia Li,YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>326055</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Fast and effective text detection</title>
+		<year>2008</year>
+		<authors>Xiaojun Li,Weiqiang Wang,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICIP</jconf>
+		<id>326151</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>New bi-prediction techniques for B pictures coding</title>
+		<year>2004</year>
+		<authors>Xiangyang Ji,Debin Zhao,Wen Gao,Qingming Huang,Siwei Ma,Yan Lu</authors>
+		<jconf>ICME</jconf>
+		<id>330315</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Secure watermark verification scheme</title>
+		<year>2004</year>
+		<authors>Yongliang Liu,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>330633</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Macroblock-Based Progressive Fine Granularity Scalable Video Coding</title>
+		<year>2001</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang</authors>
+		<jconf>ICME</jconf>
+		<id>331157</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>Improved error concealment algorithms based on H.264/AVC non-normative decoder</title>
+		<year>2004</year>
+		<authors>Li Su,Yuan Zhang,Wen Gao,Qingming Huang,Yan Lu</authors>
+		<jconf>ICME</jconf>
+		<id>331275</id>
+		<label>0</label>
+		<organization>Graduate Sch., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Context-based 2D-VLC for video coding</title>
+		<year>2004</year>
+		<authors>Qiang Wang,Debin Zhao,Siwei Ma,Yan Lu,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple modes intra-prediction in intra coding</title>
+		<year>2004</year>
+		<authors>Peng Zhang,Debin Zhao,Siwei Ma,Yan Lu,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331577</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Sign Language Recognition from Homography</title>
+		<year>2006</year>
+		<authors>Qi Wang,Xilin Chen,Chunli Wang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331627</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol, Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>An Edge-Based Median Filtering Algorithm with Consideration of Motion Vector Reliability for Adaptive Video Deinterlacing</title>
+		<year>2006</year>
+		<authors>Qian Huang,Wen Gao,Debin Zhao,Qingming Huang</authors>
+		<jconf>ICME</jconf>
+		<id>331645</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive De-Interlacing Algorithm Based on Texture and Motion Vector Analysis</title>
+		<year>2006</year>
+		<authors>Jianguo Du,Songnan Li,Debin Zhao,Qian Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331663</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Complexity-Distortion Optimized Motion Estimation Algorithm with Fine-Granular Scalable Complexity</title>
+		<year>2006</year>
+		<authors>Li Zhang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331664</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Motion Aligned Spatial Scalable Video Coding</title>
+		<year>2006</year>
+		<authors>Debing Liu,Yuwen He,Shipeng Li,Debin Zhao,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>331700</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Fast Intra Mode Decision Algorithm for AVS to H.264 Transcoding</title>
+		<year>2006</year>
+		<authors>Zhihang Wang,Wen Gao,Debin Zhao,Qingming Huang</authors>
+		<jconf>ICME</jconf>
+		<id>331711</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinease Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Optimal Non-Uniform Scalar Quantizer for Distributed Video Coding</title>
+		<year>2006</year>
+		<authors>Bo Wu,Xun Guo,Debin Zhao,Wen Gao,Feng Wu</authors>
+		<jconf>ICME</jconf>
+		<id>331834</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Performance-Complexity Analysis of High Resolution Video Encoder and its Memory Organization for DSP Implementation</title>
+		<year>2006</year>
+		<authors>Zhigang Yang,Wen Gao,Yan Liu</authors>
+		<jconf>ICME</jconf>
+		<id>331921</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Low-Complexity Adaptive Block-Size Transform Based on Extended Transforms</title>
+		<year>2006</year>
+		<authors>Honggang Qi,Wen Gao,Siwei Ma,Debin Zhao,Xiangyang Ji</authors>
+		<jconf>ICME</jconf>
+		<id>331991</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Automatic Multi-Player Detection and Tracking in Broadcast Sports Video using Support Vector Machine and Particle Filter</title>
+		<year>2006</year>
+		<authors>Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332051</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Reference Frame Storage Scheme for H.264 HDTV Decoder</title>
+		<year>2006</year>
+		<authors>Peng Zhang,Wen Gao,Di Wu,Don Xie</authors>
+		<jconf>ICME</jconf>
+		<id>332094</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Tech., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Effective Mode Decision Scheme in Macroblock-Based PFGS</title>
+		<year>2006</year>
+		<authors>Tiantian Sun,Jizheng Xu,Feng Wu,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332214</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A System for Automatic Generation of Music Sports-Video</title>
+		<year>2005</year>
+		<authors>Weigang Zhang,Liyuan Xing,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332238</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Algorithm with Adaptive Complexity for Integer Pel Motion Estimation of H.264</title>
+		<year>2005</year>
+		<authors>Li Zhang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332395</id>
+		<label>0</label>
+		<organization>Institute of computing technology, Chinese Academy of Science; Graduate school of Chinese Academy of science, zhangli@jdl.ac.cn</organization>
+	</publication>
+	<publication>
+		<title>Generating Video Sequence from Photo Image for Mobile Screens by Content Analysis</title>
+		<year>2007</year>
+		<authors>Shuqiang Jiang,Huiying Liu,Zhao Zhao,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332655</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Haar-Like Features for Pedestrian Detection</title>
+		<year>2007</year>
+		<authors>Xinyi Cui,Yazhou Liu,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332729</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos</title>
+		<year>2007</year>
+		<authors>Jun Sun,Wen Gao,Debin Zhao</authors>
+		<jconf>ICME</jconf>
+		<id>332793</id>
+		<label>0</label>
+		<organization>Peking Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Direct Mode Coding for B Pictures using Virtual Reference Picture</title>
+		<year>2007</year>
+		<authors>Da Liu,Debin Zhao,Jun Sun,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332797</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>A Real-Time Score Detection and Recognition Approach for Broadcast Basketball Video</title>
+		<year>2007</year>
+		<authors>Guangyi Miao,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332858</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci. Beijing, Beijing</organization>
+	</publication>
+	<publication>
+		<title>The Demo: A Real-Time Score Detection and Recognition Approach in Broadcast Basketball Sports Video</title>
+		<year>2007</year>
+		<authors>Guangyi Miao,Giiangyu Zhu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>332861</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Highlight Ranking for Racquet Sports Video in User Attention Subspaces Based on Relevance Feedback</title>
+		<year>2007</year>
+		<authors>Yijia Zheng,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>333018</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Effective Local Invariant Descriptor Combining Luminance and Color Information</title>
+		<year>2007</year>
+		<authors>Dong Zhang,Weiqiang Wang,Wen Gao,Shuqiang Jiang</authors>
+		<jconf>ICME</jconf>
+		<id>333038</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Mining Information of Attack-Defense Status from Soccer Video Based on Scene Analysis</title>
+		<year>2007</year>
+		<authors>Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>333082</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Spatial and Transform Domain FGS Coding</title>
+		<year>2007</year>
+		<authors>Li Zhang,Xiangyang Ji,Wen Gao,Debin Zhao</authors>
+		<jconf>ICME</jconf>
+		<id>333141</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Mahalanobis distance based Polynomial Segment Model for Chinese Sign Language Recogniton</title>
+		<year>2008</year>
+		<authors>Yu Zhou,Xilin Chen,Debin Zhao,Hongxun Yao,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>333360</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Affective MTV analysis based on arousal and valence features</title>
+		<year>2008</year>
+		<authors>Shiliang Zhang,Qi Tian,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>333414</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process, Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Coarse-to-fine video text detection</title>
+		<year>2008</year>
+		<authors>Guangyi Miao,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICME</jconf>
+		<id>333432</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>HandTalker:  A Multimodal Dialog System Using Sign Language and 3-D Virtual Human</title>
+		<year>2000</year>
+		<authors>Wen Gao,Jiyong Ma,Shiguang Shan,Xilin Chen,Wei Zheng,Hongming Zhang,Jie Yan,Jiangqin Wu</authors>
+		<jconf>ICMI</jconf>
+		<id>333914</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fast Sign Word Recognition Method for Chinese Sign Language</title>
+		<year>2000</year>
+		<authors>Jiangqin Wu,Wen Gao</authors>
+		<jconf>ICMI</jconf>
+		<id>333938</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large vocabulary sign language recognition based on hierarchical decision trees</title>
+		<year>2003</year>
+		<authors>Gaolin Fang,Wen Gao,Debin Zhao</authors>
+		<jconf>ICMI</jconf>
+		<id>333976</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Animating Arbitrary Topology 3D Facial Model Using the MPEG-4 FaceDefTables</title>
+		<year>2002</year>
+		<authors>Dalong Jiang,Wen Gao,Zhiguo Li,Zhaoqi Wang</authors>
+		<jconf>ICMI</jconf>
+		<id>334018</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Parallel Multistream Model for Integration of Sign Language Recognition and Lip Motion</title>
+		<year>2000</year>
+		<authors>Jiyong Ma,Wen Gao,Rui Wang</authors>
+		<jconf>ICMI</jconf>
+		<id>334103</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gravity-Center Template Based Human Face Feature Detection</title>
+		<year>2000</year>
+		<authors>Jun Miao,Wen Gao,Yiqiang Chen,Jie Lu</authors>
+		<jconf>ICMI</jconf>
+		<id>334129</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Robust and Fast Locating Lip Motion</title>
+		<year>2000</year>
+		<authors>Rui Wang,Wen Gao,Jiyong Ma</authors>
+		<jconf>ICMI</jconf>
+		<id>334184</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Active Shape Model for Face Alignment</title>
+		<year>2002</year>
+		<authors>Wei Wang,Shiguang Shan,Wen Gao,Bo Cao,Baocai Yin</authors>
+		<jconf>ICMI</jconf>
+		<id>334187</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences and Harbin Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>A vision-based sign language recognition system using tied-mixture density HMM</title>
+		<year>2004</year>
+		<authors>Liang-Guo Zhang,Yiqiang Chen,Gaolin Fang,Xilin Chen,Wen Gao</authors>
+		<jconf>ICMI</jconf>
+		<id>334252</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China and Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Recognition of sign language subwords based on boosted hidden Markov models</title>
+		<year>2005</year>
+		<authors>Liang-Guo Zhang,Xilin Chen,Chunli Wang,Yiqiang Chen,Wen Gao</authors>
+		<jconf>ICMI</jconf>
+		<id>334254</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China, Harbin Institute of Technology, Harbin, China and Graduate School of the Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Combining Skin Color Model and Neural Network for Rotation Invariant Face Detection</title>
+		<year>2000</year>
+		<authors>Hongming Zhang,Debin Zhao,Wen Gao,Xilin Chen</authors>
+		<jconf>ICMI</jconf>
+		<id>334264</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial Video Watermarking Based on Stability of DC Coefficients</title>
+		<year>2005</year>
+		<authors>Tianhang Chen,Shaohui Liu,Hongxun Yao,Wen Gao</authors>
+		<jconf>ICMLC</jconf>
+		<id>336436</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scheduling Algorithms for Input Queued Switches Using Local Search Technique</title>
+		<year>2005</year>
+		<authors>Yanfeng Zheng,Simin He,Shutao Sun,Wen Gao</authors>
+		<jconf>ICN (1)</jconf>
+		<id>337227</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AppManager: A Powerful Service-Based Application Management System for Clusters</title>
+		<year>2002</year>
+		<authors>Qinghua Ye,Limin Xiao,Dan Meng,Wen Gao,Yi Liang,Ying Jiang</authors>
+		<jconf>ICPP Workshops</jconf>
+		<id>345694</id>
+		<label>6</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Resampling for Face Detection by Self-Adaptive Genetic Algorithm</title>
+		<year>2004</year>
+		<authors>Jie Chen,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>346311</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Modification of the AdaBoost-based Detector for Partially Occluded Faces</title>
+		<year>2006</year>
+		<authors>Jie Chen,Shiguang Shan,Shengye Yan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>346345</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, 150001, China</organization>
+	</publication>
+	<publication>
+		<title>Isomap Based on the Image Euclidean Distance</title>
+		<year>2006</year>
+		<authors>Jie Chen,Ruiping Wang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>346349</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Support Vector Machines for Face Recognition with Two-layer Generated Virtual Data</title>
+		<year>2004</year>
+		<authors>Guoqin Cui,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>346503</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Automatically Extracting Basic Units from Chinese Sign Language</title>
+		<year>2004</year>
+		<authors>Gaolin Fang,Xiujuan Gao,Wen Gao,Yiqiang Chen</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>346666</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Bagging Based Efficient Kernel Fisher Discriminant Analysis for Face Recognition</title>
+		<year>2006</year>
+		<authors>Yi Li,Baochang Zhang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>347688</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, China</organization>
+	</publication>
+	<publication>
+		<title>Nonparametric Background Generation</title>
+		<year>2006</year>
+		<authors>Yazhou Liu,Hongxun Yao,Wen Gao,Xilin Chen,Debin Zhao</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>347735</id>
+		<label>0</label>
+		<organization>Chinese Academy of Science Beijing 100080, P.R China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Volumetric Shape from Silhouette Algorithm Based on a Centripetal Pentahedron Model</title>
+		<year>2006</year>
+		<authors>Xin Liu,Hongxun Yao,Guilin Yao,Wen Gao</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>347737</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Robust Head Pose Estimation Using LGBP</title>
+		<year>2006</year>
+		<authors>Bingpeng Ma,Wenchao Zhang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>347808</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, 150001, China</organization>
+	</publication>
+	<publication>
+		<title>Local Visual Primitives (LVP) for Face Modelling and Recognition</title>
+		<year>2006</year>
+		<authors>Xin Meng,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>347966</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>2D Cascaded AdaBoost for Eye Localization</title>
+		<year>2006</year>
+		<authors>Zhiheng Niu,Shiguang Shan,Shengye Yan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>348151</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Unsupervised Texture Classification: Automatically Discover and Classify Texture Patterns</title>
+		<year>2006</year>
+		<authors>Lei Qin,Weiqiang Wang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>348383</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Face Recognition under Varying Lighting Based on the Probabilistic Model of Gabor Phase</title>
+		<year>2006</year>
+		<authors>Laiyun Qing,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>348386</id>
+		<label>0</label>
+		<organization>Graduate School, CAS, No.19, Yuquan Road,Beijing, 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Review the Strength of Gabor Features for Face Recognition from the Angle of Its Robustness to Mis-Alignment</title>
+		<year>2004</year>
+		<authors>Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao,Pang Yang</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>348653</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Riemannian Weighted Filter for Edge-sensitive Image Smoothing</title>
+		<year>2006</year>
+		<authors>Shiguang Shan,Wenchao Zhang,Yu Su,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>348656</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Ensemble of Piecewise FDA Based on Spatial Histograms of Local (Gabor) Binary Patterns for Face Recognition</title>
+		<year>2006</year>
+		<authors>Shiguang Shan,Wenchao Zhang,Yu Su,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>348657</id>
+		<label>0</label>
+		<organization>ICT-ISVISION FRJDL, Institute of Computing Technology, CAS, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Patch-Based Gabor Fisher Classifier for Face Recognition</title>
+		<year>2006</year>
+		<authors>Yu Su,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>348810</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Training Set for Face Detection</title>
+		<year>2006</year>
+		<authors>Ruiping Wang,Jie Chen,Shiguang Shan,Wen Gao</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>349144</id>
+		<label>0</label>
+		<organization>Graduate School of the Chinese Academy of Sciences, Beijing, 100039, China</organization>
+	</publication>
+	<publication>
+		<title>A Verification Method for Viewpoint Invariant Sign Language Recognition</title>
+		<year>2006</year>
+		<authors>Qi Wang,Xilin Chen,Chunli Wang,Wen Gao</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>349145</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, 150001, China</organization>
+	</publication>
+	<publication>
+		<title>Robust Frontal Face Detection in Complex Environment</title>
+		<year>2002</year>
+		<authors>Quan Yuan,Wen Gao,Hongxun Yao</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>349538</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>Recognition of Strong and Weak Connection Models in Continuous Sign Language</title>
+		<year>2002</year>
+		<authors>Quan Yuan,Wen Gao,Hongxun Yao,Chunli Wang</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>349540</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information Fusion in Face Identification</title>
+		<year>2004</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao,Peng Yang</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>349547</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Semantic Object Segmentation by a Spatio-Temporal MRF Model</title>
+		<year>2004</year>
+		<authors>Wei Zeng,Wen Gao</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349577</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A Robust Split-and-Merge Text Segmentation Approach for Images</title>
+		<year>2006</year>
+		<authors>Yaowen Zhan,Weiqiang Wang,Wen Gao</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>349593</id>
+		<label>0</label>
+		<organization>Chinese Academy of Science, Beijing 100085, China</organization>
+	</publication>
+	<publication>
+		<title>Action Recognition in Broadcast Tennis Video</title>
+		<year>2006</year>
+		<authors>Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>349674</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>A covariance-based method for dynamic background subtraction</title>
+		<year>2008</year>
+		<authors>Shengping Zhang,Hongxun Yao,Shaohui Liu,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>349796</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>V-LGBP: Volume based local Gabor binary patterns for face representation and recognition</title>
+		<year>2008</year>
+		<authors>Shufu Xie,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>349858</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., CAS, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Human reappearance detection based on on-line learning</title>
+		<year>2008</year>
+		<authors>Lei Hu,Yizhou Wang,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>349973</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Matching images more efficiently with local descriptors</title>
+		<year>2008</year>
+		<authors>Dong Zhang,Weiqiang Wang,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350000</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical background subtraction using local pixel clustering</title>
+		<year>2008</year>
+		<authors>Bineng Zhong,Hongxun Yao,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350077</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Hallucinating facial images and features</title>
+		<year>2008</year>
+		<authors>Bo Li,Hong Chang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350316</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Effective scene matching with local feature representatives</title>
+		<year>2008</year>
+		<authors>Shugao Ma,Weiqiang Wang,Qingming Huang,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350347</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Symmetric segment-based stereo matching of motion blurred images with illumination variations</title>
+		<year>2008</year>
+		<authors>Wei Wang,Yizhou Wang,Longshe Huo,Qingming Huang,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350412</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Parzen Discriminant Analysis</title>
+		<year>2008</year>
+		<authors>Youhan Fang,Shiguang Shan,Hong Chang,Xilin Chen,Wen Gao</authors>
+		<jconf>ICPR</jconf>
+		<id>350458</id>
+		<label>0</label>
+		<organization>Grad. Univ. of Chinese Acad. of Sci.(CAS), Beijing</organization>
+	</publication>
+	<publication>
+		<title>Independent Hand Gesture Recognition in HandTalker</title>
+		<year>1995</year>
+		<authors>Wen Gao,Shuanglin Wang</authors>
+		<jconf>ICSC</jconf>
+		<id>360998</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context-Based Classification for Link Data</title>
+		<year>2004</year>
+		<authors>YongHong Tian,Wen Gao,Tiejun Huang</authors>
+		<jconf>ICWL</jconf>
+		<id>369731</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Illumination Invariant Shot Boundary Detection</title>
+		<year>2003</year>
+		<authors>Laiyun Qing,Weiqiang Wang,Wen Gao</authors>
+		<jconf>IDEAL</jconf>
+		<id>372243</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>News Content Highlight via Fast Caption Text Detection on Compressed Video</title>
+		<year>2000</year>
+		<authors>Weiqiang Wang,Wen Gao,Jintao Li,Shouxun Lin</authors>
+		<jconf>IDEAL</jconf>
+		<id>372358</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Objectionable Image Recognition System in Compression Domain</title>
+		<year>2003</year>
+		<authors>Qixiang Ye,Wen Gao,Wei Zeng,Tao Zhang,Weiqiang Wang,Yang Liu</authors>
+		<jconf>IDEAL</jconf>
+		<id>372398</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning and Memory of Spatial Relationship by a Neural Network with Sparse Features</title>
+		<year>2007</year>
+		<authors>Jun Miao,Lijuan Duan,Laiyun Qing,Wen Gao,Yiqiang Chen</authors>
+		<jconf>IJCNN</jconf>
+		<id>392726</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Visual Perceiving and Eyeball-Motion Controlling Neural Network for Object Searching and Locating</title>
+		<year>2006</year>
+		<authors>Jun Miao,Xilin Chen,Wen Gao,Yiqiang Chen</authors>
+		<jconf>IJCNN</jconf>
+		<id>393348</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Visual context representation using a combination of feature-driven and object-driven mechanisms</title>
+		<year>2008</year>
+		<authors>Jun Miao,Lijuan Duan,Laiyun Qing,Xilin Chen,Wen Gao</authors>
+		<jconf>IJCNN</jconf>
+		<id>394220</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing</title>
+		<year>1999</year>
+		<authors>Xicheng Liu,Timothy J. Li,Wen Gao</authors>
+		<jconf>IPPS/SPDP</jconf>
+		<id>409914</id>
+		<label>0</label>
+		<organization>NCIC Joint R D Lab., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>A proactive fault-detection mechanism in large-scale cluster systems</title>
+		<year>2006</year>
+		<authors>Linping Wu,Dan Meng,Wen Gao,Jianfeng Zhan</authors>
+		<jconf>IPDPS</jconf>
+		<id>411853</id>
+		<label>6</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Real-time scheduling on scalable media stream delivery</title>
+		<year>2003</year>
+		<authors>Kui Gao,Wen Gao,Simin He,Peng Gao,Yuan Zhang</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>421260</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Enhanced direct mode coding for bi-predictive pictures</title>
+		<year>2004</year>
+		<authors>Xiangyang Ji,Yan Lu,Debin Zhao,Wen Gao,Siwei Ma</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>421840</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Linear transform based motion compensated prediction for luminance intensity changes</title>
+		<year>2005</year>
+		<authors>Debing Liu,Yuwen He,Shipeng Li,Qingming Huang,Wen Gao</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>422626</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Rate control for advance video coding (AVC) standard</title>
+		<year>2003</year>
+		<authors>Siwei Ma,Wen Gao,Peng Gao,Yan Lu</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>422686</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A regularized simultaneous autoregressive model for texture classification</title>
+		<year>2003</year>
+		<authors>Yao-wei Wang,Yan-fei Wang,Wen Gao,Yong Xue</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>424720</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>The fast close-loop video transcoder with limited drifting error</title>
+		<year>2004</year>
+		<authors>Lujun Yuan,Feng Wu,Qi Chen,Shipeng Li,Wen Gao</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>425090</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic moving object extraction in MPEG video</title>
+		<year>2003</year>
+		<authors>Wei Zeng,Wen Gao,Debin Zhao</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>425169</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A robust watermarking method based on wavelet and Zernike transform</title>
+		<year>2004</year>
+		<authors>Jie Chen,Hongxun Yao,Wen Gao,Shaohui Liu</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>427262</id>
+		<label>0</label>
+		<organization>Comput. Coll., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A texture-based tamper detection scheme by fragile watermark</title>
+		<year>2004</year>
+		<authors>Yazhou Liu,Wen Gao,Hongxun Yao,Shaohui Liu</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>427401</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Seamless switching of scalable video bitstreams for efficient streaming</title>
+		<year>2002</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>427735</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>High-Accuracy and Low-Complexity Fixed-Point Inverse Discrete Cosine Transform Based on AAN's Fast Algortihm</title>
+		<year>2007</year>
+		<authors>Honggang Qi,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>428269</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci.</organization>
+	</publication>
+	<publication>
+		<title>Macroblock-Level Adaptive Scan Scheme for Discrete Cosine Transform Coefficients</title>
+		<year>2007</year>
+		<authors>Li Zhang,Wen Gao,Qiang Wang,Debin Zhao</authors>
+		<jconf>ISCAS</jconf>
+		<id>428693</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Distributed Video Coding with Spatial Correlation Exploited Only at the Decoder</title>
+		<year>2007</year>
+		<authors>Mei Guo,Yan Lu,Feng Wu,Shipeng Li,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>428724</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Macroblock-level Reduced Resolution Video Coding Allowing Adaptive DCT Coefficients Selection</title>
+		<year>2007</year>
+		<authors>Qiang Hao,Xiangyang Ji,Qingming Huang,Debin Zhao,Wen Gao,Xilin Chen</authors>
+		<jconf>ISCAS</jconf>
+		<id>428907</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Context-based Arithmetic Coding Reexamined for DCT Video Compression</title>
+		<year>2007</year>
+		<authors>Li Zhang,Xiaolin Wu,Ning Zhang,Wen Gao,Qiang Wang,Debin Zhao</authors>
+		<jconf>ISCAS</jconf>
+		<id>428940</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Low-delay View Random Access for Multi-view Video Coding</title>
+		<year>2007</year>
+		<authors>Yanwei Liu,Qingming Huang,Debin Zhao,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>429172</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Rate Control for Hierarchical B-picture Coding with Scaling-factors</title>
+		<year>2007</year>
+		<authors>Long Xu,Wen Gao,Xiangyang Ji,Debin Zhao</authors>
+		<jconf>ISCAS</jconf>
+		<id>429213</id>
+		<label>0</label>
+		<organization>Graduate Sch. of Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Accurately weighting subbands in temporal wavelet transform</title>
+		<year>2006</year>
+		<authors>Tiantian Sun,Feng Wu,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>429919</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci.</organization>
+	</publication>
+	<publication>
+		<title>An efficient SNR scalability coding framework hybrid open-close loop FGS coding</title>
+		<year>2006</year>
+		<authors>Xiangyang Ji,Debin Zhao,Wen Gao,Jizheng Xu,Feng Wu</authors>
+		<jconf>ISCAS</jconf>
+		<id>430028</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Distributed video coding using wavelet</title>
+		<year>2006</year>
+		<authors>Xun Guo,Yan Lu,Feng Wu,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>430457</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Shot change detection on H.264/AVC compressed video</title>
+		<year>2005</year>
+		<authors>Wei Zeng,Wen Gao</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>430765</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Viewpoint switching in multiview video streaming</title>
+		<year>2005</year>
+		<authors>Xun Guo,Yan Lu,Wen Gao,Qingming Huang</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>430846</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A novel algorithm of spatial scalability for scrambled video</title>
+		<year>2005</year>
+		<authors>YuanZhi Zou,Wen Gao</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>430879</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC</title>
+		<year>2005</year>
+		<authors>Qiang Wang,Debin Zhao,Wen Gao,Siwei Ma</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>430904</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Wavelet based distributed video coding with spatial scalability</title>
+		<year>2008</year>
+		<authors>Bo Wu,Xiangyang Ji,Debin Zhao,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>431144</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An efficient VLSI architecture for rate disdortion optimization in AVS video encoder</title>
+		<year>2008</year>
+		<authors>Hai Bing Yin,Xi Zhong Lou,Zhe Lei Xia,Wen Gao</authors>
+		<jconf>ISCAS</jconf>
+		<id>431612</id>
+		<label>8</label>
+		<organization>Dept. of Electron. Inf., China Jiliang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Research on the Discrimination of Pornographic and Bikini Images</title>
+		<year>2005</year>
+		<authors>Yushi Wang,Weiqiang Wang,Wen Gao</authors>
+		<jconf>ISM</jconf>
+		<id>437528</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Protein 3D Structure Retrieval System</title>
+		<year>2003</year>
+		<authors>Yiqiang Chen,Wen Gao,Lijuan Duan,Xiang Chen,Charles X. Ling</authors>
+		<jconf>ISMIS</jconf>
+		<id>439869</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced Active Shape Models with Global Texture Constraints for Image Analysis</title>
+		<year>2003</year>
+		<authors>Shiguang Shan,Wen Gao,Wei Wang,Debin Zhao,Baocai Yin</authors>
+		<jconf>ISMIS</jconf>
+		<id>440351</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Searching Eye Centers Using a Context-Based Neural Network</title>
+		<year>2007</year>
+		<authors>Jun Miao,Laiyun Qing,Lijuan Duan,Wen Gao</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443636</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Steganalysis of Data Hiding Techniques in Wavelet Domain</title>
+		<year>2004</year>
+		<authors>Shaohui Liu,Hongxun Yao,Wen Gao</authors>
+		<jconf>ITCC (1)</jconf>
+		<id>457017</id>
+		<label>0</label>
+		<organization>Comput. Coll., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Watermark Detection Schemes with High Security</title>
+		<year>2005</year>
+		<authors>Yongliang Liu,Xiaolin Yang,Hongxun Yao,Tiejun Huang,Wen Gao</authors>
+		<jconf>ITCC (2)</jconf>
+		<id>457019</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Enhance ASMs Based on AdaBoost-Based Salient Landmarks Localization and Confidence-Constraint Shape Modeling</title>
+		<year>2005</year>
+		<authors>Zhiheng Niu,Shiguang Shan,Xilin Chen,Bingpeng Ma,Wen Gao</authors>
+		<jconf>IWBRS</jconf>
+		<id>463249</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Score Normalization to Solve the Score Variation Problem in Face Authentication</title>
+		<year>2005</year>
+		<authors>Fei Yang,Shiguang Shan,Bingpeng Ma,Xilin Chen,Wen Gao</authors>
+		<jconf>IWBRS</jconf>
+		<id>463260</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient VLSI Implementation of MC Interpolation for MPEG-4</title>
+		<year>2004</year>
+		<authors>Deng Lei,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji</authors>
+		<jconf>IWSOC</jconf>
+		<id>466393</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Different cultures meet: lessons learned in global digital library development (panel session)</title>
+		<year>2001</year>
+		<authors>Ching Chen,Wen Gao,Hsueh-hua Chen,Li-Zhu Zhou,Von-Wun Soo</authors>
+		<jconf>JCDL</jconf>
+		<id>467358</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward a distributed terabyte text retrieval system in China-US million book digital library</title>
+		<year>2002</year>
+		<authors>Bin Liu,Wen Gao,Ling Zhang,Tiejun Huang,Xiao-ming Zhang,Jun Cheng</authors>
+		<jconf>JCDL</jconf>
+		<id>467602</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>Quantitatively evaluating the influence of online social interactions in the community-assisted digital library</title>
+		<year>2002</year>
+		<authors>YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>JCDL</jconf>
+		<id>467921</id>
+		<label>0</label>
+		<organization>Graduate School of Chinese Academy of Sciences, Beijing, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Method to Compensate Variety of Illumination in Face Detection</title>
+		<year>2002</year>
+		<authors>Hong Liu,Wen Gao,Jun Miao,Jintao Li</authors>
+		<jconf>JCIS</jconf>
+		<id>468351</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>System Identification for Nonlinear Control Using Lifted Wavelet</title>
+		<year>2002</year>
+		<authors>Yongliang Liu,Hongxun Yao,Wen Gao,Yaxiao Song,Shaohui Liu</authors>
+		<jconf>JCIS</jconf>
+		<id>468463</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mouth-Shape Classification and Recognition for Lipreading</title>
+		<year>2002</year>
+		<authors>Hongxun Yao,Wen Gao,Wei Shan,Xiujuan Chai</authors>
+		<jconf>JCIS</jconf>
+		<id>468479</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Prosodic Patterns for Mandarin Speech Synthesis</title>
+		<year>2000</year>
+		<authors>Yiqiang Chen,Wen Gao,Tingshao Zhu</authors>
+		<jconf>MDM/KDD</jconf>
+		<id>472586</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new method to segment playfield and its applications in match analysis in sports video</title>
+		<year>2004</year>
+		<authors>Shuqiang Jiang,Qixiang Ye,Wen Gao,Tiejun Huang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502400</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing and Graduate School of Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Video2Cartoon: generating 3D cartoon from broadcast soccer video</title>
+		<year>2005</year>
+		<authors>Dawei Liang,Yang Liu,Qingming Huang,Guangyu Zhu,Shuqiang Jiang,Zhebin Zhang,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502576</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, China and Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Exciting event detection in broadcast soccer video with mid-level description and incremental learning</title>
+		<year>2005</year>
+		<authors>Qixiang Ye,Qingming Huang,Wen Gao,Shuqiang Jiang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503175</id>
+		<label>0</label>
+		<organization>Graduate School of Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical voting classification scheme for improving visual sign language recognition</title>
+		<year>2005</year>
+		<authors>Liang-Guo Zhang,Xilin Chen,Chunli Wang,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503210</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China and Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Effective and efficient object-based image retrieval using visual phrases</title>
+		<year>2006</year>
+		<authors>Qing-Fang Zheng,Wei-Qiang Wang,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503271</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Mapping learning in eigenspace for harmonious caricature generation</title>
+		<year>2006</year>
+		<authors>Junfa Liu,Yiqiang Chen,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503370</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Diversifying the image retrieval results</title>
+		<year>2006</year>
+		<authors>Kai Song,YongHong Tian,Wen Gao,Tiejun Huang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503501</id>
+		<label>0</label>
+		<organization>Chinese Academy of Science & Peking University</organization>
+	</publication>
+	<publication>
+		<title>Player action recognition in broadcast tennis video with applications to semantic analysis of sports game</title>
+		<year>2006</year>
+		<authors>Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao,Liyuan Xing</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503507</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology. Harbin, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Trajectory based event tactics analysis in broadcast sports video</title>
+		<year>2007</year>
+		<authors>Guangyu Zhu,Qingming Huang,Changsheng Xu,Yong Rui,Shuqiang Jiang,Wen Gao,Hongxun Yao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503524</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Region-based visual attention analysis with its application in image browsing on small displays</title>
+		<year>2007</year>
+		<authors>Huiying Liu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503557</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China & Peking University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>i.MTV: an integrated system for mtv affective analysis</title>
+		<year>2008</year>
+		<authors>Shiliang Zhang,Qingming Huang,Qi Tian,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503825</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences and Peking University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Sports video analysis</title>
+		<year>2006</year>
+		<authors>Wen Gao</authors>
+		<jconf>MMM</jconf>
+		<id>504599</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Semi-supervised Learning of Caricature Pattern from Manifold Regularization</title>
+		<year>2009</year>
+		<authors>Junfa Liu,Yiqiang Chen,Jinjing Xie,Xingyu Gao,Wen Gao</authors>
+		<jconf>MMM</jconf>
+		<id>505045</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100190 and Institute of Digital Media, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>A New Multiple Kernel Approach for Visual Concept Learning</title>
+		<year>2009</year>
+		<authors>Jingjing Yang,Yuanning Li,YongHong Tian,Lingyu Duan,Wen Gao</authors>
+		<jconf>MMM</jconf>
+		<id>505066</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080 and Graduate School, Chinese Academy of Sciences, Beijing, China 100039 and The Institute of Digital Media, School of EE & CS, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>A Human Face Detection and Tracking System for Complex Backgrounds</title>
+		<year>1996</year>
+		<authors>Mingbao Liu,Wen Gao</authors>
+		<jconf>Multimedia Technology and Applications</jconf>
+		<id>510079</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Open Issues on Intelligent Sensor Networks</title>
+		<year>2004</year>
+		<authors>Yiqiang Chen,Wen Gao,Junfa Liu</authors>
+		<jconf>NPC</jconf>
+		<id>519818</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BLOSSOMS: A CAS/HKUST Joint Project to Build Lightweight Optimized Sensor Systems on a Massive Scale</title>
+		<year>2004</year>
+		<authors>Wen Gao,Lionel M. Ni,Zhiwei Xu</authors>
+		<jconf>NPC</jconf>
+		<id>519860</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Correlation Learning Method Based on Image Internal Semantic Model for CBIR</title>
+		<year>2004</year>
+		<authors>Lijuan Duan,Guojun Mao,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531235</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Samples Re-lighting for Detection Based on the Harmonic Images</title>
+		<year>2004</year>
+		<authors>Jie Chen,Yuemin Li,Laiyun Qing,Baocai Yin,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531247</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient VLSI Implementation for MC Interpolation of AVS Standard</title>
+		<year>2004</year>
+		<authors>Lei Deng,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji</authors>
+		<jconf>PCM (3)</jconf>
+		<id>531348</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Speech Driven MPEG-4 Based Face Animation via Neural Network</title>
+		<year>2001</year>
+		<authors>Yiqiang Chen,Wen Gao,Zhaoqi Wang,Li Zuo</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531364</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fusion of Biometrics Based on D-S Theory</title>
+		<year>2001</year>
+		<authors>Xiujuan Gao,Hongxun Yao,Wen Gao,Wei Zeng</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531394</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing Spatial Resolution for MPEG-2 to H.264/AVC Transcoding</title>
+		<year>2005</year>
+		<authors>Bo Hu,Peng Zhang,Qingming Huang,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531477</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Real-Time Video Deinterlacing Scheme for MPEG-2 to AVS Transcoding</title>
+		<year>2006</year>
+		<authors>Qian Huang,Wen Gao,Debin Zhao,Cliff Reader</authors>
+		<jconf>PCM</jconf>
+		<id>531493</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Deinterlacing for Real-Time Applications</title>
+		<year>2005</year>
+		<authors>Qian Huang,Wen Gao,Debin Zhao,Huifang Sun</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Broadcast Model for Web Image Annotation</title>
+		<year>2006</year>
+		<authors>Jia Li,Ting Liu,Weiqiang Wang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>531657</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Robust Approach for Object Recognition</title>
+		<year>2006</year>
+		<authors>Yuanning Li,Weiqiang Wang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>531674</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Selection of Discriminative Features Using Bayes Error Rate for Visual Tracking</title>
+		<year>2006</year>
+		<authors>Dawei Liang,Qingming Huang,Wen Gao,Hongxun Yao</authors>
+		<jconf>PCM</jconf>
+		<id>531687</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Scheme for Ball Detection and Tracking in Broadcast Soccer Video</title>
+		<year>2005</year>
+		<authors>Dawei Liang,Yang Liu,Qingming Huang,Wen Gao</authors>
+		<jconf>PCM (1)</jconf>
+		<id>531688</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classification of Facial Images Using Gaussian Mixture Models</title>
+		<year>2001</year>
+		<authors>Pin Liao,Wen Gao,Li Shen,Xilin Chen,Shiguang Shan,Wenbing Zeng</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531691</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Creative Cartoon Face Synthesis System for Mobile Entertainment</title>
+		<year>2005</year>
+		<authors>Junfa Liu,Yiqiang Chen,Wen Gao,Rong Fu,Renqin Zhou</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531710</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-view Video Coding with Flexible View-Temporal Prediction Structure for Fast Random Access</title>
+		<year>2006</year>
+		<authors>Yanwei Liu,Qingming Huang,Xiangyang Ji,Debin Zhao,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>531715</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Illumination Invariant Feature Selection for Face Recognition</title>
+		<year>2005</year>
+		<authors>Yazhou Liu,Hongxun Yao,Wen Gao,Debin Zhao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>531726</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Motion Vector Prediction Scheme for Video Coding</title>
+		<year>2006</year>
+		<authors>Da Liu,Debin Zhao,Qiang Wang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>531734</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast and Robust Sprite Generation for MPEG-4 Video Coding</title>
+		<year>2001</year>
+		<authors>Yan Lu,Wen Gao,Feng Wu</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531740</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study on the Quantization Scheme in H.264/AVC and Its Application to Rate Control</title>
+		<year>2004</year>
+		<authors>Siwei Ma,Wen Gao,Debin Zhao,Yan Lu</authors>
+		<jconf>PCM (3)</jconf>
+		<id>531750</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Background Detection in Video</title>
+		<year>2002</year>
+		<authors>Laiyun Qing,Weiqiang Wang,Tiejun Huang,Wen Gao</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531857</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Face-Unlock Screen Saver by Using Face Verification Based on Identity-Specific Subspaces</title>
+		<year>2001</year>
+		<authors>Shiguang Shan,Wen Gao,Xilin Chen,Bo Cao,Wenbin Zeng</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531903</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Segmentation of News Items Based on Video and Audio Features</title>
+		<year>2001</year>
+		<authors>Weiqiang Wang,Wen Gao</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531959</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fast Anchor Shot Detection Algorithm on Compressed Video</title>
+		<year>2001</year>
+		<authors>Weiqiang Wang,Wen Gao</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531961</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Index Model for MPEG-2 Streams</title>
+		<year>2002</year>
+		<authors>Weiqiang Wang,Wen Gao</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531963</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Real-Time Large Vocabulary Continuous Recognition System for Chinese Sign Language</title>
+		<year>2001</year>
+		<authors>Chunli Wang,Wen Gao,Zhaoguo Xuan</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531965</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flexible and Efficient Switching Techniques between Scalable Video Bitstreams</title>
+		<year>2002</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531986</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mapping Energy Video Watermarking Algorithm Based on Compressed Domain</title>
+		<year>2004</year>
+		<authors>Lijun Wang,Hongxun Yao,Shaohui Liu,Wen Gao</authors>
+		<jconf>PCM (3)</jconf>
+		<id>531999</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Efficient Context-Based Variable Length Coding with Parallel Orientation</title>
+		<year>2005</year>
+		<authors>Qiang Wang,Debin Zhao,Wen Gao,Siwei Ma</authors>
+		<jconf>PCM (1)</jconf>
+		<id>532001</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximating Inference on Complex Motion Models Using Multi-model Particle Filter</title>
+		<year>2004</year>
+		<authors>Jianyu Wang,Debin Zhao,Shiguang Shan,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>532002</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Vision-Based Sign Language Recognition Using Sign-Wise Tied Mixture HMM</title>
+		<year>2004</year>
+		<authors>Liangguo Zhang,Gaolin Fang,Wen Gao,Xilin Chen,Yiqiang Chen</authors>
+		<jconf>PCM (2)</jconf>
+		<id>532072</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Key Techniques of Bit Rate Reduction for H.264 Streams</title>
+		<year>2004</year>
+		<authors>Peng Zhang,Qingming Huang,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>532078</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Search Range Scaling for B Pictures Coding</title>
+		<year>2006</year>
+		<authors>Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao</authors>
+		<jconf>PCM</jconf>
+		<id>532079</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimum End-to-End Distortion Estimation for Error Resilient Video Coding</title>
+		<year>2004</year>
+		<authors>Yuan Zhang,Qingming Huang,Yan Lu,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>532080</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video Coding by Texture Analysis and Synthesis Using Graph Cut</title>
+		<year>2006</year>
+		<authors>Yongbing Zhang,Xiangyang Ji,Debin Zhao,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532082</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LLEC: An Image Coder with Low-Complexity and Low-Memory Requirement</title>
+		<year>2001</year>
+		<authors>Debin Zhao,Wen Gao,Shiguang Shan,Y. K. Chan</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>532116</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast Adaptive Skin Detection in JPEG Images</title>
+		<year>2005</year>
+		<authors>Qing-Fang Zheng,Wen Gao</authors>
+		<jconf>PCM (2)</jconf>
+		<id>532124</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Motion Vector Predictor Architecture for AVS and MPEG-2 HDTV Decoder</title>
+		<year>2006</year>
+		<authors>Junhao Zheng,Di Wu,Lei Deng,Don Xie,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532126</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Secure Watermark Verification Scheme</title>
+		<year>2002</year>
+		<authors>Yongliang Liu,Wen Gao,Hongxun Yao,Yaxiao Song</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>532133</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Text Segmentation in Complex Background Based on Color and Scale Information of Character Strokes</title>
+		<year>2007</year>
+		<authors>Weiqiang Wang,Libo Fu,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532191</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Personalized MTV Affective Analysis Using User Profile</title>
+		<year>2008</year>
+		<authors>Shiliang Zhang,Qingming Huang,Qi Tian,Shuqiang Jiang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532208</id>
+		<label>0</label>
+		<organization>Key Lab of Intell. Info. Process., Inst. of Comput. Tech., Chinese Academy of Sciences, Beijing, China 100080</organization>
+	</publication>
+	<publication>
+		<title>A Novel Pipeline Design for H.264 CABAC Decoding</title>
+		<year>2007</year>
+		<authors>Junhao Zheng,David Wu,Don Xie,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532215</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Signer Adaptation Based on Etyma for Large Vocabulary Chinese Sign Language Recognition</title>
+		<year>2007</year>
+		<authors>Yu Zhou,Wen Gao,Xilin Chen,Liang-Guo Zhang,Chunli Wang</authors>
+		<jconf>PCM</jconf>
+		<id>532217</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A No-Reference Blocking Artifacts Metric Using Selective Gradient and Plainness Measures</title>
+		<year>2008</year>
+		<authors>Jianhua Chen,Yongbing Zhang,Luhong Liang,Siwei Ma,Ronggang Wang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532224</id>
+		<label>0</label>
+		<organization>Graduate University of Chinese Academy of Sciences, Beijing, P. R China 100039 and Inst. of Comput. Tech., Chinese Academy of Sciences, Beijing, P.R. China 100190 and Peking University, P.R China 100872</organization>
+	</publication>
+	<publication>
+		<title>Detecting Violent Scenes in Movies by Auditory and Visual Cues</title>
+		<year>2008</year>
+		<authors>Yu Gong,Weiqiang Wang,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532228</id>
+		<label>0</label>
+		<organization>Graduate School of Chinese Academy of Sciences, Beijing, China 100190 and Institute of Digital Media, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>Laplacian Distortion Model (LDM) for Rate Control in Video Coding</title>
+		<year>2007</year>
+		<authors>Long Xu,Xiangyang Ji,Wen Gao,Debin Zhao</authors>
+		<jconf>PCM</jconf>
+		<id>532232</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An End-to-End Application System of AVS: AVS-IPTV in China</title>
+		<year>2007</year>
+		<authors>Wen Gao,Siwei Ma,Cliff Reader</authors>
+		<jconf>PCM</jconf>
+		<id>532262</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An AVS Based IPTV System Network Trial</title>
+		<year>2007</year>
+		<authors>Zhifeng Jiang,Wen Gao,Hongqi Liu</authors>
+		<jconf>PCM</jconf>
+		<id>532275</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning-Based Image Restoration for Compressed Image through Neighboring Embedding</title>
+		<year>2008</year>
+		<authors>Lin Ma,Feng Wu,Debin Zhao,Wen Gao,Siwei Ma</authors>
+		<jconf>PCM</jconf>
+		<id>532345</id>
+		<label>0</label>
+		<organization>School of Computer Scinence and Technology, Harbin Institure of Technology, Harbin, P. R. China 150001 and School of Electronics Engineering and Computer Science, Peking University, Beijing, P. R. China 100080</organization>
+	</publication>
+	<publication>
+		<title>AAML Based Avatar Animation with Personalized Expression for Online Chatting System</title>
+		<year>2008</year>
+		<authors>Junfa Liu,Yiqiang Chen,Xingyu Gao,Jinjing Xie,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532350</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100190 and Institute of Digital Media, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>Theoretic Analysis of Inter Frame Dependency in Video Coding</title>
+		<year>2008</year>
+		<authors>Yue Wang,Jun Sun,Siwei Ma,Wen Gao</authors>
+		<jconf>PCM</jconf>
+		<id>532355</id>
+		<label>0</label>
+		<organization>Institute of Digital Media, School of Electronic Engineering and Computer Science, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>NCPN: A Simulation Tool for Coloured Petri Nets</title>
+		<year>2002</year>
+		<authors>Xinyu Liu,Wen Gao,Ninghui Sun</authors>
+		<jconf>IASTED PDCS</jconf>
+		<id>533498</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Kernel-Based Case Retrieval Algorithm with Application to Bioinformatics</title>
+		<year>2004</year>
+		<authors>Yan Fu,Qiang Yang,Charles X. Ling,Haipeng Wang,Dequan Li,Ruixiang Sun,Hu Zhou,Rong Zeng,Yiqiang Chen,Simin He,Wen Gao</authors>
+		<jconf>PRICAI</jconf>
+		<id>551392</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An SVM Scorer for More Sensitive and Reliable Peptide Identification via Tandem Mass Spectrometry</title>
+		<year>2006</year>
+		<authors>Haipeng Wang,Yan Fu,Ruixiang Sun,Simin He,Rong Zeng,Wen Gao</authors>
+		<jconf>Pacific Symposium on Biocomputing</jconf>
+		<id>554464</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Tandem Mass Spectral Data to Develop a More Accurate Mass Error Model for Peptide Identification</title>
+		<year>2007</year>
+		<authors>Yan Fu,Wen Gao,Simin He,Ruixiang Sun,Hu Zhou,Rong Zeng</authors>
+		<jconf>Pacific Symposium on Biocomputing</jconf>
+		<id>554538</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Discretization of Continuous Attributes Based on Compatibility Rough Set and Generic Algorithm</title>
+		<year>1999</year>
+		<authors>Lixin Sun,Wen Gao</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>562000</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Smooth switching problem in buffered crossbar switches</title>
+		<year>2005</year>
+		<authors>Simin He,Shutao Sun,Wei Zhao,Yanfeng Zheng,Wen Gao</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>597173</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Baseline Evaluations on the CAS-PEAL-R1 Face Database</title>
+		<year>2004</year>
+		<authors>Bo Cao,Shiguang Shan,Xiaohua Zhang,Wen Gao</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>603968</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Component-Based Cascade Linear Discriminant Analysis for Face Recognition</title>
+		<year>2004</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>603969</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pose Normalization Using Generic 3D Face Model as a Priori for Pose-Insensitive Face Recognition</title>
+		<year>2004</year>
+		<authors>Xiujuan Chai,Shiguang Shan,Wen Gao,Xin Liu</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>603972</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Novel Face Detection Method Based on Gabor Features</title>
+		<year>2004</year>
+		<authors>Jie Chen,Shiguang Shan,Peng Yang,Shengye Yan,Xilin Chen,Wen Gao</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>603976</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Recognition Under Varying Lighting Based on Derivates of Log Image</title>
+		<year>2004</year>
+		<authors>Laiyun Qing,Shiguang Shan,Wen Gao</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>604009</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Overview of Streaming Video</title>
+		<year>2004</year>
+		<authors>Yongliang Liu,Wen Gao</authors>
+		<jconf>SNPD</jconf>
+		<id>608807</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-time scheduling and online resource allocation on scalable streaming media server</title>
+		<year>2003</year>
+		<authors>Kui Gao,Wen Gao,Simin He,Yuan Zhang</authors>
+		<jconf>VCIP</jconf>
+		<id>637328</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Rich Get Richer Strategy for Content-Based Image Retrieval</title>
+		<year>2000</year>
+		<authors>Lijuan Duan,Wen Gao,Jiyong Ma</authors>
+		<jconf>VISUAL</jconf>
+		<id>639226</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Steganalysis of Images Created in Wavelet Domain Using Quantization Modulation</title>
+		<year>2003</year>
+		<authors>Shaohui Liu,Hongxun Yao,Xiaopen Fan,Wen Gao</authors>
+		<jconf>WAA</jconf>
+		<id>650302</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fast Globally Supervised Learning Algorithm for Gaussian Mixture Models</title>
+		<year>2000</year>
+		<authors>Jiyong Ma,Wen Gao</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<id>651923</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Online Retail Web Site Based on Hidden Markov Model</title>
+		<year>2000</year>
+		<authors>Shi Wang,Wen Gao,Tiejun Huang,Jiyong Ma,Jintao Li,Hui Xie</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<id>652082</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Clustering and Association Rule Discovery for Web Broadcast</title>
+		<year>2000</year>
+		<authors>Shi Wang,Wen Gao,Jintao Li,Tiejun Huang,Hui Xie</authors>
+		<jconf>Web-Age Information Management</jconf>
+		<id>652084</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IISM: An Image Internal Semantic Model for Image Database Based on Relevance Feedback</title>
+		<year>2003</year>
+		<authors>Lijuan Duan,Wen Gao</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>654765</id>
+		<label>0</label>
+		<organization>The Coll. of Comput. Sci., Beijing Univ. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>An Ontology-based Approach to Retrieve Digitized Art Images</title>
+		<year>2004</year>
+		<authors>Shuqiang Jiang,Tiejun Huang,Wen Gao</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>654926</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Two-Phase Web Site Classification Based on Hidden Markov Tree Models</title>
+		<year>2003</year>
+		<authors>YongHong Tian,Tiejun Huang,Wen Gao,Jun Cheng,PingBo Kang</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655136</id>
+		<label>0</label>
+		<organization>Digital Media Lab., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Motion Retargeting for the Hand Gesture</title>
+		<year>2005</year>
+		<authors>Chunbao Ge,Yiqiang Chen,Changshui Yang,Baocai Yin,Wen Gao</authors>
+		<jconf>WSCG (Full Papers)</jconf>
+		<id>672660</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelized scheduling algorithm for input queued switches using local search technique</title>
+		<year>2005</year>
+		<authors>Yanfeng Zheng,Simin He,Shutao Sun,Wen Gao</authors>
+		<jconf>IPCCC</jconf>
+		<id>693182</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>FBSA: A Self-adjustable Multi-source Data Scheduling Algorithm for P2P Media Streaming</title>
+		<year>2007</year>
+		<authors>Shuangjia Chen,Longshe Huo,Qiang Fu,Rui Guo,Wen Gao</authors>
+		<jconf>MCAM</jconf>
+		<id>695827</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges on Peer-to-Peer Live Media Streaming</title>
+		<year>2007</year>
+		<authors>Wen Gao,Longshe Huo</authors>
+		<jconf>MCAM</jconf>
+		<id>695833</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Optimized Topology Maintenance Framework for P2P Media Streaming</title>
+		<year>2007</year>
+		<authors>Rui Guo,Longshe Huo,Qiang Fu,Shuangjia Chen,Wen Gao</authors>
+		<jconf>MCAM</jconf>
+		<id>695834</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>QoS Adaptive Data Organizing and Delivery Framework for P2P Media Streaming</title>
+		<year>2007</year>
+		<authors>Longshe Huo,Wen Gao,Qiang Fu,Rui Guo,Shuangjia Chen</authors>
+		<jconf>MCAM</jconf>
+		<id>695842</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Practical Algorithms of Bandwidth Regulation for Rate-Based Switching</title>
+		<year>2007</year>
+		<authors>Yi Wang,Simin He,Youjian Zhao,Qiang Zheng,Wen Gao</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704684</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Spectrum Sensing Using Cyclostationary Properties and Application to IEEE 802.22 WRAN</title>
+		<year>2007</year>
+		<authors>Hou-Shin Chen,Wen Gao,David G. Daut</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704816</id>
+		<label>4</label>
+		<organization>Rutgers Univ., Piscataway</organization>
+	</publication>
+	<publication>
+		<title>Fast Identification of Error-Prone Patterns for LDPC Codes under Message Passing Decoding</title>
+		<year>2008</year>
+		<authors>Jing Lei,Wen Gao</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705688</id>
+		<label>4</label>
+		<organization>WINLAB, Rutgers Univ., North Brunswick, NJ</organization>
+	</publication>
+	<publication>
+		<title>Application Research of Design Patterns in Virtual Trade Platform</title>
+		<year>2009</year>
+		<authors>QingSheng Wang,Wen Gao,YueQin Zhang</authors>
+		<jconf>WKDD</jconf>
+		<id>713366</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HandTalker II: a Chinese sign language recognition and synthesis system</title>
+		<year>2004</year>
+		<authors>Wen Gao,Yiqiang Chen,Gaolin Fang,Changshui Yang,Dalong Jiang,Chunbao Ge,Chunli Wang</authors>
+		<jconf>ICARCV</jconf>
+		<id>733760</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry</title>
+		<year>2004</year>
+		<authors>Yan Fu,Qiang Yang,Ruixiang Sun,Dequan Li,Rong Zeng,Charles X. Ling,Wen Gao</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>763759</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China,</organization>
+	</publication>
+	<publication>
+		<title>pFind: a novel database-searching software system for automated peptide and protein identification via tandem mass spectrometry</title>
+		<year>2005</year>
+		<authors>Dequan Li,Yan Fu,Ruixiang Sun,Charles X. Ling,Yonggang Wei,Hu Zhou,Rong Zeng,Qiang Yang,Simin He,Wen Gao</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>764806</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>IndexToolkit: an open source toolbox to index protein databases for high-throughput proteomics</title>
+		<year>2006</year>
+		<authors>Dequan Li,Wen Gao,Charles X. Ling,Xiaobiao Wang,Ruixiang Sun,Simin He</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>766838</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>FlexStem: improving predictions of RNA secondary structures with pseudoknots by reducing the search space</title>
+		<year>2008</year>
+		<authors>Xiang Chen,Simin He,Dongbo Bu,Fa Zhang,Zhiyong Wang,Runsheng Chen,Wen Gao</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767903</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>How Many Users should be Turned On in a Multi-Antenna Broadcast Channel?</title>
+		<year>2008</year>
+		<authors>Wei Dai,Youjian Liu,Brian Rider,Wen Gao</authors>
+		<jconf>CoRR</jconf>
+		<id>827273</id>
+		<label>9</label>
+		<organization>Colorado Univ., Boulder</organization>
+	</publication>
+	<publication>
+		<title>Shape from silhouette outlines using an adaptive dandelion model</title>
+		<year>2007</year>
+		<authors>Xin Liu,Hongxun Yao,Wen Gao</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835585</id>
+		<label>0</label>
+		<organization>School of Computer Science and Technology, Harbin Institute of Technology, Harbin, PR China</organization>
+	</publication>
+	<publication>
+		<title>Viewpoint invariant sign language recognition</title>
+		<year>2007</year>
+		<authors>Qi Wang,Xilin Chen,Liang-Guo Zhang,Chunli Wang,Wen Gao</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835660</id>
+		<label>0</label>
+		<organization>School of Computer Science and Technology, Harbin Institute of Technology, Harbin 150001, China and Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>A framework for flexible summarization of racquet sports video using multiple modalities</title>
+		<year>2009</year>
+		<authors>Chunxi Liu,Qingming Huang,Shuqiang Jiang,Liyuan Xing,Qixiang Ye,Wen Gao</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835774</id>
+		<label>0</label>
+		<organization>Peking University, No. 5, Summer Palace Road, Haidian District, Beijing 100871, PR China</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Recommendation System Based on Log Mining</title>
+		<year>2002</year>
+		<authors>Wen Gao,Shi Wang,Bin Liu</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909045</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A System for Human Face and Facial Feature Location</title>
+		<year>2003</year>
+		<authors>Jun Miao,Hong Liu,Wen Gao,Hongming Zhang,Gang Deng,Xilin Chen</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910335</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Shape-based Adult Image Detection</title>
+		<year>2006</year>
+		<authors>Qing-Fang Zheng,Wei Zeng,Wei-Qiang Wang,Wen Gao</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910461</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Local Gabor Binary Patterns Based on Mutual Information for Face Recognition</title>
+		<year>2007</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910487</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial relationship representation for visual object searching</title>
+		<year>2008</year>
+		<authors>Jun Miao,Lijuan Duan,Laiyun Qing,Wen Gao,Xilin Chen,Yuan Yuan</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>918080</id>
+		<label>0</label>
+		<organization>Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China and Institute for Digital Media, Peking University, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Sign Language Recognition Based on HMM/ANN/DP</title>
+		<year>2000</year>
+		<authors>Wen Gao,Jiyong Ma,Jiangqin Wu,Chunli Wang</authors>
+		<jconf>IJPRAI</jconf>
+		<id>918893</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face recognition under generic illumination based on harmonic relighting</title>
+		<year>2005</year>
+		<authors>Laiyun Qing,Shiguang Shan,Wen Gao,Bo Du</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile Robot Sonar Backscatter Algorithm for Automatically Distinguishing Walls, Fences, and Hedges</title>
+		<year>2006</year>
+		<authors>Wen Gao,Mark K. Hinders</authors>
+		<jconf>I. J. Robotic Res.</jconf>
+		<id>920062</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast and robust text detection in images and video frames</title>
+		<year>2005</year>
+		<authors>Qixiang Ye,Qingming Huang,Wen Gao,Debin Zhao</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947347</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, China and Graduate School, Chinese Academy of Sciences, China</organization>
+	</publication>
+	<publication>
+		<title>Object detection using spatial histogram features</title>
+		<year>2006</year>
+		<authors>Hongming Zhang,Wen Gao,Xilin Chen,Debin Zhao</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947389</id>
+		<label>0</label>
+		<organization>Department of Computer Science and technology, Harbin Institute of Technology, No. 92, west Dazhi street, Harbin 150001, China and Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Extracting 3D information from broadcast soccer video</title>
+		<year>2006</year>
+		<authors>Yang Liu,Dawei Liang,Qingming Huang,Wen Gao</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947460</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unsupervised texture classification: Automatically discover and classify texture patterns</title>
+		<year>2008</year>
+		<authors>Lei Qin,Qingfang Zheng,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947712</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China and School of Electronics Engineering and Computer Science, Peking University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>An Admission Control Scheme for End-to-End Statistical QoS Provision in IP Networks</title>
+		<year>2003</year>
+		<authors>Pang Bin,HuaiRong Shao,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973385</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BLOSSOMS: Building Lightweight Optimized Sensor Systems on a Massive Scale</title>
+		<year>2005</year>
+		<authors>Wen Gao,Lionel M. Ni,Zhiwei Xu,S. C. Cheung,Li Cui,Qiong Luo</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973419</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incorporating Linguistic Structure into Maximum Entropy Language Models</title>
+		<year>2003</year>
+		<authors>Gaolin Fang,Wen Gao,Zhaoqi Wang</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973516</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Ontology Construction for Digitized Art Image Retrieval</title>
+		<year>2005</year>
+		<authors>Shuqiang Jiang,Jun Du,Qingming Huang,Tiejun Huang,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973533</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Speech Recognition Method Based on Discriminative Environment Feature Extraction</title>
+		<year>2001</year>
+		<authors>Jiqing Han,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973551</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study on Translating Chinese into Chinese Sign Language</title>
+		<year>2000</year>
+		<authors>Xu Lin,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973651</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Segmentation of News Items Based on Video and Audio Features</title>
+		<year>2002</year>
+		<authors>Wangqiang Wei,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973753</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low Complexity Integer Transform and Adaptive Quantization Optimization</title>
+		<year>2006</year>
+		<authors>Siwei Ma,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>974003</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context-Based 2D-VLC Entropy Coder in AVS Video Coding Standard</title>
+		<year>2006</year>
+		<authors>Qiang Wang,Debin Zhao,Wen Gao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>974015</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Prosodic Patterns for Mandarin Speech Synthesis</title>
+		<year>2002</year>
+		<authors>Yiqiang Chen,Wen Gao,Tingshao Zhu,Charles X. Ling</authors>
+		<jconf>J. Intell. Inf. Syst.</jconf>
+		<id>982184</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Latent linkage semantic kernels for collective classification of link data</title>
+		<year>2006</year>
+		<authors>YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>J. Intell. Inf. Syst.</jconf>
+		<id>982404</id>
+		<label>0</label>
+		<organization>Aff1 Aff2</organization>
+	</publication>
+	<publication>
+		<title>How many users should be turned on in a multi-antenna broadcast channel?</title>
+		<year>2008</year>
+		<authors>Wei Dai,Youjian Liu,Brian Rider,Wen Gao</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>993257</id>
+		<label>9</label>
+		<organization>Colorado Univ., Boulder</organization>
+	</publication>
+	<publication>
+		<title>Effective algorithms for fast transcoding of AVS to H.264/AVC in the spatial domain</title>
+		<year>2007</year>
+		<authors>Zhihang Wang,Xiangyang Ji,Wen Gao,Qingming Huang,Debin Zhao</authors>
+		<jconf>Multimedia Tools Appl.</jconf>
+		<id>1017179</id>
+		<label>0</label>
+		<organization>Peking University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Chinese sign language recognition system based on SOFM/SRN/HMM</title>
+		<year>2004</year>
+		<authors>Wen Gao,Gaolin Fang,Debin Zhao,Yiqiang Chen</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1039330</id>
+		<label>0</label>
+		<organization>Department of Computer Science and Engineering, Harbin Institute of Technology, Harbin 150001, Republic of China and Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Robust telephone speech recognition based on channel compensation</title>
+		<year>1999</year>
+		<authors>Jiqing Han,Wen Gao</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1039540</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient 3D reconstruction for face recognition</title>
+		<year>2005</year>
+		<authors>Dalong Jiang,Yuxiao Hu,Shuicheng Yan,Lei Zhang,HongJiang Zhang,Wen Gao</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1039803</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China and Graduated School of Chinese Academy of Sciences, Beijing 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Face detection and location based on skin chrominance and lip chrominance transformation from color images</title>
+		<year>2001</year>
+		<authors>Hongxun Yao,Wen Gao</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042066</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Thresholding technique with adaptive window selection for uneven lighting image</title>
+		<year>2005</year>
+		<authors>Qingming Huang,Wen Gao,Wenjian Cai</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1044706</id>
+		<label>0</label>
+		<organization>Joint R&D Lab, Graduate School, Chinese Academy of Sciences, P.O. Box 2704, Beijing 100080, PR China</organization>
+	</publication>
+	<publication>
+		<title>An effective method to detect and categorize digitized traditional Chinese paintings</title>
+		<year>2006</year>
+		<authors>Shuqiang Jiang,Qingming Huang,Qixiang Ye,Wen Gao</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1044775</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Ke Xue Yuan South Road, Zhong Guan Cun, Hai Dian Distinct, P.O. Box 2704#-31, Beijing 100080, PR China and Graduate School of Chinese Academy of Sciences, Beijing 100039, PR China</organization>
+	</publication>
+	<publication>
+		<title>Synthetic data generation technique in Signer-independent sign language recognition</title>
+		<year>2009</year>
+		<authors>Feng Jiang,Wen Gao,Hongxun Yao,Debin Zhao,Xilin Chen</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1047001</id>
+		<label>0</label>
+		<organization>Department of Computer Science, Harbin Institute of Technology, Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Contour-motion feature (CMF): A space-time approach for robust pedestrian detection</title>
+		<year>2009</year>
+		<authors>Yazhou Liu,Xilin Chen,Hongxun Yao,Xinyi Cui,Chaoran Liu,Wen Gao</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1047040</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Science, Beijing 100080, PR China</organization>
+	</publication>
+	<publication>
+		<title>Mobile robot sonar interpretation algorithm for distinguishing trees from poles</title>
+		<year>2005</year>
+		<authors>Wen Gao,Mark K. Hinders</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<id>1049557</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-time scheduling based on imprecise computation for scalable streaming media system over the Internet</title>
+		<year>2004</year>
+		<authors>Kui Gao,Wen Gao,Simin He,Yuan Zhang</authors>
+		<jconf>Real-Time Imaging</jconf>
+		<id>1052648</id>
+		<label>0</label>
+		<organization>Digital Media Lab, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Robust real-time transmission of scalable multimedia for heterogeneous client bandwidths</title>
+		<year>2005</year>
+		<authors>Longshe Huo,Wen Gao,Qingming Huang</authors>
+		<jconf>Real-Time Imaging</jconf>
+		<id>1052689</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model</title>
+		<year>2005</year>
+		<authors>Wei Zeng,Jun Du,Wen Gao,Qingming Huang</authors>
+		<jconf>Real-Time Imaging</jconf>
+		<id>1052841</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, No. 8 Ke Xue Yuan Nan Road, Beijing 100080, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>A block-based support vector machine approach to the protein homology prediction task in KDD Cup 2004</title>
+		<year>2004</year>
+		<authors>Yan Fu,Ruixiang Sun,Qiang Yang,Simin He,Chunli Wang,Haipeng Wang,Shiguang Shan,Junfa Liu,Wen Gao</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063583</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Predicting Molecular Formulas of Fragment Ions with Isotope Patterns in Tandem Mass Spectra</title>
+		<year>2005</year>
+		<authors>Jingfen Zhang,Wen Gao,Jinjin Cai,Simin He,Rong Zeng,Runsheng Chen</authors>
+		<jconf>IEEE/ACM Trans. Comput. Biology Bioinform.</jconf>
+		<id>1087064</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Tech., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Learning and synthesizing MPEG-4 compatible 3-D face animation from video sequence</title>
+		<year>2003</year>
+		<authors>Wen Gao,Yiqiang Chen,Rui Wang,Shiguang Shan,Dalong Jiang</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1096869</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient background video coding with static sprite generation and arbitrary-shape spatial prediction techniques</title>
+		<year>2003</year>
+		<authors>Yan Lu,Wen Gao,Feng Wu</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097136</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Rate-distortion analysis for H.264/AVC video coding and its application to rate control</title>
+		<year>2005</year>
+		<authors>Siwei Ma,Wen Gao,Yan Lu</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097143</id>
+		<label>0</label>
+		<organization>Digital Media Lab., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Statistical model, analysis and approximation of rate-distortion function in MPEG-4 FGS videos</title>
+		<year>2006</year>
+		<authors>Jun Sun,Wen Gao,Debin Zhao,Qingming Huang</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097327</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Drift-free switching of compressed video bitstreams at predictive frames</title>
+		<year>2006</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Guobin Shen,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097330</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Low-complexity and low-memory entropy coder for image compression</title>
+		<year>2001</year>
+		<authors>Debin Zhao,Y. K. Chan,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097491</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Morphological representation of DCT coefficients for image compression</title>
+		<year>2002</year>
+		<authors>Debin Zhao,Wen Gao,Y. K. Chan</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097492</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Block-Wise Adaptive Motion Accuracy Based B-Picture Coding With Low-Complexity Motion Compensation</title>
+		<year>2007</year>
+		<authors>Xiangyang Ji,Debin Zhao,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097748</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming</title>
+		<year>2008</year>
+		<authors>Mei Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097763</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wyner-Ziv-Based Multiview Video Coding</title>
+		<year>2008</year>
+		<authors>Xun Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097804</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling Background and Segmenting Moving Objects from Compressed Video</title>
+		<year>2008</year>
+		<authors>Weiqiang Wang,Jie Yang,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097853</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>FGS Coding Using Cycle-Based Leaky Prediction Through Multiple Leaky Factors</title>
+		<year>2008</year>
+		<authors>Xiangyang Ji,Yanyan Zheng,Debin Zhao,Feng Wu,Wen Gao</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097896</id>
+		<label>0</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Locally Linear Regression for Pose-Invariant Face Recognition</title>
+		<year>2007</year>
+		<authors>Xiujuan Chai,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102562</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Continuous-Time Equivalents of Welch Bound Equality Sequences</title>
+		<year>2005</year>
+		<authors>Joon Ho Cho,Wen Gao</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1104884</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Contextual Dependency Network Models for Link-Based Classification</title>
+		<year>2006</year>
+		<authors>YongHong Tian,Qiang Yang,Tiejun Huang,Charles X. Ling,Wen Gao</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113624</id>
+		<label>0</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Seamless switching of scalable video bitstreams for efficient streaming</title>
+		<year>2004</year>
+		<authors>Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang</authors>
+		<jconf>IEEE Transactions on Multimedia</jconf>
+		<id>1116600</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Joint Source-Channel Rate-Distortion Optimization for H.264 Video Coding Over Error-Prone Networks</title>
+		<year>2007</year>
+		<authors>Yuan Zhang,Wen Gao,Yan Lu,Qingming Huang,Debin Zhao</authors>
+		<jconf>IEEE Transactions on Multimedia</jconf>
+		<id>1116698</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Human Behavior Analysis for Highlight Ranking in Broadcast Racket Sports Video</title>
+		<year>2007</year>
+		<authors>Guangyu Zhu,Qingming Huang,Changsheng Xu,Liyuan Xing,Wen Gao,Hongxun Yao</authors>
+		<jconf>IEEE Transactions on Multimedia</jconf>
+		<id>1116761</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Constructing visual phrases for effective and efficient object-based image retrieval</title>
+		<year>2008</year>
+		<authors>Qing-Fang Zheng,Wen Gao</authors>
+		<jconf>TOMCCAP</jconf>
+		<id>1121025</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On guaranteed smooth switching for buffered crossbar switches</title>
+		<year>2008</year>
+		<authors>Simin He,Shutao Sun,Hong-Tao Guan,Qiang Zheng,Youjian Zhao,Wen Gao</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123129</id>
+		<label>0</label>
+		<organization>Institute of Digital Media, Peking University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Large vocabulary sign language recognition based on fuzzy decision trees</title>
+		<year>2004</year>
+		<authors>Gaolin Fang,Wen Gao,Debin Zhao</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1131050</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Human Face Detection by Resampling Examples Through Manifolds</title>
+		<year>2007</year>
+		<authors>Jie Chen,Ruiping Wang,Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1132725</id>
+		<label>0</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Large-Vocabulary Continuous Sign Language Recognition Based on Transition-Movement Models</title>
+		<year>2007</year>
+		<authors>Gaolin Fang,Wen Gao,Debin Zhao</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1132760</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>The CAS-PEAL Large-Scale Chinese Face Database and Baseline Evaluations</title>
+		<year>2008</year>
+		<authors>Wen Gao,Bo Cao,Shiguang Shan,Xilin Chen,Delong Zhou,Xiaohua Zhang,Debin Zhao</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1133051</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Head Yaw Estimation From Asymmetry of Facial Appearance</title>
+		<year>2008</year>
+		<authors>Bingpeng Ma,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1133377</id>
+		<label>0</label>
+		<organization>ICT-ISVISION Joint Res., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Real-time smoothing for network adaptive video streaming</title>
+		<year>2005</year>
+		<authors>Kui Gao,Wen Gao,Simin He,Yuan Zhang</authors>
+		<jconf>J. Visual Communication and Image Representation</jconf>
+		<id>1143424</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Nonparametric background generation</title>
+		<year>2007</year>
+		<authors>Yazhou Liu,Hongxun Yao,Wen Gao,Xilin Chen,Debin Zhao</authors>
+		<jconf>J. Visual Communication and Image Representation</jconf>
+		<id>1143463</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Science, Beijing 100080, PR China and School of Computer Science and Technology, Harbin Institute of Technology, Harbin 150001, PR China</organization>
+	</publication>
+	<publication>
+		<title>Adaptive rate control for H.264</title>
+		<year>2006</year>
+		<authors>Zhengguo Li,Wen Gao,Feng Pan,S. W. Ma,Keng Pang Lim,G. N. Feng,Xiao Lin,Susanto Rahardja,H. Q. Lu,Yan Lu</authors>
+		<jconf>J. Visual Communication and Image Representation</jconf>
+		<id>1143496</id>
+		<label>0</label>
+		<organization>Media Div., Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>An image fragile watermark scheme based on chaotic image pattern and pixel-pairs</title>
+		<year>2007</year>
+		<authors>Shaohui Liu,Hongxun Yao,Wen Gao,Yongliang Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1146030</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive relevance feedback based on Bayesian inference for image retrieval</title>
+		<year>2005</year>
+		<authors>Lijuan Duan,Wen Gao,Wei Zeng,Debin Zhao</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1150716</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Two-phase Web site classification based on Hidden Markov Tree models</title>
+		<year>2004</year>
+		<authors>YongHong Tian,Tiejun Huang,Wen Gao</authors>
+		<jconf>Web Intelligence and Agent Systems</jconf>
+		<id>1157795</id>
+		<label>0</label>
+		<organization>Inst. of Comp. Technol., Chinese Acad. of Sci., Beijing 100080, China and Grad. Sch. of Ch. Acad. of Sci., Beijing 100039, China and Dept. of Comp. Sci., Harbin Inst. of Technol., Harbin 150001, China. E-mail: {yhtian, tjhuang,wgao}@ict.ac.cn</organization>
+	</publication>
+	<publication>
+		<title>Security on Aydos et al's Elliptic Curve Cryptography Based Wireless Authentication Protocol</title>
+		<year>2006</year>
+		<authors>Yongliang Liu,Wen Gao,Hongxun Yao,Tiejun Huang</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<id>1163178</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A High Efficient Architecture for Motion Estimation Based on AVC/AVS Coding Standard</title>
+		<year>2006</year>
+		<authors>Lei Deng,Wen Gao,Mingzeng Hu,Zhenzhou Ji</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<id>1163185</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compression-Induced Rendering Distortion Analysis for Texture/Depth Rate Allocation in 3D Video Compression</title>
+		<year>2009</year>
+		<authors>Yanwei Liu,Siwei Ma,Qingming Huang,Debin Zhao,Wen Gao,Nan Zhang</authors>
+		<jconf>DCC</jconf>
+		<id>1206817</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video</title>
+		<year>2009</year>
+		<authors>Jun Sun,Wen Gao,Debin Zhao,Weiping Li</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1227643</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Sci. & Technol., Peking Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Large-Scale Cross-Media Retrieval of WikipediaMM Images with Textual and Visual Query Expansion</title>
+		<year>2008</year>
+		<authors>Zhi Zhou,YongHong Tian,Yuanning Li,Tiejun Huang,Wen Gao</authors>
+		<jconf>CLEF</jconf>
+		<id>1239709</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient discovery of abundant post-translational modifications and spectral pairs using peptide mass and retention time differences</title>
+		<year>2009</year>
+		<authors>Yan Fu,Wei Jia,Zhuang Lu,Haipeng Wang,Zuofei Yuan,Hao Chi,You Li,Liyun Xiu,Wenping Wang,Chao Liu,Leheng Wang,Ruixiang Sun,Wen Gao,Xiaohong Qian,Simin He</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1267388</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Shape from silhouettes based on a centripetal pentahedron model</title>
+		<year>2008</year>
+		<authors>Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao</authors>
+		<jconf>Graphical Models</jconf>
+		<id>1270114</id>
+		<label>0</label>
+		<organization>School of Computer Science and Technology, Harbin Institute of Technology, Room 620, XinJiShu Building, P.O. Box 321, Harbin 150001, China and Institute of Computing Technology, Chinese Academy of Science, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Optimization of a training set for more robust face detection</title>
+		<year>2009</year>
+		<authors>Jie Chen,Xilin Chen,Jie Yang,Shiguang Shan,Ruiping Wang,Wen Gao</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1280312</id>
+		<label>0</label>
+		<organization>School of Computer Science and Technology, Harbin Institute of Technology, Harbin 150001, China and Key Lab of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100190, China</organization>
+	</publication>
+	<publication>
+		<title>Novel Secure Communication Protocol for Conditional Access System</title>
+		<year>2007</year>
+		<authors>Yongliang Liu,Xiaolin Yang,Hongxun Yao,Wen Gao</authors>
+		<jconf>Proceedings of the 38th conference on Winter simulation</jconf>
+		<id>1295625</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elliptic Curve Cryptography Based Wireless Authentication Protocol</title>
+		<year>2007</year>
+		<authors>Yongliang Liu,Wen Gao,Hongxun Yao,Xinghua Yu</authors>
+		<jconf>Proceedings of the 38th conference on Winter simulation</jconf>
+		<id>1295654</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Misalignment Problem</title>
+		<year>2009</year>
+		<authors>Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1300283</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation, Overview</title>
+		<year>2009</year>
+		<authors>Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1300737</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Granularity-tunable gradients partition (GGP) descriptors for human detection.</title>
+		<year>2009</year>
+		<authors>Yazhou Liu,Shiguang Shan,Wenchao Zhang,Xilin Chen,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1304933</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Maximizing intra-individual correlations for face recognition across pose differences.</title>
+		<year>2009</year>
+		<authors>Annan Li,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1304943</id>
+		<label>0</label>
+		<organization>Key Lab. of Intell. Inf. Process. of CAS, CAS, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Sigma Set: A small second order statistical region descriptor.</title>
+		<year>2009</year>
+		<authors>Xiaopeng Hong,Hong Chang,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1305009</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>A Biologically Inspired Energy-Aware Routing Algorithm for Communications in Cyberworlds.</title>
+		<year>2008</year>
+		<authors>Zhenyu Liu,Wen Gao,Marta Z. Kwiatkowska</authors>
+		<jconf>null</jconf>
+		<id>1305184</id>
+		<label>0</label>
+		<organization>Inst. of Digital Media, Peking Univ., Shenzhen</organization>
+	</publication>
+	<publication>
+		<title>Nonlocal Edge-Directed Interpolation.</title>
+		<year>2009</year>
+		<authors>Xinfeng Zhang,Siwei Ma,Yongbing Zhang,Li Zhang,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1308765</id>
+		<label>0</label>
+		<organization>School of Electronics Engineering and Computer Science, Peking University,</organization>
+	</publication>
+	<publication>
+		<title>A Novel Macro-Block Group Based AVS Coding Scheme for Many-Core Processor.</title>
+		<year>2009</year>
+		<authors>Zhenyu Wang,Luhong Liang,Xianguo Zhang,Jun Sun,Debin Zhao,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1308801</id>
+		<label>0</label>
+		<organization>Peking University, Beijing, P.R. China 100871</organization>
+	</publication>
+	<publication>
+		<title>Block Adaptive Super Resolution Video Coding.</title>
+		<year>2009</year>
+		<authors>Siwei Ma,Li Zhang,Xinfeng Zhang,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1308818</id>
+		<label>0</label>
+		<organization>Institute of Digital Media, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>Visual-aural attention modeling for talk show video highlight detection.</title>
+		<year>2008</year>
+		<authors>Yijia Zheng,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1329946</id>
+		<label>0</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>2D to 3D convertion based on edge defocus and segmentation.</title>
+		<year>2008</year>
+		<authors>Ge Guo,Nan Zhang,Longshe Huo,Wen Gao</authors>
+		<jconf>null</jconf>
+		<id>1329998</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Learning in Reconstructed Manifold Space for 3D Caricature Generation.</title>
+		<year>2009</year>
+		<authors>Junfa Liu,Yiqiang Chen,Chunyan Miao,Jinjing Xie,Charles X. Ling,Xingyu Gao,Wen Gao</authors>
+		<jconf>Comput. Graph. Forum</jconf>
+		<id>1333910</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Are Gabor phases really useless for face recognition?</title>
+		<year>2009</year>
+		<authors>Wenchao Zhang,Shiguang Shan,Laiyun Qing,Xilin Chen,Wen Gao</authors>
+		<jconf>Pattern Anal. Appl.</jconf>
+		<id>1341038</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology, School of Computer Science and Technology, 150006, Harbin, PRC and Key Lab. of Intell. Info. Proc., Ch. Acad. of Sci., Beijing and Institute of Computing Technology, Ch. Acad. of Sci., 100190, Beijing, PRC</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Ensemble of Global and Local Classifiers for Face Recognition.</title>
+		<year>2009</year>
+		<authors>Yu Su,Shiguang Shan,Xilin Chen,Wen Gao</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1343273</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Learned local Gabor patterns for face representation and recognition.</title>
+		<year>2009</year>
+		<authors>Shufu Xie,Shiguang Shan,Xilin Chen,Xin Meng,Wen Gao</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1343929</id>
+		<label>0</label>
+		<organization>Key Lab of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (CAS), Beijing, 100190, China and Institute for Digital Media, Peking University, Beijing, 100190, China</organization>
+	</publication>
+	<publication>
+		<title>Latest arrival time leaky bucket for HRD constrained video coding</title>
+		<year>2003</year>
+		<authors>Lujun Yuan,Wen Gao,Yan Lu</authors>
+		<jconf>Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1</jconf>
+		<id>1370607</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A novel coefficient scanning scheme for directional spatial prediction-based image compression</title>
+		<year>2003</year>
+		<authors>Xiaopeng Fan,Yan Lu,Wen Gao</authors>
+		<jconf>Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1</jconf>
+		<id>1371175</id>
+		<label>0</label>
+		<organization>Univ. Autonoma de Barcelona, Bellaterra, Spain</organization>
+	</publication>
+	<publication>
+		<title>Color image segmentation using density-based clustering</title>
+		<year>2003</year>
+		<authors>Qixiang Ye,Wen Gao,Wei Zeng</authors>
+		<jconf>Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1</jconf>
+		<id>1372416</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Chinese Acad. of Sci., China</organization>
+	</publication>
+	<publication>
+		<title>Generating Data for Signer Adaptation</title>
+		<year>2009</year>
+		<authors>Chunli Wang,Xilin Chen,Wen Gao</authors>
+		<jconf>Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23-25, 2007, Revised Selected Papers</jconf>
+		<id>1393687</id>
+		<label>0</label>
+		<organization>School of Electronics Engineering and Computer Science, Peking University, China</organization>
+	</publication>
+	<publication>
+		<title>Radial basis function interpolation surface on space mesh</title>
+		<year>1997</year>
+		<authors>Baocai Yin,Wen Gao</authors>
+		<jconf>ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '97</jconf>
+		<id>1396417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Text-driven deaf-mute sign language synthesis system</title>
+		<year>1997</year>
+		<authors>Yibo Song,Wen Gao,Baocai Yin,Ying Liu,Lin Xu,Jie Yan,Haito Chen,Jian Zhou</authors>
+		<jconf>ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '97</jconf>
+		<id>1403986</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FEC-Based Multiple Description Coding for Heterogeneous Client Bandwidths</title>
+		<year>2004</year>
+		<authors>Longshe Huo,Wen Gao,Qingming Huang,Ying Cai</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1409109</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>A Novel FGS Base-Layer Encoding Model and Weight-Based Rate Adaptation for Constant-Quality Streaming</title>
+		<year>2004</year>
+		<authors>Jun Sun,Wen Gao,Qingming Huang</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1410154</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Interacting Multiple Model Particle Filter to Adaptive Visual Tracking</title>
+		<year>2004</year>
+		<authors>Jianyu Wang,Debin Zhao,Wen Gao,Shiguang Shan</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1410479</id>
+		<label>0</label>
+		<organization>Harbin Institute of Technology and Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Skin-Color Detection Based on Adaptive Thresholds</title>
+		<year>2004</year>
+		<authors>Ming-Ji Zhang,Wei-Qiang Wang,Qing-Fang Zheng,Wen Gao</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1410727</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Watermark Detection Schemes with High Security</title>
+		<year>2005</year>
+		<authors>Liu Yongliang,Xiaolin Yang,Hongxun Yao,Tiejun Huang,Wen Gao</authors>
+		<jconf>Proceedings of the International Conference on Information Technology: Coding and Computing (ITCC'05) - Volume II - Volume 02</jconf>
+		<id>1412793</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Singular Value Decomposition Based Image Matching</title>
+		<year>2004</year>
+		<authors>Feng Zhao,Wen Gao</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1414474</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>A Novel Rate Control Scheme for Video Streaming over Wireless Networks</title>
+		<year>2004</year>
+		<authors>Xiaolin Tong,Wen Gao,Qingming Huang</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1414801</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Design and Performance Evaluation of Differentiated Services Router for Next Generation Internet</title>
+		<year>2001</year>
+		<authors>Bin Pang,Wen Gao</authors>
+		<jconf>Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01)</jconf>
+		<id>1419869</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Novel RED-Based Hop-by-Hop Congestion Control</title>
+		<year>2001</year>
+		<authors>Bin Pang,Xi-Chen Liu,Yang-Zhao Xiang,Wen Gao</authors>
+		<jconf>Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01)</jconf>
+		<id>1421604</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Research on real-time landmark segmentation and recognition in the Autonomous Land Vehicle</title>
+		<year>1993</year>
+		<authors>Qingming Huang,Xilin Chen,Tianwen Zhang,Wen Gao</authors>
+		<jconf>Proceedings of the third international conference on Young computer scientists</jconf>
+		<id>1497878</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A hybrid coding method based on DCT for moving picture</title>
+		<year>1993</year>
+		<authors>Wen Gao,Debin Zhao,Kai Zhao,Yumei Yang</authors>
+		<jconf>Proceedings of the third international conference on Young computer scientists</jconf>
+		<id>1504254</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Secure Watermark Verification Scheme</title>
+		<year>2002</year>
+		<authors>Liu Yongliang,Wen Gao,Hongxun Yao,Yaxiao Song</authors>
+		<jconf>Proceedings of the Third IEEE Pacific Rim Conference on Multimedia: Advances in Multimedia Information Processing</jconf>
+		<id>1540950</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Sequence Decomposition Method for Computing a Gr&ouml;bner Basis and Its Application to Bivariate Spline</title>
+		<year>1995</year>
+		<authors>Wen Gao,Baocai Yin</authors>
+		<jconf>Proceedings of the First Annual International Conference on Computing and Combinatorics</jconf>
+		<id>1541926</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>B-picture coding in AVS video compression standard</title>
+		<year>2008</year>
+		<authors>Xiangyang Ji,Debin Zhao,Feng Wu,Yan Lu,Wen Gao</authors>
+		<jconf>Image Communication</jconf>
+		<id>1581509</id>
+		<label>0</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Modeling background from compressed video</title>
+		<year>2005</year>
+		<authors>Weiqiang Wang,Datong Chen,Wen Gao,Jie Yang</authors>
+		<jconf>Proceedings of the 14th International Conference on Computer Communications and Networks</jconf>
+		<id>1610178</id>
+		<label>0</label>
+		<organization>Corp. Res. Adv. Eng. Multimedia, Robert Bosch GmbH, Stuttgart, Germany</organization>
+	</publication>
+	<publication>
+		<title>FlexStem</title>
+		<year>2008</year>
+		<authors>Xiang Chen,Si-Min He,Dongbo Bu,Fa Zhang,Zhiyong Wang,Runsheng Chen,Wen Gao</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1751798</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

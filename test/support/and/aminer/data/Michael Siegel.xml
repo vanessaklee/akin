@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>2922</personID>
+	<FullName>Michael Siegel</FullName>
+	<FirstName>Michael</FirstName>
+	<LastName>Siegel</LastName>
+	<publication>
+		<title>Rule Discovery for Query Optimization</title>
+		<year>1991</year>
+		<authors>Michael Siegel,Edward Sciore,Sharon C. Salveter</authors>
+		<jconf>Knowledge Discovery in Databases</jconf>
+		<id>2058</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Automata as Model for Statecharts</title>
+		<year>1997</year>
+		<authors>Erich Mikk,Yassine Lakhnech,Michael Siegel</authors>
+		<jconf>ASIAN</jconf>
+		<id>51550</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Translation Validation: From SIGNAL to C</title>
+		<year>1999</year>
+		<authors>Amir Pnueli,Ofer Strichman,Michael Siegel</authors>
+		<jconf>Correct System Design</jconf>
+		<id>66326</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Deciding Equality Formulas by Small Domains Instantiations</title>
+		<year>1999</year>
+		<authors>Amir Pnueli,Yoav Rodeh,Ofer Strichman,Michael Siegel</authors>
+		<jconf>CAV</jconf>
+		<id>79727</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context Interchange: Overcoming the Challenges of Large-Scale Interoperable Database Systems in a Dynamic Environment</title>
+		<year>1994</year>
+		<authors>Cheng Hian Goh,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>CIKM</jconf>
+		<id>95373</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information Integration with Attributio Support for Corporate Profiles</title>
+		<year>1999</year>
+		<authors>Thomas Lee,Melanie Chams,Robert Nado,Michael Siegel,Stuart E. Madnick</authors>
+		<jconf>CIKM</jconf>
+		<id>95569</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Refinement Theory that Supports both 'Decrease of Nondeterminism' and 'Increase of Parallelism</title>
+		<year>1995</year>
+		<authors>Michael Siegel</authors>
+		<jconf>CONCUR</jconf>
+		<id>114610</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context Mediation on Wall Street</title>
+		<year>1998</year>
+		<authors>Allen Moulton,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>CoopIS</jconf>
+		<id>116077</id>
+		<label>1</label>
+		<organization>Sloan Sch. of Manage., MIT, Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Representation Architecture for Context Interchange Mediation: Fixed Income Securities Investment Examples</title>
+		<year>2001</year>
+		<authors>Allen Moulton,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>DEXA Workshop</jconf>
+		<id>151928</id>
+		<label>1</label>
+		<organization>Sloan Sch. of Manage., MIT, Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Semantic Interoperability in the Securities Industry: Context Interchange Mediation of Semantic Differences in Enumerated Data Types</title>
+		<year>2002</year>
+		<authors>Allen Moulton,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>DEXA Workshops</jconf>
+		<id>151929</id>
+		<label>1</label>
+		<organization>MIT Sloan School of Management</organization>
+	</publication>
+	<publication>
+		<title>Data Integration using Web Services</title>
+		<year>2002</year>
+		<authors>Mark Hansen,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>DIWeb</jconf>
+		<id>157311</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Context Interchange Network Prototype</title>
+		<year>1995</year>
+		<authors>Adil Daruwala,Cheng Hian Goh,Scott Hofmeister,Karim Hussein,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>DS-6</jconf>
+		<id>160626</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Rule Derivation For Semantic Query Optimization</title>
+		<year>1988</year>
+		<authors>Michael Siegel</authors>
+		<jconf>Expert Database Conf.</jconf>
+		<id>177844</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Integration Using Web Services</title>
+		<year>2002</year>
+		<authors>Mark Hansen,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>EEXTT</jconf>
+		<id>178548</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Active Conceptual Model for Fixed Income Securities Analysis for Multiple Financial Institutions</title>
+		<year>1998</year>
+		<authors>Allen Moulton,Stephane Bressan,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>ER</jconf>
+		<id>183696</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>From Testing Theory to Test Driver Implementation</title>
+		<year>1996</year>
+		<authors>Jan Peleska,Michael Siegel</authors>
+		<jconf>FME</jconf>
+		<id>208928</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Translation Validation: From DC+ to C*</title>
+		<year>1998</year>
+		<authors>Amir Pnueli,Ofer Strichman,Michael Siegel</authors>
+		<jconf>FM-Trends</jconf>
+		<id>208937</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending the Limits of Sequentially Phased Reasoning</title>
+		<year>1994</year>
+		<authors>Michael Siegel,Frank A. Stomp</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219979</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formal Verification of Stabilizing Systems</title>
+		<year>1998</year>
+		<authors>Michael Siegel</authors>
+		<jconf>FTRTFT</jconf>
+		<id>221146</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Interoperability in the Fixed Income Securities Industry: A Knowledge Representation Architecture for Dynamic Integration of Web-Based Information</title>
+		<year>2003</year>
+		<authors>Allen Moulton,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>HICSS</jconf>
+		<id>246839</id>
+		<label>1</label>
+		<organization>MIT Sloan Sch. of Manage., Cambridge, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Framework for the Analysis of the Adaptability, Extensibility, and Scalability of Semantic Information Integration and the Context Mediation Approach</title>
+		<year>2009</year>
+		<authors>Thomas Gannon,Stuart E. Madnick,Allen Moulton,Michael Siegel,Marwan Sabbouh,Hongwei Zhu</authors>
+		<jconf>HICSS</jconf>
+		<id>250234</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Translation Validation for Synchronous Languages</title>
+		<year>1998</year>
+		<authors>Amir Pnueli,Ofer Strichman,Michael Siegel</authors>
+		<jconf>ICALP</jconf>
+		<id>268864</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Correctness Conditions for Highly Available Replicated Databases</title>
+		<year>1986</year>
+		<authors>Nancy A. Lynch,Barbara T. Blaustein,Michael Siegel</authors>
+		<jconf>PODC</jconf>
+		<id>544250</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reasoning About Temporal Context Using Ontology and Abductive Constraint Logic Programming</title>
+		<year>2004</year>
+		<authors>Hongwei Zhu,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>PPSWR</jconf>
+		<id>550641</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards an Active Schema Integration Architecture for Heterogeneous Database Systems</title>
+		<year>1993</year>
+		<authors>M. P. Reddy,Michael Siegel,Amar Gupta</authors>
+		<jconf>RIDE-IMS</jconf>
+		<id>559870</id>
+		<label>1</label>
+		<organization>Sloan Sch. of Manage., MIT, Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Representation and Reasoning About Changing Semantics in Heterogeneous Data Sources</title>
+		<year>2004</year>
+		<authors>Hongwei Zhu,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>SWDB</jconf>
+		<id>583844</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile, dexterous, social robots for mobile manipulation and human-robot interaction</title>
+		<year>2008</year>
+		<authors>Cynthia Breazeal,Michael Siegel,Matt Berlin,Jesse Gray,Roderic A. Grupen,Patrick Deegan,Jeff Weber,Kailas Narendran,John McBean</authors>
+		<jconf>SIGGRAPH New Tech Demos</jconf>
+		<id>594373</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The COntext INterchange Mediator Prototype</title>
+		<year>1997</year>
+		<authors>Stephane Bressan,Cheng Hian Goh,Kofi Fynn,Marta Jessica Jakobisiak,Karim Hussein,Henry B. Kon,Thomas Lee,Stuart E. Madnick,Tito Pena,Jessica Qu,Annie W. Shum,Michael Siegel</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598204</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Procedure for Mediation of Queries to Sources in Disparate Contexts</title>
+		<year>1997</year>
+		<authors>Stephane Bressan,Cheng Hian Goh,Thomas Lee,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>ILPS</jconf>
+		<id>605361</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Translation Validation</title>
+		<year>1998</year>
+		<authors>Amir Pnueli,Michael Siegel,Eli Singerman</authors>
+		<jconf>TACAS</jconf>
+		<id>625363</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Camaleon Web Wrapper Engine</title>
+		<year>2000</year>
+		<authors>Aykut Firat,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>TES</jconf>
+		<id>627821</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effective Data Integration in the Presence of Temporal Semantic Conflicts</title>
+		<year>2004</year>
+		<authors>Hongwei Zhu,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>TIME</jconf>
+		<id>628514</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Metadata Approach to Resolving Semantic Conflicts</title>
+		<year>1991</year>
+		<authors>Michael Siegel,Stuart E. Madnick</authors>
+		<jconf>VLDB</jconf>
+		<id>643769</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The COntext INterchange (COIN) Project: Data Extraction and Interpretation from Semi-Structured Web Sources</title>
+		<year>1998</year>
+		<authors>Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>QL</jconf>
+		<id>650143</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Process Aggregation Using Web Services</title>
+		<year>2002</year>
+		<authors>Mark Hansen,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>WES</jconf>
+		<id>659453</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementing Statecharts in PROMELA/SPIN</title>
+		<year>1998</year>
+		<authors>Erich Mikk,Yassine Lakhnech,Michael Siegel,Gerard J. Holzmann</authors>
+		<jconf>WIFT</jconf>
+		<id>662120</id>
+		<label>2</label>
+		<organization>Inst. fur Inf. und Praktische Math., Kiel Univ.</organization>
+	</publication>
+	<publication>
+		<title>Deductive verification of stabilizing systems</title>
+		<year>1997</year>
+		<authors>Yassine Lakhnech,Michael Siegel</authors>
+		<jconf>WSS</jconf>
+		<id>673349</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context Knowledge Representation and Reasoning in the Context Interchange System</title>
+		<year>2000</year>
+		<authors>Stephane Bressan,Cheng Hian Goh,Natalia Levina,Stuart E. Madnick,Ahmed Shah,Michael Siegel</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>754809</id>
+		<label>1</label>
+		<organization>Massachusetts Institute of Technology, Cambridge, MA 02139, USA</organization>
+	</publication>
+	<publication>
+		<title>The Composite Information System Laboratory (CISL) Project at MIT</title>
+		<year>1990</year>
+		<authors>Stuart E. Madnick,Michael Siegel,Y. Richard Wang</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>844818</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Erratum ('The small model property: how small can it be?' Volume 178, Number 1 [2002], pages 279-293)</title>
+		<year>2003</year>
+		<authors>Amir Pnueli,Yoav Rodeh,Ofer Strichman,Michael Siegel</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>889094</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Small Model Property: How Small Can It Be?</title>
+		<year>2002</year>
+		<authors>Amir Pnueli,Yoav Rodeh,Ofer Strichman,Michael Siegel</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>889232</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Conceptualizing Semantic Interoperability: A Perspective From the Knowledge Level</title>
+		<year>1996</year>
+		<authors>J. L. Lee,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>Int. J. Cooperative Inf. Syst.</jconf>
+		<id>906161</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context interchange in a client-server architecture</title>
+		<year>1994</year>
+		<authors>Michael Siegel,Stuart E. Madnick,Edward Sciore</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997185</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Seizing the Opportunity: Exploiting Web Aggregation</title>
+		<year>2002</year>
+		<authors>Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>MIS Quarterly Executive</jconf>
+		<id>1009191</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study of Singularity Formation in the Kelvin-Helmholtz Instability with Surface Tension</title>
+		<year>1995</year>
+		<authors>Michael Siegel</authors>
+		<jconf>SIAM Journal of Applied Mathematics</jconf>
+		<id>1057462</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exact Solutions for the Evolution of a Bubble in Stokes Flow: A Cauchy Transform Approach</title>
+		<year>2005</year>
+		<authors>Darren Crowdy,Michael Siegel</authors>
+		<jconf>SIAM Journal of Applied Mathematics</jconf>
+		<id>1057738</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context Interchange: Sharing the Meaning of Data</title>
+		<year>1991</year>
+		<authors>Michael Siegel,Stuart E. Madnick</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1065656</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Code Validation Tool CVT: Automatic Verification of a Compilation Process</title>
+		<year>1998</year>
+		<authors>Amir Pnueli,Ofer Strichman,Michael Siegel</authors>
+		<jconf>STTT</jconf>
+		<id>1076616</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems</title>
+		<year>1994</year>
+		<authors>Edward Sciore,Michael Siegel,Arnon Rosenthal</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118664</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Method for Automatic Rule Derivation to Support Semantic Query Optimization</title>
+		<year>1992</year>
+		<authors>Michael Siegel,Edward Sciore,Sharon C. Salveter</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118682</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context Interchange: New Features and Formalisms for the Intelligent Integration of Information</title>
+		<year>1999</year>
+		<authors>Cheng Hian Goh,Stephane Bressan,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>ACM Trans. Inf. Syst.</jconf>
+		<id>1120146</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Untwist your brain: efficient debugging and diagnosis of complex assertions</title>
+		<year>2009</year>
+		<authors>Michael Siegel,Adriana Maggiore,Christian Pichler</authors>
+		<jconf>DAC</jconf>
+		<id>1241055</id>
+		<label>0</label>
+		<organization>OneSpin Solutions, Munich, Germany</organization>
+	</publication>
+	<publication>
+		<title>A WELL-POSED NUMERICAL METHOD TO TRACK ISOLATED CONFORMAL MAP SINGULARITIES IN HELE-SHAW FLOW</title>
+		<year>1995</year>
+		<authors>Gregory Baker,Michael Siegel,Saleh Tanveer</authors>
+		<jconf>null</jconf>
+		<id>1416564</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Integration Using Web Services</title>
+		<year>2003</year>
+		<authors>Mark Hansen,Stuart E. Madnick,Michael Siegel</authors>
+		<jconf>Proceedings of the VLDB 2002 Workshop EEXTT and CAiSE 2002 Workshop DTWeb on Efficiency and Effectiveness of XML Tools and Techniques and Data Integration over the Web-Revised Papers</jconf>
+		<id>1588851</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+</person>

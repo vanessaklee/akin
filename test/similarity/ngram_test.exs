@@ -1,7 +1,7 @@
-defmodule NGramTest do
+defmodule NgramTest do
   use ExUnit.Case
 
-  import Akin.Similarity.NGram, only: [compare: 3]
+  import Akin.Similarity.Ngram, only: [compare: 3]
 
   test "return None with empty arguments" do
     assert compare("", "", 1) == nil

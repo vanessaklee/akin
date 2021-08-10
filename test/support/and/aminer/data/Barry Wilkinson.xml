@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>11088</personID>
+	<FullName>Barry Wilkinson</FullName>
+	<FirstName>Barry</FirstName>
+	<LastName>Wilkinson</LastName>
+	<publication>
+		<title>Using an end-to-end demonstration in an undergraduate grid computing course</title>
+		<year>2006</year>
+		<authors>Mark A. Holliday,Barry Wilkinson,James Ruff</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6805</id>
+		<label>0</label>
+		<organization>Univ. of North Carolina at Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>A consortium to promote distributed computing</title>
+		<year>2007</year>
+		<authors>Rahman Tashakkori,Barry L. Kurtz,Barry Wilkinson,Mark A. Holliday</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>7190</id>
+		<label>0</label>
+		<organization>UNC Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Collaborative and learning applications of grid technology and grid education</title>
+		<year>2005</year>
+		<authors>Oscar Ardaiz-Villanueva,Miguel L. Bote-Lorenzo,Amy W. Apon,Barry Wilkinson</authors>
+		<jconf>CCGRID</jconf>
+		<id>82588</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experiences in teaching a geographically distributed undergraduate grid computing course</title>
+		<year>2005</year>
+		<authors>Barry Wilkinson,Mark A. Holliday,Clayton Ferner</authors>
+		<jconf>CCGRID</jconf>
+		<id>83176</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Shared Memory Programming Course</title>
+		<year>2001</year>
+		<authors>Barry Wilkinson,Tanusree Pai,Meghana Miraj</authors>
+		<jconf>CCGRID</jconf>
+		<id>83177</id>
+		<label>0</label>
+		<organization>North Carolina Univ., Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Applications of Rhombic Multiprocssors</title>
+		<year>1997</year>
+		<authors>Kenneth E. Hoganson,Barry Wilkinson,W. Homer Carlisle</authors>
+		<jconf>PDPTA</jconf>
+		<id>535713</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A geographically-distributed, assignment-structured undergraduate grid computing course</title>
+		<year>2005</year>
+		<authors>Mark A. Holliday,Barry Wilkinson,Jeffrey House,Samir Daoud,Clayton Ferner</authors>
+		<jconf>SIGCSE</jconf>
+		<id>590334</id>
+		<label>0</label>
+		<organization>Western Carolina University, Cullowhee, NC</organization>
+	</publication>
+	<publication>
+		<title>Grid computing at the undergraduate level: can we do it?</title>
+		<year>2008</year>
+		<authors>Jens Mache,Amy W. Apon,Thomas Feilhauer,Barry Wilkinson</authors>
+		<jconf>SIGCSE</jconf>
+		<id>591678</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a top-down approach to teaching an undergraduate grid computing course</title>
+		<year>2008</year>
+		<authors>Barry Wilkinson,Clayton Ferner</authors>
+		<jconf>SIGCSE</jconf>
+		<id>591708</id>
+		<label>0</label>
+		<organization>University of North Carolina Charlotte, Charlotte, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Latency hiding by redundant processing: a technique for grid-enabled, iterative, synchronous parallel programs</title>
+		<year>2008</year>
+		<authors>Jeremy F. Villalobos,Barry Wilkinson</authors>
+		<jconf>Mardi Gras Conference</jconf>
+		<id>711019</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Comparative Performance of Overlapping Connectivity Multiprocessor Interconnection Networks</title>
+		<year>1991</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>Comput. J.</jconf>
+		<id>791900</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Teaching Grid Computing in North Carolina: Part I</title>
+		<year>2006</year>
+		<authors>Barry Wilkinson,Clayton Ferner</authors>
+		<jconf>IEEE Distributed Systems Online</jconf>
+		<id>856957</id>
+		<label>0</label>
+		<organization>University of North Carolina, Charlotte</organization>
+	</publication>
+	<publication>
+		<title>Teaching Grid Computing in North Carolina: Part II</title>
+		<year>2006</year>
+		<authors>Barry Wilkinson,Clayton Ferner</authors>
+		<jconf>IEEE Distributed Systems Online</jconf>
+		<id>856958</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte</organization>
+	</publication>
+	<publication>
+		<title>Cascaded Rhombic Crossbar Interconnection Networks</title>
+		<year>1990</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989974</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Overlapping Connectivity Interconnection Networks for Shared Memory Multiproceessor Systems</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989975</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comments on ``Design and Analysis of Arbitration Protocols'</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082660</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Crossbar Switch and Multiple Bus Interconnection Networks with Overlapping Connectivity</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pair-teaching a course on Grid computing from two campuses on NCREN</title>
+		<year>2009</year>
+		<authors>Clayton Ferner,Barry Wilkinson</authors>
+		<jconf>FECS</jconf>
+		<id>1243686</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Grid computing at the undergraduate level: can we do it?</title>
+		<year>2008</year>
+		<authors>Jens Ma he,Amy Apon,Thomas Feilhauer,Barry Wilkinson</authors>
+		<jconf>ACM SIGCSE Bulletin</jconf>
+		<id>1377667</id>
+		<label>0</label>
+		<organization>University of North Carolina Charlotte, Charlotte, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Parallel programming: techniques and applications using networked workstations and parallel computers</title>
+		<year>1998</year>
+		<authors>Barry Wilkinson,Michael Allen</authors>
+		<jconf>null</jconf>
+		<id>1398344</id>
+		<label>0</label>
+		<organization>Univ. of North Carolina, Charlotte</organization>
+	</publication>
+	<publication>
+		<title>Multiprocessor scheme with application to marco-dataflow</title>
+		<year>1987</year>
+		<authors>Abdulkarim Ayyad,Barry Wilkinson</authors>
+		<jconf>Microprocessors Microsystems</jconf>
+		<id>1437854</id>
+		<label>0</label>
+		<organization>Brighton Polytechnic, Brighton, UK</organization>
+	</publication>
+	<publication>
+		<title>Digital system design</title>
+		<year>1986</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>null</jconf>
+		<id>1451978</id>
+		<label>0</label>
+		<organization>Brighton Polytechnic, Brighton, UK</organization>
+	</publication>
+	<publication>
+		<title>Digital system design</title>
+		<year>1987</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>null</jconf>
+		<id>1466333</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers (2nd Edition)</title>
+		<year>2004</year>
+		<authors>Barry Wilkinson,Michael Allen</authors>
+		<jconf>null</jconf>
+		<id>1561672</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comments on 'Design and Analysis of Arbitration Protocols' by F. El Guibaly</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>IEEE Transactions on Computers</jconf>
+		<id>1663781</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Overlapping connectivity interconnection networks for shared memory multiprocessor systems</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>Journal of Parallel and Distributed Computing</jconf>
+		<id>1679734</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computer architecture (2nd ed.): design and performance</title>
+		<year>1996</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>null</jconf>
+		<id>1719921</id>
+		<label>0</label>
+		<organization>Univ. of North Carolina, Charlotte</organization>
+	</publication>
+	<publication>
+		<title>Digital System Design, 2nd Ed., 2nd edition</title>
+		<year>1992</year>
+		<authors>Barry Wilkinson</authors>
+		<jconf>null</jconf>
+		<id>1734430</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

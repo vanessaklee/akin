@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>171113</personID>
+	<FullName>R. Cole</FullName>
+	<FirstName>R.</FirstName>
+	<LastName>Cole</LastName>
+	<publication>
+		<title>Optimal Parallel Algorithms for Expression Tree Evaluation and List Ranking</title>
+		<year>1988</year>
+		<authors>Richard Cole,Uzi Vishkin</authors>
+		<jconf>AWOC</jconf>
+		<id>61828</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Parallel Algorithms for Polygon and Point-Set Problems</title>
+		<year>1988</year>
+		<authors>Richard Cole,Michael T. Goodrich</authors>
+		<jconf>Symposium on Computational Geometry</jconf>
+		<id>110889</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Prototype System for Transnational Information Sharing and Process Coordination</title>
+		<year>2004</year>
+		<authors>S. Su,Jose A. B. Fortes,T. R. Kasad,M. Patil,Andrea M. Matsunaga,Mauricio O. Tsugawa,Violetta Cavalli-Sforza,Jaime G. Carbonell,Peter J. Jansen,W. Ward,R. Cole,Donald F. Towsley,Weifeng Chen,Annie I. Anton,Qingfeng He,C. McSweeney,L. deBrens,J. Ventura,P. Taveras,R. Connolly,C. Ortega,B. Pineres,O. Brooks,M. Herrera</authors>
+		<jconf>DG.O</jconf>
+		<id>154823</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Prototype System for Transnational Information Sharing and Process Coordination: System Demo</title>
+		<year>2004</year>
+		<authors>S. Su,Jose A. B. Fortes,T. R. Kasad,M. Patil,Andrea M. Matsunaga,Mauricio O. Tsugawa,Violetta Cavalli-Sforza,Jaime G. Carbonell,Peter J. Jansen,W. Ward,R. Cole,Donald F. Towsley,Weifeng Chen,Annie I. Anton,Qingfeng He,C. McSweeney,L. deBrens,J. Ventura,P. Taveras,R. Connolly,C. Ortega,B. Pineres,O. Brooks,M. Herrera</authors>
+		<jconf>DG.O</jconf>
+		<id>154826</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Routing on Butterfly Networks with Random Faults</title>
+		<year>1995</year>
+		<authors>Richard Cole,Bruce M. Maggs,Ramesh K. Sitaraman</authors>
+		<jconf>FOCS</jconf>
+		<id>210386</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Distributed Real-Time Control System of a Tokamak Fusion Device</title>
+		<year>1995</year>
+		<authors>Harald H. Richter,R. Cole,M. Fitzek,K. Luddecke,G. Neu,Gerhard Raupp,W. Woyke,D. Zasche,T. Zehetbauer</authors>
+		<jconf>ICPP (3)</jconf>
+		<id>344199</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The APRAM: Incorporating Asynchrony into the PRAM Model</title>
+		<year>1989</year>
+		<authors>Richard Cole,Ofer Zajicek</authors>
+		<jconf>SPAA</jconf>
+		<id>614189</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Expected Advantage of Asynchrony</title>
+		<year>1990</year>
+		<authors>Richard Cole,Ofer Zajicek</authors>
+		<jconf>SPAA</jconf>
+		<id>614190</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Experiment in Clock Synchronisation</title>
+		<year>1988</year>
+		<authors>R. Cole,Clare Foxcroft</authors>
+		<jconf>Comput. J.</jconf>
+		<id>790128</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Upper Bounds for Neighbor Searching</title>
+		<year>1986</year>
+		<authors>Bernard Chazelle,R. Cole,Franco P. Preparata,Chee-Keng Yap</authors>
+		<jconf>Information and Control</jconf>
+		<id>887478</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cascading Divide-and-Conquer: A Technique for Designing Parallel Algorithms</title>
+		<year>1989</year>
+		<authors>Mikhail J. Atallah,Richard Cole,Michael T. Goodrich</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1058462</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Method for Interconnecting Heterogeneous Computer Networks</title>
+		<year>1987</year>
+		<authors>Robert Cole</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1073763</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partitioning Point Sets in Arbitrary Dimension</title>
+		<year>1987</year>
+		<authors>Richard Cole</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1090209</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimally fast parallel algorithms for preprocessing and pattern matching in one and two dimensions</title>
+		<year>1993</year>
+		<authors>R. Cole</authors>
+		<jconf>Proceedings of the 1993 IEEE 34th Annual Foundations of Computer Science</jconf>
+		<id>1374724</id>
+		<label>0</label>
+		<organization>Courant Inst. of Math. Sci., New York, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>River Routing Every Which Way, But Loose</title>
+		<year>1984</year>
+		<authors>R. Cole</authors>
+		<jconf>Proceedings of the 25th Annual Symposium onFoundations of Computer Science, 1984</jconf>
+		<id>1375226</id>
+		<label>0</label>
+		<organization>New York University</organization>
+	</publication>
+	<publication>
+		<title>Slowing Down Sorting Networks To Obtain Faster Sorting Algorithm</title>
+		<year>1984</year>
+		<authors>R. Cole</authors>
+		<jconf>Proceedings of the 25th Annual Symposium onFoundations of Computer Science, 1984</jconf>
+		<id>1378557</id>
+		<label>0</label>
+		<organization>New York University</organization>
+	</publication>
+	<publication>
+		<title>Online algorithms for finger searching</title>
+		<year>1990</year>
+		<authors>R. Cole,A. Raghunathan</authors>
+		<jconf>Proceedings of the 31st Annual Symposium on Foundations of Computer Science</jconf>
+		<id>1379960</id>
+		<label>0</label>
+		<organization>Courant Inst., New York Univ., NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Tighter bounds on the exact complexity of string matching</title>
+		<year>1992</year>
+		<authors>R. Cole,R. Hariharan</authors>
+		<jconf>Proceedings of the 33rd Annual Symposium on Foundations of Computer Science</jconf>
+		<id>1379971</id>
+		<label>0</label>
+		<organization>Courant Inst., New York Univ., NY, USA</organization>
+	</publication>
+	<publication>
+		<title>University of Colorado dialog systems for travel and navigation</title>
+		<year>2001</year>
+		<authors>B. Pellom,W. Ward,J. Hansen,R. Cole,K. Hacioglu,J. Zhang,X. Yu,S. Pradhan</authors>
+		<jconf>Proceedings of the first international conference on Human language technology research</jconf>
+		<id>1410152</id>
+		<label>1</label>
+		<organization>University of Colorado, Boulder, Colorado</organization>
+	</publication>
+	<publication>
+		<title>An experiment on clock synchronisation</title>
+		<year>1988</year>
+		<authors>R. Cole,Clare Foxcroft</authors>
+		<jconf>The Computer Journal</jconf>
+		<id>1643670</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the dynamic finger conjecture for splay trees</title>
+		<year>1990</year>
+		<authors>R. Cole</authors>
+		<jconf>Proceedings of the twenty-second annual ACM symposium on Theory of computing</jconf>
+		<id>1666723</id>
+		<label>0</label>
+		<organization>Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure</organization>
+	</publication>
+	<publication>
+		<title>On the detection of robust curves</title>
+		<year>1991</year>
+		<authors>Richard Cole,Uzi Vishkin</authors>
+		<jconf>null</jconf>
+		<id>1669981</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

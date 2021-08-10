@@ -1,8 +1,10 @@
-defmodule Akin.Phonetic.MetaphoneMetric do
+defmodule Akin.Similarity.MetaphoneExact do
   @moduledoc """
   Calculates the [Metaphone Phonetic Algorithm](http://en.wikipedia.org/wiki/
   Metaphone) metric of two strings.
   """
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
 
   import Akin.Phonetic.MetaphoneAlgorithm, only: [compute: 1]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1]
@@ -12,16 +14,15 @@ defmodule Akin.Phonetic.MetaphoneMetric do
     Compares two values phonetically and returns a boolean of whether they match
     or not.
     ## Examples
-      iex> Akin.Phonetic.MetaphoneMetric.compare("Colorado", "Kolorado")
-      true
-      iex> Akin.Phonetic.MetaphoneMetric.compare("Moose", "Elk")
-      false
+      iex> Akin.Similarity.MetaphoneExact.compare("Colorado", "Kolorado")
+      1
+      iex> Akin.Similarity.MetaphoneExact.compare("Moose", "Elk")
+      0
   """
   def compare(left, right) do
     case len(left) == 0 || !is_alphabetic?(first(left)) || len(right) == 0 || !is_alphabetic?(first(right)) do
       false ->
-        compute(left) == compute(right)
-
+        if compute(left) == compute(right), do: 1, else: 0
       true ->
         nil
     end

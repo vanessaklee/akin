@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>11084</personID>
+	<FullName>Jing Zhang</FullName>
+	<FirstName>Jing</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>E-R modeler: a database modeling toolkit for Eclipse</title>
+		<year>2004</year>
+		<authors>Song Zhou,Chuanxi Xu,Hui Wu,Jing Zhang,Yuehua Lin,Juanqin Wang,Jeff Gray,Barrett R. Bryant</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6802</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham, Birmingham, AL</organization>
+	</publication>
+	<publication>
+		<title>Novel View Generation from Two Reference Images Based on the Same Optical Axis</title>
+		<year>2004</year>
+		<authors>Shungang Hua,Jing Zhang,Zongying Ou</authors>
+		<jconf>CIT</jconf>
+		<id>8266</id>
+		<label>2</label>
+		<organization>Dalian University of Technology</organization>
+	</publication>
+	<publication>
+		<title>Index Support for Visualizing Large, Distributed, High-Dimension Data Sets</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Les Miller,Di Cook</authors>
+		<jconf>ISCA PDCS</jconf>
+		<id>10873</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Camera Calibration from a Single Frame of Planar Pattern</title>
+		<year>2006</year>
+		<authors>Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu</authors>
+		<jconf>ACIVS</jconf>
+		<id>19629</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CACS: A Novel Classification Algorithm Based on Concept Similarity</title>
+		<year>2007</year>
+		<authors>Jing Peng,Dongqing Yang,Changjie Tang,Jing Zhang,Jianjun Hu</authors>
+		<jconf>ADMA</jconf>
+		<id>27491</id>
+		<label>6</label>
+		<organization>Chengdu Jiuheyuan Industry Company, Chengdu 610015, China</organization>
+	</publication>
+	<publication>
+		<title>Autonomous Objects and Bottom-Up Composition in ZOO Applied to a Case Study of Biological Reactivity</title>
+		<year>2008</year>
+		<authors>Nuno Amalio,Fiona Polack,Jing Zhang</authors>
+		<jconf>ABZ</jconf>
+		<id>51924</id>
+		<label>7</label>
+		<organization>China Exim Bank, Beijing, P.R. China 100009</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Selection of Motion for Online Hand-Eye Calibration</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Fanhuai Shi,Yuncai Liu</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60006</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulations of Protein Folding Process</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Maozu Guo,Yang Yu</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65209</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Methods and Simulations for the Protein Folding</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Maozu Guo,Yang Yu</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65373</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Limn Matrix: A Tool for Visualizing Large, Distributed, High-Dimension Data Sets</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Di Cook,Les Miller</authors>
+		<jconf>CAINE</jconf>
+		<id>72760</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing SQL with Set-Comparison Operators</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Wen-Chi Hou,Feng Yu,Dunren Che</authors>
+		<jconf>CATA</jconf>
+		<id>78839</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward Protein Structure Analysis with Self-Organizing Maps</title>
+		<year>2005</year>
+		<authors>Lutz Hamel,Gongqin Sun,Jing Zhang</authors>
+		<jconf>CIBCB</jconf>
+		<id>93607</id>
+		<label>11</label>
+		<organization>Department of Computer Science University of Rhode Island Kingston, RI 02881, hamel@cs.uri.edu</organization>
+	</publication>
+	<publication>
+		<title>A Context-Aware Policy Model to Support Autonomic Networking</title>
+		<year>2008</year>
+		<authors>John Strassner,Yan Liu,Jing Zhang</authors>
+		<jconf>COMPSAC</jconf>
+		<id>113456</id>
+		<label>12</label>
+		<organization>Motorola Labs., Schaumburg, IL</organization>
+	</publication>
+	<publication>
+		<title>MDDAS 2008 Workshop Organization</title>
+		<year>2008</year>
+		<authors>John Strassner,Sven van der Meer,Jing Zhang</authors>
+		<jconf>COMPSAC</jconf>
+		<id>113496</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Message from the MDDS 2008 Workshop Organizers</title>
+		<year>2008</year>
+		<authors>John Strassner,Sven van der Meer,Jing Zhang</authors>
+		<jconf>COMPSAC</jconf>
+		<id>113528</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computing Exact p-Value for Structured Motif</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Xi Chen,Ming Li</authors>
+		<jconf>CPM</jconf>
+		<id>118893</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Composition-Oriented Approach for Business Process Formal Design</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Haiyang Wang</authors>
+		<jconf>CSCWD</jconf>
+		<id>122288</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Shangdong Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Pi-calculus-Based Business Process Formal Design Method</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Haiyang Wang</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>122539</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on the Optimal Transmission Design of Planar Bar Mechanism</title>
+		<year>2007</year>
+		<authors>Shijie Fang,Lei Zhang,Jing Zhang,Yantao Wang</authors>
+		<jconf>CSCWD</jconf>
+		<id>122836</id>
+		<label>15</label>
+		<organization>Yantai Univ., Yantai</organization>
+	</publication>
+	<publication>
+		<title>Motion Segmentation of Multiple Translating Objects Using Line Correspondences</title>
+		<year>2005</year>
+		<authors>Fanhuai Shi,Jianhua Wang,Jing Zhang,Yuncai Liu</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129049</id>
+		<label>4</label>
+		<organization>Shanghai Jiao Tong University</organization>
+	</publication>
+	<publication>
+		<title>Expert Finding in a Social Network</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Jie Tang,Juan-Zi Li</authors>
+		<jconf>DASFAA</jconf>
+		<id>141094</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploring digital government initiatives to expand Full Information Product Pricing (FIPP) networks in NAFTA</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Rejean Roy,Monique Charbonneau,Luis F. Luna-Reyes,Irak Lopez Davila,Josune Arcelus de Diego,David F. Andersen,Gabriel Cid,Karen Bryce,Tino DeMarco,Andy Whitmore</authors>
+		<jconf>DG.O</jconf>
+		<id>154947</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>North American digital government working group: initial steps in the development of a comparative and transnational agenda</title>
+		<year>2008</year>
+		<authors>Celene Navarrete,Jing Zhang,Theresa A. Pardo,Luis F. Luna-Reyes,Jose Ramon Gil-Garcia</authors>
+		<jconf>DG.O</jconf>
+		<id>155020</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>A Case Study: A Model-Based Approach to Retrofit a Network Fault Management System with Self-Healing Functionality</title>
+		<year>2008</year>
+		<authors>Yan Liu,Jing Zhang,Michael Jiang,David Raymer,John Strassner</authors>
+		<jconf>ECBS</jconf>
+		<id>167800</id>
+		<label>12</label>
+		<organization>Motorola Inc., Schaumburg</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Terrain LOD with Region Preservation in 3D Game Engine</title>
+		<year>2006</year>
+		<authors>Guojun Chen,Jing Zhang</authors>
+		<jconf>Edutainment</jconf>
+		<id>177965</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Survey on Use of 'New Perspective English Learning System' among University Students-Case Study on Jiangxi Normal University</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Min Li</authors>
+		<jconf>Edutainment</jconf>
+		<id>178100</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The F-R Model of Teaching in Chinese Universities</title>
+		<year>2008</year>
+		<authors>Hui Zhao,Yanbo Huang,Jing Zhang</authors>
+		<jconf>Edutainment</jconf>
+		<id>178134</id>
+		<label>21</label>
+		<organization>Modern Education Technology Center, Central South University, Changsha, China 410083</organization>
+	</publication>
+	<publication>
+		<title>Federate Job Mapping Strategy in Grid-Based Virtual Wargame Collaborative Environment</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Hai Huang</authors>
+		<jconf>Edutainment</jconf>
+		<id>178153</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Visualization of Tire Tracks in Dynamic Terrain with LOD</title>
+		<year>2007</year>
+		<authors>Guojun Chen,Jing Zhang,Xiaoli Xu,Yuan Yin</authors>
+		<jconf>Edutainment</jconf>
+		<id>178191</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Fuzzy Image Enhancement Algorithm</title>
+		<year>2008</year>
+		<authors>Liang-rui Tang,Jing Zhang,Bing Qi</authors>
+		<jconf>FSKD (1)</jconf>
+		<id>218107</id>
+		<label>22</label>
+		<organization>North China Electr. Power Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>DNA Sequences Classification Based on Immune Evolution Network</title>
+		<year>2008</year>
+		<authors>Lianhong Wang,Jing Zhang,Xiaofeng Huang,Gufeng Gong</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218240</id>
+		<label>24</label>
+		<organization>Coll. of Electr. & Inf. Eng., Hunan Univ., Changsha</organization>
+	</publication>
+	<publication>
+		<title>Model Retrieval Based on Flattened Shape Comparison in 3D Databases</title>
+		<year>2008</year>
+		<authors>Guisheng Yin,Huaiyou Chen,Jing Zhang</authors>
+		<jconf>FSKD (4)</jconf>
+		<id>218523</id>
+		<label>23</label>
+		<organization>Coll. of Comput. Sci. & Technol., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>ROI Based Natural Image Retrieval Using Color and TextureFeature</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Choong-Woong Yoo,Seok-Wun Ha</authors>
+		<jconf>FSKD (4)</jconf>
+		<id>219221</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model-Driven Program Transformation of a Large Avionics Framework</title>
+		<year>2004</year>
+		<authors>Jeffrey G. Gray,Jing Zhang,Yuehua Lin,Suman Roychoudhury,Hui Wu,Rajesh Sudarsan,Aniruddha S. Gokhale,Sandeep Neema,Feng Shi,Ted Bapty</authors>
+		<jconf>GPCE</jconf>
+		<id>235717</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Noise Reduction for Engineering Drawings Based on Primitives and Noise Assessment</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Wan Zhang,Liu Wenyin</authors>
+		<jconf>GREC</jconf>
+		<id>236706</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Increase of Potential Intellectual Bandwidth in a Scientific Community through Implementation of an End-User Information System</title>
+		<year>2003</year>
+		<authors>Christian Bach,Salvatore Belardo,Jing Zhang</authors>
+		<jconf>HICSS</jconf>
+		<id>243352</id>
+		<label>27</label>
+		<organization>Univ. at Albany/SUNY, Albany, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Divergent Approaches and Converging Views: Drawing Sensible Linkages between Knowledge Management and Organizational Learning</title>
+		<year>2003</year>
+		<authors>Jing Zhang,Sue R. Faerman</authors>
+		<jconf>HICSS</jconf>
+		<id>249055</id>
+		<label>16</label>
+		<organization>Albany Univ., NY, USA</organization>
+	</publication>
+	<publication>
+		<title>The Nature of Knowledge and Its Influence on Knowledge Sharing Practice: Experiences from Building the MACROS System</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Sue R. Faerman</authors>
+		<jconf>HICSS</jconf>
+		<id>249056</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>The Effect of Organizational/Technological Factors and the Nature of Knowledge on Knowledge Sharing</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Sue R. Faerman,Anthony M. Cresswell</authors>
+		<jconf>HICSS</jconf>
+		<id>249057</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>Minitrack: E-Government Information and Knowledge Management</title>
+		<year>2007</year>
+		<authors>Maria Wimmer,Michael Goul,Jing Zhang</authors>
+		<jconf>HICSS</jconf>
+		<id>249626</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>Information Strategies to Support Full Information Product Pricing: the Role of Trust</title>
+		<year>2009</year>
+		<authors>Luis F. Luna-Reyes,David F. Andersen,Josune Arcelus de Diego,Jing Zhang,Madeleine Andersen,Andy Whitmore,Rejean Roy</authors>
+		<jconf>HICSS</jconf>
+		<id>250442</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Texture-Based Image Retrieval by Edge Detection Matching GLCM</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Gui-li Li,Seok-wun He</authors>
+		<jconf>HPCC</jconf>
+		<id>253472</id>
+		<label>28</label>
+		<organization>Gyeongsang Nat. Univ., Jinju</organization>
+	</publication>
+	<publication>
+		<title>Transforming Natural Arguments in Araucaria to Formal Arguments in LMA</title>
+		<year>2006</year>
+		<authors>Yohsuke Takahashi,Hajime Sawamura,Jing Zhang</authors>
+		<jconf>IAT</jconf>
+		<id>261096</id>
+		<label>31</label>
+		<organization>Qiqihaer University, China</organization>
+	</publication>
+	<publication>
+		<title>Factor Analysis Based Anomaly Detection</title>
+		<year>2003</year>
+		<authors>Ningning Wu,Jing Zhang</authors>
+		<jconf>IAW</jconf>
+		<id>261854</id>
+		<label>0</label>
+		<organization>Dept. of Inf. Sci., Arkansas Univ., Little Rock, AR, USA</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Frame-to-Frame Coherence for Rendering Terrain Using Continuous LOD</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Guojun Chen</authors>
+		<jconf>ICAT</jconf>
+		<id>273835</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Studies on a Class of AWG-Based Node Architectures for Optical Burst-Switched Networks</title>
+		<year>2004</year>
+		<authors>Yurong (Grace) Huang,Debasish Datta,Xue Qiu,Jing Zhang,Hyuk-Kyu Park,Young-Chon Kim,Jonathan P. Heritage,Biswanath Mukherjee</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<id>278881</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Explicit Routing for Traffic Engineering in Labeled Optical Burst-Switched WDM Networks</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Hae-Joung Lee,Shuang Wang,Xue Qiu,Keyao Zhu,Yurong (Grace) Huang,Debasish Datta,Young-Chon Kim,Biswanath Mukherjee</authors>
+		<jconf>International Conference on Computational Science</jconf>
+		<id>280585</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Federation Based Solution for Peer-to-Peer Network Management</title>
+		<year>2007</year>
+		<authors>Jilong Wang,Jing Zhang</authors>
+		<jconf>International Conference on Computational Science (4)</jconf>
+		<id>280683</id>
+		<label>34</label>
+		<organization>Network Research Center, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>RSA Extended Modulus Attacks and Their Solutions in a Kind of Fair Exchange Protocols</title>
+		<year>2005</year>
+		<authors>Ping Li,Lalin Jiang,Jiayin Wu,Jing Zhang</authors>
+		<jconf>ICCNMC</jconf>
+		<id>289698</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Restoration Scheme Based on Threshold Reaction Time in Optical Burst-Switched Networks</title>
+		<year>2004</year>
+		<authors>Hae-Joung Lee,Kyu-Yeop Song,Won-Ho So,Jing Zhang,Debasish Datta,Biswanath Mukherjee,Young-Chon Kim</authors>
+		<jconf>ICCSA (4)</jconf>
+		<id>291531</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal-Nearest-Neighbor Queries</title>
+		<year>2008</year>
+		<authors>Yunjun Gao,Jing Zhang,Gencai Chen,Qing Li,Shen Liu,Chun Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302116</id>
+		<label>38</label>
+		<organization>College of Computer Science, Zhejiang University, Hangzhou 310027, P. R. China. zhangj@zju.edu.cn</organization>
+	</publication>
+	<publication>
+		<title>A Topic Modeling Approach and Its Integration into the Random Walk Framework for Academic Search</title>
+		<year>2008</year>
+		<authors>Jie Tang,Ruoming Jin,Jing Zhang</authors>
+		<jconf>ICDM</jconf>
+		<id>303689</id>
+		<label>13</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Negotiation for Real-Time Manufacturing Execution</title>
+		<year>2004</year>
+		<authors>Li Zhuang,Jing Zhang,Bryan Ng,Yue Tang,Yi Zhao</authors>
+		<jconf>ICEIS (2)</jconf>
+		<id>307579</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Cluster Distribution of Regulatory Motifs of Transcription in Yeast Introns</title>
+		<year>2005</year>
+		<authors>Jun Hu,Jing Zhang</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>313284</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing the Selection of Partners in Collaborative Operation Networks</title>
+		<year>2007</year>
+		<authors>Kai Kang,Jing Zhang,Baoshan Xu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314057</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Lossless Compression for Hyperspectral Images by Adaptive Classified Arithmetic Coding in Wavelet Domain</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Guizhong Liu</authors>
+		<jconf>ICIP</jconf>
+		<id>323809</id>
+		<label>40</label>
+		<organization>Sch. of Electron. & Inf. Eng., Xi'an Jiaotong Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Multimedia System for Route Sharing and Video-Based Navigation</title>
+		<year>2006</year>
+		<authors>Wen Wu,Jie Yang,Jing Zhang</authors>
+		<jconf>ICME</jconf>
+		<id>332131</id>
+		<label>47</label>
+		<organization>Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>A PDA-Based Sign Translator</title>
+		<year>2002</year>
+		<authors>Jing Zhang,Xilin Chen,Jie Yang,Alex Waibel</authors>
+		<jconf>ICMI</jconf>
+		<id>334256</id>
+		<label>47</label>
+		<organization>Mobile Technologies, LLC</organization>
+	</publication>
+	<publication>
+		<title>An Advanced Scheme For Wireless Network Authentication System</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Jinhai Liu,Tiepan Li</authors>
+		<jconf>ICN/ICONS/MCL</jconf>
+		<id>337211</id>
+		<label>46</label>
+		<organization>Henan Institute of Education, Zhengzhou,China</organization>
+	</publication>
+	<publication>
+		<title>A New Scheme For Wireless Network Authentication System</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Bo Wang</authors>
+		<jconf>ICN/ICONS/MCL</jconf>
+		<id>337219</id>
+		<label>46</label>
+		<organization>Wuhan University,Wuhan,China</organization>
+	</publication>
+	<publication>
+		<title>Neuroinformatics Research in China- Current Status and Future Research Activities</title>
+		<year>2005</year>
+		<authors>Guang Li,Jing Zhang,Faji Gu,Ling Yin,Yiyuan Tang,Xiaowei Tang</authors>
+		<jconf>ICNC (1)</jconf>
+		<id>337739</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eigenspectra Versus Eigenfaces: Classification with a Kernel-Based Nonlinear Representor</title>
+		<year>2005</year>
+		<authors>Benyong Liu,Jing Zhang</authors>
+		<jconf>ICNC (1)</jconf>
+		<id>337784</id>
+		<label>50</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary Algorithm Based on Overlapped Gene Expression</title>
+		<year>2005</year>
+		<authors>Jing Peng,Changjie Tang,Jing Zhang,Chang-an Yuan</authors>
+		<jconf>ICNC (3)</jconf>
+		<id>337904</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach Using Edge Detection Information for Texture Based Image Retrieval</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Seok-Wun Ha</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>338111</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multimodal Registration using the Discrete Wavelet Frame Transform</title>
+		<year>2006</year>
+		<authors>Shutao Li,Jinglin Peng,James T. Kwok,Jing Zhang</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>347652</id>
+		<label>57</label>
+		<organization>Hunan University Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>A Robust Approach for Recognition of Text Embedded in Natural Scenes</title>
+		<year>2002</year>
+		<authors>Jing Zhang,Xilin Chen,Andreas Hanneman,Jie Yang,Alex Waibel</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>349484</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Motion Segmentation by Multibody Trifocal Tensor Using Line Correspondence</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Fanhuai Shi,Yuncai Liu</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>349549</id>
+		<label>4</label>
+		<organization>Image Processing and Pattern Recognition Institute</organization>
+	</publication>
+	<publication>
+		<title>A new edge-based text verification approach for video</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Dmitry B. Goldgof,Rangachar Kasturi</authors>
+		<jconf>ICPR</jconf>
+		<id>350612</id>
+		<label>25</label>
+		<organization>Dept. of Comput. Sci. & Eng., Univ. of South Florida, Tampa, FL</organization>
+	</publication>
+	<publication>
+		<title>Sharing Inertia Load between Multiple Robots with Active Compliant Grippers using Trajectory Pre-shaping</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Ronald Lumia,Gregory P. Starr,John Wood</authors>
+		<jconf>ICRA</jconf>
+		<id>357268</id>
+		<label>54</label>
+		<organization>Dept. of Mech. Eng., New Mexico Univ., Albuquerque, NM, USA</organization>
+	</publication>
+	<publication>
+		<title>Maintaining software product lines - an industrial practice</title>
+		<year>2008</year>
+		<authors>Michael Jiang,Jing Zhang,Hong Zhao,Yuanyuan Zhou</authors>
+		<jconf>ICSM</jconf>
+		<id>364890</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The LLAMA Middleware Support for Accountable Service-Oriented Architecture</title>
+		<year>2008</year>
+		<authors>Mark Panahi,Kwei-Jay Lin,Yue Zhang,Soo-Ho Chang,Jing Zhang,Leonardo Varela</authors>
+		<jconf>ICSOC</jconf>
+		<id>365290</id>
+		<label>36</label>
+		<organization>Department of Electrical Engineering and Computer Science, University of California, Irvine, Irvine, USA CA 92697</organization>
+	</publication>
+	<publication>
+		<title>Personalized QoS Prediction forWeb Services via Collaborative Filtering</title>
+		<year>2007</year>
+		<authors>Lingshuang Shao,Jing Zhang,Yong Wei,Junfeng Zhao,Bing Xie,Hong Mei</authors>
+		<jconf>ICWS</jconf>
+		<id>371126</id>
+		<label>55</label>
+		<organization>Peking Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Processing and Analysis of Ground Penetrating Radar Landmine Detection</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Baikunth Nath</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>375148</id>
+		<label>61</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Integration Frame of Collaborative Innovation Support System for Telecom Operators</title>
+		<year>2007</year>
+		<authors>Jing Zhang</authors>
+		<jconf>CONFENIS (2)</jconf>
+		<id>384364</id>
+		<label>62</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applying Virtual Reality to Web-based Education</title>
+		<year>2006</year>
+		<authors>Han Xue,Jing Zhang</authors>
+		<jconf>IMSCCS (1)</jconf>
+		<id>398678</id>
+		<label>63</label>
+		<organization>Harbin Engineering University, China</organization>
+	</publication>
+	<publication>
+		<title>Real-time Competition Simulation System</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Yan-bo Li,Maozu Guo</authors>
+		<jconf>IMSCCS</jconf>
+		<id>398757</id>
+		<label>9</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Model-driven generative techniques for scalable performability analysis of distributed systems</title>
+		<year>2006</year>
+		<authors>Arundhati Kogekar,Dimple Kaul,Aniruddha S. Gokhale,Paul J. Vandal,U. Praphamontripong,Swapna S. Gokhale,Jing Zhang,Yuehua Lin,Jeffrey G. Gray</authors>
+		<jconf>IPDPS</jconf>
+		<id>411670</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., Vanderbilt Univ., Nashville, TN, USA</organization>
+	</publication>
+	<publication>
+		<title>Approximate treatment for calculation of the rate-distortion slope in EBCOT</title>
+		<year>2005</year>
+		<authors>Yue-xin Zhu,Nan-ning Zheng,Jing Zhang,Zong-ze Wu</authors>
+		<jconf>ISCAS (6)</jconf>
+		<id>425307</id>
+		<label>59</label>
+		<organization>Sch. of Electr. Eng., Xi'an Jiaotong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Landmine Feature Extraction and Classification of GPR Data Based on SVM Method</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Qun Liu,Baikunth Nath</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443210</id>
+		<label>61</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Training of a Kernel-Based Representative and Discriminative Nonlinear Classifier</title>
+		<year>2007</year>
+		<authors>Benyong Liu,Jing Zhang,Xiaowei Chen</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443547</id>
+		<label>50</label>
+		<organization>College of Computer Science and Technology, Guizhou University, Huaxi 550025, Guiyang, China</organization>
+	</publication>
+	<publication>
+		<title>Single Trial Evoked Potentials Study during an Emotional Processing Based on Wavelet Transform</title>
+		<year>2008</year>
+		<authors>Ling Zou,Renlai Zhou,Senqi Hu,Jing Zhang,Yansong Li</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443867</id>
+		<label>68</label>
+		<organization>State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing, China 100875</organization>
+	</publication>
+	<publication>
+		<title>Sequential Proximity-Based Clustering for Telecommunication Network Alarm Correlation</title>
+		<year>2008</year>
+		<authors>Yan Liu,Jing Zhang,Xin Meng,John Strassner</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443970</id>
+		<label>12</label>
+		<organization>Motorola Labs, Schaumburg, USA 60193</organization>
+	</publication>
+	<publication>
+		<title>Watermarking for Authentication of LZ-77 Compressed Documents</title>
+		<year>2007</year>
+		<authors>Yanfang Du,Jing Zhang,Yuting Su</authors>
+		<jconf>IWDW</jconf>
+		<id>464050</id>
+		<label>69</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ArnetMiner: extraction and mining of academic social networks</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Limin Yao,Juanzi Li,Li Zhang,Zhong Su</authors>
+		<jconf>KDD</jconf>
+		<id>473726</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hand-Eye Robotic Model for Total Knee Replacement Surgery</title>
+		<year>2005</year>
+		<authors>Fanhuai Shi,Jing Zhang,Yuncai Liu,Zijian Zhao</authors>
+		<jconf>MICCAI (2)</jconf>
+		<id>498119</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Levels of Independence in Aspect-Oriented Modeling</title>
+		<year>2003</year>
+		<authors>Jeff Gray,Yuehua Lin,Jing Zhang</authors>
+		<jconf>Middleware Workshops</jconf>
+		<id>499789</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hyperspectral images lossless compression by a novel three-dimensional wavelet coding</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Guizhong Liu</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503482</id>
+		<label>40</label>
+		<organization>Xi'an Jiaotong University, Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>Computer Simulation for Protein Folding</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Yang Yu,Maozu Guo</authors>
+		<jconf>MSV</jconf>
+		<id>509479</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Speechalator: Two-Way Speech-to-Speech Translation in Your Hand</title>
+		<year>2003</year>
+		<authors>Alex Waibel,Ahmed Badran,Alan W. Black,Robert E. Frederking,Donna Gates,Alon Lavie,Lori S. Levin,Kevin Lenzo,Laura Mayfield Tomokiyo,Jurgen Reichert,Tanja Schultz,Dorcas Wallace,Monika Woszczyna,Jing Zhang</authors>
+		<jconf>HLT-NAACL</jconf>
+		<id>511082</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>C-SAW and genAWeave: a two-level aspect weaving toolsuite</title>
+		<year>2004</year>
+		<authors>Jeffrey G. Gray,Jing Zhang,Suman Roychoudhury,Ira D. Baxter</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>522215</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham, Birmingham, AL</organization>
+	</publication>
+	<publication>
+		<title>Supporting software evolution through model-driven program transformation</title>
+		<year>2004</year>
+		<authors>Jing Zhang</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>522969</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham, Birmingham, AL</organization>
+	</publication>
+	<publication>
+		<title>Metamodel-driven model interpreter evolution</title>
+		<year>2005</year>
+		<authors>Jing Zhang</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>522971</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham, Birmingham, AL</organization>
+	</publication>
+	<publication>
+		<title>A Mixture Model for Expert Finding</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Jie Tang,Liu Liu,Juan-Zi Li</authors>
+		<jconf>PAKDD</jconf>
+		<id>527619</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Discriminative Approach to Topic-Based Citation Recommendation</title>
+		<year>2009</year>
+		<authors>Jie Tang,Jing Zhang</authors>
+		<jconf>PAKDD</jconf>
+		<id>527702</id>
+		<label>13</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>Core role-based access control: efficient implementations by transformations</title>
+		<year>2006</year>
+		<authors>Yanhong A. Liu,Chen Wang,Michael Gorbovitski,Tom Rothamel,Yongxi Cheng,Yingchao Zhao,Jing Zhang</authors>
+		<jconf>PEPM</jconf>
+		<id>538250</id>
+		<label>72</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rapid and Accurate Protein Side Chain Prediction with Local Backbone Information</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Xin Gao,Jinbo Xu,Ming Li</authors>
+		<jconf>RECOMB</jconf>
+		<id>559285</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ArnetMiner: An Expertise Oriented Search System for Web Community</title>
+		<year>2007</year>
+		<authors>Jie Tang,Jing Zhang,Duo Zhang,Limin Yao,Chunlin Zhu,Juan-Zi Li</authors>
+		<jconf>Semantic Web Challenge</jconf>
+		<id>583919</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-signers Strong Designated Verifier Signature Scheme</title>
+		<year>2008</year>
+		<authors>Yaling Zhang,Jing Zhang,Yikun Zhang</authors>
+		<jconf>SNPD</jconf>
+		<id>608973</id>
+		<label>74</label>
+		<organization>Sch. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>Replicators: Transformations to Address Model Scalability</title>
+		<year>2005</year>
+		<authors>Jeffrey G. Gray,Yuehua Lin,Jing Zhang,Steven Nordstrom,Aniruddha S. Gokhale,Sandeep Neema,Swapna S. Gokhale</authors>
+		<jconf>MoDELS</jconf>
+		<id>635185</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Detection of Signs with Affine Transformation</title>
+		<year>2002</year>
+		<authors>Xilin Chen,Jie Yang,Jing Zhang,Alex Waibel</authors>
+		<jconf>WACV</jconf>
+		<id>650904</id>
+		<label>47</label>
+		<organization>Interactive Syst. Lab, Carnegie Mellon Univ., Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>A New Heuristic Reduct Algorithm Base on Rough Sets Theory</title>
+		<year>2003</year>
+		<authors>Jing Zhang,Jianmin Wang,Deyi Li,Huacan He,Jia-Guang Sun</authors>
+		<jconf>WAIM</jconf>
+		<id>652226</id>
+		<label>73</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Name Disambiguation Using Atomic Clusters</title>
+		<year>2008</year>
+		<authors>Feng Wang,Juanzi Li,Jie Tang,Jing Zhang,Kehong Wang</authors>
+		<jconf>WAIM</jconf>
+		<id>652256</id>
+		<label>13</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Recommendation over a Heterogeneous Social Network</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Jie Tang,Bangyong Liang,Zi Yang,Sijie Wang,Jingjing Zuo,Juanzi Li</authors>
+		<jconf>WAIM</jconf>
+		<id>652393</id>
+		<label>13</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Topic-Level Random Walk through Probabilistic Model</title>
+		<year>2009</year>
+		<authors>Zi Yang,Jie Tang,Jing Zhang,Juanzi Li,Bo Gao</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652412</id>
+		<label>13</label>
+		<organization>Department of Computer Science & Technology, Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>EOS: expertise oriented search using social networks</title>
+		<year>2007</year>
+		<authors>Juan-Zi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong</authors>
+		<jconf>WWW</jconf>
+		<id>675121</id>
+		<label>13</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Extraction and mining of an academic social network</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Limin Yao,Juan-Zi Li</authors>
+		<jconf>WWW</jconf>
+		<id>675428</id>
+		<label>13</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A unified framework for name disambiguation</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Duo Zhang,Juanzi Li</authors>
+		<jconf>WWW</jconf>
+		<id>675438</id>
+		<label>13</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Software Product Line Maintenance with Source Code Mining</title>
+		<year>2008</year>
+		<authors>Michael Jiang,Jing Zhang,Hong Zhao,Yuanyuan Zhou</authors>
+		<jconf>WASA</jconf>
+		<id>677741</id>
+		<label>12</label>
+		<organization>Motorola Labs, Motorola, Schaumburg, USA IL 60196</organization>
+	</publication>
+	<publication>
+		<title>Efficient Video Authentication for H.264/AVC</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Anthony T. S. Ho</authors>
+		<jconf>ICICIC (3)</jconf>
+		<id>679558</id>
+		<label>75</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.</organization>
+	</publication>
+	<publication>
+		<title>Study on the Co-Existence of 20ms TTI and 5ms TTI in E-DCH of TD-SCDMA HSUPA</title>
+		<year>2007</year>
+		<authors>Mingke Li,Kai Wang,Jing Zhang,Yafeng Wang,Dacheng Yang</authors>
+		<jconf>VTC Fall</jconf>
+		<id>687443</id>
+		<label>0</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Multi-User Joint Doppler Spread Estimation in Generalized Distributed Antenna System</title>
+		<year>2007</year>
+		<authors>Jin Xu,Jing Zhang,Juan Han,Xiaofeng Tao,Lihua Li,Ping Zhang</authors>
+		<jconf>VTC Fall</jconf>
+		<id>687483</id>
+		<label>0</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Novel Load Control Strategy For TD-SCDMA Enhanced Uplink</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Siqing You,Yi Zheng,Yafeng Wang,Yongyu Chang,Dacheng Yang</authors>
+		<jconf>VTC Spring</jconf>
+		<id>690517</id>
+		<label>0</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>3D Motion Segmentation from Straight-Line Optical Flow</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Fanhuai Shi,Jianhua Wang,Yuncai Liu</authors>
+		<jconf>MCAM</jconf>
+		<id>695810</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating the Disaster Defense Ability of Information Systems</title>
+		<year>2007</year>
+		<authors>Baowen Zhang,Jing Zhang,Ning Zhou,Mingang Chen</authors>
+		<jconf>PAISI</jconf>
+		<id>696642</id>
+		<label>80</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Automatic Voice Query System for Bank Based on Telephone Network</title>
+		<year>2008</year>
+		<authors>Dong-ming Li,Jing Zhang,Li Zhang,Ya-ju Liu,Bo Du</authors>
+		<jconf>ISIP</jconf>
+		<id>709104</id>
+		<label>13</label>
+		<organization>Coll. of Mech. & Electr. Eng., Agric. Univ. of Hebei, Baoding</organization>
+	</publication>
+	<publication>
+		<title>Comparison between Voxel-based Morphometry and Volumetric Analysis in Schizophrenia</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Monte S. Buchsbaum,Kingwai Chu,Erin A. Hazlett</authors>
+		<jconf>BMEI (2)</jconf>
+		<id>716682</id>
+		<label>79</label>
+		<organization>Dept. of Psychiatry, Mount Sinai Sch. of Med., New York, NY</organization>
+	</publication>
+	<publication>
+		<title>Business Process-Oriented Software Architecture for Supporting Business Process Change</title>
+		<year>2008</year>
+		<authors>Qing Yao,Jing Zhang,Haiyang Wang</authors>
+		<jconf>ISECS</jconf>
+		<id>720138</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Technol., Shandong Univ., Jinan</organization>
+	</publication>
+	<publication>
+		<title>Semantic Information Extraction of Video Based on Ontology and Inference</title>
+		<year>2007</year>
+		<authors>Jie Ma,Jing Zhang,Hong Lu,Xiangyang Xue</authors>
+		<jconf>ICSC</jconf>
+		<id>720471</id>
+		<label>78</label>
+		<organization>East China University of Science & Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Model-Driven Adaptive Self-healing for Autonomic Computing</title>
+		<year>2008</year>
+		<authors>Yan Liu,Jing Zhang,John Strassner</authors>
+		<jconf>MACE</jconf>
+		<id>721833</id>
+		<label>12</label>
+		<organization>Motorola Labs, Schaumburg, USA IL 60193</organization>
+	</publication>
+	<publication>
+		<title>A New Calibration Model and Method of Camera Lens Distortion</title>
+		<year>2006</year>
+		<authors>Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu</authors>
+		<jconf>IROS</jconf>
+		<id>724360</id>
+		<label>4</label>
+		<organization>Dept. of Autom., Shanghai Jiao Tong Univ.</organization>
+	</publication>
+	<publication>
+		<title>A model-based approach to adding autonomic capabilities to network fault management system</title>
+		<year>2008</year>
+		<authors>Yan Liu,Jing Zhang,Michael Jiang,David Raymer,John Strassner</authors>
+		<jconf>NOMS</jconf>
+		<id>726821</id>
+		<label>12</label>
+		<organization>Motorola Autonomics Lab., Motorola Inc., Schaumburg, IL</organization>
+	</publication>
+	<publication>
+		<title>A low complexity method for real-time gaze tracking</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Mengkai Zhao,Li Zhuo,Lansun Shen</authors>
+		<jconf>MMSP</jconf>
+		<id>727231</id>
+		<label>84</label>
+		<organization>Signal & Inf. Process. Lab., Beijing Univ. of Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach of Face Detection based on Skin Color Segmentation and PCA</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Yang Liu,Seok-Wun Ha</authors>
+		<jconf>ICYCS</jconf>
+		<id>730647</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Biomechanical Modeling of Bone-Needle Interaction for Haptic Rendering in Needle Insertion Simulation</title>
+		<year>2006</year>
+		<authors>Jackson Shin-Kiat Ong,Chee-Kong Chui,Zhenlan Wang,Jing Zhang,Jeremy Choon-Meng Teo,Chye Hwang Yan,Sim Heng Ong,Chee Leong Teo,Swee-Hin Teoh</authors>
+		<jconf>ICARCV</jconf>
+		<id>732481</id>
+		<label>83</label>
+		<organization>Dept. of Mech. Eng., National Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Identification of initial rotor position of a micro-PMSM</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Ningning Wu</authors>
+		<jconf>ICARCV</jconf>
+		<id>733219</id>
+		<label>0</label>
+		<organization>Syst. Eng. Dept., Univ. of Arkansas at Little Rock, Little Rock, AR</organization>
+	</publication>
+	<publication>
+		<title>Application of multisensor data fusion based on RBF neural networks for fault diagnosis of SAMS</title>
+		<year>2002</year>
+		<authors>Chunling Fan,Zhihua Jin,Jing Zhang,Weifeng Tian</authors>
+		<jconf>ICARCV</jconf>
+		<id>733497</id>
+		<label>82</label>
+		<organization>Dept. of Instrum. Eng., Shanghai Jiao Tong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Application of neuro-fuzzy control for satellite AOCS</title>
+		<year>2002</year>
+		<authors>Jing Zhang,Weifeng Tian,Chunling Fan,Zhihua Jin</authors>
+		<jconf>ICARCV</jconf>
+		<id>733585</id>
+		<label>82</label>
+		<organization>Dept. of Instrum. Eng., Shanghai Jiao Tong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Robust Controller for Networked Control Systems Induced Noise and Long Transmission Delay</title>
+		<year>2008</year>
+		<authors>Zhanshan Zhao,Qun Zong,Jing Zhang</authors>
+		<jconf>ICNSC</jconf>
+		<id>735931</id>
+		<label>81</label>
+		<organization>Tianjin Univ., Tianjin</organization>
+	</publication>
+	<publication>
+		<title>Similarity computing model of high dimension data for symptom classification of Chinese traditional medicine</title>
+		<year>2009</year>
+		<authors>Jing Peng,Chang-jie Tang,Dongqing Yang,Jing Zhang,Jianjun Hu</authors>
+		<jconf>Appl. Soft Comput.</jconf>
+		<id>760629</id>
+		<label>6</label>
+		<organization>Chengdu Jiuheyuan Industry Company, Chengdu 610015, China</organization>
+	</publication>
+	<publication>
+		<title>ATID: a web-oriented database for collection of publicly available alternative translational initiation events</title>
+		<year>2005</year>
+		<authors>Jun Cai,Jing Zhang,Ying Huang,Yanda Li</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>763153</id>
+		<label>13</label>
+		<organization>MOE Key Laboratory of Bioinformatics and Department of Automation, Tsinghua University Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>MicroRNA identification based on sequence and structure alignment</title>
+		<year>2005</year>
+		<authors>Xiaowo Wang,Jing Zhang,Fei Li,Jin Gu,Tao He,Xuegong Zhang,Yanda Li</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>766419</id>
+		<label>13</label>
+		<organization>MOE Key Laboratory of Bioinformatics, Department of Automation, Tsinghua University Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Computing exact P-values for DNA motifs</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Bo Jiang,Ming Li,John Tromp,Xuegong Zhang,Michael Q. Zhang</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767013</id>
+		<label>13</label>
+		<organization>State Key Laboratory of Intelligent Technology & System, Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China,</organization>
+	</publication>
+	<publication>
+		<title>dbNEI2.0: building multilayer network for drug-NEI-disease</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Tao Ma,Yanda Li,Shao Li</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767958</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>htSNPer1.0: software for haplotype block partition and htSNPs selection</title>
+		<year>2005</year>
+		<authors>Keyue Ding,Jing Zhang,Kaixin Zhou,Yan Shen,Xuegong Zhang</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768501</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detection of potential positive regulatory motifs of transcription in yeast introns by comparative analysis of oligonucleotide frequencies</title>
+		<year>2003</year>
+		<authors>Jing Zhang,Jun Hu,Xiu-fan Shi,Huai Cao,Wei-bo Liu</authors>
+		<jconf>Computational Biology and Chemistry</jconf>
+		<id>782827</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automating Change Evolution in Model-Driven Engineering</title>
+		<year>2006</year>
+		<authors>Jeff Gray,Yuehua Lin,Jing Zhang</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>806568</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham</organization>
+	</publication>
+	<publication>
+		<title>The spectrum of cyclic BSEC with block size three</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Yanxun Chang</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>849249</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Factor-analysis based anomaly detection and clustering</title>
+		<year>2006</year>
+		<authors>Ningning Wu,Jing Zhang</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857418</id>
+		<label>0</label>
+		<organization>Universtty of Arkansas at Little Rock, Applied Science, Little Rock</organization>
+	</publication>
+	<publication>
+		<title>Improved Blind Decodings of STBC with Unknown and Known Channel Correlation to Transmitter</title>
+		<year>2007</year>
+		<authors>Zhengwei Gong,Taiyi Zhang,Jing Zhang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>896014</id>
+		<label>40</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Epitaxial Growth of SiGe Interband Tunneling Diodes on Si(001) and on Si0.7Ge0.3 Virtual Substrates</title>
+		<year>2006</year>
+		<authors>Mathieu Stoffel,Jing Zhang,Oliver G. Schmidt</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>899538</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Aspect mining from a modelling perspective</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Jeff Gray,Yuehua Lin,Robert Tairas</authors>
+		<jconf>IJCAT</jconf>
+		<id>904926</id>
+		<label>0</label>
+		<organization>Department of Computer and Information Sciences, University of Alabama at Birmingham, 1300 University Blvd., 126 Campbell Hall, Birmingham, AL 35294, USA; Motorola Research Labs, NIRL Autonomics Research, 1301 Algonquin Road, Schaumburg, IL 60196, USA.</organization>
+	</publication>
+	<publication>
+		<title>Systematic benchmarking of microarray data feature extraction and classification</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Tianzi Jiang,Bing Liu,Xingpeng Jiang,Huizhi Zhao</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>907015</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Weaving Deployment Aspects into Domain-specific Models</title>
+		<year>2006</year>
+		<authors>Krishnakumar Balasubramanian,Aniruddha S. Gokhale,Yuehua Lin,Jing Zhang,Jeff Gray</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>921069</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparative knowledge management: A pilot study of Chinese and American universities</title>
+		<year>2005</year>
+		<authors>Qian Geng,Charles Townley,Kun Huang,Jing Zhang</authors>
+		<jconf>JASIST</jconf>
+		<id>956110</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Backup reprovisioning to remedy the effect of multiple link failures in WDM mesh networks</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Keyao Zhu,Biswanath Mukherjee</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>992460</id>
+		<label>36</label>
+		<organization>Sun Microsystems, Menlo Park, CA</organization>
+	</publication>
+	<publication>
+		<title>Optimized routing for fault management in optical burst-switched WDM networks</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Shuang Wang,Keyao Zhu,Lei Song,Debasish Datta,Young-Chon Kim,Biswanath Mukherjee</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>993005</id>
+		<label>36</label>
+		<organization>Sun Microsystems, Menlo Park</organization>
+	</publication>
+	<publication>
+		<title>Dynamic provisioning with availability guarantee for differentiated services in survivable mesh networks</title>
+		<year>2007</year>
+		<authors>Lei Song,Jing Zhang,Biswanath Mukherjee</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>993070</id>
+		<label>36</label>
+		<organization>Dept. of Electr. & Comput. Eng., California Univ., Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>A review of fault management in WDM mesh networks: basic concepts and research challenges</title>
+		<year>2004</year>
+		<authors>Jing Zhang,Biswanath Mukherjee</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024029</id>
+		<label>36</label>
+		<organization>Univ. of California, USA</organization>
+	</publication>
+	<publication>
+		<title>Motion segmentation of multiple translating objects from line correspondences</title>
+		<year>2005</year>
+		<authors>Fanhuai Shi,Jianhua Wang,Jing Zhang,Yuncai Liu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041342</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new calibration model of camera lens distortion</title>
+		<year>2008</year>
+		<authors>Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042648</id>
+		<label>4</label>
+		<organization>Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, 800 Dong Chuan Road, Shanghai 200240, PR China</organization>
+	</publication>
+	<publication>
+		<title>Model replication: transformations to address model scalability</title>
+		<year>2008</year>
+		<authors>Yuehua Lin,Jeff Gray,Jing Zhang,Steven Nordstrom,Aniruddha S. Gokhale,Sandeep Neema,Swapna S. Gokhale</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1075787</id>
+		<label>0</label>
+		<organization>Department of Computer and Information Sciences, University of Alabama at Birmingham, Birmingham, AL 35294-1170, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Automatic detection and recognition of signs from natural scenes</title>
+		<year>2004</year>
+		<authors>Xilin Chen,Jie Yang,Jing Zhang,Alex Waibel</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102318</id>
+		<label>47</label>
+		<organization>Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Availability-aware provisioning strategies for differentiated protection services in wavelength-convertible WDM mesh networks</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Keyao Zhu,Hui Zang,Norman S. Matloff,Biswanath Mukherjee</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123027</id>
+		<label>36</label>
+		<organization>Sun Microsystems, Menlo Park, CA</organization>
+	</publication>
+	<publication>
+		<title>A comprehensive study on backup-bandwidth reprovisioning after network-state updates in survivable telecom mesh networks</title>
+		<year>2008</year>
+		<authors>Lei Song,Jing Zhang,Biswanath Mukherjee</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123179</id>
+		<label>36</label>
+		<organization>Sun Microsystems, Menlo Park, CA</organization>
+	</publication>
+	<publication>
+		<title>Fabrication of strained Si channel PMOSFET on thin relaxed Si1-xGex virtual substrate</title>
+		<year>2004</year>
+		<authors>Ding-Lei Mei,Jing-chun Li,Jing Zhang,Wan-jing Xu,Kai-zhou Tan,Mo-hua Yang</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155422</id>
+		<label>14</label>
+		<organization>Sch. of Microelectron. & Solid-State Electron., China Univ. of Electron. Sci. & Technol., Chengdu, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Sports Video Retrieval Based on Index Structure</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Hong Lu,Xiangyang Xue</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<id>1163202</id>
+		<label>78</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A component-oriented software toolkit for patient-specific finite element model generation</title>
+		<year>2009</year>
+		<authors>Chee-Kong Chui,Zhenlan Wang,Jing Zhang,Jackson Shin-Kiat Ong,Limeng Bian,Jeremy Choon-Meng Teo,Chye Hwang Yan,Sim Heng Ong,Shih-Chang Wang,Hee-Kit Wong,Swee-Hin Teoh</authors>
+		<jconf>Advances in Engineering Software</jconf>
+		<id>1169621</id>
+		<label>83</label>
+		<organization>Department of Electrical and Computer Engineering, Faculty of Engineering, National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A model-driven approach to enforce crosscutting assertion checking</title>
+		<year>2005</year>
+		<authors>Jing Zhang,Jeff Gray,Yuehua Lin</authors>
+		<jconf>ACM SIGSOFT Software Engineering Notes</jconf>
+		<id>1179729</id>
+		<label>0</label>
+		<organization>University of Alabama at Birmingham, Birmingham, AL</organization>
+	</publication>
+	<publication>
+		<title>Multi-Index Cooperative Mixed Strategy for Service Selection Problem in Service-Oriented Architecture</title>
+		<year>2008</year>
+		<authors>Yimin Shen,Jing Zhang,Yushun Fan</authors>
+		<jconf>JCP</jconf>
+		<id>1184523</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Arnetminer: expertise oriented search using social networks</title>
+		<year>2008</year>
+		<authors>Juanzi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<id>1185492</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive motion selection for online hand-eye calibration</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Fanhuai Shi,Yuncai Liu</authors>
+		<jconf>Robotica</jconf>
+		<id>1195093</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning-Based Driver Workload Estimation</title>
+		<year>2008</year>
+		<authors>Yilu Zhang,Yuri Owechko,Jing Zhang</authors>
+		<jconf>Computational Intelligence in Automotive Applications</jconf>
+		<id>1201917</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research group on digital government in North America: developing a comparative and transnational agenda</title>
+		<year>2009</year>
+		<authors>Jose Ramon Gil-Garcia,Luis F. Luna-Reyes,Sehl Mellouli,Celene Navarrete,Theresa A. Pardo,Jing Zhang</authors>
+		<jconf>D.GO</jconf>
+		<id>1206974</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploring digital government initiatives to expand full information product pricing (FIPP) networks in NAFTA</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Luis F. Luna-Reyes,David F. Andersen,Andy Whitmore,Rejean Roy</authors>
+		<jconf>D.GO</jconf>
+		<id>1206987</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>Bath-induced Control of two-qubit entanglement under Markovian noises</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Rebing Wu,Chunwen Li,Tzyh Jong Tarn</authors>
+		<jconf>CDC</jconf>
+		<id>1218857</id>
+		<label>35</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Framework for Performance Evaluation of Face, Text, and Vehicle Detection and Tracking in Video: Data, Metrics, and Protocol</title>
+		<year>2009</year>
+		<authors>Rangachar Kasturi,Dmitry B. Goldgof,Padmanabhan Soundararajan,Vasant Manohar,John S. Garofolo,Rachel Bowers,Matthew Boonstra,Valentina N. Korzhova,Jing Zhang</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1226712</id>
+		<label>25</label>
+		<organization>University of South Florida, Tampa</organization>
+	</publication>
+	<publication>
+		<title>A Web Service Adapter with Contract-Oriented Methodology</title>
+		<year>2009</year>
+		<authors>Junhuai Li,Yile Wang,Jing Zhang,Zhuobin Zhang</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>1236119</id>
+		<label>74</label>
+		<organization>Sch. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>Applying PageRank Algorithm in Requirement Concern Impact Analysis</title>
+		<year>2009</year>
+		<authors>Ying Jin,Jing Zhang,Pengfei Ma,Weiping Hao,Shutong Luo,Zepeng Li</authors>
+		<jconf>COMPSAC (1)</jconf>
+		<id>1240043</id>
+		<label>33</label>
+		<organization>Coll. of Comput. Sci. & Technol., Jilin Univ., Jilin, China</organization>
+	</publication>
+	<publication>
+		<title>A Pixel-level Statistical Structural Descriptor for Shape Measure and Recognition</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Wenyin Liu</authors>
+		<jconf>ICDAR</jconf>
+		<id>1246182</id>
+		<label>25</label>
+		<organization>Dept. of Comput. Sci., Univ. of South Florida, Tampa, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>SOA Middleware Support for Service Process Reconfiguration with End-to-End QoS Constraints</title>
+		<year>2009</year>
+		<authors>Yanlong Zhai,Jing Zhang,Kwei-Jay Lin</authors>
+		<jconf>ICWS</jconf>
+		<id>1248983</id>
+		<label>36</label>
+		<organization>Sch. of Comput. Sci. & Technol., Beijing Inst. of Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Do You Know Where Your Data's Been? - Tamper-Evident Database Provenance</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Adriane Chapman,Kristen LeFevre</authors>
+		<jconf>Secure Data Management</jconf>
+		<id>1255135</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fudan University at TRECVID 2008</title>
+		<year>2008</year>
+		<authors>Xiangyang Xue,Wei Zhang,Yue-Fei Guo,Hong Lu,Yuejie Zhang,Zichen Sun,Yingbin Zheng,Shile Zhang,Hong Liu,Yuanzheng Song,Jing Zhang,Xisheng He,Kai Li,Jun Zhou,Yanjie Chen</authors>
+		<jconf>IJHPCA</jconf>
+		<id>1265653</id>
+		<label>78</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Examining Glacier Mass Balances with a Hierarchical Modeling Approach</title>
+		<year>2007</year>
+		<authors>Uma S. Bhatt,Jing Zhang,Craig S. Lingle,Lisa M. Phillips,Wendell V. Tangborn</authors>
+		<jconf>Computing in Science and Engineering</jconf>
+		<id>1269842</id>
+		<label>30</label>
+		<organization>University of Alaska Fairbanks</organization>
+	</publication>
+	<publication>
+		<title>Building Accountability Middleware to Support Dependable SOA</title>
+		<year>2009</year>
+		<authors>Kwei-Jay Lin,Mark Panahi,Yue Zhang,Jing Zhang,Soo-Ho Chang</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<id>1275992</id>
+		<label>36</label>
+		<organization>University of California, Irvine</organization>
+	</publication>
+	<publication>
+		<title>A Task-Based Approach to User Interface Design for a Web-Based Hydrologic Information Systems</title>
+		<year>2006</year>
+		<authors>Leen-Kiat Soh,Jing Zhang,Ashok Samal</authors>
+		<jconf>Synthesis Lectures on Data Mining and Knowledge Discovery</jconf>
+		<id>1291742</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extraction of Text Objects in Video Documents: Recent Progress.</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Rangachar Kasturi</authors>
+		<jconf>null</jconf>
+		<id>1305339</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design of a New Context-Aware Policy Model for Autonomic Networking.</title>
+		<year>2008</year>
+		<authors>John Strassner,Srini Samudrala,Greg W. Cox,Yan Liu,Michael Jiang,Jing Zhang,Sven van der Meer,Mícheál Ó Foghlú,Willie Donnelly</authors>
+		<jconf>null</jconf>
+		<id>1305868</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Approach for Service Process Reconfiguration in SOA with End-to-End QoS Constraints.</title>
+		<year>2009</year>
+		<authors>Kwei-Jay Lin,Jing Zhang,Yanlong Zhai</authors>
+		<jconf>null</jconf>
+		<id>1310195</id>
+		<label>36</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., Univ. of California, Irvine, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Business Process Composition with QoS Optimization.</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Weiran Nie,Mark Panahi,Yichin Chang,Kwei-Jay Lin</authors>
+		<jconf>null</jconf>
+		<id>1310218</id>
+		<label>36</label>
+		<organization>Dept of EECS, Univ. of California, Irvine, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Interweave Neural Networks with Evolutionary Algorithms, Cellular Computing, Bayesian Learning and Ensemble Learning.</title>
+		<year>2009</year>
+		<authors>Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1314750</id>
+		<label>45</label>
+		<organization>Beijing Union Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Computer Simulation of Air Flow Distribution Characteristics in Inner Filtering Fabric Filters.</title>
+		<year>2009</year>
+		<authors>Qi Yin,Man-yin Hu,Jing Zhang,Wen-long Hou</authors>
+		<jconf>null</jconf>
+		<id>1317157</id>
+		<label>49</label>
+		<organization>Dept. of Environ. Sci. & Eng., North China Electr. Power Univ., Baoding, China</organization>
+	</publication>
+	<publication>
+		<title>A Simplified Learning Algorithm of Incremental Bayesian.</title>
+		<year>2009</year>
+		<authors>Hua Chen,Xiao-gang Zhang,Jing Zhang,Li-hua Ding</authors>
+		<jconf>null</jconf>
+		<id>1317546</id>
+		<label>51</label>
+		<organization>Sch. of Comput. & Commun., Hunan Univ., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Spectral Unmixing Technique Based on Flexibly Selected Endmembers.</title>
+		<year>2009</year>
+		<authors>Liguo Wang,Jing Zhang,Luqun Deng</authors>
+		<jconf>null</jconf>
+		<id>1317764</id>
+		<label>48</label>
+		<organization>Coll. of Inf. & Commun. Eng., Harbin Eng. Univ., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Concern Based Approach to Generating SCR Requirement Specification: A Case Study.</title>
+		<year>2009</year>
+		<authors>Ying Jin,Jing Zhang,Weiping Hao,Pengfei Ma</authors>
+		<jconf>null</jconf>
+		<id>1317793</id>
+		<label>33</label>
+		<organization>Coll. of Comput. Sci. & Technol., Jilin Univ., Changchun, China</organization>
+	</publication>
+	<publication>
+		<title>Topic Distributions over Links on Web.</title>
+		<year>2009</year>
+		<authors>Jie Tang,Jing Zhang,Jeffrey Xu Yu,Zi Yang,Keke Cai,Rui Ma,Li Zhang,Zhong Su</authors>
+		<jconf>null</jconf>
+		<id>1319502</id>
+		<label>13</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Image Computing: Fractional Spectra and Circular Moments via FrFT.</title>
+		<year>2009</year>
+		<authors>Benyong Liu,Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1319722</id>
+		<label>50</label>
+		<organization>Dept. Comput. Sci., Guizhou Univ., Guiyang, China</organization>
+	</publication>
+	<publication>
+		<title>Terminal Delay Performance Evaluation Based on Piece-Wise Fuzzy Linear Regression Modeling.</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Fei Wang,Dongxuan Wei,Xiaohao Xu</authors>
+		<jconf>null</jconf>
+		<id>1322534</id>
+		<label>37</label>
+		<organization>Coll. of Civil Aviation, Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>A New FCM-Based Algorithm of Hydrophobic Image Segmentation.</title>
+		<year>2009</year>
+		<authors>Qiuxia Yang,Liangrui Tang,Bing Qi,Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1322632</id>
+		<label>22</label>
+		<organization>Dept. of Electr. & Electron. Eng., North China Electr. Power Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Numerical Simulation of Bag-Type Collector Flow Field in Biomass Energy Power Plant.</title>
+		<year>2009</year>
+		<authors>Manyin Hu,Qi Yin,Jinxing Yu,Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1322933</id>
+		<label>49</label>
+		<organization>Dept. of Environ. Sci. & Eng., North China Electr. Power Univ., Baoding, China</organization>
+	</publication>
+	<publication>
+		<title>Service Quality Evaluation for Brand Retailers Based on Fuzzy Comprehensive Appraisal.</title>
+		<year>2009</year>
+		<authors>Wenyong Zhou,Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1322943</id>
+		<label>43</label>
+		<organization>Sch. of Econ. & Manage., Tongji Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>A Fuzzy Design Algorithm in Nature-Inspired Computation Systems.</title>
+		<year>2009</year>
+		<authors>Jianhao Tan,Jing Zhang,Fu Guo</authors>
+		<jconf>null</jconf>
+		<id>1322984</id>
+		<label>51</label>
+		<organization>Electr. & Inf. Eng. Coll., Hunan Univ., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Advances in Fuzzy Method for Natural Computing.</title>
+		<year>2009</year>
+		<authors>Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1323179</id>
+		<label>45</label>
+		<organization>Beijing Union Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Equivalent Inertia Moment in Linear Stability Calculation of Stepped Beam.</title>
+		<year>2009</year>
+		<authors>Xin Wang,Jing Zhang,Ru-min Teng,Shun-de Gao</authors>
+		<jconf>null</jconf>
+		<id>1327704</id>
+		<label>2</label>
+		<organization>Sch. of Mech. Eng., Dalian Univ. of Technol., Dalian, China</organization>
+	</publication>
+	<publication>
+		<title>Optimized NURBS Curve and Surface Fitting Using Simulated Annealing.</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Shaowei Feng,Hanguo Cui</authors>
+		<jconf>null</jconf>
+		<id>1327836</id>
+		<label>60</label>
+		<organization>Coll. of Naval Archit. & Power, Naval Univ. of Eng., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Creditability Modeling of Distributed Embedded System Based on Real-Time Interaction Specification.</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Hui Rong,Chunhong Zhang,Fenghong Xiang,Yunsheng Zhang</authors>
+		<jconf>null</jconf>
+		<id>1327907</id>
+		<label>64</label>
+		<organization>Fac. of Inf. Eng. & Autom., Kunming Univ. of Sci. & Technol., Kunming, China</organization>
+	</publication>
+	<publication>
+		<title>High Dependability Design Framework in Real-Time Embedded Control Software.</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Feng Yan,Chunhong Zhang,Hui Rong,Fenghong Xiang</authors>
+		<jconf>null</jconf>
+		<id>1327960</id>
+		<label>64</label>
+		<organization>Fac. of Inf. Eng. & Autom., Kunming Univ. of Sci. & Technol., Kunming, China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Video Searching Model Based on Ontology Inference and Multimodal Information Fusion.</title>
+		<year>2008</year>
+		<authors>Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1328225</id>
+		<label>78</label>
+		<organization>Dept. of Comput. Sci. & Eng., East China Univ. of Sci. & Technol., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>The Application of Cultural Algorithm in Load Balancing of Hybrid P2P Network.</title>
+		<year>2009</year>
+		<authors>Xiao-Ling Fu,Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1329173</id>
+		<label>58</label>
+		<organization>Inf. Eng. Coll., North China Univ. of Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Reliability Modeling and Analysis of Service-Oriented Robot Management System</title>
+		<year>2006</year>
+		<authors>Ping Zhang,Renqing Lu,Jing Zhang</authors>
+		<jconf>Proceedings of the 2006 IEEE Asia-Pacific Conference on Services Computing</jconf>
+		<id>1371300</id>
+		<label>0</label>
+		<organization>South China University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Leopard Image Retrieval using Region of Interest and Texture Feature</title>
+		<year>2006</year>
+		<authors>Jing Zhang,Seok-Wun Ha</authors>
+		<jconf>Proceedings of the 2006 International Conference on Hybrid Information Technology - Volume 01</jconf>
+		<id>1374070</id>
+		<label>28</label>
+		<organization>National University, Korea</organization>
+	</publication>
+	<publication>
+		<title>A Simulating Algorithm for Protein Folding Process</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Song Li</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 03</jconf>
+		<id>1383251</id>
+		<label>9</label>
+		<organization>Coll. of Comput. Sci. & Technol., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Design and analysis of bi-directional pumping silicon Raman laser</title>
+		<year>2008</year>
+		<authors>Ying Huang,Ming Tang,Ping Shum,Jing Zhang,John H. Lau</authors>
+		<jconf>Proceedings of the 2008 International Conference on Advanced Infocomm Technology</jconf>
+		<id>1386388</id>
+		<label>56</label>
+		<organization>IME</organization>
+	</publication>
+	<publication>
+		<title>Watermarking for Authentication of LZ-77 Compressed Documents</title>
+		<year>2008</year>
+		<authors>Yanfang Du,Jing Zhang,Yuting Su</authors>
+		<jconf>Proceedings of the 6th International Workshop on Digital Watermarking</jconf>
+		<id>1390589</id>
+		<label>69</label>
+		<organization>School of Electronic Information Engineering, Tianjin University, Tianjin, China 300072</organization>
+	</publication>
+	<publication>
+		<title>Implementation Technique of Unrestricted LL Action Grammar</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Ying Jin</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 01</jconf>
+		<id>1394130</id>
+		<label>33</label>
+		<organization>Coll. of Comput. Sci. & Tech., Jilin Univ., Changchun</organization>
+	</publication>
+	<publication>
+		<title>Comparative knowledge management: A pilot study of Chinese and American universities: Book Reviews</title>
+		<year>2005</year>
+		<authors>Qian Geng,Charles Townley,Kun Huang,Jing Zhang</authors>
+		<jconf>Journal of the American Society for Information Science and Technology</jconf>
+		<id>1413754</id>
+		<label>8</label>
+		<organization>Curriculum and Instruction Department, MSC 3CUR, New Mexico State University, P.O. Box 30001, Las Cruces, NM 88003-8001</organization>
+	</publication>
+	<publication>
+		<title>Large area nanosize array stamp for UV-based nanoimprint lithography fabricated by size reduction process</title>
+		<year>2009</year>
+		<authors>Xiaoli Li,Qingkang Wang,Jing Zhang,Weimin Zhou,Yanbo Liu,Yongzhong Wan,Xiaoming Niu</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1428380</id>
+		<label>53</label>
+		<organization>Core Lab of Shanghai Nanotechnology Promotion Centre, 3/f No.3 Building, 245# Jiachuan Road, Shanghai 200237, PR China</organization>
+	</publication>
+	<publication>
+		<title>Research group on digital government in North America: developing a comparative and transnational agenda</title>
+		<year>2009</year>
+		<authors>J. Ramon Gil-Garcia,Luis F. Luna Reyes,Sehl Mellouli,Celene Navarrete,Theresa Pardo,Jing Zhang</authors>
+		<jconf>Proceedings of the 10th Annual International Conference on Digital Government Research: Social Networks: Making Connections between Citizens, Data and Government</jconf>
+		<id>1428842</id>
+		<label>16</label>
+		<organization>Clark University</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Equivalents of Power System Based on Extended Two Particle Swarm Optimization</title>
+		<year>2007</year>
+		<authors>Jingping Yang,Jing Zhang,Wulue Pan</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 05</jconf>
+		<id>1578769</id>
+		<label>38</label>
+		<organization>Zhejiang University, China; Student Member, IEEE</organization>
+	</publication>
+	<publication>
+		<title>Function Finding and Constants Creation Method in Evolutionary Algorithm Based on Overlapped Gene Expression</title>
+		<year>2007</year>
+		<authors>Jing Peng,Chang-jie Tang,Dong-qing Yang,Shao-jie Qiao,Jing Zhang</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 04</jconf>
+		<id>1579908</id>
+		<label>6</label>
+		<organization>Chengdu Jiuheyuan Industry Company, China</organization>
+	</publication>
+	<publication>
+		<title>The Predictive Control of Sintering Temperature in Rotary Kiln Based on Image Feedback and Soft Computing</title>
+		<year>2007</year>
+		<authors>Xiaogang Zhang,Hua Chen,Jing Zhang</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 03</jconf>
+		<id>1581750</id>
+		<label>51</label>
+		<organization>Hunan University, China</organization>
+	</publication>
+	<publication>
+		<title>An Improved Immune Evolutionary Algorithm for Multimodal Function Optimization</title>
+		<year>2007</year>
+		<authors>Xuesong Xu,Jing Zhang</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 03</jconf>
+		<id>1581878</id>
+		<label>51</label>
+		<organization>Hunan University, China</organization>
+	</publication>
+	<publication>
+		<title>ROI Based Natural Image Retrieval Using Color and Texture Feature</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Choong-Woong Yoo,Seok-Wun Ha</authors>
+		<jconf>Proceedings of the Fourth International Conference on Fuzzy Systems and Knowledge Discovery - Volume 04</jconf>
+		<id>1582696</id>
+		<label>28</label>
+		<organization>GyeongSang National University, Korea</organization>
+	</publication>
+	<publication>
+		<title>Specification and Runtime Enforcement of Security Policies</title>
+		<year>2007</year>
+		<authors>Ying Jin,Jing Zhang,Xiaojuan Zheng</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1582760</id>
+		<label>33</label>
+		<organization>Jilin University</organization>
+	</publication>
+	<publication>
+		<title>Monotone iterative technique for initial-value problems of nonlinear singular discrete systems</title>
+		<year>2008</year>
+		<authors>Peiguang Wang,Jing Zhang</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1595078</id>
+		<label>70</label>
+		<organization>Department of Basic Science, North China Institute of Aerospace Engineering, Lanfang, 065000, China</organization>
+	</publication>
+	<publication>
+		<title>Flexible Feature Processing Mechanism of Radar Target Signal</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Wenxian Yu,Jicai Wei</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05</jconf>
+		<id>1596745</id>
+		<label>71</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Survey on Use of "New Perspective English Learning System" among University Students--Case Study on Jiangxi Normal University</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Min Li</authors>
+		<jconf>Proceedings of the 3rd international conference on Technologies for E-Learning and Digital Entertainment</jconf>
+		<id>1599260</id>
+		<label>18</label>
+		<organization>School of Communication, Jiangxi Normal University, Nanchang, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Work-Flow Based Multi-Domain Certificate in E-Commerce</title>
+		<year>2004</year>
+		<authors>Zhiyi Fang,Yong Feng,Zhuang Liu,Jing Zhang</authors>
+		<jconf>Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference</jconf>
+		<id>1613981</id>
+		<label>33</label>
+		<organization>Jilin University, Changchun, China</organization>
+	</publication>
+	<publication>
+		<title>Numerical Simulation of Fluid Flow in Thin Slab Continuous Casting Mould</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Ying Gao,Jingna Gao,Ge Wang,Lingjun An,Qiang Li</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1649111</id>
+		<label>67</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fabrication, constructions and electrical property of Si2Sb2Te5 electrical probe storage system</title>
+		<year>2009</year>
+		<authors>Yanbo Liu,Zhitang Song,Ting Zhang,Guoxin Zhang,Jing Zhang,Weimin Zhou,Jianpin Zhang</authors>
+		<jconf>Microsystem Technologies</jconf>
+		<id>1649843</id>
+		<label>53</label>
+		<organization>Shanghai Nanotechnology Promotion Center, Laboratory of Nanotechnology, 200237, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Do You Know Where Your Data's Been? --- Tamper-Evident Database Provenance</title>
+		<year>2009</year>
+		<authors>Jing Zhang,Adriane Chapman,Kristen Lefevre</authors>
+		<jconf>Proceedings of the 6th VLDB Workshop on Secure Data Management</jconf>
+		<id>1653729</id>
+		<label>26</label>
+		<organization>University of Michigan, Ann Arbor 48109</organization>
+	</publication>
+	<publication>
+		<title>Intelligence Computing Methods in Electronic Commerce and Security</title>
+		<year>2009</year>
+		<authors>Jing Zhang</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01</jconf>
+		<id>1655257</id>
+		<label>65</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architectures and algorithms for fault management in optical wdm networks</title>
+		<year>2005</year>
+		<authors>Jing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1707212</id>
+		<label>36</label>
+		<organization>University of California, Davis</organization>
+	</publication>
+	<publication>
+		<title>Externality Identification and Quantification of Transmission Construction Projects</title>
+		<year>2008</year>
+		<authors>Jun Dong,Jing Zhang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Risk Management & Engineering Management</jconf>
+		<id>1747152</id>
+		<label>66</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordination Research on Key Parameters in Generation Competition Based on Dynamic Simulation</title>
+		<year>2008</year>
+		<authors>Lin Xiao,Jun Dong,Jing Zhang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Risk Management & Engineering Management</jconf>
+		<id>1748067</id>
+		<label>66</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network Intrusion Active Defense Model Based on Artificial Immune System</title>
+		<year>2008</year>
+		<authors>Cheng Zhang,Jing Zhang,Sunjun Liu,Yintian Liu</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01</jconf>
+		<id>1748899</id>
+		<label>77</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>dbNEI2.0</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Tao Ma,Yanda Li,Shao Li</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1752652</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Square Root Extended Set Membership Algorithm with Applications to Nonlinear System Estimation</title>
+		<year>2008</year>
+		<authors>Qing He,Jing Zhang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1753048</id>
+		<label>76</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach Using PCA and SVM for Face Detection</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Xue-dong Zhang,Seok-wun Ha</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03</jconf>
+		<id>1753520</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of an Automatic Control System for Coal Preparation Process</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Maojun Li,Qing He</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1755237</id>
+		<label>76</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Composite Evaluation of Replacing Small Generation Units with Large Ones in the Electricity Sector in China</title>
+		<year>2008</year>
+		<authors>Jun Dong,Jing Zhang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Risk Management & Engineering Management</jconf>
+		<id>1755524</id>
+		<label>66</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of Immune Classifier Based on Increment of Diversity in the Model Species Genomes Identification</title>
+		<year>2008</year>
+		<authors>Lianhong Wang,Jing Zhang,Gufeng Gong,Minfang Peng</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1755784</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+</person>

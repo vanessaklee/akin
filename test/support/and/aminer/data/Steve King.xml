@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>37622</personID>
+	<FullName>Steve King</FullName>
+	<FirstName>Steve</FirstName>
+	<LastName>King</LastName>
+	<publication>
+		<title>Extending Ravenscar with CSP Channels</title>
+		<year>2005</year>
+		<authors>Diyaa-Addein Atiya,Steve King</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25296</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using the SPARK Toolset for Showing the Absence of Run-Time Errors in Safety-Critical Software</title>
+		<year>2001</year>
+		<authors>Darren Foulger,Steve King</authors>
+		<jconf>Ada-Europe</jconf>
+		<id>25405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Software iSCSI over iWARP on a General Purpose CPU</title>
+		<year>2006</year>
+		<authors>Abhijeet Joglekar,Steve King</authors>
+		<jconf>CLUSTER</jconf>
+		<id>100054</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Circus Semantics for Ravenscar Protected Objects</title>
+		<year>2003</year>
+		<authors>Diyaa-Addein Atiya,Steve King,Jim Woodcock</authors>
+		<jconf>FME</jconf>
+		<id>208509</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CICS Project Report: Experiences and Results from the use of Z in IBM</title>
+		<year>1991</year>
+		<authors>Ian Houston,Steve King</authors>
+		<jconf>VDM Europe (1)</jconf>
+		<id>208736</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards an Integrated Model Checker for Railway Signalling Data</title>
+		<year>2002</year>
+		<authors>Michael Huber,Steve King</authors>
+		<jconf>FME</jconf>
+		<id>208737</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Z and the Refinement Calculus</title>
+		<year>1990</year>
+		<authors>Steve King</authors>
+		<jconf>VDM Europe</jconf>
+		<id>208796</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Value of Verification: Positive Experience of Industrial Proof</title>
+		<year>1999</year>
+		<authors>Steve King,Jonathan Hammond,Roderick Chapman,Andy Pryor</authors>
+		<jconf>World Congress on Formal Methods</jconf>
+		<id>208798</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predictable Memory Utilization in the Ravenscar-Java Profile</title>
+		<year>2003</year>
+		<authors>Jagun Kwon,Andy J. Wellings,Steve King</authors>
+		<jconf>ISORC</jconf>
+		<id>444356</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., York Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>An Iterator Construct for the Refinement Calculus</title>
+		<year>2000</year>
+		<authors>Steve King,Carroll Morgan</authors>
+		<jconf>IWFM</jconf>
+		<id>464498</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ravenscar-Java: a high integrity profile for real-time Java</title>
+		<year>2002</year>
+		<authors>Jagun Kwon,Andy J. Wellings,Steve King</authors>
+		<jconf>Java Grande</jconf>
+		<id>466825</id>
+		<label>0</label>
+		<organization>University of York, UK</organization>
+	</publication>
+	<publication>
+		<title>Typechecking Z</title>
+		<year>2000</year>
+		<authors>Ian Toyn,Samuel H. Valentine,Susan Stepney,Steve King</authors>
+		<jconf>ZB</jconf>
+		<id>676751</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Type-Constrained Generics for Z</title>
+		<year>2000</year>
+		<authors>Samuel H. Valentine,Ian Toyn,Susan Stepney,Steve King</authors>
+		<jconf>ZB</jconf>
+		<id>676765</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ravenscar-Java: a high-integrity profile for real-time Java</title>
+		<year>2005</year>
+		<authors>Jagun Kwon,Andy J. Wellings,Steve King</authors>
+		<jconf>Concurrency - Practice and Experience</jconf>
+		<id>810576</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simpler Reasoning About System Properties: a Proof-by-Refinement Technique</title>
+		<year>2005</year>
+		<authors>Diyaa-Addein Atiya,Steve King,Jim Woodcock</authors>
+		<jconf>Electr. Notes Theor. Comput. Sci.</jconf>
+		<id>866380</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>`The Standard Logic for Z': A Clarification</title>
+		<year>1999</year>
+		<authors>Steve King</authors>
+		<jconf>Formal Asp. Comput.</jconf>
+		<id>876320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exits in the Refinement Calculus</title>
+		<year>1995</year>
+		<authors>Steve King,Carroll Morgan</authors>
+		<jconf>Formal Asp. Comput.</jconf>
+		<id>876321</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Assessment of the Java programming language for use in high integrity systems</title>
+		<year>2003</year>
+		<authors>Jagun Kwon,Andy J. Wellings,Steve King</authors>
+		<jconf>SIGPLAN Notices</jconf>
+		<id>1067694</id>
+		<label>0</label>
+		<organization>University of York, UK</organization>
+	</publication>
+	<publication>
+		<title>Is Proof More Cost-Effective Than Testing?</title>
+		<year>2000</year>
+		<authors>Steve King,Jonathan Hammond,Roderick Chapman,Andy Pryor</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1128624</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Catch A Falling Knife?: Strategic Thinking About the Web for Mid-Market Executives</title>
+		<year>2006</year>
+		<authors>Steve King</authors>
+		<jconf>null</jconf>
+		<id>1353063</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ravenscar-Java: a high-integrity profile for real-time Java: Research Articles</title>
+		<year>2005</year>
+		<authors>Jagun Kwon,Andy Wellings,Steve King</authors>
+		<jconf>Concurrency and Computation: Practice Experience</jconf>
+		<id>1410734</id>
+		<label>0</label>
+		<organization>Real-Time Systems Research Group, Department of Computer Science, University of York, Heslington, York YO10 5DD, U.K.</organization>
+	</publication>
+	<publication>
+		<title>Paradox 1.1: more power and less pain</title>
+		<year>1986</year>
+		<authors>Jay Alperson,Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1437111</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The DBMS watcher's field guide to COMDEX</title>
+		<year>1988</year>
+		<authors>Juan Jimenez,Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1442603</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dress for success&mdash;Paradox 2.0</title>
+		<year>1988</year>
+		<authors>Mark Cook,Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1450068</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-speed thrills</title>
+		<year>1986</year>
+		<authors>Mike Elkins,Steve King</authors>
+		<jconf>Dr. Dobb's Journal</jconf>
+		<id>1451598</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What's new in DataFlex 2.2</title>
+		<year>1987</year>
+		<authors>Juan Jimenez,Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1452047</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dataflex multi-user features</title>
+		<year>1987</year>
+		<authors>Juan Jimenez,Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1460494</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A database program generator for Turbo Pascal</title>
+		<year>1987</year>
+		<authors>Steve King,Jay Alperson</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1461103</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Having it all</title>
+		<year>1988</year>
+		<authors>Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1462461</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Back-ups, part 1</title>
+		<year>1989</year>
+		<authors>Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1624746</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Workgroup kingpin</title>
+		<year>1988</year>
+		<authors>Steve King</authors>
+		<jconf>Data Based Advisor</jconf>
+		<id>1644537</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+</person>

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>27388</personID>
+	<FullName>Manuel Silva</FullName>
+	<FirstName>Manuel</FirstName>
+	<LastName>Silva</LastName>
+	<publication>
+		<title>Petri Nets and Manufacturing Systems: An Examples-Driven Tour</title>
+		<year>2003</year>
+		<authors>Laura Recalde,Manuel Silva,Joaquin Ezpeleta,Enrique Teruel</authors>
+		<jconf>Lectures on Concurrency and Petri Nets</jconf>
+		<id>17719</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linear Algebraic and Linear Programming Techniques for the Analysis of Place or Transition Net Systems</title>
+		<year>1996</year>
+		<authors>Manuel Silva,Enrique Teruel,Jose Manuel Colom</authors>
+		<jconf>Petri Nets</jconf>
+		<id>17765</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Petri Nets and Production Systems</title>
+		<year>1996</year>
+		<authors>Manuel Silva,Enrique Teruel,Robert Valette,Herve Pingaud</authors>
+		<jconf>Petri Nets (2)</jconf>
+		<id>17766</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structural techniques and performance bounds of stochastic Petri net models</title>
+		<year>1992</year>
+		<authors>Javier Campos,Manuel Silva</authors>
+		<jconf>Advances in Petri Nets: The DEMON Project</jconf>
+		<id>45022</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Circuits, handles, bridges and nets</title>
+		<year>1989</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45158</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the analysis and synthesis of free choice systems</title>
+		<year>1989</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45160</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Top-down synthesis of live and bounded free choice nets</title>
+		<year>1990</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45183</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Technique for Finding a Generating Family of Siphons, Traps and st-Components. Application to Colored Petri Nets</title>
+		<year>1991</year>
+		<authors>Joaquin Ezpeleta,Jean-Michel Couvreur,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45193</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convex geometry and semiflows in P/T nets. A comparative study of algorithms for computation of minimal P-semiflows</title>
+		<year>1989</year>
+		<authors>Jose Manuel Colom,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45206</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the linearly based characterization of P/T nets</title>
+		<year>1989</year>
+		<authors>Jose Manuel Colom,Manuel Silva</authors>
+		<jconf>Applications and Theory of Petri Nets</jconf>
+		<id>45208</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structural Characterization and Qualitative Properties of Product Form Stochastic Petri Nets</title>
+		<year>2001</year>
+		<authors>Serge Haddad,Patrice Moreaux,Matteo Sereno,Manuel Silva</authors>
+		<jconf>ICATPN</jconf>
+		<id>45311</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Reachability in Autonomous Continuous Petri Net Systems</title>
+		<year>2003</year>
+		<authors>Jorge Julvez,Laura Recalde,Manuel Silva</authors>
+		<jconf>ICATPN</jconf>
+		<id>45373</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Simple and Fast Algorithm to Obtain All Invariants of a Generalized Petri Net</title>
+		<year>1981</year>
+		<authors>J. Martinez,Manuel Silva</authors>
+		<jconf>Selected Papers from the First and the Second European Workshop on Application and Theory of Petri Nets</jconf>
+		<id>45463</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>{SC}*ECS: A Class of Modular and Hierarchical Cooperating Systems</title>
+		<year>1996</year>
+		<authors>Laura Recalde,Enrique Teruel,Manuel Silva</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45478</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autonomous Continuous P/T Systems</title>
+		<year>1999</year>
+		<authors>Laura Recalde,Enrique Teruel,Manuel Silva</authors>
+		<jconf>ICATPN</jconf>
+		<id>45480</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interleaving Functional and Performance Structural Analysis of Net Models</title>
+		<year>1993</year>
+		<authors>Manuel Silva</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45580</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Computation of Structural Synchronic Invariants in P/T Nets</title>
+		<year>1987</year>
+		<authors>Manuel Silva,Jose Manuel Colom</authors>
+		<jconf>European Workshop on Applications and Theory of Petri Nets</jconf>
+		<id>45582</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuization of Timed Petri Nets: From Performance Evaluation to Observation and Control</title>
+		<year>2005</year>
+		<authors>Manuel Silva,Laura Recalde</authors>
+		<jconf>ICATPN</jconf>
+		<id>45584</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Petri nets and flexible manufacturing</title>
+		<year>1988</year>
+		<authors>Manuel Silva,Robert Valette</authors>
+		<jconf>European Workshop on Applications and Theory in Petri Nets</jconf>
+		<id>45586</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Weighted T-Systems</title>
+		<year>1992</year>
+		<authors>Enrique Teruel,Piotr Chrzastowski-Wachtel,Jose Manuel Colom,Manuel Silva</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45613</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Liveness and Home States in Equal Conflict Systems</title>
+		<year>1993</year>
+		<authors>Enrique Teruel,Manuel Silva</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45614</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Well-Formedness of Equal Conflict Systems</title>
+		<year>1994</year>
+		<authors>Enrique Teruel,Manuel Silva</authors>
+		<jconf>Application and Theory of Petri Nets</jconf>
+		<id>45615</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuous Petri Nets: Expressive Power and Decidability Issues</title>
+		<year>2007</year>
+		<authors>Laura Recalde,Serge Haddad,Manuel Silva</authors>
+		<jconf>ATVA</jconf>
+		<id>59011</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compositional Synthesis of Live and Bounded Free Choice Petri Nets</title>
+		<year>1991</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>CONCUR</jconf>
+		<id>114188</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A two steps method: non linear regression and pruning neural network for analyzing multicomponent mixtures</title>
+		<year>2001</year>
+		<authors>Cesar Hervas-Martinez,Jose Antonio Martinez Heras,Sebastian Ventura,Manuel Silva</authors>
+		<jconf>ESANN</jconf>
+		<id>187088</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Computational Power of Timed Differentiable Petri Nets</title>
+		<year>2006</year>
+		<authors>Serge Haddad,Laura Recalde,Manuel Silva</authors>
+		<jconf>FORMATS</jconf>
+		<id>212831</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Controllability of Timed Continuous Petri Nets</title>
+		<year>2008</year>
+		<authors>C. Renato Vazquez,Antonio Ramirez,Laura Recalde,Manuel Silva</authors>
+		<jconf>HSCC</jconf>
+		<id>258003</id>
+		<label>0</label>
+		<organization>Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018</organization>
+	</publication>
+	<publication>
+		<title>On Optimal Scheduling in DEDS</title>
+		<year>1993</year>
+		<authors>Antonio Ramirez,Javier Campos,Manuel Silva</authors>
+		<jconf>ICRA (3)</jconf>
+		<id>354543</id>
+		<label>0</label>
+		<organization>Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.</organization>
+	</publication>
+	<publication>
+		<title>Modelling and Analysis of Deterministic Concurrent Systems with Bulk Services and Arrivals</title>
+		<year>1993</year>
+		<authors>Enrique Teruel,Jose Manuel Colom,Manuel Silva</authors>
+		<jconf>Decentralized and Distributed Systems</jconf>
+		<id>378480</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding Users' Response To Ontology Based Systems In The Context Of An Enterprise Sponsored Virtual Community</title>
+		<year>2007</year>
+		<authors>Carla Pereira,Manuel Silva,Joana Fernandes,Antonio Lucas Soares</authors>
+		<jconf>Virtual Enterprises and Collaborative Networks</jconf>
+		<id>381734</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Sex-Fair Stable Marriage Problem</title>
+		<year>1995</year>
+		<authors>Morikazu Nakamura,Kenji Onaga,Seiki Kyan,Manuel Silva</authors>
+		<jconf>ISCAS</jconf>
+		<id>423099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Developing Enterprise Sponsored Virtual Communities: The Case of a SME's Knowledge Community</title>
+		<year>2006</year>
+		<authors>Antonio Lucas Soares,Dora Simoes,Manuel Silva,Ricardo Madureira</authors>
+		<jconf>OTM Workshops (1)</jconf>
+		<id>524555</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Periodic Schedules for Deterministically Timed Petri Net Systems</title>
+		<year>1991</year>
+		<authors>Kenji Onaga,Manuel Silva,Toshimasa Watanabe</authors>
+		<jconf>PNPM</jconf>
+		<id>543465</id>
+		<label>0</label>
+		<organization>Dept. of Circuits & Syst., Hiroshima Univ.</organization>
+	</publication>
+	<publication>
+		<title>Tight Polynomial Bounds for Steady-State Performance of Marked Graphs</title>
+		<year>1989</year>
+		<authors>Javier Campos,Giovanni Chiola,Jose Manuel Colom,Manuel Silva</authors>
+		<jconf>PNPM</jconf>
+		<id>543466</id>
+		<label>0</label>
+		<organization>Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.</organization>
+	</publication>
+	<publication>
+		<title>Properties and Steady-State Performance Bounds for Petri Nets with Unique Repetitive Firing Count Vector</title>
+		<year>1989</year>
+		<authors>Javier Campos,Giovanni Chiola,Manuel Silva</authors>
+		<jconf>PNPM</jconf>
+		<id>543468</id>
+		<label>0</label>
+		<organization>Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.</organization>
+	</publication>
+	<publication>
+		<title>Througput Upper Bounds for Markovian Petri Nets: Embedded Subnets and Queueing Networks</title>
+		<year>1991</year>
+		<authors>Javier Campos,Manuel Silva</authors>
+		<jconf>PNPM</jconf>
+		<id>543470</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Througput Lower Bounds for Markovian Petri Nets: Transformation Techniques</title>
+		<year>1991</year>
+		<authors>Javier Campos,Beatriz Sanchez,Manuel Silva</authors>
+		<jconf>PNPM</jconf>
+		<id>543472</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unforced Continuous Petri Nets and Positive Systems</title>
+		<year>2003</year>
+		<authors>Manuel Silva,Laura Recalde</authors>
+		<jconf>POSTA</jconf>
+		<id>547408</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Observability in Timed Continuous Petri Net Systems</title>
+		<year>2004</year>
+		<authors>Jorge Julvez,Emilio Jimenez,Laura Recalde,Manuel Silva</authors>
+		<jconf>QEST</jconf>
+		<id>556566</id>
+		<label>0</label>
+		<organization>Universidad de Zaragoza, Spain</organization>
+	</publication>
+	<publication>
+		<title>Design of observers for timed continuous Petri net systems</title>
+		<year>2004</year>
+		<authors>Jorge Julvez,Emilio Jimenez,Laura Recalde,Manuel Silva</authors>
+		<jconf>SMC (2)</jconf>
+		<id>606783</id>
+		<label>0</label>
+		<organization>Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain</organization>
+	</publication>
+	<publication>
+		<title>Relaxed continuous views of discrete event systems: considerations on Forrester diagrams and Petri nets</title>
+		<year>2004</year>
+		<authors>Emilio Jimenez,Jorge Julvez,Laura Recalde,Manuel Silva</authors>
+		<jconf>SMC (5)</jconf>
+		<id>606905</id>
+		<label>0</label>
+		<organization>Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain</organization>
+	</publication>
+	<publication>
+		<title>Two heuristics for the improvement of a two-phase optimization method for manufacturing systems</title>
+		<year>2004</year>
+		<authors>Diego Rodriguez,Armin Zimmermann,Manuel Silva</authors>
+		<jconf>SMC (2)</jconf>
+		<id>607174</id>
+		<label>0</label>
+		<organization>Zaragoza Univ., Spain</organization>
+	</publication>
+	<publication>
+		<title>Improving the Quantification of Highly Overlapping Chromatographic Peaks by Using Product Unit Neural Networks Modeled by an Evolutionary Algorithm</title>
+		<year>2005</year>
+		<authors>Cesar Hervas-Martinez,Alfonso Carlos Martinez,Manuel Silva,Juan Manuel Serrano</authors>
+		<jconf>Journal of Chemical Information and Modeling</jconf>
+		<id>966909</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Heuristic Extraction of Rules in Pruned Artificial Neural Networks Models Used for Quantifying Highly Overlapping Chromatographic Peaks</title>
+		<year>2004</year>
+		<authors>Cesar Hervas-Martinez,Manuel Silva,Juan Manuel Serrano,Eva Orejuela</authors>
+		<jconf>Journal of Chemical Information and Modeling</jconf>
+		<id>966910</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Correction of Temperature Variations in Kinetic-Based Determinations by Use of Pruning Computational Neural Networks in Conjunction with Genetic Algorithms</title>
+		<year>2000</year>
+		<authors>Cesar Hervas,Jose Antonio Algar,Manuel Silva</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>966911</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Use of Pruned Computational Neural Networks for Processing the Response of Oscillating Chemical Reactions with a View to Analyzing Nonlinear Multicomponent Mixtures</title>
+		<year>2001</year>
+		<authors>Cesar Hervas,Rocio Toledo,Manuel Silva</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>966912</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computational Neural Networks for Resolving Nonlinear Multicomponent Systems Based on Chemiluminescence Methods</title>
+		<year>1998</year>
+		<authors>Cesar Hervas,Sebastian Ventura,Manuel Silva,Dolores Perez-Bendito</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>966913</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computational Neural Networks in Conjunction with Principal Component Analysis for Resolving Highly Nonlinear Kinetics</title>
+		<year>1997</year>
+		<authors>Sebastian Ventura,Manuel Silva,Dolores Perez-Bendito,Cesar Hervas</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>968870</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation of Parameters of Kinetic Compartmental Models by Use of Computational Neural Networks</title>
+		<year>1997</year>
+		<authors>Sebastian Ventura,Manuel Silva,Dolores Perez-Bendito,Cesar Hervas</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>968872</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Linear Algebraic Techniques for Liveness Analysis of P/T Systems</title>
+		<year>1998</year>
+		<authors>Laura Recalde,Enrique Teruel,Manuel Silva</authors>
+		<jconf>Journal of Circuits, Systems, and Computers</jconf>
+		<id>971017</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>B-Fairness and Structural B-Fairness in Petri Net Models of Concurrent Systems</title>
+		<year>1992</year>
+		<authors>Manuel Silva,Tadao Murata</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972968</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximate Throughput Computation of Stohastic Marked Graphs</title>
+		<year>1992</year>
+		<authors>Hauke Jungnitz,Beatriz Sanchez,Manuel Silva</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989013</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Embedded Product-Form Queueing Networks and the Improvement of Performance Bounds for Petri Net Systems</title>
+		<year>1993</year>
+		<authors>Javier Campos,Manuel Silva</authors>
+		<jconf>Perform. Eval.</jconf>
+		<id>1036526</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Product-form and stochastic Petri nets: a structural approach</title>
+		<year>2005</year>
+		<authors>Serge Haddad,Patrice Moreaux,Matteo Sereno,Manuel Silva</authors>
+		<jconf>Perform. Eval.</jconf>
+		<id>1036760</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Polynomial-Time Algorithm to Decide Liveness of Bounded Free Choice Nets</title>
+		<year>1992</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1090964</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structure theory of multi-level deterministically synchronized sequential processes</title>
+		<year>2001</year>
+		<authors>Laura Recalde,Enrique Teruel,Manuel Silva</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1094177</id>
+		<label>0</label>
+		<organization>Univ. de Zaragoza, Zaragoza, Spain</organization>
+	</publication>
+	<publication>
+		<title>Structure Theory of Equal Conflict Systems</title>
+		<year>1996</year>
+		<authors>Enrique Teruel,Manuel Silva</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1094904</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Words avoiding repetitions in arithmetic progressions</title>
+		<year>2008</year>
+		<authors>Jui-Yi Kao,Narad Rampersad,Jeffrey Shallit,Manuel Silva</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095963</id>
+		<label>2</label>
+		<organization>Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal</organization>
+	</publication>
+	<publication>
+		<title>Approximate Throughput Computation of Stochastic Marked Graphs</title>
+		<year>1994</year>
+		<authors>Javier Campos,Jose Manuel Colom,Hauke Jungnitz,Manuel Silva</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1127675</id>
+		<label>0</label>
+		<organization>Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.</organization>
+	</publication>
+	<publication>
+		<title>Ergodicity and Throughput Bounds of Petri Nets with Unique Consistent Firing Count Vector</title>
+		<year>1991</year>
+		<authors>Javier Campos,Giovanni Chiola,Manuel Silva</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1127676</id>
+		<label>0</label>
+		<organization>Univ. de Zaragoza, Zaragoza, Spain</organization>
+	</publication>
+	<publication>
+		<title>Structured Solution of Asynchronously Communicating Stochastic Modules</title>
+		<year>1999</year>
+		<authors>Javier Campos,Susanna Donatelli,Manuel Silva</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1127677</id>
+		<label>0</label>
+		<organization>Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.</organization>
+	</publication>
+	<publication>
+		<title>Petri nets and integrality relaxations: A view of continuous Petri net models</title>
+		<year>2002</year>
+		<authors>Manuel Silva,Laura Recalde</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part C</jconf>
+		<id>1132101</id>
+		<label>0</label>
+		<organization>Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain</organization>
+	</publication>
+	<publication>
+		<title>Tracking Control of Join-Free Timed Continuous Petri Net Systems under Infinite Servers Semantics</title>
+		<year>2008</year>
+		<authors>Jing Xu,Laura Recalde,Manuel Silva</authors>
+		<jconf>Discrete Event Dynamic Systems</jconf>
+		<id>1164832</id>
+		<label>0</label>
+		<organization>Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain</organization>
+	</publication>
+	<publication>
+		<title>Steady-state performance evaluation of continuous mono-T-semiflow Petri nets</title>
+		<year>2005</year>
+		<authors>Jorge Julvez,Laura Recalde,Manuel Silva</authors>
+		<jconf>Automatica</jconf>
+		<id>1181893</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stochastic continuous-state approximation of Markovian Petri net systems</title>
+		<year>2008</year>
+		<authors>Carlos Renato Vazquez,Laura Recalde,Manuel Silva</authors>
+		<jconf>CDC</jconf>
+		<id>1218486</id>
+		<label>0</label>
+		<organization>Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain</organization>
+	</publication>
+	<publication>
+		<title>Formal analysis of timed continuous Petri nets</title>
+		<year>2008</year>
+		<authors>Marius Kloetzer,Cristian Mahulea,Calin Belta,Laura Recalde,Manuel Silva</authors>
+		<jconf>CDC</jconf>
+		<id>1218576</id>
+		<label>0</label>
+		<organization>Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Petri Nets applied to the modelling and analysis of computer architecture problems</title>
+		<year>1993</year>
+		<authors>Manuel Silva,Jose Manuel Colom</authors>
+		<jconf>Advances in Information Security</jconf>
+		<id>1278413</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Steady-State Control Reference and Token Conservation Laws in Continuous Petri Net Systems</title>
+		<year>2008</year>
+		<authors>Cristian Mahulea,Antonio Ramirez-Trevino,Laura Recalde,Manuel Silva</authors>
+		<jconf>it+ti - Informationstechnik und Technische Informatik</jconf>
+		<id>1292533</id>
+		<label>0</label>
+		<organization>Univ. de Zaragoza, Zaragoza</organization>
+	</publication>
+	<publication>
+		<title>On Observability and Design of Observers inTimed Continuous Petri Net Systems</title>
+		<year>2008</year>
+		<authors>Jorge Julvez,Emilio Jimenez,Laura Recalde,Manuel Silva</authors>
+		<jconf>it+ti - Informationstechnik und Technische Informatik</jconf>
+		<id>1292547</id>
+		<label>0</label>
+		<organization>Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza</organization>
+	</publication>
+	<publication>
+		<title>Basic Server Semantics and Performance Monotonicity of Continuous Petri Nets.</title>
+		<year>2009</year>
+		<authors>Cristian Mahulea,Laura Recalde,Manuel Silva</authors>
+		<jconf>Discrete Event Dynamic Systems</jconf>
+		<id>1344529</id>
+		<label>0</label>
+		<organization>Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018</organization>
+	</publication>
+	<publication>
+		<title>Closed-loop Live Marked Graphs under Generalized Mutual Exclusion Constraint Enforcement.</title>
+		<year>2009</year>
+		<authors>Francesco Basile,Laura Recalde,Pasquale Chiacchio,Manuel Silva</authors>
+		<jconf>Discrete Event Dynamic Systems</jconf>
+		<id>1344530</id>
+		<label>0</label>
+		<organization>Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015</organization>
+	</publication>
+	<publication>
+		<title>Embedded product-form queueing networks and the improvement of performance bounds for the Petri net systems</title>
+		<year>1993</year>
+		<authors>Javier Campos,Manuel Silva</authors>
+		<jconf>Performance Evaluation</jconf>
+		<id>1502018</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Circuits, handles, bridges and nets</title>
+		<year>1991</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Proceedings on Advances in Petri nets 1990</jconf>
+		<id>1666376</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the analysis and synthesis of free choice systems</title>
+		<year>1991</year>
+		<authors>Javier Esparza,Manuel Silva</authors>
+		<jconf>Proceedings on Advances in Petri nets 1990</jconf>
+		<id>1684687</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

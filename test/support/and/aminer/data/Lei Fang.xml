@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>9421</personID>
+	<FullName>Lei Fang</FullName>
+	<FirstName>Lei</FirstName>
+	<LastName>Fang</LastName>
+	<publication>
+		<title>The e-logistics framework in e-commerce</title>
+		<year>2005</year>
+		<authors>Lei Fang,Chuan-qin Zhang</authors>
+		<jconf>ICEC</jconf>
+		<id>5848</id>
+		<label>0</label>
+		<organization>Nankai University, Tianjin City, P.R., China</organization>
+	</publication>
+	<publication>
+		<title>A new hybrid solution to boost SAT solver performance</title>
+		<year>2007</year>
+		<authors>Lei Fang,Michael S. Hsiao</authors>
+		<jconf>DATE</jconf>
+		<id>143534</id>
+		<label>1</label>
+		<organization>Virginia Tech, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>A Fast Approximation Algorithm for MIN-ONE SAT</title>
+		<year>2008</year>
+		<authors>Lei Fang,Michael S. Hsiao</authors>
+		<jconf>DATE</jconf>
+		<id>143919</id>
+		<label>1</label>
+		<organization>Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>Bilateral Testing of Nano-scale Fault-tolerant Circuits</title>
+		<year>2006</year>
+		<authors>Lei Fang,Michael S. Hsiao</authors>
+		<jconf>DFT</jconf>
+		<id>153795</id>
+		<label>1</label>
+		<organization>Virginia Tech, USA</organization>
+	</publication>
+	<publication>
+		<title>Guided test generation for isolation and detection of embedded trojans in ics</title>
+		<year>2008</year>
+		<authors>Mainak Banga,Maheshwar Chandrasekar,Lei Fang,Michael S. Hsiao</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234499</id>
+		<label>1</label>
+		<organization>Virginia Tech., Blacksburg, VA, USA</organization>
+	</publication>
+	<publication>
+		<title>Fast Training of SVM via Morphological Clustering for Color Image Segmentation</title>
+		<year>2005</year>
+		<authors>Yi Fang,Chen Pan,Li Liu,Lei Fang</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>313286</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Time Window Based Approach for Job Shop Scheduling</title>
+		<year>2001</year>
+		<authors>Haoxun Chen,Peter B. Luh,Lei Fang</authors>
+		<jconf>ICRA</jconf>
+		<id>351472</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>A beacon-less location discovery scheme for wireless sensor networks</title>
+		<year>2005</year>
+		<authors>Lei Fang,Wenliang Du,Peng Ning</authors>
+		<jconf>INFOCOM</jconf>
+		<id>400791</id>
+		<label>4</label>
+		<organization>Dept. of Electr. Eng., Syracuse Univ., NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Efficiency Centric Communication Model for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Qing Cao,Tian He,Lei Fang,Tarek F. Abdelzaher,John A. Stankovic,Sang Hyuk Son</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403652</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LAD: Localization Anomaly Detection forWireless Sensor Networks</title>
+		<year>2005</year>
+		<authors>Wenliang Du,Lei Fang,Peng Ning</authors>
+		<jconf>IPDPS</jconf>
+		<id>408800</id>
+		<label>4</label>
+		<organization>Syracuse University</organization>
+	</publication>
+	<publication>
+		<title>SIGF: a family of configurable, secure routing protocols for wireless sensor networks</title>
+		<year>2006</year>
+		<authors>Anthony D. Wood,Lei Fang,John A. Stankovic,Tian He</authors>
+		<jconf>SASN</jconf>
+		<id>573058</id>
+		<label>5</label>
+		<organization>University of Virginia</organization>
+	</publication>
+	<publication>
+		<title>RTL Test Point Insertion to Reduce Delay Test Volume</title>
+		<year>2007</year>
+		<authors>Kedarnath J. Balakrishnan,Lei Fang</authors>
+		<jconf>VTS</jconf>
+		<id>649495</id>
+		<label>1</label>
+		<organization>Virginia Tech, USA</organization>
+	</publication>
+	<publication>
+		<title>LAD: Localization anomaly detection for wireless sensor networks</title>
+		<year>2006</year>
+		<authors>Wenliang Du,Lei Fang,Peng Ning</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>990242</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context-aware wireless sensor networks for assisted living and residential monitoring</title>
+		<year>2008</year>
+		<authors>Anthony D. Wood,John A. Stankovic,Gilles Virone,Leo Selavo,Zhimin He,Qiuhua Cao,Thao Doan,Yafeng Wu,Lei Fang,Radu Stoleru</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024128</id>
+		<label>5</label>
+		<organization>Univ. of Virginia, Charlottesville, VA</organization>
+	</publication>
+	<publication>
+		<title>Bilateral Testing of Nano-scale Fault-Tolerant Circuits</title>
+		<year>2008</year>
+		<authors>Lei Fang,Michael S. Hsiao</authors>
+		<jconf>J. Electronic Testing</jconf>
+		<id>1167420</id>
+		<label>1</label>
+		<organization>Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061</organization>
+	</publication>
+	<publication>
+		<title>A Novel Artificial Immune System for Multiobjective Optimization Problems</title>
+		<year>2009</year>
+		<authors>Jiaquan Gao,Lei Fang</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>1211426</id>
+		<label>6</label>
+		<organization>Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024</organization>
+	</publication>
+	<publication>
+		<title>Effects of Similarity-Based Selection on WBMOIA: A Weight-Based Multiobjective Immune Algorithm</title>
+		<year>2009</year>
+		<authors>Jiaquan Gao,Zhimin Fang,Lei Fang</authors>
+		<jconf>ISICA</jconf>
+		<id>1259110</id>
+		<label>6</label>
+		<organization>Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024</organization>
+	</publication>
+</person>

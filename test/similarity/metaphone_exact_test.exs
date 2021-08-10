@@ -1,7 +1,7 @@
 defmodule MetaphoneMetricTest do
   use ExUnit.Case
 
-  import Akin.Phonetic.MetaphoneMetric, only: [compare: 2]
+  import Akin.Similarity.MetaphoneExact, only: [compare: 2]
 
   test "returns nil with empty argument" do
     assert compare("", "") == nil
@@ -16,14 +16,14 @@ defmodule MetaphoneMetricTest do
   end
 
   test "returns true with phonetically similar arguments" do
-    assert compare("dumb", "dum") == true
-    assert compare("smith", "smeth") == true
-    assert compare("merci", "mercy") == true
+    assert compare("dumb", "dum") == 1
+    assert compare("smith", "smeth") == 1
+    assert compare("merci", "mercy") == 1
   end
 
   test "returns false with phonetically dissimilar arguments" do
-    assert compare("dumb", "gum") == false
-    assert compare("smith", "kiss") == false
-    assert compare("merci", "burpy") == false
+    assert compare("dumb", "gum") == 0
+    assert compare("smith", "kiss") == 0
+    assert compare("merci", "burpy") == 0
   end
 end

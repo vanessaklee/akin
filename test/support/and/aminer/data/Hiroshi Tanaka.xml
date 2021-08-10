@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>50307</personID>
+	<FullName>Hiroshi Tanaka</FullName>
+	<FirstName>Hiroshi</FirstName>
+	<LastName>Tanaka</LastName>
+	<publication>
+		<title>Induction of Expert System Rules from Clinical Databases Based on Rough Set Theory and Resampling Methods</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>AIME</jconf>
+		<id>34344</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>COBRA: Integration of Knowledge-Bases with Case-Databases in the Domain of Congenital Malformation</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka,Hiromi Amano,Kimie Ohyama,Takayuki Kuroda</authors>
+		<jconf>AIME</jconf>
+		<id>34345</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Specification of Empirical Inductive Learning Methods based on Rough Sets and Matroid Theory</title>
+		<year>1994</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>AISMC</jconf>
+		<id>38505</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction of Probabilistic Rules Based on Rough Set Theory</title>
+		<year>1993</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>ALT</jconf>
+		<id>39600</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular Phylogenetic Trees are Inferred by Using Minimum Model-Based Complexity</title>
+		<year>1997</year>
+		<authors>Fengrong Ren,Hiroshi Tanaka,Toshitsugu Okayama,Takashi Gojobori</authors>
+		<jconf>BCEC</jconf>
+		<id>62105</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Symbolic Chemical System Based on Abstract Rewriting System and Its Halting Property</title>
+		<year>1997</year>
+		<authors>Yasuhiro Suzuki,Hiroshi Tanaka</authors>
+		<jconf>BCEC</jconf>
+		<id>62107</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Investigation of an Ecological System by Using an Abstract Rewriting System on Multisets</title>
+		<year>2000</year>
+		<authors>Yasuhiro Suzuki,Junji Takabayashi,Hiroshi Tanaka</authors>
+		<jconf>Recent Topics in Mathematical and Computational Linguistics</jconf>
+		<id>66474</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Moleculer Computing Model, Artifical Cell Systems</title>
+		<year>2000</year>
+		<authors>Yasuhiro Suzuki,Hiroshi Tanaka</authors>
+		<jconf>GECCO</jconf>
+		<id>226995</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prototyping of Digital Ink E-Mail System Based on a Common Ink Format</title>
+		<year>1997</year>
+		<authors>Hiroshi Tanaka,Naoki Kato,Masaki Nakagawa</authors>
+		<jconf>HCI (2)</jconf>
+		<id>241022</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular evolutionary phylogenetic trees based on minimum description length principle</title>
+		<year>1995</year>
+		<authors>Fengrong Ren,Hiroshi Tanaka,Noria Fukuda,Takashi Gojobori</authors>
+		<jconf>HICSS (5)</jconf>
+		<id>247570</id>
+		<label>1</label>
+		<organization>Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Pen-Input Character Recognition System based on Integration of Online-Offline Recognition</title>
+		<year>1999</year>
+		<authors>Hiroshi Tanaka,Kenji Nakajima,Kazushi Ishigaki,Katsuhiko Akiyama,Masaki Nakagawa</authors>
+		<jconf>ICDAR</jconf>
+		<id>295575</id>
+		<label>5</label>
+		<organization>Fujitsu Labs. Ltd., Hyogo</organization>
+	</publication>
+	<publication>
+		<title>Inference of Molecular Phylogenetic Tree Based on Minimum Model-Based Complexity Method</title>
+		<year>1997</year>
+		<authors>Hiroshi Tanaka,Fengrong Ren,Toshitsugu Okayama,Takashi Gojobori</authors>
+		<jconf>ISMB</jconf>
+		<id>438743</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction of Expert System Rules from Databases Based on Rough Set Theory and Resampling Methods</title>
+		<year>1996</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>ISMIS</jconf>
+		<id>440522</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selection of Probabilistic Measure Estimation Method Based on Recursive Iteration of Resampling Methods</title>
+		<year>1994</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>KDD Workshop</jconf>
+		<id>473363</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Selection of Rule Induction Methods Based on Recursive Iteration of Resampling Methods and Multiple Statistical Testing</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>KDD</jconf>
+		<id>473364</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Discovery of Functional Components of Proteins from Amino-Acid Sequences Based on Rough Sets and Change of Representation</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>KDD</jconf>
+		<id>473365</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Discovery of Medical Expert System Rules from Clinical Databases Based on Rough Sets</title>
+		<year>1996</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>KDD</jconf>
+		<id>473366</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Algorithm for Analysis of Within-Host HIV-1 Evolution</title>
+		<year>2001</year>
+		<authors>Fengrong Ren,S. Ogishima,Hiroshi Tanaka</authors>
+		<jconf>Pacific Symposium on Biocomputing</jconf>
+		<id>554384</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topology Selection in Unrooted Molecular Phylogenetic Tree By Minimum Model-Based Complexity Method</title>
+		<year>1999</year>
+		<authors>Hiroshi Tanaka,Fengrong Ren,Toshitsugu Okayama,Takashi Gojobori</authors>
+		<jconf>Pacific Symposium on Biocomputing</jconf>
+		<id>554439</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PRIMEROSE: Probabilistic Rule Induction Method Based on Rough Set Theory</title>
+		<year>1993</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>RSKD</jconf>
+		<id>561665</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AQ, Rough Sets, and Matroid Theory</title>
+		<year>1993</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>RSKD</jconf>
+		<id>561666</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Artificial Life Applications of a Class of P Systems: Abstract Rewriting Systems on Multisets</title>
+		<year>2000</year>
+		<authors>Yasuhiro Suzuki,Yoshi Fujiwara,Junji Takabayashi,Hiroshi Tanaka</authors>
+		<jconf>WMP</jconf>
+		<id>665189</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Formulation of Empirical Learning Methods Based on Rough Sets and Matroid Theory</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>WOCFAI</jconf>
+		<id>665970</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling p53 Signaling Pathways by Using Multiset Processing</title>
+		<year>2006</year>
+		<authors>Yasuhiro Suzuki,Hiroshi Tanaka</authors>
+		<jconf>Applications of Membrane Computing</jconf>
+		<id>709898</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Care Policy for Patients with Dementia: Family's Decision and Its Impact</title>
+		<year>2008</year>
+		<authors>Michihiko Koeda,Takeo Shibata,Kunihiko Asai,Yoshiro Okubo,Hiroshi Tanaka</authors>
+		<jconf>BMEI (2)</jconf>
+		<id>716702</id>
+		<label>1</label>
+		<organization>Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo</organization>
+	</publication>
+	<publication>
+		<title>On-line Optimization of Avoidance Ability for Redundant Manipulator</title>
+		<year>2006</year>
+		<authors>Keiji Ikeda,Hiroshi Tanaka,Tong-xiao Zhang,Mamoru Minami,Yasushi Mae</authors>
+		<jconf>IROS</jconf>
+		<id>724355</id>
+		<label>4</label>
+		<organization>Graduate Sch. of Eng., Fukui Univ.</organization>
+	</publication>
+	<publication>
+		<title>Architecture of TMN-based integrated management system for SDH/PDH mixed large-scale transport network</title>
+		<year>1998</year>
+		<authors>Hiroshi Tanaka,Shigeo Kozai,Hiroki Horiuchi,Yasunobu Tsubakihara,Sadao Obana</authors>
+		<jconf>NOMS</jconf>
+		<id>726733</id>
+		<label>6</label>
+		<organization>Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo</organization>
+	</publication>
+	<publication>
+		<title>Concept and prototype of protein-ligand docking simulator with force feedback technology</title>
+		<year>2002</year>
+		<authors>Hiroshi Nagata,Hiroshi Mizushima,Hiroshi Tanaka</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>765189</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PRIMEROSE: Probabilistic Rule Induction Method based on Rough Sets and Resampling Methods</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>789201</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Common Algebraic Framework of Empirical Learning Methods Based on Rough Sets and Matroid Theory</title>
+		<year>1996</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka</authors>
+		<jconf>Fundam. Inform.</jconf>
+		<id>882501</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>COBRA: Integration of Heterogeneous Knowledge-Bases in Medical Domain</title>
+		<year>1995</year>
+		<authors>Shusaku Tsumoto,Hiroshi Tanaka,Hiromi Amano,Kimie Ohyama,Takayuki Kuroda</authors>
+		<jconf>Int. J. Cooperative Inf. Syst.</jconf>
+		<id>906196</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Avoidance Ability of Redundant Mobile Manipulators During Hand Trajectory Tracking</title>
+		<year>2007</year>
+		<authors>Mamoru Minami,Hiroshi Tanaka,Yasushi Mae</authors>
+		<jconf>JACIII</jconf>
+		<id>949405</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An e-mail environment with handwriting using the HandsDraw digital ink format</title>
+		<year>2002</year>
+		<authors>Naoki Kato,Hiroshi Tanaka,Masaki Nakagawa</authors>
+		<jconf>Systems and Computers in Japan</jconf>
+		<id>1055448</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the power of membrane division in P systems</title>
+		<year>2004</year>
+		<authors>Gheorghe Paun,Yasuhiro Suzuki,Hiroshi Tanaka,Takashi Yokomori</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1094120</id>
+		<label>1</label>
+		<organization>Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan</organization>
+	</publication>
+	<publication>
+		<title>Telemedical support using real-time ultrasonography and endoscopy images</title>
+		<year>2001</year>
+		<authors>Toshio Ueda,Shintarou Hida,Hiroshi Tanaka,Yoshiya Kumagai,Takuya Kudou,Takeshi Shimazu,Hisashi Sugimoto</authors>
+		<jconf>Computer Methods and Programs in Biomedicine</jconf>
+		<id>1163771</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BioCichlid: central dogma-based 3D visualization system of time-course microarray data on a hierarchical biological network</title>
+		<year>2009</year>
+		<authors>Ryosuke R. Ishiwata,Masaki S. Morioka,Soichi Ogishima,Hiroshi Tanaka</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1219755</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Threshold Correction of Document Image Binarization for Ruled-line Extraction</title>
+		<year>2009</year>
+		<authors>Hiroshi Tanaka</authors>
+		<jconf>ICDAR</jconf>
+		<id>1246108</id>
+		<label>3</label>
+		<organization>Fujitsu Labs. Ltd., Kawasaki, Japan</organization>
+	</publication>
+	<publication>
+		<title>Economic Advantage of Pharmacogenomics - Clinical Trials with Genetic Information</title>
+		<year>2008</year>
+		<authors>Wataru Ohashi,Hiroshi Mizushima,Hiroshi Tanaka</authors>
+		<jconf>JIPS</jconf>
+		<id>1263703</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Equipment Operation by Motion Recognition with Wearable Wireless Acceleration Sensor</title>
+		<year>2009</year>
+		<authors>Hiroshi Tanaka,Ryo Kimura,Shigenori Ioroi</authors>
+		<jconf>Proceedings of the 2009 Third International Conference on Next Generation Mobile Applications, Services and Technologies</jconf>
+		<id>1366142</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Order parameter for a symbolic chemical system</title>
+		<year>1998</year>
+		<authors>Yasuhiro Suzuki,Hiroshi Tanaka</authors>
+		<jconf>Proceedings of the sixth international conference on Artificial life</jconf>
+		<id>1396921</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+</person>

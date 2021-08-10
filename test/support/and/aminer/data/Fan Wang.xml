@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>81251</personID>
+	<FullName>Fan Wang</FullName>
+	<FirstName>Fan</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>A New Neighborhood Based on Improvement Graph for Robust Graph Coloring Problem</title>
+		<year>2004</year>
+		<authors>Songshan Guo,Ying Kong,Andrew Lim,Fan Wang</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59380</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Hybrid Genetic Algorithm for the Robust Graph Coloring Problem</title>
+		<year>2003</year>
+		<authors>Ying Kong,Fan Wang,Andrew Lim,Songshan Guo</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59517</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Compromised Large-Scale Neighborhood Search Heuristic for Cargo Loading Planning</title>
+		<year>2007</year>
+		<authors>Yanzhi Li,Yi Tao,Fan Wang</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60151</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Graph and Topological Structure Mining on Scientific Articles</title>
+		<year>2007</year>
+		<authors>Fan Wang,Ruoming Jin,Gagan Agrawal,Helen Piontkivska</authors>
+		<jconf>BIBE</jconf>
+		<id>63543</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SNPMiner: A Domain-Specific Deep Web Mining Tool</title>
+		<year>2007</year>
+		<authors>Fan Wang,Gagan Agrawal,Ruoming Jin,Helen Piontkivska</authors>
+		<jconf>BIBE</jconf>
+		<id>63655</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>k-Center Problems with Minimum Coverage</title>
+		<year>2004</year>
+		<authors>Andrew Lim,Brian Rodrigues,Fan Wang,Zhou Xu</authors>
+		<jconf>COCOON</jconf>
+		<id>105397</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Selection and Assignment with Minimum Quantity Commitments</title>
+		<year>2004</year>
+		<authors>Andrew Lim,Fan Wang,Zhou Xu</authors>
+		<jconf>COCOON</jconf>
+		<id>105399</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flexible Demand Assignment Problem</title>
+		<year>2004</year>
+		<authors>Fan Wang,Andrew Lim,Hong Chen</authors>
+		<jconf>ECAI</jconf>
+		<id>166275</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Graph Coloring for Uncertain Supply Chain Management</title>
+		<year>2005</year>
+		<authors>Andrew Lim,Fan Wang</authors>
+		<jconf>HICSS</jconf>
+		<id>246367</id>
+		<label>0</label>
+		<organization>The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Precoded Single Carrier Data Transmission with Orthogonal Frequency Domain Multiplexing Pilots</title>
+		<year>2008</year>
+		<authors>Fan Wang,Jun Tan,Ye Li</authors>
+		<jconf>ICC</jconf>
+		<id>275886</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive MIMO System Based on Unified Belief Propagation Detection</title>
+		<year>2007</year>
+		<authors>Xiumei Yang,Yong Xiong,Fan Wang</authors>
+		<jconf>ICC</jconf>
+		<id>277029</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Inequivalent manifold ranking for content-based image retrieval</title>
+		<year>2008</year>
+		<authors>Fan Wang,Guihua Er,Qionghai Dai</authors>
+		<jconf>ICIP</jconf>
+		<id>325793</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Smoothed Dynamic Tabu Search Embedded GRASP for m-VRPTW</title>
+		<year>2004</year>
+		<authors>Andrew Lim,Fan Wang</authors>
+		<jconf>ICTAI</jconf>
+		<id>367205</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Robust Airport Gate Assignment</title>
+		<year>2005</year>
+		<authors>Andrew Lim,Fan Wang</authors>
+		<jconf>ICTAI</jconf>
+		<id>367207</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Meta-Heuristics for Robust Graph Coloring Problem</title>
+		<year>2004</year>
+		<authors>Andrew Lim,Fan Wang</authors>
+		<jconf>ICTAI</jconf>
+		<id>367310</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Improved GRASP with Tabu Search for Vehicle Routing with Both Time Window and Limited Number of Vehicles</title>
+		<year>2004</year>
+		<authors>Zhiye Li,Songshan Guo,Fan Wang,Andrew Lim</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>374315</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Meta-heuristic Algorithm for the Transshipment Problem with Fixed Transportation Schedules</title>
+		<year>2008</year>
+		<authors>Zhaowei Miao,Ke Fu,Qi Fei,Fan Wang</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>375251</id>
+		<label>0</label>
+		<organization>School of Business, Sun Yat-Sen University, Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A Survey on Reviewer Assignment Problem</title>
+		<year>2008</year>
+		<authors>Fan Wang,Ben Chen,Zhaowei Miao</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>375252</id>
+		<label>0</label>
+		<organization>School of Business, Sun Yat-Sen University, Guangzhou, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Spectrum Sharing in Cognitive Radio Networks</title>
+		<year>2008</year>
+		<authors>Fan Wang,Marwan Krunz,Shuguang Cui</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403891</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Capacitated Traveling Salesman Problem with Pickups and Deliveries on a Tree</title>
+		<year>2005</year>
+		<authors>Andrew Lim,Fan Wang,Zhou Xu</authors>
+		<jconf>ISAAC</jconf>
+		<id>415747</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Multi-view Learning Algorithm Based on ICA Feature for Image Retrieval</title>
+		<year>2007</year>
+		<authors>Fan Wang,Qionghai Dai</authors>
+		<jconf>MMM (1)</jconf>
+		<id>504926</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The shortest route cut and fill problem in linear topological structure</title>
+		<year>2005</year>
+		<authors>Songshan Guo,Weixing Li,Andrew Lim,Fan Wang</authors>
+		<jconf>SAC</jconf>
+		<id>567336</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Query Planning for Searching Inter-dependent Deep-Web Databases</title>
+		<year>2008</year>
+		<authors>Fan Wang,Gagan Agrawal,Ruoming Jin</authors>
+		<jconf>SSDBM</jconf>
+		<id>618444</id>
+		<label>2</label>
+		<organization>Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210</organization>
+	</publication>
+	<publication>
+		<title>Single Event Upset: An Embedded Tutorial</title>
+		<year>2008</year>
+		<authors>Fan Wang,Vishwani D. Agrawal</authors>
+		<jconf>VLSI Design</jconf>
+		<id>646516</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Soft Error Rates with Inertial and Logical Masking</title>
+		<year>2009</year>
+		<authors>Fan Wang,Vishwani D. Agrawal</authors>
+		<jconf>VLSI Design</jconf>
+		<id>646527</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GMAC: A game-theoretic MAC protocol for mobile ad hoc networks</title>
+		<year>2006</year>
+		<authors>Fan Wang,Marwan Krunz</authors>
+		<jconf>WiOpt</jconf>
+		<id>662698</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HRPD-A Downlink Voice/IP and Data Throughput and Delay Analysis</title>
+		<year>2006</year>
+		<authors>Tony Dean,Dennis Schaeffer,Weimin Xiao,Fan Wang</authors>
+		<jconf>WOWMOM</jconf>
+		<id>666727</id>
+		<label>4</label>
+		<organization>Motorola, Inc.</organization>
+	</publication>
+	<publication>
+		<title>WiMAX System Performance with Multiple Transmit and Multiple Receive Antennas</title>
+		<year>2007</year>
+		<authors>Fan Wang,Amitava Ghosh,Chandy Sankaran,S. Benes</authors>
+		<jconf>VTC Spring</jconf>
+		<id>687753</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WiMAX Overview and System Performance</title>
+		<year>2006</year>
+		<authors>Fan Wang,Amitava Ghosh,Chandy Sankaran,Phil Fleming</authors>
+		<jconf>VTC Fall</jconf>
+		<id>688421</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Bidirectional Adaptive Sequential Gaussian Approximation for MIMO Systems</title>
+		<year>2006</year>
+		<authors>Fan Wang,Wei Zhao,Yong Xiong</authors>
+		<jconf>VTC Fall</jconf>
+		<id>688976</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Link Performance of WiMAX PUSC</title>
+		<year>2008</year>
+		<authors>Frank Hsieh,Fan Wang,Amitava Ghosh</authors>
+		<jconf>WCNC</jconf>
+		<id>735087</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Throughput-oriented MAC for mobile ad hoc networks: A game-theoretic approach</title>
+		<year>2009</year>
+		<authors>Fan Wang,Ossama Younis,Marwan Krunz</authors>
+		<jconf>Ad Hoc Networks</jconf>
+		<id>743143</id>
+		<label>8</label>
+		<organization>Department of Electrical and Computer Engineering, University of Arizona, Tucson, AZ 85721, United States</organization>
+	</publication>
+	<publication>
+		<title>A stochastic beam search for the berth allocation problem</title>
+		<year>2007</year>
+		<authors>Fan Wang,Andrew Lim</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857566</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A genetic algorithm for machine scheduling problem under shared resource constraints</title>
+		<year>2004</year>
+		<authors>Yanzhi Li,Fan Wang,Andrew Lim</authors>
+		<jconf>IJCAT</jconf>
+		<id>904520</id>
+		<label>0</label>
+		<organization>Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.</organization>
+	</publication>
+	<publication>
+		<title>Analytical energy gradient evaluation in relativistic and nonrelativistic density functional calculations</title>
+		<year>2002</year>
+		<authors>Fan Wang,Lemin Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>964288</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical examination of performance of some exchange-correlation functionals for molecules containing heavy elements</title>
+		<year>2004</year>
+		<authors>Fan Wang,Lemin Li</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>964289</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The one-commodity pickup and delivery travelling salesman problem on a path or a tree</title>
+		<year>2006</year>
+		<authors>Fan Wang,Andrew Lim,Zhou Xu</authors>
+		<jconf>Networks</jconf>
+		<id>1024755</id>
+		<label>0</label>
+		<organization>School of Business, Sun Yat-Sen University, Guangzhou, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>k-Center problems with minimum coverage</title>
+		<year>2005</year>
+		<authors>Andrew Lim,Brian Rodrigues,Fan Wang,Zhou Xu</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1093021</id>
+		<label>0</label>
+		<organization>Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Parallelism to Accelerate Keyword Search on Deep-Web Sources</title>
+		<year>2009</year>
+		<authors>Tantan Liu,Fan Wang,Gagan Agrawal</authors>
+		<jconf>DILS</jconf>
+		<id>1207015</id>
+		<label>2</label>
+		<organization>Department of Computer Science and Engineering, Ohio State University, Columbus 43210</organization>
+	</publication>
+	<publication>
+		<title>SEEDEEP: A System for Exploring and Querying Scientific Deep Web Data Sources</title>
+		<year>2009</year>
+		<authors>Fan Wang,Gagan Agrawal</authors>
+		<jconf>SSDBM</jconf>
+		<id>1214481</id>
+		<label>2</label>
+		<organization>Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210</organization>
+	</publication>
+	<publication>
+		<title>A compromised large-scale neighborhood search heuristic for capacitated air cargo loading planning</title>
+		<year>2009</year>
+		<authors>Yanzhi Li,Yi Tao,Fan Wang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<id>1230093</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Personality Based Latent Friendship Mining</title>
+		<year>2009</year>
+		<authors>Fan Wang,Yuan Hong,Wenbin Zhang,Gagan Agrawal</authors>
+		<jconf>DMIN</jconf>
+		<id>1241928</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On scheduling concurrent multicast sessions over resource reserved network</title>
+		<year>2008</year>
+		<authors>Xiaoyu Zhang,Fan Wang</authors>
+		<jconf>T. Large-Scale Data- and Knowledge-Centered Systems</jconf>
+		<id>1265009</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Transportation Problem with Minimum Quantity Commitment</title>
+		<year>2006</year>
+		<authors>Andrew Lim,Fan Wang,Zhou Xu</authors>
+		<jconf>Short Topics in System Administration</jconf>
+		<id>1288439</id>
+		<label>0</label>
+		<organization>Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Effective Neighborhood Operators for Solving the Flexible Demand Assignment Problem</title>
+		<year>2008</year>
+		<authors>Fan Wang,Andrew Lim</authors>
+		<jconf>it+ti - Informationstechnik und Technische Informatik</jconf>
+		<id>1292517</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study on the Application of GA-BP Neural Network in the Bridge Reliability Assessment.</title>
+		<year>2008</year>
+		<authors>Jianxi Yang,Jianting Zhou,Fan Wang</authors>
+		<jconf>null</jconf>
+		<id>1303962</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimate Test Execution Effort at an Early Stage: An Empirical Study.</title>
+		<year>2008</year>
+		<authors>Xiaochun Zhu,Bo Zhou,Fan Wang,Yi Qu,Lu Chen</authors>
+		<jconf>null</jconf>
+		<id>1305255</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulation of the defect removal process with queuing theory.</title>
+		<year>2009</year>
+		<authors>Fan Wang,Xiaohu Yang,Xiaochun Zhu,Lu Chen</authors>
+		<jconf>null</jconf>
+		<id>1311666</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Survey on Vehicle Routing Problem with Loading Constraints.</title>
+		<year>2009</year>
+		<authors>Fan Wang,Yi Tao 0002,Ning Shi</authors>
+		<jconf>null</jconf>
+		<id>1316588</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis on Network Model Parameters of BP Neural Network in the Assessment for Bridge Reliability.</title>
+		<year>2009</year>
+		<authors>Jianxi Yang,Fan Wang,Jianting Zhou,Ying Huang</authors>
+		<jconf>null</jconf>
+		<id>1317471</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracting Output Metadata from Scientific Deep Web Data Sources.</title>
+		<year>2009</year>
+		<authors>Fan Wang,Gagan Agrawal</authors>
+		<jconf>null</jconf>
+		<id>1319530</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-channel spectrum-agile MAC protocol with adaptive load control.</title>
+		<year>2009</year>
+		<authors>Fan Wang,Marwan Krunz</authors>
+		<jconf>null</jconf>
+		<id>1325629</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Object-Oriented Product Data Management</title>
+		<year>2009</year>
+		<authors>Fan Wang,Li Zhou</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 01</jconf>
+		<id>1389351</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Asymptotic periodicity and permanence in a competition-diffusion system with discrete delays</title>
+		<year>1998</year>
+		<authors>Wei Feng,Fan Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1403366</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Short-Term Traffic Flow Prediction Based on Parallel Quasi-Newton Neural Network</title>
+		<year>2009</year>
+		<authors>Guozhen Tan,Huimin Shi,Fan Wang,Chao Deng</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03</jconf>
+		<id>1656942</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Even aberration measurement of lithographic projection system based on optimized phase-shifting marks</title>
+		<year>2009</year>
+		<authors>Qiongyan Yuan,Xiangzhao Wang,Zicheng Qiu,Fan Wang,Mingying Ma</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1752672</id>
+		<label>9</label>
+		<organization>National Engineering Research Center for Lithographic Equipment, Shanghai 201203, China</organization>
+	</publication>
+</person>

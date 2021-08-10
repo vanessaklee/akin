@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>7436</personID>
+	<FullName>Lei Wang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Trust Mechanism in Distributed Access Control Model of P2P Networks</title>
+		<year>2008</year>
+		<authors>Lei Wang,Yanqin Zhu,Lanfang Jin,Xizhao Luo</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>4944</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approximate Method for Performance Evaluation of Asynchronous Pipeline Rings</title>
+		<year>2006</year>
+		<authors>Lei Wang,Zhiying Wang,Kui Dai</authors>
+		<jconf>CIT</jconf>
+		<id>8755</id>
+		<label>2</label>
+		<organization>National University of Defense Technology, China</organization>
+	</publication>
+	<publication>
+		<title>A pharmacogenomic study on the polymorphic gene response to risperidone in schizophrenia patients</title>
+		<year>2008</year>
+		<authors>Lei Wang,Daniel O'Connor,Ying Wang,Guoyin Feng,Lin He</authors>
+		<jconf>IEEE ICCI</jconf>
+		<id>9412</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TengYue-1TengYue: In Chinese means jump over.: A High Performance Embedded SoC</title>
+		<year>2004</year>
+		<authors>Lei Wang,Hongyi Lu,Kui Dai,Zhiying Wang</authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<id>11549</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cycle Period Analysis and Optimization of Timed Circuits</title>
+		<year>2006</year>
+		<authors>Lei Wang,Zhiying Wang,Kui Dai</authors>
+		<jconf>Asia-Pacific Computer Systems Architecture Conference</jconf>
+		<id>11550</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feature Subset Selection for Multi-class SVM Based Image Classification</title>
+		<year>2007</year>
+		<authors>Lei Wang</authors>
+		<jconf>ACCV (2)</jconf>
+		<id>18333</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Where's the Weet-Bix?</title>
+		<year>2007</year>
+		<authors>Yuhang Zhang,Lei Wang,Richard I. Hartley,Hongdong Li</authors>
+		<jconf>ACCV (1)</jconf>
+		<id>18367</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recognizing Chinese Proper Nouns with Transformation-Based Learning and Ontology</title>
+		<year>2007</year>
+		<authors>Peifeng Li,Qiaoming Zhu,Lei Wang</authors>
+		<jconf>AI*IA</jconf>
+		<id>33972</id>
+		<label>7</label>
+		<organization>School of Computer Science & Technology, Soochow University, Suzhou, 215006, China</organization>
+	</publication>
+	<publication>
+		<title>An Optimal Design Method for De-synchronous Circuit Based on Control Graph</title>
+		<year>2007</year>
+		<authors>Gang Jin,Lei Wang,Zhiying Wang,Kui Dai</authors>
+		<jconf>APPT</jconf>
+		<id>46939</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Function Call Flow based Fitness Function Design in Evolutionary Testing</title>
+		<year>2007</year>
+		<authors>Xiyang Liu,Miao Zhang,Zhiwen Bai,Lei Wang,Wen Du,Yan Wang</authors>
+		<jconf>APSEC</jconf>
+		<id>47780</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WISE: A Prototype for Ontology Driven Development of Web Information Systems</title>
+		<year>2006</year>
+		<authors>Lv-an Tang,Hongyan Li,Baojun Qiu,Meimei Li,Jianjun Wang,Lei Wang,Bin Zhou,Dongqing Yang,Shiwei Tang</authors>
+		<jconf>APWeb</jconf>
+		<id>48390</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Checking Behavioral Compatibility for Component Selection</title>
+		<year>2006</year>
+		<authors>Lei Wang,Padmanabhan Krishnan</authors>
+		<jconf>ASWEC</jconf>
+		<id>54808</id>
+		<label>11</label>
+		<organization>Bond University Gold Coast, Queensland, Australia</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Simulation for Crosstalk Aggravated by Weak-Bridge Defects between On-Chip Interconnects</title>
+		<year>2004</year>
+		<authors>Lei Wang,Sandeep K. Gupta,Melvin A. Breuer</authors>
+		<jconf>Asian Test Symposium</jconf>
+		<id>58727</id>
+		<label>13</label>
+		<organization>University of Southern California</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Algorithm for the Longest Pattern Subsequence Problem</title>
+		<year>2008</year>
+		<authors>Xiaodong Wang,Lei Wang,Yingjie Wu</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65321</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Loop Distribution on Limited On-Chip Memory Processors</title>
+		<year>2000</year>
+		<authors>Lei Wang,Waibhav Tembe,Santosh Pande</authors>
+		<jconf>CC</jconf>
+		<id>81512</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PhoenixG: A Unified Management Framework for Industrial Information Grid</title>
+		<year>2006</year>
+		<authors>Jianfeng Zhan,Gengpu Liu,Lei Wang,Bibo Tu,Yi Jin,Yang Li,Yan Hao,Xuehai Hong,Dan Meng,Ninghui Sun</authors>
+		<jconf>CCGRID</jconf>
+		<id>83237</id>
+		<label>16</label>
+		<organization>Chinese Academy of Science, China</organization>
+	</publication>
+	<publication>
+		<title>Achieving both high precision and high recall in near-duplicate detection</title>
+		<year>2008</year>
+		<authors>Lian'en Huang,Lei Wang,Xiaoming Li</authors>
+		<jconf>CIKM</jconf>
+		<id>96500</id>
+		<label>20</label>
+		<organization>Shenzhen Graduate School of Peking University, Shenzhen, China</organization>
+	</publication>
+	<publication>
+		<title>Facial Features Location by Analytic Boosted Cascade Detector</title>
+		<year>2005</year>
+		<authors>Lei Wang,Beiji Zou,Jiaguang Sun</authors>
+		<jconf>CIS (2)</jconf>
+		<id>97244</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A layered design methodology of cluster system stack</title>
+		<year>2007</year>
+		<authors>Jianfeng Zhan,Lei Wang,Bibo Tu,Zhihong Zhang,Yu Wen,Yuansheng Chen,Wei Zhou,Dan Meng,Ninghui Sun</authors>
+		<jconf>CLUSTER</jconf>
+		<id>100291</id>
+		<label>16</label>
+		<organization>Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Optimally Balanced Forward Degree Sequence</title>
+		<year>2005</year>
+		<authors>Xiaomin Chen,Mario Szegedy,Lei Wang</authors>
+		<jconf>COCOON</jconf>
+		<id>105131</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Worst-Case Response Time Analysis for OSEK/VDX Compliant Real-Time Distributed Control Systems</title>
+		<year>2004</year>
+		<authors>Lei Wang,Zhaohui Wu,Mingde Zhao</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112321</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Extended Approach to Improving the Semantic Interoperation Among Reuse Repositories</title>
+		<year>2005</year>
+		<authors>Ying Pan,Lei Wang,Lu Zhang,Bing Xie,Fuqing Yang</authors>
+		<jconf>COMPSAC (1)</jconf>
+		<id>112543</id>
+		<label>23</label>
+		<organization>Deutsche Bank AG</organization>
+	</publication>
+	<publication>
+		<title>A Reliable OS Kernel for Smart Sensors</title>
+		<year>2004</year>
+		<authors>Zhaohui Wu,Lei Wang,Kougen Zheng</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112997</id>
+		<label>25</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient and Secure Authentication Protocols for Mobile VoIP Communications</title>
+		<year>2006</year>
+		<authors>Huang-Ju Chen,Jyh-Ming Huang,Lei Wang</authors>
+		<jconf>Security and Management</jconf>
+		<id>126287</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Security of MD5 Challenge and Response: Extension of APOP Password Recovery Attack</title>
+		<year>2008</year>
+		<authors>Yu Sasaki,Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>CT-RSA</jconf>
+		<id>127237</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework of 2D Fisher Discriminant Analysis: Application to Face Recognition with Small Number of Training Samples</title>
+		<year>2005</year>
+		<authors>Hui Kong,Lei Wang,Eam Khwang Teoh,Jian-Gang Wang,Ronda Venkateswarlu</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>128346</id>
+		<label>5</label>
+		<organization>Nanyang Technological University</organization>
+	</publication>
+	<publication>
+		<title>Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval</title>
+		<year>2003</year>
+		<authors>Lei Wang,Kap Luk Chan,Zhihua Zhang</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129348</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Toward A Discriminative Codebook: Codeword Selection across Multi-resolution</title>
+		<year>2007</year>
+		<authors>Lei Wang</authors>
+		<jconf>CVPR</jconf>
+		<id>130137</id>
+		<label>5</label>
+		<organization>Australian Nat. Univ., Canberra</organization>
+	</publication>
+	<publication>
+		<title>PN-based Security Design for Data Storage</title>
+		<year>2004</year>
+		<authors>Lei Wang,Beat Hirsbrunner</authors>
+		<jconf>Databases and Applications</jconf>
+		<id>144893</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Auto-Calibration of a Compound-Type Omnidirectional Camera</title>
+		<year>2005</year>
+		<authors>Hongdong Li,Richard I. Hartley,Lei Wang</authors>
+		<jconf>DICTA</jconf>
+		<id>155521</id>
+		<label>5</label>
+		<organization>Australian National University</organization>
+	</publication>
+	<publication>
+		<title>Multi-view Human Motion Capture with an Improved Deformation Skin Model</title>
+		<year>2008</year>
+		<authors>Yifan Lu,Lei Wang,Richard Hartley,Hongdong Li,Chunhua Shen</authors>
+		<jconf>DICTA</jconf>
+		<id>155707</id>
+		<label>5</label>
+		<organization>Dept. of Inf. Eng., ANU, Canberra, ACT</organization>
+	</publication>
+	<publication>
+		<title>Learning Cascaded Reduced-Set SVMs Using Linear Programming</title>
+		<year>2008</year>
+		<authors>Junae Kim,Chunhua Shen,Lei Wang</authors>
+		<jconf>DICTA</jconf>
+		<id>155823</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fast Algorithm for Creating a Compact and Discriminative Visual Codebook</title>
+		<year>2008</year>
+		<authors>Lei Wang,Luping Zhou,Chunhua Shen</authors>
+		<jconf>ECCV (4)</jconf>
+		<id>169785</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Skew Detection Algorithm for Form Document Based on Elongate Feature</title>
+		<year>2007</year>
+		<authors>Feng-ying Xie,Zhi-guo Jiang,Lei Wang</authors>
+		<jconf>EMMCVPR</jconf>
+		<id>180994</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Natural Language Specification of Performance Trees</title>
+		<year>2008</year>
+		<authors>Lei Wang,Nicholas J. Dingle,William J. Knottenbelt</authors>
+		<jconf>EPEW</jconf>
+		<id>182065</id>
+		<label>35</label>
+		<organization>Department of Computing, Imperial College London, London, United Kingdom SW7 2BZ</organization>
+	</publication>
+	<publication>
+		<title>New Key-Recovery Attacks on HMAC/NMAC-MD4 and NMAC-MD5</title>
+		<year>2008</year>
+		<authors>Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>EUROCRYPT</jconf>
+		<id>193597</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Message Difference for MD4</title>
+		<year>2007</year>
+		<authors>Yu Sasaki,Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>FSE</jconf>
+		<id>217372</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feature Extraction Based on the Independent Component Analysis for Text Classification</title>
+		<year>2008</year>
+		<authors>Minghan Hu,Shijun Wang,Anhui Wang,Lei Wang</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218286</id>
+		<label>40</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hailstone Detection Based on Image Mining</title>
+		<year>2008</year>
+		<authors>Zhiying Lu,Lei Wang,Hongmin Ma,Qimeng Zhang,Huizhen Jia</authors>
+		<jconf>FSKD (4)</jconf>
+		<id>218539</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MU-MAQAS: A P2P based Model Updatable Mobile Automatic Q/A System</title>
+		<year>2008</year>
+		<authors>Lei Wang</authors>
+		<jconf>FSKD (5)</jconf>
+		<id>218632</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Reconfigurable High Availability Infrastructure in Cluster for Grid</title>
+		<year>2003</year>
+		<authors>Wen Gao,Xinyu Liu,Lei Wang,Takashi Nanya</authors>
+		<jconf>GCC (1)</jconf>
+		<id>223622</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Quota-Based Peer Selection Strategy in BitTorrent</title>
+		<year>2007</year>
+		<authors>Kun Huang,Lei Wang,Dafang Zhang,Yongwei Liu</authors>
+		<jconf>GCC</jconf>
+		<id>224479</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fitness calculation approach for nested if-else construct in evolutionary testing</title>
+		<year>2007</year>
+		<authors>Xiyang Liu,Lei Wang,Xiubin Zhu,Zhiwen Bai,Miao Zhang,Hehui Liu</authors>
+		<jconf>GECCO</jconf>
+		<id>227590</id>
+		<label>9</label>
+		<organization>Xidian University, Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>A practical approach to modeling skin effect in on-chip interconnects</title>
+		<year>2004</year>
+		<authors>Bhaskar Mukherjee,Lei Wang,Andrea Pacelli</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234091</id>
+		<label>41</label>
+		<organization>Stony Brook University, Stony Brook, NY</organization>
+	</publication>
+	<publication>
+		<title>A Novel Neural Network Based on Immunity</title>
+		<year>2002</year>
+		<authors>Lei Wang,Michele Courant</authors>
+		<jconf>IC-AI</jconf>
+		<id>265762</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Service Oriented Implementation of Distributed Status Monitoring and Fault Diagnosis Systems</title>
+		<year>2005</year>
+		<authors>Lei Wang,Peiyu Li,Zhaohui Wu,Shangjian Chen</authors>
+		<jconf>International Conference on Computational Science (1)</jconf>
+		<id>280407</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting soft redundancy for error-resilient on-chip memory design</title>
+		<year>2006</year>
+		<authors>Shuo Wang,Lei Wang</authors>
+		<jconf>ICCAD</jconf>
+		<id>283588</id>
+		<label>44</label>
+		<organization>University of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Error-tolerance memory Microarchitecture via Dynamic Multithreading</title>
+		<year>2005</year>
+		<authors>Lei Wang</authors>
+		<jconf>ICCD</jconf>
+		<id>286937</id>
+		<label>44</label>
+		<organization>Dept. of Electrical and Computer Engineering University of Connecticut</organization>
+	</publication>
+	<publication>
+		<title>Joint Performance Improvement and Error Tolerance for Memory Design Based on Soft Indexing</title>
+		<year>2006</year>
+		<authors>Shuo Wang,Lei Wang</authors>
+		<jconf>ICCD</jconf>
+		<id>287063</id>
+		<label>44</label>
+		<organization>Connecticut Univ., Storrs</organization>
+	</publication>
+	<publication>
+		<title>Making register file resistant to power analysis attacks</title>
+		<year>2008</year>
+		<authors>Shuo Wang,Fan Zhang,Jianwei Dai,Lei Wang,Zhijie Jerry Shi</authors>
+		<jconf>ICCD</jconf>
+		<id>287290</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DNA-Based Algorithm for 0-1 Planning Problem</title>
+		<year>2005</year>
+		<authors>Lei Wang,Zhiping P. Chen,Xinhua H. Jiang</authors>
+		<jconf>ICCSA (4)</jconf>
+		<id>292145</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Retrieval with Knowledge-driven Kernel Design: An Approach to Improving SVM-Based CBIR with Relevance Feedback</title>
+		<year>2005</year>
+		<authors>Lei Wang,Yan Gao,Kap Luk Chan,Ping Xue,Wei-Yun Yau</authors>
+		<jconf>ICCV</jconf>
+		<id>293846</id>
+		<label>5</label>
+		<organization>Nanyang Technological University</organization>
+	</publication>
+	<publication>
+		<title>Supporting Partial Component Matching</title>
+		<year>2004</year>
+		<authors>Padmanabhan Krishnan,Lei Wang</authors>
+		<jconf>ICDCIT</jconf>
+		<id>296109</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Immune Neural Network Used for Classification</title>
+		<year>2001</year>
+		<authors>Lei Wang,Licheng Jiao</authors>
+		<jconf>ICDM</jconf>
+		<id>302972</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Provisioning E-Commerce Applications with Commercial Components</title>
+		<year>2006</year>
+		<authors>Lei Wang,Padmanabhan Krishnan</authors>
+		<jconf>ICEBE</jconf>
+		<id>304776</id>
+		<label>11</label>
+		<organization>Bond University, Queensland, Australia</organization>
+	</publication>
+	<publication>
+		<title>Ringed Petersen Spheres Connected Hypercube Interconnection Networks</title>
+		<year>2005</year>
+		<authors>Lei Wang,Zhiping P. Chen,Xinhua H. Jiang</authors>
+		<jconf>ICECCS</jconf>
+		<id>305579</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An OSEK COM Compliant Communication Model for Smart Vehicle Environment</title>
+		<year>2005</year>
+		<authors>Guoqing Yang,Minde Zhao,Lei Wang,Zhaohui Wu</authors>
+		<jconf>ICESS</jconf>
+		<id>308999</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SmartOSEK: A Real-Time Operating System for Automotive Electronics</title>
+		<year>2004</year>
+		<authors>Mingde Zhao,Zhaohui Wu,Guoqing Yang,Lei Wang,Wei Chen</authors>
+		<jconf>ICESS</jconf>
+		<id>309021</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Segmentation by a Robust Clustering Algorithm Using Gaussian Estimator</title>
+		<year>2004</year>
+		<authors>Lei Wang,Hongbing Ji,Xinbo Gao</authors>
+		<jconf>ICIAR (1)</jconf>
+		<id>313016</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Car Plate Localization Using Modified PCNN in Complicated Environment</title>
+		<year>2006</year>
+		<authors>Xin Yuan,Lei Wang,Miaoliang Zhu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>313788</id>
+		<label>51</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Finite Element Analysis Based on ANSYS Pressure-Sensitive Conductive Rubber Three-Dimensional Tactile Sensor</title>
+		<year>2007</year>
+		<authors>Ying Huang,Panfeng Huang,Min Wang,Lei Wang,Yunjian Ge</authors>
+		<jconf>ICIC (3)</jconf>
+		<id>314424</id>
+		<label>57</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-label SVM active learning for image classification</title>
+		<year>2004</year>
+		<authors>Xuchun Li,Lei Wang,Eric Sung</authors>
+		<jconf>ICIP</jconf>
+		<id>319206</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Active Shape and Depth Extraction from Shadow Images</title>
+		<year>1994</year>
+		<authors>Lei Wang,James J. Clark</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>322016</id>
+		<label>54</label>
+		<organization>Div. of Appl. Sci., Harvard Univ., Cambridge, MA</organization>
+	</publication>
+	<publication>
+		<title>Image retrieval with SVM active learning embedding Euclidean search</title>
+		<year>2003</year>
+		<authors>Lei Wang,Kap Luk Chan,Yap Peng Tan</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>322025</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Generic slow-motion replay detection in sports video</title>
+		<year>2004</year>
+		<authors>Lei Wang,Xu Liu,Steve Lin,Guangyou Xu,Heung-Yeung Shum</authors>
+		<jconf>ICIP</jconf>
+		<id>322049</id>
+		<label>23</label>
+		<organization>Dept. of Comput., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Image orientation detection with integrated human perception cues (or which way is up)</title>
+		<year>2003</year>
+		<authors>Lei Wang,Xu Liu,Lirong Xia,Guangyou Xu,Alfred M. Bruckstein</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322053</id>
+		<label>23</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A semantic representation for image retrieval</title>
+		<year>2003</year>
+		<authors>Lei Wang,B. S. Manjunath</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322056</id>
+		<label>60</label>
+		<organization>Dept. of Electr. & Comput. Eng., California Univ., Santa Barbara, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Background Subtraction using Incremental Subspace Learning</title>
+		<year>2007</year>
+		<authors>Lu Wang,Lei Wang,Ming Wen,Qing Zhuo,Wenyuan Wang</authors>
+		<jconf>ICIP (5)</jconf>
+		<id>325220</id>
+		<label>61</label>
+		<organization>Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Lossy to lossless image compression based on reversible integer DCT</title>
+		<year>2008</year>
+		<authors>Lei Wang,Jiaji Wu,Licheng Jiao,Li Zhang,Guangming Shi</authors>
+		<jconf>ICIP</jconf>
+		<id>325945</id>
+		<label>49</label>
+		<organization>Inst. of Intell. Inf. Process., Xidian Univ., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>Robust multi-level video representation using mean shift analysis</title>
+		<year>2004</year>
+		<authors>Hai Gao,Xiao-Dong Yu,Lei Wang,Ping Xue,Qi Tian</authors>
+		<jconf>ICME</jconf>
+		<id>330117</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Vector-Based Approach to Broadcast Audio Database Indexing and Retrieval</title>
+		<year>2007</year>
+		<authors>Lei Wang,Haizhou Li,Engsiong Chng</authors>
+		<jconf>ICME</jconf>
+		<id>332581</id>
+		<label>58</label>
+		<organization>Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Body Detection and Tracking with Hierarchical Scheme in Dynamic Scenes</title>
+		<year>2007</year>
+		<authors>Xiaofeng Tong,Lei Wang,Yimin Zhang</authors>
+		<jconf>ICME</jconf>
+		<id>332991</id>
+		<label>59</label>
+		<organization>Intel China Res. Center, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Query by humming via multiscale transportation distance in random query occurrence context</title>
+		<year>2008</year>
+		<authors>Shen Huang,Lei Wang,Shenghu,Hongchen Jiang,Bo Xu</authors>
+		<jconf>ICME</jconf>
+		<id>333507</id>
+		<label>63</label>
+		<organization>Digital Content Technol. Res. Center, Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Synthesis and Characteration of Phenolic Resin/Montmorillonite Nanocomposites</title>
+		<year>2004</year>
+		<authors>Yujun Zhang,Maoqing Lin,Fengfu Li,Lei Wang,Zhenhao Jin</authors>
+		<jconf>ICMENS</jconf>
+		<id>333880</id>
+		<label>64</label>
+		<organization>Harbin University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>A Novel Genetic Algorithm Based on Cure Mechanism of Traditional Chinese Medicine</title>
+		<year>2005</year>
+		<authors>Chao-Xue Wang,Du-Wu Cui,Lei Wang,Zhu-Rong Wang</authors>
+		<jconf>ICNC (3)</jconf>
+		<id>337980</id>
+		<label>65</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Artificial Immune Strategies Improve the Security of Data Storage</title>
+		<year>2005</year>
+		<authors>Lei Wang,Yinling Nie,Weike Nie,Licheng Jiao</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>338027</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Artificial Immune Network Model and Analysis on Its Dynamic Behavior and Stabilities</title>
+		<year>2006</year>
+		<authors>Liya Wang,Lei Wang,Yinling Nie</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>338039</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Partitioning of Object-Oriented Programs for Resource-Constrained Mobile Devices with Multiple Distribution Objectives</title>
+		<year>2008</year>
+		<authors>Lei Wang,Michael Franz</authors>
+		<jconf>ICPADS</jconf>
+		<id>342062</id>
+		<label>62</label>
+		<organization>Dept. of Comput. Sci., Univ. of California, Irvine, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Breast Mass Segmentation based on Information Theory</title>
+		<year>2004</year>
+		<authors>Aize Cao,Qing Song,XuLei Yang,Lei Wang</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>346219</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Video Local Pattern based Image Matching for Visual Mapping</title>
+		<year>2006</year>
+		<authors>Lei Wang,Hongdong Li,Richard I. Hartley</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>349170</id>
+		<label>5</label>
+		<organization>Australia National University, Australia</organization>
+	</publication>
+	<publication>
+		<title>Incorporating Prior Knowledge into SVM for Image Retrieval</title>
+		<year>2004</year>
+		<authors>Lei Wang,Ping Xue,Kap Luk Chan</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>349193</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Face Recognition Based on Discriminative Manifold Learning</title>
+		<year>2004</year>
+		<authors>Yiming Wu,Kap Luk Chan,Lei Wang</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349276</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Exploiting idle register classes for fast spill destination</title>
+		<year>2008</year>
+		<authors>Fang Lu,Lei Wang,Xiaobing Feng,Zhiyuan Li,Zhaoqing Zhang</authors>
+		<jconf>ICS</jconf>
+		<id>360926</id>
+		<label>16</label>
+		<organization>Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Learning for Image Retrieval Using Multiple Features</title>
+		<year>2000</year>
+		<authors>Lei Wang,Kap Luk Chan</authors>
+		<jconf>IDEAL</jconf>
+		<id>372353</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A turbo codes optimization method using particle swarm algorithm</title>
+		<year>2008</year>
+		<authors>Jing An,Qi Kang,Lei Wang,Qidi Wu</authors>
+		<jconf>IJCNN</jconf>
+		<id>394438</id>
+		<label>67</label>
+		<organization>Sch. of Mech. & Autom. Eng., Shanghai Inst. of Technol., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>To Repair or Not To Repair: Helping Ad-hoc Routing Protocols to Distinguish Mobility from Congestion</title>
+		<year>2007</year>
+		<authors>Manoj Pandey,Roger Pack,Lei Wang,Qiuyi Duan,Daniel Zappala</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403271</id>
+		<label>66</label>
+		<organization>Brigham Young Univ. Provo, Provo</organization>
+	</publication>
+	<publication>
+		<title>A Compiler and Runtime Infrastructure for Automatic Program Distribution</title>
+		<year>2005</year>
+		<authors>Roxana Diaconescu,Lei Wang,Zachary Mouri,Matt Chu</authors>
+		<jconf>IPDPS</jconf>
+		<id>408746</id>
+		<label>62</label>
+		<organization>University of California, Irvine</organization>
+	</publication>
+	<publication>
+		<title>Easy and reliable cluster management: the self-management experience of Fire Phoenix</title>
+		<year>2006</year>
+		<authors>Zhi-Hong Zhang,Dan Meng,Jianfeng Zhan,Lei Wang,Linping Wu,Huang Wei</authors>
+		<jconf>IPDPS</jconf>
+		<id>411564</id>
+		<label>16</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Modeling Dynamic Load Balancing in Molecular Dynamics to Achieve Scalable Parallel Execution</title>
+		<year>1998</year>
+		<authors>Lars S. Nyland,Jan Prins,Ru Huai Yun,Jan Hermans,Hye-Chung Kum,Lei Wang</authors>
+		<jconf>IRREGULAR</jconf>
+		<id>414954</id>
+		<label>69</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An energy-efficient skew compensation technique for high-speed skew-sensitive signaling</title>
+		<year>2005</year>
+		<authors>Lei Wang</authors>
+		<jconf>ISCAS (2)</jconf>
+		<id>424645</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Low voltage 2-path SC bandpass /spl Delta//spl Sigma/ modulator without bootstrapper</title>
+		<year>2003</year>
+		<authors>Lei Wang,Sherif H. K. Embabi</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>424670</id>
+		<label>71</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Noise-tolerant dynamic circuit design</title>
+		<year>1999</year>
+		<authors>Lei Wang,Naresh R. Shanbhag</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>426332</id>
+		<label>70</label>
+		<organization>Coordinated Sci. Lab., Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>A High-Speed High-Resolution Low-Distortion CMOS Bootstrapped Switch</title>
+		<year>2007</year>
+		<authors>Lei Wang,Junyan Ren,Wenjing Yin,Tingqian Chen,Jun Xu</authors>
+		<jconf>ISCAS</jconf>
+		<id>428314</id>
+		<label>68</label>
+		<organization>ASIC & Syst. State Key Lab., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Adaptive timing for analysis of skew tolerance</title>
+		<year>2006</year>
+		<authors>Lei Wang,Shuo Wang</authors>
+		<jconf>ISCAS</jconf>
+		<id>429459</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Reducing error accumulation effect in multithreaded memory systems</title>
+		<year>2006</year>
+		<authors>Lei Wang,Niral Patel</authors>
+		<jconf>ISCAS</jconf>
+		<id>429677</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Design of error-tolerant cache memory for multithreaded computing</title>
+		<year>2008</year>
+		<authors>Shuo Wang,Lei Wang</authors>
+		<jconf>ISCAS</jconf>
+		<id>431365</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Programmable threshold voltage using quantum dot transistors for low-power mobile computing</title>
+		<year>2008</year>
+		<authors>Shuo Wang,Jianwei Dai,El-Sayed Hasaneen,Lei Wang,Faquir Jain</authors>
+		<jconf>ISCAS</jconf>
+		<id>431689</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Exact Best-Case End-to-End Response Time Analysis for Hard Real-Time Distributed Systems</title>
+		<year>2005</year>
+		<authors>Lei Wang,Mingde Zhao,Zengwei Zheng,Zhaohui Wu</authors>
+		<jconf>ISCIS</jconf>
+		<id>433823</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The IIR Submission to CSLP 2006 Speaker Recognition Evaluation</title>
+		<year>2006</year>
+		<authors>Kong-Aik Lee,Hanwu Sun,Rong Tong,Bin Ma,Minghui Dong,Changhuai You,Donglai Zhu,Chin-Wei Eugene Koh,Lei Wang,Tomi Kinnunen,Chng Eng Siong,Haizhou Li</authors>
+		<jconf>ISCSLP</jconf>
+		<id>434074</id>
+		<label>58</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study on Traffic Information Fusion Algorithm Based on Support Vector Machines</title>
+		<year>2006</year>
+		<authors>Haihong Liu,Xiaoyuan Wang,Derong Tan,Lei Wang</authors>
+		<jconf>ISDA (1)</jconf>
+		<id>434319</id>
+		<label>73</label>
+		<organization>Shandong University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Low-power AEC-based MIMO signal processing for gigabit ethernet 1000Base-T transceivers</title>
+		<year>2001</year>
+		<authors>Lei Wang,Naresh R. Shanbhag</authors>
+		<jconf>ISLPED</jconf>
+		<id>437189</id>
+		<label>70</label>
+		<organization>Coordinated Science Laboratory, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1308 West Main Street, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Thread-associative memory for multicore and multithreaded computing</title>
+		<year>2006</year>
+		<authors>Shuo Wang,Lei Wang</authors>
+		<jconf>ISLPED</jconf>
+		<id>437363</id>
+		<label>44</label>
+		<organization>University of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Hierarchical Intrusion Detection System for Secure Wireless Ad Hoc Network</title>
+		<year>2005</year>
+		<authors>Peng Fu,Deyun Zhang,Lei Wang,Zhongxing Duan</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>442177</id>
+		<label>72</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Resource Allocating Neural Network Based Approach for Detecting End-to-End Network Performance Anomaly</title>
+		<year>2006</year>
+		<authors>Wenwei Li,Dafang Zhang,Jinmin Yang,Gaogang Xie,Lei Wang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442403</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Approach of Network Intrusion Detection Using HVDM-Based SOM</title>
+		<year>2005</year>
+		<authors>Lei Wang,Yong Yang,Shixin Sun</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>442936</id>
+		<label>76</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Classifier with the Immune-Training Based Wavelet Neural Network</title>
+		<year>2005</year>
+		<authors>Lei Wang,Yinling Nie,Weike Nie,Licheng Jiao</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442993</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Model of Artificial Immune Network and Simulations on Its Dynamics</title>
+		<year>2006</year>
+		<authors>Lei Wang,Yinling Nie,Weike Nie,Licheng Jiao</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442995</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Model Predictive Control of a Grain Dryer with Four Stages Based on Recurrent Fuzzy Neural Network</title>
+		<year>2007</year>
+		<authors>Chunyu Zhao,Qinglei Chi,Lei Wang,Bangchun Wen</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443468</id>
+		<label>75</label>
+		<organization>Shenyang Neusoft Software Co.ltd, Shenyang 110179, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>A Fast and Accurate Progressive Algorithm for Training Transductive SVMs</title>
+		<year>2007</year>
+		<authors>Lei Wang,Huading Jia,Shixin Sun</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>443688</id>
+		<label>76</label>
+		<organization>School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Object Detection for Hierarchical Image Classification</title>
+		<year>2002</year>
+		<authors>Latifur Khan,Lei Wang</authors>
+		<jconf>Revised Papers from MDM/KDD and PAKDD/KDMCD</jconf>
+		<id>472912</id>
+		<label>74</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object Boundary Detection For Ontology-Based Image Classification</title>
+		<year>2002</year>
+		<authors>Lei Wang,Latifur Khan,Casey Breen</authors>
+		<jconf>MDM/KDD</jconf>
+		<id>473390</id>
+		<label>74</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data I/O Minimization for Loops on Limited Onchip Memory Processors</title>
+		<year>1999</year>
+		<authors>Lei Wang,Santosh Pande</authors>
+		<jconf>LCPC</jconf>
+		<id>483338</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Comparison of Control Schemes for ABR Service in ATM LANs</title>
+		<year>1997</year>
+		<authors>Lei Wang,Carl McCrosky</authors>
+		<jconf>MASCOTS</jconf>
+		<id>489968</id>
+		<label>77</label>
+		<organization>Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask.</organization>
+	</publication>
+	<publication>
+		<title>Regularized Discriminative Direction for Shape Difference Analysis</title>
+		<year>2008</year>
+		<authors>Luping Zhou,Richard Hartley,Lei Wang,Paulette Lieby,Nick Barnes</authors>
+		<jconf>MICCAI (1)</jconf>
+		<id>498853</id>
+		<label>5</label>
+		<organization>RSISE, The Australian National University,</organization>
+	</publication>
+	<publication>
+		<title>Offense based temporal segmentation for event detection in soccer video</title>
+		<year>2004</year>
+		<authors>Lei Wang,Michael Lew,Guangyou Xu</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<id>500487</id>
+		<label>23</label>
+		<organization>Tsinghua University, Beijing, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>Automatic Ontology Derivation Using Clustering for Image Classification</title>
+		<year>2002</year>
+		<authors>Latifur Khan,Lei Wang</authors>
+		<jconf>Multimedia Information Systems</jconf>
+		<id>500766</id>
+		<label>74</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Image Annotations Using WordNet</title>
+		<year>2005</year>
+		<authors>Yohan Jin,Lei Wang,Latifur Khan</authors>
+		<jconf>Multimedia Information Systems</jconf>
+		<id>500778</id>
+		<label>74</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image annotations by combining multiple evidence  wordNet</title>
+		<year>2005</year>
+		<authors>Yohan Jin,Latifur Khan,Lei Wang,Mamoun Awad</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502403</id>
+		<label>74</label>
+		<organization>University of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>A novel framework for SVM-based image retrieval on large databases</title>
+		<year>2005</year>
+		<authors>Lei Wang,Xuchun Li,Ping Xue,Kap Luk Chan</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503084</id>
+		<label>5</label>
+		<organization>Australian National University</organization>
+	</publication>
+	<publication>
+		<title>Automatic image annotation and retrieval using subspace clustering algorithm</title>
+		<year>2004</year>
+		<authors>Lei Wang,Li Liu,Latifur Khan</authors>
+		<jconf>MMDB</jconf>
+		<id>504526</id>
+		<label>74</label>
+		<organization>University of Texas at Dallas</organization>
+	</publication>
+	<publication>
+		<title>Multi-Level Video Representation with Application to Keyframe Extraction</title>
+		<year>2004</year>
+		<authors>Xiao-Dong Yu,Lei Wang,Qi Tian,Ping Xue</authors>
+		<jconf>MMM</jconf>
+		<id>504749</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning</title>
+		<year>2008</year>
+		<authors>Chunhua Shen,Alan Welsh,Lei Wang</authors>
+		<jconf>NIPS</jconf>
+		<id>518168</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Prediction Model for Environmental Distribution Maps</title>
+		<year>2007</year>
+		<authors>Ke Zhang,Huidong Jin,Nianjun Liu,Rob Lesslie,Lei Wang,Zhouyu Fu,Terry Caelli</authors>
+		<jconf>PAKDD Workshops</jconf>
+		<id>527525</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Platform Implementation for Real Time Image Processing</title>
+		<year>2008</year>
+		<authors>Ching-Hsi Lu,Yu-Sheng Wang,Lei Wang,Hong-Yang Hsu</authors>
+		<jconf>PCM</jconf>
+		<id>532150</id>
+		<label>27</label>
+		<organization>Dept. of Electrical Engineering of Feng Chia University,</organization>
+	</publication>
+	<publication>
+		<title>Design Patterns of Scalable Cluster System Software</title>
+		<year>2006</year>
+		<authors>Bibo Tu,Ming Zou,Jianfeng Zhan,Lei Wang,Jianping Fan</authors>
+		<jconf>PDCAT</jconf>
+		<id>532803</id>
+		<label>16</label>
+		<organization>Chinese Academy of Sciences, China</organization>
+	</publication>
+	<publication>
+		<title>LiveBT: Providing Video-on-Demand Streaming Service over BitTorrent Systems</title>
+		<year>2007</year>
+		<authors>Jianming Lv,Xueqi Cheng,Qing Jiang,Jing Ye,Tieying Zhang,Siming Lin,Lei Wang</authors>
+		<jconf>PDCAT</jconf>
+		<id>532920</id>
+		<label>79</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Grid Unit: A Self-Managing Building Block for Grid System</title>
+		<year>2007</year>
+		<authors>Jianfeng Zhan,Lei Wang,Ming Zou,Hui Wang,Shuang Gao,Yulei Ding</authors>
+		<jconf>PDCAT</jconf>
+		<id>533051</id>
+		<label>16</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Lightweight Sensor Network Management System Design</title>
+		<year>2008</year>
+		<authors>Fenghua Yuan,Wen-Zhan Song,Nina Peterson,Yang Peng,Lei Wang,Behrooz Shirazi,Richard LaHusen</authors>
+		<jconf>PerCom</jconf>
+		<id>539088</id>
+		<label>78</label>
+		<organization>Sch. of Eng. & Comput. Sci., Washington State Univ., Vancouver, WA</organization>
+	</publication>
+	<publication>
+		<title>Car Plate Localization Using Pulse Coupled Neural Network in Complicated Environment</title>
+		<year>2006</year>
+		<authors>Ming Guo,Lei Wang,Xin Yuan</authors>
+		<jconf>PRICAI</jconf>
+		<id>551282</id>
+		<label>51</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object Class Recognition Using SNoW with a Part Vocabulary</title>
+		<year>2007</year>
+		<authors>Ming Wen,Lu Wang,Lei Wang,Qing Zhuo,Wenyuan Wang</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>562153</id>
+		<label>61</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Solution in Petroleum Industry's Cyber Data Acquisition Simulation System</title>
+		<year>2005</year>
+		<authors>Wei Li,Lei Wang</authors>
+		<jconf>RTCSA</jconf>
+		<id>564444</id>
+		<label>81</label>
+		<organization>University of Astronautics and Aeronautics</organization>
+	</publication>
+	<publication>
+		<title>Fault Tolerant Scheduling for Fixed-Priority Tasks with Preemption Threshold</title>
+		<year>2005</year>
+		<authors>Lei Wang,Zhaohui Wu,Mingde Zhao,Guoqing Yang</authors>
+		<jconf>RTCSA</jconf>
+		<id>564691</id>
+		<label>25</label>
+		<organization>Zhejiang University and Jiangxi University of Finance & Economic</organization>
+	</publication>
+	<publication>
+		<title>Escape analysis for synchronization removal</title>
+		<year>2006</year>
+		<authors>Lei Wang,Xikun Sun</authors>
+		<jconf>SAC</jconf>
+		<id>568772</id>
+		<label>82</label>
+		<organization>Beijing University of Aeronautics & Astronautics, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>An audio wiki supporting mobile collaboration</title>
+		<year>2008</year>
+		<authors>Lei Wang,Paul Roe,Binh Pham,Dian Tjondronegoro</authors>
+		<jconf>SAC</jconf>
+		<id>569649</id>
+		<label>79</label>
+		<organization>Queensland University of Technology, Brisbane Qld, Australia</organization>
+	</publication>
+	<publication>
+		<title>End-To-End Worst-Case Response Time Analysis for Hard Real-Time Distributed Systems</title>
+		<year>2005</year>
+		<authors>Lei Wang,Mingde Zhao,Zengwei Zheng,Zhaohui Wu</authors>
+		<jconf>SAFECOMP</jconf>
+		<id>570834</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The design methodology of Phoenix cluster system software stack</title>
+		<year>2007</year>
+		<authors>Jianfeng Zhan,Lei Wang,Bibo Tu,Hui Wang,Zhihong Zhang,Yi Jin,Yu Wen,Yuansheng Chen,Peng Wang,Bizhu Qiu,Dan Meng,Ninghui Sun</authors>
+		<jconf>China HPC</jconf>
+		<id>576031</id>
+		<label>16</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking</title>
+		<year>2008</year>
+		<authors>Lei Wang,Qiang Zhang,PengChao Zhao</authors>
+		<jconf>SCAM</jconf>
+		<id>576939</id>
+		<label>82</label>
+		<organization>Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Initial Framework for Collaboration-Based Component Selection</title>
+		<year>2004</year>
+		<authors>Lei Wang,Daniela Mehandjiska-Stavreva</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>585547</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Relevancy based semantic interoperation of reuse repositories</title>
+		<year>2004</year>
+		<authors>Ying Pan,Lei Wang,Lu Zhang,Bing Xie,Fuqing Yang</authors>
+		<jconf>SIGSOFT FSE</jconf>
+		<id>601269</id>
+		<label>23</label>
+		<organization>Tsinghua University</organization>
+	</publication>
+	<publication>
+		<title>The Design and Optimization of H.264 Encoder Based on the Nexperia Platform</title>
+		<year>2007</year>
+		<authors>Zhengdong Li,Xianwen Zeng,Zhongcheng Yin,Shaobin Hu,Lei Wang</authors>
+		<jconf>SNPD (1)</jconf>
+		<id>609147</id>
+		<label>80</label>
+		<organization>Chongqing Commun. Coll., Chongqing</organization>
+	</publication>
+	<publication>
+		<title>Eliminating Redundant Communication of Code Generation for Distributed Memory Machines</title>
+		<year>2007</year>
+		<authors>Yanan Shen,Rongcai Zhao,Lei Wang</authors>
+		<jconf>SNPD (2)</jconf>
+		<id>609386</id>
+		<label>82</label>
+		<organization>Beijing University of Aeronautics & Astronautics, China</organization>
+	</publication>
+	<publication>
+		<title>Research on Enterprise Track of TREC 2008</title>
+		<year>2008</year>
+		<authors>Huawei Shen,Lei Wang,Wenjing Bi,Yue Liu,Xueqi Cheng</authors>
+		<jconf>TREC</jconf>
+		<id>630469</id>
+		<label>79</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Pairwise Key Establishment Model and Algorithm for Sensor Networks</title>
+		<year>2006</year>
+		<authors>Lei Wang,Yaping Lin,Minsheng Tan,Chunyi Shi</authors>
+		<jconf>UIC</jconf>
+		<id>633708</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Voronoi Tessellation Based Rapid Coverage Decision Algorithm for Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Lei Wang,Haowei Shen,Zhe Chen,Yaping Lin</authors>
+		<jconf>UIC</jconf>
+		<id>633817</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering and Visualizing Audiovisual Dataset on Mobile Devices in a Topic-Oriented Manner</title>
+		<year>2007</year>
+		<authors>Lei Wang,Dian Tjondronegoro,Yue Liu</authors>
+		<jconf>VISUAL</jconf>
+		<id>639360</id>
+		<label>79</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing Crosstalk in the Presence of Weak Bridge Defects</title>
+		<year>2003</year>
+		<authors>Shahdad Irajpour,Shahin Nazarian,Lei Wang,Sandeep K. Gupta,Melvin A. Breuer</authors>
+		<jconf>VTS</jconf>
+		<id>649045</id>
+		<label>13</label>
+		<organization>Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>The Research of Complex System Modeling Based on Fractal Conception</title>
+		<year>2003</year>
+		<authors>Lei Wang,Z. Zuo,Yunshi Xiao,Q. Wu</authors>
+		<jconf>WAA</jconf>
+		<id>650470</id>
+		<label>67</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PASE: A Prototype for Ad-hoc Process-Aware Information System Declaratively Constructing Environment</title>
+		<year>2008</year>
+		<authors>Bin Zhou,Hongyan Li,Lei Wang,Huaqiang Zhang,Meimei Li</authors>
+		<jconf>WAIM</jconf>
+		<id>652272</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Security Using Legality Assertions</title>
+		<year>2005</year>
+		<authors>Lei Wang,James R. Cordy,Thomas R. Dean</authors>
+		<jconf>WCRE</jconf>
+		<id>653392</id>
+		<label>86</label>
+		<organization>Queen's University</organization>
+	</publication>
+	<publication>
+		<title>Building Domain Ontology Based on Web Data and Generic Ontology</title>
+		<year>2004</year>
+		<authors>Jie Yang,Lei Wang,Song Zhang,Xin Sui,Ning Zhang,Zhuoqun Xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655201</id>
+		<label>20</label>
+		<organization>Peking Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Offer Group Generation and Delayed Processing in Multi-Issue Negotiation</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Song Zhang,Lei Wang,Jie Yang,Zhuoqun Xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655228</id>
+		<label>20</label>
+		<organization>Peking University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Effective Evidence Theory Based K-Nearest Neighbor (KNN) Classification</title>
+		<year>2008</year>
+		<authors>Lei Wang,Latifur Khan,Bhavani M. Thuraisingham</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655644</id>
+		<label>74</label>
+		<organization>Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX</organization>
+	</publication>
+	<publication>
+		<title>Efficiency, Fairness and Competitiveness in Nash Bargaining Games</title>
+		<year>2008</year>
+		<authors>Deeparnab Chakrabarty,Gagan Goel,Vijay V. Vazirani,Lei Wang,Changyuan Yu</authors>
+		<jconf>WINE</jconf>
+		<id>662592</id>
+		<label>14</label>
+		<organization>College of Computing, Georgia Institute of Technology, Atlanta GA 30332---0280</organization>
+	</publication>
+	<publication>
+		<title>Key Distribution for Group-based Sensor Deployment Using a Novel Interconnection Graph</title>
+		<year>2007</year>
+		<authors>Lei Wang,Yaping Lin,Yonghe Liu</authors>
+		<jconf>WOWMOM</jconf>
+		<id>667001</id>
+		<label>47</label>
+		<organization>Department of Computer Science, Hunan University, Hunan, Changsha, P.R. China, wanglei@hnu.cn</organization>
+	</publication>
+	<publication>
+		<title>Link quality prediction for wireless devices with multiple radios</title>
+		<year>2008</year>
+		<authors>Qiuyi Duan,Lei Wang,Charles D. Knutson,Daniel Zappala</authors>
+		<jconf>WOWMOM</jconf>
+		<id>667029</id>
+		<label>66</label>
+		<organization>Computer Science Department, Brigham Young University, Provo, UT 84602-6576, USA</organization>
+	</publication>
+	<publication>
+		<title>Multi-path GEM for Routing in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Qiang Ye,Yuxing Huang,Andrew Reddin,Lei Wang,Wuman Luo</authors>
+		<jconf>WASA</jconf>
+		<id>677746</id>
+		<label>82</label>
+		<organization>School of Computer Science, Beihang University, Beijing, P.R. China 100083</organization>
+	</publication>
+	<publication>
+		<title>Analysis on Appearance Reasons of the Positive Feedback Traders</title>
+		<year>2006</year>
+		<authors>Shi An,Lei Wang,He Huang</authors>
+		<jconf>ICICIC (2)</jconf>
+		<id>679394</id>
+		<label>83</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Joint Multiuser Precoding and Scheduling with Imperfect Channel State Information at the Transmitter</title>
+		<year>2008</year>
+		<authors>Keying Wu,Lei Wang,Liyu Cai</authors>
+		<jconf>VTC Spring</jconf>
+		<id>690283</id>
+		<label>84</label>
+		<organization>Res. & Innovation Center, Alcatel Shanghai Bell Co., Ltd., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>An evolutionary algorithm with population immunity and its application on autonomous robot control</title>
+		<year>2003</year>
+		<authors>Lei Wang,Beat Hirsbrunner</authors>
+		<jconf>IEEE Congress on Evolutionary Computation (1)</jconf>
+		<id>697241</id>
+		<label>33</label>
+		<organization>Dept. of Informatics, Fribourg Univ., Switzerland</organization>
+	</publication>
+	<publication>
+		<title>Virtual Burst Assembly - A Solution to Out-of-Sequence Delivery in Optical Burst Switching Networks</title>
+		<year>2008</year>
+		<authors>Lei Wang,Yuhua Chen,Mona Thaker</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705807</id>
+		<label>85</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Houston, Houston, TX</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Control Architecture for Connection Management in Translucent WDM Networks</title>
+		<year>2008</year>
+		<authors>Lei Wang,Jie Zhang,Guanjun Gao,Yongjun Liu,Xiuzhong Chen,Wanyi Gu</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705895</id>
+		<label>90</label>
+		<organization>Key Lab. of Opt. Commun. & Lightwave Technol., Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Using Description Logics Reasoner for Ontology Matching</title>
+		<year>2007</year>
+		<authors>Guohua Shen,Zhiqiu Huang,Xiaodong Zhu,Lei Wang,Gaoyou Xiang</authors>
+		<jconf>IITA</jconf>
+		<id>708819</id>
+		<label>89</label>
+		<organization>Nanjing Univ. of Aeronaut. & Astronaut., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>A Pattern Matching Algorithm in P2P Mobile QA System Answer Extracting Process</title>
+		<year>2008</year>
+		<authors>Lei Wang,Shulin Chen</authors>
+		<jconf>ISIP</jconf>
+		<id>709174</id>
+		<label>39</label>
+		<organization>Coll. of Econ. & Manage., Nanjing Forestry Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Mining and Visualizing Multimedia Dataset on Mobile Devices in a Topic-oriented Manner</title>
+		<year>2006</year>
+		<authors>Lei Wang,Dian Tjondronegoro</authors>
+		<jconf>MoMM</jconf>
+		<id>710018</id>
+		<label>79</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Kapa: A File Sharing System Based on HP2P</title>
+		<year>2008</year>
+		<authors>Bo Wang,Zhenhua Duan,Lei Wang</authors>
+		<jconf>ICIW</jconf>
+		<id>711634</id>
+		<label>92</label>
+		<organization>Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>Context-aware application programming for mobile devices</title>
+		<year>2008</year>
+		<authors>Weichang Du,Lei Wang</authors>
+		<jconf>C3S2E</jconf>
+		<id>715760</id>
+		<label>91</label>
+		<organization>University of New Brunswick, N.B. Canada</organization>
+	</publication>
+	<publication>
+		<title>Password Recovery on Challenge and Response: Impossible Differential Attack on Hash Function</title>
+		<year>2008</year>
+		<authors>Yu Sasaki,Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>AFRICACRYPT</jconf>
+		<id>717033</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Algorithm of Obtaining Best Rules Based on Rough Set</title>
+		<year>2008</year>
+		<authors>Shulin Chen,Lei Wang</authors>
+		<jconf>ISECS</jconf>
+		<id>720248</id>
+		<label>39</label>
+		<organization>Coll. of Econ. & Manage., NanJing Forestry Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>An AIS-Based Service Match Model</title>
+		<year>2008</year>
+		<authors>Lei Wang,Song Ma,Xin-hong Hei</authors>
+		<jconf>CSSE (1)</jconf>
+		<id>728709</id>
+		<label>87</label>
+		<organization>Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>A Performance Model for Domino Mail Server</title>
+		<year>2008</year>
+		<authors>Yi Liang,Lei Wang,Jianfeng Zhan,Ruihua Di</authors>
+		<jconf>CSSE (3)</jconf>
+		<id>729205</id>
+		<label>16</label>
+		<organization>Dept. of Comput. Sci., Beijing Univ. of Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Research on an Immune Mechanism Based Intelligent Spam Filter</title>
+		<year>2008</year>
+		<authors>Lei Wang,Song Ma,Xin-hong Hei</authors>
+		<jconf>CSSE (3)</jconf>
+		<id>729214</id>
+		<label>87</label>
+		<organization>Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>DECF: A Coarse-Grained Data-Parallel Programming Framework for Seismic Processing</title>
+		<year>2008</year>
+		<authors>Changhai Zhao,Haihua Yan,Xiaohua Shi,Lei Wang</authors>
+		<jconf>CSSE (3)</jconf>
+		<id>729350</id>
+		<label>82</label>
+		<organization>Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Method for Constructing Semi-structural Process in Knowledge-Intensive Information System</title>
+		<year>2008</year>
+		<authors>Bin Zhou,Hongyan Li,Chao Li,Lei Wang,Huaqiang Zhang</authors>
+		<jconf>CSSE (4)</jconf>
+		<id>729453</id>
+		<label>10</label>
+		<organization>Sch. of EECS, Peking Univ., Peking</organization>
+	</publication>
+	<publication>
+		<title>Performance Bound Analysis and Retiming of Timed Circuits</title>
+		<year>2008</year>
+		<authors>Lei Wang,Zhiying Wang,Kui Dai</authors>
+		<jconf>ICYCS</jconf>
+		<id>730302</id>
+		<label>2</label>
+		<organization>Sch. of Comput., Nat. Univ. of Defense Technol., Changsha</organization>
+	</publication>
+	<publication>
+		<title>Research on Neighboring APs Discovery Methods in PnP WLAN</title>
+		<year>2008</year>
+		<authors>Zhiyong Feng,Litao Liang,Lei Wang,Qixun Zhang,Yifan Yu,Yong Bai,Lan Chen</authors>
+		<jconf>WCNC</jconf>
+		<id>734856</id>
+		<label>88</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A CCI-Feedback-Aided Scheduling Technique for MU-MIMO</title>
+		<year>2008</year>
+		<authors>Keying Wu,Lei Wang,Liyu Cai</authors>
+		<jconf>WCNC</jconf>
+		<id>734868</id>
+		<label>84</label>
+		<organization>Alcatel Shanghai Bell Co. Ltd., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Evaluation Mode Research on Particle Swarm Optimization Algorithm</title>
+		<year>2007</year>
+		<authors>Qi Kang,Lei Wang,Hui Xiao,Qidi Wu</authors>
+		<jconf>ICNSC</jconf>
+		<id>735557</id>
+		<label>67</label>
+		<organization>Tongji Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Traffic Intelligent Optimization and Local Traffic-Flow Control Inside Shanghai-EXPO-Area</title>
+		<year>2007</year>
+		<authors>Lei Wang,Qi Kang,Hui Xiao,Qidi Wu</authors>
+		<jconf>ICNSC</jconf>
+		<id>735627</id>
+		<label>67</label>
+		<organization>Tongji Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Neural Network Architecture for On-Line Learning</title>
+		<year>2008</year>
+		<authors>Yuhua Chen,Subhash Kak,Lei Wang</authors>
+		<jconf>CoRR</jconf>
+		<id>828526</id>
+		<label>85</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low-Complex Equalization for Single Carrier Systems Employing Cyclic Prefix over Time-Variant Channels</title>
+		<year>2007</year>
+		<authors>Feng Li,Shihua Zhu,Lei Wang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>895849</id>
+		<label>96</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Secret Sharing Schemes for Multiple Secret Images Allowing the Rotation of Shares</title>
+		<year>2006</year>
+		<authors>Mitsugu Iwamoto,Lei Wang,Kazuki Yoneyama,Noboru Kunihiro,Kazuo Ohta</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>897176</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Round-Robin with VirtualClock Scheduling Algorithm in Multiservice Packet Networks</title>
+		<year>2006</year>
+		<authors>Lei Wang,Mike H. MacGregor</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898068</id>
+		<label>82</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Khatri-Rao Unitary Space-Time Modulation</title>
+		<year>2006</year>
+		<authors>Lei Wang,Shihua Zhu,Jun Wang,Yanxing Zeng</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898261</id>
+		<label>96</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Message Differences for Collision Attacks on MD4 and MD5</title>
+		<year>2008</year>
+		<authors>Yu Sasaki,Lei Wang,Noboru Kunihiro,Kazuo Ohta</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>899892</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exact Distribution of the Amplitude of Adaptively Selected OFDM Signal Samples</title>
+		<year>2008</year>
+		<authors>Lei Wang,Dongweon Yoon,Sang Kyu Park</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>899925</id>
+		<label>93</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Active Shape-from-Shadows with Controlled Illuminant Trajectories</title>
+		<year>2001</year>
+		<authors>James J. Clark,Lei Wang</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<id>907653</id>
+		<label>54</label>
+		<organization>Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110</organization>
+	</publication>
+	<publication>
+		<title>A Sub-Vector Weighting Scheme for Image Retrieval with Relevance Feedback</title>
+		<year>2002</year>
+		<authors>Lei Wang,Kap Luk Chan,Xuejian Xiong</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910442</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A fast approximate algorithm for training L1-SVMs in primal space</title>
+		<year>2007</year>
+		<authors>Lei Wang,Shixin Sun,Kai Zhang</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>917784</id>
+		<label>76</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Delivering a Fully Interactive Mobile TV</title>
+		<year>2006</year>
+		<authors>Dian Tjondronegoro,Lei Wang,Adrien Joly</authors>
+		<jconf>IJWIS</jconf>
+		<id>922153</id>
+		<label>79</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Active Network Supports for Mobile IP</title>
+		<year>2001</year>
+		<authors>Yueming Lu,Depei Qian,Bin Xu,Lei Wang</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973619</id>
+		<label>95</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Provisioning QoS Guarantee by Multipath Routing and Reservation in Ad Hoc Networks</title>
+		<year>2004</year>
+		<authors>Yantai Shu,Guang-Hong Wang,Lei Wang,Oliver W. W. Yang,Yong-Jie Fan</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973758</id>
+		<label>94</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards achieving reliable and high-performance nanocomputing via dynamic redundancy allocation</title>
+		<year>2009</year>
+		<authors>Shuo Wang,Lei Wang,Faquir Jain</authors>
+		<jconf>JETC</jconf>
+		<id>980653</id>
+		<label>44</label>
+		<organization>University of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Achieving Scalable Parallel Molecular Dynamics Using Dynamic Spatial Domain Decomposition Techniques</title>
+		<year>1997</year>
+		<authors>Lars S. Nyland,Jan Prins,Ru Huai Yun,Jan Hermans,Hye-Chung Kum,Lei Wang</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>989395</id>
+		<label>69</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic image annotation and retrieval using weighted feature selection</title>
+		<year>2006</year>
+		<authors>Lei Wang,Latifur Khan</authors>
+		<jconf>Multimedia Tools Appl.</jconf>
+		<id>1016939</id>
+		<label>74</label>
+		<organization>Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083</organization>
+	</publication>
+	<publication>
+		<title>Generalized 2D principal component analysis for face image representation and recognition</title>
+		<year>2005</year>
+		<authors>Hui Kong,Lei Wang,Eam Khwang Teoh,Xuchun Li,Jian-Gang Wang,Ronda Venkateswarlu</authors>
+		<jconf>Neural Networks</jconf>
+		<id>1026665</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Sub-vector Weighting Scheme for Image Retrieval with Relevance Feedback</title>
+		<year>2003</year>
+		<authors>Lei Wang,Kap Luk Chan</authors>
+		<jconf>Pattern Anal. Appl.</jconf>
+		<id>1030371</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Error Analysis of Pure Rotation-Based Self-Calibration</title>
+		<year>2004</year>
+		<authors>Lei Wang,Sing Bing Kang,Heung-Yeung Shum,Guangyou Xu</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033292</id>
+		<label>23</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>An Approximate Solution for Queuing Network Models of a Burst-Level Traffic Control Scheme in ATM WAN</title>
+		<year>1998</year>
+		<authors>Lei Wang,Carl McCrosky</authors>
+		<jconf>Perform. Eval.</jconf>
+		<id>1037276</id>
+		<label>77</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MRF parameter estimation by MCMC method</title>
+		<year>2000</year>
+		<authors>Lei Wang,Jun Liu,Stan Z. Li</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041838</id>
+		<label>99</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Texture segmentation based on MRMRF modeling</title>
+		<year>2000</year>
+		<authors>Lei Wang,Jun Liu</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046162</id>
+		<label>99</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Texture classification using multiresolution Markov random field models</title>
+		<year>1999</year>
+		<authors>Lei Wang,Jun Liu</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046165</id>
+		<label>99</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of Deskew Signaling Via Adaptive Timing</title>
+		<year>2009</year>
+		<authors>Shuo Wang,Lei Wang</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1086848</id>
+		<label>44</label>
+		<organization>Univ. of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Call admission control for integrated on/off voice and best-effort data services in mobile cellular communications</title>
+		<year>2004</year>
+		<authors>Chi Wa Leong,Weihua Zhuang,Yu Cheng,Lei Wang</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087521</id>
+		<label>98</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Waterloo, Ont., Canada</organization>
+	</publication>
+	<publication>
+		<title>Calculation of Loss Probability in a Finite Size Partitioned Buffer for Quantitative Assured Service</title>
+		<year>2007</year>
+		<authors>Yu Cheng,Weihua Zhuang,Lei Wang</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088029</id>
+		<label>98</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large Deformation Diffeomorphism and Momentum Based Hippocampal Shape Discrimination in Dementia of the Alzheimer type</title>
+		<year>2007</year>
+		<authors>Lei Wang,Mirza Faisal Beg,J. Tilak Ratnanather,C. Ceritoglu,Laurent Younes,J. C. Morris,John G. Csernansky,Michael I. Miller</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1115910</id>
+		<label>97</label>
+		<organization>Dept. of Psychiatry, Washington Univ. Sch. of Med., St. Louis, MO</organization>
+	</publication>
+	<publication>
+		<title>A novel genetic algorithm based on immunity</title>
+		<year>2000</year>
+		<authors>Licheng Jiao,Lei Wang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1131368</id>
+		<label>49</label>
+		<organization>Key Lab. for Radar Signal Process., Xidian Univ., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>A criterion for optimizing kernel parameters in KBDA for image retrieval</title>
+		<year>2005</year>
+		<authors>Lei Wang,Kap Luk Chan,Ping Xue</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132314</id>
+		<label>5</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Two Criteria for Model Selection in Multiclass Support Vector Machines</title>
+		<year>2008</year>
+		<authors>Lei Wang,Ping Xue,Kap Luk Chan</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1133380</id>
+		<label>5</label>
+		<organization>Res. Sch. of Inf. Sci. & Eng., Australian Nat. Univ., Canberra, ACT</organization>
+	</publication>
+	<publication>
+		<title>Time multiplexed color image processing based on a CNN with cell-state outputs</title>
+		<year>1998</year>
+		<authors>Lei Wang,Jose Pineda de Gyvez,Edgar Sanchez-Sinencio</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135181</id>
+		<label>103</label>
+		<organization>Dept. of Electr. Eng., Texas A&M Univ., College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Energy-efficiency bounds for deep submicron VLSI systems in the presence of noise</title>
+		<year>2003</year>
+		<authors>Lei Wang,Naresh R. Shanbhag</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135589</id>
+		<label>70</label>
+		<organization>Microprocessor Technology Laboratories, Hewlett-Packard Company, Fort Collins, CO</organization>
+	</publication>
+	<publication>
+		<title>Low-power MIMO signal processing</title>
+		<year>2003</year>
+		<authors>Lei Wang,Naresh R. Shanbhag</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135632</id>
+		<label>70</label>
+		<organization>Microprocessor Technology Laboratories, Hewlett Packard Company, Fort Collins, CO</organization>
+	</publication>
+	<publication>
+		<title>Improving Error Tolerance for Multithreaded Register Files</title>
+		<year>2008</year>
+		<authors>Lei Wang,Niral Patel</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1135809</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>A novel multi-resolution video representation scheme based on kernel PCA</title>
+		<year>2006</year>
+		<authors>Xiao-Dong Yu,Lei Wang,Qi Tian,Ping Xue</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1137186</id>
+		<label>5</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A novel ecological particle swarm optimization algorithm and its population dynamics analysis</title>
+		<year>2008</year>
+		<authors>Qi Kang,Lei Wang,Qidi Wu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149245</id>
+		<label>67</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research and Implementation of a 32-Bit Asynchronous Multiplier</title>
+		<year>2006</year>
+		<authors>Yong Li,Lei Wang,Rui Gong,Kui Dai,Zhiying Wang</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<id>1163164</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A call admission control scheme for packet data in CDMA cellular communications</title>
+		<year>2006</year>
+		<authors>Lei Wang,Weihua Zhuang</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1176535</id>
+		<label>98</label>
+		<organization>Dept. of Electr. & Comput. Eng., Waterloo Univ., Ont., Canada</organization>
+	</publication>
+	<publication>
+		<title>Low-Complexity Analysis of Repetitive Regularities for Biometric Applications</title>
+		<year>2007</year>
+		<authors>Lei Wang,Niral Patel</authors>
+		<jconf>JCP</jconf>
+		<id>1184440</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing and Mining Multimedia Data, Animations and Annotations</title>
+		<year>2008</year>
+		<authors>Bhavani M. Thuraisingham,B. Prabhakaran,Latifur Khan,Lei Wang</authors>
+		<jconf>Wiley Encyclopedia of Computer Science and Engineering</jconf>
+		<id>1200614</id>
+		<label>74</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Association based immune network for multimodal function optimization</title>
+		<year>2009</year>
+		<authors>Qingzheng Xu,Jing Si,Lei Wang</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207589</id>
+		<label>101</label>
+		<organization>Xi'an University of Technology, Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>Chaos Control of Lorenz System Using Small Gain Theorem</title>
+		<year>2009</year>
+		<authors>Lei Wang,Jian-Hao Xu,Ti-Biao Wang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211325</id>
+		<label>102</label>
+		<organization>Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205</organization>
+	</publication>
+	<publication>
+		<title>Synchronization between Two Different Hyperchaotic Dynamical Systems Using Nonlinear Control</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yong Xu</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211377</id>
+		<label>102</label>
+		<organization>Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205</organization>
+	</publication>
+	<publication>
+		<title>Selective Ensemble Algorithms of Support Vector Machines Based on Constraint Projection</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yong Yang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211405</id>
+		<label>76</label>
+		<organization>School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074</organization>
+	</publication>
+	<publication>
+		<title>MM-Correction: Meta-analysis-Based Multiple Hypotheses Correction in Omic Studies</title>
+		<year>2008</year>
+		<authors>Christine Nardini,Lei Wang,Hesen Peng,Luca Benini,Michael D. Kuo</authors>
+		<jconf>BIOSTEC (Selected Papers)</jconf>
+		<id>1216116</id>
+		<label>100</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HxH: a hop-by-hop transport protocol for multi-hop wireless networks</title>
+		<year>2008</year>
+		<authors>Daniel Scofield,Lei Wang,Daniel Zappala</authors>
+		<jconf>WICON</jconf>
+		<id>1217468</id>
+		<label>66</label>
+		<organization>Brigham Young University</organization>
+	</publication>
+	<publication>
+		<title>Measurement and Statistics of Application Business in Complex Internet</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yang Li,Yipeng Li,Shuhang Wu,Shiji Song,Yong Ren</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217826</id>
+		<label>106</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Robustness Analysis of Biochemical Networks of Glycerol Metabolism by Klebsiella Pneumoniae</title>
+		<year>2009</year>
+		<authors>Jianxiong Ye,Enmin Feng,Lei Wang,Zhilong Xiu,Yaqin Sun</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217875</id>
+		<label>105</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Properties of Nonlinear Stochastic Dynamical System of Continuous Culture</title>
+		<year>2009</year>
+		<authors>Lei Wang,Enmin Feng,Jianxiong Ye,Zhilong Xiu</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217894</id>
+		<label>105</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Phoenix Cloud : Consolidating Heterogeneous Workloads of Large Organizations on Cloud Computing Platforms</title>
+		<year>2009</year>
+		<authors>Jianfeng Zhan,Lei Wang,Bibo Tu,Yong Li,Peng Wang,Wei Zhou,Dan Meng</authors>
+		<jconf>CoRR</jconf>
+		<id>1222797</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variable Block Size Motion Vector Retrieval Schemes for H.264 Inter Frame Error Concealment</title>
+		<year>2008</year>
+		<authors>Lei Wang,Jun Wang,Satoshi Goto,Takeshi Ikenaga</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224452</id>
+		<label>96</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Standard Deviation and Intra Prediction Mode Based Adaptive Spatial Error Concealment (SEC) in H.264/AVC</title>
+		<year>2008</year>
+		<authors>Jun Wang,Lei Wang,Takeshi Ikenaga,Satoshi Goto</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224457</id>
+		<label>96</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Near-Collision Attacks on MD4: Applied to MD4-Based Protocols</title>
+		<year>2009</year>
+		<authors>Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224576</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extended Password Recovery Attacks against APOP, SIP, and Digest Authentication</title>
+		<year>2009</year>
+		<authors>Yu Sasaki,Lei Wang,Kazuo Ohta,Noboru Kunihiro</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224646</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Side Information Inserted Pilot Tone Transmission for PAPR Reduction in OFDM</title>
+		<year>2009</year>
+		<authors>Lei Wang,Dongweon Yoon,Sang Kyu Park</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1225128</id>
+		<label>93</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feature Selection with Kernel Class Separability</title>
+		<year>2008</year>
+		<authors>Lei Wang</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1226665</id>
+		<label>5</label>
+		<organization>Res. Sch. of Inf. Sci. & Eng., Australian Nat. Univ., Canberra, ACT</organization>
+	</publication>
+	<publication>
+		<title>A new algorithm for solving classical Blasius equation</title>
+		<year>2004</year>
+		<authors>Lei Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1229413</id>
+		<label>104</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A novel method for a class of nonlinear singular perturbation problems</title>
+		<year>2004</year>
+		<authors>Lei Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1229485</id>
+		<label>104</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Kernel-Induced Space Selection Approach to Model Selection in KLDA</title>
+		<year>2008</year>
+		<authors>Lei Wang,Kap Luk Chan,Ping Xue,Luping Zhou</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1230440</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient clustering algorithm for large-scale topical web pages</title>
+		<year>2009</year>
+		<authors>Lei Wang,Peng Chen,Lian'en Huang</authors>
+		<jconf>CIKM</jconf>
+		<id>1239305</id>
+		<label>20</label>
+		<organization>Peking University, Shenzhen, China</organization>
+	</publication>
+	<publication>
+		<title>Linux kernels as complex networks: A novel method to study evolution</title>
+		<year>2009</year>
+		<authors>Lei Wang,Zheng Wang,Chen Yang,Li Zhang,Qiang Ye</authors>
+		<jconf>ICSM</jconf>
+		<id>1248509</id>
+		<label>82</label>
+		<organization>Sch. of Comput. Sci., Beijing Univ. of Aeronaut. & Astronaut., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Way-tagged cache: an energy-efficient L2 cache architecture under write-through policy</title>
+		<year>2009</year>
+		<authors>Jianwei Dai,Lei Wang</authors>
+		<jconf>ISLPED</jconf>
+		<id>1250844</id>
+		<label>44</label>
+		<organization>University of Connecticut, Storrs, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Bit-Free Collision: Application to APOP Attack</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yu Sasaki,Kazuo Sakiyama,Kazuo Ohta</authors>
+		<jconf>IWSEC</jconf>
+		<id>1251529</id>
+		<label>30</label>
+		<organization>The University of Electro-Communications, Tokyo, Japan 182-8585</organization>
+	</publication>
+	<publication>
+		<title>In cloud, do MTC or HTC service providers benefit from the economies of scale?</title>
+		<year>2009</year>
+		<authors>Lei Wang,Jianfeng Zhan,Weisong Shi,Yi Liang,Lin Yuan</authors>
+		<jconf>Computer Languages, Systems & Structures</jconf>
+		<id>1255070</id>
+		<label>16</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Layer Key Management Scheme on Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>Qingqi Pei,Lei Wang,Hao Yin,Liaojun Pang,Hong Tang</authors>
+		<jconf>IAS</jconf>
+		<id>1260179</id>
+		<label>110</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cross-Layer Optimized Data Gathering in Wireless Multimedia Sensor Networks</title>
+		<year>2009</year>
+		<authors>Lei Shu,Manfred Hauswirth,Lei Wang,Yan Zhang,Jong Hyuk Park</authors>
+		<jconf>IEEE Transactions on Audio, Speech & Language Processing</jconf>
+		<id>1260797</id>
+		<label>111</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cooperative OFDM for energy-efficient wireless sensor networks</title>
+		<year>2008</year>
+		<authors>Weiguo Tang,Lei Wang</authors>
+		<jconf>Genomics, Proteomics & Bioinformatics</jconf>
+		<id>1262082</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Defect-tolerant digital filtering with unreliable molecular electronics</title>
+		<year>2008</year>
+		<authors>Shuo Wang,Jianwei Dai,Lei Wang</authors>
+		<jconf>Genomics, Proteomics & Bioinformatics</jconf>
+		<id>1262094</id>
+		<label>44</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Spatial Error Concealment for H.264/AVC Video Stream</title>
+		<year>2008</year>
+		<authors>Jun Wang,Lei Wang,Takeshi Ikenaga,Satoshi Goto</authors>
+		<jconf>Business & Information Systems Engineering</jconf>
+		<id>1262321</id>
+		<label>96</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design of Asynchronous Microprocessor Based on Optimized NCL_X Design-Flow</title>
+		<year>2009</year>
+		<authors>Gang Jin,Lei Wang,Zhiying Wang</authors>
+		<jconf>NAS</jconf>
+		<id>1265798</id>
+		<label>2</label>
+		<organization>Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Positive Semidefinite Metric Learning with Boosting</title>
+		<year>2009</year>
+		<authors>Chunhua Shen,Junae Kim,Lei Wang,Anton van den Hengel</authors>
+		<jconf>CoRR</jconf>
+		<id>1269595</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Utilizing quantum dot transistors with programmable threshold voltages for low-power mobile computing</title>
+		<year>2009</year>
+		<authors>Shuo Wang,Jianwei Dai,El-Sayed Hasaneen,Lei Wang,Faquir Jain</authors>
+		<jconf>JETC</jconf>
+		<id>1277559</id>
+		<label>44</label>
+		<organization>University of Connecticut</organization>
+	</publication>
+	<publication>
+		<title>Revenue Management for a Primary-Care Clinic in the Presence of Patient Choice</title>
+		<year>2008</year>
+		<authors>Diwakar Gupta,Lei Wang</authors>
+		<jconf>Synthesis Lectures on Information Concepts, Retrieval, and Services</jconf>
+		<id>1289595</id>
+		<label>109</label>
+		<organization>SmartOps Corporation, Pittsburgh, Pennsylvania 15212</organization>
+	</publication>
+	<publication>
+		<title>Capacity Management for Contract Manufacturing</title>
+		<year>2007</year>
+		<authors>Diwakar Gupta,Lei Wang</authors>
+		<jconf>Synthesis Lectures on Information Concepts, Retrieval, and Services</jconf>
+		<id>1289704</id>
+		<label>109</label>
+		<organization>SmartOps Corporation, One North Shore Center, 12 Federal Street, Pittsburgh, Pennsylvania 15212</organization>
+	</publication>
+	<publication>
+		<title>Information Acquisition in Desert Ant Navigation</title>
+		<year>2006</year>
+		<authors>Jun Gao,Lei Wang,Mei Bo,Zhiguo Fan</authors>
+		<jconf>Advances in Adaptive Data Analysis</jconf>
+		<id>1292840</id>
+		<label>108</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preimages for Step-Reduced SHA-2.</title>
+		<year>2009</year>
+		<authors>Kazumaro Aoki,Jian Guo,Krystian Matusiewicz,Yu Sasaki,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1302868</id>
+		<label>30</label>
+		<organization>University of Electro-Communications, Tokyo, Japan 182-8585</organization>
+	</publication>
+	<publication>
+		<title>How to Confirm Cryptosystems Security: The Original Merkle-Damgård Is Still Alive!</title>
+		<year>2009</year>
+		<authors>Yusuke Naito,Kazuki Yoneyama,Lei Wang,Kazuo Ohta</authors>
+		<jconf>null</jconf>
+		<id>1302876</id>
+		<label>30</label>
+		<organization>The University of Electro-Communications,</organization>
+	</publication>
+	<publication>
+		<title>The Representation of Chinese Semantic Knowledge and its Application in the Document Copy Detection.</title>
+		<year>2007</year>
+		<authors>Xu Li,Guo-Hua Liu,Hui-Dong Ma,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1303721</id>
+		<label>107</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study of Side-Channel Effects in Reliability-Enhancing Techniques.</title>
+		<year>2009</year>
+		<authors>Jianwei Dai,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1305565</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Application of Non-linear Regression Method to the Functional Connectivity during the Encoding and the Retrieval of Chinese Semantic Memory.</title>
+		<year>2009</year>
+		<authors>Manling Ge,Guoya Dong,Tingting Wang,Li Yang,XueLian Pang,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1306384</id>
+		<label>22</label>
+		<organization>Province-Minist. Joint Key Lab. of Electromagn. Field & Electr. Apparatus Reliability, Hebei Univ. of Technol., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Fault Diagnosis of Regenerative Water Heater Based-On Multi-class Support Vector Machines.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Rui-qing Zhang</authors>
+		<jconf>null</jconf>
+		<id>1306394</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuity Properties of Equilibria in Some Fisher and Arrow-Debreu Market Models.</title>
+		<year>2009</year>
+		<authors>Vijay V. Vazirani,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1310348</id>
+		<label>14</label>
+		<organization>College of Computing, Georgia Institute of Technology, Atlanta 30332---0280</organization>
+	</publication>
+	<publication>
+		<title>A Robust Closed-Loop Control Algorithm for Mean Arterial Blood Pressure Regulation.</title>
+		<year>2009</year>
+		<authors>Guan-Zheng Liu,Lei Wang,Yuan-Ting Zhang</authors>
+		<jconf>null</jconf>
+		<id>1310873</id>
+		<label>26</label>
+		<organization>Shenzhen Inst. of Adv. Technol., Chinese Acad. of Sci., Shenzhen, China</organization>
+	</publication>
+	<publication>
+		<title>Data Compression Algorithm Based on Hierarchical Cluster Model for Sensor Networks.</title>
+		<year>2008</year>
+		<authors>Tongsen Wang,Lei Wang,Zhijun Xie,Ronghua Yang</authors>
+		<jconf>null</jconf>
+		<id>1312122</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>NetTopo: Beyond Simulator and Visualizer for Wireless Sensor Networks.</title>
+		<year>2008</year>
+		<authors>Lei Shu,Chun Wu,Yan Zhang,Jiming Chen,Lei Wang,Manfred Hauswirth</authors>
+		<jconf>null</jconf>
+		<id>1312233</id>
+		<label>111</label>
+		<organization>Digital Enterprise Res. Inst., Nat. Univ. of Ireland, Galway, Ireland</organization>
+	</publication>
+	<publication>
+		<title>Planning and Control of Biped Walking along Curved Paths on Unknown and Uneven Terrain.</title>
+		<year>2009</year>
+		<authors>GuoQing Zhang,Ming Xie,Hang Yin,Lei Wang,HeJin Yang</authors>
+		<jconf>null</jconf>
+		<id>1312622</id>
+		<label>24</label>
+		<organization>School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 637553</organization>
+	</publication>
+	<publication>
+		<title>A New Rights Processing Method for DRM Systems.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Peiyu Guo,Jinhui Xie,Yingying Yao,Jinchun Liang</authors>
+		<jconf>null</jconf>
+		<id>1315200</id>
+		<label>31</label>
+		<organization>Inf. Eng. Sch., Commun. Univ. of China, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Traffic Localizing Strategy for Peer-to-Peer Systems.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yong Ren,Yue Wang,Jian Yuan,Shiji Song,Xiuming Shan</authors>
+		<jconf>null</jconf>
+		<id>1317200</id>
+		<label>23</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Service View Description of a Service Oriented C4ISR Architecture Framework.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Ai-min Luo</authors>
+		<jconf>null</jconf>
+		<id>1318104</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Description Language for Data-Driven Asynchronous Circuits and its Design Flow.</title>
+		<year>2009</year>
+		<authors>Gang Jin,Lei Wang,Zhiying Wang</authors>
+		<jconf>null</jconf>
+		<id>1318494</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Handling Significant Scale Difference for Object Retrieval in a Supermarket.</title>
+		<year>2009</year>
+		<authors>Yuhang Zhang,Lei Wang,Richard Hartley,Hongdong Li</authors>
+		<jconf>null</jconf>
+		<id>1318698</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Text Feature Conversion Method for Text Classification.</title>
+		<year>2009</year>
+		<authors>Minghan Hu,Ying Liu,Lei Wang,Debin Ren</authors>
+		<jconf>null</jconf>
+		<id>1318894</id>
+		<label>40</label>
+		<organization>Coll. of Inf. Sci. & Eng., Northeastern Univ. (NEU), Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>A Symmetric Orthogonal FastICA Algorithm and Applications in EEG.</title>
+		<year>2009</year>
+		<authors>Xuhui Chen,Lei Wang,Yong Xu</authors>
+		<jconf>null</jconf>
+		<id>1319713</id>
+		<label>102</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparative Study on Bionic Optimization Algorithms for Sewer Optimal Design.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yuwen Zhou,Weiwei Zhao</authors>
+		<jconf>null</jconf>
+		<id>1319821</id>
+		<label>32</label>
+		<organization>Coll. of Archit. & Civil Eng., Beijing Univ. of Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>P2P Recommendation Trust Model.</title>
+		<year>2008</year>
+		<authors>Xuan Wang,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1321311</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximability of Combinatorial Problems with Multi-agent Submodular Cost Functions.</title>
+		<year>2009</year>
+		<authors>Gagan Goel,Chinmay Karande,Pushkar Tripathi,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1322409</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Constrained Pattern Detection over Streams.</title>
+		<year>2009</year>
+		<authors>Qiang Qu,Hongyan Li,Lei Wang,Gaoshan Miao,Xin Wei</authors>
+		<jconf>null</jconf>
+		<id>1322771</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SVM Model Based on Signal Transformation and its Applications in Oil Water-Flooded Identification.</title>
+		<year>2009</year>
+		<authors>Fuhua Shang,Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1322790</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Control Strategy of Sub-mini Underwater Robots in Rectifying Control.</title>
+		<year>2009</year>
+		<authors>Yuyi Zhai,Liang Liu,Lei Wang,Zhenbang Gong</authors>
+		<jconf>null</jconf>
+		<id>1322997</id>
+		<label>8</label>
+		<organization>Shanghai Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Noise-Aware Wavelength Assignment for Wavelength Switched Optical Networks.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Jie Zhang,Guanjun Gao,Xiuzhong Chen,Xue Chen,Wanyi Gu</authors>
+		<jconf>null</jconf>
+		<id>1324245</id>
+		<label>90</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating Case based Reasoning and Explanation based Learning in an Apprentice Agent.</title>
+		<year>2010</year>
+		<authors>Lei Wang,Tetsuo Sawaragi,Yajie Tian,Yukio Horiguchi</authors>
+		<jconf>null</jconf>
+		<id>1326913</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Research on Controlling Method of Loom Warp Tension.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Jiancheng Yang,Xiaoqin Han,Lei Li,Yan Liu,Liangchao Cong</authors>
+		<jconf>null</jconf>
+		<id>1327743</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low-complexity adaptive step size constrained constant modulus sg-based algorithms for blind adaptive beamforming.</title>
+		<year>2008</year>
+		<authors>Lei Wang,Yunlong Cai,Rodrigo C. de Lamare</authors>
+		<jconf>null</jconf>
+		<id>1330171</id>
+		<label>12</label>
+		<organization>Dept. of Electron., Univ. of York, York</organization>
+	</publication>
+	<publication>
+		<title>Optimal Approximation Algorithms for Multi-agent Combinatorial Problems with Discounted Price Functions</title>
+		<year>2009</year>
+		<authors>Gagan Goel,Pushkar Tripathi,Lei Wang</authors>
+		<jconf>CoRR</jconf>
+		<id>1334196</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A defect/error-tolerant nanosystem architecture for DSP.</title>
+		<year>2009</year>
+		<authors>Weiguo Tang,Lei Wang,Fabrizio Lombardi</authors>
+		<jconf>JETC</jconf>
+		<id>1338793</id>
+		<label>44</label>
+		<organization>University of Connecticut, Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Low-complexity adaptive step size constrained constant modulus SG algorithms for adaptive beamforming.</title>
+		<year>2009</year>
+		<authors>Lei Wang,Rodrigo C. de Lamare,Yunlong Cai</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1343968</id>
+		<label>12</label>
+		<organization>Communications Research Group, Department of Electronics, The University of York, York YO10 5DD, UK</organization>
+	</publication>
+	<publication>
+		<title>Adaptive reduced-rank LCMV beamforming algorithms based on joint iterative optimization of filters: Design and analysis.</title>
+		<year>2010</year>
+		<authors>Rogerio C. de Lamare,Lei Wang,R. Fa</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1344087</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic pectoral muscle boundary detection in mammograms based on Markov chain and active contour model.</title>
+		<year>2010</year>
+		<authors>Lei Wang,Miaoliang Zhu,Li-ping Deng,Xin Yuan</authors>
+		<jconf>Journal of Zhejiang University - Science C</jconf>
+		<id>1347140</id>
+		<label>51</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering Research Based on Density Gradient</title>
+		<year>2006</year>
+		<authors>Zhi-ping Chen,Lei Wang,Yi-hong Tan</authors>
+		<jconf>Proceedings of the Seventh International Conference on Web-Age Information Management Workshops</jconf>
+		<id>1368960</id>
+		<label>47</label>
+		<organization>Fujian University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Diagnosis of delay faults due to resistive bridges, delay variations and defects</title>
+		<year>2006</year>
+		<authors>Lei Wang,Sandeep K. Gupta,Melvin A. Breuer</authors>
+		<jconf>Proceedings of the 15th Asian Test Symposium</jconf>
+		<id>1371024</id>
+		<label>13</label>
+		<organization>University of Southern California, Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>AdaBoost with SVM-based component classifiers</title>
+		<year>2008</year>
+		<authors>Xuchun Li,Lei Wang,Eric Sung</authors>
+		<jconf>Engineering Applications of Artificial Intelligence</jconf>
+		<id>1380472</id>
+		<label>5</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Improved Hierarchical Network Model Based on Pastry Scheme</title>
+		<year>2009</year>
+		<authors>Jun Chen,Lei Wang</authors>
+		<jconf>Proceedings of the 2009 Second International Workshop on Knowledge Discovery and Data Mining</jconf>
+		<id>1387005</id>
+		<label>46</label>
+		<organization>Sch. of Comput. Sci. & Technol., SouthWest Univ. of Sci. & Technol., Mianyang</organization>
+	</publication>
+	<publication>
+		<title>Training One-class Support Vector Machines in the Primal Space</title>
+		<year>2009</year>
+		<authors>Lei Wang,Yong Yang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Electronic Computer Technology</jconf>
+		<id>1392493</id>
+		<label>76</label>
+		<organization>Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu</organization>
+	</publication>
+	<publication>
+		<title>Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs</title>
+		<year>2009</year>
+		<authors>Yuelu Duan,Xiaobing Feng,Lei Wang,Chao Zhang,Pen-Chung Yew</authors>
+		<jconf>Proceedings of the 2009 International Symposium on Code Generation and Optimization</jconf>
+		<id>1393959</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A RM-Based Static Deployment System for Cluster</title>
+		<year>2009</year>
+		<authors>Weiguo Wu,Leiqiang Zhang,Lei Wang,Zhenghua Xue</authors>
+		<jconf>International Journal of Distributed Sensor Networks</jconf>
+		<id>1394275</id>
+		<label>48</label>
+		<organization>Neo-Computer Research Institute, Xi'an Jiaotong University, Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>Specification and Collaboration Driven Software Component Selection- Building a Framework for Component Selection</title>
+		<year>2007</year>
+		<authors>Lei Wang</authors>
+		<jconf>null</jconf>
+		<id>1429263</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Tokens-Based Distance-Vector Routing Algorithm for Mobile Ad-hoc Networks</title>
+		<year>2003</year>
+		<authors>Lei Wang,Ya-ping Lin,Zhi-ping Chen</authors>
+		<jconf>Proceedings of the 2003 International Conference on Computer Networks and Mobile Computing</jconf>
+		<id>1556884</id>
+		<label>47</label>
+		<organization>Coll. of Comput. & Commun., Hunan Univ., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Runtime performance of parallel array assignment: an empirical study</title>
+		<year>1996</year>
+		<authors>Lei Wang,James M. Stichnoth,Siddhartha Chatterjee</authors>
+		<jconf>Proceedings of the 1996 ACM/IEEE conference on Supercomputing (CDROM)</jconf>
+		<id>1569313</id>
+		<label>50</label>
+		<organization>Department of Computer Science, CB # 3175, Sitterson Hall, The University of North Carolina, Chapel Hill, NC</organization>
+	</publication>
+	<publication>
+		<title>TLDFS: A Distributed File System based on the Layered Structure</title>
+		<year>2007</year>
+		<authors>Lei Wang,Chen Yang</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1585361</id>
+		<label>82</label>
+		<organization>Beijing University of Aeronautics and Astronautics</organization>
+	</publication>
+	<publication>
+		<title>Gingko: correlating causal paths in distributed systems</title>
+		<year>2007</year>
+		<authors>Zhihong Zhang,Dan Meng,Jianfeng Zhan,Lei Wang,Yi Jin,Yu Wen,Hui Wang</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1585376</id>
+		<label>16</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>A New Method in Multi-Issue Negotiation</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Lei Wang,Jie Yang</authors>
+		<jconf>Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference</jconf>
+		<id>1613361</id>
+		<label>20</label>
+		<organization>Peking University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>A backoff copying scheme for contention resolution in wireless sensor networks</title>
+		<year>2009</year>
+		<authors>Zhuxiu Yuan,Cuiyao Xue,Lei Wang,Yuanfang Chen,Weiping Sun,Lei Shu</authors>
+		<jconf>Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization</jconf>
+		<id>1652542</id>
+		<label>111</label>
+		<organization>Dalian University of Technology, Dalian, China</organization>
+	</publication>
+	<publication>
+		<title>The Real-Time Networked Data Gathering Systems Based on EtherCAT</title>
+		<year>2009</year>
+		<authors>Lei Wang,Junyan Qi</authors>
+		<jconf>Proceedings of the 2009 International Conference on Environmental Science and Information Application Technology - Volume 03</jconf>
+		<id>1652772</id>
+		<label>53</label>
+		<organization>Comput. Sci. & Technol., Henan Polytech. Univ., Jiaozuo, China</organization>
+	</publication>
+	<publication>
+		<title>Visualizing simulation and testbed of wireless sensor networks with NetTopo</title>
+		<year>2009</year>
+		<authors>Lei Shu,Manfred Hauswirth,Lei Wang,Zhuxiu Yuan,Yuanfang Chen</authors>
+		<jconf>Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization</jconf>
+		<id>1654490</id>
+		<label>111</label>
+		<organization>Dalian University of Technology, China, Dalian, China</organization>
+	</publication>
+	<publication>
+		<title>Research on Multi-objective Parameter Optimization Based on the Experimental Design and ANN-GA in the Digital Environment</title>
+		<year>2009</year>
+		<authors>Tianzhong Sui,Lei Wang</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 02</jconf>
+		<id>1655431</id>
+		<label>55</label>
+		<organization>Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>TMAC: Taint-Based Memory Protection via Access Control</title>
+		<year>2009</year>
+		<authors>Lei Wang,Chen Fang,Bing Mao,Li Xie</authors>
+		<jconf>Proceedings of the 2009 Second International Conference on Dependability</jconf>
+		<id>1656117</id>
+		<label>56</label>
+		<organization>Dept. of Comput. Sci., Nanjing Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Software Design Methodology for Set-Top Box</title>
+		<year>2009</year>
+		<authors>Chao Gao,Lei Wang,Hong Ni</authors>
+		<jconf>Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02</jconf>
+		<id>1656757</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chinese Deterministic Dependency Parser Considering Prepositional Phrase</title>
+		<year>2009</year>
+		<authors>Wenlin Yao,LingLing Gao,Lei Wang,JianXin Dong</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computational Intelligence and Natural Computing - Volume 01</jconf>
+		<id>1658279</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Music Genre Classification Based on Multiple Classifier Fusion</title>
+		<year>2008</year>
+		<authors>Lei Wang,Shen Huang,Shijin Wang,Jiaen Liang,Bo Xu</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 05</jconf>
+		<id>1753228</id>
+		<label>63</label>
+		<organization>Inst. of Autom., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Impulsive optimal control model for the trajectory of horizontal wells</title>
+		<year>2009</year>
+		<authors>An Li,Enmin Feng,Lei Wang</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1753371</id>
+		<label>105</label>
+		<organization>Department of Applied Mathematics, Dalian University of Technology, Dalian, 116024, PR China</organization>
+	</publication>
+</person>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>9014</personID>
+	<FullName>Peter Phillips</FullName>
+	<FirstName>Peter</FirstName>
+	<LastName>Phillips</LastName>
+	<publication>
+		<title>User-Driven Design of a Tangible Awareness Landscape</title>
+		<year>2000</year>
+		<authors>Simon Lock,Jennifer Allanson,Peter Phillips</authors>
+		<jconf>Symposium on Designing Interactive Systems</jconf>
+		<id>5648</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exponential Cluster Smearing</title>
+		<year>2005</year>
+		<authors>Peter Phillips,John MacIntyre,Alfredo Moscardini</authors>
+		<jconf>Artificial Intelligence and Applications</jconf>
+		<id>31986</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>In Search of Salience: A Response-time and Eye-movement Analysis of Bookmark Recognition</title>
+		<year>2004</year>
+		<authors>Alex Poole,Linden J. Ball,Peter Phillips</authors>
+		<jconf>BCS HCI</jconf>
+		<id>62266</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Technique for Improving the Classification Ability of a Neural Network</title>
+		<year>2003</year>
+		<authors>John MacIntyre,Alfredo Moscardini,Peter Phillips</authors>
+		<jconf>IC-AI</jconf>
+		<id>265516</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Areal Aggregated Crime Reasoning through Density Tracing</title>
+		<year>2007</year>
+		<authors>Ickjai Lee,Peter Phillips</authors>
+		<jconf>ICDM Workshops</jconf>
+		<id>303609</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Positive Associations of Urban Criminal Activities Using Hierarchical Crime Hot Spots</title>
+		<year>2006</year>
+		<authors>Peter Phillips,Ickjai Lee</authors>
+		<jconf>WISI</jconf>
+		<id>664315</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What-if Emergency Management System: A Generalized Voronoi Diagram Approach</title>
+		<year>2007</year>
+		<authors>Ickjai Lee,Reece Pershouse,Peter Phillips,Chris Christensen</authors>
+		<jconf>PAISI</jconf>
+		<id>696621</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Criminal Cross Correlation Mining and Visualization</title>
+		<year>2009</year>
+		<authors>Peter Phillips,Ickjai Lee</authors>
+		<jconf>PAISI</jconf>
+		<id>696655</id>
+		<label>2</label>
+		<organization>Discipline of IT, James Cook University, Australia</organization>
+	</publication>
+	<publication>
+		<title>Urban Crime Analysis through Areal Categorized Multivariate Associations Mining</title>
+		<year>2008</year>
+		<authors>Ickjai Lee,Peter Phillips</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>738532</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>No Source Code? No Problem!</title>
+		<year>2003</year>
+		<authors>Peter Phillips,George Phillips</authors>
+		<jconf>ACM Queue</jconf>
+		<id>1048926</id>
+		<label>1</label>
+		<organization>Digital Eclipse</organization>
+	</publication>
+	<publication>
+		<title>The conductor interaction method</title>
+		<year>2007</year>
+		<authors>Dorothy Rachovides,James Walkerdine,Peter Phillips</authors>
+		<jconf>TOMCCAP</jconf>
+		<id>1120992</id>
+		<label>0</label>
+		<organization>Lancaster University, Lancaster, UK</organization>
+	</publication>
+	<publication>
+		<title>Architecting secure mobile P2P systems</title>
+		<year>2008</year>
+		<authors>James Walkerdine,Peter Phillips,Simon Lock</authors>
+		<jconf>Proceedings of the 1st international workshop on Software architectures and mobility</jconf>
+		<id>1376847</id>
+		<label>0</label>
+		<organization>Lancaster University, Lancaster, UK</organization>
+	</publication>
+	<publication>
+		<title>Gaming, Fine Art, and Familiar Strangers</title>
+		<year>2004</year>
+		<authors>Nuno Correia,Luis Romero,Jorge Santiago,Kalle Jegers,Mikael Wiberg,Eric Paulos,Robert Wechsler,Frieder Weiss,Duncan McCaffery,Joe Finney,Stefan Schmid,Andrew Scott,Simon Lock,Jennifer G. Sheridan,Adam T. Lindsay,Stewart Kember,Peter Phillips,Jen Allanson</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<id>1595020</id>
+		<label>0</label>
+		<organization>Lancaster University, UK</organization>
+	</publication>
+</person>

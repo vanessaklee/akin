@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>279137</personID>
+	<FullName>J. Guo</FullName>
+	<FirstName>J.</FirstName>
+	<LastName>Guo</LastName>
+	<publication>
+		<title>A Distributed Database Server for Continuous Media</title>
+		<year>2002</year>
+		<authors>Walid G. Aref,Ann Christine Catlin,Ahmed K. Elmagarmid,Jianping Fan,J. Guo,Moustafa A. Hammad,Ihab F. Ilyas,Mirette S. Marzouk,Sunil Prabhakar,Abdelmounaam Rezgui,S. Teoh,Evimaria Terzi,Yi-Cheng Tu,Athena Vakali,Xingquan Zhu</authors>
+		<jconf>ICDE</jconf>
+		<id>299381</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Generalized Predictive Control Based on Inverse System Using Wavelet Networks</title>
+		<year>2003</year>
+		<authors>J. Guo,Q. Chen,W. Hu,S. Xu</authors>
+		<jconf>WAA</jconf>
+		<id>650345</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research of the Gyro Signal De-Noising Method Based on Stationary Wavelets Transform</title>
+		<year>2003</year>
+		<authors>J. Guo,Jianfu Teng,Qiang Li</authors>
+		<jconf>WAA</jconf>
+		<id>650351</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generic Programming with Reusable Wavelet Transforms</title>
+		<year>2003</year>
+		<authors>W. Yuan,J. Guo</authors>
+		<jconf>WAA</jconf>
+		<id>650448</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive synchronous control of servo system driven by two motors</title>
+		<year>2004</year>
+		<authors>G. F. Zhao,G. L. Ma,J. Guo,W. L. Hu</authors>
+		<jconf>ICARCV</jconf>
+		<id>733937</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Model for Analysis and Recognition of Handwritten Characters</title>
+		<year>1993</year>
+		<authors>Z. C. Li,Ching Y. Suen,J. Guo</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>751780</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis and recognition of alphanumeric handprints by parts</title>
+		<year>1994</year>
+		<authors>Ching Y. Suen,J. Guo,Z. C. Li</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics</jconf>
+		<id>1132134</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Buckling Analysis of a Building Stud-Spacer Assembly and Simulation of Spacer Punching Process</title>
+		<year>2000</year>
+		<authors>J. Guo,K. A. Narh</authors>
+		<jconf>Simulation</jconf>
+		<id>1281210</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Launch-on-Capture for Testing BIST Designs Containing Synchronous and Asynchronous Clock Domains.</title>
+		<year>2010</year>
+		<authors>L.-T. Wang,X. Wen,S. Wu,H. Furukawa,H.-J. Chao,B. Sheu,J. Guo,W.-B. Jone</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1342832</id>
+		<label>6</label>
+		<organization>af.affilation</organization>
+	</publication>
+	<publication>
+		<title>Soil moisture retrieval from MODIS data in Northern China Plain using thermal inertia model</title>
+		<year>2007</year>
+		<authors>G. Cai,Y. Xue,Y. Hu,Y. Wang,J. Guo,Y. Luo,C. Wu,S. Zhong,S. Qi</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1379678</id>
+		<label>7</label>
+		<organization>State Key Lab. of Remote Sensing Sci., Jntly. Spon. by the Inst. of Remote Sensing Apps. of Ch. Acad. of Sci. and Beijing Normal Univ., Inst. of Remote Sensing Apps., Chinese Academy of Sciences, Beijing 100101, China</organization>
+	</publication>
+	<publication>
+		<title>Business-to-business electronic market place selection</title>
+		<year>2007</year>
+		<authors>J. Guo</authors>
+		<jconf>Enterprise Information Systems</jconf>
+		<id>1380333</id>
+		<label>8</label>
+		<organization>Department of Computer and Information Science, University of Macau, Taipa, Macau</organization>
+	</publication>
+	<publication>
+		<title>Quantitative study of net radiation from MODIS data in the lower boundary layer in Poyang Lake area of Jiangxi Province, China</title>
+		<year>2007</year>
+		<authors>G. Cai,Y. Xue,Y. Hu,J. Guo,Y. Wang,S. Qi</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1381979</id>
+		<label>7</label>
+		<organization>State Key Lab. of Remote Sensing Sci., Jointly Sponsored by the Inst. of Remote Sensing Apps. of Ch. Acad. of Sci. and Beijing Normal Univ., Inst. of Remote Sensing Apps. and Graduate Univ., Chinese Academy of Sciences, Beijing 100049, China</organization>
+	</publication>
+	<publication>
+		<title>Parallel computing at the NASA Data Assimilation Office (DAO)</title>
+		<year>1997</year>
+		<authors>P. M. Lyster,C. H. Q. Ding,K. Ekers,R. Ferraro,J. Guo,M. Harber,D. Lamich,J. W. Larson,R. Lucchesi,R. Rood,S. Schubert,W. Sawyer,M. Sienkiewicz,A. da Silva,J. Stobie,L. L. Takacs,R. Todling,J. Zero</authors>
+		<jconf>Proceedings of the 1997 ACM/IEEE conference on Supercomputing (CDROM)</jconf>
+		<id>1732349</id>
+		<label>9</label>
+		<organization>NASA/Goddard Space Flight Center, Greenbelt, MD and General Sciences Corporation</organization>
+	</publication>
+</person>

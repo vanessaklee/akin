@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>492042</personID>
+	<FullName>F. Wang</FullName>
+	<FirstName>F.</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>Characterizing Spatio-temporal Patterns for Disease Discrimination in Cardiac Echo Videos</title>
+		<year>2007</year>
+		<authors>Tanveer Fathima Syeda-Mahmood,Fei Wang,D. Beymer,M. London,R. Reddy</authors>
+		<jconf>MICCAI (1)</jconf>
+		<id>498760</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the construction of stable virtual backbones in mobile ad-hoc networks</title>
+		<year>2005</year>
+		<authors>F. Wang,M. Min,Y. Li,D. Du</authors>
+		<jconf>IPCCC</jconf>
+		<id>693164</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of differential evolution for harmonic worst-case identification of mass rapid transit power supply system</title>
+		<year>2003</year>
+		<authors>C. S. Chang,L. R. Lu,F. Wang</authors>
+		<jconf>IEEE Congress on Evolutionary Computation (1)</jconf>
+		<id>697124</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling of power electronics for simulation based analysis of power systems</title>
+		<year>2007</year>
+		<authors>S. Rosado,R. Burgos,S. Ahmed,F. Wang,D. Boroyevich</authors>
+		<jconf>SCSC</jconf>
+		<id>718882</id>
+		<label>3</label>
+		<organization>Virginia Polytechnic Institute and State University, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>Deployment of an AEC industry sector product model</title>
+		<year>2005</year>
+		<authors>Charles M. Eastman,F. Wang,S.-J. You,D. Yang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778415</id>
+		<label>4</label>
+		<organization>Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA</organization>
+	</publication>
+	<publication>
+		<title>Erratum to: 'Deployment of an AEC industry sector product model [Computer-Aided Design 37 (12) 1214-1228]</title>
+		<year>2005</year>
+		<authors>Charles M. Eastman,F. Wang,S.-J. You,D. Yang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778416</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A product information modeling framework for product lifecycle management</title>
+		<year>2005</year>
+		<authors>Rachuri Sudarsan,Steven J. Fenves,Ram D. Sriram,F. Wang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779455</id>
+		<label>5</label>
+		<organization>Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA</organization>
+	</publication>
+	<publication>
+		<title>Failure probability of wire bonding packages</title>
+		<year>2004</year>
+		<authors>F. Wang,Y. Y. Wang,C. Lu</authors>
+		<jconf>International Journal of Computational Engineering Science</jconf>
+		<id>905200</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A high-resolution electron momentum spectroscopy and density functional theory study into the complete valence electronic structure of allene</title>
+		<year>2001</year>
+		<authors>F. Wang,H. Mackenzie-Ross,David A. Winkler,Ian E. McCarthy,Laurence Campbell,Michael J. Brunger</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>964296</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Remote Video Monitoring Over the WWW</title>
+		<year>2003</year>
+		<authors>S. C. Hui,F. Wang</authors>
+		<jconf>Multimedia Tools Appl.</jconf>
+		<id>1016859</id>
+		<label>8</label>
+		<organization>Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com</organization>
+	</publication>
+	<publication>
+		<title>On the Competitiveness of On-Line Real-Time Task Scheduling</title>
+		<year>1992</year>
+		<authors>Sanjoy K. Baruah,Gilad Koren,D. Mao,Bhubaneswar Mishra,Arvind Raghunathan,Louis E. Rosier,Dennis Shasha,Fuxing Wang</authors>
+		<jconf>Real-Time Systems</jconf>
+		<id>1052991</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study of reactive ion etching process to fabricate the PMMA-based polymer waveguide</title>
+		<year>2004</year>
+		<authors>Y. Zhao,F. Wang,Z. C. Cui,J. Zheng,H. M. Zhang,D. M. Zhang,S. Y. Liu,M. B. Yi</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155322</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault accommodation for nonlinear systems using fuzzy adaptive sliding control</title>
+		<year>2005</year>
+		<authors>Y. Zhang,F. Wang,T. Hesketh,D. J. Clements,R. Eaton</authors>
+		<jconf>Int. J. Systems Science</jconf>
+		<id>1173521</id>
+		<label>11</label>
+		<organization>Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Handling Grammatical Errors, Ambiguity and Impreciseness in GIS Natural Language Queries</title>
+		<year>2003</year>
+		<authors>F. Wang</authors>
+		<jconf>Synthesis Lectures on Data Mining and Knowledge Discovery</jconf>
+		<id>1291819</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DIET &mdash; A Scalable, Robust and Adaptable Multi-Agent Platform for Information Management</title>
+		<year>2003</year>
+		<authors>P. Marrow,E. Bonsma,F. Wang,C. Hoile</authors>
+		<jconf>BT Technology Journal</jconf>
+		<id>1486683</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Meeting Scheduling for Large-Scale Distributed Groupware</title>
+		<year>2003</year>
+		<authors>F. Wang</authors>
+		<jconf>BT Technology Journal</jconf>
+		<id>1495176</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ab initio ro-vibrational structure of the C2&ngr; isotopes of H2O+</title>
+		<year>1992</year>
+		<authors>F. Wang,E. I. von Nagy-Felsobuki</authors>
+		<jconf>Australian Journal of Physics</jconf>
+		<id>1511035</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal array pattern synthesis using semidefinite programming</title>
+		<year>2001</year>
+		<authors>F. Wang</authors>
+		<jconf>Proceedings of the Acoustics, Speech, and Signal Processing, 2001. on IEEE International Conference - Volume 05</jconf>
+		<id>1611868</id>
+		<label>14</label>
+		<organization>Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Integrating expert vision systems and spatial databases by unifying knowledge representation schemes: development in remote sensing image analysis expert systems and geographical information systems</title>
+		<year>1989</year>
+		<authors>F. Wang</authors>
+		<jconf>null</jconf>
+		<id>1632341</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+</person>

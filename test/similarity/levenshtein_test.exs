@@ -4,15 +4,15 @@ defmodule LevenshteinTest do
   import Akin.Similarity.Levenshtein, only: [compare: 2]
 
   test "returns nil with empty arguments" do
-    assert compare("", "") == 0
+    assert compare("", "") == 1
     assert compare("abc", "") == 3
     assert compare("", "xyz") == 3
   end
 
   test "return 1 with equal arguments" do
-    assert compare("a", "a") == 0
-    assert compare("abc", "abc") == 0
-    assert compare("123", "123") == 0
+    assert compare("a", "a") == 1
+    assert compare("abc", "abc") == 1
+    assert compare("123", "123") == 1
   end
 
   test "return distance with unequal arguments" do

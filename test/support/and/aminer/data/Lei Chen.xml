@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>11217</personID>
+	<FullName>Lei Chen</FullName>
+	<FirstName>Lei</FirstName>
+	<LastName>Chen</LastName>
+	<publication>
+		<title>Density-based multipath secure communication over mobile ad hoc networks</title>
+		<year>2006</year>
+		<authors>Lei Chen,Chung-wei Lee,Jyh-haw Yeh</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6875</id>
+		<label>0</label>
+		<organization>Auburn University, Auburn, AL</organization>
+	</publication>
+	<publication>
+		<title>Gene intrusion on a society of Hill-Climbers</title>
+		<year>2006</year>
+		<authors>Lei Chen,Chung-wei Lee,Wen-Chen Hu</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6910</id>
+		<label>0</label>
+		<organization>Auburn University, Auburn, AL</organization>
+	</publication>
+	<publication>
+		<title>Multi-level secure video streaming over SRTP</title>
+		<year>2005</year>
+		<authors>Lei Chen,Chung-wei Lee</authors>
+		<jconf>ACM Southeast Regional Conference (2)</jconf>
+		<id>7057</id>
+		<label>0</label>
+		<organization>Auburn, AL</organization>
+	</publication>
+	<publication>
+		<title>Recent Advances in CFD Grid Application Platform</title>
+		<year>2004</year>
+		<authors>Xinhua Lin,Xi-li Sun,Xinda Lu,Qianni Deng,Minglu Li,Hong Liu,Yang Qi,Lei Chen</authors>
+		<jconf>IEEE SCC</jconf>
+		<id>10048</id>
+		<label>1</label>
+		<organization>IBM China Software Development Lab, China</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Constructions of Quasi-cyclic LDPC Codes - Part I: For AWGN and Binary Random Erasure Channels</title>
+		<year>2006</year>
+		<authors>Lan Lan,Lingqi Zeng,Ying Yu Tai,Lei Chen,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>AAECC</jconf>
+		<id>16785</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Effects of Mobility and Redundancy on Wireless Video Streaming over MANETs</title>
+		<year>2008</year>
+		<authors>Lei Chen,Chung-wei Lee</authors>
+		<jconf>AINA Workshops</jconf>
+		<id>36808</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Audio and Vision-Based Evaluation of Parkinson's Disease from Discourse Video</title>
+		<year>2001</year>
+		<authors>Francis K. H. Quek,Robert K. Bryll,Mary P. Harper,Lei Chen,Lorraine Ramig</authors>
+		<jconf>BIBE</jconf>
+		<id>63390</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Localized routing trees for query processing in sensor networks</title>
+		<year>2005</year>
+		<authors>Jie Lian,Lei Chen,Kshirasagar Naik,M. Tamer Ozsu,Gordon B. Agnew</authors>
+		<jconf>CIKM</jconf>
+		<id>95658</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards interactive indexing for large Chinese calligraphic character databases</title>
+		<year>2006</year>
+		<authors>Yi Zhuang,Yueting Zhuang,Qing Li,Lei Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>96145</id>
+		<label>1</label>
+		<organization>HKUST, Kowloon, HKSAR, P. R. China</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic correlation-based similarity measure of unstructured records</title>
+		<year>2007</year>
+		<authors>Shaoxu Song,Lei Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>96307</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Optimal proactive caching in peer-to-peer network: analysis and application</title>
+		<year>2007</year>
+		<authors>Weixiong Rao,Lei Chen,Ada Wai-Chee Fu,Yingyi Bu</authors>
+		<jconf>CIKM</jconf>
+		<id>96347</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Top-k subgraph matching query in a large graph</title>
+		<year>2007</year>
+		<authors>Lei Zou,Lei Chen,Yansheng Lu</authors>
+		<jconf>PIKM</jconf>
+		<id>96359</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Speed up semantic search in p2p networks</title>
+		<year>2008</year>
+		<authors>Qiang Wang,Rui Li,Lei Chen,Jie Lian,M. Tamer Ozsu</authors>
+		<jconf>CIKM</jconf>
+		<id>96560</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>In-network Outlier Cleaning for Data Collection in Sensor Networks</title>
+		<year>2006</year>
+		<authors>Yongzhen Zhuang,Lei Chen</authors>
+		<jconf>CleanDB</jconf>
+		<id>98919</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compressed Pattern Matching in DNA Sequences</title>
+		<year>2004</year>
+		<authors>Lei Chen,Shiyong Lu,Jeffrey L. Ram</authors>
+		<jconf>CSB</jconf>
+		<id>120907</id>
+		<label>7</label>
+		<organization>Wayne State University</organization>
+	</publication>
+	<publication>
+		<title>Heterogeneous CAD Hybrid Data Exchange Based on Feature Semantics and Geometry Representation</title>
+		<year>2006</year>
+		<authors>Lei Chen,Wei Peng,Xiuzi Ye</authors>
+		<jconf>CSCWD</jconf>
+		<id>122437</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximate Similarity Search over Multiple Stream Time Series</title>
+		<year>2007</year>
+		<authors>Xiang Lian,Lei Chen,Bin Wang</authors>
+		<jconf>DASFAA</jconf>
+		<id>141088</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Similarity Joins of Text with Incomplete Information Formats</title>
+		<year>2007</year>
+		<authors>Shaoxu Song,Lei Chen</authors>
+		<jconf>DASFAA</jconf>
+		<id>141127</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuously Maintaining Sliding Window Skylines in a Sensor Network</title>
+		<year>2007</year>
+		<authors>Junchang Xin,Guoren Wang,Lei Chen,Xiaoyi Zhang,Zhenhua Wang</authors>
+		<jconf>DASFAA</jconf>
+		<id>141138</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Summarization Graph Indexing: Beyond Frequent Structure-Based Approach</title>
+		<year>2008</year>
+		<authors>Lei Zou,Lei Chen,Huaming Zhang,Yansheng Lu,Qiang Lou</authors>
+		<jconf>DASFAA</jconf>
+		<id>141229</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Inverse Ranking Queries over Uncertain Data</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>DASFAA</jconf>
+		<id>141231</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Energy-Efficient Evaluation of Multiple Skyline Queries over a Wireless Sensor Network</title>
+		<year>2009</year>
+		<authors>Junchang Xin,Guoren Wang,Lei Chen,Vincent Oria</authors>
+		<jconf>DASFAA</jconf>
+		<id>141236</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, HKUST, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>A Unified Indexing Structure for Efficient Cross-Media Retrieval</title>
+		<year>2009</year>
+		<authors>Yi Zhuang,Qing Li,Lei Chen</authors>
+		<jconf>DASFAA</jconf>
+		<id>141237</id>
+		<label>1</label>
+		<organization>Dept of Computer Science & Engineering, HKUST, HKSAR, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>Top-K Correlation Sub-graph Search in Graph Databases</title>
+		<year>2009</year>
+		<authors>Lei Zou,Lei Chen,Yansheng Lu</authors>
+		<jconf>DASFAA</jconf>
+		<id>141241</id>
+		<label>1</label>
+		<organization>Hong Kong of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Answering Constrained k-NN Queries in Unstructured P2P Systems</title>
+		<year>2006</year>
+		<authors>Bin Wang,Xiaochun Yang,Guoren Wang,Lei Chen,Xiaoyang Sean Wang,Xuemin Lin,Ge Yu</authors>
+		<jconf>DBISP2P</jconf>
+		<id>145002</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic skyline queries in metric spaces</title>
+		<year>2008</year>
+		<authors>Lei Chen,Xiang Lian</authors>
+		<jconf>EDBT</jconf>
+		<id>176684</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Indexing high-dimensional data in dual distance spaces: a symmetrical encoding approach</title>
+		<year>2008</year>
+		<authors>Yi Zhuang,Yueting Zhuang,Qing Li,Lei Chen,Yi Yu</authors>
+		<jconf>EDBT</jconf>
+		<id>176718</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, HKSAR, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>A novel spectral coding in a large graph database</title>
+		<year>2008</year>
+		<authors>Lei Zou,Lei Chen,Jeffrey Xu Yu,Yansheng Lu</authors>
+		<jconf>EDBT</jconf>
+		<id>176731</id>
+		<label>1</label>
+		<organization>Hong Kong Univ. of Sci. & Tech., Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic ranked queries in uncertain databases</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>EDBT</jconf>
+		<id>176737</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Evaluating probability threshold k-nearest-neighbor queries over uncertain data</title>
+		<year>2009</year>
+		<authors>Reynold Cheng,Lei Chen,Jinchuan Chen,Xike Xie</authors>
+		<jconf>EDBT</jconf>
+		<id>176783</id>
+		<label>1</label>
+		<organization>Hong Kong Univ. of Sci. & Tech.</organization>
+	</publication>
+	<publication>
+		<title>Top-k dominating queries in uncertain databases</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>EDBT</jconf>
+		<id>176904</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Laws for BSP Programming</title>
+		<year>1996</year>
+		<authors>Jifeng He,Quentin Miller,Lei Chen</authors>
+		<jconf>Euro-Par, Vol. II</jconf>
+		<id>196610</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fabric Handle Clusters Based on Fuzzy Clustering Algorithm</title>
+		<year>2008</year>
+		<authors>Zhaoqun Du,Weidong Yu,Ye Yu,Lei Chen,Yan Ni,Jiaqi Luo,Xiaohan Yu</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>218409</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Portlet-based Portal Design for Grid Systems</title>
+		<year>2006</year>
+		<authors>Yanli Cai,Jian Cao,Minglu Li,Lei Chen</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>224425</id>
+		<label>1</label>
+		<organization>Shanghai Jiaotong University, China</organization>
+	</publication>
+	<publication>
+		<title>A New Virtual Dynamic Dentomaxillofacial System for Analyzing Mandibular Movement, Occlusal Contact, and TMJ Condition</title>
+		<year>2007</year>
+		<authors>Chi Zhang,Lei Chen,Fengjun Zhang,Hao Zhang,Hailan Feng,Guozhong Dai</authors>
+		<jconf>HCI (12)</jconf>
+		<id>242533</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Data Dependence Tracking and its Application to Branch Prediction</title>
+		<year>2003</year>
+		<authors>Lei Chen,Steve Dropsho,David H. Albonesi</authors>
+		<jconf>HPCA</jconf>
+		<id>252751</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HAND: An Overlay Optimization Algorithm in Peer-to-Peer Systems</title>
+		<year>2006</year>
+		<authors>Xiaoming Chen,Zhoujun Li,Yongzhen Zhuang,Jinsong Han,Lei Chen</authors>
+		<jconf>HPCC</jconf>
+		<id>253228</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>E-government Web Mining Tool Design and Implementation Based on the Semantic Web</title>
+		<year>2008</year>
+		<authors>Chunhua Yin,Siming Liu,Lei Chen,Xin Ye</authors>
+		<jconf>Web Intelligence/IAT Workshops</jconf>
+		<id>261650</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Planning of CPICH Power for Enhancing HSDPA Performance at Cell Edges with Preserved Control of R99 Soft Handover</title>
+		<year>2008</year>
+		<authors>Lei Chen,Di Yuan</authors>
+		<jconf>ICC</jconf>
+		<id>276074</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dependable Communication Network for e-Textiles</title>
+		<year>2006</year>
+		<authors>Nenggan Zheng,Zhaohui Wu,Lei Chen,Yanmiao Zhou,Qijia Wang</authors>
+		<jconf>International Conference on Computational Science (4)</jconf>
+		<id>280610</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Design Approach for Analog Circuit Using Genetic Algorithm</title>
+		<year>2007</year>
+		<authors>Xuewen Xia,Yuanxiang Li,Weiqin Ying,Lei Chen</authors>
+		<jconf>International Conference on Computational Science (4)</jconf>
+		<id>280714</id>
+		<label>27</label>
+		<organization>School of Computer Science, Wuhan University, Wuhan 430079, China</organization>
+	</publication>
+	<publication>
+		<title>The E-Textile Token Grid Network with Dual Rings</title>
+		<year>2006</year>
+		<authors>Nenggan Zheng,Zhaohui Wu,Lei Chen,Yanmiao Zhou</authors>
+		<jconf>ICCSA (2)</jconf>
+		<id>292297</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Weighted Moving Average-based Approach for Cleaning Sensor Data</title>
+		<year>2007</year>
+		<authors>Yongzhen Zhuang,Lei Chen,Xiaoyang Sean Wang,Jie Lian</authors>
+		<jconf>ICDCS</jconf>
+		<id>298035</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Non-Threshold based Event Detection for 3D Environment Monitoring in Sensor Networks</title>
+		<year>2007</year>
+		<authors>Mo Li,Yunhao Liu,Lei Chen</authors>
+		<jconf>ICDCS</jconf>
+		<id>298038</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Multi-query Optimization for Distributed Similarity Query Processing</title>
+		<year>2008</year>
+		<authors>Yi Zhuang,Qing Li,Lei Chen</authors>
+		<jconf>ICDCS</jconf>
+		<id>298258</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Aggregate Views</title>
+		<year>2006</year>
+		<authors>Bee-Chung Chen,Lei Chen,Raghu Ramakrishnan,David R. Musicant</authors>
+		<jconf>ICDE</jconf>
+		<id>299614</id>
+		<label>1</label>
+		<organization>University of Wisconsin</organization>
+	</publication>
+	<publication>
+		<title>Multi-Scale Histograms for Answering Queries over Time Series Data</title>
+		<year>2004</year>
+		<authors>Lei Chen,M. Tamer Ozsu</authors>
+		<jconf>ICDE</jconf>
+		<id>299684</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Similarity Match Over High Speed Time-Series Streams</title>
+		<year>2007</year>
+		<authors>Xiang Lian,Lei Chen,Jeffrey Xu Yu,Guoren Wang,Ge Yu</authors>
+		<jconf>ICDE</jconf>
+		<id>301662</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A General Cost Model for Dimensionality Reduction in High Dimensional Spaces</title>
+		<year>2007</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>301707</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detection of Shape Anomalies: A Probabilistic Approach Using Hidden Markov Models</title>
+		<year>2008</year>
+		<authors>Zheng Liu,Jeffrey Xu Yu,Lei Chen,Di Wu</authors>
+		<jconf>ICDE</jconf>
+		<id>301898</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology. leichen@cs.ust.hk</organization>
+	</publication>
+	<publication>
+		<title>Dominant Graph: An Efficient Indexing Structure to Answer Top-K Queries</title>
+		<year>2008</year>
+		<authors>Lei Zou,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302009</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk</organization>
+	</publication>
+	<publication>
+		<title>Pattern Matching over Cloaked Time Series</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen,Jeffrey Xu Yu</authors>
+		<jconf>ICDE</jconf>
+		<id>302092</id>
+		<label>1</label>
+		<organization>Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk</organization>
+	</publication>
+	<publication>
+		<title>Parallel Evaluation of Composite Aggregate Queries</title>
+		<year>2008</year>
+		<authors>Lei Chen,Christopher Olston,Raghu Ramakrishnan</authors>
+		<jconf>ICDE</jconf>
+		<id>302130</id>
+		<label>1</label>
+		<organization>Computer Sciences Department, University of Wisconsin - Madison, 1210 West Dayton Street, Madison, WI, 53705, USA. chenl@cs.wisc.edu</organization>
+	</publication>
+	<publication>
+		<title>Similarity Search in Arbitrary Subspaces Under Lp-Norm</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302150</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk</organization>
+	</publication>
+	<publication>
+		<title>STAIRS: Towards Efficient Full-Text Filtering and Dissemination in a DHT Environment</title>
+		<year>2009</year>
+		<authors>Weixiong Rao,Ada Wai-Chee Fu,Lei Chen,Hanhua Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302340</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Concise Representation of Range Queries</title>
+		<year>2009</year>
+		<authors>Ke Yi,Xiang Lian,Feifei Li,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302357</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Max Regional Aggregate over Sensor Networks</title>
+		<year>2009</year>
+		<authors>Yongzhen Zhuang,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302453</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuous Subgraph Pattern Search over Graph Streams</title>
+		<year>2009</year>
+		<authors>Changliang Wang,Lei Chen</authors>
+		<jconf>ICDE</jconf>
+		<id>302457</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mass Spectrum Labeling: Theory and Practice</title>
+		<year>2004</year>
+		<authors>Zheng Huang,Lei Chen,Jin-yi Cai,Deborah S. Gross,David R. Musicant,Raghu Ramakrishnan,James J. Schauer,Stephen J. Wright</authors>
+		<jconf>ICDM</jconf>
+		<id>302703</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spotting Significant Changing Subgraphs in Evolving Graphs</title>
+		<year>2008</year>
+		<authors>Zheng Liu,Jeffrey Xu Yu,Yiping Ke,Xuemin Lin,Lei Chen</authors>
+		<jconf>ICDM</jconf>
+		<id>303625</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feedforward Neural Networks without Orthonormalization</title>
+		<year>2007</year>
+		<authors>Lei Chen,Hung Keng Pung,Fei Long</authors>
+		<jconf>ICEIS (2)</jconf>
+		<id>307812</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rule-based scene extraction from video</title>
+		<year>2002</year>
+		<authors>Lei Chen,M. Tamer Ozsu</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>316911</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network architecture to support QoS in mobile ad hoc networks</title>
+		<year>2004</year>
+		<authors>Lei Chen,Wendi Rabiner Heinzelman</authors>
+		<jconf>ICME</jconf>
+		<id>329890</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mixed Type Audio Classification with Support Vector Machine</title>
+		<year>2006</year>
+		<authors>Lei Chen,Sule Gunduz,M. Tamer Ozsu</authors>
+		<jconf>ICME</jconf>
+		<id>332037</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analog Error-Control Coding Based on Dimension-Expanding Shannon Mapping for Robust Image Communication</title>
+		<year>2007</year>
+		<authors>Zhe Wang,Xiaolin Zhang,Lei Chen</authors>
+		<jconf>ICME</jconf>
+		<id>332578</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Utilizing gestures to better understand dynamic structure of human communication</title>
+		<year>2004</year>
+		<authors>Lei Chen</authors>
+		<jconf>ICMI</jconf>
+		<id>333990</id>
+		<label>1</label>
+		<organization>Purdue University, West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>Gesture Patterns during Speech Repairs</title>
+		<year>2002</year>
+		<authors>Lei Chen,Mary P. Harper,Francis K. H. Quek</authors>
+		<jconf>ICMI</jconf>
+		<id>333996</id>
+		<label>1</label>
+		<organization>Purdue University</organization>
+	</publication>
+	<publication>
+		<title>Using maximum entropy (ME) model to incorporate gesture cues for SU detection</title>
+		<year>2006</year>
+		<authors>Lei Chen,Mary P. Harper,Zhongqiang Huang</authors>
+		<jconf>ICMI</jconf>
+		<id>334221</id>
+		<label>1</label>
+		<organization>Purdue University, West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>Virtual Surrounding Face Geocasting with Guaranteed Message Delivery for Ad Hoc and Sensor Networks</title>
+		<year>2006</year>
+		<authors>Jie Lian,Kshirasagar Naik,Yunhao Liu,Lei Chen</authors>
+		<jconf>ICNP</jconf>
+		<id>338594</id>
+		<label>1</label>
+		<organization>Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk</organization>
+	</publication>
+	<publication>
+		<title>A push-based prefetching for cooperative caching RAM Grid</title>
+		<year>2007</year>
+		<authors>Rui Chu,Nong Xiao,Lei Chen,Xicheng Lu</authors>
+		<jconf>ICPADS</jconf>
+		<id>341993</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hongkong, China</organization>
+	</publication>
+	<publication>
+		<title>Collaborative Search in Large-scale Unstructured Peer-to-Peer Networks</title>
+		<year>2007</year>
+		<authors>Yiming Zhang,Dongsheng Li,Lei Chen,Xicheng Lu</authors>
+		<jconf>ICPP</jconf>
+		<id>344930</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Edit Distance on Real Sequences Filters using Histogram Distance on Fixed Reference Ordering</title>
+		<year>2006</year>
+		<authors>Prima Chairunnanda,Vivekanand Gopalkrishnan,Lei Chen</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>346257</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Inclusion Test Algorithms for One-Unambiguous Regular Expressions</title>
+		<year>2008</year>
+		<authors>Haiming Chen,Lei Chen</authors>
+		<jconf>ICTAC</jconf>
+		<id>366712</id>
+		<label>4</label>
+		<organization>State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China 100080</organization>
+	</publication>
+	<publication>
+		<title>Building an Adaptive Multimedia System using the Utility Model</title>
+		<year>1999</year>
+		<authors>Lei Chen,Shahadat Khan,Kin F. Li,Eric G. Manning</authors>
+		<jconf>IPPS/SPDP Workshops</jconf>
+		<id>408532</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuous answering holistic queries over sensor networks</title>
+		<year>2008</year>
+		<authors>Kebin Liu,Lei Chen,Minglu Li,Yunhao Liu</authors>
+		<jconf>IPDPS</jconf>
+		<id>412596</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SenCast: Scalable multicast in wireless sensor networks</title>
+		<year>2008</year>
+		<authors>Shaoliang Peng,Shanshan Li,Lei Chen,Nong Xiao,Yuxing Peng</authors>
+		<jconf>IPDPS</jconf>
+		<id>412667</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Exact Locality Sensitive Mapping to Group and Detect Audio-Based Cover Songs</title>
+		<year>2008</year>
+		<authors>Yi Yu,J. Stephen Downie,Fabian Morchen,Lei Chen,Kazuki Joe</authors>
+		<jconf>ISM</jconf>
+		<id>437685</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>End-to-end diagnosis of QoS violations with neural network</title>
+		<year>2008</year>
+		<authors>Lifeng Zhou,Lei Chen,Hung Keng Pung,Lek Heng Ngoh</authors>
+		<jconf>LCN</jconf>
+		<id>482754</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of Multiple Classifier Systems for Time Series Data</title>
+		<year>2005</year>
+		<authors>Lei Chen,Mohamed S. Kamel</authors>
+		<jconf>Multiple Classifier Systems</jconf>
+		<id>490957</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Modular System for the Classification of Time Series Data</title>
+		<year>2004</year>
+		<authors>Lei Chen,Mohamed Kamel,Ju Jiang</authors>
+		<jconf>Multiple Classifier Systems</jconf>
+		<id>490959</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Noninvasive Temperature Monitoring in a Wide Range Based on Textures of Ultrasound Images</title>
+		<year>2006</year>
+		<authors>Su Zhang,Wei Yang,Rongqian Yang,Bo Ye,Lei Chen,Weiyin Ma,Yazhu Chen</authors>
+		<jconf>MIAR</jconf>
+		<id>495773</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Symbolic representation and retrieval of moving object trajectories</title>
+		<year>2004</year>
+		<authors>Lei Chen,M. Tamer Ozsu,Vincent Oria</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<id>500390</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Searching musical audio datasets by a batch of multi-variant tracks</title>
+		<year>2008</year>
+		<authors>Yi Yu,J. Stephen Downie,Lei Chen,Vincent Oria,Kazuki Joe</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<id>500613</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Level Index Structure for Video Databases</title>
+		<year>2002</year>
+		<authors>Lei Chen,Vincent Oria,M. Tamer Ozsu</authors>
+		<jconf>Multimedia Information Systems</jconf>
+		<id>500735</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>VACE Multimodal Meeting Corpus</title>
+		<year>2005</year>
+		<authors>Lei Chen,R. Rose,Ying Qiao,Irene Kimbara,Fey Parrill,Haleema Welji,Tony X. Han,Jilin Tu,Zhongqiang Huang,Mary P. Harper,Francis K. H. Quek,Yingen Xiong,David McNeill,Ronald Tuttle,Thomas S. Huang</authors>
+		<jconf>MLMI</jconf>
+		<id>501534</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multimodal Analysis of Floor Control in Meetings</title>
+		<year>2006</year>
+		<authors>Lei Chen,Mary P. Harper,Amy Franklin,R. Travis Rose,Irene Kimbara,Zhongqiang Huang,Francis K. H. Quek</authors>
+		<jconf>MLMI</jconf>
+		<id>501549</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>COSIN: content-based retrieval system for cover songs</title>
+		<year>2008</year>
+		<authors>Yi Yu,J. Stephen Downie,Fabian Morchen,Lei Chen,Kazuki Joe,Vincent Oria</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503883</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Modeling Video Data for Content Based Queries: Extending the DISIMA Image Data Model</title>
+		<year>2003</year>
+		<authors>Lei Chen,M. Tamer Ozsu,Vincent Oria</authors>
+		<jconf>MMM</jconf>
+		<id>504593</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance comparisons of power allocation mechanisms for downlink handoff in the WCDMA system with microcellular environments</title>
+		<year>2003</year>
+		<authors>Li-Chun Wang,Ming-Chun Chiang,Lei Chen,Chung-Ju Chang,Ching Yu Liao</authors>
+		<jconf>MSWiM</jconf>
+		<id>509675</id>
+		<label>14</label>
+		<organization>National Chiao Tung University, Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Incorporating Gesture and Gaze into Multimodal Models of Human-to-Human Communication</title>
+		<year>2006</year>
+		<authors>Lei Chen</authors>
+		<jconf>HLT-NAACL</jconf>
+		<id>511166</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flexible Routing in Grouped DHTs</title>
+		<year>2008</year>
+		<authors>Yiming Zhang,Dongsheng Li,Lei Chen,Xicheng Lu</authors>
+		<jconf>Peer-to-Peer Computing</jconf>
+		<id>525579</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Frequent Trajectory Patterns for Activity Monitoring Using Radio Frequency Tag Arrays</title>
+		<year>2007</year>
+		<authors>Yunhao Liu,Lei Chen,Jian Pei,Qiuxia Chen,Yiyang Zhao</authors>
+		<jconf>PerCom</jconf>
+		<id>538900</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Cost-Based Labeling of Groups of Mass Spectra</title>
+		<year>2004</year>
+		<authors>Lei Chen,Zheng Huang,Raghu Ramakrishnan</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598359</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust and Fast Similarity Search for Moving Object Trajectories</title>
+		<year>2005</year>
+		<authors>Lei Chen,M. Tamer Ozsu,Vincent Oria</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598365</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contour map matching for event detection in sensor networks</title>
+		<year>2006</year>
+		<authors>Wenwei Xue,Qiong Luo,Lei Chen,Yunhao Liu</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599983</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Monochromatic and bichromatic reverse skyline search over uncertain databases</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>600307</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Reinforcement learning and aggregation</title>
+		<year>2004</year>
+		<authors>Ju Jiang,Mohamed S. Kamel,Lei Chen</authors>
+		<jconf>SMC (2)</jconf>
+		<id>606891</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new design of multiple classifier system and its application to the classification of time series data</title>
+		<year>2007</year>
+		<authors>Lei Chen,Mohamed S. Kamel</authors>
+		<jconf>SMC</jconf>
+		<id>607605</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Multi-Scale Histograms to Answer Pattern Existence and Shape Match Queries</title>
+		<year>2005</year>
+		<authors>Lei Chen,M. Tamer Ozsu,Vincent Oria</authors>
+		<jconf>SSDBM</jconf>
+		<id>617782</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Methods on Predictions for Similarity Search over Stream Time Series</title>
+		<year>2006</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>SSDBM</jconf>
+		<id>618414</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Composite Subset Measures</title>
+		<year>2006</year>
+		<authors>Lei Chen,Raghu Ramakrishnan,Paul Barford,Bee-Chung Chen,Vinod Yegneswaran</authors>
+		<jconf>VLDB</jconf>
+		<id>641791</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On The Marriage of Lp-norms and Edit Distance</title>
+		<year>2004</year>
+		<authors>Lei Chen,Raymond T. Ng</authors>
+		<jconf>VLDB</jconf>
+		<id>642233</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction Cubes</title>
+		<year>2005</year>
+		<authors>Bee-Chung Chen,Lei Chen,Yi Lin,Raghu Ramakrishnan</authors>
+		<jconf>VLDB</jconf>
+		<id>642352</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Indexable PLA for Efficient Similarity Search</title>
+		<year>2007</year>
+		<authors>Qiuxia Chen,Lei Chen,Xiang Lian,Yunhao Liu,Jeffrey Xu Yu</authors>
+		<jconf>VLDB</jconf>
+		<id>644133</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient multi-keyword search over p2p web</title>
+		<year>2008</year>
+		<authors>Hanhua Chen,Hai Jin,Jiliang Wang,Lei Chen,Yunhao Liu,Lionel M. Ni</authors>
+		<jconf>WWW</jconf>
+		<id>675471</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Parameterized Freeform Shape Design and Deformation</title>
+		<year>2007</year>
+		<authors>Hongzheng Liu,Lei Chen,Xiuzi Ye,Xiang Pan,Qiuer Xu</authors>
+		<jconf>MUE</jconf>
+		<id>691930</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of an Intelligent Controller for a Model Helicopter Using Neuro-Predictive Method with Fuzzy Compensation</title>
+		<year>2007</year>
+		<authors>Morteza Mohammadzaheri,Lei Chen</authors>
+		<jconf>World Congress on Engineering</jconf>
+		<id>710332</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Testing Technology of Torsional Vibration Spring Static Stiffness</title>
+		<year>2008</year>
+		<authors>Zhengfeng Jiang,Shaobo Xu,Lei Chen</authors>
+		<jconf>ICIRA (2)</jconf>
+		<id>722418</id>
+		<label>27</label>
+		<organization>School of Mechanical and Electronic Engineering, Wuhan University of Technology, Wuhan, China 430070</organization>
+	</publication>
+	<publication>
+		<title>Study of Coupling Based on Genetic Neural Network Multivariable Nonlinear Complex System</title>
+		<year>2008</year>
+		<authors>Ruikun Gong,Jingyuan Li,Lei Chen</authors>
+		<jconf>CSSE (1)</jconf>
+		<id>728737</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Type Checking for a Subclass of Regular Expression Types</title>
+		<year>2008</year>
+		<authors>Lei Chen,Haiming Chen</authors>
+		<jconf>ICYCS</jconf>
+		<id>730268</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cooperative Spectrum Sensing with Multi-Bits Local Sensing Decisions in Cognitive Radio Context</title>
+		<year>2008</year>
+		<authors>Lei Chen,Jun Wang,Shaoqian Li</authors>
+		<jconf>WCNC</jconf>
+		<id>735272</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence analysis of convex incremental neural networks</title>
+		<year>2008</year>
+		<authors>Lei Chen,Hung Keng Pung</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>752082</id>
+		<label>39</label>
+		<organization>Network Systems and Service Lab., Department of Computer Science, National University of Singapore, Kent Ridge, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Free-space nano-optical devices and integration: Design, fabrication, and manufacturing</title>
+		<year>2005</year>
+		<authors>Jian Jim Wang,Xuegong Deng,Lei Chen,Paul F. Sciortino Jr,Feng Liu,Stephen Tai,Xiaoming Liu,Anguel Nikolov,Barry J. Weinbaum</authors>
+		<jconf>Bell Labs Technical Journal</jconf>
+		<id>762078</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reverse innovative design - an integrated product design methodology</title>
+		<year>2008</year>
+		<authors>Xiuzi Ye,Hongzheng Liu,Lei Chen,Zhiyang Chen,Xiang Pan,Sanyuan Zhang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779908</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Matching Dependencies</title>
+		<year>2009</year>
+		<authors>Shaoxu Song,Lei Chen</authors>
+		<jconf>CoRR</jconf>
+		<id>830241</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extremal problems on consecutive L(2, 1)-labelling</title>
+		<year>2007</year>
+		<authors>Changhong Lu,Lei Chen,Mingqing Zhai</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>838593</id>
+		<label>34</label>
+		<organization>Department of Mathematics, East China Normal University, Shanghai 200062, PR China</organization>
+	</publication>
+	<publication>
+		<title>Aggregation of Multiple Reinforcement Learning Algorithms</title>
+		<year>2006</year>
+		<authors>Ju Jiang,Mohamed S. Kamel,Lei Chen</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<id>903096</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The EDAM project: Mining atmospheric aerosol datasets</title>
+		<year>2005</year>
+		<authors>Raghu Ramakrishnan,James J. Schauer,Lei Chen,Zheng Huang,Martin M. Shafer,Deborah S. Gross</authors>
+		<jconf>Int. J. Intell. Syst.</jconf>
+		<id>910790</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A unified SWSI-KAMs framework and performance evaluation on face recognition</title>
+		<year>2005</year>
+		<authors>Songcan Chen,Lei Chen,Zhi-Hua Zhou</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>915556</id>
+		<label>32</label>
+		<organization>Department of Computer Science & Engineering, Nanjing University of Aeronautics & Astronautics, 29 Yudao Street, Nanjing 210016, China</organization>
+	</publication>
+	<publication>
+		<title>Convex incremental extreme learning machine</title>
+		<year>2007</year>
+		<authors>Guang-Bin Huang,Lei Chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>917837</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incremental extreme learning machine with fully complex hidden nodes</title>
+		<year>2008</year>
+		<authors>Guang-Bin Huang,Ming-Bin Li,Lei Chen,Chee Kheong Siew</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>918100</id>
+		<label>39</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Systemical convergence rate analysis of convex incremental feedforward neural networks</title>
+		<year>2009</year>
+		<authors>Lei Chen,Guang-Bin Huang,Hung Keng Pung</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>918258</id>
+		<label>39</label>
+		<organization>Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Continually Answering Constraint k - NN Queries in Unstructured P2P Systems</title>
+		<year>2008</year>
+		<authors>Bin Wang,Xiaochun Yang,Guoren Wang,Ge Yu,Lei Chen,Xiaoyang Sean Wang,Xuemin Lin</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>974156</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable Base-Station Model-Based Multicast in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Shaoliang Peng,Shan-Shan Li,Lei Chen,Yuxing Peng,Nong Xiao</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>974207</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>QoS-aware routing based on bandwidth estimation for mobile ad hoc networks</title>
+		<year>2005</year>
+		<authors>Lei Chen,Wendi Rabiner Heinzelman</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>992850</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing software science data with partial repeatability</title>
+		<year>2002</year>
+		<authors>Kai-Yuan Cai,Lei Chen</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>995819</id>
+		<label>38</label>
+		<organization>Department of Automatic Control, Beijing University of Aeronautics and Astronautics, Beijing 100083, China</organization>
+	</publication>
+	<publication>
+		<title>MINDEX: An efficient index structure for salient-object-based queries in video databases</title>
+		<year>2004</year>
+		<authors>Lei Chen,M. Tamer Ozsu,Vincent Oria</authors>
+		<jconf>Multimedia Syst.</jconf>
+		<id>1011124</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust and Efficient Aggregate Query Processing in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Kebin Liu,Lei Chen,Yunhao Liu,Minglu Li</authors>
+		<jconf>MONET</jconf>
+		<id>1013067</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Survey of Routing Protocols that Support QoS in Mobile Ad Hoc Networks</title>
+		<year>2007</year>
+		<authors>Lei Chen,Wendi B. Heinzelman</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024162</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distance-Based Sparse Associative Memory Neural Network Algorithm for Pattern Recognition</title>
+		<year>2006</year>
+		<authors>Lei Chen,Songcan Chen</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<id>1028332</id>
+		<label>32</label>
+		<organization>Aff1 Aff2</organization>
+	</publication>
+	<publication>
+		<title>Universal Approximation and QoS Violation Application of Extreme Learning Machine</title>
+		<year>2008</year>
+		<authors>Lei Chen,Lifeng Zhou,Hung Keng Pung</authors>
+		<jconf>Neural Processing Letters</jconf>
+		<id>1028463</id>
+		<label>39</label>
+		<organization>Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A combination of linear and nonlinear activation functions in neural networks for modeling a de-superheater</title>
+		<year>2009</year>
+		<authors>Morteza Mohammadzaheri,Lei Chen,Ali Ghaffari,John Willison</authors>
+		<jconf>Simulation Modelling Practice and Theory</jconf>
+		<id>1069057</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interactive high-dimensional index for large Chinese calligraphic character databases</title>
+		<year>2007</year>
+		<authors>Yi Zhuang,Yueting Zhuang,Qing Li,Lei Chen</authors>
+		<jconf>ACM Trans. Asian Lang. Inf. Process.</jconf>
+		<id>1077482</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, HKSAR, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>Near-Shannon-limit quasi-cyclic low-density parity-check codes</title>
+		<year>2004</year>
+		<authors>Lei Chen,Jun Xu,Ivana Djurdjevic,Shu Lin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087222</id>
+		<label>2</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Efficient Encoding of Quasi-Cyclic Low-Density Parity-Check Codes</title>
+		<year>2005</year>
+		<authors>Zongwang Li,Lei Chen,Lingqi Zeng,Shu Lin,Wai H. Fong</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087408</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient encoding of quasi-cyclic low-density parity-check codes</title>
+		<year>2006</year>
+		<authors>Zongwang Li,Lei Chen,Lingqi Zeng,Shu Lin,Wai H. Fong</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087525</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of low-density parity-check codes by superposition</title>
+		<year>2005</year>
+		<authors>Jun Xu,Lei Chen,Lingqi Zeng,Lan Lan,Shu Lin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087916</id>
+		<label>2</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Construction of Regular and Irregular LDPC Codes: Geometry Decomposition and Masking</title>
+		<year>2007</year>
+		<authors>Jun Xu,Lei Chen,Ivana Djurdjevic,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1110111</id>
+		<label>2</label>
+		<organization>Marvell Semicond., Sunnyvale, CA</organization>
+	</publication>
+	<publication>
+		<title>Construction of Quasi-Cyclic LDPC Codes for AWGN and Binary Erasure Channels: A Finite Field Approach</title>
+		<year>2007</year>
+		<authors>Lan Lan,Lingqi Zeng,Ying Yu Tai,Lei Chen,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1110375</id>
+		<label>2</label>
+		<organization>Keyeye Commun., Sacramento</organization>
+	</publication>
+	<publication>
+		<title>Maximal Subspace Coregulated Gene Clustering</title>
+		<year>2008</year>
+		<authors>Yuhai Zhao,Jeffrey Xu Yu,Guoren Wang,Lei Chen,Bin Wang,Ge Yu</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113895</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Search in Nonmetric Spaces with Local Constant Embedding</title>
+		<year>2008</year>
+		<authors>Lei Chen,Xiang Lian</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113915</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Search over Future Stream Time Series</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113964</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Group Nearest Neighbor Queries in Uncertain Databases</title>
+		<year>2008</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1114062</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonthreshold-Based Event Detection for 3D Environment Monitoring in Sensor Networks</title>
+		<year>2008</year>
+		<authors>Mo Li,Yunhao Liu,Lei Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1114136</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>OPHMR: An Optimized Polymorphic Hybrid Multicast Routing Protocol for MANET</title>
+		<year>2007</year>
+		<authors>Adel Ben Mnaouer,Lei Chen,Chuan Heng Foh,Juki Wirawan Tantra</authors>
+		<jconf>IEEE Trans. Mob. Comput.</jconf>
+		<id>1114296</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Virtual surrounding face geocasting in wireless ad hoc and sensor networks</title>
+		<year>2009</year>
+		<authors>Jie Lian,Yunhao Liu,Kshirasagar Naik,Lei Chen</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123153</id>
+		<label>1</label>
+		<organization>Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Gradient Boundary Detection for Time Series Snapshot Construction in Sensor Networks</title>
+		<year>2007</year>
+		<authors>Jie Lian,Lei Chen,Kshirasagar Naik,Yunhao Liu,Gordon B. Agnew</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126195</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Universal approximation using incremental constructive feedforward networks with random hidden nodes</title>
+		<year>2006</year>
+		<authors>Guang-Bin Huang,Lei Chen,Chee Kheong Siew</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1174391</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sliding-window top-k queries on uncertain streams</title>
+		<year>2008</year>
+		<authors>Cheqing Jin,Ke Yi,Lei Chen,Jeffrey Xu Yu,Xuemin Lin</authors>
+		<jconf>PVLDB</jconf>
+		<id>1186012</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Privacy preserving serial data publishing by role composition</title>
+		<year>2008</year>
+		<authors>Yingyi Bu,Ada Wai-Chee Fu,Raymond Chi-Wing Wong,Lei Chen,Jiuyong Li</authors>
+		<jconf>PVLDB</jconf>
+		<id>1186026</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>BBS: An Energy Efficient Localized Routing Scheme for Query Processing in Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Jie Lian,Kshirasagar Naik,Gordon B. Agnew,Lei Chen,M. Tamer Ozsu</authors>
+		<jconf>IJDSN</jconf>
+		<id>1186837</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient anomaly monitoring over moving object trajectory streams</title>
+		<year>2009</year>
+		<authors>Yingyi Bu,Lei Chen,Ada Wai-Chee Fu,Dawei Liu</authors>
+		<jconf>KDD</jconf>
+		<id>1212386</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Fine-Grained Power Gating Based on the Controlling Value of Logic Elements</title>
+		<year>2008</year>
+		<authors>Lei Chen,Takashi Horiyama,Yuichi Nakamura,Shinji Kimura</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224400</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A generalized adaptive ensemble generation and aggregation approach for multiple classifier systems</title>
+		<year>2009</year>
+		<authors>Lei Chen,Mohamed S. Kamel</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1226965</id>
+		<label>1</label>
+		<organization>Department of Electrical and Computer Engineering, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada N2L 3G1</organization>
+	</publication>
+	<publication>
+		<title>Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>VLDB J.</jconf>
+		<id>1228058</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient join processing on uncertain data streams</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>1239403</id>
+		<label>1</label>
+		<organization>The Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Effective XML content and structure retrieval with relevance ranking</title>
+		<year>2009</year>
+		<authors>Xiping Liu,Changxuan Wan,Lei Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>1239466</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Discovering matching dependencies</title>
+		<year>2009</year>
+		<authors>Shaoxu Song,Lei Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>1239474</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Gender Recognition from Gait Using Radon Transform and Relevant Component Analysis</title>
+		<year>2009</year>
+		<authors>Lei Chen,Yunhong Wang,Yiding Wang,De Zhang</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>1247382</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multimodal floor control shift detection</title>
+		<year>2009</year>
+		<authors>Lei Chen,Mary P. Harper</authors>
+		<jconf>ICMI</jconf>
+		<id>1247961</id>
+		<label>1</label>
+		<organization>Purdue University, West Lafayette, IN, USA</organization>
+	</publication>
+	<publication>
+		<title>Local summarization and multi-level LSH for retrieving multi-variant audio tracks</title>
+		<year>2009</year>
+		<authors>Yi Yu,Michel Crucianu,Vincent Oria,Lei Chen</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>1253152</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Auction-Based Congestion Management for Target Tracking in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>Lei Chen,Boleslaw K. Szymanski,Joel W. Branch</authors>
+		<jconf>PerCom</jconf>
+		<id>1254288</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast algorithm for large-scale UMTS coverage planning with soft handover consideration</title>
+		<year>2009</year>
+		<authors>Lei Chen,Di Yuan</authors>
+		<jconf>IWCMC</jconf>
+		<id>1259035</id>
+		<label>20</label>
+		<organization>Linköping University, Norrköping</organization>
+	</publication>
+	<publication>
+		<title>Equivalent Relationship of Feedforward Neural Networks and Real-Time Face Detection System</title>
+		<year>2009</year>
+		<authors>Shuzhi Sam Ge,Yaozhang Pan,Qun Zhang,Lei Chen</authors>
+		<jconf>Foundations and Trends in Robotics</jconf>
+		<id>1261933</id>
+		<label>39</label>
+		<organization>Social Robotics Lab, Interactive and Digital Media Institute, Department of Electrical and Computer Engineering, National University of Singapore 117576</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Neuro-Predictive-Fuzzy Algorithm for a Model Helicopter's Yaw Angle Control</title>
+		<year>2008</year>
+		<authors>Morteza Mohammadzaheri,Lei Chen</authors>
+		<jconf>Engineering Letters</jconf>
+		<id>1271005</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A linear-time algorithm for paired-domination problem in strongly chordal graphs</title>
+		<year>2009</year>
+		<authors>Lei Chen,Changhong Lu,Zhenbing Zeng</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>1276259</id>
+		<label>34</label>
+		<organization>Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, PR China</organization>
+	</publication>
+	<publication>
+		<title>General Cost Models for Evaluating Dimensionality Reduction in High-Dimensional Spaces</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1281923</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Efficient Processing of Metric Skyline Queries</title>
+		<year>2009</year>
+		<authors>Lei Chen,Xiang Lian</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1281929</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Multiscale Representations for Fast Pattern Matching in Stream Time Series</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen,Jeffrey Xu Yu,Jinsong Han,Jian Ma</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1281976</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Efficient Similarity Join over Multiple Stream Time Series</title>
+		<year>2009</year>
+		<authors>Xiang Lian,Lei Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1281999</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>K-Automorphism: A General Framework For Privacy Preserving Network Publication</title>
+		<year>2009</year>
+		<authors>Lei Zou,Lei Chen,M. Tamer Ozsu</authors>
+		<jconf>PVLDB</jconf>
+		<id>1286977</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DistanceJoin: Pattern Match Query In a Large Graph Database</title>
+		<year>2009</year>
+		<authors>Lei Zou,Lei Chen,M. Tamer Ozsu</authors>
+		<jconf>PVLDB</jconf>
+		<id>1287003</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Curse of Dimensionality</title>
+		<year>2009</year>
+		<authors>Lei Chen</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1297128</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two-Dimensional Shape Retrieval</title>
+		<year>2009</year>
+		<authors>Lei Chen</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1299267</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video Content Modeling</title>
+		<year>2009</year>
+		<authors>Lei Chen</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1299532</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research of Blind Images Separation Algorithm Based on Kernel Space.</title>
+		<year>2009</year>
+		<authors>Lei Chen,Liyi Zhang,Yanju Guo,Ting Liu</authors>
+		<jconf>null</jconf>
+		<id>1306330</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Interference Free Data Aggregation Protocol for Clustered Wireless Sensor Networks.</title>
+		<year>2008</year>
+		<authors>Lei Chen,Bao-Hua Zhao</authors>
+		<jconf>null</jconf>
+		<id>1312231</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stereo Vision Based Floor Plane Extraction and Camera Pose Estimation.</title>
+		<year>2009</year>
+		<authors>Lei Chen,Zhongli Wang,Yunde Jia</authors>
+		<jconf>null</jconf>
+		<id>1312676</id>
+		<label>27</label>
+		<organization>Beijing Laboratory of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing, P.R. China 100081</organization>
+	</publication>
+	<publication>
+		<title>Distance paired-domination problems on subclasses of chordal graphs.</title>
+		<year>2009</year>
+		<authors>Lei Chen,Changhong Lu,Zhenbing Zeng</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1343040</id>
+		<label>34</label>
+		<organization>Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China</organization>
+	</publication>
+	<publication>
+		<title>Hardness results and approximation algorithms for (weighted) paired-domination in graphs.</title>
+		<year>2009</year>
+		<authors>Lei Chen,Changhong Lu,Zhenbing Zeng</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1343060</id>
+		<label>34</label>
+		<organization>Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China</organization>
+	</publication>
+	<publication>
+		<title>Research on Distributed Data Mining Tool Used in Control System</title>
+		<year>2009</year>
+		<authors>Yuekun Ma,Zhigang Li,Shuli Yu,Lei Chen</authors>
+		<jconf>Proceedings of the 2009 International Conference on Advanced Computer Control</jconf>
+		<id>1391860</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The EDAM project: Mining atmospheric aerosol datasets: Research Articles</title>
+		<year>2005</year>
+		<authors>Raghu Ramakrishnan,James J. Schauer,Lei Chen,Zheng Huang,Martin M. Shafer,Deborah S. Gross,David R. Musicant</authors>
+		<jconf>International Journal of Intelligent Systems</jconf>
+		<id>1411192</id>
+		<label>1</label>
+		<organization>Computer Sciences Department, University of Wisconsin-Madison, Madison, WI 53706, USA</organization>
+	</publication>
+	<publication>
+		<title>Letters: Convex incremental extreme learning machine</title>
+		<year>2007</year>
+		<authors>Guang-Bin Huang,Lei Chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>1581648</id>
+		<label>39</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the APWeb/WAIM 2007 DBMAN, WebETrends, PAIS and ASWAN international workshops on Advances in Web and Network Technologies, and Information Management</title>
+		<year>2007</year>
+		<authors>Kevin Chen-Chuan Chang,Wei Wang,Lei Chen,Clarence A. Ellis,Ching-Hsien Hsu,Ah Chung Tsoi,Haixun Wang</authors>
+		<jconf>Lecture Notes In Computer Science; Vol. 4537</jconf>
+		<id>1589919</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tracking Articulated Hand Underlying Graphical Model with Depth Cue</title>
+		<year>2008</year>
+		<authors>Tangli Liu,Wei Liang,Xinxiao Wu,Lei Chen</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 4 - Volume 04</jconf>
+		<id>1594862</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced random search based incremental extreme learning machine</title>
+		<year>2008</year>
+		<authors>Guang-Bin Huang,Lei Chen</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>1595097</id>
+		<label>39</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A TCP Based Performance Test Method and Its Application</title>
+		<year>2008</year>
+		<authors>Lei Chen,Lu Lu</authors>
+		<jconf>Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing</jconf>
+		<id>1600371</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic scoring of children's read-aloud text passages and word lists</title>
+		<year>2009</year>
+		<authors>Klaus Zechner,John Sabatini,Lei Chen</authors>
+		<jconf>Proceedings of the Fourth Workshop on Innovative Use of NLP for Building Educational Applications</jconf>
+		<id>1649401</id>
+		<label>31</label>
+		<organization>Educational Testing Service, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Improved pronunciation features for construct-driven assessment of non-native spontaneous speech</title>
+		<year>2009</year>
+		<authors>Lei Chen,Klaus Zechner,Xiaoming Xi</authors>
+		<jconf>Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics</jconf>
+		<id>1650019</id>
+		<label>31</label>
+		<organization>Educational Testing Service, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Research on Telerobotic System Based on ARM Core Processor</title>
+		<year>2009</year>
+		<authors>Xiaojun Zhao,Mingwei Ren,Yunfei Li,Haixia Su,Lei Chen,Fei Wang</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01</jconf>
+		<id>1650044</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database Systems for Advanced Applications: DASFAA 2009 International Workshops: BenchmarX, MCIS, WDPP, PPDA, MBC, PhD, Brisbane, Australia, April 20 - 23, 2009</title>
+		<year>2009</year>
+		<authors>Lei Chen,Chengfei Liu,Qing Liu,Ke Deng</authors>
+		<jconf>Lecture Notes In Computer Science; Vol. 5667</jconf>
+		<id>1650182</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology,</organization>
+	</publication>
+	<publication>
+		<title>Advances in Web and Network Technologies, and Information Management: APWeb/WAIM 2009 International Workshops: WCMT 2009, RTBI 2009, DBIR-ENQOIR 2009, PAIS 2009, Suzhou, China, April 2-4, 2009, Revised Selected Papers</title>
+		<year>2009</year>
+		<authors>Lei Chen,Chengfei Liu,Xiao Zhang,Shan Wang,Darijus Strasunskas,Stein L. Tomassen,Jinghai Rao,Wen-Syan Li,K. Selçuk Candan,Dickson K. Chiu,Yi Zhuang,Clarence A. Ellis,Kwang-Hoon Kim</authors>
+		<jconf>null</jconf>
+		<id>1653440</id>
+		<label>1</label>
+		<organization>Hong Kong University of Science and Technology,</organization>
+	</publication>
+	<publication>
+		<title>Remote equipment monitoring system based on ARM9 and CAN bus</title>
+		<year>2009</year>
+		<authors>Xiaojun Zhao,Haixia Su,Mingwei Ren,Yong Cao,Lei Chen,Fei Wang</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 02</jconf>
+		<id>1656177</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Similarity search over time series and trajectory data</title>
+		<year>2005</year>
+		<authors>Lei Chen</authors>
+		<jconf>null</jconf>
+		<id>1708236</id>
+		<label>1</label>
+		<organization>University of Waterloo (Canada)</organization>
+	</publication>
+	<publication>
+		<title>The Research and Application of Human Detection Based on Support Vector Machine Using in Intelligent Video Surveillance System</title>
+		<year>2008</year>
+		<authors>Xinnan Fan,Lizhong Xu,Xuewu Zhang,Lei Chen</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 02</jconf>
+		<id>1750448</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of Main Steam Temperature Cascade Control System Based on Fuzzy Self-Tuning PID Controller</title>
+		<year>2008</year>
+		<authors>Jing Zeng,Youcheng Xie,Lei Chen</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1750792</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>7023</personID>
+	<FullName>Gang Chen</FullName>
+	<FirstName>Gang</FirstName>
+	<LastName>Chen</LastName>
+	<publication>
+		<title>Collaborative Education Model and Its Application in E-learning</title>
+		<year>2007</year>
+		<authors>Gang Chen,Ruimin Shen,Jiajun Wang,Zeyu Chen</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>4775</id>
+		<label>0</label>
+		<organization>Shanghai Jiao Tong Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Multi-agent coordination: a fuzzy logic based approach</title>
+		<year>2003</year>
+		<authors>Gang Chen,Zhonghua Yang,Hao He,Kiah Mok Goh</authors>
+		<jconf>AAMAS</jconf>
+		<id>55597</id>
+		<label>1</label>
+		<organization>Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Java implementation of an object-oriented software metrics assessment tool</title>
+		<year>1999</year>
+		<authors>Ramesh K. Karne,Alexander L. Wijesinha,Yimin Lu,Gang Chen,Yunlai Sun</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<id>78494</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Subdivision Depth Computation for Extra-Ordinary Catmull-Clark Subdivision Surface Patches</title>
+		<year>2006</year>
+		<authors>Fuhua (Frank) Cheng,Gang Chen,Jun-Hai Yong</authors>
+		<jconf>Computer Graphics International</jconf>
+		<id>86000</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast and Practical Algorithms for Computing All the Runs in a String</title>
+		<year>2007</year>
+		<authors>Gang Chen,Simon J. Puglisi,William F. Smyth</authors>
+		<jconf>CPM</jconf>
+		<id>118907</id>
+		<label>4</label>
+		<organization>Algorithms Research Group, Department of Computing & Software, McMaster University, Hamilton, Ontario, L8S 4K1, Canada</organization>
+	</publication>
+	<publication>
+		<title>A Semantic Web-based Architecture for Collaborative Multi-Agent Functional Modeling in Design</title>
+		<year>2006</year>
+		<authors>Li Zhang,Wenyu Zhang,Gang Chen,Yuzhu Wang,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122270</id>
+		<label>5</label>
+		<organization>Inst. of Artificial Intelligence, Zhejiang Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Network Access Control Architecture Using State-Transfer-Based Dynamic Policy</title>
+		<year>2006</year>
+		<authors>Cheng Zang,Zhongdong Huang,Gang Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122339</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>An Index Scheme for XML Documents Based on Relationship Joins</title>
+		<year>2006</year>
+		<authors>Chengwen Wu,Jinxiang Dong,Gang Chen,Lihua Yu</authors>
+		<jconf>CSCWD</jconf>
+		<id>122387</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Securely Sharing Data in Encrypted Databases</title>
+		<year>2006</year>
+		<authors>Lihua Yu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122403</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Web-based Framework For On-line Collaborative Learning</title>
+		<year>2006</year>
+		<authors>Lidan Shou,Bin Cui,Gang Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122441</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>A Database Encryption Scheme for Enhanced Security and Easy Sharing</title>
+		<year>2006</year>
+		<authors>Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122463</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>An Event and Service Interacting Model and Event Detection Based on the Broker/Service Model</title>
+		<year>2001</year>
+		<authors>Ping-Peng Yuan,Gang Chen,Jinxiang Dong,Weili Han</authors>
+		<jconf>CSCWD</jconf>
+		<id>122545</id>
+		<label>5</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Resilient Rights Protection for Product Data</title>
+		<year>2006</year>
+		<authors>Ke Chen,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122566</id>
+		<label>5</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Collaborative Agents Supported Automatic Physical Database Design Based on Description Logics Reasoning</title>
+		<year>2006</year>
+		<authors>Tianlei Hu,Gang Chen,Yin-Jie Hong,Xiaolong Zhang,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122583</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>A Fractal Watermark Solution for Product Data</title>
+		<year>2006</year>
+		<authors>Ke Chen,Gang Chen,Cheng Zang,Jinxiang Dong</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>122667</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MSFSS: A Storage System for Mass Small Files</title>
+		<year>2007</year>
+		<authors>Lihua Yu,Gang Chen,Wei Wang,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122710</id>
+		<label>5</label>
+		<organization>Zhejiang Univ. Hangzhou, Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>A Caching System for XML Queries Using Frequent Query Patterns</title>
+		<year>2007</year>
+		<authors>Yijun Bei,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122735</id>
+		<label>5</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Accelerating Parent-Child Path Matching in XML</title>
+		<year>2007</year>
+		<authors>Feng Shao,Gang Chen,Lihua Yu,Yijun Bei,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>122934</id>
+		<label>5</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Prototyping system of codec for novel 2-D continuous barcode</title>
+		<year>2008</year>
+		<authors>Songwen Pei,Guobo Li,Gang Chen,Baifeng Wu</authors>
+		<jconf>CSCWD</jconf>
+		<id>122961</id>
+		<label>12</label>
+		<organization>Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>A test pattern ordering algorithm for diagnosis with truncated fail data</title>
+		<year>2006</year>
+		<authors>Gang Chen,Sudhakar M. Reddy,Irith Pomeranz,Janusz Rajski</authors>
+		<jconf>DAC</jconf>
+		<id>131742</id>
+		<label>10</label>
+		<organization>Mentor Graphics Corp., Wilsonville, OR</organization>
+	</publication>
+	<publication>
+		<title>An Image-Semantic Ontological Framework for Large Image Databases</title>
+		<year>2007</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Kian-Lee Tan</authors>
+		<jconf>DASFAA</jconf>
+		<id>141056</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MIME: A Dynamic Index Scheme for Multi-dimensional Query in Mobile P2P Networks</title>
+		<year>2007</year>
+		<authors>Ping Wang,Lidan Shou,Gang Chen,Jinxiang Dong</authors>
+		<jconf>DASFAA</jconf>
+		<id>141132</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Frequent Patterns in an Arbitrary Sliding Window over Data Streams</title>
+		<year>2008</year>
+		<authors>Guohui Li,Hui Chen,Bing Yang,Gang Chen</authors>
+		<jconf>DASFAA</jconf>
+		<id>141186</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predictive Skyline Queries for Moving Objects</title>
+		<year>2009</year>
+		<authors>Nan Chen,Lidan Shou,Gang Chen,Yunjun Gao,Jinxiang Dong</authors>
+		<jconf>DASFAA</jconf>
+		<id>141245</id>
+		<label>5</label>
+		<organization>College of Computer Science, Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>Defect Aware Test Patterns</title>
+		<year>2005</year>
+		<authors>Huaxing Tang,Gang Chen,Sudhakar M. Reddy,Chen Wang,Janusz Rajski,Irith Pomeranz</authors>
+		<jconf>DATE</jconf>
+		<id>143127</id>
+		<label>10</label>
+		<organization>University of Iowa, Iowa City</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous logic decomposition with technology mapping in FPGA designs</title>
+		<year>2001</year>
+		<authors>Gang Chen,Jason Cong</authors>
+		<jconf>FPGA</jconf>
+		<id>214294</id>
+		<label>13</label>
+		<organization>Computer Science Department, University of California, Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous timing-driven placement and duplication</title>
+		<year>2005</year>
+		<authors>Gang Chen,Jason Cong</authors>
+		<jconf>FPGA</jconf>
+		<id>214297</id>
+		<label>13</label>
+		<organization>Magma Design Automation, Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous Timing Driven Clustering and Placement for FPGAs</title>
+		<year>2004</year>
+		<authors>Gang Chen,Jason Cong</authors>
+		<jconf>FPL</jconf>
+		<id>215080</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Adaptive Fuzzy Control for Uncertain Nonlinear Systems</title>
+		<year>2005</year>
+		<authors>Gang Chen,Shuqing Wang,Jianming Zhang</authors>
+		<jconf>FSKD (1)</jconf>
+		<id>217523</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust and Adaptive Backstepping Control for Nonlinear Systems Using Fuzzy Logic Systems</title>
+		<year>2005</year>
+		<authors>Gang Chen,Shuqing Wang,Jianming Zhang</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>217525</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fuzzy Contrast Model to Measure Semantic Similarity Between OWL DL Concepts</title>
+		<year>2006</year>
+		<authors>Ming Qiu,Gang Chen,Jinxiang Dong</authors>
+		<jconf>FSKD</jconf>
+		<id>217858</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fuzzy Metric for Image Quality Assessment</title>
+		<year>2001</year>
+		<authors>Zheru Chi,Gang Chen,Junli Li</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221335</id>
+		<label>18</label>
+		<organization>Inst. of Sci., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>UGE4B: An Universal Grid Environment for Bioinformatics Research</title>
+		<year>2006</year>
+		<authors>Gang Chen,Yongwei Wu,Weimin Zheng</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>224407</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Adapting to Application Workflow in Processing Data Integration Queries</title>
+		<year>2007</year>
+		<authors>Yongwei Wu,Jia Liu,Gang Chen,Guangwen Yang,Bo Cao,Weimin Zheng</authors>
+		<jconf>GCC</jconf>
+		<id>224475</id>
+		<label>5</label>
+		<organization>Tsinghua University Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>A picosecond TDC architecture for multiphase PLLs</title>
+		<year>2009</year>
+		<authors>Yifei Luo,Gang Chen,Kuan Zhou</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234641</id>
+		<label>20</label>
+		<organization>University of New Hampshire, Durham, NH, USA</organization>
+	</publication>
+	<publication>
+		<title>Matrix Based Subdivision Depth Computation for Extra-Ordinary Catmull-Clark Subdivision Surface Patches</title>
+		<year>2006</year>
+		<authors>Gang Chen,Fuhua (Frank) Cheng</authors>
+		<jconf>GMP</jconf>
+		<id>235159</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Torsional Pile Subjected to Transient Loading in Viscoelastic Poroelastic Medium</title>
+		<year>2007</year>
+		<authors>Yuanqiang Cai,Gang Chen,Feiyu Liu</authors>
+		<jconf>International Conference on Computational Science (3)</jconf>
+		<id>280926</id>
+		<label>26</label>
+		<organization>College of Civil Engineering and Architecture, Zhejiang university, Hangzhou 310027, China</organization>
+	</publication>
+	<publication>
+		<title>Accelerating XML Structural Matching Using Suffix Bitmaps</title>
+		<year>2007</year>
+		<authors>Feng Shao,Gang Chen,Jinxiang Dong</authors>
+		<jconf>International Conference on Computational Science (1)</jconf>
+		<id>281178</id>
+		<label>5</label>
+		<organization>Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Improving XML Querying with Maximal Frequent Query Patterns</title>
+		<year>2007</year>
+		<authors>Yijun Bei,Gang Chen,Jinxiang Dong</authors>
+		<jconf>International Conference on Computational Science (1)</jconf>
+		<id>281179</id>
+		<label>5</label>
+		<organization>College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Procedures for Identifying Untestable and Redundant Transition Faults in Synchronous Sequential Circuits</title>
+		<year>2003</year>
+		<authors>Gang Chen,Sudhakar M. Reddy,Irith Pomeranz</authors>
+		<jconf>ICCD</jconf>
+		<id>285873</id>
+		<label>10</label>
+		<organization>Dept. of ECE, Iowa Univ., Iowa City, IA, USA</organization>
+	</publication>
+	<publication>
+		<title>Efficient Processing of Warping Time Series Join of Motion Capture Data</title>
+		<year>2009</year>
+		<authors>Yueguo Chen,Gang Chen,Ke Chen,Beng Chin Ooi</authors>
+		<jconf>ICDE</jconf>
+		<id>302250</id>
+		<label>5</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Collaborative Filtering Using Orthogonal Nonnegative Matrix Tri-factorization</title>
+		<year>2007</year>
+		<authors>Gang Chen,Fei Wang,Changshui Zhang</authors>
+		<jconf>ICDM Workshops</jconf>
+		<id>303566</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Research on Chaos Forecast with the Capital Market Structure Model</title>
+		<year>2004</year>
+		<authors>Zhensheng Jiang,Xingchen Zheng,Gang Chen</authors>
+		<jconf>ICEB</jconf>
+		<id>304279</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Recovery from Broken Image Streams</title>
+		<year>2007</year>
+		<authors>Xiaoyu Zhao,Chi Xu,Zheru Chi,Hong Yan,David Dagan Feng,Gang Chen</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>324867</id>
+		<label>18</label>
+		<organization>Hong Kong Polytech. Univ., Kowloon</organization>
+	</publication>
+	<publication>
+		<title>Improving image clustering: An unsupervised feature weight learning framework</title>
+		<year>2008</year>
+		<authors>Xinxin Bai,Gang Chen,Zhonglin Lin,Wen Jun Yin,Jin Dong</authors>
+		<jconf>ICIP</jconf>
+		<id>325749</id>
+		<label>5</label>
+		<organization>IBM China Res. Lab., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Neural Network Control for Multi-fingered Robot Hand Manipulation in the Constrained Environment</title>
+		<year>2005</year>
+		<authors>Gang Chen,Shuqing Wang,Jianming Zhang</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337550</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New ART Neural Networks for Remote Sensing Image Classification</title>
+		<year>2005</year>
+		<authors>AnFei Liu,Bi-Cheng Li,Gang Chen,Xianfei Zhang</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337766</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordinating Multi-Agents using JavaSpaces</title>
+		<year>2002</year>
+		<authors>Gang Chen,Zhonghua Yang,Hao He,Kiah Mok Goh</authors>
+		<jconf>ICPADS</jconf>
+		<id>340898</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Reorganizing global schedules for register allocation</title>
+		<year>1999</year>
+		<authors>Gang Chen,Michael D. Smith</authors>
+		<jconf>International Conference on Supercomputing</jconf>
+		<id>359960</id>
+		<label>39</label>
+		<organization>GTE Laboratories, Inc., Waltham, MA</organization>
+	</publication>
+	<publication>
+		<title>Using VRML and JAVA to Build Virtual Game-Based Learning Environment for Addition and Subtraction Operation</title>
+		<year>2006</year>
+		<authors>Ruwei Yun,Gang Chen,Yi Li</authors>
+		<jconf>ICWL</jconf>
+		<id>369795</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonuniform B-Spline Mesh Fairing Method</title>
+		<year>1991</year>
+		<authors>Rong Huanzong,Gang Chen,Weirong Zhang</authors>
+		<jconf>Computer Applications in the Automation of Shipyard Operation and Ship Design</jconf>
+		<id>381890</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A dual-field elliptic curve cryptographic processor based on a systolic arithmetic unit</title>
+		<year>2008</year>
+		<authors>Gang Chen,Guoqiang Bai,Hongyi Chen</authors>
+		<jconf>ISCAS</jconf>
+		<id>431781</id>
+		<label>36</label>
+		<organization>Inst. of Microelectron., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Remote Sensing Image Classification Based on Evidence Theory and Neural Networks</title>
+		<year>2004</year>
+		<authors>Gang Chen,Bi-Cheng Li,Zhi-Gang Guo</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>441931</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Inelastic Simulation of Insect Cuticle Using Artificial Neural Network</title>
+		<year>2005</year>
+		<authors>Bin Chen,Gang Chen,Hongtao Liu,Xianghe Peng,Jinghong Fan</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>442039</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Gradient BYY Harmony Learning Algorithm for Straight Line Detection</title>
+		<year>2008</year>
+		<authors>Gang Chen,Lei Li,Jinwen Ma</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443730</id>
+		<label>41</label>
+		<organization>Department of Information Science, School of Mathematical Sciences and LAMA, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>On Building and Updating Distributed LSI for P2P Systems</title>
+		<year>2005</year>
+		<authors>Sanfeng Zhang,Guoxin Wu,Gang Chen,Libo Xu</authors>
+		<jconf>ISPA Workshops</jconf>
+		<id>445388</id>
+		<label>40</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Subtyping Calculus of Construction (Extended Abstract)</title>
+		<year>1997</year>
+		<authors>Gang Chen</authors>
+		<jconf>MFCS</jconf>
+		<id>493335</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Liver Perfusion Analysis Based on Active Contours and Chamfer Matching</title>
+		<year>2006</year>
+		<authors>Gang Chen,Lixu Gu</authors>
+		<jconf>MIAR</jconf>
+		<id>495755</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GPMB - software pipelining branch-intensive loops</title>
+		<year>1993</year>
+		<authors>Zhizhong Tang,Gang Chen,Chihong Zhang,Yingwei Zhang,Bogong Su,Stanley Habib</authors>
+		<jconf>MICRO</jconf>
+		<id>499510</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Portrait video phone</title>
+		<year>2001</year>
+		<authors>Jiang Li,Gang Chen,Keman Yu,Heung-Yeung Shum,Jizheng Xu,Yong Wang,Hanning Zhou,King To Ng,Kaibo Wang,Lijie Wang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502535</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Portrait video phone</title>
+		<year>2001</year>
+		<authors>Jiang Li,Keman Yu,Gang Chen,Yong Wang,Hanning Zhou,Jizheng Xu,King To Ng,Kaibo Wang,Lijie Wang,Heung-Yeung Shum</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502566</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classifying Motion Time Series Using Neural Networks</title>
+		<year>2006</year>
+		<authors>Lidan Shou,Ge Gao,Gang Chen,Jinxiang Dong</authors>
+		<jconf>PCM</jconf>
+		<id>531934</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Agent-Mediated Genetic Super-Scheduling in Grid Environments</title>
+		<year>2004</year>
+		<authors>Gang Chen,Zhonghua Yang,Simon See,Jie Song</authors>
+		<jconf>PDCAT</jconf>
+		<id>532506</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coercive subtyping for the calculus of constructions</title>
+		<year>2003</year>
+		<authors>Gang Chen</authors>
+		<jconf>POPL</jconf>
+		<id>546083</id>
+		<label>44</label>
+		<organization>Boston University, Boston, MA</organization>
+	</publication>
+	<publication>
+		<title>Guarded recursive datatype constructors</title>
+		<year>2003</year>
+		<authors>Hongwei Xi,Chiyan Chen,Gang Chen</authors>
+		<jconf>POPL</jconf>
+		<id>546851</id>
+		<label>44</label>
+		<organization>Boston University</organization>
+	</publication>
+	<publication>
+		<title>Full integration of subtyping and if-expression</title>
+		<year>2002</year>
+		<authors>Gang Chen</authors>
+		<jconf>PPDP</jconf>
+		<id>548090</id>
+		<label>44</label>
+		<organization>Boston University, Boston, MA</organization>
+	</publication>
+	<publication>
+		<title>Music retrieval based on a multi-samples selection strategy for support vector machine active learning</title>
+		<year>2009</year>
+		<authors>Tian-Jiang Wang,Gang Chen,Perfecto Herrera</authors>
+		<jconf>SAC</jconf>
+		<id>569826</id>
+		<label>5</label>
+		<organization>Huazhong University of Science and Technology, Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Semi-supervised Multi-label Learning by Solving a Sylvester Equation</title>
+		<year>2008</year>
+		<authors>Gang Chen,Yangqiu Song,Fei Wang,Changshui Zhang</authors>
+		<jconf>SDM</jconf>
+		<id>579341</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>OBSI: Object Based Storage System for Massive Image Databases</title>
+		<year>2007</year>
+		<authors>Lihua Yu,Gang Chen,Yijun Bei,Feng Shao,Jinxiang Dong</authors>
+		<jconf>SNPD (1)</jconf>
+		<id>609164</id>
+		<label>5</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>XML Query Recommendation Based On Association Rules</title>
+		<year>2007</year>
+		<authors>Yijun Bei,Gang Chen,Lihua Yu,Feng Shao,Jinxiang Dong</authors>
+		<jconf>SNPD (3)</jconf>
+		<id>609516</id>
+		<label>5</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>Bitmap Filtering: An Efficient Speedup Method for XML Structural Matching</title>
+		<year>2007</year>
+		<authors>Feng Shao,Gang Chen,Lihua Yu,Yijun Bei,Jinxiang Dong</authors>
+		<jconf>SNPD (3)</jconf>
+		<id>609608</id>
+		<label>5</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>HISA: A Query System Bridging The Semantic Gap For Large Image Databases</title>
+		<year>2006</year>
+		<authors>Gang Chen,Xiaoyan Li,Lidan Shou,Jinxiang Dong,Chun Chen</authors>
+		<jconf>VLDB</jconf>
+		<id>642368</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Procedures to Identify Redundant Stuck-At Faults and Removal of Redundant Logic</title>
+		<year>2006</year>
+		<authors>Gang Chen,Sudhakar M. Reddy,Irith Pomeranz,Janusz Rajski</authors>
+		<jconf>VLSI Design</jconf>
+		<id>644974</id>
+		<label>10</label>
+		<organization>University of Iowa</organization>
+	</publication>
+	<publication>
+		<title>An Immunity-Based Intrusion Detection Solution for Database Systems</title>
+		<year>2005</year>
+		<authors>Ke Chen,Gang Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651887</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Watermarking Abstract Tree-Structured Data</title>
+		<year>2005</year>
+		<authors>Gang Chen,Ke Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651889</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GARWM: Towards a Generalized and Adaptive Watermark Scheme for Relational Data</title>
+		<year>2005</year>
+		<authors>Tianlei Hu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>651890</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Self-adaptive Statistics Management for Efficient Query Processing</title>
+		<year>2005</year>
+		<authors>Xiaojing Li,Gang Chen,Jinxiang Dong,Yuan Wang</authors>
+		<jconf>WAIM</jconf>
+		<id>651959</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classifying E-Mails Via Support Vector Machine</title>
+		<year>2006</year>
+		<authors>Lidan Shou,Bin Cui,Gang Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>652022</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MPX: A Multiversion Concurrency Control Protocol for XML Documents</title>
+		<year>2005</year>
+		<authors>Yuan Wang,Gang Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>652076</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BUXMiner: An Efficient Bottom-Up Approach to Mining XML Query Patterns</title>
+		<year>2007</year>
+		<authors>Yijun Bei,Gang Chen,Jinxiang Dong</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652191</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A State-Transfer-Based Dynamic Policy Approach for Constraints in RBAC</title>
+		<year>2005</year>
+		<authors>Cheng Zang,Zhongdong Huang,Gang Chen,Jinxiang Dong</authors>
+		<jconf>WAIM</jconf>
+		<id>652198</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Infrequently-Accessed File Correlations in Distributed File System</title>
+		<year>2007</year>
+		<authors>Lihua Yu,Gang Chen,Jinxiang Dong</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652334</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ant Colony Inspired Self-Healing for Resource Allocation in Service-Oriented Environment Considering Resource Breakdown</title>
+		<year>2008</year>
+		<authors>Rong Zhou,Ren Wei,Gang Chen,Zhonghua Yang,Haifeng Shen,Jingbing Zhang,Ming Luo</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655550</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Self-Healing for Service Flows with Semantic Web Services</title>
+		<year>2008</year>
+		<authors>Wei Ren,Gang Chen,Haifeng Shen,Zhonghua Yang,Jing-Bing Zhang,Chor Ping Low,David Chen,Chengzheng Sun</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655638</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Latent Image Semantic Indexing Scheme for Image Retrieval on the Web</title>
+		<year>2006</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Lujiang Ou</authors>
+		<jconf>WISE</jconf>
+		<id>663701</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design and Realization of E-Journals' Categorizing and Navigating System</title>
+		<year>2001</year>
+		<authors>Shao Zhengrong,Gang Chen</authors>
+		<jconf>WISE (2)</jconf>
+		<id>664039</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pivotbrowser: a tag-space image searching prototype</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Xiaolong Zhang,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>WWW</jconf>
+		<id>675342</id>
+		<label>5</label>
+		<organization>Zhejiang University, Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A Fast Document Classification Algorithm Based on Improved KNN</title>
+		<year>2006</year>
+		<authors>Ge Guo,Xijian Ping,Gang Chen</authors>
+		<jconf>ICICIC (3)</jconf>
+		<id>679535</id>
+		<label>11</label>
+		<organization>Dept. of Inf. Sci., Zhengzhou Inf. Sci. & Technol. Inst.</organization>
+	</publication>
+	<publication>
+		<title>OSNET - A Language for Domain Modeling</title>
+		<year>1998</year>
+		<authors>Ruqian Lu,Zhi Jin,Lin Liu,Guochuang Fan,Gang Chen,Xiaojin Xun,Sheng Wang</authors>
+		<jconf>TOOLS (27)</jconf>
+		<id>684196</id>
+		<label>5</label>
+		<organization>Inst. of Math., Acad. Sinica, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Research on Service Management Data Modeling Based on SID</title>
+		<year>2007</year>
+		<authors>Gang Chen,Baofei Yang,Wenan Zhou,Junde Song</authors>
+		<jconf>VTC Fall</jconf>
+		<id>687835</id>
+		<label>17</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Extremal search of decision policies for scalable distributed applications</title>
+		<year>2007</year>
+		<authors>Gang Chen,Chor Ping Low,Zhonghua Yang</authors>
+		<jconf>Infoscale</jconf>
+		<id>708969</id>
+		<label>1</label>
+		<organization>Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Simulation of Continuous Time-Invariant Systems in Simulation Based Learning Environments</title>
+		<year>2008</year>
+		<authors>Gang Chen,Yi Li,Jinyang Shi</authors>
+		<jconf>ICHL</jconf>
+		<id>719845</id>
+		<label>38</label>
+		<organization>Educational Technology Department, School of Journalism and Communication, Yangzhou University, Yangzhou, China 225002</organization>
+	</publication>
+	<publication>
+		<title>An Architecture for Automated Driving in Urban Environments</title>
+		<year>2007</year>
+		<authors>Gang Chen,Thierry Fraichard</authors>
+		<jconf>FSR</jconf>
+		<id>721789</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fine-Grained Progressive Algorithm Based on HMJ</title>
+		<year>2008</year>
+		<authors>Gang Chen,Guohui Li,Bing Yang,Xianghong Tang,Hui Chen</authors>
+		<jconf>CSSE (4)</jconf>
+		<id>729495</id>
+		<label>5</label>
+		<organization>Sch. of Comput. Sci. & Technol., Huazhong Univ. of Sci. & Technol.</organization>
+	</publication>
+	<publication>
+		<title>A Design of Data Rebuilding for Decision Support in E-Government System</title>
+		<year>2008</year>
+		<authors>Gang Chen</authors>
+		<jconf>ICYCS</jconf>
+		<id>730278</id>
+		<label>16</label>
+		<organization>Coll. of Math. & Comput. Sci., Jianghan Univ., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>A Fast Center of Mass Estimation Algorithm for Coordinates of IR Markers</title>
+		<year>2008</year>
+		<authors>Lingfei Zhang,Gang Chen,Dong Ye,Rensheng Che</authors>
+		<jconf>ICYCS</jconf>
+		<id>730423</id>
+		<label>15</label>
+		<organization>Dept. of Autom. Meas. & Control, Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Self-organized manufacturing resource management: An ant-colony inspired approach</title>
+		<year>2008</year>
+		<authors>Rong Zhou,Gang Chen,Zhonghua Yang,Ming Luo,Jing-Bing Zhang,C. H. Tan</authors>
+		<jconf>ICARCV</jconf>
+		<id>733161</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Semantic enhanced rule driven workflow execution in Collaborative Virtual Enterprise</title>
+		<year>2008</year>
+		<authors>Wei Ren,Gang Chen,Zhonghua Yang,Junhong Zhou,Jing-Bing Zhang,Chor Ping Low,David Chen,Chengzheng Sun</authors>
+		<jconf>ICARCV</jconf>
+		<id>733290</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>An improved dead reckoning method for mobile robot with redundant odometry information</title>
+		<year>2002</year>
+		<authors>De Xu,Min Tan,Gang Chen</authors>
+		<jconf>ICARCV</jconf>
+		<id>733419</id>
+		<label>1</label>
+		<organization>Inst. of autom., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Coordinating Multiple Agents via Reinforcement Learning</title>
+		<year>2005</year>
+		<authors>Gang Chen,Zhonghua Yang,Hao He,Kiah Mok Goh</authors>
+		<jconf>Autonomous Agents and Multi-Agent Systems</jconf>
+		<id>738608</id>
+		<label>1</label>
+		<organization>Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798</organization>
+	</publication>
+	<publication>
+		<title>Nanophotonics - quantum dots, photonic crystals, and optical silicon circuits: An excursion into the optical behavior of very small things</title>
+		<year>2005</year>
+		<authors>Mihaela Dinu,Ronen Rapaport,Gang Chen,Howard R. Stuart,Randy Giles</authors>
+		<jconf>Bell Labs Technical Journal</jconf>
+		<id>762074</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparative genomics and function analysis on BI1 family</title>
+		<year>2008</year>
+		<authors>Jinhua Zhou,Tao Zhu,Chunxia Hu,Hongyu Li,Gang Chen,Gang Xu,Shixuan Wang,Jianfeng Zhou,Ding Ma</authors>
+		<jconf>Computational Biology and Chemistry</jconf>
+		<id>782969</id>
+		<label>5</label>
+		<organization>Cancer Biology Research Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang Ave., Wuhan, Hubei, 430030, PR China</organization>
+	</publication>
+	<publication>
+		<title>Graphic sequences with a realization containing a generalized friendship graph</title>
+		<year>2008</year>
+		<authors>Jian-Hua Yin,Gang Chen,John R. Schmitt</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>855346</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transfer, processing and distribution of cosmic ray data from Tibet</title>
+		<year>2006</year>
+		<authors>Kai Nan,Yongzheng Ma,Hongmei Zhang,Gang Chen</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>876967</id>
+		<label>22</label>
+		<organization>Institute of High Energy Physics, Chinese Academy of Sciences, China</organization>
+	</publication>
+	<publication>
+		<title>Dependent Types with Subtyping and Late-Bound Overloading</title>
+		<year>2001</year>
+		<authors>Giuseppe Castagna,Gang Chen</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887416</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maintaining System State Information in a Multiagent Environment for Effective Learning</title>
+		<year>2005</year>
+		<authors>Gang Chen,Zhonghua Yang,Hao He,Kiah Mok Goh</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>895084</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Effective Method for Chinese Grammar Rule Learning</title>
+		<year>2001</year>
+		<authors>Chunfa Yuan,Gang Chen,Kam-Fai Wong,Wenjie Li</authors>
+		<jconf>Int. J. Comput. Proc. Oriental Lang.</jconf>
+		<id>907308</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bottom-up discovery of frequent rooted unordered subtrees</title>
+		<year>2009</year>
+		<authors>Yijun Bei,Gang Chen,Lidan Shou,Xiaoyan Li,Jinxiang Dong</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>943199</id>
+		<label>5</label>
+		<organization>College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China</organization>
+	</publication>
+	<publication>
+		<title>A New Rapid and Effective Chemistry Space Filter in Recognizing a Druglike Database</title>
+		<year>2005</year>
+		<authors>Suxin Zheng,Xiaomin Luo,Gang Chen,Weiliang Zhu,Jianhua Shen,Kaixian Chen,Hualiang Jiang</authors>
+		<jconf>Journal of Chemical Information and Modeling</jconf>
+		<id>969139</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Soundness of Coercion in the Calculus of Constructions</title>
+		<year>2004</year>
+		<authors>Gang Chen</authors>
+		<jconf>J. Log. Comput.</jconf>
+		<id>1007219</id>
+		<label>44</label>
+		<organization>Computer Science Department, Boston University, Boston, MA 02215, USA. E-mail: gangchen5@aol.com</organization>
+	</publication>
+	<publication>
+		<title>A New Systolic Architecture for Modular Division</title>
+		<year>2007</year>
+		<authors>Gang Chen,Guoqiang Bai,Hongyi Chen</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082920</id>
+		<label>36</label>
+		<organization>Inst. of Microelectron., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Image coding quality assessment using fuzzy integrals with a three-component image model</title>
+		<year>2004</year>
+		<authors>Junli Li,Gang Chen,Zheru Chi,Chenggang Lu</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1099717</id>
+		<label>18</label>
+		<organization>Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., China</organization>
+	</publication>
+	<publication>
+		<title>A fuzzy image metric with application to fractal coding</title>
+		<year>2002</year>
+		<authors>Junli Li,Gang Chen,Zheru Chi</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1101283</id>
+		<label>18</label>
+		<organization>Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., Kowloon</organization>
+	</publication>
+	<publication>
+		<title>Modeling Image Data for Effective Indexing and Retrieval in Large General Image Databases</title>
+		<year>2008</year>
+		<authors>Xiaoyan Li,Lidan Shou,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1114092</id>
+		<label>5</label>
+		<organization>Zhejiang University, Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous placement with clustering and duplication</title>
+		<year>2006</year>
+		<authors>Gang Chen,Jason Cong</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1117991</id>
+		<label>13</label>
+		<organization>Magma Design Automation, Santa Clara, CA</organization>
+	</publication>
+	<publication>
+		<title>A note on 'a mapping algorithm for computer-assisted exploration in the design of embedded systems</title>
+		<year>2007</year>
+		<authors>Gang Chen,Xiaoyu Song,Feng Liu,QingPing Tan,Fei He</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1118051</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordinated Services Provision in Peer-to-Peer Environments</title>
+		<year>2008</year>
+		<authors>Gang Chen,Chor Ping Low,Zhonghua Yang</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126353</id>
+		<label>1</label>
+		<organization>Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Search Performance in Unstructured P2P Networks Based on Users' Common Interest</title>
+		<year>2008</year>
+		<authors>Gang Chen,Chor Ping Low,Zhonghua Yang</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126371</id>
+		<label>1</label>
+		<organization>Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Heuristic Discovery of Role-Based Trust Chains in Peer-to-Peer Networks</title>
+		<year>2009</year>
+		<authors>Ke Chen,Kai Hwang,Gang Chen</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126452</id>
+		<label>5</label>
+		<organization>Zhejiang University, Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Design Wizards and Visual Programming Environments for GenVoca Generators</title>
+		<year>2000</year>
+		<authors>Don S. Batory,Gang Chen,Eric Robertson,Tao Wang</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1127462</id>
+		<label>35</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., Austin, TX</organization>
+	</publication>
+	<publication>
+		<title>Nonequilibrium electron and phonon transport and energy conversion in heterostructures</title>
+		<year>2003</year>
+		<authors>Taofang Zeng,Gang Chen</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155501</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Audio Feature Extraction Method Taking Class Information into Account</title>
+		<year>2006</year>
+		<authors>Gang Chen,Zimeng Chen</authors>
+		<jconf>Journal of Computer Research and Development</jconf>
+		<id>1163201</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lempel-Ziv Factorization Using Less Time  Space</title>
+		<year>2008</year>
+		<authors>Gang Chen,Simon J. Puglisi,William F. Smyth</authors>
+		<jconf>Mathematics in Computer Science</jconf>
+		<id>1180729</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordinating Agents in Shop Floor Environments From a Dynamic Systems Perspective</title>
+		<year>2006</year>
+		<authors>Gang Chen,Zhonghua Yang,Chor Ping Low</authors>
+		<jconf>IEEE Trans. Industrial Informatics</jconf>
+		<id>1187412</id>
+		<label>1</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Petri-net-based Context-related Access Control in Workflow Environment</title>
+		<year>2002</year>
+		<authors>Xin Dong,Gang Chen,Jianwei Yin,Jinxiang Dong</authors>
+		<jconf>CSCWD</jconf>
+		<id>1206663</id>
+		<label>5</label>
+		<organization>State Key Lab, Zhejiang Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Research on an Event Specification for Event-Based Collaboration Support Software Architecture</title>
+		<year>2002</year>
+		<authors>Ping-Peng Yuan,Gang Chen,Jinxiang Dong,Weili Han</authors>
+		<jconf>CSCWD</jconf>
+		<id>1206668</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci. & Eng., Zhejiang Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Modifying the DPClus algorithm for identifying protein complexes based on new topological structures</title>
+		<year>2008</year>
+		<authors>Min Li,Jianer Chen,Jianxin Wang,Bin Hu,Gang Chen</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1220741</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Indexing of Moving Objects with Highly Variable Update Frequencies</title>
+		<year>2008</year>
+		<authors>Nan Chen,Lidan Shou,Gang Chen,Jinxiang Dong</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1225932</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global stability of a class of Cohen-Grossberg neural networks with delays</title>
+		<year>2009</year>
+		<authors>Zhanshan Wang,Jian Feng,Gang Chen</authors>
+		<jconf>IJISTA</jconf>
+		<id>1230228</id>
+		<label>7</label>
+		<organization>Institute of Science, Shenyang Ligong University, Shenyang, Liaoning 110168, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>A Noise Insensitive Cluster Validity Measure for Pattern Classification</title>
+		<year>2009</year>
+		<authors>Gang Chen,Xiaoyong Guo,Tai Hu</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>1236199</id>
+		<label>6</label>
+		<organization>Lab. of Simulation of Space Inf., Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Cluster based rank query over multidimensional data streams</title>
+		<year>2009</year>
+		<authors>Dengcheng He,Yongluan Zhou,Lidan Shou,Gang Chen</authors>
+		<jconf>CIKM</jconf>
+		<id>1239313</id>
+		<label>5</label>
+		<organization>Zhejiang University, Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Formalization and Verification of PLC Timers in Coq</title>
+		<year>2009</year>
+		<authors>Hai Wan,Gang Chen,Xiaoyu Song,Ming Gu</authors>
+		<jconf>COMPSAC (1)</jconf>
+		<id>1239952</id>
+		<label>5</label>
+		<organization>Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A self-embedded watermarking scheme based on relationship function of corresponding inter-blocks DCT coefficient</title>
+		<year>2009</year>
+		<authors>Guobo Li,Songwen Pei,Gang Chen,Wenjun Cao,Baifeng Wu</authors>
+		<jconf>CSCWD</jconf>
+		<id>1240484</id>
+		<label>12</label>
+		<organization>School of Computer Science, Fudan University, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>GPGPU supported cooperative acceleration in molecular dynamics</title>
+		<year>2009</year>
+		<authors>Gang Chen,Guobo Li,Songwen Pei,Baifeng Wu</authors>
+		<jconf>CSCWD</jconf>
+		<id>1240547</id>
+		<label>12</label>
+		<organization>School of Computer Science, Fudan University, Shanghai 200433, China</organization>
+	</publication>
+	<publication>
+		<title>PISA: Federated Search in P2P Networks with Uncooperative Peers</title>
+		<year>2009</year>
+		<authors>Zujie Ren,Lidan Shou,Gang Chen,Chun Chen,Yijun Bei</authors>
+		<jconf>DEXA</jconf>
+		<id>1241650</id>
+		<label>5</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>On-line Evolutionary Exponential Family Mixture</title>
+		<year>2009</year>
+		<authors>Jianwen Zhang,Yangqiu Song,Gang Chen,Changshui Zhang</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249495</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Regression for Evaluating Convenience Store Location</title>
+		<year>2009</year>
+		<authors>Xinxin Bai,Gang Chen,Qiming Tian,Wenjun Yin,Jin Dong</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249509</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Assessment of Color Video Quality with Singular Value Decomposition of Complex Matrix</title>
+		<year>2009</year>
+		<authors>Fuqiang Zhang,Junli Li,Gang Chen,Jiaju Man</authors>
+		<jconf>IAS</jconf>
+		<id>1260248</id>
+		<label>18</label>
+		<organization>Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China</organization>
+	</publication>
+	<publication>
+		<title>Collaborative filtering using orthogonal nonnegative matrix tri-factorization</title>
+		<year>2009</year>
+		<authors>Gang Chen,Fei Wang,Changshui Zhang</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>1276274</id>
+		<label>5</label>
+		<organization>State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>A 0-1 LP Model for the Integration and Consolidation of Air Cargo Shipments</title>
+		<year>2009</year>
+		<authors>Lawrence C. Leung,Yer Van Hui,Yong Wang,Gang Chen</authors>
+		<jconf>Synthesis Lectures on Information Concepts, Retrieval, and Services</jconf>
+		<id>1289829</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Change propagation algorithm in a unified feature modeling scheme</title>
+		<year>2008</year>
+		<authors>Yongsheng Ma,Gang Chen,Georg Thimm</authors>
+		<jconf>Synthesis Lectures on Mathematics & Statistics</jconf>
+		<id>1291260</id>
+		<label>1</label>
+		<organization>School of MAE, Nanyang Technological University, Singapore 639798, Singapore</organization>
+	</publication>
+	<publication>
+		<title>N-distinguishing Tests for Enhanced Defect Diagnosis.</title>
+		<year>2009</year>
+		<authors>Gang Chen,Janusz Rajski,Sudhakar M. Reddy,Irith Pomeranz</authors>
+		<jconf>null</jconf>
+		<id>1302939</id>
+		<label>10</label>
+		<organization>Mentor Graphics Corp., Wilsonville, OR, USA</organization>
+	</publication>
+	<publication>
+		<title>An adaptive load balancing framework for parallel database systems based on collaborative agents.</title>
+		<year>2005</year>
+		<authors>Tianlei Hu,Gang Chen,Ke Chen,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304542</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A workflow-based distributed multidisciplinary design optimization framework.</title>
+		<year>2005</year>
+		<authors>Dongcai Shi,Jianwei Yin,Gang Chen,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304551</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>DXEC: integrating database, XML and email for collaboration.</title>
+		<year>2005</year>
+		<authors>Yuan Wang,Gang Chen,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304607</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A logical replication-based intrusion detection approach for CSCW system.</title>
+		<year>2005</year>
+		<authors>Ke Chen,Gang Chen,Tianlei Hu,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304653</id>
+		<label>5</label>
+		<organization>Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Complicated product oriented collaborative document management system.</title>
+		<year>2005</year>
+		<authors>Li Zhu,Jianwei Yin,Gang Chen,Jinxiang Dong</authors>
+		<jconf>null</jconf>
+		<id>1304704</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient multi-label classification with hypergraph regularization.</title>
+		<year>2009</year>
+		<authors>Gang Chen,Jianwen Zhang,Fei Wang,Changshui Zhang,Yuli Gao</authors>
+		<jconf>null</jconf>
+		<id>1304826</id>
+		<label>5</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Query Triggered Crawling Strategy: Build a Time Sensitive Vertical Search Engine.</title>
+		<year>2008</year>
+		<authors>Yu Wu,Lidan Shou,Tianlei Hu,Gang Chen</authors>
+		<jconf>null</jconf>
+		<id>1305209</id>
+		<label>5</label>
+		<organization>Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Efficient Holistic Twig Join Algorithm on XML Documents with Optimization Rules and Index.</title>
+		<year>2008</year>
+		<authors>Jinhua Jiang,Gang Chen,Lidan Shou,Ke Chen</authors>
+		<jconf>null</jconf>
+		<id>1305253</id>
+		<label>5</label>
+		<organization>Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>A Comparative Study of Parallel Prefix Adders in FPGA Implementation of EAC.</title>
+		<year>2009</year>
+		<authors>Feng Liu,Fariborz Fereydouni-Forouzandeh,Otmane Aït Mohamed,Gang Chen,Xiaoyu Song,QingPing Tan</authors>
+		<jconf>null</jconf>
+		<id>1305701</id>
+		<label>5</label>
+		<organization>Nat. Lab. of Parallel Distrib. Process., Hunan, China</organization>
+	</publication>
+	<publication>
+		<title>SpMT WaveCache: Exploiting Thread-Level Parallelism in WaveScalar.</title>
+		<year>2009</year>
+		<authors>Songwen Pei,Baifeng Wu,Min Du,Gang Chen,Leandro A. J. Marzulo,Felipe Maia Galvão França</authors>
+		<jconf>null</jconf>
+		<id>1317083</id>
+		<label>12</label>
+		<organization>Sch. of Comput. Sci., Fudan Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>A Method of Video Quality Assessment Based on the Sensitive Region.</title>
+		<year>2009</year>
+		<authors>Junli Li,Guoqing Lu,Gang Chen,Jiaju Man</authors>
+		<jconf>null</jconf>
+		<id>1317175</id>
+		<label>18</label>
+		<organization>Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China</organization>
+	</publication>
+	<publication>
+		<title>Tactical Communication Equipment Simulation Training Platform Based on VR.</title>
+		<year>2009</year>
+		<authors>Huifang Lv,Sihai Deng,ChunLei Guo,Gang Chen</authors>
+		<jconf>null</jconf>
+		<id>1317227</id>
+		<label>9</label>
+		<organization>Service Commanding Dept., Mil. Econ. Acad., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-feature Fusion Method of Driver Face Location Based on Area Coincidence Degree and Prior Knowledge.</title>
+		<year>2009</year>
+		<authors>Wei Sun,Weigong Zhang,Xiaorui Zhang,Gang Chen,Chengxu Lv</authors>
+		<jconf>null</jconf>
+		<id>1318391</id>
+		<label>40</label>
+		<organization>Dept. of Instrum. Sci. & Eng., Southeast Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Beyond Banditron: A Conservative and Efficient Reduction for Online Multiclass Prediction with Bandit Setting Model.</title>
+		<year>2009</year>
+		<authors>Guangyun Chen,Gang Chen,Jianwen Zhang,Shuo Chen,Changshui Zhang</authors>
+		<jconf>null</jconf>
+		<id>1319434</id>
+		<label>5</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Assessment of Color Video Quality Based on Quaternion Singular Value Decomposition.</title>
+		<year>2009</year>
+		<authors>Fuqiang Zhang,Junli Li,Jiaju Man,Gang Chen</authors>
+		<jconf>null</jconf>
+		<id>1322819</id>
+		<label>18</label>
+		<organization>Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China</organization>
+	</publication>
+	<publication>
+		<title>OTJFast: Processing Ordered XML Twig Join Fast.</title>
+		<year>2008</year>
+		<authors>Jinhua Jiang,Gang Chen,Lidan Shou,Ke Chen</authors>
+		<jconf>null</jconf>
+		<id>1327441</id>
+		<label>5</label>
+		<organization>Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Network Attack-Defense Simulation Training System Based on HLA.</title>
+		<year>2009</year>
+		<authors>Gang Chen,Shang Xiang,GuanQun Ji,YiLong Jia</authors>
+		<jconf>null</jconf>
+		<id>1328649</id>
+		<label>9</label>
+		<organization>Commun. Acad. Wuhan, Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Scene Simulation Platform Based on Data Fusion of Multiple Format 3D Models.</title>
+		<year>2009</year>
+		<authors>Gang Chen,Shang Xiang,GuanQun Ji,Quan Ding</authors>
+		<jconf>null</jconf>
+		<id>1328684</id>
+		<label>9</label>
+		<organization>Commun. Acad. Wuhan, Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Geometric Analysis of Particle Motion in a Vector Image Field.</title>
+		<year>2006</year>
+		<authors>Chenggang Lu,Zheru Chi,Gang Chen,David Dagan Feng</authors>
+		<jconf>Journal of Mathematical Imaging and Vision</jconf>
+		<id>1339152</id>
+		<label>18</label>
+		<organization>Institute of DSP and Software Techniques, Ningbo University, China</organization>
+	</publication>
+	<publication>
+		<title>Preserving and exploiting genetic diversity in evolutionary programming algorithms</title>
+		<year>2009</year>
+		<authors>Gang Chen,Chor Ping Low,Zhonghua Yang</authors>
+		<jconf>IEEE Transactions on Evolutionary Computation</jconf>
+		<id>1364889</id>
+		<label>1</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>An improved level set for liver segmentation and perfusion analysis in MRIs</title>
+		<year>2009</year>
+		<authors>Gang Chen,Lixu Gu,Lijun Qian,Jianrong Xu</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<id>1365083</id>
+		<label>0</label>
+		<organization>Image Guided Surgery and Therapy Laboratory, Med-X Research Institute and Department of Computer Science, Shanghai Jiao Tong University, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Study on Fast Fixed-Codebook Search Algorithm in G.729 Speech Coding</title>
+		<year>2009</year>
+		<authors>Li Li,Gang Chen</authors>
+		<jconf>Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 01</jconf>
+		<id>1365556</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Client Peer Adjustment Policy for Peer-to-Peer Media Streaming</title>
+		<year>2006</year>
+		<authors>Gang Chen,Guo-xin Wu</authors>
+		<jconf>Proceedings of the 2006 International Conference on Hybrid Information Technology - Volume 01</jconf>
+		<id>1373240</id>
+		<label>40</label>
+		<organization>Southeast University, Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Simulation Training Platform for Large Tactical Communication Equipment Based on VR</title>
+		<year>2009</year>
+		<authors>Gang Chen,YiLong Jia,Shang Xiang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 02</jconf>
+		<id>1389762</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ANSYS-Based Dynamic Analysis of High-Speed Motorized Spindle</title>
+		<year>2009</year>
+		<authors>Weiguang Li,Hongbin Pu,Quanquan Liu,Gang Chen,Song Zhang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 02</jconf>
+		<id>1392624</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GPMB&mdash;software pipelining branch-intensive loops</title>
+		<year>1993</year>
+		<authors>Zhihong Tang,Gang Chen,Chihong Zhang,Yingwei Zhang Bogong Su,Stanley Habib</authors>
+		<jconf>Proceedings of the 26th annual international symposium on Microarchitecture</jconf>
+		<id>1395401</id>
+		<label>5</label>
+		<organization>Dept. of Computer Science, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>An Unified Fault Model and Test Generation Procedure for Interconnect Opens and Bridges</title>
+		<year>2005</year>
+		<authors>Gang Chen,Sudhakar Reddy,Irith Pomeranz,Janusz Rajski,Piet Engelke,Bernd Becker</authors>
+		<jconf>Proceedings of the 10th IEEE European Symposium on Test</jconf>
+		<id>1412990</id>
+		<label>10</label>
+		<organization>University of Iowa</organization>
+	</publication>
+	<publication>
+		<title>Image Retrieval Based on Sugeno Fuzzy Integral</title>
+		<year>2004</year>
+		<authors>Junli Li,Zheru Chi,Gang Chen</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1414798</id>
+		<label>18</label>
+		<organization>Ningbo University</organization>
+	</publication>
+	<publication>
+		<title>A mathematical model for bifurcations in a Belousov-Zhabotinsky reaction</title>
+		<year>2000</year>
+		<authors>Gang Chen</authors>
+		<jconf>Physica D</jconf>
+		<id>1574488</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predictive Queries Algorithm Based on Probability Model over Data Streams</title>
+		<year>2007</year>
+		<authors>Guohui Li,Hui Chen,Bing Yang,Gang Chen,Jun Xiang</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 01</jconf>
+		<id>1581446</id>
+		<label>5</label>
+		<organization>Huazhong University of Science and Technology, China</organization>
+	</publication>
+	<publication>
+		<title>BCM Mechanism Based on Infinite-horizon Growth Model in E-commerce</title>
+		<year>2009</year>
+		<authors>Gang Chen</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01</jconf>
+		<id>1653658</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Development of Small-Size Stiffness Surveying Instrument for Sheet Metal</title>
+		<year>2009</year>
+		<authors>Rong Lu,Xiangning Lu,Gang Chen</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 01</jconf>
+		<id>1655373</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web-Based Service Management of Distributed Learning</title>
+		<year>2009</year>
+		<authors>Gang Chen</authors>
+		<jconf>Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 01</jconf>
+		<id>1656661</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unified synthesis techniques for high performance fpga designs</title>
+		<year>2005</year>
+		<authors>Gang Chen</authors>
+		<jconf>null</jconf>
+		<id>1707614</id>
+		<label>13</label>
+		<organization>University of California, Los Angeles</organization>
+	</publication>
+	<publication>
+		<title>Statistical error analysis for the direct simulation Monte Carlo technique</title>
+		<year>1996</year>
+		<authors>Gang Chen,Iain D. Boyd</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1713247</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Deploying HEP Applications on Multiple Grid Infrastructures</title>
+		<year>2008</year>
+		<authors>Yaodong Cheng,Gang Chen,Yongjian Wang,Shuaijie Wang</authors>
+		<jconf>Proceedings of the 2008 Seventh International Conference on Grid and Cooperative Computing</jconf>
+		<id>1752684</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+</person>

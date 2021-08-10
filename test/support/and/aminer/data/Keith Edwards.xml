@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>220091</personID>
+	<FullName>Keith Edwards</FullName>
+	<FirstName>Keith</FirstName>
+	<LastName>Edwards</LastName>
+	<publication>
+		<title>An Algorithm for Finding Large Induced Planar Subgraphs</title>
+		<year>2001</year>
+		<authors>Keith Edwards,Graham Farr</authors>
+		<jconf>Graph Drawing</jconf>
+		<id>224785</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Empirical Study of a Qualitative Systematic Approach to Requirements Analysis (QSARA)</title>
+		<year>2004</year>
+		<authors>Ban Al-Ani,Keith Edwards</authors>
+		<jconf>ISESE</jconf>
+		<id>435149</id>
+		<label>1</label>
+		<organization>University of Western Ontario</organization>
+	</publication>
+	<publication>
+		<title>Detachments of Complete Graphs</title>
+		<year>2005</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Combinatorics, Probability  Computing</jconf>
+		<id>830903</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Harmonious Chromatic Number of Almost All Trees</title>
+		<year>1995</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Combinatorics, Probability  Computing</jconf>
+		<id>830904</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Harmonious Chromatic Number of Bounded Degree Trees</title>
+		<year>1996</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Combinatorics, Probability  Computing</jconf>
+		<id>830905</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On monochromatic component size for improper colourings</title>
+		<year>2005</year>
+		<authors>Keith Edwards,Graham Farr</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>836674</id>
+		<label>0</label>
+		<organization>Division of Applied Computing, University of Dundee, Dundee DD1 4HN, UK</organization>
+	</publication>
+	<publication>
+		<title>The Complexity of Harmonious Colouring for Trees</title>
+		<year>1995</year>
+		<authors>Keith Edwards,Colin McDiarmid</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>836675</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The complexity of some graph colouring problems</title>
+		<year>1992</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>839252</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The computational complexity of cordial and equitable labelling</title>
+		<year>2000</year>
+		<authors>Niall Cairnie,Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>847173</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Edge decomposition of complete tripartite graphs</title>
+		<year>2003</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>847516</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The harmonious chromatic number of complete r-ary trees</title>
+		<year>1999</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>851489</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The achromatic number of bounded degree trees</title>
+		<year>1998</year>
+		<authors>Niall Cairnie,Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>852031</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a problem concerning piles of counters</title>
+		<year>1996</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>854234</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2008</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>855152</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Planarization and fragmentability of some classes of graphs</title>
+		<year>2008</year>
+		<authors>Keith Edwards,Graham Farr</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>855646</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Neighbour-Distinguishing Index of a Graph</title>
+		<year>2006</year>
+		<authors>Keith Edwards,Mirko Hornak,Mariusz Wozniak</authors>
+		<jconf>Graphs and Combinatorics</jconf>
+		<id>883356</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fragmentability of Graphs</title>
+		<year>2001</year>
+		<authors>Keith Edwards,Graham Farr</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>975456</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Complexity of Colouring Problems on Dense Graphs</title>
+		<year>1986</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1090785</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new upper bound for the harmonious chromatic number</title>
+		<year>1998</year>
+		<authors>Keith Edwards</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1377672</id>
+		<label>0</label>
+		<organization>Department of Applied Computing, University of Dundee, Dundee, DD1 4HN, U.K.</organization>
+	</publication>
+	<publication>
+		<title>Real-time structured methods: systems analysis</title>
+		<year>1993</year>
+		<authors>Keith Edwards</authors>
+		<jconf>null</jconf>
+		<id>1510790</id>
+		<label>2</label>
+		<organization>RTSM Consultants Ltd., UK</organization>
+	</publication>
+	<publication>
+		<title>Jini Example by Example</title>
+		<year>2001</year>
+		<authors>Keith Edwards,Tom Rodden</authors>
+		<jconf>null</jconf>
+		<id>1528220</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Smart homes or homes that smart?</title>
+		<year>2003</year>
+		<authors>Gregory Abowd,Keith Edwards,Beki Grinter</authors>
+		<jconf>ACM SIGCHI Bulletin - a supplement to interactions</jconf>
+		<id>1557688</id>
+		<label>3</label>
+		<organization>Palo Alto Research Center (PARC)</organization>
+	</publication>
+	<publication>
+		<title>Intelligibility and accountability: human considerations in context-aware systems</title>
+		<year>2001</year>
+		<authors>Victoria Bellotti,Keith Edwards</authors>
+		<jconf>Human-computer interaction</jconf>
+		<id>1750383</id>
+		<label>3</label>
+		<organization>Xerox Palo Alto Research Center, Palo Alto, CA</organization>
+	</publication>
+</person>

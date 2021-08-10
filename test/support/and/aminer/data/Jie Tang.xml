@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>13419</personID>
+	<FullName>Jie Tang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Anisotropic Feature-Preserving Smoothing of 3D Mesh</title>
+		<year>2005</year>
+		<authors>Jie Tang,Fuyan Zhang</authors>
+		<jconf>CGIV</jconf>
+		<id>8079</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Unified Tagging Approach to Text Normalization</title>
+		<year>2007</year>
+		<authors>Conghui Zhu,Jie Tang,Hang Li,Hwee Tou Ng,Tiejun Zhao</authors>
+		<jconf>ACL</jconf>
+		<id>21605</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Similarity Based Ontology Cache</title>
+		<year>2006</year>
+		<authors>Bangyong Liang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>APWeb</jconf>
+		<id>48172</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Table Detection from Plain Text Using Machine Learning and Document Structure</title>
+		<year>2006</year>
+		<authors>Juan-Zi Li,Jie Tang,Qiang Song,Peng Xu</authors>
+		<jconf>APWeb</jconf>
+		<id>48286</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Loss Minimization Based Keyword Distillation</title>
+		<year>2004</year>
+		<authors>Jie Tang,Juan-Zi Li,Kehong Wang,Yue-Ru Cai</authors>
+		<jconf>APWeb</jconf>
+		<id>48391</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Weighted Ontology-Based Search Exploiting Semantic Similarity</title>
+		<year>2006</year>
+		<authors>Kuo Zhang,Jie Tang,MingCai Hong,Juan-Zi Li,Wei Wei</authors>
+		<jconf>APWeb</jconf>
+		<id>48550</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Annotation Using Horizontal and Vertical Contexts</title>
+		<year>2006</year>
+		<authors>MingCai Hong,Jie Tang,Juan-Zi Li</authors>
+		<jconf>ASWC</jconf>
+		<id>54566</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Risk Minimization Based Ontology Mapping</title>
+		<year>2004</year>
+		<authors>Jie Tang,Bangyong Liang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>AWCC</jconf>
+		<id>61586</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Component Retrieval Method Based on Facet-Weight Self-learning</title>
+		<year>2004</year>
+		<authors>Xiaoqin Xie,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>AWCC</jconf>
+		<id>61594</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Based Web Services Discovery</title>
+		<year>2004</year>
+		<authors>Jianjun Xu,Qian Zhu,Juan-Zi Li,Jie Tang,Po Zhang,Kehong Wang</authors>
+		<jconf>AWCC</jconf>
+		<id>61596</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A constraint-based probabilistic framework for name disambiguation</title>
+		<year>2007</year>
+		<authors>Duo Zhang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>CIKM</jconf>
+		<id>96337</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Academic conference homepage understanding using constrained hierarchical conditional random fields</title>
+		<year>2008</year>
+		<authors>Xin Xin,Juanzi Li,Jie Tang,Qiong Luo</authors>
+		<jconf>CIKM</jconf>
+		<id>96524</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Verification of Web Service Conversations Specified in WSCL</title>
+		<year>2007</year>
+		<authors>Zhifeng Gu,Juan-Zi Li,Jie Tang,Bin Xu,Ruobo Huang</authors>
+		<jconf>COMPSAC (2)</jconf>
+		<id>113404</id>
+		<label>1</label>
+		<organization>DCST, Tsinghua Univ., Beijing, 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Expert Finding in a Social Network</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Jie Tang,Juan-Zi Li</authors>
+		<jconf>DASFAA</jconf>
+		<id>141094</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Content-Based 3D Model Retrieval for Digital Museum</title>
+		<year>2006</year>
+		<authors>Jie Tang,Fuyan Zhang</authors>
+		<jconf>Edutainment</jconf>
+		<id>178055</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Keyword Extraction Based Peer Clustering</title>
+		<year>2004</year>
+		<authors>Bangyong Liang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>GCC</jconf>
+		<id>223801</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research of Satisfying Atomic and Anonymous Electronic Commerce Protocol</title>
+		<year>2003</year>
+		<authors>Jie Tang,Juan-Zi Li,Kehong Wang,Yue-Ru Cai</authors>
+		<jconf>GCC (2)</jconf>
+		<id>224002</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Subdivision Interpolating Polygonization of Implicit Surfaces with Normal Meshes</title>
+		<year>2006</year>
+		<authors>Mingyong Pang,Zhigeng Pan,Jie Tang,Fuyan Zhang</authors>
+		<jconf>ICAT Workshops</jconf>
+		<id>273897</id>
+		<label>0</label>
+		<organization>Nanjing Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Feature-Correlation Based Multi-view Detection</title>
+		<year>2005</year>
+		<authors>Kuo Zhang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>ICCSA (4)</jconf>
+		<id>292290</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Social Network Extraction of Academic Researchers</title>
+		<year>2007</year>
+		<authors>Jie Tang,Duo Zhang,Limin Yao</authors>
+		<jconf>ICDM</jconf>
+		<id>303438</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Topic Modeling Approach and Its Integration into the Random Walk Framework for Academic Search</title>
+		<year>2008</year>
+		<authors>Jie Tang,Ruoming Jin,Jing Zhang</authors>
+		<jconf>ICDM</jconf>
+		<id>303689</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Email data cleaning</title>
+		<year>2005</year>
+		<authors>Jie Tang,Hang Li,Yunbo Cao,ZhaoHui Tang</authors>
+		<jconf>KDD</jconf>
+		<id>473336</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>ArnetMiner: extraction and mining of academic social networks</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Limin Yao,Juanzi Li,Li Zhang,Zhong Su</authors>
+		<jconf>KDD</jconf>
+		<id>473726</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Mixture Model for Expert Finding</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Jie Tang,Liu Liu,Juan-Zi Li</authors>
+		<jconf>PAKDD</jconf>
+		<id>527619</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Discriminative Approach to Topic-Based Citation Recommendation</title>
+		<year>2009</year>
+		<authors>Jie Tang,Jing Zhang</authors>
+		<jconf>PAKDD</jconf>
+		<id>527702</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>Research of Atomic and Anonymous Electronic Commerce Protocol</title>
+		<year>2003</year>
+		<authors>Jie Tang,Juan-Zi Li,Kehong Wang,Yue-Ru Cai</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>562014</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tree-Structured Conditional Random Fields for Semantic Annotation</title>
+		<year>2006</year>
+		<authors>Jie Tang,MingCai Hong,Juan-Zi Li,Bangyong Liang</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<id>583790</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Result of Ontology Alignment with RiMOM at OAEI'06</title>
+		<year>2006</year>
+		<authors>Yi Li,Juan-Zi Li,Duo Zhang,Jie Tang</authors>
+		<jconf>Ontology Matching</jconf>
+		<id>583868</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ArnetMiner: An Expertise Oriented Search System for Web Community</title>
+		<year>2007</year>
+		<authors>Jie Tang,Jing Zhang,Duo Zhang,Limin Yao,Chunlin Zhu,Juan-Zi Li</authors>
+		<jconf>Semantic Web Challenge</jconf>
+		<id>583919</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Result of Ontology Alignment with RiMOM at OAEI07</title>
+		<year>2007</year>
+		<authors>Yi Li,Qian Zhong,Juanzi Li,Jie Tang</authors>
+		<jconf>OM</jconf>
+		<id>584164</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RiMOM Results for OAEI 2008</title>
+		<year>2008</year>
+		<authors>Xiao Zhang,Qian Zhong,Juanzi Li,Jie Tang</authors>
+		<jconf>OM</jconf>
+		<id>584168</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Keyword Extraction Using Support Vector Machine</title>
+		<year>2006</year>
+		<authors>Kuo Zhang,Hui Xu,Jie Tang,Juan-Zi Li</authors>
+		<jconf>WAIM</jconf>
+		<id>652228</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Name Disambiguation Using Atomic Clusters</title>
+		<year>2008</year>
+		<authors>Feng Wang,Juanzi Li,Jie Tang,Jing Zhang,Kehong Wang</authors>
+		<jconf>WAIM</jconf>
+		<id>652256</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Path Similarity Based Directory Ontology Matching</title>
+		<year>2008</year>
+		<authors>Qian Zhong,Juanzi Li,Jie Tang,Yi Li,Lizhu Zhou</authors>
+		<jconf>WAIM</jconf>
+		<id>652257</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Expertise Search in a Time-Varying Social Network</title>
+		<year>2008</year>
+		<authors>Yize Li,Jie Tang</authors>
+		<jconf>WAIM</jconf>
+		<id>652356</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recommendation over a Heterogeneous Social Network</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Jie Tang,Bangyong Liang,Zi Yang,Sijie Wang,Jingjing Zuo,Juanzi Li</authors>
+		<jconf>WAIM</jconf>
+		<id>652393</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Topic-Level Random Walk through Probabilistic Model</title>
+		<year>2009</year>
+		<authors>Zi Yang,Jie Tang,Jing Zhang,Juanzi Li,Bo Gao</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652412</id>
+		<label>1</label>
+		<organization>Department of Computer Science & Technology, Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>Query-Focused Summarization by Combining Topic Model and Affinity Propagation</title>
+		<year>2009</year>
+		<authors>Dewei Chen,Jie Tang,Limin Yao,Juanzi Li,Lizhu Zhou</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652449</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>Using DAML+OIL to Enhance Search Semantic</title>
+		<year>2004</year>
+		<authors>Bangyong Liang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>654904</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Unified Approach to Researcher Profiling</title>
+		<year>2007</year>
+		<authors>Limin Yao,Jie Tang,Juan-Zi Li</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655454</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing Semantic Web by Semantic Annotation: Experiences in Building an Automatic Conference Calendar</title>
+		<year>2007</year>
+		<authors>Xin Xin,Juan-Zi Li,Jie Tang</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655504</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Association search in semantic web: search + inference</title>
+		<year>2005</year>
+		<authors>Bangyong Liang,Jie Tang,Juan-Zi Li</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674301</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple strategies detection in ontology mapping</title>
+		<year>2005</year>
+		<authors>Jie Tang,Yong Liang,Zi Li</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674716</id>
+		<label>1</label>
+		<organization>Tsinghua University, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>EOS: expertise oriented search using social networks</title>
+		<year>2007</year>
+		<authors>Juan-Zi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong</authors>
+		<jconf>WWW</jconf>
+		<id>675121</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>WWW 2008 workshop on social web search and mining: SWSM2008</title>
+		<year>2008</year>
+		<authors>Juan-Zi Li,Gui-Rong Xue,Jie Tang,Ying Ding</authors>
+		<jconf>WWW</jconf>
+		<id>675391</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Extraction and mining of an academic social network</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Limin Yao,Juan-Zi Li</authors>
+		<jconf>WWW</jconf>
+		<id>675428</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A unified framework for name disambiguation</title>
+		<year>2008</year>
+		<authors>Jie Tang,Jing Zhang,Duo Zhang,Juanzi Li</authors>
+		<jconf>WWW</jconf>
+		<id>675438</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Discovering the staring people from social networks</title>
+		<year>2009</year>
+		<authors>Dewei Chen,Jie Tang,Juanzi Li,Lizhu Zhou</authors>
+		<jconf>WWW</jconf>
+		<id>675545</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>SWARMS: A New Tool for Domain Exploration in Semantic Web</title>
+		<year>2006</year>
+		<authors>Bangyong Liang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>SKG</jconf>
+		<id>681038</id>
+		<label>1</label>
+		<organization>Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>User Profile Management for Personalized Telecom Service</title>
+		<year>2008</year>
+		<authors>Huan Wang,Xiaomin Shi,Yan Li,Heng Chang,Weiliang Chen,Jie Tang,Eduardo Martins</authors>
+		<jconf>ICYCS</jconf>
+		<id>730499</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>iASA: Learning to Annotate the Semantic Web</title>
+		<year>2005</year>
+		<authors>Jie Tang,Juan-Zi Li,Hongjun Lu,Bangyong Liang,Xiaotong Huang,Kehong Wang</authors>
+		<jconf>J. Data Semantics IV</jconf>
+		<id>986535</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Bayesian decision for ontology mapping</title>
+		<year>2006</year>
+		<authors>Jie Tang,Juan-Zi Li,Bangyong Liang,Xiaotong Huang,Yi Li,Kehong Wang</authors>
+		<jconf>J. Web Sem.</jconf>
+		<id>1141676</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China</organization>
+	</publication>
+	<publication>
+		<title>Rebuild of King Fang 40 BC musical scales by He's inequality</title>
+		<year>2005</year>
+		<authors>Ji-Huan He,Jie Tang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148894</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Arnetminer: expertise oriented search using social networks</title>
+		<year>2008</year>
+		<authors>Juanzi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<id>1185492</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Social influence analysis in large-scale networks</title>
+		<year>2009</year>
+		<authors>Jie Tang,Jimeng Sun,Chi Wang,Zi Yang</authors>
+		<jconf>KDD</jconf>
+		<id>1212469</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-topic Based Query-Oriented Summarization</title>
+		<year>2009</year>
+		<authors>Jie Tang,Limin Yao,Dewei Chen</authors>
+		<jconf>SDM</jconf>
+		<id>1213506</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A gauss function based approach for unbalanced ontology matching</title>
+		<year>2009</year>
+		<authors>Qian Zhong,Hanyu Li,Juanzi Li,Guo Tong Xie,Jie Tang,Lizhu Zhou,Yue Pan</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>1214244</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Heterogeneous cross domain ranking in latent space</title>
+		<year>2009</year>
+		<authors>Bo Wang,Jie Tang,Wei Fan,Songcan Chen,Zi Yang,Yanzhu Liu</authors>
+		<jconf>CIKM</jconf>
+		<id>1239375</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A tag recommendation system for folksonomy</title>
+		<year>2009</year>
+		<authors>Ning Zhang,Yuan Zhang,Jie Tang</authors>
+		<jconf>Mathematics and Its Applications</jconf>
+		<id>1239571</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>The Fuzzy PI Control for the DSTATCOM Based on the Balance of Instantaneous Power</title>
+		<year>2009</year>
+		<authors>Qun-Feng Zhu,Lei Huang,Zhan-Bin Hu,Jie Tang</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>1247378</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Ontology Learning from Folksonomies</title>
+		<year>2009</year>
+		<authors>Jie Tang,Ho-fung Leung,Qiong Luo,Dewei Chen,Jibin Gong</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249645</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Stable Conditions of a Task-Pair with Helper-Thread in CMP</title>
+		<year>2009</year>
+		<authors>Zhimin Gu,Ninghan Zheng,Yi Zhang,Changding Liu,Jie Tang,Yan Huang</authors>
+		<jconf>PDPTA</jconf>
+		<id>1254060</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Actively Learning Ontology Matching via User Interaction</title>
+		<year>2009</year>
+		<authors>Feng Shi,Juanzi Li,Jie Tang,Guo Tong Xie,Hanyu Li</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<id>1255468</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>RiMOM: A Dynamic Multistrategy Ontology Alignment Framework</title>
+		<year>2009</year>
+		<authors>Juanzi Li,Jie Tang,Yi Li,Qiong Luo</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1281907</id>
+		<label>1</label>
+		<organization>Tsinghua University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>RiMOM Results for OAEI 2009.</title>
+		<year>2009</year>
+		<authors>Xiao Zhang,Qian Zhong,Feng Shi,Juanzi Li,Jie Tang</authors>
+		<jconf>null</jconf>
+		<id>1309708</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topic Distributions over Links on Web.</title>
+		<year>2009</year>
+		<authors>Jie Tang,Jing Zhang,Jeffrey Xu Yu,Zi Yang,Keke Cai,Rui Ma,Li Zhang,Zhong Su</authors>
+		<jconf>null</jconf>
+		<id>1319502</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+</person>

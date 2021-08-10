@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10867</personID>
+	<FullName>Young Park</FullName>
+	<FirstName>Young</FirstName>
+	<LastName>Park</LastName>
+	<publication>
+		<title>An execution-based retrieval of object-oriented components</title>
+		<year>1999</year>
+		<authors>Hongjian Niu,Young Park</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6658</id>
+		<label>0</label>
+		<organization>School of Computer Science, University of Windsor</organization>
+	</publication>
+	<publication>
+		<title>Organizing and retrieving class components based on types for reuse</title>
+		<year>1999</year>
+		<authors>Young Park</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6683</id>
+		<label>0</label>
+		<organization>School of Computer Science, University of Windsor</organization>
+	</publication>
+	<publication>
+		<title>Software Component Retrieval by Samples Using Concept Analysis</title>
+		<year>1999</year>
+		<authors>Young Park</authors>
+		<jconf>Applied Informatics</jconf>
+		<id>46373</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Structured Approach to Program Reuse Library</title>
+		<year>1999</year>
+		<authors>Young Park,Nancy An</authors>
+		<jconf>Applied Informatics</jconf>
+		<id>46384</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Temporal Information in Collaborative Filtering: An Empirical Study</title>
+		<year>2006</year>
+		<authors>Young Park,Tong-Queue Lee</authors>
+		<jconf>CSREA EEE</jconf>
+		<id>125704</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Time-Based Recommender System Using Implicit Feedback</title>
+		<year>2006</year>
+		<authors>Tong-Queue Lee,Young Park</authors>
+		<jconf>CSREA EEE</jconf>
+		<id>125711</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transition: Recommending Mobile Content using Content Diffusion and User Preference</title>
+		<year>2008</year>
+		<authors>Tong-Queue Lee,Eunchang Lee,Young Park,Yongtae Park</authors>
+		<jconf>CSREA EEE</jconf>
+		<id>125839</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Combined Technique of Non-uniform Loops</title>
+		<year>2006</year>
+		<authors>Sam Jeong,Kun Hee Han,Young Park</authors>
+		<jconf>GPC</jconf>
+		<id>235431</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Structured Approach to Retrieving Functions by Types</title>
+		<year>1998</year>
+		<authors>Nancy An,Young Park</authors>
+		<jconf>ICFP</jconf>
+		<id>309854</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Similarity Measure for Collaborative Filtering with Implicit Feedback</title>
+		<year>2007</year>
+		<authors>Tong-Queue Lee,Young Park,Yong-Tae Park</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314139</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Search Using Dynamic Keyword Suggestion Based on Formal Concept Analysis</title>
+		<year>2001</year>
+		<authors>Bong-Seop Kim,Young Park</authors>
+		<jconf>IRI</jconf>
+		<id>414274</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent and Effective Digital Watermarking Scheme for Mobile Content Service</title>
+		<year>2005</year>
+		<authors>Hang-Rae Kim,Young Park,Mi-Hee Yoon,Yoon Ho Kim</authors>
+		<jconf>KES (1)</jconf>
+		<id>474744</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A time-based approach to effective recommender systems using implicit feedback</title>
+		<year>2008</year>
+		<authors>Tong-Queue Lee,Young Park,Yong-Tae Park</authors>
+		<jconf>Expert Syst. Appl.</jconf>
+		<id>873208</id>
+		<label>3</label>
+		<organization>Department of Computer Science and Information Systems, Bradley University, Peoria, IL 61625, USA</organization>
+	</publication>
+	<publication>
+		<title>Static Analysis for Optimizing Reference Counting</title>
+		<year>1995</year>
+		<authors>Young Park,Benjamin Goldberg</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>933291</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Software retrieval by samples using concept analysis</title>
+		<year>2000</year>
+		<authors>Young Park</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>996977</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A methodology for predicting service life and design of reliability experiments</title>
+		<year>2006</year>
+		<authors>P. Sadegh,A. Thompson,Xiaodong Luo,Young Park,T. Sienel</authors>
+		<jconf>IEEE Transactions on Reliability</jconf>
+		<id>1126734</id>
+		<label>8</label>
+		<organization>United Technol. Res. Center, East Hartford, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Cyworld is my world: Korean adult experiences in an online community for learning</title>
+		<year>2008</year>
+		<authors>Young Park,Gyeong Mi Heo,Romee Lee</authors>
+		<jconf>IJWBC</jconf>
+		<id>1171388</id>
+		<label>1</label>
+		<organization>Department of Mathematics, Science, and Technology in Education, Teachers College, Columbia University, New York, NY, USA.</organization>
+	</publication>
+	<publication>
+		<title>An empirical study on effectiveness of temporal information as implicit ratings</title>
+		<year>2009</year>
+		<authors>Tong-Queue Lee,Young Park,Yong-Tae Park</authors>
+		<jconf>Expert Syst. Appl.</jconf>
+		<id>1272086</id>
+		<label>3</label>
+		<organization>Department of Computer Science and Information Systems Bradley University, Peoria, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>e-Gov Net Based Emergency Management Service.</title>
+		<year>2008</year>
+		<authors>Yoon Ho Kim,Young Park</authors>
+		<jconf>null</jconf>
+		<id>1312053</id>
+		<label>7</label>
+		<organization>Div. of Comput. Eng., Mokwon Univ., South Korea</organization>
+	</publication>
+	<publication>
+		<title>Blackboard scheduler control knowledge for heuristic classification: Representation and inference</title>
+		<year>1993</year>
+		<authors>Young Park</authors>
+		<jconf>null</jconf>
+		<id>1417393</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Electrical properties of Pb(Zr,Ti)O3 films prepared on ITO glass</title>
+		<year>2008</year>
+		<authors>Hyun-Suk Hwang,Young Park,Won Seok Choi</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1752010</id>
+		<label>4</label>
+		<organization>Signaling and Electrical Engineering Research Department, Korea Railroad Research Institute, Uiwang 437-757, Republic of Korea</organization>
+	</publication>
+</person>

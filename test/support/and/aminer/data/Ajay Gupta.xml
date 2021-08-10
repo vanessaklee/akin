@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>22097</personID>
+	<FullName>Ajay Gupta</FullName>
+	<FirstName>Ajay</FirstName>
+	<LastName>Gupta</LastName>
+	<publication>
+		<title>Explanation-based Failure Recovery</title>
+		<year>1987</year>
+		<authors>Ajay Gupta</authors>
+		<jconf>AAAI</jconf>
+		<id>13048</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Time Representation in Prolog Circuit Modelling</title>
+		<year>1991</year>
+		<authors>Yossi Lichtenstein,Bob Welham,Ajay Gupta</authors>
+		<jconf>ALPUK</jconf>
+		<id>39153</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Deployment of Triggers for Detecting Events</title>
+		<year>2004</year>
+		<authors>Manish Bhide,Ajay Gupta,Mukul Joshi,Mukesh K. Mohania</authors>
+		<jconf>DEXA</jconf>
+		<id>149270</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Page Ranking Based on Events</title>
+		<year>2004</year>
+		<authors>Ajay Gupta,Manish Bhide,Mukesh K. Mohania</authors>
+		<jconf>EC-Web</jconf>
+		<id>175996</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards</title>
+		<year>1991</year>
+		<authors>Daryl Allred,Yossi Lichtenstein,Chris Preist,Michael A. Bennett,Ajay Gupta</authors>
+		<jconf>IAAI</jconf>
+		<id>258611</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Management of Conflicting Obligations in Self-Protecting Policy-Based Systems</title>
+		<year>2005</year>
+		<authors>Rema Ananthanarayanan,Mukesh K. Mohania,Ajay Gupta</authors>
+		<jconf>ICAC</jconf>
+		<id>264268</id>
+		<label>2</label>
+		<organization>IBM India Res. Lab, New Delhi</organization>
+	</publication>
+	<publication>
+		<title>Policy Framework for Autonomic Data Managemen</title>
+		<year>2004</year>
+		<authors>Manish Bhide,Ajay Gupta,Mukul Joshi,Mukesh K. Mohania,Shree Raman</authors>
+		<jconf>ICAC</jconf>
+		<id>264291</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Lagrangean Relaxation for Service Location Planning with QoS Constraints in Large-Scale Networks</title>
+		<year>2008</year>
+		<authors>Zill-E-Huma Kamal,Ala I. Al-Fuqaha,Ajay Gupta</authors>
+		<jconf>ICC</jconf>
+		<id>275987</id>
+		<label>4</label>
+		<organization>Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI</organization>
+	</publication>
+	<publication>
+		<title>Mobility-Pattern-Based Anomaly Detection Algorithm in Mobile Networks</title>
+		<year>2008</year>
+		<authors>Chaoli Cai,Ajay Gupta</authors>
+		<jconf>ICC</jconf>
+		<id>276300</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detection of Masquerade Attacks on Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Vijay Bhuse,Ajay Gupta,Ala I. Al-Fuqaha</authors>
+		<jconf>ICC</jconf>
+		<id>277587</id>
+		<label>4</label>
+		<organization>Western Michigan Univ., Kalamazoo</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Access Control Framework Based On Events</title>
+		<year>2003</year>
+		<authors>Manish Bhide,Sandeep Pandey,Ajay Gupta,Mukesh K. Mohania</authors>
+		<jconf>ICDE</jconf>
+		<id>299548</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Bringing Database Management Task in the Realm of IT non-Experts</title>
+		<year>2003</year>
+		<authors>Ajay Gupta,Manish Bhide,Mukesh K. Mohania</authors>
+		<jconf>ICDE</jconf>
+		<id>300057</id>
+		<label>2</label>
+		<organization>IBM India Research Laboratory</organization>
+	</publication>
+	<publication>
+		<title>Enhanced Business Intelligence using EROCS</title>
+		<year>2008</year>
+		<authors>Manish Bhide,V. Chakravarthy,Ajay Gupta,Himanshu Gupta,Mukesh K. Mohania,Kriti Puniyani,Prasan Roy,Sourashis Roy,Vibhuti S. Sengar</authors>
+		<jconf>ICDE</jconf>
+		<id>302056</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hardware Diagnosis as Program Debugging</title>
+		<year>1987</year>
+		<authors>Ajay Gupta</authors>
+		<jconf>IJCAI</jconf>
+		<id>388794</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Design of Boltzmann Machines</title>
+		<year>1990</year>
+		<authors>Ajay Gupta,Wolfgang Maass</authors>
+		<jconf>NIPS</jconf>
+		<id>515636</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Policy Driven Data Administration</title>
+		<year>2002</year>
+		<authors>Vishal S. Batra,Jaijit Bhattacharya,Harish Chauhan,Ajay Gupta,Mukesh K. Mohania,Upendra Sharma</authors>
+		<jconf>POLICY</jconf>
+		<id>545651</id>
+		<label>2</label>
+		<organization>IBM India Res. Lab., Indian Inst. of Technol., Delhi</organization>
+	</publication>
+	<publication>
+		<title>Clustering short texts using wikipedia</title>
+		<year>2007</year>
+		<authors>Somnath Banerjee,Krishnan Ramanathan,Ajay Gupta</authors>
+		<jconf>SIGIR</jconf>
+		<id>596099</id>
+		<label>0</label>
+		<organization>Hewlett-Packard Labs, Bangalore, India</organization>
+	</publication>
+	<publication>
+		<title>LIPTUS: associating structured and unstructured information in a banking environment</title>
+		<year>2007</year>
+		<authors>Manish Bhide,Ajay Gupta,Rahul Gupta,Prasan Roy,Mukesh K. Mohania,Zenita Ichhaporia</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>600181</id>
+		<label>2</label>
+		<organization>IBM India Research Lab, New Delhi, India</organization>
+	</publication>
+	<publication>
+		<title>Retaining personal expression for social search</title>
+		<year>2009</year>
+		<authors>Praphul Chandra,Ajay Gupta</authors>
+		<jconf>WWW</jconf>
+		<id>675629</id>
+		<label>0</label>
+		<organization>HP, Bangalore, India</organization>
+	</publication>
+	<publication>
+		<title>Some issues in privacy data management</title>
+		<year>2007</year>
+		<authors>Mukesh K. Mohania,Rema Ananthanarayanan,Ajay Gupta</authors>
+		<jconf>Data Knowl. Eng.</jconf>
+		<id>846439</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mutual Exclusion on a Hypercube</title>
+		<year>1993</year>
+		<authors>Ajay Gupta,Steven C. Bruell,Sukumar Ghosh</authors>
+		<jconf>J. Parallel Distrib. Comput.</jconf>
+		<id>988870</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multivariate Integration on Hypercubic and Mesh Networks</title>
+		<year>1998</year>
+		<authors>Elise de Doncker,Ajay K. Gupta</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1034401</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Consumption Analysis of Maximum A Posterior Classifier Using LU Decomposition and Jacobi Iterations</title>
+		<year>2008</year>
+		<authors>Zill-E-Huma Kamal,Ajay Gupta,Ashfaq A. Khokhar,Leszek Lilien</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126381</id>
+		<label>4</label>
+		<organization>Western Michigan University, Kalamazoo</organization>
+	</publication>
+	<publication>
+		<title>IT Infrastructure in Emerging Markets: Arguing for an End-to-End Perspective</title>
+		<year>2006</year>
+		<authors>Ajay Gupta,Parthasarathy Ranganathan,Prashant Sarin,Mehul A. Shah</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<id>1179332</id>
+		<label>0</label>
+		<organization>Hewlett Packard Labs</organization>
+	</publication>
+	<publication>
+		<title>Power Efficient Algorithms for Computing Fast Fourier Transform over Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Turkmen Canli,Ajay Gupta,Ashfaq Khokhar</authors>
+		<jconf>AICCSA</jconf>
+		<id>1205032</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enabling analysts in managed services for CRM analytics</title>
+		<year>2009</year>
+		<authors>Indrajit Bhattacharya,Shantanu Godbole,Ajay Gupta,Ashish Verma,Jeff Achtermann,Kevin English</authors>
+		<jconf>KDD</jconf>
+		<id>1212517</id>
+		<label>2</label>
+		<organization>IBM Research, New Delhi, India</organization>
+	</publication>
+	<publication>
+		<title>Document Summarization using Wikipedia</title>
+		<year>2009</year>
+		<authors>Krishnan Ramanathan,Yogesh Sankarasubramaniam,Nidhi Mathur,Ajay Gupta</authors>
+		<jconf>Online Information Review</jconf>
+		<id>1265282</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Indicators in a 802.11 WLAN Deployment.</title>
+		<year>2009</year>
+		<authors>Ajay Gupta,Prabhash Dhyani</authors>
+		<jconf>null</jconf>
+		<id>1316053</id>
+		<label>5</label>
+		<organization>Airtight Networks, Pune, India</organization>
+	</publication>
+	<publication>
+		<title>Towards Automated Privacy Compliance in the Information Life Cycle</title>
+		<year>2008</year>
+		<authors>Rema Ananthanarayanan,Ajay Gupta,Mukesh Mohania</authors>
+		<jconf>Advances in Web Semantics I: Ontologies, Web Services and Applied Semantic Web</jconf>
+		<id>1384744</id>
+		<label>2</label>
+		<organization>IBM India Research Lab, New Delhi, India 110 070</organization>
+	</publication>
+	<publication>
+		<title>Simulation and Detection of Self-Propagating Worms and Viruses</title>
+		<year>2008</year>
+		<authors>Ajay Gupta</authors>
+		<jconf>null</jconf>
+		<id>1393934</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A workstation's communication performance benchmark</title>
+		<year>1996</year>
+		<authors>Kurt Maly,Ajay Gupta,Satish Mynam</authors>
+		<jconf>Selected proceedings of the IFIP TC6 9th international workshop on Testing of communicating systems</jconf>
+		<id>1398544</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synchronization in distributed systems</title>
+		<year>1989</year>
+		<authors>Ajay Gupta</authors>
+		<jconf>null</jconf>
+		<id>1490190</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large&mdash;scale parallel numerical integration</title>
+		<year>1999</year>
+		<authors>Elise de Doncker,Ajay Gupta,Rodger R. Zanny</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1549674</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A method for the efficient design of Boltzmann machines for classification problems</title>
+		<year>1990</year>
+		<authors>Ajay Gupta,Wolfgang Maass</authors>
+		<jconf>Proceedings of the 1990 conference on Advances in neural information processing systems 3</jconf>
+		<id>1671104</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the complexity of computation and learning in neural networks</title>
+		<year>1991</year>
+		<authors>Ajay Gupta</authors>
+		<jconf>null</jconf>
+		<id>1678096</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hack I.T.: security through penetration testing</title>
+		<year>2002</year>
+		<authors>T. J. Klevinsky,Scott Laliberte,Ajay Gupta</authors>
+		<jconf>null</jconf>
+		<id>1739014</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+</person>

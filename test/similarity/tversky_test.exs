@@ -3,8 +3,8 @@ defmodule TverskyTest do
 
   import Akin.Similarity.Tversky, only: [compare: 2, compare: 3]
 
-  @test_options %{n_gram_size: 2, alpha: 0.5, beta: 0.5}
-  @adv_test_options %{n_gram_size: 4, alpha: 2, beta: 0.8}
+  @test_options [ngram_size: 3]
+  @adv_test_options [ngram_size: 4]
 
   test "returns nil with empty arguments" do
     assert compare("", "") == nil

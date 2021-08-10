@@ -3,12 +3,13 @@ defmodule Akin.Similarity.Levenshtein do
   Comnpare two strings for their Levenshtein distance: the minimum number of single-character edits needed to
   change one word into the other. [Levenshtein](http://en.wikipedia.org/wiki/Levenshtein_distance)
   """
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
 
   @doc """
   Compares two strings and returns Levenshtein distance as an integer.
   """
-  @spec compare(list | binary, list | binary) :: integer
-  def compare(string, string), do: 0
+  def compare(string, string), do: 1
   def compare(string, []), do: length(string)
   def compare([], string), do: length(string)
   def compare(left, right) when is_binary(left) and is_binary(right) do

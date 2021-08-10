@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>22820</personID>
+	<FullName>David C. Wilson</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Acquiring Case Adaptation Knowledge: A Hybrid Approach</title>
+		<year>1996</year>
+		<authors>David B. Leake,Andrew Kinley,David C. Wilson</authors>
+		<jconf>AAAI/IAAI, Vol. 1</jconf>
+		<id>13726</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Case-Based Similarity Assessment: Estimating Adaptability from Experience</title>
+		<year>1997</year>
+		<authors>David B. Leake,Andrew Kinley,David C. Wilson</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>13727</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Law of Choice and the Decision Not to Decide</title>
+		<year>2008</year>
+		<authors>David C. Wilson,Suzanne Leland,Kenneth Godwin,Andrew Baxter,Ashley Levy,Jamie Smart,Nadia Najjar,Jayakrishnan Andaparambil</authors>
+		<jconf>AAAI</jconf>
+		<id>16290</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Presentation and Navigation for Geospatial Imagery Tasks</title>
+		<year>2004</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>AH</jconf>
+		<id>31133</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contextual Media Integration and Recommendation for Mobile Medical Diagnosis</title>
+		<year>2006</year>
+		<authors>David C. Wilson,Eoin McLoughlin,Dympna O'Sullivan,Michela Bertolotto</authors>
+		<jconf>AH</jconf>
+		<id>31168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Mining Support for Case-Based Collaborative Recommendation</title>
+		<year>2002</year>
+		<authors>Barry Smyth,David C. Wilson,Derry O'Sullivan</authors>
+		<jconf>AICS</jconf>
+		<id>32740</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Grounding geovisualization interface design: a study of interactive map use</title>
+		<year>2009</year>
+		<authors>Pamela Karr Wisniewski,Okan Pala,Heather Richter Lipford,David C. Wilson</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>92401</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using T-Ret System to Improve Incident Report Retrieval</title>
+		<year>2004</year>
+		<authors>Joe Carthy,David C. Wilson,Ruichao Wang,John Dunnion,Anne Drummond</authors>
+		<jconf>CICLing</jconf>
+		<id>94161</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Knowledge Management System for Intelligent Retrieval of Geo-Spatial Imagery</title>
+		<year>2004</year>
+		<authors>Eoin McLoughlin,Dympna O'Sullivan,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>CIVR</jconf>
+		<id>98370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context-Oriented Image Retrieval</title>
+		<year>2005</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>CONTEXT</jconf>
+		<id>115457</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Data Mining for Modeling Personalized Maps</title>
+		<year>2005</year>
+		<authors>Joe Weakliam,David C. Wilson</authors>
+		<jconf>ER (Workshops)</jconf>
+		<id>184128</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Digital Image Similarity for Geo-spatial Knowledge Management</title>
+		<year>2002</year>
+		<authors>James D. Carswell,David C. Wilson,Michela Bertolotto</authors>
+		<jconf>ECCBR</jconf>
+		<id>199934</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysing Similarity Essence for Case Based Recommendation</title>
+		<year>2004</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson</authors>
+		<jconf>ECCBR</jconf>
+		<id>200027</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Remembering Why to Remember: Performance-Guided Case-Base Maintenance</title>
+		<year>2000</year>
+		<authors>David B. Leake,David C. Wilson</authors>
+		<jconf>EWCBR</jconf>
+		<id>200040</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Categorizing Case-Base Maintenance: Dimensions and Directions</title>
+		<year>1998</year>
+		<authors>David B. Leake,David C. Wilson</authors>
+		<jconf>EWCBR</jconf>
+		<id>200042</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Case-Based Recommendation: A Collaborative Filtering Approach</title>
+		<year>2002</year>
+		<authors>Derry O'Sullivan,David C. Wilson,Barry Smyth</authors>
+		<jconf>ECCBR</jconf>
+		<id>200141</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Case-Based Approach to Managing Geo-spatial Imagery Tasks</title>
+		<year>2004</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>ECCBR</jconf>
+		<id>200148</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>In-Depth Analysis of Similarity Knowledge and Metric Contributions to Recommender Performance</title>
+		<year>2004</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson</authors>
+		<jconf>FLAIRS Conference</jconf>
+		<id>207533</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Collaborative Filtering Data in Case-Based Recommendation</title>
+		<year>2002</year>
+		<authors>Derry O'Sullivan,David C. Wilson,Barry Smyth</authors>
+		<jconf>FLAIRS Conference</jconf>
+		<id>207535</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preserving Recommender Accuracy and Diversity in Sparse Datasets</title>
+		<year>2003</year>
+		<authors>Derry O'Sullivan,David C. Wilson,Barry Smyth</authors>
+		<jconf>FLAIRS Conference</jconf>
+		<id>207714</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implicit interaction profiling for recommending spatial content</title>
+		<year>2005</year>
+		<authors>Joe Weakliam,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>GIS</jconf>
+		<id>233040</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of implicit interest indicators for spatial data</title>
+		<year>2007</year>
+		<authors>Eoin Mac Aoidh,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>GIS</jconf>
+		<id>233184</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte</organization>
+	</publication>
+	<publication>
+		<title>Charting new ground: modeling user behavior in interactive geovisualization</title>
+		<year>2008</year>
+		<authors>David C. Wilson,Heather Richter Lipford,Erin Carroll,Pamela Karr,Nadia Najjar</authors>
+		<jconf>GIS</jconf>
+		<id>233209</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Case Studies in Association Rule Mining for Recommender Systems</title>
+		<year>2005</year>
+		<authors>Barry Smyth,Kevin McCarthy,James Reilly,Derry O'Sullivan,Lorraine McGinty,David C. Wilson</authors>
+		<jconf>IC-AI</jconf>
+		<id>265723</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DubLet: An Online CBR System for Rental Property Recommendation</title>
+		<year>2001</year>
+		<authors>Gareth Hurley,David C. Wilson</authors>
+		<jconf>ICCBR</jconf>
+		<id>284213</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to Improve Case Adaption by Introspective Reasoning and CBR</title>
+		<year>1995</year>
+		<authors>David B. Leake,Andrew Kinley,David C. Wilson</authors>
+		<jconf>ICCBR</jconf>
+		<id>284260</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Case Study of Case-Based CBR</title>
+		<year>1997</year>
+		<authors>David B. Leake,Andrew Kinley,David C. Wilson</authors>
+		<jconf>ICCBR</jconf>
+		<id>284262</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining CBR with Interactive Knowledge Acquisition, Manipulation and Reuse</title>
+		<year>1999</year>
+		<authors>David B. Leake,David C. Wilson</authors>
+		<jconf>ICCBR</jconf>
+		<id>284266</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>When Experience Is Wrong: Examining CBR for Changing Tasks and Environments</title>
+		<year>1999</year>
+		<authors>David B. Leake,David C. Wilson</authors>
+		<jconf>ICCBR</jconf>
+		<id>284268</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructing and Transforming CBR Implementations: Techniques for Corporate Memory Management</title>
+		<year>1999</year>
+		<authors>Arijit Sengupta,David C. Wilson,David B. Leake</authors>
+		<jconf>ICCBR Workshops</jconf>
+		<id>284359</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implicit Profiling for Contextual Reasoning About Users Spatial Preferences</title>
+		<year>2007</year>
+		<authors>Eoin Mac Aoidh,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>CaCoA</jconf>
+		<id>284366</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Capture and Reuse for Geo-spatial Imagery Tasks</title>
+		<year>2003</year>
+		<authors>David C. Wilson,Michela Bertolotto,Eoin McLoughlin,Dympna O'Sullivan</authors>
+		<jconf>ICCBR</jconf>
+		<id>284457</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Textual CBR for Incident Report Retrieval</title>
+		<year>2003</year>
+		<authors>David C. Wilson,Joe Carthy,Karl Abbey,John Sheppard,Ruichao Wang,John Dunnion,Anne Drummond</authors>
+		<jconf>ICCSA (1)</jconf>
+		<id>292168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multimodal Interface for Personalising Spatial Data in Mobile GIS</title>
+		<year>2006</year>
+		<authors>Julie Doyle,Joe Weakliam,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>ICEIS (5)</jconf>
+		<id>306160</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to Integrate Multiple Knowledge Sources for Case-Based Reasoning</title>
+		<year>1997</year>
+		<authors>David B. Leake,Andrew Kinley,David C. Wilson</authors>
+		<jconf>IJCAI (1)</jconf>
+		<id>389443</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Capturing and Reusing Case-Based Context for Image Retrieval</title>
+		<year>2005</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>IJCAI</jconf>
+		<id>390020</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Explicit vs Implicit Profiling - A Case-Study in Electronic Programme Guides</title>
+		<year>2003</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson</authors>
+		<jconf>IJCAI</jconf>
+		<id>390022</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparison of Traditional Brain Segmentation Tools with 3D Self-Organizing Maps</title>
+		<year>1997</year>
+		<authors>David Dean,Krishnamurthy Subramanyan,Janardhan Kamath,Fred L. Bookstein,David C. Wilson,David Kwon,Peter Buckley</authors>
+		<jconf>IPMI</jconf>
+		<id>407103</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Capturing task knowledge for geo-spatial imagery</title>
+		<year>2003</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>K-CAP</jconf>
+		<id>472185</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Managing Spatial Knowledge for Mobile Personalized Applications</title>
+		<year>2005</year>
+		<authors>Joe Weakliam,Daniel Lynch,Julie Doyle,Helen Min Zhou,Eoin Mac Aoidh,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>KES (4)</jconf>
+		<id>475791</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Task-Based Image Annotation and Retrieval</title>
+		<year>2007</year>
+		<authors>Dympna O'Sullivan,David C. Wilson,Michela Bertolotto,Eoin McLoughlin</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>562158</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MEDIC: MobilE Diagnosis for Improved Care</title>
+		<year>2006</year>
+		<authors>Eoin McLoughlin,Dympna O'Sullivan,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>SAC</jconf>
+		<id>567928</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte, Charlotte, NC</organization>
+	</publication>
+	<publication>
+		<title>Developing Non-proprietary Personalized Maps for Web and Mobile Environments</title>
+		<year>2004</year>
+		<authors>Julie Doyle,Qiang Han,Joe Weakliam,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>W2GIS</jconf>
+		<id>649926</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Delivering Personalized Context-Aware Spatial Information to Mobile Devices</title>
+		<year>2005</year>
+		<authors>Joe Weakliam,Daniel Lynch,Julie Doyle,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>W2GIS</jconf>
+		<id>649992</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multimodal Interaction - Improving Usability and Efficiency in a Mobile GIS Context</title>
+		<year>2008</year>
+		<authors>Julie Doyle,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>ACHI</jconf>
+		<id>710806</id>
+		<label>0</label>
+		<organization>Univ. of Ottawa, Ottawa</organization>
+	</publication>
+	<publication>
+		<title>A Case-Based Framework for Interactive Capture and Reuse of Design Knowledge</title>
+		<year>2001</year>
+		<authors>David B. Leake,David C. Wilson</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>754983</id>
+		<label>0</label>
+		<organization>Computer Science Department, Lindley Hall 215, Indiana University, 150 S. Woodlawn Avenue, Bloomington, IN 47405-7104, USA. davwils@cs.indiana.edu</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the Special Issue on Maintaining Case-Based Reasoning Systems</title>
+		<year>2001</year>
+		<authors>David B. Leake,Barry Smyth,David C. Wilson,Qiang Yang</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>788974</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maintaining Cased-Based Reasoners: Dimensions and Directions</title>
+		<year>2001</year>
+		<authors>David C. Wilson,David B. Leake</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>789252</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decomposition methods for convolution operators</title>
+		<year>1991</year>
+		<authors>Zohra Z. Manseur,David C. Wilson</authors>
+		<jconf>CVGIP: Graphical Model and Image Processing</jconf>
+		<id>834229</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Biomedical Image Analysis</title>
+		<year>1997</year>
+		<authors>Amir A. Amini,Fred L. Bookstein,David C. Wilson</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>834744</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interpretation of a basic hypergeometric identity with Lie characters and Young tableaux</title>
+		<year>1995</year>
+		<authors>Robert A. Procter,David C. Wilson</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>854561</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preserving recommender accuracy and diversity in sparse datasets</title>
+		<year>2004</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<id>903139</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding Case Based Recommendation: A Similarity Knowledge Perspective</title>
+		<year>2005</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<id>903257</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sparsity Reduction in Collaborative Recommendation: A Case-Based Approach</title>
+		<year>2003</year>
+		<authors>David C. Wilson,Barry Smyth,Derry O'Sullivan</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919504</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Personalised maps in multimodal mobile GIS</title>
+		<year>2007</year>
+		<authors>David C. Wilson,Julie Doyle,Joe Weakliam,Michela Bertolotto,Daniel Lynch</authors>
+		<jconf>Int. J. Web Eng. Technol.</jconf>
+		<id>922104</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Quality of the Personalized Electronic Program Guide</title>
+		<year>2004</year>
+		<authors>Derry O'Sullivan,Barry Smyth,David C. Wilson,Kieran McDonald,Alan F. Smeaton</authors>
+		<jconf>User Model. User-Adapt. Interact.</jconf>
+		<id>1136199</id>
+		<label>0</label>
+		<organization>Smart Media Institute, University College Dublin, Dublin 4, Ireland</organization>
+	</publication>
+	<publication>
+		<title>Using sketches and knowledge bases for geo-spatial image retrieval</title>
+		<year>2006</year>
+		<authors>Michela Bertolotto,James D. Carswell,Eoin McLoughlin,Dympna O'Sullivan,David C. Wilson</authors>
+		<jconf>Computers, Environment and Urban Systems</jconf>
+		<id>1142664</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Medical Imagery in Case-Based Reasoning</title>
+		<year>2008</year>
+		<authors>David C. Wilson,Dympna O'Sullivan</authors>
+		<jconf>Case-Based Reasoning on Images and Signals</jconf>
+		<id>1202105</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Personalizing Location-Aware Applications</title>
+		<year>2008</year>
+		<authors>Eoin Mac Aoidh,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>Geospatial Services and Applications for the Internet</jconf>
+		<id>1234646</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study of Spatial Interaction Behaviour for Improved Delivery of Web-Based Maps</title>
+		<year>2009</year>
+		<authors>Eoin Mac Aoidh,David C. Wilson,Michela Bertolotto</authors>
+		<jconf>W2GIS</jconf>
+		<id>1256980</id>
+		<label>0</label>
+		<organization>University of North Carolina at Charlotte, USA</organization>
+	</publication>
+	<publication>
+		<title>Mobile case-based decision support for intelligent patient knowledge management</title>
+		<year>2007</year>
+		<authors>Dympna O'Sullivan,Eoin McLoughlin,Michela Bertolotto,David C. Wilson</authors>
+		<jconf>TOCT</jconf>
+		<id>1293044</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A q-series approach to deblurring the discrete Gaussian</title>
+		<year>1997</year>
+		<authors>Bernard A. Mair,Zoltán Réti,David C. Wilson,Edward A. Geiser,Bryn David</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>1400792</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the 8th International Conference on Case-Based Reasoning: Case-Based Reasoning Research and Development</title>
+		<year>2009</year>
+		<authors>Lorraine Mcginty,David C. Wilson</authors>
+		<jconf>Lecture Notes In Artificial Intelligence; Vol. 5650</jconf>
+		<id>1651368</id>
+		<label>0</label>
+		<organization>Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001</organization>
+	</publication>
+	<publication>
+		<title>An analytic technique for router comparison</title>
+		<year>1976</year>
+		<authors>David C. Wilson,Robert J. Smith, II</authors>
+		<jconf>Proceedings of the 13th Design Automation Conference</jconf>
+		<id>1687117</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An experimental comparison of force directed placement techniques</title>
+		<year>1974</year>
+		<authors>David C. Wilson,Robert J. Smith, II</authors>
+		<jconf>Proceedings of the 11th Design Automation Workshop</jconf>
+		<id>1688423</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

@@ -13,18 +13,15 @@ defmodule Akin.Similarity.SortedChunks do
       iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet", "Monet, Claude")
       1.0
   """
-  alias Akin.Similarity.{
-    Preprocessed,
-    Preprocessor,
-    SubstringComparison
-  }
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
+  alias Akin.Similarity.{Preprocessed, Preprocessor, SubstringComparison}
 
-  def standard_similarity(left, right) when is_binary(left) and is_binary(right) do
+  def compare(left, right) when is_binary(left) and is_binary(right) do
     {processed_left, processed_right} = Preprocessor.process(left, right)
-    standard_similarity(processed_left, processed_right)
+    compare(processed_left, processed_right)
   end
-
-  def standard_similarity(%Preprocessed{chunks: left}, %Preprocessed{chunks: right}) do
+  def compare(%Preprocessed{chunks: left}, %Preprocessed{chunks: right}) do
     similarity(left, right)
   end
 

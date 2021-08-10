@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10341</personID>
+	<FullName>Michael Lang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>An empirical performance analysis of commodity memories in commodity servers</title>
+		<year>2004</year>
+		<authors>Darren J. Kerbyson,Michael Lang,Gene Patino,Hossein Amidi</authors>
+		<jconf>Memory System Performance</jconf>
+		<id>6328</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Hugin Tool for Learning Bayesian Networks</title>
+		<year>2003</year>
+		<authors>Anders L. Madsen,Michael Lang,Uffe Kjarulff,Frank Jensen</authors>
+		<jconf>ECSQARU</jconf>
+		<id>175252</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reconsidering the 'Software Crisis': A Study of Hypermedia Systems Development</title>
+		<year>2003</year>
+		<authors>Michael Lang</authors>
+		<jconf>ICWI</jconf>
+		<id>259125</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Techniques and Methodologies for Multimedia Systems Development: A Survey of Industrial Practice</title>
+		<year>2001</year>
+		<authors>Michael Lang,Chris Barry</authors>
+		<jconf>Realigning Research and Practice in Information Systems Development</jconf>
+		<id>383784</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hugin - The Tool for Bayesian Networks and Influence Diagrams</title>
+		<year>2002</year>
+		<authors>Frank Jensen,Uffe Kjarulff,Michael Lang,Anders L. Madsen</authors>
+		<jconf>Probabilistic Graphical Models</jconf>
+		<id>540303</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Performance and Scalability Analysis of the BlueGene/L Architecture</title>
+		<year>2004</year>
+		<authors>Kei Davis,Adolfy Hoisie,Greg Johnson,Darren J. Kerbyson,Michael Lang,Scott Pakin,Fabrizio Petrini</authors>
+		<jconf>SC</jconf>
+		<id>574858</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architecture - A performance comparison through benchmarking and modeling of three leading supercomputers: blue Gene/L, Red Storm, and Purple</title>
+		<year>2006</year>
+		<authors>Adolfy Hoisie,Greg Johnson,Darren J. Kerbyson,Michael Lang,Scott Pakin</authors>
+		<jconf>SC</jconf>
+		<id>575788</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Survey of Multimedia and Web Development Techniques and Methodology Usage</title>
+		<year>2001</year>
+		<authors>Chris Barry,Michael Lang</authors>
+		<jconf>IEEE MultiMedia</jconf>
+		<id>893713</id>
+		<label>3</label>
+		<organization>Nat. Univ. of Ireland, Galway</organization>
+	</publication>
+	<publication>
+		<title>The Hugin Tool for Probabilistic Graphical Models</title>
+		<year>2005</year>
+		<authors>Anders L. Madsen,Frank Jensen,Uffe Kjarulff,Michael Lang</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<id>903190</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comparison of 'traditional' and multimedia information systems development practices</title>
+		<year>2003</year>
+		<authors>Chris Barry,Michael Lang</authors>
+		<jconf>Information  Software Technology</jconf>
+		<id>924401</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Tool to Support Collaborative Software Requirements Management</title>
+		<year>2001</year>
+		<authors>Michael Lang,Jim Duggan</authors>
+		<jconf>Requir. Eng.</jconf>
+		<id>1051149</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web-based systems design: a study of contemporary practices and an explanatory framework based on 'method-in-action</title>
+		<year>2007</year>
+		<authors>Michael Lang,Brian Fitzgerald</authors>
+		<jconf>Requir. Eng.</jconf>
+		<id>1051278</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hypermedia Systems Development Practices: A Survey</title>
+		<year>2005</year>
+		<authors>Michael Lang,Brian Fitzgerald</authors>
+		<jconf>IEEE Software</jconf>
+		<id>1071208</id>
+		<label>3</label>
+		<organization>National University of Ireland, Galway</organization>
+	</publication>
+	<publication>
+		<title>New Branches, Old Roots: A Study of Methods and Techniques in Web/Hypermedia Systems Design</title>
+		<year>2006</year>
+		<authors>Michael Lang,Brian Fitzgerald</authors>
+		<jconf>IS Management</jconf>
+		<id>1183343</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Performance Modeling to Design Large-Scale Systems</title>
+		<year>2009</year>
+		<authors>Kevin J. Barker,Kei Davis,Adolfy Hoisie,Darren J. Kerbyson,Michael Lang,Scott Pakin,Jose Carlos Sancho</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>1268103</id>
+		<label>0</label>
+		<organization>Los Alamos National Laboratory</organization>
+	</publication>
+	<publication>
+		<title>Implementation and performance modeling of deterministic particle transport (Sweep3D) on the IBM Cell/B.E</title>
+		<year>2009</year>
+		<authors>Olaf M. Lubeck,Michael Lang,Ram Srinivasan,Greg Johnson</authors>
+		<jconf>Scientific Programming</jconf>
+		<id>1281233</id>
+		<label>0</label>
+		<organization>(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA</organization>
+	</publication>
+	<publication>
+		<title>Analysis of trapped entanglements in polymer networks</title>
+		<year>2003</year>
+		<authors>Michael Lang,Wolfgang Michalke,Stefan Kreitmeier</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1700535</id>
+		<label>1</label>
+		<organization>Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany</organization>
+	</publication>
+</person>

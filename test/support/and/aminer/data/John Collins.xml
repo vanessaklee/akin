@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10022</personID>
+	<FullName>John Collins</FullName>
+	<FirstName>John</FirstName>
+	<LastName>Collins</LastName>
+	<publication>
+		<title>A predictive empirical model for pricing and resource allocation decisions</title>
+		<year>2007</year>
+		<authors>Wolfgang Ketter,John Collins,Maria L. Gini,Paul R. Schrater,Alok Gupta</authors>
+		<jconf>ICEC</jconf>
+		<id>6156</id>
+		<label>0</label>
+		<organization>University of Minnesota, Minneapolis, MN</organization>
+	</publication>
+	<publication>
+		<title>Research Applications of the MAGNET Multi-Agent Contracting Testbed</title>
+		<year>2002</year>
+		<authors>John Collins,Maria L. Gini</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>12351</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strategic Sales Management in an Autonomous Trading Agent for TAC SCM</title>
+		<year>2006</year>
+		<authors>Wolfgang Ketter,Eric Sodomka,Amrudin Agovic,John Collins,Maria L. Gini</authors>
+		<jconf>AAAI</jconf>
+		<id>13475</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Statistical Methods for Evaluating Trading Agent Performance</title>
+		<year>2007</year>
+		<authors>Eric Sodomka,John Collins,Maria L. Gini</authors>
+		<jconf>AAAI</jconf>
+		<id>15688</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mixed-initiative decision support in agent-based automated contracting</title>
+		<year>2000</year>
+		<authors>John Collins,Corey Bilot,Maria L. Gini</authors>
+		<jconf>Agents</jconf>
+		<id>29630</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploring decision processes in multi-agent automated contracting</title>
+		<year>2001</year>
+		<authors>John Collins,Maria L. Gini</authors>
+		<jconf>Agents</jconf>
+		<id>29632</id>
+		<label>0</label>
+		<organization>Dept of Computer Science and Engineering, University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Evaluating Risk: Flexibility and Feasibility in Multi-Agent Contracting</title>
+		<year>1999</year>
+		<authors>John Collins,Maksim Tsvetovat,Rashmi Sundareswara,Joshua van Tonder,Maria L. Gini,Bamshad Mobasher</authors>
+		<jconf>Agents</jconf>
+		<id>29634</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Market Architecture for Multi-Agent Contracting</title>
+		<year>1998</year>
+		<authors>John Collins,Ben Youngdahl,Scott Jamison,Bamshad Mobasher,Maria L. Gini</authors>
+		<jconf>Agents</jconf>
+		<id>29636</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bidtree Ordering in IDA* Combinatorial Auction Winner-Determination with Side Constraints</title>
+		<year>2002</year>
+		<authors>John Collins,Guleser K. Demir,Maria L. Gini</authors>
+		<jconf>AMEC</jconf>
+		<id>40557</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bid Evaluation and Selection in the MAGNET Automated Contracting System</title>
+		<year>1998</year>
+		<authors>Erik S. Steinmetz,John Collins,Scott Jamison,Rashmi Sundareswara,Bamshad Mobasher,Maria L. Gini</authors>
+		<jconf>AMET</jconf>
+		<id>40568</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of supplier agents for an auction-based market</title>
+		<year>2002</year>
+		<authors>Stefan Botman,Mark Hoogendoorn,Vasile Bud,Ashutosh Jaiswal,Steve Hawkins,Yelena Kryzhnyaya,Janice Pearce,Anne Scholcraft,Espen Sigvartsen,John Collins,Maria L. Gini</authors>
+		<jconf>AOIS@AAMAS</jconf>
+		<id>43044</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Risk and expectations in a-priori time allocation in multi-agent contracting</title>
+		<year>2002</year>
+		<authors>Alexander Babanov,John Collins,Maria L. Gini</authors>
+		<jconf>AAMAS</jconf>
+		<id>55324</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Scheduling tasks with precedence constraints to solicit desirable bid combinations</title>
+		<year>2003</year>
+		<authors>Alexander Babanov,John Collins,Maria L. Gini</authors>
+		<jconf>AAMAS</jconf>
+		<id>55328</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Multi-Attribute Dynamic Pricing for Online Markets Using Intelligent Agents</title>
+		<year>2004</year>
+		<authors>Alexander Babanov,John Collins,Maria L. Gini</authors>
+		<jconf>AAMAS</jconf>
+		<id>55330</id>
+		<label>0</label>
+		<organization>University of Nebraska</organization>
+	</publication>
+	<publication>
+		<title>MinneTAC Sales Strategies for Supply Chain TAC</title>
+		<year>2004</year>
+		<authors>Wolfgang Ketter,Elena Kryzhnyaya,Steven Damer,Colin McMillen,Amrudin Agovic,John Collins,Maria L. Gini</authors>
+		<jconf>AAMAS</jconf>
+		<id>56103</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>A Market-Pressure-Based Performance Evaluator for TAC-SCM</title>
+		<year>2006</year>
+		<authors>Brett Borghetti,Eric Sodomka,Maria L. Gini,John Collins</authors>
+		<jconf>TADA/AMEC</jconf>
+		<id>57059</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The BBC Television Management Information System</title>
+		<year>1971</year>
+		<authors>Charles Lashmar,Terry Smith,John Collins,Ronald Green</authors>
+		<jconf>IFIP Congress (2)</jconf>
+		<id>376926</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bid Selection Strategies for Multi-agent Contracting in the Presence of Scheduling Constraints</title>
+		<year>1999</year>
+		<authors>John Collins,Rashmi Sundareswara,Maria L. Gini,Bamshad Mobasher</authors>
+		<jconf>Agent Mediated Electronic Commerce (IJCAI Workshop)</jconf>
+		<id>388019</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dimensional Inference Using Symbol Lives</title>
+		<year>2007</year>
+		<authors>Brian Farrimond,John Collins</authors>
+		<jconf>SETP</jconf>
+		<id>709629</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Asking the right question: Risk and expectation in multiagent contracting</title>
+		<year>2003</year>
+		<authors>Alexander Babanov,John Collins,Maria L. Gini</authors>
+		<jconf>AI EDAM</jconf>
+		<id>746820</id>
+		<label>0</label>
+		<organization>Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA</organization>
+	</publication>
+	<publication>
+		<title>Decision Processes in Agent-Based Automated Contracting</title>
+		<year>2001</year>
+		<authors>John Collins,Corey Bilot,Maria L. Gini,Bamshad Mobasher</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<id>928522</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Minnesota Univ., MN</organization>
+	</publication>
+	<publication>
+		<title>Visualization and analysis methods for comparing agent behavior in TAC SCM</title>
+		<year>2009</year>
+		<authors>William Groves,John Collins,Maria Gini</authors>
+		<jconf>AAMAS (2)</jconf>
+		<id>1205733</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Ontology-Driven Decision Support in Dynamic Supply-Chains.</title>
+		<year>2009</year>
+		<authors>Andrew Nelson,Dickens Nyabuti,John Collins,Wolfgang Ketter,Maria L. Gini</authors>
+		<jconf>null</jconf>
+		<id>1310211</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA</organization>
+	</publication>
+	<publication>
+		<title>Spike: A Six Legged Cube Style Robot.</title>
+		<year>2009</year>
+		<authors>Christopher Coyte,Mark Beckerleg,John Collins</authors>
+		<jconf>null</jconf>
+		<id>1312711</id>
+		<label>3</label>
+		<organization>School of Engineering, AUT University, Auckland, New Zealand 1010</organization>
+	</publication>
+	<publication>
+		<title>Outline or bitmap type</title>
+		<year>1986</year>
+		<authors>John Collins</authors>
+		<jconf>Conference proceedings on Electronic printing systems: directions in digital imaging. Vol. 1, technology</jconf>
+		<id>1445153</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Documenting protocols in CLOS: keeping the promise of reuse</title>
+		<year>1993</year>
+		<authors>John Collins</authors>
+		<jconf>Object-oriented programming: the CLOS perspective</jconf>
+		<id>1513455</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The ABC's of digital type</title>
+		<year>1989</year>
+		<authors>John Collins</authors>
+		<jconf>BYTE</jconf>
+		<id>1621697</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

@@ -69,6 +69,9 @@ defmodule Akin.Similarity.StringCompare do
   This library is inspired by a [seatgeek blogpost from 2011](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/).
   """
 
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
+
   alias Akin.Similarity.{
     ChunkSet,
     JaroWinkler,
@@ -78,8 +81,6 @@ defmodule Akin.Similarity.StringCompare do
     Strategy,
     SubstringComparison
   }
-
-  @bias 0.95
 
   @doc """
   Compares two binaries for their similarity and returns a float in the range of
@@ -108,7 +109,6 @@ defmodule Akin.Similarity.StringCompare do
 
     compare(processed_left, processed_right)
   end
-
   def compare(left, right) when left in [nil, ""] or right in [nil, ""], do: nil
   def compare(%Preprocessed{} = left, %Preprocessed{} = right) do
     case Strategy.determine_strategy(left, right) do
@@ -125,8 +125,8 @@ defmodule Akin.Similarity.StringCompare do
     [
       JaroWinkler.compare(left.string, right.string),
       SubstringComparison.similarity(left.string, right.string),
-      SortedChunks.substring_similarity(left, right) * @bias * substring_scale,
-      ChunkSet.substring_similarity(left, right) * @bias * substring_scale
+      SortedChunks.substring_similarity(left, right) * substring_scale,
+      ChunkSet.compare(left, right) * substring_scale
     ]
     |> Enum.max()
   end
@@ -134,8 +134,8 @@ defmodule Akin.Similarity.StringCompare do
   defp standard_similarity(%Preprocessed{} = left, %Preprocessed{} = right) do
     [
       JaroWinkler.compare(left.string, right.string),
-      SortedChunks.standard_similarity(left, right) * @bias,
-      ChunkSet.standard_similarity(left, right) * @bias
+      SortedChunks.compare(left, right),
+      ChunkSet.compare(left, right)
     ]
     |> Enum.max()
   end

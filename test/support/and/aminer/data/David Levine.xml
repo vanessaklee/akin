@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>78612</personID>
+	<FullName>David Levine</FullName>
+	<FirstName>David</FirstName>
+	<LastName>Levine</LastName>
+	<publication>
+		<title>Winner determination in combinatorial auction generalizations</title>
+		<year>2002</year>
+		<authors>Tuomas Sandholm,Subhash Suri,Andrew Gilpin,David Levine</authors>
+		<jconf>AAMAS</jconf>
+		<id>56624</id>
+		<label>0</label>
+		<organization>CombineNet, Inc., Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Indexing and Searching XML Documents Based on Content and Structure Synopses</title>
+		<year>2007</year>
+		<authors>Weimin He,Leonidas Fegaras,David Levine</authors>
+		<jconf>BNCOD</jconf>
+		<id>68113</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cluster and Grid Based Classification of Transposable Elements in Eukaryotic Genomes</title>
+		<year>2006</year>
+		<authors>Nirmal Ranganathan,Cedric Feschotte,David Levine</authors>
+		<jconf>CCGRID</jconf>
+		<id>83086</id>
+		<label>1</label>
+		<organization>University of Texas at Arlington, USA</organization>
+	</publication>
+	<publication>
+		<title>Query processing of streamed XML data</title>
+		<year>2002</year>
+		<authors>Leonidas Fegaras,David Levine,Sujoe Bose,Vamsi Chaluvadi</authors>
+		<jconf>CIKM</jconf>
+		<id>95296</id>
+		<label>1</label>
+		<organization>The University of Texas at Arlington, Arlington, TX</organization>
+	</publication>
+	<publication>
+		<title>XML Query Routing in Structured P2P Systems</title>
+		<year>2006</year>
+		<authors>Leonidas Fegaras,Weimin He,Gautam Das,David Levine</authors>
+		<jconf>DBISP2P</jconf>
+		<id>144964</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Query Algebra for Fragmented XML Stream Data</title>
+		<year>2003</year>
+		<authors>Sujoe Bose,Leonidas Fegaras,David Levine,Vamsi Chaluvadi</authors>
+		<jconf>DBPL</jconf>
+		<id>145124</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Locating and Ranking XML Documents Based on Content and Structure Synopses</title>
+		<year>2007</year>
+		<authors>Weimin He,Leonidas Fegaras,David Levine</authors>
+		<jconf>DEXA</jconf>
+		<id>150694</id>
+		<label>1</label>
+		<organization>University of Texas at Arlington, CSE, Arlington, TX 76019-0015,</organization>
+	</publication>
+	<publication>
+		<title>Contours of Constructive Hypertexts</title>
+		<year>1992</year>
+		<authors>Mark Bernstein,Michael Joyce,David Levine</authors>
+		<jconf>ECHT</jconf>
+		<id>169908</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing Grid Scheduling Based on Local Cluster Scheduling Policies and Resource Availability</title>
+		<year>2006</year>
+		<authors>Tummalapalli Reddy,David Levine,Farhad Kamangar,Nirmal Ranganathan</authors>
+		<jconf>GCA</jconf>
+		<id>222882</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multimedia Application using Mobile Agents for Establishing and Managing Streaming Audio Communications</title>
+		<year>2001</year>
+		<authors>David Levine,Sunil Pai,Farhad Kamangar,Ramesh Yerraballi</authors>
+		<jconf>International Conference on Internet Computing (1)</jconf>
+		<id>263281</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CABOB: A Fast Optimal Algorithm for Combinatorial Auctions</title>
+		<year>2001</year>
+		<authors>Tuomas Sandholm,Subhash Suri,Andrew Gilpin,David Levine</authors>
+		<jconf>IJCAI</jconf>
+		<id>390445</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterative Joint Source-Channel Decoding of H.264 Compressed Video</title>
+		<year>2007</year>
+		<authors>David Levine,William E. Lynch,Tho Le-Ngoc</authors>
+		<jconf>ISCAS</jconf>
+		<id>428339</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Tool Based Methodology for Development of Automatically Scalable and Reusable Parallel Code</title>
+		<year>2002</year>
+		<authors>Vijay Murthi,David Levine,Behrooz Shirazi,Jeff Marquis</authors>
+		<jconf>MASCOTS</jconf>
+		<id>489787</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computer-Mediated Communication as Employee Voice: The Profit Sharing Plan</title>
+		<year>1993</year>
+		<authors>Libby Bishop,David Levine</authors>
+		<jconf>NetWORKing</jconf>
+		<id>513024</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing Power Consumption and Performance of Computing Systems Using Reinforcement Learning</title>
+		<year>2007</year>
+		<authors>Gerald Tesauro,Rajarshi Das,Hoi Chan,Jeffrey O. Kephart,David Levine,Freeman L. Rawson III,Charles Lefurgy</authors>
+		<jconf>NIPS</jconf>
+		<id>517996</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Network Monitoring Using Mobile Agents Paradigm</title>
+		<year>2003</year>
+		<authors>Farhad Kamangar,David Levine,Gergely V. Zaruba,Navakiran Chitturi</authors>
+		<jconf>PDPTA</jconf>
+		<id>535899</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quality of Service Primitives for Operating System Support of Multimedia Applications</title>
+		<year>2002</year>
+		<authors>David Levine,Farhad Kamangar,Shashi Kanth Lakshmikantha</authors>
+		<jconf>PDPTA</jconf>
+		<id>536100</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interoperability Issues for a Secure Mobile Agent Platform</title>
+		<year>2003</year>
+		<authors>David Levine,Farhad Kamangar,Vamsi Putrevu</authors>
+		<jconf>PDPTA</jconf>
+		<id>536102</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile Agents for Pervasive Computing Using a Novel Method of Message Passing</title>
+		<year>2003</year>
+		<authors>David Levine,Renjith Thomas,Farhad Kamangar,Gergely V. Zaruba</authors>
+		<jconf>PDPTA</jconf>
+		<id>536104</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis and Scalability of the ThreadmanTM Thread Manager</title>
+		<year>2002</year>
+		<authors>Vijay Murthi,Farhad Kamangar,David Levine,Jeff Marquis</authors>
+		<jconf>PDPTA</jconf>
+		<id>536368</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Reliability and Additional Overhead of Reliable On-Demand Multicast Routing Protocol for Mobile Ad Hoc Networks</title>
+		<year>2004</year>
+		<authors>Kumaran Sambandan,Gergely V. Zaruba,David Levine</authors>
+		<jconf>PDPTA</jconf>
+		<id>536751</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accelerated Neighbor Discovery in Bluetooth Based Personal Area Networks</title>
+		<year>2002</year>
+		<authors>Gergely V. Zaruba,David Levine</authors>
+		<jconf>PDPTA</jconf>
+		<id>537293</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computational Electromagnetics and Parallel Dense Matrix Computations</title>
+		<year>1995</year>
+		<authors>Kimmo Forsman,William Gropp,Lauri Kettunen,David Levine</authors>
+		<jconf>PPSC</jconf>
+		<id>549047</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Solution of the Three-Dimensional, Time-Dependent Ginzburg-Landau Equation</title>
+		<year>1993</year>
+		<authors>N. Galbreath,William Gropp,D. Gunter,D. Leaf,David Levine</authors>
+		<jconf>PPSC</jconf>
+		<id>549065</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Massively Parallel Computation of Conservation Laws</title>
+		<year>1989</year>
+		<authors>Marc Garbey,David Levine</authors>
+		<jconf>PPSC</jconf>
+		<id>549075</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applications-driven parallel I/O</title>
+		<year>1993</year>
+		<authors>N. Galbreath,William Gropp,David Levine</authors>
+		<jconf>SC</jconf>
+		<id>574975</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-oriented programming (abstract): how to 'scale up' CS 1</title>
+		<year>1994</year>
+		<authors>Stuart Hirshfield,Owen L. Astrachan,John Barr,Karen Donnelly,David Levine,Mark McGinn</authors>
+		<jconf>SIGCSE</jconf>
+		<id>590323</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The art and science of computer graphics: a very depth-first approach to the non-majors course</title>
+		<year>1994</year>
+		<authors>Donald H. House,David Levine</authors>
+		<jconf>SIGCSE</jconf>
+		<id>590338</id>
+		<label>14</label>
+		<organization>Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA</organization>
+	</publication>
+	<publication>
+		<title>Accomplishing More by Doing Less - Lessons from Spanish Language Instruction</title>
+		<year>2000</year>
+		<authors>David Levine,Kerr Thompson</authors>
+		<jconf>WebNet</jconf>
+		<id>657446</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A scalable and self-adapting notification framework for healthcare information systems</title>
+		<year>2008</year>
+		<authors>Anthony Okorodudu,Leonidas Fegaras,David Levine</authors>
+		<jconf>PETRA</jconf>
+		<id>719158</id>
+		<label>1</label>
+		<organization>University of Texas at Arlington, Arlington, TX</organization>
+	</publication>
+	<publication>
+		<title>Parallel computation of three-dimensional nonlinear magnetostatic problems</title>
+		<year>1999</year>
+		<authors>David Levine,William Gropp,Kimmo Forsman,Lauri Kettunen</authors>
+		<jconf>Concurrency - Practice and Experience</jconf>
+		<id>810594</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of a hybrid genetic algorithm to airline crew scheduling</title>
+		<year>1996</year>
+		<authors>David Levine</authors>
+		<jconf>Computers  OR</jconf>
+		<id>813356</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms: A Practitioner's View</title>
+		<year>1997</year>
+		<authors>David Levine</authors>
+		<jconf>INFORMS Journal on Computing</jconf>
+		<id>924195</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Massively parallel computation of conservation laws</title>
+		<year>1990</year>
+		<authors>Marc Garbey,David Levine</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1034631</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel performance of two applications in the Boeing high performance computing benchmark suite</title>
+		<year>2001</year>
+		<authors>Joseph W. Manke,G. David Kerlick,David Levine,Subhankar Banerjee,Eric Dillon</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1035109</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile Agent Connection Establishment and Management (CEMA)--Message Exchange for Pervasive Computing Environments</title>
+		<year>2005</year>
+		<authors>Farhad Kamangar,David Levine,Gergely V. Zaruba,Renjith Thomas</authors>
+		<jconf>The Journal of Supercomputing</jconf>
+		<id>1111953</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A butterfly subdivision scheme for surface interpolation with tension control</title>
+		<year>1990</year>
+		<authors>Nira Dyn,David Levine,John A. Gregory</authors>
+		<jconf>ACM Trans. Graph.</jconf>
+		<id>1119091</id>
+		<label>3</label>
+		<organization>Tel Aviv Univ., Tel Aviv, Israel</organization>
+	</publication>
+	<publication>
+		<title>Performance Testing of a Parallel Multiblock CFD Solver</title>
+		<year>2001</year>
+		<authors>G. David Kerlick,Eric Dillon,David Levine</authors>
+		<jconf>IEEE/ACM Transactions on Networking (TON)</jconf>
+		<id>1295332</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Changing the Game in Strategic Sourcing at Procter & Gamble: Expressive Competition Enabled by Optimization.</title>
+		<year>2006</year>
+		<authors>Tuomas Sandholm,David Levine,Michael Concordia,Paul Martyn,Rick Hughes,Jim Jacobs,Dennis Begg</authors>
+		<jconf>Interfaces</jconf>
+		<id>1347720</id>
+		<label>0</label>
+		<organization>CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222</organization>
+	</publication>
+	<publication>
+		<title>An auction mechanism for grid scheduling and resource allocation in the context of atlas</title>
+		<year>2009</year>
+		<authors>Gergely Zaruba,David Levine</authors>
+		<jconf>null</jconf>
+		<id>1367061</id>
+		<label>1</label>
+		<organization>The University of Texas at Arlington</organization>
+	</publication>
+	<publication>
+		<title>Itinerant agents for mobile computing</title>
+		<year>1997</year>
+		<authors>David Chess,Benjamin Grosof,Colin Harrison,David Levine,Colin Parris,Gene Tsudik</authors>
+		<jconf>Readings in agents</jconf>
+		<id>1401539</id>
+		<label>6</label>
+		<organization>IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Practical Grid Computing for Massively Multiplayer Games</title>
+		<year>2003</year>
+		<authors>David Levine,Barry Whitebook,Mark Wirt</authors>
+		<jconf>null</jconf>
+		<id>1426785</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Operating Systems: A Spiral Approach, 1 edition</title>
+		<year>2009</year>
+		<authors>Ramez Elmasri,A Carrick,David Levine</authors>
+		<jconf>null</jconf>
+		<id>1428579</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contours of constructive hypertexts</title>
+		<year>1993</year>
+		<authors>Mark Bernstein,Michael Joyce,David Levine</authors>
+		<jconf>Proceedings of the ACM conference on Hypertext</jconf>
+		<id>1501069</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tending our fields: hiring and retaining faculty in small colleges computing programs (panel session)</title>
+		<year>2001</year>
+		<authors>Ralph Bravaco,Aaron Garth Enright,Frank Ford,David Levine,Scott McElfresh,Mary Ann Robert,Linda Wilkens</authors>
+		<jconf>Proceedings of the sixth annual CCSC northeastern conference on The journal of computing in small colleges</jconf>
+		<id>1571885</id>
+		<label>16</label>
+		<organization>St. Bonaventure College, St. Bonaventure, NY</organization>
+	</publication>
+	<publication>
+		<title>PICO: A Middleware Framework for Pervasive Computing</title>
+		<year>2003</year>
+		<authors>Mohan Kumar,Behrooz A. Shirazi,Sajal K. Das,Byung Y. Sung,David Levine,Mukesh Singhal</authors>
+		<jconf>IEEE Pervasive Computing</jconf>
+		<id>1591598</id>
+		<label>1</label>
+		<organization>University of Texas at Arlington</organization>
+	</publication>
+	<publication>
+		<title>Live Java: database to cyberspace</title>
+		<year>1996</year>
+		<authors>David Levine</authors>
+		<jconf>null</jconf>
+		<id>1720555</id>
+		<label>9</label>
+		<organization>HuskyLabs</organization>
+	</publication>
+	<publication>
+		<title>Fortran language extensions</title>
+		<year>1994</year>
+		<authors>David Levine</authors>
+		<jconf>ACM SIGPLAN Fortran Forum</jconf>
+		<id>1722552</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+</person>

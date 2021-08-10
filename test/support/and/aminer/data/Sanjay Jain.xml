@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>49069</personID>
+	<FullName>Sanjay Jain</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Learning from Multiple Sources of Inaccurate Data</title>
+		<year>1992</year>
+		<authors>Ganesh Baliga,Sanjay Jain,Arun Sharma</authors>
+		<jconf>AII</jconf>
+		<id>33498</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strong Separation of Learning Classes</title>
+		<year>1992</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain</authors>
+		<jconf>AII</jconf>
+		<id>33512</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximate Inference and Scientific Method</title>
+		<year>1990</year>
+		<authors>Mark A. Fulk,Sanjay Jain</authors>
+		<jconf>ALT</jconf>
+		<id>39179</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non U-Shaped Vacillatory and Team Learning</title>
+		<year>2005</year>
+		<authors>Lorenzo Carlucci,John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39193</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthesizing Learners Tolerating Computable Noisy Data</title>
+		<year>1998</year>
+		<authors>John Case,Sanjay Jain</authors>
+		<jconf>ALT</jconf>
+		<id>39201</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predictive Learning Models for Concept Drift</title>
+		<year>1998</year>
+		<authors>John Case,Sanjay Jain,Susanne Kaufmann,Arun Sharma,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39203</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning a Subclass of Regular Patterns in Polynomial Time</title>
+		<year>2003</year>
+		<authors>John Case,Sanjay Jain,Rudiger Reischuk,Frank Stephan,Thomas Zeugmann</authors>
+		<jconf>ALT</jconf>
+		<id>39205</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Anomalous Learning Helps Succinctness (Extended Abstract)</title>
+		<year>1990</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>ALT</jconf>
+		<id>39213</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Machine Induction Without Revolutionary Paradigm Shifts</title>
+		<year>1995</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>ALT</jconf>
+		<id>39215</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Vacillatory and BC Learning on Noisy Data</title>
+		<year>1996</year>
+		<authors>John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39217</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthesizing Noise-Tolerant Language Learners</title>
+		<year>1997</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>ALT</jconf>
+		<id>39219</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Program Synthesis in the Presence of Infinite Number of Inaccuracies</title>
+		<year>1994</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>AII/ALT</jconf>
+		<id>39369</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning with Refutation</title>
+		<year>1998</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>ALT</jconf>
+		<id>39370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Languages from Positive Data and Negative Counterexamples</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>39371</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Multiple Languages in Groups</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>39372</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning and Extending Sublanguages</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>39373</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterative Learning from Positive Data and Negative Counterexamples</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>39374</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Learning and Co-learning of Minimal Programs</title>
+		<year>1996</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen</authors>
+		<jconf>ALT</jconf>
+		<id>39375</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Recursive Functions Refutably</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen,Thomas Zeugmann</authors>
+		<jconf>ALT</jconf>
+		<id>39376</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning of R.E. Languages from Good Examples</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Steffen Lange,Jochen Nessel</authors>
+		<jconf>ALT</jconf>
+		<id>39377</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gold-Style and Query Learning Under Various Constraints on the Target Class</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Steffen Lange,Sandra Zilles</authors>
+		<jconf>ALT</jconf>
+		<id>39378</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Better Understanding of Incremental Learning</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Steffen Lange,Sandra Zilles</authors>
+		<jconf>ALT</jconf>
+		<id>39379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classes with Easily Learnable Subclasses</title>
+		<year>2002</year>
+		<authors>Sanjay Jain,Wolfram Menzel,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39380</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Absolute Versus Probabilistic Classification in a Logical Setting</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39381</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Languages in a Union</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Yen Kaow Ng,Tiong Seng Tay</authors>
+		<jconf>ALT</jconf>
+		<id>39382</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning by Switching Type of Information</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39383</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning How to Separate</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39384</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prudence in Vacillatory Language Identification (Extended Abstract)</title>
+		<year>1992</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>ALT</jconf>
+		<id>39385</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Aggregating Teams of Learning Machines</title>
+		<year>1993</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>ALT</jconf>
+		<id>39386</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Monotonic Strategies for Learning r.e. Languages</title>
+		<year>1994</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>AII/ALT</jconf>
+		<id>39387</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Editors' Introduction</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Hans-Ulrich Simon,Etsuji Tomita</authors>
+		<jconf>ALT</jconf>
+		<id>39388</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>One-Shot Learners Using Negative Counterexamples and Nearest Positive Examples</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>39666</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning in Friedberg Numberings</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39667</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Prescribed Learning of R.E. Classes</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Frank Stephan,Ye Nan</authors>
+		<jconf>ALT</jconf>
+		<id>39683</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterative Learning of Simple External Contextual Languages</title>
+		<year>2008</year>
+		<authors>Leonor Becerra-Bonache,John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39703</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590</organization>
+	</publication>
+	<publication>
+		<title>Numberings Optimal for Learning</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39713</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Input-Dependence in Function-Learning</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>CiE</jconf>
+		<id>94962</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Synthesizing Enumeration Techniques for Language Learning</title>
+		<year>1996</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain</authors>
+		<jconf>COLT</jconf>
+		<id>108618</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory-Limited U-Shaped Learning</title>
+		<year>2006</year>
+		<authors>Lorenzo Carlucci,John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>COLT</jconf>
+		<id>108778</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variations on U-Shaped Learning</title>
+		<year>2005</year>
+		<authors>Lorenzo Carlucci,Sanjay Jain,Efim B. Kinber,Frank Stephan</authors>
+		<jconf>COLT</jconf>
+		<id>108779</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generality's Price: Inescapable Deficiencies in Machine-Learned Programs</title>
+		<year>2003</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain,Wolfgang Merkle,James S. Royer</authors>
+		<jconf>COLT</jconf>
+		<id>108781</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Learning to Coordinate: Random Bits Help, Insightful Normal Forms, and Competency Isomorphisms</title>
+		<year>2003</year>
+		<authors>John Case,Sanjay Jain,Franco Montagna,Giulia Simi,Andrea Sorbi</authors>
+		<jconf>COLT</jconf>
+		<id>108782</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Learning Aided by Context</title>
+		<year>1998</year>
+		<authors>John Case,Sanjay Jain,Matthias Ott,Arun Sharma,Frank Stephan</authors>
+		<jconf>COLT</jconf>
+		<id>108783</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Learning Limiting Programs</title>
+		<year>1992</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>108784</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Learning - Rich and Poor</title>
+		<year>2001</year>
+		<authors>John Case,Sanjay Jain,Frank Stephan,Rolf Wiehagen</authors>
+		<jconf>COLT/EuroCOLT</jconf>
+		<id>108785</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning in the Presence of Inaccurate Information</title>
+		<year>1989</year>
+		<authors>Mark A. Fulk,Sanjay Jain</authors>
+		<jconf>COLT</jconf>
+		<id>108909</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intrinsic Complexity of Learning Geometrical Concepts from Positive Data</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>COLT/EuroCOLT</jconf>
+		<id>109004</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Learning Languages from Positive Data and a Limited Number of Short Counterexamples</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>COLT</jconf>
+		<id>109005</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Learning From Texts: Degrees of Instrinsic Complexity and Their Characterizations</title>
+		<year>2000</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen</authors>
+		<jconf>COLT</jconf>
+		<id>109006</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning All Subfunctions of a Function</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen</authors>
+		<jconf>COLT</jconf>
+		<id>109007</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finite Learning by a ``Team'</title>
+		<year>1990</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109008</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probability is More Powerful Than Team for Language Identification from Positive Data</title>
+		<year>1993</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109009</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Intrinsic Complexity of Language Identification</title>
+		<year>1994</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109010</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elementary Formal Systems, Intrinsic Complexity, and Procrastination</title>
+		<year>1996</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109011</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Generalized Notion of Mistake Bounds</title>
+		<year>1999</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109012</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence to Nearly Minimal Size Grammars by Vacillating Learning Machines</title>
+		<year>1989</year>
+		<authors>Sanjay Jain,Arun Sharma,John Case</authors>
+		<jconf>COLT</jconf>
+		<id>109013</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Power of Learning Robustly</title>
+		<year>1998</year>
+		<authors>Sanjay Jain,Carl H. Smith,Rolf Wiehagen</authors>
+		<jconf>COLT</jconf>
+		<id>109014</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mitotic Classes</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>COLT</jconf>
+		<id>109382</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Correction Grammars</title>
+		<year>2007</year>
+		<authors>Lorenzo Carlucci,John Case,Sanjay Jain</authors>
+		<jconf>COLT</jconf>
+		<id>109403</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ordinal Mind Change Complexity of Language Identification</title>
+		<year>1997</year>
+		<authors>Andris Ambainis,Sanjay Jain,Arun Sharma</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192564</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Control Structures in Hypothesis Spaces: The Influence on Learning</title>
+		<year>1997</year>
+		<authors>John Case,Sanjay Jain,Mandayam Suraj</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192590</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Kolmogorov numberings and minimal identification</title>
+		<year>1995</year>
+		<authors>Rusins Freivalds,Sanjay Jain</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192598</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The structure of intrinsic complexity of learning</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192612</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mind Change Complexity of Learning Logic Programs</title>
+		<year>1999</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192613</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Complexity Issues for Vacillatory Function Identification</title>
+		<year>1991</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219437</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Limitations of Locally Robust Positive Reductions</title>
+		<year>1989</year>
+		<authors>Lane A. Hemachandra,Sanjay Jain</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219632</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Branch and Bound on the Network Model</title>
+		<year>1995</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219664</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Languages from Positive Data and a Finite Number of Queries</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219666</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Not-So-Nearly-Minimal-Size Program Inference</title>
+		<year>1995</year>
+		<authors>John Case,Mandayam Suraj,Sanjay Jain</authors>
+		<jconf>GOSLER Final Report</jconf>
+		<id>235368</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Identification by Teams and Probabilistic Machines</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>GOSLER Final Report</jconf>
+		<id>235377</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Learning by a 'Team' (Extended Abstract)</title>
+		<year>1990</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>ICALP</jconf>
+		<id>268324</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>ICGI</jconf>
+		<id>311057</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Crowd Control: Coordinating Processes in Parallel</title>
+		<year>1987</year>
+		<authors>Thomas J. LeBlanc,Sanjay Jain</authors>
+		<jconf>ICPP</jconf>
+		<id>343558</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Machine Learning of Higher Order Programs</title>
+		<year>1992</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain,Mandayam Suraj</authors>
+		<jconf>LFCS</jconf>
+		<id>483927</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Banishing Robust Turing Completeness</title>
+		<year>1992</year>
+		<authors>Lane A. Hemachandra,Sanjay Jain,Nikolai K. Vereshchagin</authors>
+		<jconf>LFCS</jconf>
+		<id>484009</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Prediction Tools for Parallel Discrete-Event Simulation</title>
+		<year>1999</year>
+		<authors>Chu-Cheow Lim,Yoke-Hean Low,Boon-Ping Gan,Sanjay Jain,Wentong Cai,Wen-Jing Hsu,Shell-Ying Huang</authors>
+		<jconf>Workshop on Parallel and Distributed Simulation</jconf>
+		<id>526454</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Load balancing for conservative simulation on shared memory multiprocessor systems</title>
+		<year>2000</year>
+		<authors>Boon-Ping Gan,Yoke-Hean Low,Sanjay Jain,Stephen John Turner,Wentong Cai,Wen-Jing Hsu,Shell-Ying Huang</authors>
+		<jconf>PADS</jconf>
+		<id>526477</id>
+		<label>4</label>
+		<organization>Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075</organization>
+	</publication>
+	<publication>
+		<title>Topology Independent Models for Parallel Computation</title>
+		<year>1994</year>
+		<authors>Chee-Kong Chui,Sanjay Jain,Raghu Raghavan</authors>
+		<jconf>Parcella</jconf>
+		<id>529009</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Team Learning of Recursive Languages</title>
+		<year>1996</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>PRICAI</jconf>
+		<id>551516</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Learning With Some Negative Information</title>
+		<year>1993</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain</authors>
+		<jconf>STACS</jconf>
+		<id>619840</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Costs of General Purpose Learning</title>
+		<year>1999</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain</authors>
+		<jconf>STACS</jconf>
+		<id>620043</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Invertible Classes</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Jochen Nessel,Frank Stephan</authors>
+		<jconf>TAMC</jconf>
+		<id>625959</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some Recent Results in U-Shaped Learning</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>TAMC</jconf>
+		<id>625961</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hypothesis Formation and Language Acquisition with an Infinitely-Often Correct Teacher</title>
+		<year>1990</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>TARK</jconf>
+		<id>626800</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supply chain opportunities: panel session: opportunities for simulation in supply chain management</title>
+		<year>2002</year>
+		<authors>Jerry Banks,Sanjay Jain,Stephen J. Buckley,Peter Lendermann,Mani S. Manivannan</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>667715</id>
+		<label>4</label>
+		<organization>Virginia Tech, Alexandria, VA</organization>
+	</publication>
+	<publication>
+		<title>Manufacturing sypply chain management: distributed supply chain simulation across enterprise boundaries</title>
+		<year>2000</year>
+		<authors>Boon-Ping Gan,Li Liu,Sanjay Jain,Stephen John Turner,Wentong Cai,Wen-Jing Hsu</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>668672</id>
+		<label>4</label>
+		<organization>Gintic Institute of Manufacturing Technology, SINGAPORE 638075</organization>
+	</publication>
+	<publication>
+		<title>Supply Chain Management Tradeoffs Analysis</title>
+		<year>2004</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669170</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulation in the next millennium</title>
+		<year>1999</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669172</id>
+		<label>4</label>
+		<organization>Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075</organization>
+	</publication>
+	<publication>
+		<title>Expert simulation for on-line scheduling</title>
+		<year>1989</year>
+		<authors>Sanjay Jain,Karon Barber,David Osterfeld</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669173</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experiences with Backward Simulation Based Approach for Lot Release Planning</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Stephen Chan</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669174</id>
+		<label>4</label>
+		<organization>Gintic Institute of Manufacturing Technology</organization>
+	</publication>
+	<publication>
+		<title>Manufacturing supply chain applications: modeling computer assembly operations for supply chain integration</title>
+		<year>2002</year>
+		<authors>Sanjay Jain,Ngai Fong Choong,William G. K. Lee</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669175</id>
+		<label>4</label>
+		<organization>Virginia Polytechnic Institute and State University, Alexandria, VA</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the supply chain for a large logistics operation using simulation</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Eric C. Ervin,Andrew P. Lathrop,Russell W. Workman,Lisa M. Collins</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669176</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stress testing a supply chain using simulation</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Swee Leong</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669177</id>
+		<label>4</label>
+		<organization>The George Washington University, NW Washington, DC</organization>
+	</publication>
+	<publication>
+		<title>Criticality of detailed modeling in semiconductor supply chain simulation</title>
+		<year>1999</year>
+		<authors>Sanjay Jain,Chu-Cheow Lim,Boon-Ping Gan,Yoke-Hean Low</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669178</id>
+		<label>4</label>
+		<organization>Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075</organization>
+	</publication>
+	<publication>
+		<title>Simulation for emergency response: a framework for modeling and simulation for emergency response</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Charles McLean</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669179</id>
+		<label>4</label>
+		<organization>Virginia Polytechnic Institute and State University, Falls Church, VA</organization>
+	</publication>
+	<publication>
+		<title>Integrated simulation and gaming architecture for incident management training</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Charles R. McLean</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669180</id>
+		<label>4</label>
+		<organization>The George Washington University, Washington, DC</organization>
+	</publication>
+	<publication>
+		<title>Supply chain applications II: development of a high-level supply chain simulation model</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Russell W. Workman,Lisa M. Collins,Eric C. Ervin,Andrew P. Lathrop</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669181</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementations of Dispatch Rules in Parallel Manufacturing Simulation</title>
+		<year>1998</year>
+		<authors>Chu-Cheow Lim,Yoke-Hean Low,Boon-Ping Gan,Sanjay Jain</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669652</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A concept prototype for integrated gaming and simulation for incident management</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Charles R. McLean</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>671703</id>
+		<label>4</label>
+		<organization>The George Washington University, Funger Hall, Washington, DC</organization>
+	</publication>
+	<publication>
+		<title>Distributed simulation for interoperability testing along the supply chain</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Frank Riddick,Andreas Craens,Deogratias Kibira</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>671980</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tradeoffs in building a generic supply chain simulation capability</title>
+		<year>2008</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>672152</id>
+		<label>4</label>
+		<organization>The George Washington University, Washington, DC</organization>
+	</publication>
+	<publication>
+		<title>A simulation architecture for manufacturing interoperability testing</title>
+		<year>2007</year>
+		<authors>Charles McLean,Sanjay Jain,Frank Riddick,Y. Tina Lee</authors>
+		<jconf>SCSC</jconf>
+		<id>718831</id>
+		<label>4</label>
+		<organization>National Institute of Standards and Technology, Gaithersburg, MD</organization>
+	</publication>
+	<publication>
+		<title>Towards standards for integrated gaming and simulation for incident management</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Charles R. McLean,Y. Tina Lee</authors>
+		<jconf>SCSC</jconf>
+		<id>718898</id>
+		<label>4</label>
+		<organization>The George Washington University, Washington, DC</organization>
+	</publication>
+	<publication>
+		<title>Hypothesis Spaces for Learning</title>
+		<year>2009</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>LATA</jconf>
+		<id>722687</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590</organization>
+	</publication>
+	<publication>
+		<title>Generalization and Specialization Strategies for Learning r.e. Languages</title>
+		<year>1998</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>751716</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extremes in the Degrees of Inferability</title>
+		<year>1994</year>
+		<authors>Lance Fortnow,William I. Gasarch,Sanjay Jain,Efim B. Kinber,Martin Kummer,Stuart A. Kurtz,Mark Pleszkovich,Theodore A. Slaman,Robert Solovay,Frank Stephan</authors>
+		<jconf>Ann. Pure Appl. Logic</jconf>
+		<id>753821</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterizing Language Identification in Terms of Computable Numberings</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Ann. Pure Appl. Logic</jconf>
+		<id>753993</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generality's price: Inescapable deficiencies in machine-learned programs</title>
+		<year>2006</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain,Wolfgang Merkle,James S. Royer</authors>
+		<jconf>Ann. Pure Appl. Logic</jconf>
+		<id>754513</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low degree metabolites explain essential reactions and enhance modularity in biological networks</title>
+		<year>2006</year>
+		<authors>Areejit Samal,Shalini Singh,Varun Giri,Sandeep Krishna,Nandula Raghuram,Sanjay Jain</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768999</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Expert Simulation for On-Line Scheduling</title>
+		<year>1990</year>
+		<authors>Sanjay Jain,Karon Barber,David Osterfeld</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>773097</id>
+		<label>4</label>
+		<organization>General Motors Technical Center</organization>
+	</publication>
+	<publication>
+		<title>A Polynomial Time Learner for a Subclass of Regular Patterns</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Rudiger Reischuk,Frank Stephan,Thomas Zeugmann</authors>
+		<jconf>Electronic Colloquium on Computational Complexity (ECCC)</jconf>
+		<id>861433</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Electronic Colloquium on Computational Complexity (ECCC)</jconf>
+		<id>861453</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Intrinsic Complexity of Learning: A Survey</title>
+		<year>2003</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Fundam. Inform.</jconf>
+		<id>881953</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Prescribed Learning of Indexed Families</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Frank Stephan,Ye Nan</authors>
+		<jconf>Fundam. Inform.</jconf>
+		<id>882968</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg</organization>
+	</publication>
+	<publication>
+		<title>The Synthesis of Language Learners</title>
+		<year>1999</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887112</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incremental Concept Learning for Bounded Data Mining</title>
+		<year>1999</year>
+		<authors>John Case,Sanjay Jain,Steffen Lange,Thomas Zeugmann</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887399</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Complexity Issues for Vacillatory Function Identification</title>
+		<year>1995</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Machine Induction Without Revolutionary Changes in Hypothesis Size</title>
+		<year>1996</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887407</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Approximate Inference and Scientific Method</title>
+		<year>1994</year>
+		<authors>Mark A. Fulk,Sanjay Jain</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>887908</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Behaviorally Correct Learning</title>
+		<year>1999</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888352</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning languages from positive data and a finite number of queries</title>
+		<year>2006</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888353</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>On the intrinsic complexity of learning recursive functions</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Christophe Papazian,Carl H. Smith,Rolf Wiehagen</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888354</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 119260 Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning all subfunctions of a function</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888355</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Classes with easily learnable subclasses</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Wolfram Menzel,Frank Stephan</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888356</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 119260, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning by switching type of information</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888357</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning in the Presence of Partial Explanations</title>
+		<year>1991</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888358</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning with the Knowledge of an Upper Bound on Program Size</title>
+		<year>1993</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888359</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computational Limits on Team Identification of Languages</title>
+		<year>1996</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888360</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elementary Formal Dystems, Intrinsic Complexity, and Procrastination</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888361</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Counting extensional differences in BC-learning</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Frank Stephan,Sebastiaan Terwijn</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888362</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finite Identification of Functions by Teams with Success Ratio 1\over2 and Above</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma,Mahendran Velauthapillai</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888363</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variations on U-shaped learning</title>
+		<year>2006</year>
+		<authors>Lorenzo Carlucci,Sanjay Jain,Efim B. Kinber,Frank Stephan</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>889905</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning in Friedberg numberings</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>889986</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Results on memory-limited U-shaped learning</title>
+		<year>2007</year>
+		<authors>Lorenzo Carlucci,John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>890008</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Some natural conditions on incremental learning</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Steffen Lange,Sandra Zilles</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>890011</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Iterative learning from positive data and negative counterexamples</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>890012</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>On Learning Limiting Programs</title>
+		<year>1992</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>908962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Limitations of Locally Robust Positive Reductions</title>
+		<year>1991</year>
+		<authors>Lane A. Hemachandra,Sanjay Jain</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909135</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Banishing Robust Turing Completeness</title>
+		<year>1993</year>
+		<authors>Lane A. Hemaspaandra,Sanjay Jain,Nikolai K. Vereshchagin</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909146</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Infinite Class of Functions Identifiable Using Minimal Programs in all Kolmogorov Numberings</title>
+		<year>1995</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909211</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimal Concept Identification and Reliability</title>
+		<year>1998</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909212</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Question About Learning Nearly Minimal Programs</title>
+		<year>1995</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>931927</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Question of Nearly Minimal Identification of Functions</title>
+		<year>1999</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>931928</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Non-Existence of Maximal Inference Degrees for Language Identification</title>
+		<year>1993</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>931929</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On some open problems in reflective inductive inference</title>
+		<year>2009</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>935214</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590</organization>
+	</publication>
+	<publication>
+		<title>Analytic evaluation of the expectation and variance of different performance measures of a schedule on a single machine under processing time variability</title>
+		<year>2009</year>
+		<authors>Subhash C. Sarin,Balaji Nagarajan,Sanjay Jain,Lingrui Liao</authors>
+		<jconf>J. Comb. Optim.</jconf>
+		<id>970373</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Learning with Some Negative Information</title>
+		<year>1995</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971443</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthesizing Learners Tolerating Computable Noisy Data</title>
+		<year>2001</year>
+		<authors>John Case,Sanjay Jain</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971658</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On learning to coordinate: random bits help, insightful normal forms, and competency isomorphisms</title>
+		<year>2005</year>
+		<authors>John Case,Sanjay Jain,Franco Montagna,Giulia Simi,Andrea Sorbi</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971659</id>
+		<label>0</label>
+		<organization>Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Robust Learning Aided by Context</title>
+		<year>2000</year>
+		<authors>John Case,Sanjay Jain,Matthias Ott,Arun Sharma,Frank Stephan</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971660</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Vacillatory Learning of Nearly Minimal Size Grammars</title>
+		<year>1994</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust learning--rich and poor</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Frank Stephan,Rolf Wiehagen</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971662</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Open Problems in 'Systems That Learn</title>
+		<year>1994</year>
+		<authors>Mark A. Fulk,Sanjay Jain,Daniel N. Osherson</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>971971</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Program Synthesis in the Presence of Infinite Number of Inaccuracies</title>
+		<year>1996</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972297</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning with Refutation</title>
+		<year>1998</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972299</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intrinsic complexity of learning geometrical concepts from positive data</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972301</id>
+		<label>0</label>
+		<organization>Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Language Learning from Texts: Degrees of Intrinsic Complexity and Their Characterizations</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972303</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterizing Language Identification by Standardizing Operations</title>
+		<year>1994</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972305</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Intrinsic Complexity of Language Identification</title>
+		<year>1996</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972307</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Learning Is Rich</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Carl H. Smith,Rolf Wiehagen</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>972309</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning languages in a union</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Yen Kaow Ng,Tiong Seng Tay</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>973188</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 119260, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Non-U-shaped vacillatory and team learning</title>
+		<year>2008</year>
+		<authors>Lorenzo Carlucci,John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>973255</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning languages from positive data and negative counterexamples</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>J. Comput. Syst. Sci.</jconf>
+		<id>973327</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Strong separation of learning classes</title>
+		<year>1992</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain</authors>
+		<jconf>J. Exp. Theor. Artif. Intell.</jconf>
+		<id>980352</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On an open problem in classification of languages</title>
+		<year>2001</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>J. Exp. Theor. Artif. Intell.</jconf>
+		<id>980388</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strong monotonic and set-driven inductive inference</title>
+		<year>1997</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>J. Exp. Theor. Artif. Intell.</jconf>
+		<id>980390</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Machine Learning of Higher-Order Programs</title>
+		<year>1994</year>
+		<authors>Ganesh Baliga,John Case,Sanjay Jain,Mandayam Suraj</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>998211</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some Independence Results for Control Structures in Complete Numberings</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Jochen Nessel</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>999575</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Structure of Intrinsic Complexity of Learning</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>999577</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Team Learning of Computable Languages</title>
+		<year>2000</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theory Comput. Syst.</jconf>
+		<id>1015648</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prudence in Vacillatory Language Identification</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Mathematical Systems Theory</jconf>
+		<id>1015649</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Multiple Sources of Inaccurate Data</title>
+		<year>1997</year>
+		<authors>Ganesh Baliga,Sanjay Jain,Arun Sharma</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1058514</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2006</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1058793</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mitotic Classes in Inductive Inference</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1060860</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ordinal Mind Change Complexity of Language Identification</title>
+		<year>1999</year>
+		<authors>Andris Ambainis,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1088841</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2005</year>
+		<authors>Hiroki Arimura,Sanjay Jain</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1088921</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Costs of general purpose learning</title>
+		<year>2001</year>
+		<authors>John Case,Keh-Jiann Chen,Sanjay Jain</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089922</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predictive learning models for concept drift</title>
+		<year>2001</year>
+		<authors>John Case,Sanjay Jain,Susanne Kaufmann,Arun Sharma,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089923</id>
+		<label>0</label>
+		<organization>Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Vacillatory and BC learning on noisy data</title>
+		<year>2000</year>
+		<authors>John Case,Sanjay Jain,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089924</id>
+		<label>0</label>
+		<organization>National Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Synthesizing noise-tolerant language learners</title>
+		<year>2001</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089925</id>
+		<label>0</label>
+		<organization>National Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Control structures in hypothesis spaces: the influence on learning</title>
+		<year>2002</year>
+		<authors>John Case,Sanjay Jain,Mandayam Suraj</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089926</id>
+		<label>0</label>
+		<organization>National Univ. of Signapore, Singapore, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Anomalous Learning Helps Succinctness</title>
+		<year>1996</year>
+		<authors>John Case,Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1089927</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Kolmogorov Numberings and Minimal Identification</title>
+		<year>1997</year>
+		<authors>Rusins Freivalds,Sanjay Jain</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1091264</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning in the Presence of Inaccurate Information</title>
+		<year>1996</year>
+		<authors>Mark A. Fulk,Sanjay Jain</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1091310</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Branch and bound on the network model</title>
+		<year>2001</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092297</id>
+		<label>0</label>
+		<organization>National Univ. of Singapore, Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning languages and functions by erasing</title>
+		<year>2000</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Steffen Lange,Rolf Wiehagen,Thomas Zeugmann</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092298</id>
+		<label>0</label>
+		<organization>National Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>On learning of functions refutably</title>
+		<year>2003</year>
+		<authors>Sanjay Jain,Efim B. Kinber,Rolf Wiehagen,Thomas Zeugmann</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092299</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the learnability of recursively enumerable languages from good examples</title>
+		<year>2001</year>
+		<authors>Sanjay Jain,Steffen Lange,Jochen Nessel</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092300</id>
+		<label>0</label>
+		<organization>National Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Mind change complexity of learning logic programs</title>
+		<year>2002</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092301</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning how to separate</title>
+		<year>2004</year>
+		<authors>Sanjay Jain,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092302</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 119260, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Program Size Restrictions in Computational Learning</title>
+		<year>1994</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092303</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Aggregating Teams of Learning Machines</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092304</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning a subclass of regular patterns in polynomial time</title>
+		<year>2006</year>
+		<authors>John Case,Sanjay Jain,Rudiger Reischuk,Frank Stephan,Thomas Zeugmann</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095557</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Invertible classes</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Jochen Nessel,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095815</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning multiple languages in groups</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095864</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A general comparison of language learning from examples and from queries</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Steffen Lange,Sandra Zilles</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095877</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning languages from positive data and a limited number of short counterexamples</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095922</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning and extending sublanguages</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096072</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Absolute versus probabilistic classification in a logical setting</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096079</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Prescribed learning of r.e. classes</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Frank Stephan,Ye Nan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096552</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>One-shot learners using negative counterexamples and nearest positive examples</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1227594</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117417, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Uncountable Automatic Classes and Learning</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Qinglong Luo,Pavel Semukhin,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>1237536</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterative Learning from Texts and Counterexamples Using Additional Information</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Efim B. Kinber</authors>
+		<jconf>ALT</jconf>
+		<id>1237540</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Streams</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Frank Stephan,Nan Ye</authors>
+		<jconf>ALT</jconf>
+		<id>1237546</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Index Sets and Universal Numberings</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Frank Stephan,Jason Teutsch</authors>
+		<jconf>CiE</jconf>
+		<id>1239195</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417</organization>
+	</publication>
+	<publication>
+		<title>On some open problems in monotonic and conservative learning</title>
+		<year>2009</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>1276130</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117417</organization>
+	</publication>
+	<publication>
+		<title>Components of an Incident Management Simulation and Gaming Framework and Related Developments</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Charles R. McLean</authors>
+		<jconf>Simulation</jconf>
+		<id>1280724</id>
+		<label>4</label>
+		<organization>Department of Decision Sciences School of Business GeorgeWashington University Washington, DC 20052, USA</organization>
+	</publication>
+	<publication>
+		<title>Input-Dependence in Function-Learning.</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>Theory Comput. Syst.</jconf>
+		<id>1340782</id>
+		<label>0</label>
+		<organization>National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Joint Bidding in the Name-Your-Own-Price Channel: A Strategic Analysis.</title>
+		<year>2008</year>
+		<authors>Wilfred Amaldoss,Sanjay Jain</authors>
+		<jconf>Management Science</jconf>
+		<id>1347884</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elementary formal systems, intrinsic complexity, and procrastination</title>
+		<year>1997</year>
+		<authors>Sanjay Jain,Arun Sharma</authors>
+		<jconf>Information and Computation</jconf>
+		<id>1397352</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary games with two timescales</title>
+		<year>1999</year>
+		<authors>Vivek S. Borkar,Sanjay Jain,Govindan Rangarajan</authors>
+		<jconf>Physica D</jconf>
+		<id>1550187</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>David vs. Goliath: An Analysis of Asymmetric Mixed-Strategy Games and Experimental Evidence</title>
+		<year>2002</year>
+		<authors>Wilfred Amaldoss,Sanjay Jain</authors>
+		<jconf>Management Science</jconf>
+		<id>1560270</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pricing of Information Products on Online Servers: Issues, Models, and Analysis</title>
+		<year>2002</year>
+		<authors>Sanjay Jain,P. K. Kannan</authors>
+		<jconf>Management Science</jconf>
+		<id>1565714</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prescribed Learning of R.E. Classes</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Frank Stephan,Nan Ye</authors>
+		<jconf>Proceedings of the 18th international conference on Algorithmic Learning Theory</jconf>
+		<id>1596224</id>
+		<label>0</label>
+		<organization>Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Learning in the presence of additional information and inaccurate information</title>
+		<year>1991</year>
+		<authors>Sanjay Jain</authors>
+		<jconf>null</jconf>
+		<id>1661807</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finite identification of functions by teams with success ratio 1/2 and above</title>
+		<year>1995</year>
+		<authors>Sanjay Jain,Arun Sharma,Mahendran Velauthapillai</authors>
+		<jconf>Information and Computation</jconf>
+		<id>1711503</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using simulation generators for modeling flexible manufacturing systems</title>
+		<year>1994</year>
+		<authors>William J. Foley,Sanjay Jain,Jorge Haddock</authors>
+		<jconf>Progress in simulation (vol. 2)</jconf>
+		<id>1719033</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

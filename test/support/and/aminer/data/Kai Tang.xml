@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>113317</personID>
+	<FullName>Kai Tang</FullName>
+	<FirstName>Kai</FirstName>
+	<LastName>Tang</LastName>
+	<publication>
+		<title>Dynamic Medial Axes of Planar Shapes</title>
+		<year>2006</year>
+		<authors>Kai Tang,Yong-Jin Liu</authors>
+		<jconf>Computer Graphics International</jconf>
+		<id>86265</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving Intersection Problem of A Canal Surface and A Sphere Analytically</title>
+		<year>2007</year>
+		<authors>Jinyuan Jia,Jiasi Song,Ajay Joneja,Kai Tang</authors>
+		<jconf>CGVR</jconf>
+		<id>86691</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving Intersection Problem of a Canal Surface and a Sphere Analytically</title>
+		<year>2007</year>
+		<authors>Jinyuan Jia,Sijia Song,Ajay Joneja,Kai Tang</authors>
+		<jconf>CGVR</jconf>
+		<id>86692</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stabbing Convex Polygons with a Segment or a Polygon</title>
+		<year>2008</year>
+		<authors>Pankaj K. Agarwal,Danny Z. Chen,Shashidhara K. Ganjugunte,Ewa Misiolek,Micha Sharir,Kai Tang</authors>
+		<jconf>ESA</jconf>
+		<id>186652</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Implementation of RBF-Based Progressive Point-Sampled Geometry</title>
+		<year>2006</year>
+		<authors>Yong-Jin Liu,Kai Tang,Ajay Joneja</authors>
+		<jconf>GMP</jconf>
+		<id>235175</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient and Stable Numerical Algorithms on Equilibrium Equations for Geometric Modeling</title>
+		<year>2004</year>
+		<authors>Yong-Jin Liu,Kai Tang,Matthew Ming-Fai Yuen</authors>
+		<jconf>GMP</jconf>
+		<id>235177</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Revolute Quadric Decomposition of Canal Surfaces and Its Applications</title>
+		<year>2005</year>
+		<authors>Jinyuan Jia,Ajay Joneja,Kai Tang</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>279045</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robustly Computing Intersection Curves of Two Canal Surfaces with Quadric Decomposition</title>
+		<year>2006</year>
+		<authors>Jinyuan Jia,Ajay Joneja,Kai Tang</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>279046</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pattern computation for compression garment</title>
+		<year>2008</year>
+		<authors>Charlie C. L. Wang,Kai Tang</authors>
+		<jconf>Symposium on Solid and Physical Modeling</jconf>
+		<id>606316</id>
+		<label>0</label>
+		<organization>The Hong Kong University of Science and Technology</organization>
+	</publication>
+	<publication>
+		<title>Computing Planar Sections of Surfaces of Revolution with Revolute Quadric Decomposition</title>
+		<year>2004</year>
+		<authors>Jinyuan Jia,Kai Tang,Ajay Joneja,Ki-Wan Kwok</authors>
+		<jconf>SMI</jconf>
+		<id>608270</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scallop hull and its offset</title>
+		<year>1994</year>
+		<authors>Shuo-Yan Chou,Tony C. Woo,Lin-Lin Chen,Kai Tang,Sung Yong Shin</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778292</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling wrinkles on smooth surfaces for footwear design</title>
+		<year>2005</year>
+		<authors>Fu Jing,Ajay Joneja,Kai Tang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778712</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Computing planar swept polygons under translation</title>
+		<year>1997</year>
+		<authors>Kai Tang,Ming-En Wang,Lin-Lin Chen,Shuo-Yan Chou,Tony C. Woo,Ravi Janardan</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778770</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An algorithm for reducing tool retractions in zigzag pocket machining</title>
+		<year>1998</year>
+		<authors>Kai Tang,Shuo-Yan Chou,Lin-Lin Chen</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779362</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Offsetting surface boundaries and 3-axis gouge-free surface machining</title>
+		<year>1995</year>
+		<authors>Kai Tang,Charles C. Cheng,Yakove Dayan</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779364</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Traversing the machining graph of a pocket</title>
+		<year>2003</year>
+		<authors>Kai Tang,Ajay Joneja</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779366</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maximal intersection of spherical polygons by an arc with applications to 4-axis machining</title>
+		<year>2003</year>
+		<authors>Kai Tang,Yong-Jin Liu</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779368</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal connection of loops in laminated object manufacturing</title>
+		<year>2003</year>
+		<authors>Kai Tang,Anthony Pang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-self-overlapping Hermite interpolation mapping: a practical solution for structured quadrilateral meshing</title>
+		<year>2005</year>
+		<authors>Charlie C. L. Wang,Kai Tang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779520</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parametric representation of a surface pencil with a common spatial geodesic</title>
+		<year>2004</year>
+		<authors>Guo-Jin Wang,Kai Tang,Chiew-Lan Tai</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779521</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Freeform surface flattening based on fitting a woven mesh model</title>
+		<year>2005</year>
+		<authors>Charlie C. L. Wang,Kai Tang,Benjamin M. L. Yeung</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779522</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, Hong Kong University of Science and Technology, Clear Water Bay, N.T., Hong Kong, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Reduce the stretch in surface flattening by finding cutting paths to the surface boundary</title>
+		<year>2004</year>
+		<authors>Charlie C. L. Wang,Yu Wang,Kai Tang,Matthew Ming-Fai Yuen</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779525</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Woven model based geometric design of elastic medical braces</title>
+		<year>2007</year>
+		<authors>Charlie C. L. Wang,Kai Tang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779782</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling dynamic developable meshes by the Hamilton principle</title>
+		<year>2007</year>
+		<authors>Yong-Jin Liu,Kai Tang,Ajay Joneja</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779806</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic generation of gouge-free and angular-velocity-compliant five-axis toolpath</title>
+		<year>2007</year>
+		<authors>Nan Wang,Kai Tang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779819</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating strictly non-self-overlapping structured quadrilateral grids</title>
+		<year>2007</year>
+		<authors>Hongwei Lin,Kai Tang,Ajay Joneja,Hujun Bao</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779828</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, NT, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Five-axis tool path generation for a flat-end tool based on iso-conic partitioning</title>
+		<year>2008</year>
+		<authors>Nan Wang,Kai Tang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779941</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, Hong Kong University of Science and Technology, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Biorthogonal wavelets based on gradual subdivision of quadrilateral meshes</title>
+		<year>2008</year>
+		<authors>Huawei Wang,Kai Tang,Kaihuai Qin</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780987</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sketch-based free-form shape modelling with a fast and stable numerical engine</title>
+		<year>2005</year>
+		<authors>Yong-Jin Liu,Kai Tang,Ajay Joneja</authors>
+		<jconf>Computers  Graphics</jconf>
+		<id>785371</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the intersection of a set of direction cones</title>
+		<year>1989</year>
+		<authors>Kai Tang</authors>
+		<jconf>Computer Vision, Graphics, and Image Processing</jconf>
+		<id>834544</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Computing Contact Configurations of a Curved Chain</title>
+		<year>1999</year>
+		<authors>Kai Tang</authors>
+		<jconf>Graphical Models and Image Processing</jconf>
+		<id>834545</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An optimization algorithm for free-form surface partitioning based on weighted gaussian image</title>
+		<year>2005</year>
+		<authors>Kai Tang,Yong-Jin Liu</authors>
+		<jconf>Graphical Models</jconf>
+		<id>834546</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimum Area Convex Packing of Two Convex Polygons</title>
+		<year>2006</year>
+		<authors>Kai Tang,Charlie C. L. Wang,Danny Z. Chen</authors>
+		<jconf>Int. J. Comput. Geometry Appl.</jconf>
+		<id>905657</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiresolution Shape Modeling and Editing in Reverse Engineering</title>
+		<year>2005</year>
+		<authors>Yong-Jin Liu,Kai Tang,Ajay Joneja,Matthew Ming-Fai Yuen</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910305</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiresolution Free Form Object Modeling with Point Sampled Geometry</title>
+		<year>2004</year>
+		<authors>Yong-Jin Liu,Kai Tang,Matthew Ming-Fai Yuen</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973582</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Biconic subdivision of surfaces of revolution and its applications in intersection problems</title>
+		<year>2004</year>
+		<authors>Jinyuan Jia,Kai Tang,Ajay Joneja</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1136637</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science & Technology, Department of Mechanical Engineering, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Manifold-guaranteed out-of-core simplification of large meshes with controlled topological type</title>
+		<year>2003</year>
+		<authors>Yong-Jin Liu,Matthew Ming-Fai Yuen,Kai Tang</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1136753</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Achieving developability of a polygonal surface by minimum deformation: a study of global and local optimization approaches</title>
+		<year>2004</year>
+		<authors>Charlie C. L. Wang,Kai Tang</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1137085</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science and Technology, Department of Mechanical Engineering, Clear Water Bay, N.T., Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Efficient wavelet construction with Catmull-Clark subdivision</title>
+		<year>2006</year>
+		<authors>Huawei Wang,Kaihuai Qin,Kai Tang</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1137185</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quasi-Developable Mesh Surface Interpolation via Mesh Deformation</title>
+		<year>2009</year>
+		<authors>Kai Tang,Ming Chen</authors>
+		<jconf>IEEE Trans. Vis. Comput. Graph.</jconf>
+		<id>1282407</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Biorthogonal wavelet construction for hybrid quad/triangle meshes</title>
+		<year>2009</year>
+		<authors>Huawei Wang,Kai Tang</authors>
+		<jconf>The Visual Computer</jconf>
+		<id>1282516</id>
+		<label>0</label>
+		<organization>Hong Kong University of Science & Technology, Dept. of Mechanical Engineering, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>A Supply Chain Network Design Model for Deteriorating Items.</title>
+		<year>2007</year>
+		<authors>Kai Tang,Chao Yang,Jun Yang</authors>
+		<jconf>null</jconf>
+		<id>1303726</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Pattern-Based Design Approach for Subscription Management of Software as a Service.</title>
+		<year>2009</year>
+		<authors>Zhong Bo Jiang,Wei Sun,Kai Tang,Jane L. Snowdon,Xin Zhang</authors>
+		<jconf>null</jconf>
+		<id>1314496</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Developability-preserved free-form deformation of assembled patches</title>
+		<year>2004</year>
+		<authors>Charlie C. L. Wang,Kai Tang</authors>
+		<jconf>Proceedings of the ninth ACM symposium on Solid modeling and applications</jconf>
+		<id>1356830</id>
+		<label>0</label>
+		<organization>The Hong Kong University of Science and Technology, Clear Water Bay, N.T., Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Tetrahedral mesh generation for solids based on alternating sum of volumes</title>
+		<year>2000</year>
+		<authors>Kai Tang,Shuo-Yan Chou,Lin-Lin Chen,Tony C. Woo</authors>
+		<jconf>Computers in Industry</jconf>
+		<id>1553489</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A novel algorithm for computing intersections of two surfaces of revolution</title>
+		<year>2004</year>
+		<authors>Jinyuan Jia,Kai Tang,Ki-wan Kwok</authors>
+		<jconf>Geometric modeling: techniques, applications, systems and tools</jconf>
+		<id>1562562</id>
+		<label>0</label>
+		<organization>Department of Mechanical Engineering, The Hong Kong University of Science & Technology, Clear Water Bay, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Stabbing Convex Polygons with a Segment or a Polygon</title>
+		<year>2008</year>
+		<authors>Pankaj K. Agarwal,Danny Z. Chen,Shashidhara K. Ganjugunte,Ewa Misiołek,Micha Sharir,Kai Tang</authors>
+		<jconf>Proceedings of the 16th annual European symposium on Algorithms</jconf>
+		<id>1592718</id>
+		<label>0</label>
+		<organization>Dept. of Mech. Engg., HKUST, Hong Kong, China</organization>
+	</publication>
+	<publication>
+		<title>Congruent partition and certain computational geometry problems</title>
+		<year>1991</year>
+		<authors>Kai Tang</authors>
+		<jconf>null</jconf>
+		<id>1674797</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

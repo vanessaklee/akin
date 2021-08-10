@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>44860</personID>
+	<FullName>Thomas Meyer</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Logical Foundations of Negotiation: Outcome, Concession, and Adaptation</title>
+		<year>2004</year>
+		<authors>Thomas Andreas Meyer,Norman Y. Foo,Rex Kwok,Dongmo Zhang</authors>
+		<jconf>AAAI</jconf>
+		<id>14128</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Integration for Description Logics</title>
+		<year>2005</year>
+		<authors>Thomas Andreas Meyer,Kevin Lee,Richard Booth</authors>
+		<jconf>AAAI</jconf>
+		<id>14130</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finding Maximally Satisfiable Terminologies for the Description Logic ALC</title>
+		<year>2006</year>
+		<authors>Thomas Andreas Meyer,Kevin Lee,Richard Booth,Jeff Z. Pan</authors>
+		<jconf>AAAI</jconf>
+		<id>14132</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Negotiation as Mutual Belief Revision</title>
+		<year>2004</year>
+		<authors>Dongmo Zhang,Norman Y. Foo,Thomas Andreas Meyer,Rex Kwok</authors>
+		<jconf>AAAI</jconf>
+		<id>15594</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collage Grammars for Collision-Free Growing of Objects in 3D Scenes</title>
+		<year>2003</year>
+		<authors>Renate Klempien-Hinrichs,Thomas Meyer,Carolina von Totth</authors>
+		<jconf>AGTIVE</jconf>
+		<id>30836</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LPOD Answer Sets and Nash Equilibria</title>
+		<year>2004</year>
+		<authors>Norman Y. Foo,Thomas Meyer,Gerhard Brewka</authors>
+		<jconf>ASIAN</jconf>
+		<id>51333</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementing Iterated Belief Change Via Prime Implicates</title>
+		<year>2007</year>
+		<authors>Zhi Qiang Zhuang,Maurice Pagnucco,Thomas Meyer</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60115</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Solving Semiring Constraint Satisfaction Problems by Transformation to Weighted Semiring Max-SAT</title>
+		<year>2007</year>
+		<authors>Louise Leenen,Anbulagan,Thomas Meyer,Aditya K. Ghose</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60205</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computing Maximally Satisfiable Terminologies for the Description Logic ALC with Cyclic Definitions</title>
+		<year>2006</year>
+		<authors>Kevin Lee,Thomas Meyer,Jeff Z. Pan,Richard Booth</authors>
+		<jconf>Description Logics</jconf>
+		<id>158058</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mutual Enrichment for Agents Through Nested Belief Change: A Semantic Approach</title>
+		<year>2006</year>
+		<authors>Laurent Perrussel,Jean-Marc Thevenin,Thomas Meyer</authors>
+		<jconf>ECAI</jconf>
+		<id>165832</id>
+		<label>1</label>
+		<organization>National ICT Australia and University of New South Wales, Sydney, Australia, email: thomas.meyer@nicta.com.au</organization>
+	</publication>
+	<publication>
+		<title>Equilibria in Social Belief Removal</title>
+		<year>2008</year>
+		<authors>Richard Booth,Thomas Meyer</authors>
+		<jconf>KR</jconf>
+		<id>480102</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Preferential Subsumption</title>
+		<year>2008</year>
+		<authors>Katarina Britz,Johannes Heidema,Thomas Meyer</authors>
+		<jconf>KR</jconf>
+		<id>480156</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Relaxation of a Semiring Constraint Satisfaction Problem Using Combined Semirings</title>
+		<year>2006</year>
+		<authors>Louise Leenen,Thomas Andreas Meyer,Peter Harvey,Aditya Ghose</authors>
+		<jconf>PRICAI</jconf>
+		<id>551620</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Merging Epistemic States</title>
+		<year>2000</year>
+		<authors>Thomas Andreas Meyer</authors>
+		<jconf>PRICAI</jconf>
+		<id>551629</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TAS and IsaWin: Generic Interfaces for Transformational Program Development and Theorem Proving</title>
+		<year>1997</year>
+		<authors>Kolyang,Christoph Luth,Thomas Meyer,Burkhart Wolff</authors>
+		<jconf>TAPSOFT</jconf>
+		<id>626580</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tactic-Based Optimized Compilation of Functional Programs</title>
+		<year>2004</year>
+		<authors>Thomas Meyer,Burkhart Wolff</authors>
+		<jconf>TYPES</jconf>
+		<id>631903</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sydney OWL Syntax - towards a Controlled Natural Language Syntax for OWL 1.1</title>
+		<year>2007</year>
+		<authors>Anne Cregan,Rolf Schwitter,Thomas Meyer</authors>
+		<jconf>OWLED</jconf>
+		<id>716268</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Artificial Chemistry for Networking</title>
+		<year>2007</year>
+		<authors>Thomas Meyer,Lidia Yamamoto,Christian F. Tschudin</authors>
+		<jconf>BIOWIRE</jconf>
+		<id>725799</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Admissible and Restrained Revision</title>
+		<year>2006</year>
+		<authors>Richard Booth,Thomas Andreas Meyer</authors>
+		<jconf>J. Artif. Intell. Res. (JAIR)</jconf>
+		<id>952440</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identification of cylin-dependent kinase 1 inhibitors of a new chemical type by structure-based design and database searching</title>
+		<year>2001</year>
+		<authors>Pascal Furet,Thomas Meyer,Peer Mittl,Heinz Fretz</authors>
+		<jconf>Journal of Computer-Aided Molecular Design</jconf>
+		<id>961369</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structure-based design of potent CDK1 inhibitors derived from olomoucine</title>
+		<year>2000</year>
+		<authors>Pascal Furet,Juerg Zimmermann,Hans-Georg Capraro,Thomas Meyer,Patricia Imbach</authors>
+		<jconf>Journal of Computer-Aided Molecular Design</jconf>
+		<id>961371</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On algorithmically checking whether a Hilbert series comes from a complete intersection</title>
+		<year>2004</year>
+		<authors>Rikard Bogvad,Thomas Meyer</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>993496</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modelling Object Typicality in Description Logics</title>
+		<year>2009</year>
+		<authors>Katarina Britz,Johannes Heidema,Thomas Meyer</authors>
+		<jconf>Australasian Conference on Artificial Intelligence</jconf>
+		<id>1238019</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Real-Time Low-Power Stereo Vision Engine Using Semi-Global Matching</title>
+		<year>2009</year>
+		<authors>Stefan K. Gehrig,Felix Eberli,Thomas Meyer</authors>
+		<jconf>ICVS</jconf>
+		<id>1248803</id>
+		<label>5</label>
+		<organization>Supercomputing Systems AG, Zuerich, Switzerland 8005</organization>
+	</publication>
+	<publication>
+		<title>Next Steps in Propositional Horn Contraction</title>
+		<year>2009</year>
+		<authors>Richard Booth,Thomas Meyer,Ivan Jose Varzinczak</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249423</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A General Family of Preferential Belief Removal Operators</title>
+		<year>2009</year>
+		<authors>Richard Booth,Thomas Meyer,Chattrakul Sombattheera</authors>
+		<jconf>J. Medical Systems</jconf>
+		<id>1264590</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the 2005 Australasian Ontology Workshop - Volume 58</title>
+		<year>2005</year>
+		<authors>Thomas Meyer,Mehmet A. Orgun</authors>
+		<jconf>Conferences in Research and Practice in Information Technology Series; Vol. 172</jconf>
+		<id>1372178</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robustness to Code and Data Deletion in Autocatalytic Quines</title>
+		<year>2008</year>
+		<authors>Thomas Meyer,Daniel Schreckling,Christian Tschudin,Lidia Yamamoto</authors>
+		<jconf>Transactions on Computational Systems Biology X</jconf>
+		<id>1384846</id>
+		<label>0</label>
+		<organization>Computer Science Department, University of Basel, Basel, Switzerland CH---4056</organization>
+	</publication>
+	<publication>
+		<title>A self-healing multipath routing protocol</title>
+		<year>2008</year>
+		<authors>Thomas Meyer,Lidia Yamamoto,Christian Tschudin</authors>
+		<jconf>Proceedings of the 3rd International Conference on Bio-Inspired Models of Network, Information and Computing Sytems</jconf>
+		<id>1386111</id>
+		<label>0</label>
+		<organization>University of Basel, Basel, Switzerland</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the second Australasian workshop on Advances in ontologies - Volume 72</title>
+		<year>2006</year>
+		<authors>Mehmet A. Orgun,Thomas Meyer</authors>
+		<jconf>ACM International Conference Proceeding Series; Vol. 238</jconf>
+		<id>1610483</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multimedia synchronization techniques: experiences based on different system structures</title>
+		<year>1992</year>
+		<authors>Ralf Steinmetz,Thomas Meyer</authors>
+		<jconf>ACM SIGCOMM Computer Communication Review</jconf>
+		<id>1668858</id>
+		<label>6</label>
+		<organization>IBM European Networking Center, Germany</organization>
+	</publication>
+</person>

@@ -104,4 +104,14 @@ defmodule Akin.Util do
         |> Enum.map(&to_string(&1))
     end
   end
+
+  @doc """
+  Camelize input and return as an existing atom, as in referencing functions through apply
+  """
+  def modulize(list) when is_list(list), do: Enum.map(list, fn l -> modulize(l) end)
+  def modulize(atom) when is_atom(atom), do: modulize(Atom.to_string(atom))
+  def modulize(text) when is_binary(text) do
+    String.to_existing_atom("Elixir.Akin.Similarity." <> Macro.camelize(text))
+  end
+  def modulize(text), do: text
 end

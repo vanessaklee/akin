@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>24573</personID>
+	<FullName>Yang Yu</FullName>
+	<FirstName>Yang</FirstName>
+	<LastName>Yu</LastName>
+	<publication>
+		<title>A New Approach to Estimating the Expected First Hitting Time of Evolutionary Algorithms</title>
+		<year>2006</year>
+		<authors>Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>AAAI</jconf>
+		<id>15509</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated and Safe Vulnerability Assessment</title>
+		<year>2005</year>
+		<authors>Fanglu Guo,Yang Yu,Tzi-cker Chiueh</authors>
+		<jconf>ACSAC</jconf>
+		<id>24051</id>
+		<label>2</label>
+		<organization>Stony Brook University, NY</organization>
+	</publication>
+	<publication>
+		<title>Learning the Semantic Meaning of a Concept from the Web</title>
+		<year>2007</year>
+		<authors>Yang Yu,Yun Peng</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31646</id>
+		<label>4</label>
+		<organization>Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA</organization>
+	</publication>
+	<publication>
+		<title>Design of an agent-based middleware for job matchmaking in teleworking community</title>
+		<year>2003</year>
+		<authors>Kenji Sugawara,Yang Yu,Brian Ragsdale,Hideki Hara,Tetsuo Kinoshita</authors>
+		<jconf>AAMAS</jconf>
+		<id>56780</id>
+		<label>6</label>
+		<organization>Chiba Institute of Technology, Narashino, Japan</organization>
+	</publication>
+	<publication>
+		<title>Simulations of Protein Folding Process</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Maozu Guo,Yang Yu</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65209</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Methods and Simulations for the Protein Folding</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Maozu Guo,Yang Yu</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65373</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Display-only file server: a solution against information theft due to insider attack</title>
+		<year>2004</year>
+		<authors>Yang Yu,Tzi-cker Chiueh</authors>
+		<jconf>Digital Rights Management Workshop</jconf>
+		<id>160333</id>
+		<label>2</label>
+		<organization>Stony Brook University, Stony Brook, NY</organization>
+	</publication>
+	<publication>
+		<title>A Meta-model of Temporal Workflow and Its Formalization</title>
+		<year>2004</year>
+		<authors>Yang Yu,Yong Tang,Na Tang,Xiao-ping Ye,Lu Liang</authors>
+		<jconf>GCC</jconf>
+		<id>224167</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Dynamic Task Assignment in Grid Workflow System</title>
+		<year>2006</year>
+		<authors>Teng Zhang,Yang Yu,Zejian Lin,Yiyu Tang,Weibin Zhang</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>224431</id>
+		<label>10</label>
+		<organization>Sun Yat-sen University, China</organization>
+	</publication>
+	<publication>
+		<title>A Workflow Model with Temporal Logic Constraints and Its Automated Verification</title>
+		<year>2007</year>
+		<authors>Yang Yu,Xiaohui Li</authors>
+		<jconf>GCC</jconf>
+		<id>224441</id>
+		<label>10</label>
+		<organization>Sun Yat-sen University</organization>
+	</publication>
+	<publication>
+		<title>A Clustering Approach to Planning Base Station and Relay Station Locations in IEEE 802.16j Multi-Hop Relay Networks</title>
+		<year>2008</year>
+		<authors>Yang Yu,Sean Murphy,Liam Murphy</authors>
+		<jconf>ICC</jconf>
+		<id>276127</id>
+		<label>12</label>
+		<organization>Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Querying Sensor Networks Using Mobile Devices</title>
+		<year>2007</year>
+		<authors>Shourui Tian,Sol M. Shatz,Yang Yu</authors>
+		<jconf>ICCCN</jconf>
+		<id>285449</id>
+		<label>13</label>
+		<organization>Illinois Univ., Chicago</organization>
+	</publication>
+	<publication>
+		<title>Network-Aware State Update For Large Scale Mobile Games</title>
+		<year>2007</year>
+		<authors>Yang Yu,Zhu Li,Larry Shi,Yi-Chiun Chen,Hua Xu</authors>
+		<jconf>ICCCN</jconf>
+		<id>285588</id>
+		<label>13</label>
+		<organization>Motorola Labs., Schaumburg</organization>
+	</publication>
+	<publication>
+		<title>Representing Wholes by Structure</title>
+		<year>2006</year>
+		<authors>Yang Yu,Ji Wang,Ting Wang,Huowang Chen</authors>
+		<jconf>ICCS</jconf>
+		<id>290226</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cocktail Ensemble for Regression</title>
+		<year>2007</year>
+		<authors>Yang Yu,Zhi-Hua Zhou,Kai Ming Ting</authors>
+		<jconf>ICDM</jconf>
+		<id>303413</id>
+		<label>0</label>
+		<organization>Nanjing Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>TEFE: A Time-Efficient Approach to Feature Extraction</title>
+		<year>2008</year>
+		<authors>Li-Ping Liu,Yang Yu,Yuan Jiang,Zhi-Hua Zhou</authors>
+		<jconf>ICDM</jconf>
+		<id>303634</id>
+		<label>0</label>
+		<organization>Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Power-Aware Resource Allocation for Independent Tasks in Heterogeneous Real-Time Systems</title>
+		<year>2002</year>
+		<authors>Yang Yu,Viktor K. Prasanna</authors>
+		<jconf>ICPADS</jconf>
+		<id>341733</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Energy-Latency Tradeoffs for Data Gathering in Wireless Sensor Networks</title>
+		<year>2004</year>
+		<authors>Yang Yu,Bhaskar Krishnamachari,Viktor K. Prasanna</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402880</id>
+		<label>13</label>
+		<organization>Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Utility-Driven Spatiotemporal Sampling Using Mobile Sensors</title>
+		<year>2008</year>
+		<authors>Yang Yu,Loren J. Rittle</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403950</id>
+		<label>13</label>
+		<organization>Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore</organization>
+	</publication>
+	<publication>
+		<title>Utilization-Based Heuristics for Statically Mapping Real-Time Applications onto the HiPer-D Heterogeneous Computing System</title>
+		<year>2002</year>
+		<authors>Shoukat Ali,Jong-Kook Kim,Yang Yu,Shriram B. Gundala,Sethavidh Gertphol,Howard Jay Siegel,Anthony A. Maciejewski,Viktor K. Prasanna</authors>
+		<jconf>IPDPS</jconf>
+		<id>407850</id>
+		<label>13</label>
+		<organization>Purdue University</organization>
+	</publication>
+	<publication>
+		<title>An integer programming approach for static mapping onto heterogeneous real-time systems</title>
+		<year>2001</year>
+		<authors>Sethavidh Gertphol,Yang Yu,Ammar H. Alhusaini,Viktor K. Prasanna</authors>
+		<jconf>IPDPS</jconf>
+		<id>409016</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Metric and Mixed-Integer-Programming-Based Approach for Resource Allocation in Dynamic Real-Time Systems</title>
+		<year>2002</year>
+		<authors>Sethavidh Gertphol,Yang Yu,Shriram B. Gundala,Viktor K. Prasanna,Shoukat Ali,Jong-Kook Kim,Anthony A. Maciejewski,Howard Jay Siegel</authors>
+		<jconf>IPDPS</jconf>
+		<id>409018</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication Models for Algorithm Design in Networked Sensor Systems</title>
+		<year>2005</year>
+		<authors>Yang Yu,Viktor K. Prasanna,Bo Hong</authors>
+		<jconf>IPDPS</jconf>
+		<id>411365</id>
+		<label>13</label>
+		<organization>University of Southern California, Los Angeles</organization>
+	</publication>
+	<publication>
+		<title>Practical Routing and Torus Assignment for RDT</title>
+		<year>2004</year>
+		<authors>Tao Li,Yang Yu,Peng Li,Jingpeng Xu,Xirong Ma,Yulu Yang</authors>
+		<jconf>ISPAN</jconf>
+		<id>445880</id>
+		<label>16</label>
+		<organization>Dept. of Comput. Sci., Nankai Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Performance analysis of practical RDT interconnection networks with SINOMP</title>
+		<year>2005</year>
+		<authors>Yang Yu,Yulu Yang</authors>
+		<jconf>ISPAN</jconf>
+		<id>445979</id>
+		<label>16</label>
+		<organization>Nankai University, Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Fault-Tolerant Routing Algorithm for RDT Structure</title>
+		<year>2005</year>
+		<authors>Yang Yu,Tao Li,Yulu Yang,Xiaoshe Dong</authors>
+		<jconf>ISPAN</jconf>
+		<id>446150</id>
+		<label>16</label>
+		<organization>Nankai Univ., Tianjin,China</organization>
+	</publication>
+	<publication>
+		<title>A RDT-Based Interconnection Network for Scalable Network-on-Chip Designs</title>
+		<year>2005</year>
+		<authors>Yang Yu,Mei Yang,Yulu Yang,Yingtao Jiang</authors>
+		<jconf>ITCC (2)</jconf>
+		<id>457526</id>
+		<label>16</label>
+		<organization>Dept. of Comput. Sci., Nankai Univ., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>RDT Properties and Evaluations</title>
+		<year>2006</year>
+		<authors>Yulu Yang,Yang Yu</authors>
+		<jconf>ITNG</jconf>
+		<id>457733</id>
+		<label>16</label>
+		<organization>Nankai University, China</organization>
+	</publication>
+	<publication>
+		<title>Energy-balanced task allocation for collaborative processing in networked embedded systems</title>
+		<year>2003</year>
+		<authors>Yang Yu,Viktor K. Prasanna</authors>
+		<jconf>LCTES</jconf>
+		<id>483622</id>
+		<label>13</label>
+		<organization>University of Southern California, Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>Secure Mobile Code Execution Service</title>
+		<year>2006</year>
+		<authors>Lap-Chung Lam,Yang Yu,Tzi-cker Chiueh</authors>
+		<jconf>LISA</jconf>
+		<id>486032</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computer Simulation for Protein Folding</title>
+		<year>2007</year>
+		<authors>Jing Zhang,Yang Yu,Maozu Guo</authors>
+		<jconf>MSV</jconf>
+		<id>509479</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Modeling Positive Class Expansion with Single Snapshot</title>
+		<year>2008</year>
+		<authors>Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>PAKDD</jconf>
+		<id>527424</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Multi-reference Prediction in Video Coding for Improved Error Resilience over Internet</title>
+		<year>2001</year>
+		<authors>Yang Yu,Xuelong Zhu</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>532058</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Greedy Heuristics for Resource Allocation in Dynamic Distributed Real-Time Heterogeneous Computing Systems</title>
+		<year>2002</year>
+		<authors>Shoukat Ali,Jong-Kook Kim,Howard Jay Siegel,Anthony A. Maciejewski,Yang Yu,Shriram B. Gundala,Sethavidh Gertphol,Viktor K. Prasanna</authors>
+		<jconf>PDPTA</jconf>
+		<id>535024</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Bayesian Network Approach to Ontology Mapping</title>
+		<year>2005</year>
+		<authors>Rong Pan,Zhongli Ding,Yang Yu,Yun Peng</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<id>583622</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting concurrent applications in wireless sensor networks</title>
+		<year>2006</year>
+		<authors>Yang Yu,Loren J. Rittle,Vartika Bhandari,Jason B. LeBrun</authors>
+		<jconf>SenSys</jconf>
+		<id>584567</id>
+		<label>13</label>
+		<organization>Motorola Labs</organization>
+	</publication>
+	<publication>
+		<title>MetaData Pro: Ontology-Based Metadata Processing for Web Resources</title>
+		<year>2004</year>
+		<authors>Ting Wang,Ji Wang,Yang Yu,Rui Shen,Jinhong Liu,Huowang Chen</authors>
+		<jconf>WISE Workshops</jconf>
+		<id>663962</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A feather-weight virtual machine for windows applications</title>
+		<year>2006</year>
+		<authors>Yang Yu,Fanglu Guo,Susanta Nanda,Lap-Chung Lam,Tzi-cker Chiueh</authors>
+		<jconf>VEE</jconf>
+		<id>677984</id>
+		<label>2</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>Applications of a feather-weight virtual machine</title>
+		<year>2008</year>
+		<authors>Yang Yu,Hariharan Kolam,Lap-Chung Lam,Tzi-cker Chiueh</authors>
+		<jconf>VEE</jconf>
+		<id>678061</id>
+		<label>2</label>
+		<organization>Stony Brook University, Stony Brook, NY</organization>
+	</publication>
+	<publication>
+		<title>The Dynamic Grey Radial Basis Function Prediction Model and its Applications</title>
+		<year>2006</year>
+		<authors>Jingling Yuan,Luo Zhong,Yang Yu</authors>
+		<jconf>ICICIC (2)</jconf>
+		<id>679259</id>
+		<label>9</label>
+		<organization>Comput. Sch., Wuhan Univ. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Workflow scheduling in grids: an ant colony optimization approach</title>
+		<year>2007</year>
+		<authors>Wei-neng Chen,Jun Zhang,Yang Yu</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697715</id>
+		<label>10</label>
+		<organization>Sun-yat Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>On the usefulness of infeasible solutions in evolutionary search: A theoretical study</title>
+		<year>2008</year>
+		<authors>Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697917</id>
+		<label>0</label>
+		<organization>Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Query privacy in wireless sensor networks</title>
+		<year>2007</year>
+		<authors>Bogdan Carbunar,Yang Yu,Weidong Shi,Michael Pearce,Venu Vasudevan</authors>
+		<jconf>SECON</jconf>
+		<id>727850</id>
+		<label>13</label>
+		<organization>Motorola Labs, Schaumburg</organization>
+	</publication>
+	<publication>
+		<title>3D Simulation of Real-Time Infrared Scene Based on DSP</title>
+		<year>2008</year>
+		<authors>Yang Yu,Xinyi Tang,Haijiao Cai,Yuanlin Chen,Sili Gao</authors>
+		<jconf>CSSE (2)</jconf>
+		<id>729011</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new approach to estimating the expected first hitting time of evolutionary algorithms</title>
+		<year>2008</year>
+		<authors>Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>Artif. Intell.</jconf>
+		<id>746299</id>
+		<label>0</label>
+		<organization>National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China</organization>
+	</publication>
+	<publication>
+		<title>Log-Concave Functions And Poset Probabilities</title>
+		<year>1998</year>
+		<authors>Jeff Kahn,Yang Yu</authors>
+		<jconf>Combinatorica</jconf>
+		<id>798309</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adapt Bagging to Nearest Neighbor Classifiers</title>
+		<year>2005</year>
+		<authors>Zhi-Hua Zhou,Yang Yu</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973942</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Permanent Rank of a Matrix</title>
+		<year>1999</year>
+		<authors>Yang Yu</authors>
+		<jconf>J. Comb. Theory, Ser. A</jconf>
+		<id>978495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resource Allocation for Independent Real-Time Tasks in Heterogeneous Systems for Energy Minimization</title>
+		<year>2003</year>
+		<authors>Yang Yu,Viktor K. Prasanna</authors>
+		<jconf>J. Inf. Sci. Eng.</jconf>
+		<id>983795</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Energy-Balanced Task Allocation for Collaborative Processing in Wireless Sensor Networks</title>
+		<year>2005</year>
+		<authors>Yang Yu,Viktor K. Prasanna</authors>
+		<jconf>MONET</jconf>
+		<id>1012949</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human appearance modeling for matching across video sequences</title>
+		<year>2007</year>
+		<authors>Yang Yu,David Harwood,Kyongil Yoon,Larry S. Davis</authors>
+		<jconf>Mach. Vis. Appl.</jconf>
+		<id>1017580</id>
+		<label>4</label>
+		<organization>University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA</organization>
+	</publication>
+	<publication>
+		<title>Issues in Designing Middleware for Wireless Sensor Networks</title>
+		<year>2004</year>
+		<authors>Yang Yu,Bhaskar Krishnamachari,Viktor K. Prasanna</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024018</id>
+		<label>13</label>
+		<organization>Univ. of Southern California, Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Data Gathering with Tunable Compression in Sensor Networks</title>
+		<year>2008</year>
+		<authors>Yang Yu,Bhaskar Krishnamachari,Viktor K. Prasanna</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126379</id>
+		<label>13</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Ensembling local learners ThroughMultimodal perturbation</title>
+		<year>2005</year>
+		<authors>Zhi-Hua Zhou,Yang Yu</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132581</id>
+		<label>0</label>
+		<organization>Nat. Lab. for Novel Software Technol., Nanjing Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Energy Minimization for Real-Time Data Gathering in Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Yang Yu,Viktor K. Prasanna,Bhaskar Krishnamachari</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1176362</id>
+		<label>13</label>
+		<organization>Application Res. Center, Motorola Labs., Schaumburg, IL</organization>
+	</publication>
+	<publication>
+		<title>On communication models for algorithm design in networked sensor systems: A case study, </title>
+		<year>2005</year>
+		<authors>Yang Yu,Bo Hong,Viktor K. Prasanna</authors>
+		<jconf>Pervasive and Mobile Computing</jconf>
+		<id>1185329</id>
+		<label>13</label>
+		<organization>Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States</organization>
+	</publication>
+	<publication>
+		<title>Weak Evolvability Equals Strong Evolvability</title>
+		<year>2009</year>
+		<authors>Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>CoRR</jconf>
+		<id>1222633</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spectrum of Variable-Random Trees</title>
+		<year>2008</year>
+		<authors>Fei Tony Liu,Kai Ming Ting,Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>J. Artif. Intell. Res. (JAIR)</jconf>
+		<id>1225840</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting Future Customers via Ensembling Gradually Expanded Trees</title>
+		<year>2007</year>
+		<authors>Yang Yu,De-Chuan Zhan,Xu-Ying Liu,Ming Li,Zhi-Hua Zhou</authors>
+		<jconf>IJDWM</jconf>
+		<id>1231679</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Two-Stage Camera Calibration Method Based on Particle Swarm Optimization</title>
+		<year>2009</year>
+		<authors>Hongwei Gao,Ben Niu,Yang Yu,Liang Chen</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>1247513</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Case Study in Integrating Multiple E-commerce Standards via Semantic Web Technology</title>
+		<year>2009</year>
+		<authors>Yang Yu,Donald Hillman,Basuki Setio,Jeff Heflin</authors>
+		<jconf>International Semantic Web Conference</jconf>
+		<id>1255426</id>
+		<label>4</label>
+		<organization>Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015</organization>
+	</publication>
+	<publication>
+		<title>Querying sensor networks using ad hoc mobile devices: A two-layer networking approach</title>
+		<year>2009</year>
+		<authors>Shourui Tian,Sol M. Shatz,Yang Yu,Juzheng Li</authors>
+		<jconf>Ad Hoc Networks</jconf>
+		<id>1266399</id>
+		<label>13</label>
+		<organization>GainSpan, Inc., Los Gatos, California 95032, United States</organization>
+	</publication>
+	<publication>
+		<title>FEM Based Numerical Analysis on the Temperature Field in Grind-hardening.</title>
+		<year>2009</year>
+		<authors>Jianhua Zhang,Hongsheng Xu,Yang Yu,Zhi Wei</authors>
+		<jconf>null</jconf>
+		<id>1304104</id>
+		<label>18</label>
+		<organization>Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>A workflow model based on fuzzy-timing Petri nets.</title>
+		<year>2005</year>
+		<authors>Yan Pan,Yong Tang,Na Tang,Yang Yu,Wei Dao</authors>
+		<jconf>null</jconf>
+		<id>1304557</id>
+		<label>10</label>
+		<organization>Dept. of Comput. Sci., Sun Yat-sen Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Semi-naive Exploitation of One-Dependence Estimators.</title>
+		<year>2009</year>
+		<authors>Nan Li,Yang Yu,Zhi-Hua Zhou</authors>
+		<jconf>null</jconf>
+		<id>1319494</id>
+		<label>0</label>
+		<organization>Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Shedding New Light on Sequence Design Criteria for Multipath Channels.</title>
+		<year>2009</year>
+		<authors>Xiaoming Dai,Yang Yu,Changguo Sun,Shaohui Sun,Yingming Wang</authors>
+		<jconf>null</jconf>
+		<id>1324123</id>
+		<label>8</label>
+		<organization>Datang Mobile Commun. Equip. Com., Ltd., China</organization>
+	</publication>
+	<publication>
+		<title>Information Processing and Routing in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Yang Yu</authors>
+		<jconf>null</jconf>
+		<id>1361884</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Confining windows inter-process communications for OS-level virtual machine</title>
+		<year>2009</year>
+		<authors>Zhiyong Shan,Yang Yu,Tzi-cker Chiueh</authors>
+		<jconf>Proceedings of the 1st EuroSys Workshop on Virtualization Technology for Dependable Systems</jconf>
+		<id>1385434</id>
+		<label>2</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>SVM Based Classification Mapping for User Navigation</title>
+		<year>2009</year>
+		<authors>Jing-Ling Yuan,Yang Yu,Xuan Xiao,Xiao-Yan Li</authors>
+		<jconf>International Journal of Distributed Sensor Networks</jconf>
+		<id>1390770</id>
+		<label>9</label>
+		<organization>School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China</organization>
+	</publication>
+	<publication>
+		<title>Cotton Variety Selection Model and Application Design</title>
+		<year>2009</year>
+		<authors>Yang Yu,Yan Zhang</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Intelligent Information Technology and Security Informatics</jconf>
+		<id>1391548</id>
+		<label>1</label>
+		<organization>Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Medical Segmentation Using Sobolev Optical Flow</title>
+		<year>2007</year>
+		<authors>Yang Yu,Hong Zhao</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1586130</id>
+		<label>3</label>
+		<organization>Northeastern University, China</organization>
+	</publication>
+</person>

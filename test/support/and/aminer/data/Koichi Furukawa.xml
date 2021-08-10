@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>77159</personID>
+	<FullName>Koichi Furukawa</FullName>
+	<FirstName>Koichi</FirstName>
+	<LastName>Furukawa</LastName>
+	<publication>
+		<title>Experimental Study of Semantic Contents Mining on Intra-university Enterprise Contents Management System for Knowledge Sharing</title>
+		<year>2006</year>
+		<authors>Keiko Shimazu,Isao Saito,Koichi Furukawa</authors>
+		<jconf>ASWC</jconf>
+		<id>54627</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Query Evaluation of Deductive Database by MGTP and its Application to Data Mining</title>
+		<year>1997</year>
+		<authors>Koichi Furukawa,Tomonobu Ozaki,Tomoko Murakami,Ken Ueno,Keiko Shimazu</authors>
+		<jconf>DDLP</jconf>
+		<id>148083</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Completion of the Most Specific Hypothesis Computation in Inverse Entailment for Mutual Recursion</title>
+		<year>1998</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>Discovery Science</jconf>
+		<id>156572</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Model of Children's Vocabulary Acquisition Using Inductive Logic Programming</title>
+		<year>1999</year>
+		<authors>Koichi Furukawa,Ikuo Kobayashi,Tomonobu Ozaki,Mutsumi Imai</authors>
+		<jconf>Discovery Science</jconf>
+		<id>156577</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Exceptional Information from Customer Inquiry by Association Rule Miner</title>
+		<year>2003</year>
+		<authors>Keiko Shimazu,Atsuhito Momma,Koichi Furukawa</authors>
+		<jconf>Discovery Science</jconf>
+		<id>156910</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Computational Model for Children's Language Acquisition Using Inductive Logic Programming</title>
+		<year>2002</year>
+		<authors>Ikuo Kobayashi,Koichi Furukawa,Tomonobu Ozaki,Mutsumi Imai</authors>
+		<jconf>Progress in Discovery Science</jconf>
+		<id>162343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DAISY, an RER Model Based Interface for RDB to ILP</title>
+		<year>2003</year>
+		<authors>Keiko Shimazu,Atsuhito Momma,Koichi Furukawa</authors>
+		<jconf>ER</jconf>
+		<id>183897</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Summary of Basic Research Activities of the FGCS Project</title>
+		<year>1992</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>FGCS</jconf>
+		<id>204997</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Concurrent Logic Programming as a Basis for Large-Scale Knowledge Information Processing - Panel Position Paper</title>
+		<year>1992</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>FGCS</jconf>
+		<id>204999</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MANDELA: A LogicBased Knowledge Programming System</title>
+		<year>1984</year>
+		<authors>Koichi Furukawa,Akikazu Takeuchi,Susumu Kunifuji,Hideki Yasukawa,Masaru Ohki,Kazunori Ueda</authors>
+		<jconf>FGCS</jconf>
+		<id>205001</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Basic Software System</title>
+		<year>1984</year>
+		<authors>Koichi Furukawa,Toshio Yokoi</authors>
+		<jconf>FGCS</jconf>
+		<id>205003</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transformation Rules for GHC Programs</title>
+		<year>1988</year>
+		<authors>Kazunori Ueda,Koichi Furukawa</authors>
+		<jconf>FGCS</jconf>
+		<id>205275</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guarded Horn Clauses and Experience with Parallel Logic Programming</title>
+		<year>1986</year>
+		<authors>Jiro Tanaka,Kazunori Ueda,Tashihiko Miyazaki,Akikazu Takeuchi,Yuji Matsumoto,Koichi Furukawa</authors>
+		<jconf>FJCC</jconf>
+		<id>206916</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GHC - A Language for a New Age of Parallel Programming</title>
+		<year>1988</year>
+		<authors>Koichi Furukawa,Kazunori Ueda</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219552</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Role of Logic Programming in the Fifth Generation Computer Project</title>
+		<year>1986</year>
+		<authors>Kazuhiro Fuchi,Koichi Furukawa</authors>
+		<jconf>ICLP</jconf>
+		<id>328035</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partial Evaluation of GHC Programs Based on the UR-set with Constraints</title>
+		<year>1988</year>
+		<authors>Hiroshi Fujita,Akira Okumura,Koichi Furukawa</authors>
+		<jconf>ICLP/SLP</jconf>
+		<id>328038</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prolog Interpreter Based on Concurrent Programming</title>
+		<year>1982</year>
+		<authors>Koichi Furukawa,Katsumi Nitta,Yuji Matsumoto</authors>
+		<jconf>ICLP</jconf>
+		<id>328040</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Definite Clauses and Integrity Constraints as the Basis for a Theory Formation Approach to Diagnostic Reasoning</title>
+		<year>1986</year>
+		<authors>Randy Goebel,Koichi Furukawa,David Poole</authors>
+		<jconf>ICLP</jconf>
+		<id>328099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eager and Lazy Enumerations in Concurrent Prolog</title>
+		<year>1984</year>
+		<authors>Hideki Hirakawa,Takashi Chikayama,Koichi Furukawa</authors>
+		<jconf>ICLP</jconf>
+		<id>328135</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Object-Oriented Programming Language Based on the Parallel Logic Programming Language KL1</title>
+		<year>1987</year>
+		<authors>Masaru Ohki,Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>ICLP</jconf>
+		<id>328507</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Logic Programming Languages</title>
+		<year>1986</year>
+		<authors>Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>ICLP</jconf>
+		<id>328702</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Respiration Reflecting Musical Expression: Analysis of Respiration during Musical Performance by Inductive Logic Programming</title>
+		<year>2002</year>
+		<authors>Soh Igarashi,Tomonobu Ozaki,Koichi Furukawa</authors>
+		<jconf>ICMAI</jconf>
+		<id>329040</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Specification Languages versus Programming Languages (Panel)</title>
+		<year>1986</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>IFIP Congress</jconf>
+		<id>376265</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constraint Logic Programming as a New Vehicle for Knowledge Representation</title>
+		<year>1989</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>IFIP Congress</jconf>
+		<id>376267</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partial Evaluation of Prolog Programs and its Application to Meta Programming</title>
+		<year>1986</year>
+		<authors>Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>IFIP Congress</jconf>
+		<id>377875</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Deductive Question Answering System on Relational Data Bases</title>
+		<year>1977</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>IJCAI</jconf>
+		<id>388543</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Use of Data Representation Mapping in Automatic Generation of Data Base Access Procedures</title>
+		<year>1981</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>IJCAI</jconf>
+		<id>388544</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Design and Implementation of Progol by Bottom-Up Computation</title>
+		<year>1996</year>
+		<authors>Hiroshi Fujita,Naoki Yagi,Tomonobu Ozaki,Koichi Furukawa</authors>
+		<jconf>Inductive Logic Programming Workshop</jconf>
+		<id>395119</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Sufficient Condition for the Existence of Most Specific Hypothesis in Progol</title>
+		<year>1997</year>
+		<authors>Koichi Furukawa,Tomoko Murakami,Ken Ueno,Tomonobu Ozaki,Keiko Shimazu</authors>
+		<jconf>ILP</jconf>
+		<id>395126</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Completion of Inverse Entailment for Mutual Recursion and its Application to Self Recursion</title>
+		<year>2000</year>
+		<authors>Koichi Furukawa,Tomonobu Ozaki</authors>
+		<jconf>ILP Work-in-progress reports</jconf>
+		<id>395128</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of Pruning Techniques for Propositional Learning to Progol</title>
+		<year>2001</year>
+		<authors>Tomonobu Ozaki,Koichi Furukawa</authors>
+		<jconf>ILP</jconf>
+		<id>395310</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Realizing Progol by Forward Reasoning</title>
+		<year>1997</year>
+		<authors>Tomonobu Ozaki,Koichi Furukawa,Tomoko Murakami,Ken Ueno</authors>
+		<jconf>ILP</jconf>
+		<id>395312</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experimental study of discovering essential information from customer inquiry</title>
+		<year>2003</year>
+		<authors>Keiko Shimazu,Atsuhito Momma,Koichi Furukawa</authors>
+		<jconf>KDD</jconf>
+		<id>473269</id>
+		<label>0</label>
+		<organization>Keio University, 5322 Endo Fujisawa-shi, Kanagawa, Japan</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Interactive Problem Solving Based on Interactive Query Revision</title>
+		<year>1986</year>
+		<authors>Masaru Ohki,Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>LP</jconf>
+		<id>486928</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Verbalizing Unconscious Knowledge Based on Inductive Logic Programming</title>
+		<year>1995</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>Machine Intelligence 15</jconf>
+		<id>495661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Oriented Parser in the Logic Programming Language ESP</title>
+		<year>1984</year>
+		<authors>Hideo Miyoshi,Koichi Furukawa</authors>
+		<jconf>Natural Language Understanding and Natural Language Understanding Workshop</jconf>
+		<id>518948</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Curried least general generalization: A framework for higher order concept learning</title>
+		<year>1996</year>
+		<authors>Srinivas Padmanabhuni,Randy Goebel,Koichi Furukawa</authors>
+		<jconf>PRICAI Workshops</jconf>
+		<id>551745</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>OR-Parallel Optimizing Prolog System: POPS. Its Design and Implementation in Concurrent Prolog</title>
+		<year>1984</year>
+		<authors>Hideki Hirakawa,Rikio Onai,Koichi Furukawa</authors>
+		<jconf>RIMS Symposia on Software Science and Engineering</jconf>
+		<id>559996</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge discovery in database by Progol-design, implementation and its application to expert system building</title>
+		<year>1997</year>
+		<authors>Keiko Shimazu,Koichi Furukawa</authors>
+		<jconf>SAC</jconf>
+		<id>568493</id>
+		<label>0</label>
+		<organization>Keio University, Endo 5322, Fujisawa, Kanagawa, Japan</organization>
+	</publication>
+	<publication>
+		<title>Fifth Generation Computer Project: Towards Large-Scale Knowledge Information Processing</title>
+		<year>1991</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>ISLP</jconf>
+		<id>605425</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Deriving an Efficient Production System by Partial Evaluation</title>
+		<year>1989</year>
+		<authors>Koichi Furukawa,Hiroshi Fujita,Toramatsu Shintani</authors>
+		<jconf>NACLP</jconf>
+		<id>605426</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Methodology for Implementation of a Knowledge Acquisition System</title>
+		<year>1984</year>
+		<authors>Hajime Kitakami,Susumu Kunifuji,Taizo Miyachi,Koichi Furukawa</authors>
+		<jconf>SLP</jconf>
+		<id>605523</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Knowledge Assimilation Method for Logic Databases</title>
+		<year>1984</year>
+		<authors>Taizo Miyachi,Susumu Kunifuji,Hajime Kitakami,Koichi Furukawa,Akikazu Takeuchi,Haruo Yokota</authors>
+		<jconf>SLP</jconf>
+		<id>605656</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Notes on Transformation Techniques for Generate and Test Logic Programs</title>
+		<year>1987</year>
+		<authors>Hirohisa Seki,Koichi Furukawa</authors>
+		<jconf>SLP</jconf>
+		<id>605706</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Role of Logic Programming in the FGCS Project</title>
+		<year>1991</year>
+		<authors>Kazuhiro Fuchi,Koichi Furukawa</authors>
+		<jconf>TACS</jconf>
+		<id>625656</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fifth Generation Computer Project: Current Research Activity and Future Plans</title>
+		<year>1987</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>TAPSOFT, Vol.2</jconf>
+		<id>626513</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Panel: Directions in Database Research</title>
+		<year>1977</year>
+		<authors>George Champine,Craig Fields,Koichi Furukawa,David Jefferson,Fritz Kruckeberg,Giora Pelled,Charles Purcell,John Rundell,Tadahiko Takahama</authors>
+		<jconf>VLDB</jconf>
+		<id>642255</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prolog Interpreter and its Parallel Extension</title>
+		<year>1984</year>
+		<authors>Yuji Matsumoto,Katsumi Nitta,Koichi Furukawa</authors>
+		<jconf>VLSI Engineering</jconf>
+		<id>644427</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logic Programming as the Integrator of the Fifth Generation Computer Systems Project</title>
+		<year>1992</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>771919</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Fifth Generation Project: Personal Perspectives</title>
+		<year>1993</year>
+		<authors>Ehud Y. Shapiro,David H. D. Warren,Kazuhiro Fuchi,Robert A. Kowalski,Koichi Furukawa,Kazunori Ueda,Kenneth M. Kahn,Takashi Chikayama,Evan Tick</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>775984</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Engineering and Fifth Generation Computers</title>
+		<year>1983</year>
+		<authors>Koichi Furukawa,Kazuhiro Fuchi</authors>
+		<jconf>IEEE Database Eng. Bull.</jconf>
+		<id>844512</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Motor Skill as Dynamic Constraint Satisfaction</title>
+		<year>2000</year>
+		<authors>Ken Ueno,Koichi Furukawa,Michael Bain</authors>
+		<jconf>Electron. Trans. Artif. Intell.</jconf>
+		<id>873442</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Bootstrapping Model for Children's Vocabulary Acquisition using Inductive Logic Programming</title>
+		<year>2001</year>
+		<authors>Ikuo Kobayashi,Koichi Furukawa,Tomonobu Ozaki,Mutsumi Imai</authors>
+		<jconf>Electron. Trans. Artif. Intell.</jconf>
+		<id>873453</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fifth Generation Computer Systems (FGCS) Project in Japan</title>
+		<year>1993</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>Informatica (Slovenia)</jconf>
+		<id>923609</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Role of Logic Programming in the Fifth Generation Computer Project</title>
+		<year>1987</year>
+		<authors>Kazuhiro Fuchi,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025004</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Self-Applicable Partial Evaluator and Its Use in Incremental Compilation</title>
+		<year>1988</year>
+		<authors>Hiroshi Fujita,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025008</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Cross Fertilization of Multiple Disciplines</title>
+		<year>2002</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025018</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modularization and Abstraction in Logic Programming</title>
+		<year>1983</year>
+		<authors>Koichi Furukawa,Reiji Nakajima,Akinori Yonezawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025020</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unfolding Rules for GHC Programs</title>
+		<year>1988</year>
+		<authors>Koichi Furukawa,Akira Okumura,Masaki Murakami</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025022</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Special Issue on Algorithmic Learning Theory</title>
+		<year>1994</year>
+		<authors>Koichi Furukawa,Takeshi Shinohara,Yuji Takada</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025024</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface to the Special Issue</title>
+		<year>1987</year>
+		<authors>Kenneth M. Kahn,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025134</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Yorktown Heights, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>A Knowledge Assimilation Method for Logic Databases</title>
+		<year>1984</year>
+		<authors>Taizo Miyachi,Susumu Kunifuji,Hajime Kitakami,Koichi Furukawa,Akikazu Takeuchi,Haruo Yokota</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025139</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Preface</title>
+		<year>1985</year>
+		<authors>Fumio Mizoguchi,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025161</id>
+		<label>0</label>
+		<organization>Univ. of Kansas, Lawrence, KS, USA</organization>
+	</publication>
+	<publication>
+		<title>Special Issue on Inductive Logic Programming</title>
+		<year>1995</year>
+		<authors>Stephen Muggleton,Fumio Mizoguchi,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025180</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bounded Buffer Communication in Concurrent Prolog</title>
+		<year>1985</year>
+		<authors>Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025324</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Philosophy of New Generation Computing -- In Remembrance of Professor Kazuhiro Fuchi</title>
+		<year>2006</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025390</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2003</year>
+		<authors>Setsuo Arikawa,Koichi Furukawa,Shinichi Morishita,Hiroshi Motoda</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1088918</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of Database Interface to ILP for Building Knowledge Base</title>
+		<year>1996</year>
+		<authors>Keiko Shimazu,Koichi Furukawa</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>1210834</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contents Sharing Framework Using CCCI Model for Intra-University Network</title>
+		<year>2006</year>
+		<authors>Keiko Shimazu,Isao Saito,Koichi Furukawa</authors>
+		<jconf>Proceedings of the Seventh International Conference on Web-Age Information Management Workshops</jconf>
+		<id>1369646</id>
+		<label>0</label>
+		<organization>Keio University, Japan</organization>
+	</publication>
+	<publication>
+		<title>OR-parallel optimizing Prolog system: POPS its design and implementation in concurrent Prolog</title>
+		<year>1986</year>
+		<authors>Hideki Hirakawa,Rikio Onai,Koichi Furukawa</authors>
+		<jconf>Proceedings of the symposia 1983 and 1984 on RIMS symposia on software science and engineering II</jconf>
+		<id>1457782</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A framework for interactive problem solving based on interactive query revision</title>
+		<year>1987</year>
+		<authors>Masaru Ohki,Akikazu Takeuchi,Koichi Furukawa</authors>
+		<jconf>The 5th Conference on Logic programming '86</jconf>
+		<id>1457935</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logic programming as the integrator of the fifth generation computer systems project</title>
+		<year>1993</year>
+		<authors>Koichi Furukawa</authors>
+		<jconf>Proceedings of the third international conference on Young computer scientists</jconf>
+		<id>1496319</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Launching the new era</title>
+		<year>1993</year>
+		<authors>Kazuhiro Fuchi,Robert Kowalski,Koichi Furukawa,Kazunori Ueda,Ken Kahn,Takashi Chikayama,Evan Tick</authors>
+		<jconf>Communications of the ACM</jconf>
+		<id>1501414</id>
+		<label>0</label>
+		<organization>Keio Univ., Kanagawa, Japan</organization>
+	</publication>
+	<publication>
+		<title>On the number of securities which constitute an efficient portfolio</title>
+		<year>1993</year>
+		<authors>Munenori Nakasato,Koichi Furukawa</authors>
+		<jconf>Annals of Operations Research</jconf>
+		<id>1503334</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logic Programming, 1989: Proceedings of the 8th Conference Tokyo, Japan, July 12-14, 1989</title>
+		<year>1991</year>
+		<authors>Koichi Furukawa,Hidehiko Tanaka,T. Fujisaki</authors>
+		<jconf>null</jconf>
+		<id>1532719</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Special issue on real world computing project</title>
+		<year>2000</year>
+		<authors>Hidehiko Tanaka,Koichi Furukawa,Taisuke Sato,Jyunichi Shimada,Yoshikuni Okada</authors>
+		<jconf>New Generation Computing</jconf>
+		<id>1555879</id>
+		<label>0</label>
+		<organization>Keio Univ.</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the Second International Conference on Discovery Science</title>
+		<year>1999</year>
+		<authors>Setsuo Arikawa,Koichi Furukawa</authors>
+		<jconf>Lecture Notes In Computer Science; Vol. 1721</jconf>
+		<id>1619836</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

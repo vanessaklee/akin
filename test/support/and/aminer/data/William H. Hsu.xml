@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>20550</personID>
+	<FullName>William H. Hsu</FullName>
+	<FirstName>William H.</FirstName>
+	<LastName>Hsu</LastName>
+	<publication>
+		<title>Probabilistic Learning in Bayesian and Stochastic Neural Networks</title>
+		<year>1997</year>
+		<authors>William H. Hsu</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>11821</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Prediction of Protein Secondary Structure Using Causal Networks (Extended Abstract)</title>
+		<year>1993</year>
+		<authors>Arthur L. Delcher,Simon Kasif,Harry R. Goldberg,William H. Hsu</authors>
+		<jconf>AAAI</jconf>
+		<id>12491</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Network Models for Generation of Crisis Management Training Scenarios</title>
+		<year>1998</year>
+		<authors>Eugene Grois,William H. Hsu,Mikhail Voloshin,David C. Wilkins</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>13029</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Tuning Variable Orderings in Bayesian Network Structure Learning</title>
+		<year>2002</year>
+		<authors>Haipeng Guo,Benjamin B. Perry,Julie A. Stilson,William H. Hsu</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>13046</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An ACO Algorithm for the Most Probable Explanation Problem</title>
+		<year>2004</year>
+		<authors>Haipeng Guo,Prashanth R. Boddhireddy,William H. Hsu</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59374</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Learning-Based Algorithm Selection Meta-reasoner for the Real-Time MPE Problem</title>
+		<year>2004</year>
+		<authors>Haipeng Guo,William H. Hsu</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59378</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structural Prediction of Protein-Protein Interactions in Saccharomyces cerevisiae</title>
+		<year>2007</year>
+		<authors>Martin S. R. Paradesi,Doina Caragea,William H. Hsu</authors>
+		<jconf>BIBE</jconf>
+		<id>63539</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Text Extraction from the Web via Text-to-Tag Ratio</title>
+		<year>2008</year>
+		<authors>Tim Weninger,William H. Hsu</authors>
+		<jconf>DEXA Workshops</jconf>
+		<id>152781</id>
+		<label>0</label>
+		<organization>Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS</organization>
+	</publication>
+	<publication>
+		<title>Layered Learning in Genetic Programming for a Cooperative Robot Soccer Problem</title>
+		<year>2001</year>
+		<authors>Steven M. Gustafson,William H. Hsu</authors>
+		<jconf>EuroGP</jconf>
+		<id>194177</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary tree genetic programming</title>
+		<year>2005</year>
+		<authors>Jan Antolik,William H. Hsu</authors>
+		<jconf>GECCO</jconf>
+		<id>225452</id>
+		<label>0</label>
+		<organization>Kansas State University, Manhattan, KS</organization>
+	</publication>
+	<publication>
+		<title>An Ant Colony Approach For The Steiner Tree Problem</title>
+		<year>2002</year>
+		<authors>Sanjoy Das,Shekhar V. Gosavi,William H. Hsu,Shilpa A. Vaze</authors>
+		<jconf>GECCO</jconf>
+		<id>225762</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Ant Colony Algorithm for Steiner Trees: New Results</title>
+		<year>2002</year>
+		<authors>Sanjoy Das,Shekhar V. Gosavi,William H. Hsu,Shilpa A. Vaze</authors>
+		<jconf>GECCO Late Breaking Papers</jconf>
+		<id>225763</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GA-Hardness Revisited</title>
+		<year>2003</year>
+		<authors>Haipeng Guo,William H. Hsu</authors>
+		<jconf>GECCO</jconf>
+		<id>226027</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms for Reformulation of Large-Scale KDD Problems with Many Irrelevant Attributes</title>
+		<year>2000</year>
+		<authors>William H. Hsu,Yuhong Cheng,Haipeng Guo,Steven M. Gustafson</authors>
+		<jconf>GECCO</jconf>
+		<id>226122</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Programming And Multi-agent Layered Learning By Reinforcements</title>
+		<year>2002</year>
+		<authors>William H. Hsu,Steven M. Gustafson</authors>
+		<jconf>GECCO</jconf>
+		<id>226123</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Permutation Genetic Algorithm For Variable Ordering In Learning Bayesian Networks From Data</title>
+		<year>2002</year>
+		<authors>William H. Hsu,Haipeng Guo,Benjamin B. Perry,Julie A. Stilson</authors>
+		<jconf>GECCO</jconf>
+		<id>226124</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Wrappers For Feature Subset Selection In Supervised Inductive Learning</title>
+		<year>2002</year>
+		<authors>William H. Hsu,Cecil P. Schmidt,James A. Louis</authors>
+		<jconf>GECCO</jconf>
+		<id>226125</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Wrappers for Constructive Induction in High-Performance Data Mining</title>
+		<year>2000</year>
+		<authors>William H. Hsu,Michael Welge,Thomas Redman,David Clutter</authors>
+		<jconf>GECCO</jconf>
+		<id>226126</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic System Prediction using Temporal Artificial Neural Networks and Multi-Objective Genetic Algorithms</title>
+		<year>2005</year>
+		<authors>Praveen Koduru,William H. Hsu,Sanjoy Das,Stephen Welch,Judith L. Roe</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>260308</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Relational Graphical Models of Computational Workflows for Data Mining</title>
+		<year>2004</year>
+		<authors>William H. Hsu</authors>
+		<jconf>ICSNW</jconf>
+		<id>365072</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Protein Secondary-Structure Modeling with Probabilistic Networks</title>
+		<year>1993</year>
+		<authors>Arthur L. Delcher,Simon Kasif,Harry R. Goldberg,William H. Hsu</authors>
+		<jconf>ISMB</jconf>
+		<id>438322</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-Performance Commercial Data Mining: A Multistrategy Machine Learning Application</title>
+		<year>2002</year>
+		<authors>William H. Hsu,Michael Welge,Thomas Redman,David Clutter</authors>
+		<jconf>Data Min. Knowl. Discov.</jconf>
+		<id>839498</id>
+		<label>0</label>
+		<organization>Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu</organization>
+	</publication>
+	<publication>
+		<title>Self-Organized-Expert Modular Network for Classification of Spatiotemporal Sequences</title>
+		<year>1998</year>
+		<authors>Sylvian R. Ray,William H. Hsu</authors>
+		<jconf>Intell. Data Anal.</jconf>
+		<id>893320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Clusnet Algorithm And Time Series Prediction</title>
+		<year>1993</year>
+		<authors>William H. Hsu,Loke-Soo Hsu,Manoel Fernando Tenorio</authors>
+		<jconf>Int. J. Neural Syst.</jconf>
+		<id>914708</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic wrappers for feature selection in decision tree induction and variable ordering in Bayesian network structure learning</title>
+		<year>2004</year>
+		<authors>William H. Hsu</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>940458</id>
+		<label>0</label>
+		<organization>Department of Computing and Information Sciences, Kansas State University, Manhattan, KS and National Center for Supercomputing Applications (NCSA), University of Illinois, Champaign, IL</organization>
+	</publication>
+	<publication>
+		<title>A Multistrategy Approach to Classifier Learning from Time Series</title>
+		<year>2000</year>
+		<authors>William H. Hsu,Sylvian R. Ray,David C. Wilkins</authors>
+		<jconf>Machine Learning</jconf>
+		<id>1009547</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parameter Significance Estimation and Financial Prediction</title>
+		<year>1993</year>
+		<authors>William H. Hsu,Loke-Soo Hsu,Manoel Fernando Tenorio</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<id>1021740</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Synthesis of Compression Techniques for Heterogeneous</title>
+		<year>1995</year>
+		<authors>William H. Hsu,Amy E. Zwarico</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1074316</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A machine learning approach to algorithm selection for NP\mathcal{NP} -hard optimization problems: a case study on the MPE problem</title>
+		<year>2007</year>
+		<authors>Haipeng Guo,William H. Hsu</authors>
+		<jconf>Annals OR</jconf>
+		<id>1189777</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An evolutionary approach to constructive induction for link discovery</title>
+		<year>2009</year>
+		<authors>Tim Weninger,William H. Hsu,Jing Xia,Waleed Aljandal</authors>
+		<jconf>GECCO</jconf>
+		<id>1207716</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An evolutionary approach to constructive induction for link discovery</title>
+		<year>2009</year>
+		<authors>Tim Weninger,William H. Hsu,Jing Xia,Waleed Aljandal</authors>
+		<jconf>GECCO (Companion)</jconf>
+		<id>1208120</id>
+		<label>0</label>
+		<organization>Kansas State University, Manhattan, KS, USA</organization>
+	</publication>
+	<publication>
+		<title>Graph Drawing Heuristics for Path Finding in Large Dimensionless Graphs</title>
+		<year>2009</year>
+		<authors>Tim Weninger,Rodney Howell,William H. Hsu</authors>
+		<jconf>IC-AI</jconf>
+		<id>1245295</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bi-relational Network Analysis Using a Fast Random Walk with Restart.</title>
+		<year>2009</year>
+		<authors>Jing Xia,Doina Caragea,William H. Hsu</authors>
+		<jconf>null</jconf>
+		<id>1319537</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Control of inductive bias in supervised learning using evolutionary computation: a wrapper-based approach</title>
+		<year>2003</year>
+		<authors>William H. Hsu</authors>
+		<jconf>Data mining: opportunities and challenges</jconf>
+		<id>1492306</id>
+		<label>0</label>
+		<organization>Kansas State University</organization>
+	</publication>
+</person>

@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>182</personID>
+	<FullName>David E. Goldberg</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Genetic Algorithms in Search Optimization and Machine Learning</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>null</jconf>
+		<id>140</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Deep Building Blocks for Competent Genetic Algorithms Using Chance Discovery via KeyGraphs</title>
+		<year>2003</year>
+		<authors>David E. Goldberg,Kumara Sastry,Yukio Ohsawa</authors>
+		<jconf>Chance Discovery</jconf>
+		<id>2912</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generalized State Values in an Anticipatory Learning Classifier System</title>
+		<year>2003</year>
+		<authors>Martin Butz,David E. Goldberg</authors>
+		<jconf>Anticipatory Behavior in Adaptive Learning Systems</jconf>
+		<id>39156</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Little Models, Big Results</title>
+		<year>2005</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59459</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sub-structural Niching in Non-stationary Environments</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,Hussein A. Abbass,David E. Goldberg</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59889</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Where Does the Good Stuff Go, and Why? How Contextual Semantics Influences Program Structure in Simple Genetic Programming</title>
+		<year>1998</year>
+		<authors>David E. Goldberg,Una-May O'Reilly</authors>
+		<jconf>EuroGP</jconf>
+		<id>194167</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fluctuating Crosstalk as a Source of Deterministic Noise and Its Effects on GA Scalability</title>
+		<year>2006</year>
+		<authors>Kumara Sastry,Paul Winward,David E. Goldberg,Claudio F. Lima</authors>
+		<jconf>EvoWorkshops</jconf>
+		<id>199384</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variable Default Hierarchy Separation in a Classifier System</title>
+		<year>1990</year>
+		<authors>Robert E. Smith,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212439</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Nonuniform Walsh-Schema Transform</title>
+		<year>1990</year>
+		<authors>Clayton L. Bridges,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212456</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing Deception in Trap Functions</title>
+		<year>1992</year>
+		<authors>Kalyanmoy Deb,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212470</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comparative Analysis of Selection Schemes Used in Genetic Algorithms</title>
+		<year>1990</year>
+		<authors>David E. Goldberg,Kalyanmoy Deb</authors>
+		<jconf>FOGA</jconf>
+		<id>212484</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accounting for Noise in the Sizing of Populations</title>
+		<year>1992</year>
+		<authors>David E. Goldberg,Kalyanmoy Deb,James H. Clark</authors>
+		<jconf>FOGA</jconf>
+		<id>212486</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Linkage</title>
+		<year>1996</year>
+		<authors>Georges R. Harik,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212496</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Difficulty and the Modality of Fitness Landscapes</title>
+		<year>1994</year>
+		<authors>Jeffrey Horn,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212505</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward a Control Map for Niching</title>
+		<year>1998</year>
+		<authors>Jeffrey Horn,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212507</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SEARCH, Blackbox Optimization, And Sample Complexity</title>
+		<year>1996</year>
+		<authors>Hillol Kargupta,David E. Goldberg</authors>
+		<jconf>FOGA</jconf>
+		<id>212523</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Coded Bayesian Optimization Algorithm: Bringing the Strength of BOA into the Continuous World</title>
+		<year>2004</year>
+		<authors>Chang Wook Ahn,Rudrapatna S. Ramakrishna,David E. Goldberg</authors>
+		<jconf>GECCO (1)</jconf>
+		<id>225406</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Discretization Scheduling In Multiple Dimensions</title>
+		<year>2002</year>
+		<authors>Laura A. Albert,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225422</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bounding the Population Size in XCS to Ensure Reproductive Opportunities</title>
+		<year>2003</year>
+		<authors>Martin Butz,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225559</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bounding Learning Time in XCS</title>
+		<year>2004</year>
+		<authors>Martin V. Butz,David E. Goldberg,Pier Luca Lanzi</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>225561</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gradient-Based Learning Updates Improve XCS Performance in Multistep Problems</title>
+		<year>2004</year>
+		<authors>Martin V. Butz,David E. Goldberg,Pier Luca Lanzi</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>225563</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introducing a Genetic Generalization Pressure to the Anticipatory Classifier System - Part 1: Theoretical approach</title>
+		<year>2000</year>
+		<authors>Martin Butz,David E. Goldberg,Wolfgang Stolzmann</authors>
+		<jconf>GECCO</jconf>
+		<id>225565</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracted global structure makes local building block processing effective in XCS</title>
+		<year>2005</year>
+		<authors>Martin V. Butz,Martin Pelikan,Xavier Llora,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225583</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Tournament Selection: Stable Fitness Pressure in XCS</title>
+		<year>2003</year>
+		<authors>Martin Butz,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225585</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Are Multiple Runs of Genetic Algorithms Better than One?</title>
+		<year>2003</year>
+		<authors>Erick Cantu-Paz,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225620</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Analysis of a Reordering Operator with Tournament Selection on a GA-Hard Problem</title>
+		<year>2003</year>
+		<authors>Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225659</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tightness Time for the Linkage Learning Genetic Algorithm</title>
+		<year>2003</year>
+		<authors>Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225660</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introducing Subchromosome Representations to the Linkage Learning Genetic Algorithm</title>
+		<year>2004</year>
+		<authors>Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>GECCO (1)</jconf>
+		<id>225661</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fitness Inheritance In Multi-objective Optimization</title>
+		<year>2002</year>
+		<authors>Jian-Hung Chen,David E. Goldberg,Shinn-Ying Ho,Kumara Sastry</authors>
+		<jconf>GECCO</jconf>
+		<id>225662</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quality-time analysis of multi-objective evolutionary algorithms</title>
+		<year>2005</year>
+		<authors>Jian-Hung Chen,Shinn-Ying Ho,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225664</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation and Population Reduction for a Self Adaptive Hybrid Genetic Algorithm (SAHGA)</title>
+		<year>2003</year>
+		<authors>Felipe P. Espinoza,Barbara S. Minsker,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225863</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Time Efficiently: Genetic-Evolutionary Algorithms and the Continuation Problem</title>
+		<year>1999</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>225974</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing Global-Local Search Hybrids</title>
+		<year>1999</year>
+		<authors>David E. Goldberg,Siegfried Vossner</authors>
+		<jconf>GECCO</jconf>
+		<id>225975</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>From Twomax To The Ising Model: Easy And Hard Symmetrical Problems</title>
+		<year>2002</year>
+		<authors>Clarissa Van Hoyweghen,David E. Goldberg,Bart Naudts</authors>
+		<jconf>GECCO</jconf>
+		<id>226121</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple-objective Bayesian Optimization Algorithm</title>
+		<year>2002</year>
+		<authors>Nazan Khan,David E. Goldberg,Martin Pelikan</authors>
+		<jconf>GECCO</jconf>
+		<id>226253</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending XCSF beyond linear approximation</title>
+		<year>2005</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226307</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>XCS with computed prediction in multistep environments</title>
+		<year>2005</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226309</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Classifier prediction based on tile coding</title>
+		<year>2006</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226311</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>OMEGA - Ordering Messy GA: Solving Permutation Problems with the Fast Genetic Algorithm and Random Keys</title>
+		<year>2000</year>
+		<authors>Dimitri Knjazew,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226312</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prediction update algorithms for XCSF: RLS, Kalman filter, and gain adaptation</title>
+		<year>2006</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226313</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary Computation As A Form Of Organization</title>
+		<year>2002</year>
+		<authors>Alexander Kosorukoff,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining competent crossover and mutation operators: a probabilistic model building approach</title>
+		<year>2005</year>
+		<authors>Claudio F. Lima,Kumara Sastry,David E. Goldberg,Fernando G. Lobo</authors>
+		<jconf>GECCO</jconf>
+		<id>226420</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Wise Breeding GA via Machine Learning Techniques for Function Optimization</title>
+		<year>2003</year>
+		<authors>Xavier Llora,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226434</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced Innovation: A Fusion of Chance Discovery and Evolutionary Computation to Foster Creative Processes and Decision Making</title>
+		<year>2004</year>
+		<authors>Xavier Llora,Kei Ohnishi,Ying-Ping Chen,David E. Goldberg,Michael Welge</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226436</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing active interactive genetic algorithms using visual analytics</title>
+		<year>2006</year>
+		<authors>Xavier Llora,Kumara Sastry,Francesc Alias,David E. Goldberg,Michael Welge</authors>
+		<jconf>GECCO</jconf>
+		<id>226438</id>
+		<label>0</label>
+		<organization>University of Illinois, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>The compact classifier system: motivation, analysis, and first results</title>
+		<year>2005</year>
+		<authors>Xavier Llora,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226439</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Binary rule encoding schemes: a study using the compact classifier system</title>
+		<year>2005</year>
+		<authors>Xavier Llora,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO Workshops</jconf>
+		<id>226440</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combating user fatigue in iGAs: partial ordering, support vector machines, and synthetic fitness</title>
+		<year>2005</year>
+		<authors>Xavier Llora,Kumara Sastry,David E. Goldberg,Abhimanyu Gupta,Lalitha Lakshmi</authors>
+		<jconf>GECCO</jconf>
+		<id>226441</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Time Complexity of genetic algorithms on exponentially scaled problems</title>
+		<year>2000</year>
+		<authors>Fernando G. Lobo,David E. Goldberg,Martin Pelikan</authors>
+		<jconf>GECCO</jconf>
+		<id>226445</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward an Understanding of the Quality and Efficiency of Model Building for Genetic Algorithms</title>
+		<year>2004</year>
+		<authors>Tian-Li Yu,David E. Goldberg</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226518</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dependency Structure Matrix Analysis: Offline Utility of the Dependency Structure Matrix Genetic Algorithm</title>
+		<year>2004</year>
+		<authors>Tian-Li Yu,David E. Goldberg</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226519</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Conquering hierarchical difficulty by explicit chunking: substructural chromosome compression</title>
+		<year>2006</year>
+		<authors>Tian-Li Yu,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226542</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Inducing Sequentiality Using Grammatical Genetic Codes</title>
+		<year>2004</year>
+		<authors>Kei Ohnishi,Kumara Sastry,Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>GECCO (1)</jconf>
+		<id>226642</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Uniform Scaling for Multiobjective Genetic Algorithms</title>
+		<year>2004</year>
+		<authors>Gerulf K. M. Pedersen,David E. Goldberg</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226694</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Problem Solving and the Bayesian Optimization Algorithm</title>
+		<year>2000</year>
+		<authors>Martin Pelikan,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226696</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical BOA Solves Ising Spin Glasses and MAXSAT</title>
+		<year>2003</year>
+		<authors>Martin Pelikan,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226697</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Optimization Algorithm, Population Sizing, and Time to Convergence</title>
+		<year>2000</year>
+		<authors>Martin Pelikan,David E. Goldberg,Erick Cantu-Paz</authors>
+		<jconf>GECCO</jconf>
+		<id>226698</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining The Strengths Of Bayesian Optimization Algorithm And Adaptive Evolution Strategies</title>
+		<year>2002</year>
+		<authors>Martin Pelikan,David E. Goldberg,Shigeyoshi Tsutsui</authors>
+		<jconf>GECCO</jconf>
+		<id>226699</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical BOA on random decomposable problems</title>
+		<year>2006</year>
+		<authors>Martin Pelikan,Kumara Sastry,Martin V. Butz,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226704</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Multiobjective hBOA, clustering, and scalability</title>
+		<year>2005</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226705</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sporadic model building for efficiency enhancement of hierarchical BOA</title>
+		<year>2006</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226706</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Bad Codings and the Utility of Well-Designed Genetic Algorithms</title>
+		<year>2000</year>
+		<authors>Franz Rothlauf,David E. Goldberg,Armin Heinzl</authors>
+		<jconf>GECCO</jconf>
+		<id>226808</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sub-structural niching in estimation of distribution algorithms</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,Hussein A. Abbass,David E. Goldberg,D. D. Johnson</authors>
+		<jconf>GECCO</jconf>
+		<id>226837</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Variances</title>
+		<year>2002</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226838</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Bias Values</title>
+		<year>2002</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226839</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalability of Selectorecombinative Genetic Algorithms for Problems with Tight Linkage</title>
+		<year>2003</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226840</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing Competent Mutation Operators Via Probabilistic Model Building of Neighborhoods</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226841</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO (2)</jconf>
+		<id>226842</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiobjective genetic algorithms for multiscaling excited state direct dynamics in photochemistry</title>
+		<year>2006</year>
+		<authors>Kumara Sastry,D. D. Johnson,Alexis L. Thompson,David E. Goldberg,Todd J. Martinez,Jeff Leiding,Jane Owens</authors>
+		<jconf>GECCO</jconf>
+		<id>226843</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Evaluation relaxation using substructural information and linear estimation</title>
+		<year>2006</year>
+		<authors>Kumara Sastry,Claudio F. Lima,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>226844</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Modified Linkage Learning Genetic Algorithm For Difficult Non-stationary Problems</title>
+		<year>2002</year>
+		<authors>Abhishek Singh,David E. Goldberg,Ying-Ping Chen</authors>
+		<jconf>GECCO</jconf>
+		<id>226924</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modified Linkage Learning Genetic Algorithm for Difficult Non-Stationary Problems</title>
+		<year>2002</year>
+		<authors>Abhishek Singh,David E. Goldberg,Ying-Ping Chen</authors>
+		<jconf>GECCO Late Breaking Papers</jconf>
+		<id>226925</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Building Block Propagation in XCS: A Negative Result and Its Implications</title>
+		<year>2003</year>
+		<authors>Kurian K. Tharakunnel,Martin Butz,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227037</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fluctuating crosstalk, deterministic noise, and GA scalability</title>
+		<year>2006</year>
+		<authors>Paul Winward,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227167</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Design Inspired by Organizational Theory: Pilot Study of a Dependency Structure Matrix Driven Genetic Algorithm</title>
+		<year>2003</year>
+		<authors>Tian-Li Yu,David E. Goldberg,Ali Yassine,Ying-Ping Chen</authors>
+		<jconf>GECCO</jconf>
+		<id>227224</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Sampling and Speed-Up for Genetic Algorithms on the Sampled OneMax Problem</title>
+		<year>2003</year>
+		<authors>Tian-Li Yu,David E. Goldberg,Kumara Sastry</authors>
+		<jconf>GECCO</jconf>
+		<id>227225</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linkage learning, overlapping building blocks, and systematic strategy for scalable recombination</title>
+		<year>2005</year>
+		<authors>Tian-Li Yu,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227230</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Do not match, inherit: fitness surrogates for genetics-based machine learning techniques</title>
+		<year>2007</year>
+		<authors>Xavier Llora,Kumara Sastry,Tian-Li Yu,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227263</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Empirical analysis of ideal recombination on random decomposable problems</title>
+		<year>2007</year>
+		<authors>Kumara Sastry,Martin Pelikan,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227268</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Modeling XCS in class imbalances: population size and parameter settings</title>
+		<year>2007</year>
+		<authors>Albert Orriols-Puig,David E. Goldberg,Kumara Sastry,Ester Bernado-Mansilla</authors>
+		<jconf>GECCO</jconf>
+		<id>227374</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Modeling selection pressure in XCS for proportionate and tournament selection</title>
+		<year>2007</year>
+		<authors>Albert Orriols-Puig,Kumara Sastry,Pier Luca Lanzi,David E. Goldberg,Ester Bernado-Mansilla</authors>
+		<jconf>GECCO</jconf>
+		<id>227519</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Let's get ready to rumble redux: crossover versus mutation head to head on exponentially scaled problems</title>
+		<year>2007</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227536</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Towards billion-bit optimization via a parallel estimation of distribution algorithm</title>
+		<year>2007</year>
+		<authors>Kumara Sastry,David E. Goldberg,Xavier Llora</authors>
+		<jconf>GECCO</jconf>
+		<id>227585</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Substructrual surrogates for learning decomposable classification problems: implementation and first results</title>
+		<year>2007</year>
+		<authors>Albert Orriols-Puig,Ester Bernado-Mansilla,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO (Companion)</jconf>
+		<id>227657</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Empirical analysis of generalization and learning in XCS with gradient descent</title>
+		<year>2007</year>
+		<authors>Pier Luca Lanzi,Martin V. Butz,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227665</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Population sizing for entropy-based model building in discrete estimation of distribution algorithms</title>
+		<year>2007</year>
+		<authors>Tian-Li Yu,Kumara Sastry,David E. Goldberg,Martin Pelikan</authors>
+		<jconf>GECCO</jconf>
+		<id>227668</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Graph-theoretic measure for active iGAs: interaction sizing and parallel evaluation ensemble</title>
+		<year>2008</year>
+		<authors>Xavier Llora,Noriko Imafuji Yasui,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227775</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Improving the efficiency of the extended compact genetic algorithm</title>
+		<year>2008</year>
+		<authors>Thyago S. P. C. Duque,David E. Goldberg,Kumara Sastry</authors>
+		<jconf>GECCO</jconf>
+		<id>227956</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, University of Illinois at Urbana Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Speeding online synthesis via enforced selecto-recombination</title>
+		<year>2008</year>
+		<authors>Shunsuke Saruwatari,Xavier Llora,Noriko Imafuji Yasui,Hiroshi Tamura,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>227962</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Improving small population performance under noise with viral infection + tropism</title>
+		<year>2008</year>
+		<authors>Yuji Sato,David E. Goldberg,Kumara Sastry</authors>
+		<jconf>GECCO</jconf>
+		<id>227978</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>iBOA: the incremental bayesian optimization algorithm</title>
+		<year>2008</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>228049</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using previous models to bias structural learning in the hierarchical BOA</title>
+		<year>2008</year>
+		<authors>Mark Hauschild,Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>228099</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana-Champaign, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>A new approach for multi-label classification based on default hierarchies and organizational learning</title>
+		<year>2008</year>
+		<authors>Rosane M. M. Vallim,David E. Goldberg,Xavier Llora,Thyago S. P. C. Duque,Andre C. P. L. F. Carvalho</authors>
+		<jconf>GECCO (Companion)</jconf>
+		<id>228125</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>A Niched Pareto Genetic Algorithm for Multiobjective Optimization</title>
+		<year>1994</year>
+		<authors>Jeffrey Horn,Nicholas Nafpliotis,David E. Goldberg</authors>
+		<jconf>International Conference on Evolutionary Computation</jconf>
+		<id>304881</id>
+		<label>0</label>
+		<organization>Genetic Algorithms Lab., Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Polynominal Complexity Blackbox Search: Lessons From the SEARCH Framework</title>
+		<year>1996</year>
+		<authors>Hillol Kargupta,David E. Goldberg</authors>
+		<jconf>International Conference on Evolutionary Computation</jconf>
+		<id>304936</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elitist Recombination: An Integrated Selection Recombination GA</title>
+		<year>1994</year>
+		<authors>Dirk Thierens,David E. Goldberg</authors>
+		<jconf>International Conference on Evolutionary Computation</jconf>
+		<id>305090</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Leuven Univ.</organization>
+	</publication>
+	<publication>
+		<title>Delineating Topic and Discussant Transitions in Online Collaborative Environments</title>
+		<year>2007</year>
+		<authors>Noriko Imafuji Yasui,Xavier Llora,David E. Goldberg,Yuichi Washida,Hiroshi Tamura</authors>
+		<jconf>ICEIS (2)</jconf>
+		<id>307748</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Facilitation Support for On-Line Focus Group Discussions by Message Feature Map</title>
+		<year>2008</year>
+		<authors>Noriko Imafuji Yasui,Shunsuke Saruwatari,Xavier Llora,David E. Goldberg</authors>
+		<jconf>ICEIS (2)</jconf>
+		<id>308199</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Key Elements Extraction in Online Collaborative Environments</title>
+		<year>2007</year>
+		<authors>Noriko Imafuji Yasui,Xavier Llora,David E. Goldberg,Yuichi Washida,Hiroshi Tamura</authors>
+		<jconf>ICEIS (Selected Papers)</jconf>
+		<id>308480</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms and Rules Learning in Dynamic System Control</title>
+		<year>1985</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310485</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sizing Populations for Serial and Parallel Genetic Algorithms</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310486</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Zen and the Art of Genetic Algorithms</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310487</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Don't Worry, Be Messy</title>
+		<year>1991</year>
+		<authors>David E. Goldberg,Kalyanmoy Deb,Bradley Korb</authors>
+		<jconf>ICGA</jconf>
+		<id>310488</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RapidAccurate Optimization of Difficult Problems Using Fast Messy Genetic Algorithms</title>
+		<year>1993</year>
+		<authors>David E. Goldberg,Kalyanmoy Deb,Hillol Kargupta,Georges R. Harik</authors>
+		<jconf>ICGA</jconf>
+		<id>310489</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting Speedups of Ideal Bounding Cases of Parallel Genetic Algorithms</title>
+		<year>1997</year>
+		<authors>Erick Cantu-Paz,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310496</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Investigation of Niche and Species Formation in Genetic Function Optimization</title>
+		<year>1989</year>
+		<authors>Kalyanmoy Deb,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310554</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Analysis of Reproduction and Crossover in a Binary-Coded Genetic Algorithm</title>
+		<year>1987</year>
+		<authors>Clayton L. Bridges,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310585</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AllelesLociand the Traveling Salesman Problem</title>
+		<year>1985</year>
+		<authors>David E. Goldberg,Robert Lingle Jr</authors>
+		<jconf>ICGA</jconf>
+		<id>310619</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms with Sharing for Multimodalfunction Optimization</title>
+		<year>1987</year>
+		<authors>David E. Goldberg,Jon Richardson</authors>
+		<jconf>ICGA</jconf>
+		<id>310621</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finite Markov Chain Analysis of Genetic Algorithms</title>
+		<year>1987</year>
+		<authors>David E. Goldberg,Philip Segrest</authors>
+		<jconf>ICGA</jconf>
+		<id>310625</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonstationary Function Optimization Using Genetic Algorithms with Dominance and Diploidy</title>
+		<year>1987</year>
+		<authors>David E. Goldberg,Robert E. Smith</authors>
+		<jconf>ICGA</jconf>
+		<id>310626</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms and Computer-Assisted Music Composition</title>
+		<year>1991</year>
+		<authors>Andrew Horner,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310702</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Takeover Time in a Noisy Environment</title>
+		<year>1997</year>
+		<authors>Yuji Sakamoto,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310863</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mixing in Genetic Algorithms</title>
+		<year>1993</year>
+		<authors>Dirk Thierens,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310923</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Critical Review of Classifier Systems</title>
+		<year>1989</year>
+		<authors>Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>ICGA</jconf>
+		<id>310967</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic System Control Using Rule Learning and Genetic Algorithms</title>
+		<year>1985</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>IJCAI</jconf>
+		<id>388642</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis and Evaluation of Learning Classifier Systems applied to Hyperspectral Image Classification</title>
+		<year>2005</year>
+		<authors>Arnaud Quirin,Jerzy J. Korczak,Martin V. Butz,David E. Goldberg</authors>
+		<jconf>ISDA</jconf>
+		<id>434199</id>
+		<label>0</label>
+		<organization>University of Illinois, US</organization>
+	</publication>
+	<publication>
+		<title>What Is a Learning Classifier System?</title>
+		<year>1999</year>
+		<authors>John H. Holland,Lashon B. Booker,Marco Colombetti,Marco Dorigo,David E. Goldberg,Stephanie Forrest,Rick L. Riolo,Robert E. Smith,Pier Luca Lanzi,Wolfgang Stolzmann,Stewart W. Wilson</authors>
+		<jconf>Learning Classifier Systems</jconf>
+		<id>463476</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Substructural Surrogates for Learning Decomposable Classification Problems</title>
+		<year>2007</year>
+		<authors>Albert Orriols-Puig,Kumara Sastry,David E. Goldberg,Ester Bernado-Mansilla</authors>
+		<jconf>IWLCS</jconf>
+		<id>463491</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linkage Learning, Rule Representation, and the X-Ary Extended Compact Classifier System</title>
+		<year>2007</year>
+		<authors>Xavier Llora,Kumara Sastry,Claudio F. Lima,Fernando G. Lobo,David E. Goldberg</authors>
+		<jconf>IWLCS</jconf>
+		<id>463505</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probability-Enhanced Predictions in the Anticipatory Classifier System</title>
+		<year>2000</year>
+		<authors>Martin Butz,David E. Goldberg,Wolfgang Stolzmann</authors>
+		<jconf>IWLCS</jconf>
+		<id>464952</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection</title>
+		<year>2002</year>
+		<authors>Xavier Llora,David E. Goldberg,Ivan Traus,Ester Bernado i Mansilla</authors>
+		<jconf>IWLCS</jconf>
+		<id>464974</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Binary Rule Encoding Schemes: A Study Using the Compact Classifier System</title>
+		<year>2005</year>
+		<authors>Xavier Llora,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>IWLCS</jconf>
+		<id>464992</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Performance of a Pittsburgh Learning Classifier System Using a Default Rule</title>
+		<year>2005</year>
+		<authors>Jaume Bacardit,David E. Goldberg,Martin V. Butz</authors>
+		<jconf>IWLCS</jconf>
+		<id>464996</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effect of Pure Error-Based Fitness in XCS</title>
+		<year>2005</year>
+		<authors>Martin V. Butz,David E. Goldberg,Pier Luca Lanzi</authors>
+		<jconf>IWLCS</jconf>
+		<id>464999</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple-Deme Parallel Estimation of Distribution Algorithms: Basic Framework and Application</title>
+		<year>2003</year>
+		<authors>Chang Wook Ahn,David E. Goldberg,Rudrapatna S. Ramakrishna</authors>
+		<jconf>PPAM</jconf>
+		<id>547425</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Speeding-Up Pittsburgh Learning Classifier Systems: Modeling Time and Accuracy</title>
+		<year>2004</year>
+		<authors>Jaume Bacardit,David E. Goldberg,Martin V. Butz,Xavier Llora,Josep Maria Garrell i Guiu</authors>
+		<jconf>PPSN</jconf>
+		<id>549808</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Investigating Generalization in the Anticipatory Classifier System</title>
+		<year>2000</year>
+		<authors>Martin Butz,David E. Goldberg,Wolfgang Stolzmann</authors>
+		<jconf>PPSN</jconf>
+		<id>549819</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Extraction and Problem Structure Identification in XCS</title>
+		<year>2004</year>
+		<authors>Martin V. Butz,Pier Luca Lanzi,Xavier Llora,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>549821</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introducing Start Expression Genes to the Linkage Learning Genetic Algorithm</title>
+		<year>2002</year>
+		<authors>Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>549847</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Theory of Virtual Alphabets</title>
+		<year>1990</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550015</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Massive Multimodality, Deception, and Genetic Algorithms</title>
+		<year>1992</year>
+		<authors>David E. Goldberg,Kalyanmoy Deb,Jeffrey Horn</authors>
+		<jconf>PPSN</jconf>
+		<id>550017</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ordering Genetic Algorithms and Deception</title>
+		<year>1992</year>
+		<authors>Hillol Kargupta,Kalyanmoy Deb,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550032</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Timing Analysis of Convergence to Fitness Sharing Equilibrium</title>
+		<year>1998</year>
+		<authors>Jeffrey Horn,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550056</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Long Path Problems</title>
+		<year>1994</year>
+		<authors>Jeffrey Horn,David E. Goldberg,Kalyanmoy Deb</authors>
+		<jconf>PPSN</jconf>
+		<id>550058</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large-Scale Permutation Optimization with the Ordering Messy Genetic Algorithm</title>
+		<year>2000</year>
+		<authors>Dimitri Knjazew,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550067</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Substructural Neighborhoods for Local Search in the Bayesian Optimization Algorithm</title>
+		<year>2006</year>
+		<authors>Claudio F. Lima,Martin Pelikan,Kumara Sastry,Martin V. Butz,David E. Goldberg,Fernando G. Lobo</authors>
+		<jconf>PPSN</jconf>
+		<id>550168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Genetic Algorithm for Parallel Simulated Annealing</title>
+		<year>1992</year>
+		<authors>Samir W. Mahfoud,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550199</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms, Clustering, and the Breaking of Symmetry</title>
+		<year>2000</year>
+		<authors>Martin Pelikan,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550264</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance of Evolutionary Algorithms on Random Decomposable Problems</title>
+		<year>2006</year>
+		<authors>Martin Pelikan,Kumara Sastry,Martin V. Butz,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550268</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pruefer Numbers and Genetic Algorithms: A Lesson on How the Low Locality of an Encoding Can Harm the Performance of GAs</title>
+		<year>2000</year>
+		<authors>Franz Rothlauf,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550354</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence Models of Genetic Algorithm Selection Schemes</title>
+		<year>1994</year>
+		<authors>Dirk Thierens,David E. Goldberg</authors>
+		<jconf>PPSN</jconf>
+		<id>550395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing the Efficiency of the ECGA</title>
+		<year>2008</year>
+		<authors>Thyago S. P. C. Duque,David E. Goldberg,Kumara Sastry</authors>
+		<jconf>PPSN</jconf>
+		<id>550590</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, University of Illinois at Urbana Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Mining directed social network from message board</title>
+		<year>2005</year>
+		<authors>Naohiro Matsumura,David E. Goldberg,Xavier Llora</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674430</id>
+		<label>0</label>
+		<organization>UIUC, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Online population size adjusting using noise and substructural measurements</title>
+		<year>2005</year>
+		<authors>Tian-Li Yu,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Congress on Evolutionary Computation</jconf>
+		<id>696891</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Limits of scalability of multiobjective estimation of distribution algorithms</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,David E. Goldberg,Martin Pelikan</authors>
+		<jconf>Congress on Evolutionary Computation</jconf>
+		<id>696924</id>
+		<label>0</label>
+		<organization>Dept. of Gen. Eng., Univ. of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>The compact classifier system: scalability analysis and first results</title>
+		<year>2005</year>
+		<authors>Xavier Llora,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Congress on Evolutionary Computation</jconf>
+		<id>696928</id>
+		<label>0</label>
+		<organization>Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>XCS with computed prediction in continuous multistep environments</title>
+		<year>2005</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>Congress on Evolutionary Computation</jconf>
+		<id>697031</id>
+		<label>0</label>
+		<organization>Dip. di Elettronica e Informazione, Politecnico di Milano, Italy</organization>
+	</publication>
+	<publication>
+		<title>XCS with computed prediction for the learning of Boolean functions</title>
+		<year>2005</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>Congress on Evolutionary Computation</jconf>
+		<id>697097</id>
+		<label>0</label>
+		<organization>Dipt. di Elettronica e Inf., Politecnico di Milano</organization>
+	</publication>
+	<publication>
+		<title>Influence of selection and replacement strategies on linkage learning in BOA</title>
+		<year>2007</year>
+		<authors>Claudio F. Lima,Martin Pelikan,David E. Goldberg,Fernando G. Lobo,Kumara Sastry,Mark Hauschild</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697632</id>
+		<label>0</label>
+		<organization>Univ. of Algarve, Faro</organization>
+	</publication>
+	<publication>
+		<title>A Simple Real-Coded Extended Compact Genetic Algorithm</title>
+		<year>2007</year>
+		<authors>Luca Fossati,Pier Luca Lanzi,Kumara Sastry,David E. Goldberg,Osvaldo Gomez</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697703</id>
+		<label>0</label>
+		<organization>Politecnico di Milano, Milan</organization>
+	</publication>
+	<publication>
+		<title>Communication Gaps in Social Networks</title>
+		<year>2005</year>
+		<authors>Naohiro Matsumura,David E. Goldberg,Xavier Llora</authors>
+		<jconf>WSTST</jconf>
+		<id>721922</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reinforcement learning with classifier systems: Adaptive default hierarchy formation</title>
+		<year>1992</year>
+		<authors>Robert E. Smith,David E. Goldberg</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>738354</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classifier Systems and Genetic Algorithms</title>
+		<year>1989</year>
+		<authors>Lashon B. Booker,David E. Goldberg,John H. Holland</authors>
+		<jconf>Artif. Intell.</jconf>
+		<id>744392</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sufficient Conditions for Deceptive and Easy Binary Functions</title>
+		<year>1993</year>
+		<authors>Kalyanmoy Deb,David E. Goldberg</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>751603</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of High-Order Deceptive Functions Using Low-Order Walsh Coefficients</title>
+		<year>1992</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>751643</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic and Evolutionary Algorithms Come of Age</title>
+		<year>1994</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>772242</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficiency Enhancement of Probabilistic Model Building Genetic Algorithms</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,David E. Goldberg,Martin Pelikan</authors>
+		<jconf>CoRR</jconf>
+		<id>818764</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>818765</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing Competent Mutation Operators via Probabilistic Model Building of Neighborhoods</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>818766</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficiency Enhancement of Genetic Algorithms via Building-Block-Wise Fitness Estimation</title>
+		<year>2004</year>
+		<authors>Kumara Sastry,Martin Pelikan,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>818767</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Lab., Illinois Univ., Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Population Sizing for Genetic Programming Based Upon Decision Making</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,Una-May O'Reilly,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>822174</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Oiling the Wheels of Change: The Role of Adaptive Automatic Problem Decomposition in Non-Stationary Environments</title>
+		<year>2005</year>
+		<authors>Hussein A. Abbass,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>822175</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sub-Structural Niching in Non-Stationary Environments</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,Hussein A. Abbass,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>822176</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sub-structural Niching in Estimation of Distribution Algorithms</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,Hussein A. Abbass,David E. Goldberg,D. D. Johnson</authors>
+		<jconf>CoRR</jconf>
+		<id>822177</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiobjective hBOA, Clustering, and Scalability</title>
+		<year>2005</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>822188</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decomposable Problems, Niching, and Scalability of Multiobjective Estimation of Distribution Algorithms</title>
+		<year>2005</year>
+		<authors>Kumara Sastry,Martin Pelikan,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>822211</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>iBOA: The Incremental Bayesian Optimization Algorithm</title>
+		<year>2008</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>CoRR</jconf>
+		<id>825988</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implicit Niching in a Learning Classifier System: Nature's Way</title>
+		<year>1994</year>
+		<authors>Jeffrey Horn,David E. Goldberg,Kalyanmoy Deb</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860723</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spin-Flip Symmetry and Synchronization</title>
+		<year>2002</year>
+		<authors>Clarissa Van Hoyweghen,Bart Naudts,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860729</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis and Improvement of Fitness Exploitation in XCS: Bounding Models, Tournament Selection, and Bilateral Accuracy</title>
+		<year>2003</year>
+		<authors>Martin Butz,David E. Goldberg,Kurian K. Tharakunnel</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860770</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Scalability of Parallel Genetic Algorithms</title>
+		<year>1999</year>
+		<authors>Erick Cantu-Paz,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860772</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Gambler's Ruin Problem, Genetic Algorithms, and the Sizing of Populations</title>
+		<year>1999</year>
+		<authors>Georges R. Harik,Erick Cantu-Paz,David E. Goldberg,Brad L. Miller</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860776</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., Michigan Univ., Ann Arbor, MI</organization>
+	</publication>
+	<publication>
+		<title>Bounding the effect of noise in Multiobjective Learning Classifier Systems</title>
+		<year>2003</year>
+		<authors>Xavier Llora,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860779</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms, Selection Schemes, and the Varying Effects of Noise</title>
+		<year>1996</year>
+		<authors>Brad L. Miller,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860814</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linkage Identification by Non-monotonicity Detection for Overlapping Functions</title>
+		<year>1999</year>
+		<authors>Masaharu Munetomo,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860834</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linkage Problem, Distribution Estimation, and Bayesian Networks</title>
+		<year>2000</year>
+		<authors>Martin Pelikan,David E. Goldberg,Erick Cantu-Paz</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860857</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Redundant Representations in Evolutionary Computation</title>
+		<year>2003</year>
+		<authors>Franz Rothlauf,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860874</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Genetic Algorithms Using Discretization Scheduling</title>
+		<year>2005</year>
+		<authors>Laura A. McLay,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860875</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network Random Keys-A Tree Representation Scheme for Genetic and Evolutionary Algorithms</title>
+		<year>2002</year>
+		<authors>Franz Rothlauf,David E. Goldberg,Armin Heinzl</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860876</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FOX-GA: A Genetic Algorithm for Generating and Analyzing Battlefield Courses of Action</title>
+		<year>1999</year>
+		<authors>J. L. Schlabach,C. C. Hayes,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860896</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Global Structure Extraction for Effective Local Building Block Processing in XCS</title>
+		<year>2006</year>
+		<authors>Martin V. Butz,Martin Pelikan,Xavier Llora,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860945</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence Time for the Linkage Learning Genetic Algorithm</title>
+		<year>2005</year>
+		<authors>Ying-Ping Chen,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860957</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Illinois at Urbana-Champaign, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Generalization in the XCSF Classifier System: Analysis, Improvement, and Extension</title>
+		<year>2007</year>
+		<authors>Pier Luca Lanzi,Daniele Loiacono,Stewart W. Wilson,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>860961</id>
+		<label>0</label>
+		<organization>Department of General Engineering, University of Illinois, Urbana, IL 61801, USA deg@uiuc.edu</organization>
+	</publication>
+	<publication>
+		<title>The Crowding Approach to Niching in Genetic Algorithms</title>
+		<year>2008</year>
+		<authors>Ole J. Mengshoel,David E. Goldberg</authors>
+		<jconf>Evolutionary Computation</jconf>
+		<id>861023</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strong, Stable, and Reliable Fitness Pressure in XCS due to Tournament Selection</title>
+		<year>2005</year>
+		<authors>Martin V. Butz,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Genetic Programming and Evolvable Machines</jconf>
+		<id>884949</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory (IlliGAL), University of Illinois at Urbana-Champaign, Urbana, USA 61801</organization>
+	</publication>
+	<publication>
+		<title>Problem solution sustenance in XCS: Markov chain analysis of niche support distributions and the impact on computational complexity</title>
+		<year>2007</year>
+		<authors>Martin V. Butz,David E. Goldberg,Pier Luca Lanzi,Kumara Sastry</authors>
+		<jconf>Genetic Programming and Evolvable Machines</jconf>
+		<id>885080</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory (IlliGAL), University of Illinois at Urbana-Champaign, Urbana, USA 61801</organization>
+	</publication>
+	<publication>
+		<title>Sporadic model building for efficiency enhancement of the hierarchical BOA</title>
+		<year>2008</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Genetic Programming and Evolvable Machines</jconf>
+		<id>885090</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, 117 TB, Department of Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, Urbana, USA 61801</organization>
+	</publication>
+	<publication>
+		<title>Scalability of the Bayesian optimization algorithm</title>
+		<year>2002</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Int. J. Approx. Reasoning</jconf>
+		<id>903948</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The parameter-less genetic algorithm in practice</title>
+		<year>2004</year>
+		<authors>Fernando G. Lobo,David E. Goldberg</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>941057</id>
+		<label>0</label>
+		<organization>Department of General Engineering, University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Getting the best of both worlds: Discrete and continuous genetic and evolutionary algorithms in concert</title>
+		<year>2003</year>
+		<authors>Martin Pelikan,David E. Goldberg,Shigeyoshi Tsutsui</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>941480</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Search space boundary extension method in real-coded genetic algorithms</title>
+		<year>2001</year>
+		<authors>Shigeyoshi Tsutsui,David E. Goldberg</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>941984</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probability Matching, the Magnitude of Reinforcement, and Classifier System Bidding</title>
+		<year>1990</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>Machine Learning</jconf>
+		<id>1009462</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms and Machine Learning</title>
+		<year>1988</year>
+		<authors>David E. Goldberg,John H. Holland</authors>
+		<jconf>Machine Learning</jconf>
+		<id>1009466</id>
+		<label>0</label>
+		<organization>University of Alabama, Tuscaloosa. DGOLDBER@UA1VM.BITNET</organization>
+	</publication>
+	<publication>
+		<title>Parallel Recombinative Simulated Annealing: A Genetic Algorithm</title>
+		<year>1995</year>
+		<authors>Samir W. Mahfoud,David E. Goldberg</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1035085</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication Gap Management for Fertile Community</title>
+		<year>2007</year>
+		<authors>Naohiro Matsumura,David E. Goldberg,Xavier Llora</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1069982</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gradient descent methods in learning classifier systems: improving XCS performance in multistep problems</title>
+		<year>2005</year>
+		<authors>Martin V. Butz,David E. Goldberg,Pier Luca Lanzi</authors>
+		<jconf>IEEE Trans. Evolutionary Computation</jconf>
+		<id>1098153</id>
+		<label>0</label>
+		<organization>Dept. of Gen. Eng., Univ. of Illinois, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>The compact genetic algorithm</title>
+		<year>1999</year>
+		<authors>Georges R. Harik,Fernando G. Lobo,David E. Goldberg</authors>
+		<jconf>IEEE Trans. Evolutionary Computation</jconf>
+		<id>1098196</id>
+		<label>0</label>
+		<organization>Dept. of Gen. Eng., Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Genetic Programming 1998: Proceedings of the Third Annual Conference</title>
+		<year>1999</year>
+		<authors>John R. Koza,Wolfgang Banzhaf,Kumar Chellapilla,Kalyanmoy Deb,Marco Dorigo,David B. Fogel,Max H. Garzon,David E. Goldberg,Hitoshi Iba,Rick L. Riolo</authors>
+		<jconf>IEEE Trans. Evolutionary Computation</jconf>
+		<id>1098310</id>
+		<label>0</label>
+		<organization>San Francisco, CA: Morgan Kaufmann</organization>
+	</publication>
+	<publication>
+		<title>A hierarchy machine: Learning to optimize from nature and humans</title>
+		<year>2003</year>
+		<authors>Martin Pelikan,David E. Goldberg</authors>
+		<jconf>Complexity</jconf>
+		<id>1171808</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward routine billion-variable optimization using genetic algorithms</title>
+		<year>2007</year>
+		<authors>David E. Goldberg,Kumara Sastry,Xavier Llora</authors>
+		<jconf>Complexity</jconf>
+		<id>1171994</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Bayesian Optimization Algorithm</title>
+		<year>2006</year>
+		<authors>Martin Pelikan,David E. Goldberg</authors>
+		<jconf>Scalable Optimization via Probabilistic Modeling</jconf>
+		<id>1201123</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effective and Reliable Online Classification Combining XCS with EDA Mechanisms</title>
+		<year>2006</year>
+		<authors>Martin Butz,Martin Pelikan,Xavier Llora,David E. Goldberg</authors>
+		<jconf>Scalable Optimization via Probabilistic Modeling</jconf>
+		<id>1201125</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficiency Enhancement of Estimation of Distribution Algorithms</title>
+		<year>2006</year>
+		<authors>Kumara Sastry,Martin Pelikan,David E. Goldberg</authors>
+		<jconf>Scalable Optimization via Probabilistic Modeling</jconf>
+		<id>1201128</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Military Antenna Design Using a Simple Genetic Algorithm and hBOA</title>
+		<year>2006</year>
+		<authors>Tian-Li Yu,Scott Santarelli,David E. Goldberg</authors>
+		<jconf>Scalable Optimization via Probabilistic Modeling</jconf>
+		<id>1201130</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiobjective Estimation of Distribution Algorithms</title>
+		<year>2006</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Scalable Optimization via Probabilistic Modeling</jconf>
+		<id>1201131</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Population Sizing to Go: Online Adaptation Using Noise and Substructural Measurements</title>
+		<year>2007</year>
+		<authors>Tian-Li Yu,Kumara Sastry,David E. Goldberg</authors>
+		<jconf>Parameter Setting in Evolutionary Algorithms</jconf>
+		<id>1201349</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Coded ECGA for Solving Decomposable Real-Valued Optimization Problems</title>
+		<year>2008</year>
+		<authors>Minqiang Li,David E. Goldberg,Kumara Sastry,Tian-Li Yu</authors>
+		<jconf>Linkage in Evolutionary Computation</jconf>
+		<id>1202190</id>
+		<label>0</label>
+		<organization>Tianjin Univ., Tianjin</organization>
+	</publication>
+	<publication>
+		<title>Real-Coded Extended Compact Genetic Algorithm Based on Mixtures of Models</title>
+		<year>2008</year>
+		<authors>Pier Luca Lanzi,Luigi Nichetti,Kumara Sastry,Davide Voltini,David E. Goldberg</authors>
+		<jconf>Linkage in Evolutionary Computation</jconf>
+		<id>1202224</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linkage Learning Accuracy in the Bayesian Optimization Algorithm</title>
+		<year>2008</year>
+		<authors>Claudio F. Lima,Martin Pelikan,David E. Goldberg,Fernando G. Lobo,Kumara Sastry,Mark Hauschild</authors>
+		<jconf>Linkage in Evolutionary Computation</jconf>
+		<id>1202285</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms in Search Optimization and Machine Learning</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>null</jconf>
+		<id>1203564</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance of evolutionary algorithms on NK landscapes with nearest neighbor interactions and tunable overlap</title>
+		<year>2009</year>
+		<authors>Martin Pelikan,Kumara Sastry,David E. Goldberg,Martin V. Butz,Mark Hauschild</authors>
+		<jconf>GECCO</jconf>
+		<id>1207690</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>On the scalability of XCS(F)</title>
+		<year>2009</year>
+		<authors>Patrick O. Stalph,Martin V. Butz,David E. Goldberg,Xavier Llora</authors>
+		<jconf>GECCO</jconf>
+		<id>1207721</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>A new method for linkage learning in the ECGA</title>
+		<year>2009</year>
+		<authors>Thyago S. P. C. Duque,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>1207801</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, University of Illinois at Urbana Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Effects of a deterministic hill climber on hBOA</title>
+		<year>2009</year>
+		<authors>Elizabeth Radetic,Martin Pelikan,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>1207867</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Binary representation in gene expression programming: towards a better scalability</title>
+		<year>2009</year>
+		<authors>Jose Garcia Moreno-Torres,Xavier Llora,David E. Goldberg</authors>
+		<jconf>GECCO</jconf>
+		<id>1207918</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Lab. (IlliGAL), Univ. of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>The multi-label OCS with a genetic algorithm for rule discovery: implementation and first results</title>
+		<year>2009</year>
+		<authors>Rosane Maria Maffei Vallim,Thyago S. P. C. Duque,David E. Goldberg,Andre C. P. L. F. Carvalho</authors>
+		<jconf>GECCO</jconf>
+		<id>1207935</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana-Champaign, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithms in Search Optimization and Machine Learning</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>null</jconf>
+		<id>1234869</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Loopy Substructural Local Search for the Bayesian Optimization Algorithm</title>
+		<year>2009</year>
+		<authors>Claudio F. Lima,Martin Pelikan,Fernando G. Lobo,David E. Goldberg</authors>
+		<jconf>SLS</jconf>
+		<id>1259161</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, USA</organization>
+	</publication>
+	<publication>
+		<title>Binary Representation in Gene Expression Programming: Towards a Better Scalability.</title>
+		<year>2009</year>
+		<authors>Jose Garcia Moreno-Torres,Xavier Llorà,David E. Goldberg</authors>
+		<jconf>null</jconf>
+		<id>1321018</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Lab. (IlliGAL), Univ. of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Scaling Genetic Algorithms Using MapReduce.</title>
+		<year>2009</year>
+		<authors>Abhishek Verma,Xavier Llorà,David E. Goldberg,Roy H. Campbell</authors>
+		<jconf>null</jconf>
+		<id>1321104</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Illinois at Urbana-Champaign, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Toward routine billion-variable optimization using genetic algorithms: Short Communication</title>
+		<year>2007</year>
+		<authors>David E. Goldberg,Kumara Sastry,Xavier Llorà</authors>
+		<jconf>Complexity</jconf>
+		<id>1353665</id>
+		<label>0</label>
+		<organization>Department of Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, Urbana, IL 61801</organization>
+	</publication>
+	<publication>
+		<title>Genetic algorithms with sharing for multimodal function optimization</title>
+		<year>1987</year>
+		<authors>David E. Goldberg,Jon Richardson</authors>
+		<jconf>Proceedings of the Second International Conference on Genetic Algorithms on Genetic algorithms and their application</jconf>
+		<id>1444143</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonstationary function optimization using genetic algorithm with dominance and diploidy</title>
+		<year>1987</year>
+		<authors>David E. Goldberg,Robert E. Smith</authors>
+		<jconf>Proceedings of the Second International Conference on Genetic Algorithms on Genetic algorithms and their application</jconf>
+		<id>1469469</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two analysis tools to describe the operation of classifier systems</title>
+		<year>1989</year>
+		<authors>David E. Goldberg</authors>
+		<jconf>null</jconf>
+		<id>1474564</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving permutation problems with the ordering messy genetic algorithm</title>
+		<year>2003</year>
+		<authors>Dimitri Knjazew,David E. Goldberg</authors>
+		<jconf>Advances in evolutionary computing: theory and applications</jconf>
+		<id>1488959</id>
+		<label>0</label>
+		<organization>Illinois Genetic Algorithms Laboratory, University of Illinois at Urbana-Champaign 117 Transportation Building, 104 S. Mathews Avenue, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Teching PL/I using a microcomputer</title>
+		<year>1986</year>
+		<authors>Keith Harrow,Yedidyah Langsam,David E. Goldberg</authors>
+		<jconf>ACM SIGCSE Bulletin</jconf>
+		<id>1575131</id>
+		<label>1</label>
+		<organization>Department of Chemistry, Brooklyn College of C.U.N.Y., Brooklyn, NY</organization>
+	</publication>
+	<publication>
+		<title>Performance Analyses of Factorization Based on Gaussian PDF In rECGA</title>
+		<year>2007</year>
+		<authors>Minqiang Li,David E. Goldberg,Kumara Sastry,Tian-Li Yu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 04</jconf>
+		<id>1578543</id>
+		<label>0</label>
+		<organization>University of Illinois at Urbana-Champaign, USA</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary Algorithm for Large Scale Problems</title>
+		<year>2007</year>
+		<authors>Kumara Sastry,Alexandre C. B. Delbem,David E. Goldberg</authors>
+		<jconf>Proceedings of the Seventh International Conference on Intelligent Systems Design and Applications</jconf>
+		<id>1586656</id>
+		<label>0</label>
+		<organization>Univ. of Illinois at Urbana Champaign, Urbana</organization>
+	</publication>
+	<publication>
+		<title>What Is a Learning Classifier System?</title>
+		<year>2000</year>
+		<authors>John H. Holland,Lashon B. Booker,Marco Colombetti,Marco Dorigo,David E. Goldberg,Stephanie Forrest,Rick L. Riolo,Robert E. Smith,Pier Luca Lanzi,Wolfgang Stolzmann,Stewart W. Wilson</authors>
+		<jconf>Learning Classifier Systems, From Foundations to Applications</jconf>
+		<id>1588526</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AllelesLociand the Traveling Salesman Problem</title>
+		<year>1985</year>
+		<authors>David E. Goldberg,Robert Lingle, Jr.</authors>
+		<jconf>Proceedings of the 1st International Conference on Genetic Algorithms</jconf>
+		<id>1588786</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>132200</personID>
+	<FullName>Fei Su</FullName>
+	<FirstName>Fei</FirstName>
+	<LastName>Su</LastName>
+	<publication>
+		<title>System-level design automation tools for digital microfluidic biochips</title>
+		<year>2005</year>
+		<authors>Krishnendu Chakrabarty,Fei Su</authors>
+		<jconf>CODES+ISSS</jconf>
+		<id>106109</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Automated design of pin-constrained digital microfluidic arrays for lab-on-a-chip applications*</title>
+		<year>2006</year>
+		<authors>William L. Hwang,Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>DAC</jconf>
+		<id>132473</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Unified high-level synthesis and module placement for defect-tolerant microfluidic biochips</title>
+		<year>2005</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>DAC</jconf>
+		<id>134005</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips</title>
+		<year>2005</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>DATE</jconf>
+		<id>141587</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration</title>
+		<year>2005</year>
+		<authors>Fei Su,Krishnendu Chakrabarty,Vamsee K. Pamula</authors>
+		<jconf>DATE</jconf>
+		<id>143098</id>
+		<label>0</label>
+		<organization>Duke University, NC</organization>
+	</publication>
+	<publication>
+		<title>Droplet routing in the synthesis of digital microfluidic biochips</title>
+		<year>2006</year>
+		<authors>Fei Su,William L. Hwang,Krishnendu Chakrabarty</authors>
+		<jconf>DATE</jconf>
+		<id>143099</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Ridge-Based Fingerprint Recognition</title>
+		<year>2006</year>
+		<authors>Xiaohui Xie,Fei Su,Anni Cai</authors>
+		<jconf>ICB</jconf>
+		<id>274067</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Robust Fingerprint Minutiae Matching Algorithm Based on the Support Model</title>
+		<year>2004</year>
+		<authors>Xiaohui Xie,Fei Su,Anni Cai,Jingao Sun</authors>
+		<jconf>ICBA</jconf>
+		<id>274304</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architectural-level synthesis of digital microfluidics-based biochips</title>
+		<year>2004</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>ICCAD</jconf>
+		<id>282782</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Fingerprint Matching With Rotation-Descriptor Texture Features</title>
+		<year>2006</year>
+		<authors>Zhengyu Ouyang,Jianjiang Feng,Fei Su,Anni Cai</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>348238</id>
+		<label>2</label>
+		<organization>Beijing University of Posts and Telecommunications</organization>
+	</publication>
+	<publication>
+		<title>Fingerprint Registration Using Minutia Clusters and Centroid Structure 1</title>
+		<year>2006</year>
+		<authors>Dequn Zhao,Fei Su,Anni Cai</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349616</id>
+		<label>2</label>
+		<organization>Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>Concurrent Testing of Droplet-Based Microfluidic Systems for Multiplexed Biomedical Assays</title>
+		<year>2004</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>ITC</jconf>
+		<id>455192</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Testing of Droplet-Based Microelectrofluidic Systems</title>
+		<year>2003</year>
+		<authors>Fei Su,Sule Ozev,Krishnendu Chakrabarty</authors>
+		<jconf>ITC</jconf>
+		<id>456057</id>
+		<label>0</label>
+		<organization>Duke University</organization>
+	</publication>
+	<publication>
+		<title>An Exact Ridge Matching Algorithm for Fingerprint Verification</title>
+		<year>2005</year>
+		<authors>Jianjiang Feng,Zhengyu Ouyang,Fei Su,Anni Cai</authors>
+		<jconf>IWBRS</jconf>
+		<id>463238</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Ridge Following in Fingerprints</title>
+		<year>2004</year>
+		<authors>Jianjiang Feng,Fei Su,Anni Cai</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>603982</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Fingerprint Post-processing Algorithm Based on Mathematical Morphology</title>
+		<year>2004</year>
+		<authors>Fei Su,Anni Cai</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>604012</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hierarchical Fingerprint Matching Method Based on Rotation Invariant Features</title>
+		<year>2004</year>
+		<authors>Dequn Zhao,Fei Su,Anni Cai</authors>
+		<jconf>SINOBIOMETRICS</jconf>
+		<id>604038</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Defect-Aware Synthesis of Droplet-Based Microfluidic Biochips</title>
+		<year>2007</year>
+		<authors>Tao Xu,Krishnendu Chakrabarty,Fei Su</authors>
+		<jconf>VLSI Design</jconf>
+		<id>646386</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Defect Tolerance for Gracefully-Degradable Microfluidics-Based Biochips</title>
+		<year>2005</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>VTS</jconf>
+		<id>648920</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration</title>
+		<year>2007</year>
+		<authors>Fei Su,Krishnendu Chakrabarty,Vamsee K. Pamula</authors>
+		<jconf>CoRR</jconf>
+		<id>824048</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips</title>
+		<year>2007</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>CoRR</jconf>
+		<id>824049</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Computer-Aided Design and Test for Digital Microfluidics</title>
+		<year>2007</year>
+		<authors>Fei Su,Jun Zeng</authors>
+		<jconf>IEEE Design  Test of Computers</jconf>
+		<id>859100</id>
+		<label>0</label>
+		<organization>Intel</organization>
+	</publication>
+	<publication>
+		<title>Yield enhancement of reconfigurable microfluidics-based biochips using interstitial redundancy</title>
+		<year>2006</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>JETC</jconf>
+		<id>980609</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Automated design of pin-constrained digital microfluidic biochips under droplet-interference constraints</title>
+		<year>2007</year>
+		<authors>Tao Xu,William L. Hwang,Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>JETC</jconf>
+		<id>980623</id>
+		<label>0</label>
+		<organization>Intel Corporation</organization>
+	</publication>
+	<publication>
+		<title>High-level synthesis of digital microfluidic biochips</title>
+		<year>2008</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>JETC</jconf>
+		<id>980627</id>
+		<label>0</label>
+		<organization>Intel Corporation, Folsom, CA</organization>
+	</publication>
+	<publication>
+		<title>Defect Tolerance Based on Graceful Degradation and Dynamic Reconfiguration for Digital Microfluidics-Based Biochips</title>
+		<year>2006</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1085718</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Microfluidics-Based Biochips: Technology Issues, Implementation Platforms, and Design-Automation Challenges</title>
+		<year>2006</year>
+		<authors>Fei Su,Krishnendu Chakrabarty,Richard B. Fair</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1085921</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Module placement for fault-tolerant microfluidics-based biochips</title>
+		<year>2006</year>
+		<authors>Fei Su,Krishnendu Chakrabarty</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1117746</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>Concurrent testing of digital microfluidics-based biochips</title>
+		<year>2006</year>
+		<authors>Fei Su,Sule Ozev,Krishnendu Chakrabarty</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1117890</id>
+		<label>0</label>
+		<organization>Duke University, Durham, NC</organization>
+	</publication>
+	<publication>
+		<title>An optical characterization technique for hygroscopic expansion of polymers and plastic packages</title>
+		<year>2006</year>
+		<authors>Fei Su,Kerm Sin Chian,Sung Yi</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<id>1154650</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Test Planning and Test Resource Optimization for Droplet-Based Microfluidic Systems</title>
+		<year>2006</year>
+		<authors>Fei Su,Sule Ozev,Krishnendu Chakrabarty</authors>
+		<jconf>J. Electronic Testing</jconf>
+		<id>1166838</id>
+		<label>0</label>
+		<organization>Department of Electrical & Computer Engineering, Duke University, Durham 27708</organization>
+	</publication>
+	<publication>
+		<title>Testing and Diagnosis of Realistic Defects in Digital Microfluidic Biochips</title>
+		<year>2007</year>
+		<authors>Fei Su,William L. Hwang,Arindam Mukherjee,Krishnendu Chakrabarty</authors>
+		<jconf>J. Electronic Testing</jconf>
+		<id>1166898</id>
+		<label>0</label>
+		<organization>Intel Corporation, Folsom, USA</organization>
+	</publication>
+	<publication>
+		<title>A Biometric Key-Binding and Template Protection Framework Using Correlation Filters</title>
+		<year>2009</year>
+		<authors>Vishnu Naresh Boddeti,Fei Su,B. V. K. Vijaya Kumar</authors>
+		<jconf>ICB</jconf>
+		<id>1209709</id>
+		<label>2</label>
+		<organization>Beijing University of Posts and Telecommunications, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-UCAV Cooperative Path Planning Using Improved Coevolutionary Multi-Ant-Colony Algorithm</title>
+		<year>2009</year>
+		<authors>Fei Su,Yuan Li,Hui Peng,Lincheng Shen</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>1247355</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Encrypted Fuzzy Vault Based on Fingerprint</title>
+		<year>2009</year>
+		<authors>Feng Quan,Fei Su,Anni Cai</authors>
+		<jconf>IAS</jconf>
+		<id>1260018</id>
+		<label>2</label>
+		<organization>Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Cracking Cancelable Fingerprint Template of Ratha.</title>
+		<year>2008</year>
+		<authors>Quan Feng,Fei Su,Anni Cai,Feifei Zhao</authors>
+		<jconf>null</jconf>
+		<id>1328284</id>
+		<label>2</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Eye Location under Various Illumination Conditions</title>
+		<year>2006</year>
+		<authors>Geng Du,Fei Su,Anni Cai</authors>
+		<jconf>Proceedings of the International Multi-Conference on Computing in the Global Information Technology</jconf>
+		<id>1367582</id>
+		<label>2</label>
+		<organization>Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China</organization>
+	</publication>
+</person>

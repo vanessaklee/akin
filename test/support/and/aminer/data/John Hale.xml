@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>24088</personID>
+	<FullName>John Hale</FullName>
+	<FirstName>John</FirstName>
+	<LastName>Hale</LastName>
+	<publication>
+		<title>Learning to Coordinate without Sharing Information</title>
+		<year>1994</year>
+		<authors>Sandip Sen,Mahendra Sekaran,John Hale</authors>
+		<jconf>AAAI</jconf>
+		<id>14950</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PCFGs with Syntactic and Prosodic Indicators of Speech Repairs</title>
+		<year>2006</year>
+		<authors>John Hale,Izhak Shafran,Lisa Yung,Bonnie J. Dorr,Mary P. Harper,Anna Krasnyanskaya,Matthew Lease,Yang Liu,Brian Roark,Matthew G. Snover,Robin Stewart</authors>
+		<jconf>ACL</jconf>
+		<id>20412</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Security Policy Coordination for Heterogeneous Information Systems</title>
+		<year>1999</year>
+		<authors>John Hale,Pablo Galiasso,Mauricio Papa,Sujeet Shenoi</authors>
+		<jconf>ACSAC</jconf>
+		<id>24056</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Tulsa Univ., OK</organization>
+	</publication>
+	<publication>
+		<title>Extending Java for Package based Access Control</title>
+		<year>2000</year>
+		<authors>John Hale,Mauricio Papa,Oliver Bremer,Rodrigo Chandia,Sujeet Shenoi</authors>
+		<jconf>ACSAC</jconf>
+		<id>24057</id>
+		<label>0</label>
+		<organization>Center for Inf. Security, Tulsa Univ., OK</organization>
+	</publication>
+	<publication>
+		<title>Policy Mediation for Multi-Enterprise Environments</title>
+		<year>2000</year>
+		<authors>Pablo Galiasso,Oliver Bremer,John Hale,Sujeet Shenoi,David F. Ferraiolo,Vincent C. Hu</authors>
+		<jconf>ACSAC</jconf>
+		<id>24159</id>
+		<label>0</label>
+		<organization>af.affilation</organization>
+	</publication>
+	<publication>
+		<title>Strata-Gem: risk assessment through mission modeling</title>
+		<year>2008</year>
+		<authors>Kevin Clark,Ethan Singleton,Stephen Tyree,John Hale</authors>
+		<jconf>QoP</jconf>
+		<id>84451</id>
+		<label>0</label>
+		<organization>University of Tulsa, Tulsa, OK, USA</organization>
+	</publication>
+	<publication>
+		<title>On Modeling Computer Networks for Vulnerability Analysis</title>
+		<year>2002</year>
+		<authors>Clinton Campbell,Jerald Dawkins,Brandon Pollet,Kenneth Fitch,John Hale,Mauricio Papa</authors>
+		<jconf>DBSec</jconf>
+		<id>145323</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Environment for Developing Securely Interoperable Heterogeneous Distributed Objects</title>
+		<year>1997</year>
+		<authors>M. Berryman,C. Rummel,Mauricio Papa,John Hale,Jody Threet,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Extensions for Programmable Security</title>
+		<year>2000</year>
+		<authors>John Hale,Rodrigo Chandia,Clinton Campbell,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145478</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Programmable Security for Object-Oriented Systems</title>
+		<year>1998</year>
+		<authors>John Hale,Mauricio Papa,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145481</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Practical Formalism for Imprecise Inference Control</title>
+		<year>1994</year>
+		<authors>John Hale,Jody Threet,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145483</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Capability-Based Primitives for Access Control in Object-Oriented Systems</title>
+		<year>1997</year>
+		<authors>John Hale,Jody Threet,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145485</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Public Telephone Network Vulnerabilities</title>
+		<year>2001</year>
+		<authors>G. Lorenz,J. Keller,Gavin Manes,John Hale,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145504</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementation and Verification of Programmable Security</title>
+		<year>2002</year>
+		<authors>Stephen Magill,Bradley Skaggs,Mauricio Papa,John Hale</authors>
+		<jconf>DBSec</jconf>
+		<id>145532</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulation and Analysis of Cryptographic Protocols</title>
+		<year>2000</year>
+		<authors>Mauricio Papa,Oliver Bremer,Stephen Magill,John Hale,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145611</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Tool for Inference Detection and Knowledge Discovery in Databases</title>
+		<year>1995</year>
+		<authors>Surath Rath,Dominic Jones,John Hale,Sujeet Shenoi</authors>
+		<jconf>DBSec</jconf>
+		<id>145640</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Redacting Digital Information from Electronic Devices</title>
+		<year>2007</year>
+		<authors>Alex Barclay,L. Watson,David Greer,John Hale,Gavin Manes</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378780</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formal Analysis of E-Commerce Protocols</title>
+		<year>2001</year>
+		<authors>Mauricio Papa,Oliver Bremer,John Hale,Sujeet Shenoi</authors>
+		<jconf>ISADS</jconf>
+		<id>416311</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Tulsa Univ., OK</organization>
+	</publication>
+	<publication>
+		<title>A Systematic Approach to Multi-Stage Network Attack Analysis</title>
+		<year>2004</year>
+		<authors>Jerald Dawkins,John Hale</authors>
+		<jconf>IWIA</jconf>
+		<id>464561</id>
+		<label>0</label>
+		<organization>Tulsa Univ., OK, USA</organization>
+	</publication>
+	<publication>
+		<title>A Probabilistic Earley Parser as a Psycholinguistic Model</title>
+		<year>2001</year>
+		<authors>John Hale</authors>
+		<jconf>NAACL</jconf>
+		<id>511012</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A genetic algorithm for fragment allocation in a distributed database system</title>
+		<year>1994</year>
+		<authors>Arthur L. Corcoran,John Hale</authors>
+		<jconf>SAC</jconf>
+		<id>566977</id>
+		<label>0</label>
+		<organization>The University of Tulsa</organization>
+	</publication>
+	<publication>
+		<title>Integrating Logics and Process Calculi for Cryptographic Protocol Analysis</title>
+		<year>2003</year>
+		<authors>Mauricio Papa,Oliver Bremer,John Hale,Sujeet Shenoi</authors>
+		<jconf>SEC</jconf>
+		<id>580984</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Catalytic Inference Analysis: Detecting Inference Threats due to Knowledge Discovery</title>
+		<year>1997</year>
+		<authors>John Hale,Sujeet Shenoi</authors>
+		<jconf>IEEE Symposium on Security and Privacy</jconf>
+		<id>613611</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Tulsa Univ., OK</organization>
+	</publication>
+	<publication>
+		<title>GridSPiM: A Framework for Simple Locality and Containment in the Stochastic pi-Calculus</title>
+		<year>2009</year>
+		<authors>Stephen Tyree,Rayus Kuplicki,Trevor Sarratt,Scott Fujan,John Hale</authors>
+		<jconf>BICoB</jconf>
+		<id>736416</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing FD Inference in Relational Databases</title>
+		<year>1996</year>
+		<authors>John Hale,Sujeet Shenoi</authors>
+		<jconf>Data Knowl. Eng.</jconf>
+		<id>845786</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Programmable Access Control</title>
+		<year>2003</year>
+		<authors>John Hale,Mauricio Papa,Sujeet Shenoi</authors>
+		<jconf>Journal of Computer Security</jconf>
+		<id>970479</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Ticket-Based Access Control Architecture for Object Systems</title>
+		<year>2000</year>
+		<authors>John Hale,Jody Threet,Sujeet Shenoi</authors>
+		<jconf>Journal of Computer Security</jconf>
+		<id>970481</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Secur(e/ity) Management: Two Sides of the Same Coin</title>
+		<year>2004</year>
+		<authors>John Hale,Paul Brusil</authors>
+		<jconf>J. Network Syst. Manage.</jconf>
+		<id>985509</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Secur(e/ity) Management: A Continuing Uphill Climb</title>
+		<year>2007</year>
+		<authors>John Hale,Paul Brusil</authors>
+		<jconf>J. Network Syst. Manage.</jconf>
+		<id>985763</id>
+		<label>0</label>
+		<organization>Institute for Information Security, University of Tulsa, Tulsa, USA</organization>
+	</publication>
+	<publication>
+		<title>The Shifting Sands of Security Management</title>
+		<year>2005</year>
+		<authors>Paul Brusil,John Hale</authors>
+		<jconf>J. Network Syst. Manage.</jconf>
+		<id>985771</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Book Review</title>
+		<year>2007</year>
+		<authors>John Hale</authors>
+		<jconf>Journal of Logic, Language and Information</jconf>
+		<id>987108</id>
+		<label>3</label>
+		<organization>Aff1 Aff2</organization>
+	</publication>
+	<publication>
+		<title>Issues and Techniques for Redacting PDF Files</title>
+		<year>2008</year>
+		<authors>Gavin Wylie Manes,James Johnson,Alex Barclay,Michael Harvey,Elizabeth Downing,John Hale</authors>
+		<jconf>J. Digital Forensic Practice</jconf>
+		<id>1186952</id>
+		<label>0</label>
+		<organization>Computer Science, University of Tulsa, Tulsa, OK, USA</organization>
+	</publication>
+	<publication>
+		<title>Toward Robust and Extensible Automatic Protocol Identification</title>
+		<year>2009</year>
+		<authors>George Louthan,Collin McMillan,Christopher Johnson,John Hale</authors>
+		<jconf>International Conference on Internet Computing</jconf>
+		<id>1245033</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to coordinate without sharing information</title>
+		<year>1997</year>
+		<authors>Sandip Sen,Mahendra Sekaran,John Hale</authors>
+		<jconf>Readings in agents</jconf>
+		<id>1404129</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A framework for high assurance security of distributed objects</title>
+		<year>1997</year>
+		<authors>John Hale,Jody Threet,Sujeet Shenoi</authors>
+		<jconf>Proceedings of the tenth annual IFIP TC11/WG11.3 international conference on Database security: volume X : status and prospects: status and prospects</jconf>
+		<id>1405402</id>
+		<label>0</label>
+		<organization>Univ. of Tulsa, Tulsa, OK</organization>
+	</publication>
+	<publication>
+		<title>Getting Useful Gender Statistics from English Text</title>
+		<year>1998</year>
+		<authors>John Hale,Eugene Charniak</authors>
+		<jconf>null</jconf>
+		<id>1420824</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Content-based alternatives to conventional network monitoring systems</title>
+		<year>2009</year>
+		<authors>George Louthan,Brady Deetz,Matthew Walker,John Hale</authors>
+		<jconf>Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research: Cyber Security and Information Intelligence Challenges and Strategies</jconf>
+		<id>1435592</id>
+		<label>0</label>
+		<organization>University of Tulsa, Tulsa, OK</organization>
+	</publication>
+	<publication>
+		<title>Surprising parser actions and reading difficulty</title>
+		<year>2008</year>
+		<authors>Marisa Ferrara Boston,John Hale,Reinhold Kliegl,Shravan Vasishth</authors>
+		<jconf>Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics on Human Language Technologies: Short Papers</jconf>
+		<id>1435658</id>
+		<label>2</label>
+		<organization>Michigan State University</organization>
+	</publication>
+	<publication>
+		<title>The information-processing difficulty of incremental parsing</title>
+		<year>2004</year>
+		<authors>John Hale</authors>
+		<jconf>Proceedings of the Workshop on Incremental Parsing: Bringing Engineering and Cognition Together</jconf>
+		<id>1653657</id>
+		<label>2</label>
+		<organization>Michigan State University, East Lansing, MI</organization>
+	</publication>
+</person>

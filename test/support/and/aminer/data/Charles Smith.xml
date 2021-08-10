@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>28445</personID>
+	<FullName>Charles Smith</FullName>
+	<FirstName>Charles</FirstName>
+	<LastName>Smith</LastName>
+	<publication>
+		<title>A Local Probabilistic Prior-Based Active Contour Model for Brain MR Image Segmentation</title>
+		<year>2007</year>
+		<authors>Jundong Liu,Charles Smith,Hima Chebrolu</authors>
+		<jconf>ACCV (1)</jconf>
+		<id>18441</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chai: Traits for Java-Like Languages</title>
+		<year>2005</year>
+		<authors>Charles Smith,Sophia Drossopoulou</authors>
+		<jconf>ECOOP</jconf>
+		<id>173235</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Subcortical Structure Segmentation Using Probabilistic Atlas</title>
+		<year>2007</year>
+		<authors>Jundong Liu,David M. Chelberg,Charles Smith,Hima Chebrolu</authors>
+		<jconf>ISVC (1)</jconf>
+		<id>451911</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Robust Image Segmentation Model Based on Integrated Square Estimation</title>
+		<year>2007</year>
+		<authors>Shuisheng Xie,Jundong Liu,Darlene Berryman,Edward List,Charles Smith,Hima Chebrolu</authors>
+		<jconf>ISVC (2)</jconf>
+		<id>451947</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CyberCut: An Internet-based CAD/CAM System</title>
+		<year>2001</year>
+		<authors>Sung H. Ahn,V. Sundararajan,Charles Smith,Balaji Kannan,Roshan D'Souza,Ganping Sun,Ashish Mohole,Paul K. Wright,Jaeho Kim,Sara McMains,Jordan Smith,Carlo H. Sequin</authors>
+		<jconf>J. Comput. Inf. Sci. Eng.</jconf>
+		<id>969180</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Manufacturing Advisory Service: web-based process and material selection</title>
+		<year>2003</year>
+		<authors>Charles Smith,Paul K. Wright,Carlo H. Sequin</authors>
+		<jconf>Int. J. Computer Integrated Manufacturing</jconf>
+		<id>1188097</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering methodologies for identifying country core competencies</title>
+		<year>2007</year>
+		<authors>Ronald N. Kostoff,J. Antonio del Rio,Hector D. Cortes,Charles Smith,Andrew Smith,Caroline S. Wagner,Loet Leydesdorff,George Karypis,Guido Malpohl,Rene Tshiteya</authors>
+		<jconf>J. Information Science</jconf>
+		<id>1232516</id>
+		<label>3</label>
+		<organization>Booz-Allen Hamilton, Bethesda, MD 20852, USA</organization>
+	</publication>
+</person>

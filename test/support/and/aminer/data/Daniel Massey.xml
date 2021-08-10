@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>173368</personID>
+	<FullName>Daniel Massey</FullName>
+	<FirstName>Daniel</FirstName>
+	<LastName>Massey</LastName>
+	<publication>
+		<title>Understanding BGP Behavior through a Study of DoD Prefixes</title>
+		<year>2003</year>
+		<authors>Xiaoliang Zhao,Daniel Massey,Shyhtsun Felix Wu,Mohit Lad,Dan Pei,Lan Wang,Lixia Zhang</authors>
+		<jconf>DISCEX (1)</jconf>
+		<id>157119</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study of Packet Delivery Performance during Routing Convergence</title>
+		<year>2003</year>
+		<authors>Dan Pei,Lan Wang,Daniel Massey,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>DSN</jconf>
+		<id>161770</id>
+		<label>0</label>
+		<organization>UCLA CSD</organization>
+	</publication>
+	<publication>
+		<title>FRTR: A Scalable Mechanism for Global Routing Table Consistency</title>
+		<year>2004</year>
+		<authors>Lan Wang,Daniel Massey,Keyur Patel,Lixia Zhang</authors>
+		<jconf>DSN</jconf>
+		<id>161857</id>
+		<label>0</label>
+		<organization>USC/ISI</organization>
+	</publication>
+	<publication>
+		<title>Detection of Invalid Routing Announcement in the Internet</title>
+		<year>2002</year>
+		<authors>Xiaoliang Zhao,Dan Pei,Lan Wang,Daniel Massey,Allison Mankin,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>DSN</jconf>
+		<id>161931</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing DNS Resilience against Denial of Service Attacks</title>
+		<year>2007</year>
+		<authors>Vasileios Pappas,Daniel Massey,Lixia Zhang</authors>
+		<jconf>DSN</jconf>
+		<id>162021</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual-Based Anomaly Detection for BGP Origin AS Change (OASC) Events</title>
+		<year>2003</year>
+		<authors>Soon Tee Teoh,Kwan-Liu Ma,Shyhtsun Felix Wu,Daniel Massey,Xiaoliang Zhao,Dan Pei,Lan Wang,Lixia Zhang,Randy Bush</authors>
+		<jconf>DSOM</jconf>
+		<id>162272</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reliably, Securely and Efficiently Distributing Electronic Content Using Multicasting</title>
+		<year>2005</year>
+		<authors>Indrajit Ray,Eunjong Kim,Ross M. McConnell,Daniel Massey</authors>
+		<jconf>EC-Web</jconf>
+		<id>176066</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Study of BGP Path Vector Route Looping Behavior</title>
+		<year>2004</year>
+		<authors>Dan Pei,Xiaoliang Zhao,Daniel Massey,Lixia Zhang</authors>
+		<jconf>ICDCS</jconf>
+		<id>297442</id>
+		<label>0</label>
+		<organization>California Univ., Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Protecting BGP Routes to Top Level DNS Servers</title>
+		<year>2003</year>
+		<authors>Lan Wang,Xiaoliang Zhao,Dan Pei,Randy Bush,Daniel Massey,Allison Mankin,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>ICDCS</jconf>
+		<id>297868</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Timer Interaction in Route Flap Damping</title>
+		<year>2005</year>
+		<authors>Beichuan Zhang,Dan Pei,Daniel Massey,Lixia Zhang</authors>
+		<jconf>ICDCS</jconf>
+		<id>297976</id>
+		<label>0</label>
+		<organization>Colorado State University</organization>
+	</publication>
+	<publication>
+		<title>Fault Detection in Routing Protocols</title>
+		<year>1999</year>
+		<authors>Daniel Massey,Bill Fenner</authors>
+		<jconf>ICNP</jconf>
+		<id>338485</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Inferring the Origin of Routing Changes using Link Weights</title>
+		<year>2007</year>
+		<authors>Mohit Lad,Ricardo V. Oliveira,Daniel Massey,Lixia Zhang</authors>
+		<jconf>ICNP</jconf>
+		<id>338642</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global Internet Routing Forensics: Validation of BGP Paths Using ICMP Traceback</title>
+		<year>2005</year>
+		<authors>Eunjong Kim,Daniel Massey,Indrajit Ray</authors>
+		<jconf>IFIP Int. Conf. Digital Forensics</jconf>
+		<id>378770</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Observation and analysis of BGP behavior under stress</title>
+		<year>2002</year>
+		<authors>Lan Wang,Xiaoliang Zhao,Dan Pei,Randy Bush,Daniel Massey,Allison Mankin,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>Internet Measurement Workshop</jconf>
+		<id>396839</id>
+		<label>0</label>
+		<organization>USC/Information Science Institute</organization>
+	</publication>
+	<publication>
+		<title>Quantifying the operational status of the DNSSEC deployment</title>
+		<year>2008</year>
+		<authors>Eric Osterweil,Michael Ryan,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Internet Measurement Comference</jconf>
+		<id>396976</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An analysis of BGP multiple origin AS (MOAS) conflicts</title>
+		<year>2001</year>
+		<authors>Xiaoliang Zhao,Dan Pei,Lan Wang,Daniel Massey,Allison Mankin,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>Internet Measurement Workshop</jconf>
+		<id>398878</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving BGP Convergence Through Consistency Assertions</title>
+		<year>2002</year>
+		<authors>Dan Pei,Xiaoliang Zhao,Lan Wang,Daniel Massey,Allison Mankin,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402111</id>
+		<label>0</label>
+		<organization>California Univ., Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>A Comparative Study of the DNS Design with DHT-Based Alternatives</title>
+		<year>2006</year>
+		<authors>Vasileios Pappas,Daniel Massey,Andreas Terzis,Lixia Zhang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403581</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of BGP Update Surge during Slammer Worm Attack</title>
+		<year>2003</year>
+		<authors>Mohit Lad,Xiaoliang Zhao,Beichuan Zhang,Daniel Massey,Lixia Zhang</authors>
+		<jconf>IWDC</jconf>
+		<id>463654</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Detection of Anomalous Routing Dynamics in BGP</title>
+		<year>2004</year>
+		<authors>Ke Zhang,Amy Yen,Xiaoliang Zhao,Daniel Massey,Shyhtsun Felix Wu,Lixia Zhang</authors>
+		<jconf>NETWORKING</jconf>
+		<id>513557</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Algorithmic Approach to Identifying Link Failures</title>
+		<year>2004</year>
+		<authors>Mohit Lad,Akash Nanavati,Daniel Massey,Lixia Zhang</authors>
+		<jconf>PRDC</jconf>
+		<id>550834</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impact of configuration errors on DNS robustness</title>
+		<year>2004</year>
+		<authors>Vasileios Pappas,Zhiguo Xu,Songwu Lu,Daniel Massey,Andreas Terzis,Lixia Zhang</authors>
+		<jconf>SIGCOMM</jconf>
+		<id>588810</id>
+		<label>0</label>
+		<organization>Colorado State University</organization>
+	</publication>
+	<publication>
+		<title>Resolving islands of security problem for DNSSEC</title>
+		<year>2006</year>
+		<authors>Eunjong Kim,Ashish Gupta,Batsukh Tsendjav,Daniel Massey</authors>
+		<jconf>IWCMC</jconf>
+		<id>699599</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying BGP routing table transfers</title>
+		<year>2005</year>
+		<authors>Beichuan Zhang,Vamsi Kambhampati,Mohit Lad,Daniel Massey,Lixia Zhang</authors>
+		<jconf>MineNet</jconf>
+		<id>713679</id>
+		<label>0</label>
+		<organization>Colorado State University</organization>
+	</publication>
+	<publication>
+		<title>Link-Rank: a graphical tool for capturing BGP routing dynamics</title>
+		<year>2004</year>
+		<authors>Mohit Lad,Lixia Zhang,Daniel Massey</authors>
+		<jconf>NOMS (1)</jconf>
+		<id>726992</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collecting the internet AS-level topology</title>
+		<year>2004</year>
+		<authors>Beichuan Zhang,Raymond A. Liu,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Computer Communication Review</jconf>
+		<id>784176</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A flexible multicast routing protocol for group communication</title>
+		<year>2000</year>
+		<authors>Sudhir Aggarwal,Sanjoy Paul,Daniel Massey,Daniela Caldararu</authors>
+		<jconf>Computer Networks</jconf>
+		<id>793211</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BGP-RCN: improving BGP convergence through root cause notification</title>
+		<year>2005</year>
+		<authors>Dan Pei,Matt Azuma,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795110</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An analysis of convergence delay in path vector routing protocols</title>
+		<year>2006</year>
+		<authors>Dan Pei,Beichuan Zhang,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795111</id>
+		<label>0</label>
+		<organization>Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA</organization>
+	</publication>
+	<publication>
+		<title>Universal IP multicast delivery</title>
+		<year>2006</year>
+		<authors>Beichuan Zhang,Wenjie Wang,Sugih Jamin,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795871</id>
+		<label>0</label>
+		<organization>Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA</organization>
+	</publication>
+	<publication>
+		<title>Persistent detection and recovery of state inconsistencies</title>
+		<year>2007</year>
+		<authors>Lan Wang,Daniel Massey,Lixia Zhang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>796274</id>
+		<label>0</label>
+		<organization>University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States</organization>
+	</publication>
+	<publication>
+		<title>Minimum failure explanations for path vector routing changes</title>
+		<year>2006</year>
+		<authors>Mohit Lad,Daniel Massey,Adam Meyerson,Akash Nanavati,Lixia Zhang</authors>
+		<jconf>J. Comb. Optim.</jconf>
+		<id>970326</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impact of configuration errors on DNS robustness</title>
+		<year>2009</year>
+		<authors>Vasileios Pappas,Duane Wessels,Daniel Massey,Songwu Lu,Andreas Terzis,Lixia Zhang</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>993317</id>
+		<label>0</label>
+		<organization>CS Department at Colorado State University</organization>
+	</publication>
+	<publication>
+		<title>A framework for resilient Internet routing protocols</title>
+		<year>2004</year>
+		<authors>Dan Pei,Lixia Zhang,Daniel Massey</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024112</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Dance Party Problem and its Application to Collective Communication in Computer Networks</title>
+		<year>1997</year>
+		<authors>Xin Wang,Edward K. Blum,Douglas Stott Parker Jr,Daniel Massey</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1035762</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Protecting BGP Routes to Top-Level DNS Servers</title>
+		<year>2003</year>
+		<authors>Lan Wang,Xiaoliang Zhao,Dan Pei,Randy Bush,Daniel Massey,Lixia Zhang</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126001</id>
+		<label>0</label>
+		<organization>California Univ., Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Visualizing Internet Routing Changes</title>
+		<year>2006</year>
+		<authors>Mohit Lad,Daniel Massey,Lixia Zhang</authors>
+		<jconf>IEEE Trans. Vis. Comput. Graph.</jconf>
+		<id>1133857</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A coherent moral relativism</title>
+		<year>2009</year>
+		<authors>David Capps,Michael P. Lynch,Daniel Massey</authors>
+		<jconf>Synthese</jconf>
+		<id>1192788</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: Securing the Domain Name System</title>
+		<year>2009</year>
+		<authors>Daniel Massey,Dorothy E. Denning</authors>
+		<jconf>IEEE Security  Privacy</jconf>
+		<id>1273267</id>
+		<label>0</label>
+		<organization>Colorado State University</organization>
+	</publication>
+	<publication>
+		<title>Deploying and Monitoring DNS Security (DNSSEC).</title>
+		<year>2009</year>
+		<authors>Eric Osterweil,Daniel Massey,Lixia Zhang</authors>
+		<jconf>null</jconf>
+		<id>1302147</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing Trusted Keys in Internet-Scale Systems.</title>
+		<year>2009</year>
+		<authors>Eric Osterweil,Daniel Massey,Lixia Zhang</authors>
+		<jconf>null</jconf>
+		<id>1309421</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the Aftermath of the McColo Shutdown.</title>
+		<year>2009</year>
+		<authors>Steve DiBenedetto,Daniel Massey,Christos Papadopoulos,Patrick J. Walsh</authors>
+		<jconf>null</jconf>
+		<id>1309474</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA</organization>
+	</publication>
+	<publication>
+		<title>Collecting the internet AS-level topology</title>
+		<year>2005</year>
+		<authors>Beichuan Zhang,Raymond Liu,Daniel Massey,Lixia Zhang</authors>
+		<jconf>ACM SIGCOMM Computer Communication Review</jconf>
+		<id>1413082</id>
+		<label>0</label>
+		<organization>Colorado State University</organization>
+	</publication>
+</person>

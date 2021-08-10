@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>26520</personID>
+	<FullName>Hui Yu</FullName>
+	<FirstName>Hui</FirstName>
+	<LastName>Yu</LastName>
+	<publication>
+		<title>N-Person Noncooperative Game with Infinite Strategic Space</title>
+		<year>2005</year>
+		<authors>Hui Yu,Jian Chen,Caihong Sun</authors>
+		<jconf>AAIM</jconf>
+		<id>17036</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A bipolar IF amplifier/RSSI for ASK receiver</title>
+		<year>2005</year>
+		<authors>Yonggang Tao,Yongsheng Xu,Wei Jin,Hui Yu,Zongsheng Lai</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>52977</id>
+		<label>1</label>
+		<organization>East China Normal University, Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Fudan University: hierarchical video retrieval with adaptive multi-modal fusion</title>
+		<year>2008</year>
+		<authors>Zichen Sun,Yuanzheng Song,Yingbin Zheng,Hui Yu,Cheng Jin,Hong Lu,Xiangyang Xue</authors>
+		<jconf>CIVR</jconf>
+		<id>98575</id>
+		<label>2</label>
+		<organization>Fudan University, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Lesions Learned from the Practice of Mobile Health Application Development</title>
+		<year>2004</year>
+		<authors>Ping Yu,Hui Yu</authors>
+		<jconf>COMPSAC Workshops</jconf>
+		<id>112883</id>
+		<label>3</label>
+		<organization>Chongqing Institute of Technology</organization>
+	</publication>
+	<publication>
+		<title>Transformation of landscape planning and design in computer supported cooperative work era</title>
+		<year>2008</year>
+		<authors>Hui Yu,Hongcheng Deng,Zhenxiang Zhao,Yu Xiao</authors>
+		<jconf>CSCWD</jconf>
+		<id>122983</id>
+		<label>4</label>
+		<organization>Fac. of Archit., Southwest Jiaotong Univ., Chengdu</organization>
+	</publication>
+	<publication>
+		<title>A Clustering-Based Approach for Tracing Object-Oriented Design to Requirement</title>
+		<year>2007</year>
+		<authors>Xin Zhou,Hui Yu</authors>
+		<jconf>FASE</jconf>
+		<id>202306</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>1-Persistent Collision-Free CSMA Protocols for Opportunistic Optical Hyperchannels</title>
+		<year>2008</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Ashwin Gumaste,Si-Qing Zheng</authors>
+		<jconf>ICA3PP</jconf>
+		<id>264151</id>
+		<label>6</label>
+		<organization>Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083</organization>
+	</publication>
+	<publication>
+		<title>Color texture moments for content-based image retrieval</title>
+		<year>2002</year>
+		<authors>Hui Yu,Mingjing Li,HongJiang Zhang,Jufu Feng</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>322570</id>
+		<label>7</label>
+		<organization>Center for Inf. Sci., Peking Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Reliable Robust Controller Design for Nonlinear State-Delayed Systems Based on Neural Networks</title>
+		<year>2006</year>
+		<authors>Yanjun Shen,Hui Yu,Jigui Jian</authors>
+		<jconf>ICONIP (3)</jconf>
+		<id>340170</id>
+		<label>8</label>
+		<organization>Coll. of Sci., Three Gorges Univ., Hubei</organization>
+	</publication>
+	<publication>
+		<title>Parallel Implementation of the Global Optimization Algorithm Based on Uniform Distributional Design and Powell Method</title>
+		<year>2006</year>
+		<authors>Bin Shen,Wen-Ying Wang,Zhonghua Lu,Xuebin Chi,Hui Yu</authors>
+		<jconf>ICPP Workshops</jconf>
+		<id>345613</id>
+		<label>9</label>
+		<organization>Supercomput. Center, Comput. Network Inf. Center, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Modified ASDPS for Geochemical Data Processing</title>
+		<year>2004</year>
+		<authors>Chi Liu,Hui Yu</authors>
+		<jconf>KES</jconf>
+		<id>475087</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Keyphrase-Based Information Sharing in the ACORN Multi-agent Architecture</title>
+		<year>2000</year>
+		<authors>Hui Yu,Ali A. Ghorbani,Virendra C. Bhavsar,Stephen Marsh</authors>
+		<jconf>MATA</jconf>
+		<id>490368</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Classification of Cancer Types Based on Decision Tree Analysis of Gene Function Expression Profiles</title>
+		<year>2004</year>
+		<authors>Zheng Guo,Tianwen Zhang,Shaoqi Rao,Qi Wang,Hui Yu,Xia Li</authors>
+		<jconf>SNPD</jconf>
+		<id>608793</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Most General Multidimensional Summarization of Probably Groups in Data Warehouses</title>
+		<year>2005</year>
+		<authors>Hui Yu,Jian Pei,Shiwei Tang,Dongqing Yang</authors>
+		<jconf>SSDBM</jconf>
+		<id>618387</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>News Video Retrieval by Learning Multimodal Semantic Information</title>
+		<year>2007</year>
+		<authors>Hui Yu,Bolan Su,Hong Lu,Xiangyang Xue</authors>
+		<jconf>VISUAL</jconf>
+		<id>639355</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Subchannel and Power Allocation in OFDMA-Based DF Cooperative Relay Networks</title>
+		<year>2008</year>
+		<authors>Hong-Xing Li,Hui Yu,Han-Wen Luo,Jia Guo,Chisheng Li</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705615</id>
+		<label>14</label>
+		<organization>Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Pipelined Implementation of TCAM-Based Search Engines in High-Performance IP Routers</title>
+		<year>2008</year>
+		<authors>Hui Yu,Jing Chen,Jianping Wang,Si-Qing Zheng</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705864</id>
+		<label>6</label>
+		<organization>Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>Maximizing Throughput of an Optical Opportunistic Hyperchannel Subject to QoS Constraint</title>
+		<year>2008</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Si-Qing Zheng</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705974</id>
+		<label>6</label>
+		<organization>Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>Flocking Motion of Mobile Agents with a Leader Based on Distance-Dependent Adjacency Matrix</title>
+		<year>2008</year>
+		<authors>Hui Yu,Jigui Jian,Yongji Wang</authors>
+		<jconf>ICIRA (1)</jconf>
+		<id>722301</id>
+		<label>8</label>
+		<organization>Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002</organization>
+	</publication>
+	<publication>
+		<title>Global Exponential Synchronization for a Class of Delayed Chaotic Networks Using Partial System States</title>
+		<year>2008</year>
+		<authors>Jigui Jian,Hui Yu</authors>
+		<jconf>CSSE (4)</jconf>
+		<id>729441</id>
+		<label>8</label>
+		<organization>Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang</organization>
+	</publication>
+	<publication>
+		<title>Synchronization of Rikitake Chaotic Attractor via Partial System States</title>
+		<year>2008</year>
+		<authors>Jigui Jian,Yanjun Shen,Hui Yu</authors>
+		<jconf>ICYCS</jconf>
+		<id>730378</id>
+		<label>8</label>
+		<organization>Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang</organization>
+	</publication>
+	<publication>
+		<title>Towards precise classification of cancers based on robust gene functional expression profiles</title>
+		<year>2005</year>
+		<authors>Zheng Guo,Tianwen Zhang,Xia Li,Qi Wang,Jianzhen Xu,Hui Yu,Jing Zhu,Haiyun Wang,Chenguang Wang,Eric J. Topol,Qing Wang,Shaoqi Rao</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768651</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coordinated Collective Motion of Groups of Autonomous Mobile Robots with Directed Interconnected Topology</title>
+		<year>2008</year>
+		<authors>Hui Yu,Yongji Wang</authors>
+		<jconf>Journal of Intelligent and Robotic Systems</jconf>
+		<id>1152398</id>
+		<label>8</label>
+		<organization>Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002</organization>
+	</publication>
+	<publication>
+		<title>Transcript-level annotation of Affymetrix probesets improves the interpretation of gene expression data</title>
+		<year>2007</year>
+		<authors>Hui Yu,Feng Wang,Kang Tu,Lu Xie,Yuan-Yuan Li,Yi-Xue Li</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1220553</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Petroleum-contaminated groundwater remediation systems design: A data envelopment analysis based approach</title>
+		<year>2009</year>
+		<authors>Xiaodong Zhang,Guo H. Huang,Qianguo Lin,Hui Yu</authors>
+		<jconf>Expert Syst. Appl.</jconf>
+		<id>1272605</id>
+		<label>16</label>
+		<organization>Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2</organization>
+	</publication>
+	<publication>
+		<title>Opportunistic Optical Hyperchannel and Its Distributed QoS Assuring Access Control</title>
+		<year>2009</year>
+		<authors>Jing Chen,Jianping Wang,Hui Yu,Si-Qing Zheng</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1282262</id>
+		<label>6</label>
+		<organization>University of Texas at Dallas, Richardson</organization>
+	</publication>
+	<publication>
+		<title>A Novel Integrated Cell-Based Biosensor for Extracellular Electrophysiological Monitoring</title>
+		<year>2007</year>
+		<authors>Ying Xu,Hui Yu,Hua Cai,Qingjun Liu,Ping Wang</authors>
+		<jconf>Advances in Adaptive Data Analysis</jconf>
+		<id>1292807</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>News Summarization Based on Semantic Similarity Measure.</title>
+		<year>2009</year>
+		<authors>Hui Yu</authors>
+		<jconf>null</jconf>
+		<id>1323046</id>
+		<label>17</label>
+		<organization>Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China</organization>
+	</publication>
+	<publication>
+		<title>Adoption of Cognitive Radio Scheme to Class-Based Call Admission Control.</title>
+		<year>2009</year>
+		<authors>Dongyue Xue,Hui Yu,Xinbing Wang,Hsiao-Hwa Chen</authors>
+		<jconf>null</jconf>
+		<id>1324322</id>
+		<label>19</label>
+		<organization>Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Design of Pork Traceability Information System.</title>
+		<year>2008</year>
+		<authors>Yangqing Zhu,Lianming Zeng,Hua Li,Hui Yu</authors>
+		<jconf>null</jconf>
+		<id>1328134</id>
+		<label>19</label>
+		<organization>Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China</organization>
+	</publication>
+	<publication>
+		<title>A Log Analysis Audit Model Based on Optimized Clustering Algorithm</title>
+		<year>2007</year>
+		<authors>Hui Yu,Xingjian Shi</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1577285</id>
+		<label>20</label>
+		<organization>Northwestern Polytechnic University</organization>
+	</publication>
+	<publication>
+		<title>Summarization for Internet News Based on Clustering Algorithm</title>
+		<year>2009</year>
+		<authors>Hui Yu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computational Intelligence and Natural Computing - Volume 01</jconf>
+		<id>1654398</id>
+		<label>17</label>
+		<organization>Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China</organization>
+	</publication>
+</person>

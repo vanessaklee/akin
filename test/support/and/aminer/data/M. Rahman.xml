@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>531483</personID>
+	<FullName>M. Rahman</FullName>
+	<FirstName>M.</FirstName>
+	<LastName>Rahman</LastName>
+	<publication>
+		<title>Fourier-transform solution to the problem of steady-state transonic motion of a line load across the surface of an elastic half-space (the corrected Cole-Huth solution)</title>
+		<year>2001</year>
+		<authors>M. Rahman</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756232</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Erratum to 'Fourier-transform solution to the problem of steady-state transonic motion of a line load across the surface of an elastic half-space (The corrected Cole-Huth solution)' : Applied Mathematics Letters 14(4) 437-441, 2001</title>
+		<year>2002</year>
+		<authors>M. Rahman</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756234</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effect of a Binary Symmetric Channel on the Synchronisations Recovery of Variable Length Codes</title>
+		<year>1989</year>
+		<authors>M. Rahman,S. Misbahuddin</authors>
+		<jconf>Comput. J.</jconf>
+		<id>791397</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stochastic approximations of perturbed Fredholm Volterra integro-differential equation arising in mathematical neurosciences</title>
+		<year>2007</year>
+		<authors>M. Rahman,Zdzislaw Jackiewicz,Bruno D. Welfert</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1146177</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical solution of a Fredholm integro-differential equation modelling Theta-neural networks</title>
+		<year>2008</year>
+		<authors>Zdzislaw Jackiewicz,M. Rahman,Bruno D. Welfert</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147331</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular dynamics simulation of the effect of tool edge radius on cutting forces and cutting region in nanoscale ductile cutting of silicon</title>
+		<year>2005</year>
+		<authors>M. B. Cai,X. P. Li,M. Rahman</authors>
+		<jconf>IJMTM</jconf>
+		<id>1170919</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Process planning optimization for the manufacture of injection moulds using a genetic algorithm</title>
+		<year>2003</year>
+		<authors>M. R. Alam,K. S. Lee,M. Rahman,Y. F. Zhang</authors>
+		<jconf>Int. J. Computer Integrated Manufacturing</jconf>
+		<id>1188114</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Method of dry-etching evaluation using quantum dots</title>
+		<year>1997</year>
+		<authors>M. Rahman,S. K. Murad,M. C. Holland,A. R. Long,C. D. W. Wilkinson,J. G. Williamson</authors>
+		<jconf>Proceedings of the international conference on Micro- and nanofabrication</jconf>
+		<id>1403019</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A cost-efficient high-performance bit-serial architecture for robot inverse dynamics computation</title>
+		<year>1987</year>
+		<authors>M. Rahman,D. G. Meyer</authors>
+		<jconf>IEEE Transactions on Systems, Man and Cybernetics</jconf>
+		<id>1440382</id>
+		<label>6</label>
+		<organization>Purdue Univ., West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>From DFT to systems test - a model based cost optimization tool</title>
+		<year>2001</year>
+		<authors>M. Wahl,T. Ambler,C. Maaß,M. Rahman</authors>
+		<jconf>Proceedings of the conference on Design, automation and test in Europe</jconf>
+		<id>1567642</id>
+		<label>7</label>
+		<organization>Southwest Texas State Unviersity</organization>
+	</publication>
+	<publication>
+		<title>Quantum electron beam probe of sidewall dry-etch damage</title>
+		<year>2000</year>
+		<authors>M. Rahman,J. G. Williamson,K. Mathieson,G. Dick,M. J. Brown,S. Duffy,C. D. W. Wilkinson</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1575474</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated process planning for the manufacture of sliders</title>
+		<year>2000</year>
+		<authors>M. R. Alam,K. S. Lee,M. Rahman,Y. F. Zhang</authors>
+		<jconf>Computers in Industry</jconf>
+		<id>1576884</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improvement of form accuracy in hybrid machining of microstructures</title>
+		<year>2002</year>
+		<authors>H. S. Lim,A. Senthil Kumar,M. Rahman</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1614738</id>
+		<label>4</label>
+		<organization>Department of Mechanical Engineering, National University of Singapore, Singapore 119260</organization>
+	</publication>
+	<publication>
+		<title>A study on the grinding of glass using electrolytic in-process dressing</title>
+		<year>2002</year>
+		<authors>A. Senthil Kumar,H. S. Lim,M. Rahman,K. Fathima</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1616254</id>
+		<label>4</label>
+		<organization>Department of Mechanical Engineering, National University of Singapore, Singapore 119260</organization>
+	</publication>
+	<publication>
+		<title>Effect of a binary symmetric channel on the synchronisation recovery of variable length codes</title>
+		<year>1989</year>
+		<authors>M. Rahman,S. Misbahuddin</authors>
+		<jconf>The Computer Journal</jconf>
+		<id>1635610</id>
+		<label>1</label>
+		<organization>King Fahd Univ. of Petroleum & Minerals, Dhahran, Saudi Arabia</organization>
+	</publication>
+	<publication>
+		<title>An efficient numerical technique to calculate buffer statistics</title>
+		<year>1989</year>
+		<authors>M. Rahman,A. A. Soomro</authors>
+		<jconf>Microprocessing and Microprogramming</jconf>
+		<id>1642106</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A motorola MC68020-based I/O controller</title>
+		<year>1989</year>
+		<authors>D. G. Meyer,M. Rahman</authors>
+		<jconf>High-Level Language Computer Architecture</jconf>
+		<id>1647150</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

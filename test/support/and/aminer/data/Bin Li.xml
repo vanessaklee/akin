@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>3381</personID>
+	<FullName>Bin Li</FullName>
+	<FirstName>Bin</FirstName>
+	<LastName>Li</LastName>
+	<publication>
+		<title>A Framework for Biological Pattern Discovery on Networks of Workstations</title>
+		<year>1999</year>
+		<authors>Bin Li,Dennis Shasha,Jason Tsong-Li Wang</authors>
+		<jconf>Pattern Discovery in Biomolecular Data</jconf>
+		<id>2480</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sketch Retrieval Based on Spatial Relations</title>
+		<year>2005</year>
+		<authors>Shuang Liang,Zhengxing Sun,Bin Li</authors>
+		<jconf>CGIV</jconf>
+		<id>7955</id>
+		<label>1</label>
+		<organization>Nanjing University</organization>
+	</publication>
+	<publication>
+		<title>Supporting Live Video on Ad Hoc Wireless Networks: Unbalanced Multiple Description Coding, Single Path Transport and Recursive Error Concealment</title>
+		<year>2008</year>
+		<authors>Feng Huang,Lifeng Sun,Bin Li,Yuzhuo Zhong</authors>
+		<jconf>AINA</jconf>
+		<id>36583</id>
+		<label>3</label>
+		<organization>Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>CLUGGS and CLUCR-Two Matrix Solution Methods for General Circuit Simulation</title>
+		<year>2001</year>
+		<authors>Bin Li,Liyi Xiao,Yizheng Ye,Guoyong Huang</authors>
+		<jconf>Annual Simulation Symposium</jconf>
+		<id>42238</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A mixed-signal simulator for VHDL-AMS</title>
+		<year>2001</year>
+		<authors>Liyi Xiao,Bin Li,Yizheng Ye,Guoyong Huang,JinJun Guo,Peng Zhang</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>52628</id>
+		<label>4</label>
+		<organization>Microelectron. Center, Harbin Inst. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Full-Space LDA With Evolutionary Selection for Face Recognition</title>
+		<year>2006</year>
+		<authors>Xin Li,Bin Li,Hong Chen,Xianji Wang,Zhenquan Zhuang</authors>
+		<jconf>CIS</jconf>
+		<id>97422</id>
+		<label>5</label>
+		<organization>Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>Precise Eye Localization with AdaBoost and Fast Radial Symmetry</title>
+		<year>2006</year>
+		<authors>Wencong Zhang,Hong Chen,Peng Yao,Bin Li,Zhenquan Zhuang</authors>
+		<jconf>CIS</jconf>
+		<id>97468</id>
+		<label>5</label>
+		<organization>MOE-Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>On Dynamic and Concurrent Model of Web Service Components</title>
+		<year>2007</year>
+		<authors>Junwu Zhu,Jiandong Wang,Bin Li</authors>
+		<jconf>CSCWD</jconf>
+		<id>122722</id>
+		<label>1</label>
+		<organization>Nanjing Univ. of Aeronaut. & Astronaut., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>SSOA: a Semantic Service-Oriented Architecture Based on Fuzzy Assertion System</title>
+		<year>2007</year>
+		<authors>Junwu Zhu,Jiandong Wang,Bin Li</authors>
+		<jconf>CSCWD</jconf>
+		<id>122751</id>
+		<label>1</label>
+		<organization>Nanjing Univ. of Aeronaut. & Astronaut., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>An ID-based Anonymous Proxy Signature From Bilinear Pairings</title>
+		<year>2006</year>
+		<authors>Zemao Zhao,Xiangxong Tang,Bin Li,Longhai Zhu</authors>
+		<jconf>Security and Management</jconf>
+		<id>126537</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel SAT All-Solutions Solver for Efficient Preimage Computation</title>
+		<year>2004</year>
+		<authors>Bin Li,Michael S. Hsiao,Shuo Sheng</authors>
+		<jconf>DATE</jconf>
+		<id>142362</id>
+		<label>10</label>
+		<organization>Dept. of Electr. & Comput. Eng., Virginia Tech., Blacksburg, VA, USA</organization>
+	</publication>
+	<publication>
+		<title>Dynamic User Modeling for Sketch-Based User Interface</title>
+		<year>2006</year>
+		<authors>Zhengxing Sun,Bin Li,Qiang Wang,Guihuan Feng</authors>
+		<jconf>Edutainment</jconf>
+		<id>178049</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Approach to Forecast Crude Oil Price Based on Fuzzy Neural Network</title>
+		<year>2007</year>
+		<authors>Jinlan Liu,Yin Bai,Bin Li</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219079</id>
+		<label>12</label>
+		<organization>Tianjin University, Tianjin</organization>
+	</publication>
+	<publication>
+		<title>Versatile prediction and fast estimation of Architectural Vulnerability Factor from processor performance metrics</title>
+		<year>2009</year>
+		<authors>Lide Duan,Bin Li,Lu Peng</authors>
+		<jconf>HPCA</jconf>
+		<id>253106</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Configurable Web Service Performance Testing Framework</title>
+		<year>2008</year>
+		<authors>Jingmin Xie,Xiaojun Ye,Bin Li,Feng Xie</authors>
+		<jconf>HPCC</jconf>
+		<id>253474</id>
+		<label>14</label>
+		<organization>Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Personal Name Recognition Based on Categorized Linguistic Knowledge</title>
+		<year>2008</year>
+		<authors>Weiguang Qu,Xuri Tang,Bin Li</authors>
+		<jconf>Web Intelligence/IAT Workshops</jconf>
+		<id>261766</id>
+		<label>15</label>
+		<organization>Sch. of Math. & Comput. Sci., Nanjing Normal Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>A Biased Support Vector Machine Approach to Web Filtering</title>
+		<year>2005</year>
+		<authors>A-Ning Du,Binxing Fang,Bin Li</authors>
+		<jconf>ICAPR (1)</jconf>
+		<id>273184</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimizing Spatial Deformation Method for Online Signature Matching</title>
+		<year>2007</year>
+		<authors>Bin Li,Kuanquan Wang,David Zhang</authors>
+		<jconf>ICB</jconf>
+		<id>274093</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On-Line Signature Verification Based on PCA (Principal Component Analysis) and MCA (Minor Component Analysis)</title>
+		<year>2004</year>
+		<authors>Bin Li,Kuanquan Wang,David Zhang</authors>
+		<jconf>ICBA</jconf>
+		<id>274340</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Block Detection Receiver for Noncoherent Orthogonal CDMA System</title>
+		<year>2000</year>
+		<authors>Bin Li,Wen Tong,Rui Wang</authors>
+		<jconf>ICC (3)</jconf>
+		<id>275089</id>
+		<label>20</label>
+		<organization>Wireless Technol. Lab., Nortel Networks, Nepean, Ont.</organization>
+	</publication>
+	<publication>
+		<title>Linear Transceiver Design for Multiuser MIMO Downlink</title>
+		<year>2008</year>
+		<authors>Daofeng Xu,Yongming Huang,Luxi Yang,Bin Li</authors>
+		<jconf>ICC</jconf>
+		<id>276041</id>
+		<label>21</label>
+		<organization>Southeast Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>A New Transmit Scheme Combining Beamforming with Space-Time Block Coding</title>
+		<year>2008</year>
+		<authors>Min Lin,Luxi Yang,Wei-Ping Zhu,Min Li,Bin Li</authors>
+		<jconf>ICC</jconf>
+		<id>276520</id>
+		<label>21</label>
+		<organization>Sch. of Inf. Sci. & Eng., Southeast Univ., Jiangsu</organization>
+	</publication>
+	<publication>
+		<title>Limited Feedback Precoding Based on Hierarchical Codebook and Linear Receiver</title>
+		<year>2008</year>
+		<authors>Yongming Huang,Daofeng Xu,Luxi Yang,Yinggang Du,Bin Li</authors>
+		<jconf>ICC</jconf>
+		<id>276656</id>
+		<label>21</label>
+		<organization>Sch. of Inf. Sci. & Eng., Southeast Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Polaris: A System-Level Roadmap for On-Chip Interconnection Networks</title>
+		<year>2006</year>
+		<authors>Vassos Soteriou,Noel Eisley,Hangsheng Wang,Bin Li,Li-Shiuan Peh</authors>
+		<jconf>ICCD</jconf>
+		<id>287098</id>
+		<label>22</label>
+		<organization>Univ. Princeton, Princeton</organization>
+	</publication>
+	<publication>
+		<title>Authoritative Server's Impact on Domain Name System's Performance and Security</title>
+		<year>2006</year>
+		<authors>Yao Wang,Ming-Zeng Hu,Bin Li,Bo-Ru Yan</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>313702</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A pinhole camera modeling of motion vector field for tennis video analysis</title>
+		<year>2004</year>
+		<authors>Peng Wang,Rui Cai,Bin Li,Shi-Qiang Yang</authors>
+		<jconf>ICIP</jconf>
+		<id>322021</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Steganalysis of LSB Greedy Embedding Algorithm for JPEG Images using Coefficient Symmetry</title>
+		<year>2007</year>
+		<authors>Bin Li,Fangjun Huang,Jiwu Huang</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>324531</id>
+		<label>24</label>
+		<organization>Sun Yat-sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Attack LSB Matching Steganography by Counting Alteration Rate of the Number of Neighbourhood Gray Levels</title>
+		<year>2007</year>
+		<authors>Fangjun Huang,Bin Li,Jiwu Huang</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>324652</id>
+		<label>24</label>
+		<organization>Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Universal JPEG steganalysis based on microscopic and macroscopic calibration</title>
+		<year>2008</year>
+		<authors>Fangjun Huang,Bin Li,Jiwu Huang</authors>
+		<jconf>ICIP</jconf>
+		<id>325752</id>
+		<label>24</label>
+		<organization>Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>An Unbalanced Multiple Description Coding Scheme for Video Transmission Over Wireless Ad Hoc Networks</title>
+		<year>2006</year>
+		<authors>Bin Li,Feng Huang,Lifeng Sun,Shiqiang Yang</authors>
+		<jconf>ICME</jconf>
+		<id>331648</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>SIKAS: A Scalable Distributed Key Management Scheme for Dynamic Collaborative Groups</title>
+		<year>2006</year>
+		<authors>Jiang Zhang,Jian-Guang Luo,Bin Li,Shiqiang Yang</authors>
+		<jconf>ICME</jconf>
+		<id>331883</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimized Rate Allocation for Unbalanced Multiple Description Video Coding Over Unreliable Packet Network</title>
+		<year>2006</year>
+		<authors>Bin Li,Feng Huang,Lifeng Shu,Shiqiang Yang</authors>
+		<jconf>ICME</jconf>
+		<id>331884</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>License management scheme with anonymous trust for digital rights management</title>
+		<year>2005</year>
+		<authors>Jiang Zhang,Bin Li,Li Zhao,Shi-Qiang Yang</authors>
+		<jconf>ICME</jconf>
+		<id>332457</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Support cluster machine</title>
+		<year>2007</year>
+		<authors>Bin Li,Mingmin Chi,Jianping Fan,Xiangyang Xue</authors>
+		<jconf>ICML</jconf>
+		<id>336019</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Description of Topological Relations I: A Unified Fuzzy 9-Intersection Model</title>
+		<year>2005</year>
+		<authors>Shihong Du,Qiming Qin,Qiao Wang,Bin Li</authors>
+		<jconf>ICNC (3)</jconf>
+		<id>337477</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detection of Individual Microbubbles Using Wavelet Transform Based on a Theoretical Bubble Oscillation Model</title>
+		<year>2006</year>
+		<authors>Yujin Zong,Bin Li,Mingxi Wan,Supin Wang</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>338185</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Continuous Optimization based-on Boosting Gaussian Mixture Model</title>
+		<year>2006</year>
+		<authors>Bin Li,Xianji Wang,Run-tian Zhong,Zhenquan Zhuang</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>347687</id>
+		<label>5</label>
+		<organization>Nature Inspired Comput. & Applications Lab., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>Palmprint Identification using Boosting Local Binary Pattern</title>
+		<year>2006</year>
+		<authors>Xianji Wang,Haifeng Gong,Hao Zhang,Bin Li,Zhenquan Zhuang</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>349153</id>
+		<label>5</label>
+		<organization>University of Science and Technology of China, Hefei, China</organization>
+	</publication>
+	<publication>
+		<title>Analysis and Improvement of An Iris Identification Algorithm</title>
+		<year>2006</year>
+		<authors>Peng Yao,Jun Li,Xueyi Ye,Zhenquan Zhuang,Bin Li</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349398</id>
+		<label>5</label>
+		<organization>University of Scientist & Technology of China</organization>
+	</publication>
+	<publication>
+		<title>Iris Recognition Algorithm Using Modified Log-Gabor Filters</title>
+		<year>2006</year>
+		<authors>Peng Yao,Jun Li,Xueyi Ye,Zhenquan Zhuang,Bin Li</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349400</id>
+		<label>5</label>
+		<organization>University of Scientist & Technology of China</organization>
+	</publication>
+	<publication>
+		<title>Control of a 3-dimensional snake-like robot</title>
+		<year>2003</year>
+		<authors>Shugen Ma,Yoshihiro Ohmameuda,Kousuke Inoue,Bin Li</authors>
+		<jconf>ICRA</jconf>
+		<id>353624</id>
+		<label>33</label>
+		<organization>Dept. of Syst. Eng., Ibaraki Univ., Hitachi, Japan</organization>
+	</publication>
+	<publication>
+		<title>Analysis of creeping locomotion of a snake robot on a slope</title>
+		<year>2003</year>
+		<authors>Shugen Ma,Naoki Tadokoro,Bin Li,Kousuke Inoue</authors>
+		<jconf>ICRA</jconf>
+		<id>353630</id>
+		<label>33</label>
+		<organization>Dept. of Syst. Eng., Ibaraki Univ., Hitachi, Japan</organization>
+	</publication>
+	<publication>
+		<title>Turning and Side Motion of Snake-like Robot</title>
+		<year>2004</year>
+		<authors>Changlong Ye,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>ICRA</jconf>
+		<id>357657</id>
+		<label>33</label>
+		<organization>Robotics Lab., Shenyang Inst. of Autom., China</organization>
+	</publication>
+	<publication>
+		<title>Studies on Lateral Rolling Locomotion of a Snake Robot</title>
+		<year>2004</year>
+		<authors>Li Chen,Yuechao Wang,Shugen Ma,Bin Li</authors>
+		<jconf>ICRA</jconf>
+		<id>357742</id>
+		<label>33</label>
+		<organization>Robotics Lab., Shenyang Inst. of Autom., China</organization>
+	</publication>
+	<publication>
+		<title>Locomotion Analysis and Experiment for Climbing Motion of RPRS</title>
+		<year>2005</year>
+		<authors>Liping Zhang,Shugen Ma,Bin Li,Guowei Zhang,Xinyuan He,Minghui Wang,Zheng Zhang,Binggang Cao</authors>
+		<jconf>ICRA</jconf>
+		<id>357842</id>
+		<label>33</label>
+		<organization>School of Mechanical Engineering Xi’an Jiaotong University Xi’an, 710049 China; Robotics Laboratory Shenyang Institute of Automation (SIA) Chinese Academy of Sciences Shengyang, 110016 China, zhangliping@sia.cn</organization>
+	</publication>
+	<publication>
+		<title>Design of a mobile mechanism possessing driving ability and detecting function for in-pipe inspection</title>
+		<year>2008</year>
+		<authors>Peng Li,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>ICRA</jconf>
+		<id>359413</id>
+		<label>33</label>
+		<organization>State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>The Deformed Cube: A Visualization Technique for 3D Velocity Vector Field</title>
+		<year>1995</year>
+		<authors>Xundong Liang,Bin Li,Shenquan Liu</authors>
+		<jconf>ICSC</jconf>
+		<id>361066</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construct Teacher Community in E-Learning System</title>
+		<year>2008</year>
+		<authors>Bin Li,Congwu Tao,Fei Li</authors>
+		<jconf>ICWL</jconf>
+		<id>369837</id>
+		<label>35</label>
+		<organization>Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084</organization>
+	</publication>
+	<publication>
+		<title>Genetic Algorithm Based-On the Quantum Probability Representation</title>
+		<year>2002</year>
+		<authors>Bin Li,Zhenquan Zhuang</authors>
+		<jconf>IDEAL</jconf>
+		<id>372124</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Wireless Intrusion Detection Method Based on Dynamic Growing Neural Network</title>
+		<year>2006</year>
+		<authors>Yanheng Liu,Daxin Tian,Bin Li</authors>
+		<jconf>IMSCCS (2)</jconf>
+		<id>398529</id>
+		<label>38</label>
+		<organization>Jilin University, China</organization>
+	</publication>
+	<publication>
+		<title>LRED: A Robust Active Queue Management Scheme Based on Packet Loss Ratio</title>
+		<year>2004</year>
+		<authors>Chonggang Wang,Bin Li,Yiwei Thomas Hou,Kazem Sohraby,Yu Lin</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402805</id>
+		<label>37</label>
+		<organization>Beijing Univ. of Posts & Telecommun., China</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Neural Network Path Tracking of Unmanned Ground Vehicle</title>
+		<year>2006</year>
+		<authors>Xiaohong Liao,Zhao Sun,Liguo Weng,Bin Li,Yongduan Song,Yao Li</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442431</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RBF Neural Network Based Shape Control of Hyper-redundant Manipulator with Constrained End-Effector</title>
+		<year>2006</year>
+		<authors>Jinguo Liu,Yuechao Wang,Shugen Ma,Bin Li</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442551</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BP Networks Based Trajectory Planning and Inverse Kinematics of a Reconfigurable Mars Rover</title>
+		<year>2005</year>
+		<authors>Liping Zhang,Shugen Ma,Bin Li,Zheng Zhang,Guowei Zhang,Binggang Cao</authors>
+		<jconf>ISNN (3)</jconf>
+		<id>443219</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neural Network Based Kinematic Control of the Hyper-Redundant Snake-Like Manipulator</title>
+		<year>2007</year>
+		<authors>Jinguo Liu,Yuechao Wang,Bin Li,Shugen Ma</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443455</id>
+		<label>33</label>
+		<organization>Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>An Improved On-Line Sequential Learning Algorithm for Extreme Learning Machine</title>
+		<year>2007</year>
+		<authors>Bin Li,Jingming Wang,Yibin Li,Yong Song</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443483</id>
+		<label>39</label>
+		<organization>College of Mathematical and Physical Sciences, Shandong Institute, of Light Industry, Jinan, 250353, China</organization>
+	</publication>
+	<publication>
+		<title>Tracking Anomalous Behaviors of Name Servers by Mining DNS Traffic</title>
+		<year>2006</year>
+		<authors>Yao Wang,Ming-Zeng Hu,Bin Li,Bo-Ru Yan</authors>
+		<jconf>ISPA Workshops</jconf>
+		<id>445262</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Hebb Neural Network for Network Anomaly Detection</title>
+		<year>2007</year>
+		<authors>Daxin Tian,Yanheng Liu,Bin Li</authors>
+		<jconf>ISPA</jconf>
+		<id>445545</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lower bounds for approximate factorizations via semidefinite programming: (extended abstract)</title>
+		<year>2007</year>
+		<authors>Erich Kaltofen,Bin Li,Kartik Sivaramakrishnan,Zhengfeng Yang,Lihong Zhi</authors>
+		<jconf>SNC</jconf>
+		<id>449904</id>
+		<label>41</label>
+		<organization>AMSS, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Approximate GCDs of polynomials and SOS relaxation</title>
+		<year>2007</year>
+		<authors>Bin Li,Jiawang Nie,Lihong Zhi</authors>
+		<jconf>SNC</jconf>
+		<id>449905</id>
+		<label>41</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Exact certification of global optimality of approximate factorizations via rationalizing sums-of-squares with floating point scalars</title>
+		<year>2008</year>
+		<authors>Erich Kaltofen,Bin Li,Zhengfeng Yang,Lihong Zhi</authors>
+		<jconf>ISSAC</jconf>
+		<id>449971</id>
+		<label>41</label>
+		<organization>AMSS, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Integrating Software into PRA</title>
+		<year>2003</year>
+		<authors>Bin Li,Ming Li,Susmita Ghose,Carol Smidts</authors>
+		<jconf>ISSRE</jconf>
+		<id>450254</id>
+		<label>45</label>
+		<organization>Center for Reliability Eng., Maryland Univ., College Park, MD, USA</organization>
+	</publication>
+	<publication>
+		<title>An E-Government Platform Based on Multi-Tier Architecture</title>
+		<year>2008</year>
+		<authors>Xiaoyuan Zhang,Guoqiang Han,Bin Li,Kun Zou,Wen Li</authors>
+		<jconf>ITNG</jconf>
+		<id>458175</id>
+		<label>43</label>
+		<organization>South China Univ. of Technol., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Effect of Different Coding Patterns on Compressed Frequency Domain Based Universal JPEG Steganalysis</title>
+		<year>2007</year>
+		<authors>Bin Li,Fangjun Huang,Shunquan Tan,Jiwu Huang,Yun Q. Shi</authors>
+		<jconf>IWDW</jconf>
+		<id>464068</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A set theoretical method for video synopsis</title>
+		<year>2008</year>
+		<authors>Min Xu,Stan Z. Li,Bin Li,Xiaotong Yuan,Shiming Xiang</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<id>500588</id>
+		<label>5</label>
+		<organization>University of Science and Technology of China, Hefei, China</organization>
+	</publication>
+	<publication>
+		<title>A web-based aggregated platform for user-contributed interactive media broadcasting</title>
+		<year>2007</year>
+		<authors>Jingjing Liu,Yalou Huang,Dong Li,Fanghao Wu,Bin Li</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503430</id>
+		<label>48</label>
+		<organization>Nankai University, Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>DJ DreamFactory</title>
+		<year>2007</year>
+		<authors>Jingjing Liu,Yalou Huang,Dong Li,Fanghao Wu,Bin Li</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503447</id>
+		<label>48</label>
+		<organization>Nankai University, Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Bit rate reduction of H.264/AVC video coding for mobile applications</title>
+		<year>2006</year>
+		<authors>Bin Li,Lifeng Sun,Shiqiang Yang</authors>
+		<jconf>MMM</jconf>
+		<id>504850</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Parallel and Distributed Method for Computing High Dimensional MOLAP</title>
+		<year>2005</year>
+		<authors>Kongfa Hu,Ling Chen,Qi Gu,Bin Li,Yisheng Dong</authors>
+		<jconf>NPC</jconf>
+		<id>519885</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial Clustering with Obstacles Constraints Using Ant Colony and Particle Swarm Optimization</title>
+		<year>2007</year>
+		<authors>Xueping Zhang,Jiayao Wang,Zhongshan Fan,Bin Li</authors>
+		<jconf>PAKDD Workshops</jconf>
+		<id>527549</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Relevance Feedback for Sketch Retrieval Based on Linear Programming Classification</title>
+		<year>2006</year>
+		<authors>Bin Li,Zhengxing Sun,Shuang Liang,Yaoye Zhang,Bo Yuan</authors>
+		<jconf>PCM</jconf>
+		<id>531668</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards an Analysis of Source-Rewriting Anonymous Systems in a Lossy Environment</title>
+		<year>2004</year>
+		<authors>Jin-Qiao Shi,Binxing Fang,Bin Li</authors>
+		<jconf>PDCAT</jconf>
+		<id>532701</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiagent Reinforcement Learning for a Planetary Exploration Multirobot System</title>
+		<year>2006</year>
+		<authors>Zheng Zhang,Shugen Ma,Binggang Cao,Li-Ping Zhang,Bin Li</authors>
+		<jconf>PRIMA</jconf>
+		<id>552323</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Event-State Approach to Handling Temporal Queries in an Extended Relational Database System</title>
+		<year>1992</year>
+		<authors>Bin Li,T. C. Ting</authors>
+		<jconf>RIDE-TQP</jconf>
+		<id>559776</id>
+		<label>51</label>
+		<organization>Dept. of Comput. Sci. Eng., Connecticut Univ., Storrs, CT</organization>
+	</publication>
+	<publication>
+		<title>Efficient mart-aided modeling for microarchitecture design space exploration and performance prediction</title>
+		<year>2008</year>
+		<authors>Bin Li,Lu Peng,Balachandran Ramadass</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>597817</id>
+		<label>13</label>
+		<organization>Louisiana State University, Baton Rouge, LA, USA</organization>
+	</publication>
+	<publication>
+		<title>Free Parallel Data Mining</title>
+		<year>1998</year>
+		<authors>Bin Li,Dennis Shasha</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598318</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>D-S Theory-based Trust Model FIRE+ in Multi-agent Systems</title>
+		<year>2007</year>
+		<authors>Pingping Lu,Bin Li,Maolin Xing,Liang Li</authors>
+		<jconf>SNPD (1)</jconf>
+		<id>609152</id>
+		<label>1</label>
+		<organization>Nanjing University, China</organization>
+	</publication>
+	<publication>
+		<title>A Policy Language for Adaptive Web Services Security Framework</title>
+		<year>2007</year>
+		<authors>Jianxin Li,Bin Li,Liang Li,Tongsheng Che</authors>
+		<jconf>SNPD (1)</jconf>
+		<id>609215</id>
+		<label>1</label>
+		<organization>Nanjing University, China</organization>
+	</publication>
+	<publication>
+		<title>Battle Damage Assessment based on Bayesian Network</title>
+		<year>2007</year>
+		<authors>Zhijun Ma,Quan Shi,Bin Li</authors>
+		<jconf>SNPD (2)</jconf>
+		<id>609326</id>
+		<label>49</label>
+		<organization>Ordnance Eng. Coll., Shijiazhuang</organization>
+	</publication>
+	<publication>
+		<title>UTDallas at TREC 2008 Blog Track</title>
+		<year>2008</year>
+		<authors>Bin Li,Feifan Liu,Yang Liu</authors>
+		<jconf>TREC</jconf>
+		<id>630505</id>
+		<label>50</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impact of Process and Temperature Variations on Network-on-Chip Design Exploration</title>
+		<year>2008</year>
+		<authors>Bin Li,Li-Shiuan Peh,Priyadarsan Patra</authors>
+		<jconf>NOCS</jconf>
+		<id>696714</id>
+		<label>22</label>
+		<organization>Princeton Univ., Princeton</organization>
+	</publication>
+	<publication>
+		<title>Hybrid quantum probabilistic coding genetic algorithm for large scale hardware-software co-synthesis of embedded systems</title>
+		<year>2007</year>
+		<authors>Ronghua Guo,Bin Li,Yi Zou,Zhenquan Zhuang</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697361</id>
+		<label>5</label>
+		<organization>Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>A restart univariate estimation of distribution algorithm: sampling under mixed Gaussian and Levy probability distribution</title>
+		<year>2008</year>
+		<authors>Yu Wang,Bin Li</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>697957</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understand behavior and performance of Real Coded Optimization Algorithms via NK-linkage model</title>
+		<year>2008</year>
+		<authors>Yu Wang,Bin Li</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>698165</id>
+		<label>5</label>
+		<organization>Nature Inspired Comput. & Applic. Lab., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+	<publication>
+		<title>Steganalysis of YASS</title>
+		<year>2008</year>
+		<authors>Bin Li,Yun Q. Shi,Jiwu Huang</authors>
+		<jconf>MMSec</jconf>
+		<id>702969</id>
+		<label>24</label>
+		<organization>Sun Yat-sen University, Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Unequal-arm Adaptive Rood Pattern Search with Early Terminations For Fast Block-matching Motion Estimation on H.264</title>
+		<year>2006</year>
+		<authors>Bin Li,Kai-Kuang Ma</authors>
+		<jconf>APCCAS</jconf>
+		<id>707482</id>
+		<label>52</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Trust Model for the Multi-agent Systems</title>
+		<year>2008</year>
+		<authors>Bin Li,Maolin Xing,Junwu Zhu,Tongshen Che</authors>
+		<jconf>ISIP</jconf>
+		<id>709232</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Joint error concealment and error recovery for consecutive frame losses under the unbalanced multiple description coding architecture</title>
+		<year>2007</year>
+		<authors>Feng Huang,Lifeng Sun,Bin Li,Yuzhuo Zhong</authors>
+		<jconf>MobiMedia</jconf>
+		<id>719553</id>
+		<label>3</label>
+		<organization>Tsinghua University, Tsinghua University Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Dimensional K-Anonymity Model for Hierarchical Data</title>
+		<year>2008</year>
+		<authors>Xiaojun Ye,Lei Jin,Bin Li</authors>
+		<jconf>ISECS</jconf>
+		<id>720165</id>
+		<label>14</label>
+		<organization>Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Method of General Stiffness Modeling for Multi-axis Machine Tool</title>
+		<year>2008</year>
+		<authors>Rong Yan,Fangyu Peng,Bin Li</authors>
+		<jconf>ICIRA (2)</jconf>
+		<id>722424</id>
+		<label>53</label>
+		<organization>National NC System Engineering Research Center, Huazhong University of Science and Technology, Email: zwm8917@263.net, Wuhan, 430074</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Notch Filter Control for the Torsion Vibration in Lead-Screw Feed Drive System Based on Neural Network</title>
+		<year>2008</year>
+		<authors>Yong Zhou,Fangyu Peng,Bin Li</authors>
+		<jconf>ICIRA (2)</jconf>
+		<id>722438</id>
+		<label>53</label>
+		<organization>National NC System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074</organization>
+	</publication>
+	<publication>
+		<title>Look-Ahead Scheme for High Speed Consecutive Micro Line Interpolation Based on Dynamics of Machine Tool</title>
+		<year>2008</year>
+		<authors>Fangyu Peng,Xubin Chen,Yong Zhou,Li Li,Bin Li</authors>
+		<jconf>ICIRA (2)</jconf>
+		<id>722455</id>
+		<label>53</label>
+		<organization>National Numerical Control System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074</organization>
+	</publication>
+	<publication>
+		<title>Multifunctional Mobile Units with a same platform for in-pipe inspection robots</title>
+		<year>2008</year>
+		<authors>Peng Li,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>IROS</jconf>
+		<id>723114</id>
+		<label>33</label>
+		<organization>State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>An in-pipe inspection robot based on adaptive mobile mechanism: mechanical design and basic experiments</title>
+		<year>2007</year>
+		<authors>Peng Li,Shugen Ma,Bin Li,Yuechao Wang,Changlong Ye</authors>
+		<jconf>IROS</jconf>
+		<id>724147</id>
+		<label>33</label>
+		<organization>Chinese Acad. of Sci., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>Configuration Analysis for Reconfigurable Modular Planetary Robots Based on MSV and CSM</title>
+		<year>2006</year>
+		<authors>Minghui Wang,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>IROS</jconf>
+		<id>724336</id>
+		<label>33</label>
+		<organization>Robotics Lab., Chinese Acad. of Sci., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>3D Locomotion of a Snake-like Robot Controlled by Cyclic Inhibitory CPG Model</title>
+		<year>2006</year>
+		<authors>ZhenLi Lu,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>IROS</jconf>
+		<id>724809</id>
+		<label>33</label>
+		<organization>Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Design and Basic Experiments of a Shape-shifting Mobile Robot for Urban Search and Rescue</title>
+		<year>2006</year>
+		<authors>Changlong Ye,Shugen Ma,Bin Li</authors>
+		<jconf>IROS</jconf>
+		<id>725165</id>
+		<label>33</label>
+		<organization>Robotic Lab., Shenyang Inst. of Autom.</organization>
+	</publication>
+	<publication>
+		<title>The Case of Interactive Web-Based Course Development</title>
+		<year>2008</year>
+		<authors>Jing Du,Fei Li,Bin Li</authors>
+		<jconf>WBL</jconf>
+		<id>725557</id>
+		<label>35</label>
+		<organization>Educational Technology Institute, Tsinghua University, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>Detecting doubly compressed JPEG images by using Mode Based First Digit Features</title>
+		<year>2008</year>
+		<authors>Bin Li,Yun Q. Shi,Jiwu Huang</authors>
+		<jconf>MMSP</jconf>
+		<id>727205</id>
+		<label>24</label>
+		<organization>Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>CCL-SVC: Optimizing user experience of broadcasting video on computation capability limited handheld devices</title>
+		<year>2008</year>
+		<authors>Jingyuan Wang,Lifeng Sun,Bin Li,Meng Zhang,Shiqiang Yang</authors>
+		<jconf>MMSP</jconf>
+		<id>727254</id>
+		<label>3</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Analysis of locomotion of a planetary rover on a slope</title>
+		<year>2004</year>
+		<authors>Xinyuan He,Shugen Ma,Bin Li,Yuechao Wang,Changlong Ye</authors>
+		<jconf>RAM</jconf>
+		<id>728291</id>
+		<label>33</label>
+		<organization>Graduate Sch., Chinese Acad. of Sci., Shenyang Inst. of Autom., China</organization>
+	</publication>
+	<publication>
+		<title>Scene segmentation based on video structure and spectral methods</title>
+		<year>2008</year>
+		<authors>Zhenyuan Zhang,Bin Li,Hong Lu,Xiangyang Xue</authors>
+		<jconf>ICARCV</jconf>
+		<id>733053</id>
+		<label>30</label>
+		<organization>Sch. of Comput. Sci., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Development of an OpenGL based multi-robot simulating platform</title>
+		<year>2004</year>
+		<authors>Zheng Zhang,Shugen Ma,Bin Li,Liping Zhang,Binggang Cao</authors>
+		<jconf>ICARCV</jconf>
+		<id>733636</id>
+		<label>33</label>
+		<organization>Sch. of Mech. Eng., Xi'an Jiaotong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Position-sensing based a new docking system of RPRS</title>
+		<year>2004</year>
+		<authors>Liping Zhang,Shugen Ma,Bin Li,Zheng Zhang,Zaili Dong,Binggang Cao</authors>
+		<jconf>ICARCV</jconf>
+		<id>733790</id>
+		<label>33</label>
+		<organization>Sch. of Mech. Eng., Xi'an Jiaotong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Development of a snake-like robot adapting to the ground</title>
+		<year>2004</year>
+		<authors>Bin Li,Li Chen,Yang Lv</authors>
+		<jconf>ICARCV</jconf>
+		<id>733909</id>
+		<label>33</label>
+		<organization>Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>Automated Cellular Modeling and Prediction on a Large Scale</title>
+		<year>2000</year>
+		<authors>Piew Datta,Brij M. Masand,D. R. Mani,Bin Li</authors>
+		<jconf>Artif. Intell. Rev.</jconf>
+		<id>748576</id>
+		<label>56</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A hardware/software partitioning algorithm based on artificial immune principles</title>
+		<year>2008</year>
+		<authors>Yiguo Zhang,Wenjian Luo,Zeming Zhang,Bin Li,Xufa Wang</authors>
+		<jconf>Appl. Soft Comput.</jconf>
+		<id>760640</id>
+		<label>5</label>
+		<organization>Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China</organization>
+	</publication>
+	<publication>
+		<title>VKCDB: Voltage-gated potassium channel database</title>
+		<year>2004</year>
+		<authors>Bin Li,Warren J. Gallin</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768431</id>
+		<label>55</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CHAMP: A Prototype for Automated Cellular Churn Prediction</title>
+		<year>1999</year>
+		<authors>Brij M. Masand,Piew Datta,D. R. Mani,Bin Li</authors>
+		<jconf>Data Min. Knowl. Discov.</jconf>
+		<id>839573</id>
+		<label>56</label>
+		<organization>GTE Laboratories, Waltham, MA. bli@gte.com</organization>
+	</publication>
+	<publication>
+		<title>Distributed Spatial Catalog Service on the CORBA Object Bus</title>
+		<year>2000</year>
+		<authors>Bin Li,Li Zhang</authors>
+		<jconf>GeoInformatica</jconf>
+		<id>883565</id>
+		<label>54</label>
+		<organization>Department of Geography, Central Michigan University, Mount Pleasant, MI 48858 bin.li@cmich.edu</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Objective Hw-sw Co-Synthesis Algorithm Based on Quantum-Inspired Evolutionary Algorithm</title>
+		<year>2008</year>
+		<authors>Wenlong Wei,Bin Li,Yi Zou,Wencong Zhang,Zhenquan Zhuang</authors>
+		<jconf>International Journal of Computational Intelligence and Applications</jconf>
+		<id>905973</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Signature Verification by Combining Shape Contexts and Local Features</title>
+		<year>2006</year>
+		<authors>Bin Li,David Zhang,Kuanquan Wang</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910470</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting multi-scale support vector regression for image compression</title>
+		<year>2007</year>
+		<authors>Bin Li,Danian Zheng,Lifeng Sun,Shiqiang Yang</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>917812</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Robust Iris Localization Algorithm via Radial Symmetry for Nonideal Capturing Condition</title>
+		<year>2009</year>
+		<authors>Wencong Zhang,Bin Li,Xueyi Ye,Zhenquan Zhuang,Kong-Qiao Wang</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919811</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-strategy ensemble particle swarm optimization for dynamic optimization</title>
+		<year>2008</year>
+		<authors>Weilin Du,Bin Li</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>943023</id>
+		<label>5</label>
+		<organization>Nature Inspired Computation and Applications Laboratory, School of Information Science and Technology, USTC, Huangshan Road, Hefei, Anhui 230027, China</organization>
+	</publication>
+	<publication>
+		<title>A New Synchronization Algorithm for VHDL-AMS Simulation</title>
+		<year>2002</year>
+		<authors>Liyi Xiao,Yizheng Ye,Bin Li</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973833</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Call admission control for voice/data integrated cellular networks: performance analysis and comparative study</title>
+		<year>2004</year>
+		<authors>Bin Li,Lizhong Li,Bo Li,Krishna M. Sivalingam,Xi-Ren Cao</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>992695</id>
+		<label>37</label>
+		<organization>Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China</organization>
+	</publication>
+	<publication>
+		<title>Online signature verification based on null component analysis and principal component analysis</title>
+		<year>2006</year>
+		<authors>Bin Li,David Zhang,Kuanquan Wang</authors>
+		<jconf>Pattern Anal. Appl.</jconf>
+		<id>1030268</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A robust incremental learning framework for accurate skin region segmentation in color images</title>
+		<year>2007</year>
+		<authors>Bin Li,Xiangyang Xue,Jianping Fan</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042527</id>
+		<label>30</label>
+		<organization>Department of Computer Science and Engineering, Fudan University, Shanghai 200433, China</organization>
+	</publication>
+	<publication>
+		<title>A representation theorem for recovering contraction relations satisfying wci</title>
+		<year>2003</year>
+		<authors>Zhaohui Zhu,Bin Li,Xian Xiao,Shifu Chen,Wujia Zhu</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095400</id>
+		<label>1</label>
+		<organization>State Key Lab of Novel Software Technology, Nanjing University, Nanjing 210093, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Approximate GCDs of polynomials and sparse SOS relaxations</title>
+		<year>2008</year>
+		<authors>Bin Li,Jiawang Nie,Lihong Zhi</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096358</id>
+		<label>41</label>
+		<organization>Key Lab of Mathematics Mechanization, AMSS, Beijing 100190, China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Approach to Extract Colon Lumen from CT Images for Virtual Colonoscopy</title>
+		<year>2000</year>
+		<authors>Dongqing Chen,Zhengrong Liang,Mark R. Max,Lihong Li,Bin Li,Arie E. Kaufman</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1114814</id>
+		<label>59</label>
+		<organization>Dept. of Radiology, State Univ. of New York, Stony Brook, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Polaris: A System-Level Roadmapping Toolchain for On-Chip Interconnection Networks</title>
+		<year>2007</year>
+		<authors>Vassos Soteriou,Noel Eisley,Hangsheng Wang,Bin Li,Li-Shiuan Peh</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1134821</id>
+		<label>22</label>
+		<organization>Princeton Univ., Princeton</organization>
+	</publication>
+	<publication>
+		<title>On Handoff Performance for an Integrated Voice/Data Cellular System</title>
+		<year>2003</year>
+		<authors>Bin Li,Lizhong Li,Bo Li,Xi-Ren Cao</authors>
+		<jconf>Wireless Networks</jconf>
+		<id>1141263</id>
+		<label>37</label>
+		<organization>Hong Kong Univ. of Sci. & Technol., Kowloon, China</organization>
+	</publication>
+	<publication>
+		<title>Classification of functional data: A segmentation approach</title>
+		<year>2008</year>
+		<authors>Bin Li,Qingzhao Yu</authors>
+		<jconf>Computational Statistics  Data Analysis</jconf>
+		<id>1157627</id>
+		<label>13</label>
+		<organization>Louisiana State University, 70803 Baton Rouge, LA, United States</organization>
+	</publication>
+	<publication>
+		<title>Defending against distributed denial-of-service attacks with an auction-based method</title>
+		<year>2006</year>
+		<authors>Zhihong Tian,Mingzeng Hu,Bin Li,Bo Liu,Hongli Zhang</authors>
+		<jconf>Web Intelligence and Agent Systems</jconf>
+		<id>1157746</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Location-free Algorithm of Energy-Efficient Connected Coverage for High Density Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Hongxing Bai,Xi Chen,Bin Li,Dianfei Han</authors>
+		<jconf>Discrete Event Dynamic Systems</jconf>
+		<id>1164706</id>
+		<label>58</label>
+		<organization>Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084</organization>
+	</publication>
+	<publication>
+		<title>A dynamic multiple-threshold bandwidth reservation (DMTBR) scheme for QoS provisioning in multimedia wireless networks</title>
+		<year>2005</year>
+		<authors>Xiang Chen,Bin Li,Yuguang Fang</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1176941</id>
+		<label>57</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Florida, Gainesville, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>Center-configuration selection technique for the reconfigurable modular robot</title>
+		<year>2007</year>
+		<authors>Jinguo Liu,Yuechao Wang,Bin Li,Shugen Ma,Dalong Tan</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180463</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gaits-transferable CPG controller for a snake-like robot</title>
+		<year>2008</year>
+		<authors>ZhenLi Lu,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180499</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Network-based reconfiguration routes for a self-reconfigurable robot</title>
+		<year>2008</year>
+		<authors>Jinguo Liu,Shugen Ma,Yuechao Wang,Bin Li</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180601</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theoretical analysis of transmission characteristics for all fiber, multi-cavity Fabry-Perot filters based on fiber Bragg gratings</title>
+		<year>2008</year>
+		<authors>Ou Xu,ShaoHua Lu,XiaoWei Dong,Bin Li,TiGang Ning,ShuiSheng Jian</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180618</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combined adaptive beamforming with space-time block coding for multi-antenna communications</title>
+		<year>2008</year>
+		<authors>Min Lin,Min Li,Luxi Yang,Bin Li</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180635</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Coordination Infrastructure for Pervasive Computing Environment Based on Tuplespace and Semantic Web</title>
+		<year>2008</year>
+		<authors>Liang Li,Bin Li,Junwu Zhu</authors>
+		<jconf>JDCTA</jconf>
+		<id>1192274</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information Services, Geography</title>
+		<year>2008</year>
+		<authors>Bin Li</authors>
+		<jconf>Encyclopedia of GIS</jconf>
+		<id>1198179</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transfer learning for collaborative filtering via a rating-matrix generative model</title>
+		<year>2009</year>
+		<authors>Bin Li,Qiang Yang,Xiangyang Xue</authors>
+		<jconf>ICML</jconf>
+		<id>1210331</id>
+		<label>30</label>
+		<organization>Fudan University, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>A Forward-Secrecy WTLS Handshake Protocol Based on XTR</title>
+		<year>2009</year>
+		<authors>Bin Li</authors>
+		<jconf>ISA</jconf>
+		<id>1217633</id>
+		<label>2</label>
+		<organization>State Key Lab. of Integrated Service Networks, Xidian University, China</organization>
+	</publication>
+	<publication>
+		<title>A Self-adaptive Mixed Distribution Based Uni-variate Estimation of Distribution Algorithm for Large Scale Global Optimization</title>
+		<year>2009</year>
+		<authors>Yu Wang,Bin Li</authors>
+		<jconf>Nature-Inspired Algorithms for Optimisation</jconf>
+		<id>1234546</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration</title>
+		<year>2009</year>
+		<authors>Andrew B. Kahng,Bin Li,Li-Shiuan Peh,Kambiz Samadi</authors>
+		<jconf>DATE</jconf>
+		<id>1241308</id>
+		<label>22</label>
+		<organization>CSE Dept., Univ. of California, La Jolla, CA</organization>
+	</publication>
+	<publication>
+		<title>Can Movies and Books Collaborate? Cross-Domain Collaborative Filtering for Sparsity Reduction</title>
+		<year>2009</year>
+		<authors>Bin Li,Qiang Yang,Xiangyang Xue</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249661</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced high-performance distributed coordination function for IEEE 802.11 multi-rate LANs</title>
+		<year>2009</year>
+		<authors>Chih-Heng Ke,Bin Li,Yueh-Min Huang,J. Morris Chang</authors>
+		<jconf>Int. J. Communication Systems</jconf>
+		<id>1282789</id>
+		<label>6</label>
+		<organization>Department of Computer Science and Engineering, Texas University, Arlington, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Configuration representation and reconfiguration optimization for the reconfigurable robots with independent manipulation</title>
+		<year>2009</year>
+		<authors>Minghui Wang,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1286078</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A research on open CNC system based on architecture/component software reuse technology</title>
+		<year>2004</year>
+		<authors>Bin Li,Yun-fei Zhou,Xiao-qi Tang</authors>
+		<jconf>Synthesis Lectures on Mathematics & Statistics</jconf>
+		<id>1291577</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Risk Informed Computer Economics.</title>
+		<year>2009</year>
+		<authors>Bin Li,Lee Gillam</authors>
+		<jconf>null</jconf>
+		<id>1303559</id>
+		<label>7</label>
+		<organization>Dept. of Comput., Univ. of Surrey, Guildford</organization>
+	</publication>
+	<publication>
+		<title>Trust and Privacy in Dissemination Control.</title>
+		<year>2009</year>
+		<authors>Xiaojun Ye,Zude Li,Bin Li,Feng Xie</authors>
+		<jconf>null</jconf>
+		<id>1306145</id>
+		<label>14</label>
+		<organization>Sch. of Software, Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Posture control of a dual-crawler-driven robot.</title>
+		<year>2009</year>
+		<authors>Qiquan Quan,Shugen Ma,Bin Li,Rongqiang Liu</authors>
+		<jconf>null</jconf>
+		<id>1306764</id>
+		<label>33</label>
+		<organization>State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>Dynamic modeling for locomotion-manipulation of a snake-like robot by using geometric methods.</title>
+		<year>2009</year>
+		<authors>Zhifeng Wang,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>null</jconf>
+		<id>1313195</id>
+		<label>33</label>
+		<organization>State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>The Consequences of Work-Family Conflicts to Female Entrepreneurs within the Travel Agenices.</title>
+		<year>2009</year>
+		<authors>RuanYue Qiang,Mingliang Wei,Bin Li</authors>
+		<jconf>null</jconf>
+		<id>1318101</id>
+		<label>23</label>
+		<organization>Shool of Econ. & Manage., Wuhan Univ., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>A Method of Raster Data Mining Based on Multi Dimension Data Set.</title>
+		<year>2009</year>
+		<authors>Bin Li,Lihong Shi,Jiping Liu,Liang Wang</authors>
+		<jconf>null</jconf>
+		<id>1318868</id>
+		<label>25</label>
+		<organization>Chinese Acad. of Surveying & Mapping, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>The Adaptive Path Planning Research for a Shape-Shifting Robot Using Particle Swarm Optimization.</title>
+		<year>2009</year>
+		<authors>Tonglin Liu,Chengdong Wu,Bin Li,Jinguo Liu</authors>
+		<jconf>null</jconf>
+		<id>1319855</id>
+		<label>33</label>
+		<organization>State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>An Improved FCM Algorithm Incorporating Spatial Information for Image Segmentation.</title>
+		<year>2008</year>
+		<authors>Bin Li,Wufan Chen,Dandan Wang</authors>
+		<jconf>null</jconf>
+		<id>1328268</id>
+		<label>26</label>
+		<organization>Sch. of Biomed. Eng., Southern Med. Univ., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Locomotion of a Snake-like Robot Controlled by the Bidirectional Cyclic Inhibitory CPG Model.</title>
+		<year>2006</year>
+		<authors>Zhenli Lu,Shugen Ma,Bin Li,Yuechao Wang</authors>
+		<jconf>null</jconf>
+		<id>1328374</id>
+		<label>33</label>
+		<organization>Robot. Lab., Shenyang Inst. of Autom., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>Study on Epipolar Geometry Restoration of Parallel Binocular Vision.</title>
+		<year>2006</year>
+		<authors>Hongwei Gao,Chengdong Wu,Bin Li</authors>
+		<jconf>null</jconf>
+		<id>1328503</id>
+		<label>33</label>
+		<organization>Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>Nitrogen and Phosphate Removal by Zeolite-Rare Earth Adsorbents.</title>
+		<year>2009</year>
+		<authors>Bin Li,Xiwu Lu,Ping Ning,Yuehong Yang</authors>
+		<jconf>null</jconf>
+		<id>1331108</id>
+		<label>17</label>
+		<organization>Dept. of Environ. Eng., Southeast Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>3D-SURFER: software for high-throughput protein surface comparison and analysis.</title>
+		<year>2009</year>
+		<authors>David La,Juan Esquivel-Rodríguez,Vishwesh Venkatraman,Bin Li,Lee Sael,Stephen Ueng,Steven Ahrendt,Daisuke Kihara</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1333150</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accurate and efficient processor performance prediction via regression tree based modeling.</title>
+		<year>2009</year>
+		<authors>Bin Li,Lu Peng,Balachandran Ramadass</authors>
+		<jconf>Journal of Systems Architecture - Embedded Systems Design</jconf>
+		<id>1339606</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Saturation throughput analysis of multi-rate IEEE 802.11 wireless networks.</title>
+		<year>2009</year>
+		<authors>Der-Jiunn Deng,Bin Li,Lianfen Huang,Chih-Heng Ke,Yueh-Min Huang</authors>
+		<jconf>Wireless Communications and Mobile Computing</jconf>
+		<id>1343744</id>
+		<label>6</label>
+		<organization>Department of CE, School of Information Science and Technology, Xiamen University, Xiamen, Fujian, China</organization>
+	</publication>
+	<publication>
+		<title>A Model of GIS Virtual Machine.</title>
+		<year>1998</year>
+		<authors>Li Zhang,Bin Li,Hui Lin 0002</authors>
+		<jconf>Annals of GIS</jconf>
+		<id>1347012</id>
+		<label>54</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Steganalysis of YASS</title>
+		<year>2009</year>
+		<authors>Bin Li,Jiwu Huang,Yun Qing Shi</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<id>1365784</id>
+		<label>24</label>
+		<organization>College of Information Engineering, Shenzhen University, Shenzhen, China and School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Multi-channel DCA MAC Protocol in Cognitive Wireless Mesh Networks</title>
+		<year>2009</year>
+		<authors>Lianfen Huang,Minghao Yu,Bin Li,Haiying Liu,Huihuang Chen</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02</jconf>
+		<id>1386659</id>
+		<label>6</label>
+		<organization>Dept. of Commun. Eng., Xiamen Univ., Xiamen</organization>
+	</publication>
+	<publication>
+		<title>Effect of Different Coding Patterns on Compressed Frequency Domain Based Universal JPEG Steganalysis</title>
+		<year>2008</year>
+		<authors>Bin Li,Fangjun Huang,Shunquan Tan,Jiwu Huang,Yun Q. Shi</authors>
+		<jconf>Proceedings of the 6th International Workshop on Digital Watermarking</jconf>
+		<id>1388852</id>
+		<label>24</label>
+		<organization>School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102</organization>
+	</publication>
+	<publication>
+		<title>Dielectric mismatch effect on coupled impurity states in a freestanding nanowire</title>
+		<year>2009</year>
+		<authors>Bin Li,B. Partoens,F. M. Peeters,W. Magnus</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1392627</id>
+		<label>32</label>
+		<organization>Departement Fysica, Universiteit Antwerpen, Groenenborgerlaan 171, B-2020 Antwerpen, Belgium</organization>
+	</publication>
+	<publication>
+		<title>Mixture-Based Bone Segmentation and Its Application in Computer Aided Diagnosis and Treatment Planning</title>
+		<year>2004</year>
+		<authors>Hongbing Lu,Zhengrong Liang,Bin Li,Xiang Li,Jie Meng,Xin Liu</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1414205</id>
+		<label>59</label>
+		<organization>State University of New York at Stony Brook</organization>
+	</publication>
+	<publication>
+		<title>An Effective Collision Resolution Mechanism for Wireless LAN</title>
+		<year>2003</year>
+		<authors>Chonggang Wang,Bin Li,Bo Li,Kazem Sohraby</authors>
+		<jconf>Proceedings of the 2003 International Conference on Computer Networks and Mobile Computing</jconf>
+		<id>1557863</id>
+		<label>37</label>
+		<organization>Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China</organization>
+	</publication>
+	<publication>
+		<title>Letters: Exploiting multi-scale support vector regression for image compression</title>
+		<year>2007</year>
+		<authors>Bin Li,Danian Zheng,Lifeng Sun,Shiqiang Yang</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>1581131</id>
+		<label>3</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China</organization>
+	</publication>
+	<publication>
+		<title>Anomaly Intrusion Detection Methods for Peer-to-Peer System</title>
+		<year>2007</year>
+		<authors>Daxin Tian,Yanheng Liu,Bin Li</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1581602</id>
+		<label>38</label>
+		<organization>Jilin University</organization>
+	</publication>
+	<publication>
+		<title>An Approach for Dynamic Hardware /Software Partitioning Based on DPBIL</title>
+		<year>2007</year>
+		<authors>Le-jun Fan,Bin Li,Zhen-quan Zhuang,Zhong-qian Fu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 05</jconf>
+		<id>1583425</id>
+		<label>5</label>
+		<organization>University of Science and Technology of China</organization>
+	</publication>
+	<publication>
+		<title>An Agent-based Policy Aware Framework for Web Services Security</title>
+		<year>2007</year>
+		<authors>JIAN-XIN LI,BIN LI,LIANG LI,TONG-SHENG CHE</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1583640</id>
+		<label>1</label>
+		<organization>Nanjing University, China</organization>
+	</publication>
+	<publication>
+		<title>A Practical Calibration Method for Multiple Cameras</title>
+		<year>2007</year>
+		<authors>Liuxin Zhang,Bin Li,Yunde Jia</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1585692</id>
+		<label>29</label>
+		<organization>Beijing Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Kernel-based Global Folley-Sammon Discriminate Analysis</title>
+		<year>2007</year>
+		<authors>Chunyu Zhang,Tongyan Qi,Mianshu Chen,Wei Liu,Bin Li</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1585710</id>
+		<label>38</label>
+		<organization>Jilin University, China</organization>
+	</publication>
+	<publication>
+		<title>Encouraging Good Interactions in Open Agent Systems</title>
+		<year>2008</year>
+		<authors>Bin Li,Maolin Xing,Tongsheng Che,Xingshen Wu</authors>
+		<jconf>Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing</jconf>
+		<id>1592441</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Eng., Yangzhou Univ., Yangzhou</organization>
+	</publication>
+	<publication>
+		<title>Precise Eye Localization with AdaBoost and Fast Radial Symmetry</title>
+		<year>2007</year>
+		<authors>Wencong Zhang,Hong Chen,Peng Yao,Bin Li,Zhenquan Zhuang</authors>
+		<jconf>Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers</jconf>
+		<id>1593717</id>
+		<label>5</label>
+		<organization>MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China</organization>
+	</publication>
+	<publication>
+		<title>Full-Space LDA With Evolutionary Selection for Face Recognition</title>
+		<year>2007</year>
+		<authors>Xin Li,Bin Li,Hong Chen,Xianji Wang,Zhengquan Zhuang</authors>
+		<jconf>Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers</jconf>
+		<id>1595828</id>
+		<label>5</label>
+		<organization>MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China</organization>
+	</publication>
+	<publication>
+		<title>A Tuplespace-Based Middleware for Semantic Web Services Using SWRL</title>
+		<year>2008</year>
+		<authors>Liang Li,Bin Li,Junwu Zhu,Xiaowei Zhang</authors>
+		<jconf>Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing</jconf>
+		<id>1600738</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Eng., Yangzhou Univ., Yangzhou</organization>
+	</publication>
+	<publication>
+		<title>Novel Routing Algorithms for Hierarchical Architecture in ASON</title>
+		<year>2009</year>
+		<authors>Pei Luo,Shanguo Huang,Weihua Lian,Bin Li,Wanyi Gu</authors>
+		<jconf>Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02</jconf>
+		<id>1655882</id>
+		<label>31</label>
+		<organization>Key Lab. of Opt. Commun. & Lightwave Technol., Beijing Univ. of Posts & Telecommun., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of an Automated Microscope Stage</title>
+		<year>2009</year>
+		<authors>Xu Ma,Gang An,Bin Li</authors>
+		<jconf>Proceedings of the 2009 International Forum on Information Technology and Applications - Volume 01</jconf>
+		<id>1656545</id>
+		<label>48</label>
+		<organization>Inst. of Robot. & Autom. Inf. Syst., Nankai Univ., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Influence of Incomplete Linkage between Marked and Functional Gene on Estimating Gene Effect by Molecular Marker Regression Model</title>
+		<year>2009</year>
+		<authors>Xue-Bin Li,Xiao-Ling Yu,Bin Li</authors>
+		<jconf>Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02</jconf>
+		<id>1658233</id>
+		<label>42</label>
+		<organization>Henan Inst. of Sci. & Technol., Xinxiang, China</organization>
+	</publication>
+	<publication>
+		<title>Semi-automatic dynamic auxiliary-tag-aided image annotation</title>
+		<year>2010</year>
+		<authors>Shile Zhang,Bin Li,Xiangyang Xue</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1658830</id>
+		<label>30</label>
+		<organization>School of Computer Science, Fudan University, 220 Handan Road, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Influence of connecting units' thicknesses on tandem organic devices' performances</title>
+		<year>2008</year>
+		<authors>Mingjun Liu,Ping Chen,Qin Xue,Fangfang Jiang,Guohua Xie,Jingying Hou,Yi Zhao,Liying Zhang,Bin Li</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1749458</id>
+		<label>40</label>
+		<organization>Key Laboratory of Excited State Processes, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun 130033, PR China</organization>
+	</publication>
+	<publication>
+		<title>Design and Application of GIS Software Platform Integrating with DSS Oriented to E-Government</title>
+		<year>2008</year>
+		<authors>Liang Wang,Bin Li</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 06</jconf>
+		<id>1750381</id>
+		<label>25</label>
+		<organization>Res. Centre of Gov. GIS, Chinese Acad. of Surveying & Mapping, Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Data Collection System in High-Energy Detection</title>
+		<year>2008</year>
+		<authors>Bin Li,Feng Wang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 02</jconf>
+		<id>1751809</id>
+		<label>44</label>
+		<organization>Inf. Eng. Univ., Zhengzhou</organization>
+	</publication>
+</person>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>57175</personID>
+	<FullName>Satoshi Kobayashi</FullName>
+	<FirstName>Satoshi</FirstName>
+	<LastName>Kobayashi</LastName>
+	<publication>
+		<title>Locality, Reversibility, and Beyond: Learning Languages from Positive Data</title>
+		<year>1998</year>
+		<authors>Tom Head,Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>ALT</jconf>
+		<id>39343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Strategies Using Decision Lists</title>
+		<year>1993</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>ALT</jconf>
+		<id>39414</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Concatenations of Locally Testable Languages from Positive Data</title>
+		<year>1994</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>AII/ALT</jconf>
+		<id>39415</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Approximately Identifying Concept Classes in the Limit</title>
+		<year>1995</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>ALT</jconf>
+		<id>39416</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifiability of Subspaces and Homomorphic Images of Zero-Reversible Languages</title>
+		<year>1997</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>ALT</jconf>
+		<id>39417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Wiki as a Lightweight Knowledge Management System</title>
+		<year>2006</year>
+		<authors>Hendry Muljadi,Hideaki Takeda,Aman Shakya,Shoko Kawamoto,Satoshi Kobayashi,Asao Fujiyama,Koichi Ando</authors>
+		<jconf>ASWC</jconf>
+		<id>54612</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Algorithm for Testing Structure Freeness of Biomolecular Sequences</title>
+		<year>2004</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori,Yasubumi Sakakibara</authors>
+		<jconf>Aspects of Molecular Computing</jconf>
+		<id>66087</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Magic Pot : Self-assembly Computation Revisited</title>
+		<year>2002</year>
+		<authors>Takashi Yokomori,Yasubumi Sakakibara,Satoshi Kobayashi</authors>
+		<jconf>Formal and Natural Computing</jconf>
+		<id>66552</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Testing Structure Freeness of Regular Sets of Biomolecular Sequences</title>
+		<year>2004</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>DNA</jconf>
+		<id>159133</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Template Method for DNA Sequence Design</title>
+		<year>2002</year>
+		<authors>Satoshi Kobayashi,Tomohiro Kondo,Masanori Arita</authors>
+		<jconf>DNA</jconf>
+		<id>159150</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Horn Clause Computation by Self-assembly of DNA Molecules</title>
+		<year>2001</year>
+		<authors>Hiroki Uejima,Masami Hagiya,Satoshi Kobayashi</authors>
+		<jconf>DNA</jconf>
+		<id>159255</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Algorithm for Testing Structure Freeness of Finite Set of Biomolecular Sequences</title>
+		<year>2005</year>
+		<authors>Atsushi Kijima,Satoshi Kobayashi</authors>
+		<jconf>DNA</jconf>
+		<id>159344</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Translation for Semi-classical Theories - Backtracking without CPS</title>
+		<year>2008</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>FLOPS</jconf>
+		<id>208395</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Local Languages and its Application to Protein \alpha-Chain Identification</title>
+		<year>1994</year>
+		<authors>Takashi Yokomori,Nobuyuki Ishida,Satoshi Kobayashi</authors>
+		<jconf>HICSS (5)</jconf>
+		<id>249016</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterated Transductions and Efficient Learning from Positive Data: A Unifying View</title>
+		<year>2000</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>ICGI</jconf>
+		<id>311062</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Learning of k-Reversible Context-Free Grammars from Positive Structural Examples</title>
+		<year>2004</year>
+		<authors>Shinnosuke Seki,Satoshi Kobayashi</authors>
+		<jconf>ICGI</jconf>
+		<id>311135</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Decision Lists over Tree Patterns and Its Application</title>
+		<year>1993</year>
+		<authors>Satoshi Kobayashi,Koichi Hori,Setsuo Ohsuga</authors>
+		<jconf>IJCAI</jconf>
+		<id>389238</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Universality of Post and Splicing Systems</title>
+		<year>1998</year>
+		<authors>Claudio Ferretti,Giancarlo Mauri,Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>MCU (2)</jconf>
+		<id>491230</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Characterization of the Language Classes Learnable with Correction Queries</title>
+		<year>2007</year>
+		<authors>Cristina Tirnauca,Satoshi Kobayashi</authors>
+		<jconf>TAMC</jconf>
+		<id>625956</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Semantic Wiki-Based Japanese Biodictionary</title>
+		<year>2006</year>
+		<authors>Hendry Muljadi,Hideaki Takeda,Shoko Kawamoto,Satoshi Kobayashi,Asao Fujiyama</authors>
+		<jconf>SemWiki</jconf>
+		<id>706428</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two Extensions of PX system</title>
+		<year>1996</year>
+		<authors>Susumu Hayashi,Masakazu Ishikawa,Satoshi Kobayashi,Hiroshi Nakano,Syuichi Nakazaki</authors>
+		<jconf>Electr. Notes Theor. Comput. Sci.</jconf>
+		<id>867645</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Grammatical Approach to the Alignment of Structure-Annotated Strings</title>
+		<year>2005</year>
+		<authors>Shinnosuke Seki,Satoshi Kobayashi</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>897512</id>
+		<label>0</label>
+		<organization>The authors are with the Department of Computer Science, University of Electro-Communications, Chofu-shi, 182--8585 Japan. E-mail: shinnosuke@comp.cs.uec.ac.jp</organization>
+	</publication>
+	<publication>
+		<title>Families of Noncounting Languages and Their Learnability from Positive Data</title>
+		<year>1996</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909247</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Horn Clause Computation with DNA Molecules</title>
+		<year>1999</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>J. Comb. Optim.</jconf>
+		<id>970123</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DNA Sequence Design Using Templates</title>
+		<year>2002</year>
+		<authors>Masanori Arita,Satoshi Kobayashi</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1024987</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Local Languages and Their Application to DNA Sequence Analysis</title>
+		<year>1998</year>
+		<authors>Takashi Yokomori,Satoshi Kobayashi</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033423</id>
+		<label>0</label>
+		<organization>Tokyo Denki Univ., Saitama, Japan</organization>
+	</publication>
+	<publication>
+		<title>Sticker systems with complex structures</title>
+		<year>2001</year>
+		<authors>Yasubumi Sakakibara,Satoshi Kobayashi</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1069796</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the universality of Post and splicing systems</title>
+		<year>2000</year>
+		<authors>Claudio Ferretti,Giancarlo Mauri,Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1091071</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Monad as Modality</title>
+		<year>1997</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092653</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formal properties of PA-matching</title>
+		<year>2001</year>
+		<authors>Satoshi Kobayashi,Victor Mitrana,Gheorghe Paun,Grzegorz Rozenberg</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092656</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple splicing systems and the universal computability</title>
+		<year>2001</year>
+		<authors>Satoshi Kobayashi,Yasubumi Sakakibara</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092658</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Realizability Interpretation of Generalized Inductive Definitions</title>
+		<year>1994</year>
+		<authors>Satoshi Kobayashi,Makoto Tatsuta</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092660</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Approximately Regular Languages with Reversible Languages</title>
+		<year>1997</year>
+		<authors>Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1092662</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tree Adjoining Grammars for RNA Structure Prediction</title>
+		<year>1999</year>
+		<authors>Yasuo Uemura,Aki Hasegawa,Satoshi Kobayashi,Takashi Yokomori</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095006</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mathematical Foundations of Learning Theory</title>
+		<year>2006</year>
+		<authors>Satoshi Kobayashi</authors>
+		<jconf>Recent Advances in Formal Languages and Applications</jconf>
+		<id>1201739</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Necessary and sufficient conditions for learning with correction queries.</title>
+		<year>2009</year>
+		<authors>Cristina Tîrnauca,Satoshi Kobayashi</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1343002</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Electro-Communications, Chofugaoka 1-5-1, Chofu, Tokyo 182-8585, Japan</organization>
+	</publication>
+	<publication>
+		<title>Grammatical Inference: Algorithms and Applications: 8th International Colloquium, ICGI 2006, Tokyo, Japan, September 20-22, 2006, Proceedings (Lecture Notes in Computer Science)</title>
+		<year>2006</year>
+		<authors>Yasibumi Sakaibara,Satoshi Kobayashi,Kengo Sato,Tetsuro Nishino,Etsuji Tomita</authors>
+		<jconf>null</jconf>
+		<id>1358126</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Power of Sequence Design in DNA Computing</title>
+		<year>2001</year>
+		<authors>Masanori Arita,Satoshi Kobayashi</authors>
+		<jconf>Proceedings of the Fourth International Conference on Computational Intelligence and Multimedia Applications</jconf>
+		<id>1420780</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

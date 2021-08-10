@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>96644</personID>
+	<FullName>Philip J. Smith</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>EP-X: A Knowledge-Based System to Aid in Searches of the Environmental Pollution Literature</title>
+		<year>1985</year>
+		<authors>D. A. Krawczak,Philip J. Smith,Steven J. Shute,Mark H. Chignell</authors>
+		<jconf>CAIA</jconf>
+		<id>72516</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Teaching problem-solving through a cooperative learning environment</title>
+		<year>1995</year>
+		<authors>Rebecca Denning,Philip J. Smith</authors>
+		<jconf>CHI 95 Conference Companion</jconf>
+		<id>88061</id>
+		<label>0</label>
+		<organization>Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio</organization>
+	</publication>
+	<publication>
+		<title>Design Concepts for an Instructional Tool: Teaching Abductive Reasoning in Antibody Identification</title>
+		<year>1996</year>
+		<authors>Jodi Heintz Obradovich,Philip J. Smith,Stephanie Guerlain,Jack W. Smith,Sally Rudmann,Larry Sachs,John Svirbley,Melanie Kennedy,Patricia Strohm</authors>
+		<jconf>CHI Conference Companion</jconf>
+		<id>89740</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Transfusion Medicine Tutor: Using Expert Systems Technology to Teach Domain-Specific Problem-Solving Skills</title>
+		<year>1996</year>
+		<authors>Jodi Heintz Obradovich,Philip J. Smith,Stephanie Guerlain,Sally Rudmann,Patricia Strohm,Jack W. Smith,Larry Sachs,Rebecca Denning</authors>
+		<jconf>Intelligent Tutoring Systems</jconf>
+		<id>458883</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Successful Use of an Expert System to Teach Diagnostic Reasoning for Antibody Identification</title>
+		<year>1998</year>
+		<authors>Philip J. Smith,Jodi Heintz Obradovich,Stephanie Guerlain,Sally Rudmann,Patricia Strohm,Jack W. Smith,John Svirbley,Larry Sachs</authors>
+		<jconf>Intelligent Tutoring Systems</jconf>
+		<id>458934</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelization and integration of fire simulations in the Uintah PSE</title>
+		<year>2001</year>
+		<authors>Rajesh Rawat,Steven G. Parker,Philip J. Smith,Christopher R. Johnson</authors>
+		<jconf>PPSC</jconf>
+		<id>549446</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ELSA: An Electronic Library Search Assistant (Demo)</title>
+		<year>1993</year>
+		<authors>Bekka Denning,Philip J. Smith</authors>
+		<jconf>SIGIR</jconf>
+		<id>594812</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EP-X: A Demonstration of Semantically-Based Search of Bibliographic Databases</title>
+		<year>1987</year>
+		<authors>Deb Krawczak,Philip J. Smith,Steven J. Shute</authors>
+		<jconf>SIGIR</jconf>
+		<id>595280</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>In Search of Knowledge-Based Search Tactics</title>
+		<year>1989</year>
+		<authors>Philip J. Smith,Steven J. Shute,Deb Galdes,Mark H. Chignell</authors>
+		<jconf>SIGIR</jconf>
+		<id>595756</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Document Retrieval: Expertise in Identifying Relevant Documents</title>
+		<year>1990</year>
+		<authors>Philip J. Smith</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>845027</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Catalog of Errors</title>
+		<year>1992</year>
+		<authors>Jane M. Fraser,Philip J. Smith,Jack W. Smith</authors>
+		<jconf>International Journal of Man-Machine Studies</jconf>
+		<id>912290</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Online Library Catalog Systems: An Analysis of User Errors</title>
+		<year>1986</year>
+		<authors>Beverly Janosky,Philip J. Smith,Charles R. Hildreth</authors>
+		<jconf>International Journal of Man-Machine Studies</jconf>
+		<id>912611</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coping with the Complexities of Multiple-Solution Problems: A Case Study</title>
+		<year>1991</year>
+		<authors>Philip J. Smith,Deb Galdes,Jane M. Fraser,Thomas Miller,Jack W. Smith,John R. Svirbely,Janice Blazina,Melanie Kennedy,Sally Rudmann,Donna L. Thomas</authors>
+		<jconf>International Journal of Man-Machine Studies</jconf>
+		<id>913428</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge-Based Search Tactics</title>
+		<year>1993</year>
+		<authors>Steven J. Shute,Philip J. Smith</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>936743</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge-Based Search Tactics for an Intelligent Intermediary System</title>
+		<year>1989</year>
+		<authors>Philip J. Smith,Steven J. Shute,Deb Galdes,Mark H. Chignell</authors>
+		<jconf>ACM Trans. Inf. Syst.</jconf>
+		<id>1120339</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strategies for designing distributed systems: case studies in the design of an air traffic management system</title>
+		<year>2007</year>
+		<authors>Philip J. Smith,Amy L. Spencer,Charles E. Billings</authors>
+		<jconf>Commun. CACM</jconf>
+		<id>1292310</id>
+		<label>0</label>
+		<organization>The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA</organization>
+	</publication>
+	<publication>
+		<title>Adaptive teaching strategies to improve individual student achievement in problem-based learning environments</title>
+		<year>1996</year>
+		<authors>Rebecca Dennin,Philip J. Smith</authors>
+		<jconf>Proceedings of the 1996 international conference on Learning sciences</jconf>
+		<id>1370264</id>
+		<label>0</label>
+		<organization>The Ohio State University</organization>
+	</publication>
+	<publication>
+		<title>Adaptive teaching strategies to improve student learning in problem-based learning environments</title>
+		<year>1996</year>
+		<authors>Rebecca Denning,Philip J. Smith</authors>
+		<jconf>Proceedings of the 1996 international conference on Learning sciences</jconf>
+		<id>1370633</id>
+		<label>0</label>
+		<organization>The Ohio State University</organization>
+	</publication>
+	<publication>
+		<title>The transfusion medicine tutor: the use of expert-systems technology to teach students and provide support to practitioners in antibody identification</title>
+		<year>1996</year>
+		<authors>Jodi Heintz Obradovich,Stephanie Guerlain,Philip J. Smith,Jack W. Smith, Jr.,Sally Rudmann,Larry Sachs,John Svirbley,Melanie Kennedy,Patricia L. Strohm</authors>
+		<jconf>Proceedings of the 1996 international conference on Learning sciences</jconf>
+		<id>1371764</id>
+		<label>0</label>
+		<organization>The Ohio State University, Columbus, OH</organization>
+	</publication>
+	<publication>
+		<title>Design concepts for an instructional tool: teaching abductive reasoning in antibody identification</title>
+		<year>1996</year>
+		<authors>Jodi Heintz Obradovich,Philip J. Smith,Stephanie Guerlain,Jack W. Smith, Jr.,Sally Rudmann,Larry Sachs,John Svirbley,Melanie Kennedy,Patricia L. Strohm</authors>
+		<jconf>Conference companion on Human factors in computing systems: common ground</jconf>
+		<id>1396156</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>VISUALIZING TURBULENT MIXING OF GASES AND PARTICLES</title>
+		<year>1995</year>
+		<authors>Liu Kwan-Ma,Philip J. Smith,Sandeep Jain</authors>
+		<jconf>null</jconf>
+		<id>1416483</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Searching for information on occupational accidents</title>
+		<year>2008</year>
+		<authors>Philip J. Smith</authors>
+		<jconf>null</jconf>
+		<id>1435041</id>
+		<label>0</label>
+		<organization>The Ohio State University</organization>
+	</publication>
+	<publication>
+		<title>Bibliographic information retrieval systems: increasing cognitive compatibility</title>
+		<year>1987</year>
+		<authors>Philip J. Smith,Deborah Krawczak,Steven J. Shute,Mark H. Chignell</authors>
+		<jconf>Information Services and Use</jconf>
+		<id>1450416</id>
+		<label>0</label>
+		<organization>Ohio State Univ., Columbus</organization>
+	</publication>
+	<publication>
+		<title>Modeling fault diagnosis as the activation and use of a frame system</title>
+		<year>1986</year>
+		<authors>Philip J. Smith,Walter C. Giffin,Thomas H. Rockwell,Mark Thomas</authors>
+		<jconf>Human Factors</jconf>
+		<id>1457959</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cloud tracing in convection-diffusion systems</title>
+		<year>1993</year>
+		<authors>Kwan-Liu Ma,Philip J. Smith</authors>
+		<jconf>Proceedings of the 4th conference on Visualization '93</jconf>
+		<id>1477984</id>
+		<label>1</label>
+		<organization>University of Utah, Salt Lake City, Utah</organization>
+	</publication>
+	<publication>
+		<title>Virtual smoke: an interactive 3D flow visualization technique</title>
+		<year>1992</year>
+		<authors>Kwan-Liu Ma,Philip J. Smith</authors>
+		<jconf>Proceedings of the 3rd conference on Visualization '92</jconf>
+		<id>1488710</id>
+		<label>1</label>
+		<organization>University of Utah, Salt Lake City, Utah</organization>
+	</publication>
+	<publication>
+		<title>An empirical study of human tutors: the implications for intelligent tutoring systems</title>
+		<year>1990</year>
+		<authors>Philip J. Smith</authors>
+		<jconf>null</jconf>
+		<id>1492007</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ELSA (abstract): an electronic library search assistant</title>
+		<year>1993</year>
+		<authors>Bekka Denning,Philip J. Smith</authors>
+		<jconf>Proceedings of the 16th annual international ACM SIGIR conference on Research and development in information retrieval</jconf>
+		<id>1511589</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges in Indexing Electronic Text and Images</title>
+		<year>1994</year>
+		<authors>Raya Fidel,Philip J. Smith,Trudi B. Hahn,Edie M. Rasmussen</authors>
+		<jconf>null</jconf>
+		<id>1516524</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge-based search tactics for an intelligent intermediary system</title>
+		<year>1989</year>
+		<authors>Philip J. Smith,Steven J. Shute,Beb Galdes,Mark H. Chignell</authors>
+		<jconf>ACM Transactions on Information Systems (TOIS)</jconf>
+		<id>1622425</id>
+		<label>0</label>
+		<organization>Ohio State Univ., Columbus</organization>
+	</publication>
+	<publication>
+		<title>Coping with the complexities of multiple-solution problems: a case study</title>
+		<year>1991</year>
+		<authors>Philip J. Smith,Deborah Galdes,Jane Fraser,Thomas Miller,Jack W. Smith, Jr.,John R. Svirbely,Janice Blazina,Melanie Kennedy,Sally Rudmann,Donna L. Thomas</authors>
+		<jconf>International Journal of Man-Machine Studies</jconf>
+		<id>1680964</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A cognitive systems engineering approach to the design of decision support systems</title>
+		<year>2002</year>
+		<authors>Philip J. Smith,Norman D. Geddes</authors>
+		<jconf>The human-computer interaction handbook: fundamentals, evolving technologies and emerging applications</jconf>
+		<id>1701724</id>
+		<label>0</label>
+		<organization>Institute for Ergonomics, Ohio State University</organization>
+	</publication>
+	<publication>
+		<title>Using Critical Incidents to Understand the Interactions of Airline Dispatchers with the Traffic Management System</title>
+		<year>1998</year>
+		<authors>Philip J. Smith,Rebecca Denning,Jodi Heintz Obradovich,Steve Caisse,Carla Beck,C. Elaine McCoy,Judith Orasanu</authors>
+		<jconf>Proceedings of the Fourth Symposium on Human Interaction with Complex Systems</jconf>
+		<id>1702167</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

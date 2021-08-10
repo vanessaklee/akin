@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>71525</personID>
+	<FullName>Qiang Shen</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Speeding up the learning of equivalence classes of bayesian network structures</title>
+		<year>2006</year>
+		<authors>Ronan Daly,Qiang Shen,J. Stuart Aitken</authors>
+		<jconf>Artificial Intelligence and Soft Computing</jconf>
+		<id>50575</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flexible Graphplan</title>
+		<year>2000</year>
+		<authors>Ian Miguel,Peter Jarvis,Qiang Shen</authors>
+		<jconf>ECAI</jconf>
+		<id>165646</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Temporal Linguistic Variables</title>
+		<year>2001</year>
+		<authors>Joe Halliwell,Qiang Shen</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221285</id>
+		<label>0</label>
+		<organization>Div. of Informatics, Edinburgh Univ.</organization>
+	</publication>
+	<publication>
+		<title>Selection of Features in Transparent Fuzzy Modelling</title>
+		<year>2001</year>
+		<authors>Qiang Shen,Alexios Chouchoulas</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221443</id>
+		<label>0</label>
+		<organization>Div. of Informatics, Edinburgh Univ.</organization>
+	</publication>
+	<publication>
+		<title>Linguistic Hedges on Tradezoidal Fuzzy Sets: A Revisit</title>
+		<year>2001</year>
+		<authors>Javier G. Marin-Blazquez,Qiang Shen</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221467</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tolerance-based and Fuzzy-Rough Feature Selection</title>
+		<year>2007</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221887</id>
+		<label>0</label>
+		<organization>Univ. of Wales, Aberystwyth</organization>
+	</publication>
+	<publication>
+		<title>Towards Fuzzy Compositional Modelling</title>
+		<year>2007</year>
+		<authors>Xin Fu,Qiang Shen,Ruiqing Zhao</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221936</id>
+		<label>0</label>
+		<organization>Wales Univ., Aberystwyth</organization>
+	</publication>
+	<publication>
+		<title>Distance Measure Assisted Rough Set Feature Selection</title>
+		<year>2007</year>
+		<authors>Neil MacParthalain,Qiang Shen,Richard Jensen</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221954</id>
+		<label>0</label>
+		<organization>Wales Univ., Aberystwyth</organization>
+	</publication>
+	<publication>
+		<title>Linguistic Bayesian Networks for Reasoning will Objective Probabilities in Forensic Statistics</title>
+		<year>2003</year>
+		<authors>Joe Halliwell,Jeroen Keppens,Qiang Shen</authors>
+		<jconf>ICAIL</jconf>
+		<id>266414</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Abductive Computation of Evidence Collection Strategies in Crime Investigation</title>
+		<year>2005</year>
+		<authors>Jeroen Keppens,Qiang Shen,Burkhard Schafer</authors>
+		<jconf>ICAIL</jconf>
+		<id>266435</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Admission Control for Providing QoS in Wireless Mesh Networks</title>
+		<year>2008</year>
+		<authors>Qiang Shen,Xuming Fang,Pan Li,Yuguang Fang</authors>
+		<jconf>ICC</jconf>
+		<id>276204</id>
+		<label>1</label>
+		<organization>Provincial Key Lab. of Inf. Coding & Transm., Southwest Jiaotong Univ., Chengdu</organization>
+	</publication>
+	<publication>
+		<title>Prioritising Behaviours in Qualitative Simulation</title>
+		<year>1993</year>
+		<authors>Roy Leitch,Qiang Shen</authors>
+		<jconf>IJCAI</jconf>
+		<id>389468</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantics-Preserving Dimensionality Reduction in Intelligent Modelling</title>
+		<year>2003</year>
+		<authors>Qiang Shen</authors>
+		<jconf>Modelling with Words</jconf>
+		<id>510563</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rough Set-Based Dimensionality Reduction for Multivariate Adaptive Regression Splines</title>
+		<year>2000</year>
+		<authors>Alexios Chouchoulas,Qiang Shen</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<id>561359</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Webpage Classification with ACO-Enhanced Fuzzy-Rough Feature Selection</title>
+		<year>2006</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>RSCTC</jconf>
+		<id>561449</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Fuzzy Dependency-Guided Attribute Grouping in Feature Selection</title>
+		<year>2003</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>561848</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finding Rough Set Reducts with SAT</title>
+		<year>2005</year>
+		<authors>Richard Jensen,Qiang Shen,Andrew Tuson</authors>
+		<jconf>RSFDGrC (1)</jconf>
+		<id>561850</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Rough Set-Based Approach to Text Classification</title>
+		<year>1999</year>
+		<authors>Alexios Chouchoulas,Qiang Shen</authors>
+		<jconf>RSFDGrC</jconf>
+		<id>561866</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Rough Set-Aided System for Sorting WWW Bookmarks</title>
+		<year>2001</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>654918</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rough Set-Aided Keyword Reduction for Text Categorization</title>
+		<year>2001</year>
+		<authors>Alexios Chouchoulas,Qiang Shen</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>737950</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selecting tools and techniques for model-based diagnosis</title>
+		<year>1998</year>
+		<authors>Mike J. Chantler,George Macleod Coghill,Qiang Shen,Roy Leitch</authors>
+		<jconf>AI in Engineering</jconf>
+		<id>743446</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FuREAP: a Fuzzy-Rough Estimator of Algae Populations</title>
+		<year>2001</year>
+		<authors>Qiang Shen,Alexios Chouchoulas</authors>
+		<jconf>AI in Engineering</jconf>
+		<id>743810</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On extending the quantity space in qualitative reasoning</title>
+		<year>1992</year>
+		<authors>Qiang Shen,Roy Leitch</authors>
+		<jconf>AI in Engineering</jconf>
+		<id>743824</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Diagnosing continuous systems with qualitative dynamic models</title>
+		<year>1995</year>
+		<authors>Qiang Shen,Roy Leitch</authors>
+		<jconf>AI in Engineering</jconf>
+		<id>743826</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy rrDFCSP and planning</title>
+		<year>2003</year>
+		<authors>Ian Miguel,Qiang Shen</authors>
+		<jconf>Artif. Intell.</jconf>
+		<id>745518</id>
+		<label>0</label>
+		<organization>School of Informatics, University of Edinburgh, Edinburgh EH8 9LE, UK</organization>
+	</publication>
+	<publication>
+		<title>On the specification of multiple models for diagnosis of dynamic systems</title>
+		<year>2001</year>
+		<authors>George Macleod Coghill,Qiang Shen</authors>
+		<jconf>AI Commun.</jconf>
+		<id>746509</id>
+		<label>0</label>
+		<organization>Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh EH1 1HN, UK E&dash;mail: qiangs&commat;dai.ed.ac.uk</organization>
+	</publication>
+	<publication>
+		<title>Solution Techniques for Constraint Satisfaction Problems: Foundations</title>
+		<year>2001</year>
+		<authors>Ian Miguel,Qiang Shen</authors>
+		<jconf>Artif. Intell. Rev.</jconf>
+		<id>748667</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solution Techniques for Constraint Satisfaction Problems: Advanced Approaches</title>
+		<year>2001</year>
+		<authors>Ian Miguel,Qiang Shen</authors>
+		<jconf>Artif. Intell. Rev.</jconf>
+		<id>748669</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Preliminary Specification Methodology for Model-based Diagnosis</title>
+		<year>1994</year>
+		<authors>Roy Leitch,Mike J. Chantler,Qiang Shen,George Macleod Coghill</authors>
+		<jconf>Ann. Math. Artif. Intell.</jconf>
+		<id>751778</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Flexible Constraint Satisfaction</title>
+		<year>2000</year>
+		<authors>Ian Miguel,Qiang Shen</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>754927</id>
+		<label>0</label>
+		<organization>Institute for Representation and Reasoning, Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh, EH1, 1HN qiangs@dai.ed.ac.uk</organization>
+	</publication>
+	<publication>
+		<title>Granularity and disaggregation in compositional modelling with applications to ecological systems</title>
+		<year>2006</year>
+		<authors>Jeroen Keppens,Qiang Shen</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>755067</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB</organization>
+	</publication>
+	<publication>
+		<title>Data-driven fuzzy rule generation and its application for student academic performance evaluation</title>
+		<year>2006</year>
+		<authors>Khairul A. Rasmani,Qiang Shen</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>755081</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB</organization>
+	</publication>
+	<publication>
+		<title>Approximation-based feature selection and application for algae population estimation</title>
+		<year>2008</year>
+		<authors>Qiang Shen,Richard Jensen</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>755175</id>
+		<label>0</label>
+		<organization>Department of Computer Science, The University of Wales, Aberystwyth, UK</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy-rough attribute reduction with application to web categorization</title>
+		<year>2004</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>879903</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy-rough data reduction with ant colony optimization</title>
+		<year>2005</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>879904</id>
+		<label>0</label>
+		<organization>Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Rough Feature Selection for Neural Network Based Image Classification</title>
+		<year>2002</year>
+		<authors>Changjing Shang,Qiang Shen</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910398</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compositional Model Repositories via Dynamic Constraint Satisfaction with Order-of-Magnitude Preferences</title>
+		<year>2004</year>
+		<authors>Jeroen Keppens,Qiang Shen</authors>
+		<jconf>J. Artif. Intell. Res. (JAIR)</jconf>
+		<id>952189</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A rough-fuzzy approach for generating classification rules</title>
+		<year>2002</year>
+		<authors>Qiang Shen,Alexios Chouchoulas</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041319</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining rough sets and data-driven fuzzy learning for generation of classification rules</title>
+		<year>1999</year>
+		<authors>Qiang Shen,Alexios Chouchoulas</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selecting informative features with fuzzy-rough sets and its application for complex systems monitoring</title>
+		<year>2004</year>
+		<authors>Qiang Shen,Richard Jensen</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041324</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linguistic probabilities: theory and application</title>
+		<year>2009</year>
+		<authors>Joe Halliwell,Qiang Shen</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1070236</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Random fuzzy alternating renewal processes</title>
+		<year>2009</year>
+		<authors>Qiang Shen,Ruiqing Zhao,Wansheng Tang</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1070237</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Interpolative Reasoning via Scale and Move Transformations</title>
+		<year>2006</year>
+		<authors>Zhiheng Huang,Qiang Shen</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1099798</id>
+		<label>0</label>
+		<organization>Sch. of Informatics, Edinburgh Univ.</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy-Rough Sets Assisted Attribute Selection</title>
+		<year>2007</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1099888</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Wales, Aberystwyth</organization>
+	</publication>
+	<publication>
+		<title>Modeling Random Fuzzy Renewal Reward Processes</title>
+		<year>2008</year>
+		<authors>Qiang Shen,Ruiqing Zhao,Wansheng Tang</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1100041</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Interpolation and Extrapolation: A Practical Approach</title>
+		<year>2008</year>
+		<authors>Zhiheng Huang,Qiang Shen</authors>
+		<jconf>IEEE T. Fuzzy Systems</jconf>
+		<id>1100064</id>
+		<label>0</label>
+		<organization>Univ. of California at Berkeley, Berkeley</organization>
+	</publication>
+	<publication>
+		<title>Semantics-Preserving Dimensionality Reduction: Rough and Fuzzy-Rough-Based Approaches</title>
+		<year>2004</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1112985</id>
+		<label>0</label>
+		<organization>Sch. of Informatics, Edinburgh Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>Rough Feature Selection for Intelligent Classifiers</title>
+		<year>2007</year>
+		<authors>Qiang Shen</authors>
+		<jconf>T. Rough Sets</jconf>
+		<id>1127191</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exhibiting the behavior of time-delayed systems via an extension to qualitative simulation</title>
+		<year>2005</year>
+		<authors>Ian Miguel,Qiang Shen</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1131688</id>
+		<label>0</label>
+		<organization>Artificial Intelligence Group, Univ. of York, UK</organization>
+	</publication>
+	<publication>
+		<title>Fault identification through the combination of symbolic conflict recognition and Markov chain-aided belief revision</title>
+		<year>2004</year>
+		<authors>F. S. Smith,Qiang Shen</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part A</jconf>
+		<id>1132121</id>
+		<label>0</label>
+		<organization>Dept. of Inf. Technol., Nat. Univ. of Ireland, Galway, Ireland</organization>
+	</publication>
+	<publication>
+		<title>The evaluation of evidence for exponentially distributed data</title>
+		<year>2007</year>
+		<authors>C. G. G. Aitken,Qiang Shen,Richard Jensen,B. Hayes</authors>
+		<jconf>Computational Statistics  Data Analysis</jconf>
+		<id>1157233</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy diagnosis of turbomachines</title>
+		<year>2008</year>
+		<authors>Meijun Yang,Qiang Shen</authors>
+		<jconf>KES Journal</jconf>
+		<id>1184301</id>
+		<label>0</label>
+		<organization>Department of Computer Sciences, Aberystwyth University, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Reinforcing fuzzy rule-based diagnosis of turbomachines with case-based reasoning</title>
+		<year>2008</year>
+		<authors>Meijun Yang,Qiang Shen</authors>
+		<jconf>KES Journal</jconf>
+		<id>1184305</id>
+		<label>0</label>
+		<organization>Department of Computer Science, Aberystwyth University, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous Ant Colony Optimization Algorithms for Learning Linguistic Fuzzy Rules</title>
+		<year>2006</year>
+		<authors>Michelle Galea,Qiang Shen</authors>
+		<jconf>Swarm Intelligence in Data Mining</jconf>
+		<id>1201140</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent hybrid approach to false identity detection</title>
+		<year>2009</year>
+		<authors>Tossapon Boongoen,Qiang Shen</authors>
+		<jconf>ICAIL</jconf>
+		<id>1209524</id>
+		<label>0</label>
+		<organization>Aberystwyth University, Aberystwyth, UK</organization>
+	</publication>
+	<publication>
+		<title>Exploring the boundary region of tolerance rough sets for feature selection</title>
+		<year>2009</year>
+		<authors>Neil MacParthalain,Qiang Shen</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1226912</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feature selection for aiding glass forensic evidence analysis</title>
+		<year>2009</year>
+		<authors>Richard Jensen,Qiang Shen</authors>
+		<jconf>Intell. Data Anal.</jconf>
+		<id>1273167</id>
+		<label>0</label>
+		<organization>Department of Computer Science, Aberystwyth University, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Power controlled network protocols for Multi-Rate ad hoc networks</title>
+		<year>2009</year>
+		<authors>Pan Li,Qiang Shen,Yuguang Fang,Hailin Zhang</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1285324</id>
+		<label>1</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Florida, Gainesville, FL</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Sets and Rough Sets for Scenario Modelling and Analysis.</title>
+		<year>2009</year>
+		<authors>Qiang Shen</authors>
+		<jconf>null</jconf>
+		<id>1309307</id>
+		<label>0</label>
+		<organization>Dept. of Computer Science, Aberystwyth University, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Taking Fuzzy-Rough Application to Mars.</title>
+		<year>2009</year>
+		<authors>Changjing Shang,Dave Barnes,Qiang Shen</authors>
+		<jconf>null</jconf>
+		<id>1309341</id>
+		<label>0</label>
+		<organization>Dept. of Computer Science, Aberystwyth University, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>Effective Feature Selection for Mars McMurdo Terrain Image Classification.</title>
+		<year>2009</year>
+		<authors>Changjing Shang,Dave Barnes,Qiang Shen</authors>
+		<jconf>null</jconf>
+		<id>1320996</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Systems for Decision Support.</title>
+		<year>2009</year>
+		<authors>Qiang Shen</authors>
+		<jconf>null</jconf>
+		<id>1331606</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Random fuzzy delayed renewal processes.</title>
+		<year>2009</year>
+		<authors>Shunqin Li,Qiang Shen,Wansheng Tang,Ruiqing Zhao</authors>
+		<jconf>Soft Comput.</jconf>
+		<id>1342450</id>
+		<label>0</label>
+		<organization>Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK</organization>
+	</publication>
+	<publication>
+		<title>A Cluster Warhead Projection-Time Self-Adaptive Algorithm and Simulation</title>
+		<year>2009</year>
+		<authors>Qiang Shen,Mian Ge,Jie Li</authors>
+		<jconf>Proceedings of the 2009 International Conference on Advanced Computer Control</jconf>
+		<id>1391979</id>
+		<label>2</label>
+		<organization>Sch. of Astronaut. Sci. & Technol., Beijing Inst. of Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Design of Range Correction Fuze Trajectory Calculation and Control Device</title>
+		<year>2009</year>
+		<authors>Qiang Shen,Dongguang Li</authors>
+		<jconf>Proceedings of the 2009 International Conference on Advanced Computer Control</jconf>
+		<id>1392024</id>
+		<label>2</label>
+		<organization>Sch. of Astronaut. Sci. & Technol., Beijing Inst. of Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Evolutionary approaches to fuzzy modelling for classification</title>
+		<year>2004</year>
+		<authors>Michelle Galea,Qiang Shen,John Levine</authors>
+		<jconf>The Knowledge Engineering Review</jconf>
+		<id>1411576</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk</organization>
+	</publication>
+	<publication>
+		<title>Combining Dimensional Analysis and Heuristics for Causal Ordering--In Memory of Dr Rob Milne --</title>
+		<year>2006</year>
+		<authors>Qiang Shen,Taoxin Peng</authors>
+		<jconf>Proceeding of the 2006 conference on Rob Milne: A Tribute to a Pioneering AI Scientist, Entrepreneur and Mountaineer</jconf>
+		<id>1428845</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Wales, Aberystwyth SY23 3DB</organization>
+	</publication>
+	<publication>
+		<title>Improving throughput by tuning carrier sensing in 802.11 wireless networks</title>
+		<year>2009</year>
+		<authors>Qiang Shen,Xuming Fang,Rongsheng Huang,Pan Li,Yuguang Fang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>1434480</id>
+		<label>1</label>
+		<organization>Provincial Key Lab of Information Coding and Transmission, Southwest Jiaotong University, Chengdu, Sichuan 610031, PR China</organization>
+	</publication>
+	<publication>
+		<title>Combining qualitative simulation and fuzzy sets</title>
+		<year>1993</year>
+		<authors>Qiang Shen,Roy Leitch</authors>
+		<jconf>Recent advances in qualitative physics</jconf>
+		<id>1512582</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimum Power Assignment for Maximum Throughput in CDMA Personal Communication Systems with Integrated Voice/Data Traffic</title>
+		<year>1998</year>
+		<authors>Qiang Shen,Witold A. Krzymien</authors>
+		<jconf>Wireless Personal Communications: An International Journal</jconf>
+		<id>1615497</id>
+		<label>1</label>
+		<organization>Telecommunications Research Laboratories (TRLabs), University of Alberta, 800 Park Plaza, 10611-98th Ave., Edmonton, Alberta, Canada T5K 2P7 E-mail: wak@edm.trlabs.ca</organization>
+	</publication>
+</person>

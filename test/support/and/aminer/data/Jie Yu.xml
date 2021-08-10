@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>119121</personID>
+	<FullName>Jie Yu</FullName>
+	<FirstName>Jie</FirstName>
+	<LastName>Yu</LastName>
+	<publication>
+		<title>The effects of web site aesthetics and shopping task on consumer online purchasing behavior</title>
+		<year>2008</year>
+		<authors>Shun Cai,Yunjie Xu,Jie Yu</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>91583</id>
+		<label>1</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Leveraging probabilistic season and location context models for scene understanding</title>
+		<year>2008</year>
+		<authors>Jie Yu,Jiebo Luo</authors>
+		<jconf>CIVR</jconf>
+		<id>98528</id>
+		<label>2</label>
+		<organization>Kodak Research Labs, Rochester, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Robust Error Metric Analysis for Noise Estimation in Image Indexing</title>
+		<year>2004</year>
+		<authors>Qi Tian,Jie Yu,Qing Xue,Nicu Sebe,Thomas S. Huang</authors>
+		<jconf>MDDE</jconf>
+		<id>129233</id>
+		<label>2</label>
+		<organization>University of Texas at San Antonio</organization>
+	</publication>
+	<publication>
+		<title>Toward Robust Distance Metric Analysis for Similarity Estimation</title>
+		<year>2006</year>
+		<authors>Jie Yu,Qi Tian,Jaume Amores,Nicu Sebe</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129555</id>
+		<label>2</label>
+		<organization>University of Texas at San Antonio, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>Toward an improved error metric</title>
+		<year>2004</year>
+		<authors>Qi Tian,Qing Xue,Jie Yu,Nicu Sebe,Thomas S. Huang</authors>
+		<jconf>ICIP</jconf>
+		<id>321706</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., USA</organization>
+	</publication>
+	<publication>
+		<title>Parameterized discriminant analysis for image classification</title>
+		<year>2004</year>
+		<authors>Qi Tian,Jie Yu,Ting Rui,Thomas S. Huang</authors>
+		<jconf>ICME</jconf>
+		<id>331274</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>A new analysis of the value of unlabeled data in semi-supervised learning for image retrieval</title>
+		<year>2004</year>
+		<authors>Qi Tian,Jie Yu,Qing Xue,Nicu Sebe</authors>
+		<jconf>ICME</jconf>
+		<id>331276</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>A New Study on Distance Metrics as Similarity Measurement</title>
+		<year>2006</year>
+		<authors>Jie Yu,Jaume Amores,Nicu Sebe,Qi Tian</authors>
+		<jconf>ICME</jconf>
+		<id>331856</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>Toward Intelligent Use of Semantic Information on Subspace Discovery for Image Retrieval</title>
+		<year>2006</year>
+		<authors>Jie Yu,Qi Tian</authors>
+		<jconf>ICME</jconf>
+		<id>331898</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Discriminant Projection for Content-based Image Retrieval</title>
+		<year>2006</year>
+		<authors>Jie Yu,Qi Tian</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349518</id>
+		<label>2</label>
+		<organization>University of Texas at San Antonio</organization>
+	</publication>
+	<publication>
+		<title>Recognizing picture-taking environment from satellite images: A feasibility study</title>
+		<year>2008</year>
+		<authors>Jiebo Luo,Wei Hao,Dale McIntyre,Dhiraj Joshi,Jie Yu</authors>
+		<jconf>ICPR</jconf>
+		<id>350370</id>
+		<label>2</label>
+		<organization>Res. Labs., Rochester, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>POLUS: A POwerful Live Updating System</title>
+		<year>2007</year>
+		<authors>Haibo Chen,Jie Yu,Rong Chen,Binyu Zang,Pen-Chung Yew</authors>
+		<jconf>ICSE</jconf>
+		<id>363581</id>
+		<label>5</label>
+		<organization>Fudan University, China</organization>
+	</publication>
+	<publication>
+		<title>Heavy Tails, Generalized Coding, and Optimal Web Layout</title>
+		<year>2001</year>
+		<authors>Xiaoyun Zhu,Jie Yu,John Doyle</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403064</id>
+		<label>7</label>
+		<organization>Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA</organization>
+	</publication>
+	<publication>
+		<title>Boosting Multiple Classifiers Constructed by Hybrid Discriminant Analysis</title>
+		<year>2005</year>
+		<authors>Qi Tian,Jie Yu,Thomas S. Huang</authors>
+		<jconf>Multiple Classifier Systems</jconf>
+		<id>491162</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning image manifolds by semantic subspace projection</title>
+		<year>2006</year>
+		<authors>Jie Yu,Qi Tian</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502728</id>
+		<label>2</label>
+		<organization>University of Texas at San Antonio, San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>Event recognition: viewing the world with a third eye</title>
+		<year>2008</year>
+		<authors>Jiebo Luo,Jie Yu,Dhiraj Joshi,Wei Hao</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503718</id>
+		<label>2</label>
+		<organization>Eastman Kodak Company, Rochester, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Knowledge contribution in problem solving virtual communities: the mediating role of individual motivations</title>
+		<year>2007</year>
+		<authors>Jie Yu,Zhenhui Jiang,Hock Chuan Chan</authors>
+		<jconf>CPR</jconf>
+		<id>589455</id>
+		<label>1</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Detection and Offense Mechanism to Defend Against Application Layer DDoS Attacks</title>
+		<year>2007</year>
+		<authors>Jie Yu,Zhoujun Li,Huowang Chen,Xiaoming Chen</authors>
+		<jconf>ICNS</jconf>
+		<id>679036</id>
+		<label>0</label>
+		<organization>National University of Defense Technology Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Distance Learning for Similarity Estimation</title>
+		<year>2008</year>
+		<authors>Jie Yu,Jaume Amores,Nicu Sebe,Petia Radeva,Qi Tian</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033846</id>
+		<label>2</label>
+		<organization>Kodak Res. Labs, Rochester</organization>
+	</publication>
+	<publication>
+		<title>Self-supervised learning based on discriminative nonlinear features for image classification</title>
+		<year>2005</year>
+		<authors>Qi Tian,Ying Wu,Jie Yu,Thomas S. Huang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041653</id>
+		<label>2</label>
+		<organization>Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA</organization>
+	</publication>
+	<publication>
+		<title>Semantic Subspace Projection and Its Applications in Image Retrieval</title>
+		<year>2008</year>
+		<authors>Jie Yu,Qi Tian</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097619</id>
+		<label>2</label>
+		<organization>Kodak Res. Labs., Rochester</organization>
+	</publication>
+	<publication>
+		<title>Integrating Discriminant and Descriptive Information for Dimension Reduction and Classification</title>
+		<year>2007</year>
+		<authors>Jie Yu,Qi Tian,Ting Rui,Thomas S. Huang</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097621</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>Rate-limited EAFRP - a new improved model for high-speed network traffic</title>
+		<year>2005</year>
+		<authors>Jie Yu,Athina P. Petropulu,H. Sethu</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<id>1175133</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>A case for an interleaving constrained shared-memory multi-processor</title>
+		<year>2009</year>
+		<authors>Jie Yu,Satish Narayanasamy</authors>
+		<jconf>ISCA</jconf>
+		<id>1211002</id>
+		<label>5</label>
+		<organization>University of Michigan, Ann Arbor, MI, USA</organization>
+	</publication>
+	<publication>
+		<title>Multi-cue Based Visual Tracking in Clutter Scenes with Occlusions</title>
+		<year>2009</year>
+		<authors>Jie Yu,Dirk Farin,Hartmut S. Loos</authors>
+		<jconf>AVSS</jconf>
+		<id>1238088</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancing semantic and geographic annotation of web images via logistic canonical correlation regression</title>
+		<year>2009</year>
+		<authors>Liangliang Cao,Jie Yu,Jiebo Luo,Thomas S. Huang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>1253144</id>
+		<label>2</label>
+		<organization>Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>A Lightweight Mechanism to Mitigate Application Layer DDoS Attacks</title>
+		<year>2009</year>
+		<authors>Jie Yu,Chengfang Fang,Liming Lu,Zhoujun Li</authors>
+		<jconf>Infoscale</jconf>
+		<id>1259567</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Scalable, Vulnerability Modeling and Correlating Method for Network Security</title>
+		<year>2009</year>
+		<authors>Xuejiao Liu,Debao Xiao,Nian Ma,Jie Yu</authors>
+		<jconf>Infoscale</jconf>
+		<id>1259573</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Personal Image Collection for Social Group Suggestion.</title>
+		<year>2009</year>
+		<authors>Jie Yu,Xin Jin,Jiawei Han,Jiebo Luo</authors>
+		<jconf>null</jconf>
+		<id>1319582</id>
+		<label>2</label>
+		<organization>Kodak Res. Labs., Rochester, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>H&infin; control with parametric Lyapunov functions</title>
+		<year>1997</year>
+		<authors>Jie Yu,Athanasios Sideris</authors>
+		<jconf>Systems Control Letters</jconf>
+		<id>1398939</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Active measurement of routing table in Kad</title>
+		<year>2009</year>
+		<authors>Jie Yu,Zhoujun Li</authors>
+		<jconf>Proceedings of the 6th IEEE Conference on Consumer Communications and Networking Conference</jconf>
+		<id>1587569</id>
+		<label>0</label>
+		<organization>School of Computer, National University of Defense Technology, Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Validation of ASIP Architecture Description</title>
+		<year>2008</year>
+		<authors>Yan-yan Gao,Xi Li,Jie Yu</authors>
+		<jconf>Proceedings of the 2008 Fifth IEEE International Symposium on Embedded Computing</jconf>
+		<id>1752180</id>
+		<label>8</label>
+		<organization>Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei</organization>
+	</publication>
+</person>

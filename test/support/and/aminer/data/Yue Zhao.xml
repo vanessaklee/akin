@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>40597</personID>
+	<FullName>Yue Zhao</FullName>
+	<FirstName>Yue</FirstName>
+	<LastName>Zhao</LastName>
+	<publication>
+		<title>Research on Query-by-Committee Method of Active Learning and Application</title>
+		<year>2006</year>
+		<authors>Yue Zhao,Ciwen Xu,Yongcun Cao</authors>
+		<jconf>ADMA</jconf>
+		<id>27471</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pseudo-Surface Based Network Camera Smart Control</title>
+		<year>2005</year>
+		<authors>Aiguo He,Zixue Cheng,Tongjun Huang,Yue Zhao</authors>
+		<jconf>AINA</jconf>
+		<id>35262</id>
+		<label>1</label>
+		<organization>Hiroshima Kokusai Gakuin University</organization>
+	</publication>
+	<publication>
+		<title>MBBNTree Classifier Algorithm Based on Active Learning from Unlabeled Samples</title>
+		<year>2008</year>
+		<authors>Yongcun Cao,Yue Zhao,Xiuqin Pan,Yong Lu,Xiaona Xu</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218284</id>
+		<label>0</label>
+		<organization>Sch. of Inf. Eng., Central Univ. for Nat., Beijing</organization>
+	</publication>
+	<publication>
+		<title>E-Mail Services on Hybrid P2P Networks</title>
+		<year>2004</year>
+		<authors>Yue Zhao,Shuigeng Zhou,Aoying Zhou</authors>
+		<jconf>GCC</jconf>
+		<id>224226</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On non-null separating circuits in embedded graphs</title>
+		<year>1991</year>
+		<authors>Xiaoya Zha,Yue Zhao</authors>
+		<jconf>Graph Structure Theory</jconf>
+		<id>237616</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A conceptual model of public medical service system based-on cell phone mobile platform</title>
+		<year>2007</year>
+		<authors>Hongjiao Fu,Yue Zhao</authors>
+		<jconf>I3E (2)</jconf>
+		<id>258497</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of a Real-Time Interactive Tele-exercise Classroom for Computer Exercises over a Gigabit Network</title>
+		<year>2001</year>
+		<authors>Aiguo He,Zixue Cheng,Tongjun Huang,Ryouhei Nakatani,Yuichi Amadatsu,Akio Koyama,Yue Zhao,Shoichi Noguchi</authors>
+		<jconf>ICOIN</jconf>
+		<id>338805</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Neighborhood-Based Clustering Algorithm</title>
+		<year>2005</year>
+		<authors>Shuigeng Zhou,Yue Zhao,Jihong Guan,Joshua Zhexue Huang</authors>
+		<jconf>PAKDD</jconf>
+		<id>527294</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Silicon Wafer Defect Extraction Based on Morphological Filter and Watershed Algorithm</title>
+		<year>2008</year>
+		<authors>Yanyan Huang,Fengquan Zhang,Ming Yu,Yue Zhao</authors>
+		<jconf>CSSE (6)</jconf>
+		<id>730047</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Simultaneous Edge-Face Colorings of Plane Graphs</title>
+		<year>1997</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Combinatorica</jconf>
+		<id>798558</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A five-color theorem</title>
+		<year>2000</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>848912</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the edge-reconstruction of graphs embedded in surfaces IV</title>
+		<year>2003</year>
+		<authors>Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>849289</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL</organization>
+	</publication>
+	<publication>
+		<title>A note on Vizing's independence number conjecture of edge chromatic critical graphs</title>
+		<year>2006</year>
+		<authors>Rong Luo,Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>849497</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On cyclic colorings and their generalizations</title>
+		<year>1999</year>
+		<authors>Oleg V. Borodin,Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>851505</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Edge colorings of graphs embeddable in a surface of low genus</title>
+		<year>1998</year>
+		<authors>Hugh Hind,Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>852087</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the edge-reconstruction of 3-connected planar graphs with minimum valency 4</title>
+		<year>1995</year>
+		<authors>Yue Zhao</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>854534</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Improving the Edge-Face Coloring Theorem</title>
+		<year>2001</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Graphs and Combinatorics</jconf>
+		<id>883439</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Working Model for Real-time Interactive Distance Education Support Systems</title>
+		<year>2002</year>
+		<authors>Aiguo He,Zixue Cheng,Akio Koyama,Tongjun Huang,Jerold A. Dehart,Yue Zhao</authors>
+		<jconf>Int. J. Comput. Proc. Oriental Lang.</jconf>
+		<id>907259</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Bound on the Cyclic Chromatic Number</title>
+		<year>2001</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977819</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Planar Graphs of Maximum Degree Seven are Class I</title>
+		<year>2001</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977820</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Size of Edge Chromatic Critical Graphs</title>
+		<year>2002</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977821</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coloring the Faces of Convex Polyhedra so That Like Colors Are Far Apart</title>
+		<year>2002</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977822</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coloring edges of graphs embedded in a surface of characteristic zero</title>
+		<year>2003</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977823</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL</organization>
+	</publication>
+	<publication>
+		<title>On 2-Connected Spanning Subgraphs with Low Maximum Degree</title>
+		<year>1998</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>977824</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Edge Reconstruction of Graphs Embedded in Surfaces, III, </title>
+		<year>1998</year>
+		<authors>Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>978601</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the flexibility of toroidal embeddings</title>
+		<year>2008</year>
+		<authors>Neil Robertson,Xiaoya Zha,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>979247</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA</organization>
+	</publication>
+	<publication>
+		<title>Finding the exact bound of the maximum degrees of class two graphs embeddable in a surface of characteristic epsilon in {-1, -2, -3}</title>
+		<year>2008</year>
+		<authors>Rong Luo,Yue Zhao</authors>
+		<jconf>J. Comb. Theory, Ser. B</jconf>
+		<id>979338</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New lower bounds for the size of edge chromatic critical graphs</title>
+		<year>2004</year>
+		<authors>Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1144539</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364</organization>
+	</publication>
+	<publication>
+		<title>The size of edge chromatic critical graphs with maximum degree 6</title>
+		<year>2009</year>
+		<authors>Rong Luo,Lianying Miao,Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1144701</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364</organization>
+	</publication>
+	<publication>
+		<title>Identification of Multi-dimensional System based on a Novel Criterion</title>
+		<year>2008</year>
+		<authors>Yue Zhao,Kueiming Lo,Wook-Hyun Kwon</authors>
+		<jconf>ICINCO-SPSMC</jconf>
+		<id>1247747</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improvement of the Damaged Thermowell of the Monju Fast-Breeder Reactor Based on Vibration Analysis</title>
+		<year>2002</year>
+		<authors>Hideki Aoi,Yue Zhao,Tamotsu Hayase</authors>
+		<jconf>Simulation</jconf>
+		<id>1280846</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tibetan Language Continuous Speech Recognition Based on Dynamic Bayesian Network.</title>
+		<year>2009</year>
+		<authors>Yue Zhao,Yongcun Cao,Xiuqin Pan</authors>
+		<jconf>null</jconf>
+		<id>1320272</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On spanning trees and walks of low maximum degree</title>
+		<year>2001</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1375469</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364</organization>
+	</publication>
+	<publication>
+		<title>Finding the exact bound of the maximum degrees of class two graphs embeddable in a surface of characteristic ε∈{-1,-2,-3}</title>
+		<year>2008</year>
+		<authors>Rong Luo,Yue Zhao</authors>
+		<jconf>Journal of Combinatorial Theory Series B</jconf>
+		<id>1377173</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA</organization>
+	</publication>
+	<publication>
+		<title>3-Coloring graphs embedded in surfaces</title>
+		<year>2000</year>
+		<authors>Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1377612</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364</organization>
+	</publication>
+	<publication>
+		<title>Coloring edges of embedded graphs</title>
+		<year>2000</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1380622</id>
+		<label>3</label>
+		<organization>Department of Mathematics, University of Central Florida, Orlando, FL 32816</organization>
+	</publication>
+	<publication>
+		<title>On total 9-coloring planar graphs of maximum degree seven</title>
+		<year>1999</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1381250</id>
+		<label>3</label>
+		<organization>Department of Mathematics, Tulane University, New Orleans, Louisiana 70118</organization>
+	</publication>
+	<publication>
+		<title>Optimal spectrum management in multiuser interference channels</title>
+		<year>2009</year>
+		<authors>Yue Zhao,Gregory J. Pottie</authors>
+		<jconf>Proceedings of the 2009 IEEE international conference on Symposium on Information Theory - Volume 4</jconf>
+		<id>1586827</id>
+		<label>5</label>
+		<organization>Department of Electrical Engineering, University of California, Los Angeles, Los Angeles, CA</organization>
+	</publication>
+	<publication>
+		<title>Recursive Algorithms for a Novel Identification Criterion</title>
+		<year>2008</year>
+		<authors>Yue Zhao,Guiming Luo,Wook-Hyun Kwon</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05</jconf>
+		<id>1596887</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On diagonally 10-coloring plane triangulations</title>
+		<year>1995</year>
+		<authors>Daniel P. Sanders,Yue Zhao</authors>
+		<jconf>Journal of Graph Theory</jconf>
+		<id>1724843</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolving Model for Small-World Network Based on Benefit Choice</title>
+		<year>2008</year>
+		<authors>Shuang Chen,Yue Zhao</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01</jconf>
+		<id>1754878</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

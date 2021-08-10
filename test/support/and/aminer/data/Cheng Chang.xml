@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>149042</personID>
+	<FullName>Cheng Chang</FullName>
+	<FirstName>Cheng</FirstName>
+	<LastName>Chang</LastName>
+	<publication>
+		<title>Real-Time Tracking with Multiple Cues by Set Theoretic Random Search</title>
+		<year>2005</year>
+		<authors>Cheng Chang,Rashid Ansari</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>127650</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Cyclic Articulated Human Motion Tracking by Sequential Ancestral Simulation</title>
+		<year>2004</year>
+		<authors>Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>127651</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Multiple Object Tracking with Kernel Particle Filter</title>
+		<year>2005</year>
+		<authors>Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>127652</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Color Sectors and Edge Features for Content-Based Image Retrieval</title>
+		<year>2007</year>
+		<authors>Taijun Li,Qiuli Wu,Jiafu Yi,Cheng Chang</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219004</id>
+		<label>1</label>
+		<organization>Hainan University</organization>
+	</publication>
+	<publication>
+		<title>Kernel particle filter: iterative sampling for efficient visual tracking</title>
+		<year>2003</year>
+		<authors>Cheng Chang,Rashid Ansari</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>316777</id>
+		<label>0</label>
+		<organization>Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Robust tracking of cyclic nonrigid motion</title>
+		<year>2003</year>
+		<authors>Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>316779</id>
+		<label>0</label>
+		<organization>Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Real-Time Guarantees for Component-Oriented Phased Array Radars</title>
+		<year>2004</year>
+		<authors>Chin-Fu Kuo,Ya-Shu Chen,Tei-Wei Kuo,Phone Lin,Cheng Chang</authors>
+		<jconf>ICPP</jconf>
+		<id>343442</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Component-Oriented Digital Signal Processors</title>
+		<year>1999</year>
+		<authors>Cheng Chang,Tai-Chung Wang</authors>
+		<jconf>PDPTA</jconf>
+		<id>535238</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-time scheduling in a programmable radar signal processor</title>
+		<year>1997</year>
+		<authors>Cheng Chang,Chien-Chung Chen,Yao-Liang Chen,Fu-Shin Huang</authors>
+		<jconf>RTCSA</jconf>
+		<id>564353</id>
+		<label>2</label>
+		<organization>Chung Shan Inst. of Sci. & Technol., Lung-Tan</organization>
+	</publication>
+	<publication>
+		<title>Universal Quadratic Lower Bounds on Source Coding Error Exponents</title>
+		<year>2007</year>
+		<authors>Cheng Chang,Anant Sahai</authors>
+		<jconf>CISS</jconf>
+		<id>701013</id>
+		<label>4</label>
+		<organization>Univ. of California, Berkeley</organization>
+	</publication>
+	<publication>
+		<title>The source coding game with a cheating switcher</title>
+		<year>2007</year>
+		<authors>Hari Palaiyanur,Cheng Chang,Anant Sahai</authors>
+		<jconf>CoRR</jconf>
+		<id>819727</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lossless coding for distributed streaming sources</title>
+		<year>2006</year>
+		<authors>Cheng Chang,Stark C. Draper,Anant Sahai</authors>
+		<jconf>CoRR</jconf>
+		<id>821403</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The price of ignorance: The impact of side-information on delay for lossless source-coding</title>
+		<year>2007</year>
+		<authors>Cheng Chang,Anant Sahai</authors>
+		<jconf>CoRR</jconf>
+		<id>825655</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The source coding game with a cheating switcher</title>
+		<year>2007</year>
+		<authors>Hari Palaiyanur,Cheng Chang,Anant Sahai</authors>
+		<jconf>CoRR</jconf>
+		<id>825735</id>
+		<label>4</label>
+		<organization>Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu</organization>
+	</publication>
+	<publication>
+		<title>Joint source-channel with side information coding error exponents</title>
+		<year>2009</year>
+		<authors>Cheng Chang</authors>
+		<jconf>CoRR</jconf>
+		<id>829599</id>
+		<label>4</label>
+		<organization>D.E. Shaw & Co., New York, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Interference channel capacity region for randomized fixed-composition codes</title>
+		<year>2009</year>
+		<authors>Cheng Chang</authors>
+		<jconf>CoRR</jconf>
+		<id>829615</id>
+		<label>4</label>
+		<organization>D.E. Shaw & Co., New York, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>On the rate distortion function of Bernoulli Gaussian sequences</title>
+		<year>2009</year>
+		<authors>Cheng Chang</authors>
+		<jconf>CoRR</jconf>
+		<id>829616</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Genetic algorithm for affine point pattern matching</title>
+		<year>2003</year>
+		<authors>Lihua Zhang,Wenli Xu,Cheng Chang</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046322</id>
+		<label>4</label>
+		<organization>Department of Automation, Tsinghua University, Beijing 100084, PR China</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Dwell Scheduling of Component-Oriented Phased Array Radars</title>
+		<year>2005</year>
+		<authors>Tei-Wei Kuo,Yung-Sheng Chao,Chin-Fu Kuo,Cheng Chang</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1080103</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Component-Oriented Radars with Probabilistic Timing Guarantees</title>
+		<year>2006</year>
+		<authors>Chin-Fu Kuo,Ya-Shu Chen,Tei-Wei Kuo,Phone Lin,Cheng Chang</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1125289</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Digital Signal Processing of Phased Array Radars</title>
+		<year>2003</year>
+		<authors>Chin-Fu Kuo,Tei-Wei Kuo,Cheng Chang</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1125295</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Data Compression</title>
+		<year>2008</year>
+		<authors>Rashid Ansari,Cheng Chang,William D. Reynolds Jr</authors>
+		<jconf>Wiley Encyclopedia of Computer Science and Engineering</jconf>
+		<id>1200675</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The design of distributed real-time video analytic system</title>
+		<year>2009</year>
+		<authors>Tao Yu,Baoyao Zhou,Qinghu Li,Rui Liu,Weihong Wang,Cheng Chang</authors>
+		<jconf>Frontiers in Artificial Intelligence and Applications</jconf>
+		<id>1239560</id>
+		<label>3</label>
+		<organization>HP Labs China, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Multi-granularity Visualization of Trajectory Clusters Using Sub-trajectory Clustering.</title>
+		<year>2009</year>
+		<authors>Cheng Chang,Baoyao Zhou</authors>
+		<jconf>null</jconf>
+		<id>1319628</id>
+		<label>3</label>
+		<organization>HP Labs. China, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Digital Signal Processing of Component-Oriented Phased Array Radars.</title>
+		<year>2000</year>
+		<authors>Chin-Fu Kuo,Tei-Wei Kuo,Cheng Chang</authors>
+		<jconf>null</jconf>
+		<id>1321933</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei</organization>
+	</publication>
+	<publication>
+		<title>A New Backoff Algorithm for IEEE 802.11 Distributed Coordination Function.</title>
+		<year>2009</year>
+		<authors>Taijun Li,Tiebin Tang,Cheng Chang</authors>
+		<jconf>null</jconf>
+		<id>1322630</id>
+		<label>1</label>
+		<organization>Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China</organization>
+	</publication>
+	<publication>
+		<title>A new model for engineering transaction</title>
+		<year>1996</year>
+		<authors>Cheng Chang</authors>
+		<jconf>null</jconf>
+		<id>1427490</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+</person>

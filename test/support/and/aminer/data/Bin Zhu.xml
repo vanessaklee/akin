@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>116595</personID>
+	<FullName>Bin Zhu</FullName>
+	<FirstName>Bin</FirstName>
+	<LastName>Zhu</LastName>
+	<publication>
+		<title>Visualizing a computer mediated communication (CMC) process to facilitate knowledge management</title>
+		<year>2002</year>
+		<authors>Bin Zhu</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>89164</id>
+		<label>0</label>
+		<organization>University of Arizona, Tucson, AZ</organization>
+	</publication>
+	<publication>
+		<title>Study on Agent-Based Parts Resource Application System for Commercial Design</title>
+		<year>2006</year>
+		<authors>Yantao Wang,Jia-guang Liu,Bin Zhu,Yifei Xing</authors>
+		<jconf>CSCWD</jconf>
+		<id>122630</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Network-Based Collaborative Commodity Development</title>
+		<year>2007</year>
+		<authors>Yantao Wang,Hua Ying,Bin Zhu</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>123166</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Completion from Low-Level Learning</title>
+		<year>2005</year>
+		<authors>Bin Zhu,H. D. Li</authors>
+		<jconf>DICTA</jconf>
+		<id>155712</id>
+		<label>3</label>
+		<organization>University of Adelaide</organization>
+	</publication>
+	<publication>
+		<title>Create a Large-Scale Digital Library for Geo-Referenced Information</title>
+		<year>1999</year>
+		<authors>Bin Zhu,Marshall Ramsey,Hsinchun Chen,Roslin V. Hauck,Tobun D. Ng,Bruce R. Schatz</authors>
+		<jconf>ACM DL</jconf>
+		<id>157628</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Privacy and Copyright Protection Enforced Peer-to-Peer Network</title>
+		<year>2005</year>
+		<authors>Xiaoming Wang,Bin Zhu,Shipeng Li</authors>
+		<jconf>DRMTICS</jconf>
+		<id>160453</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Emotional Vocabulary-Driven Personalized Music Retrieval</title>
+		<year>2008</year>
+		<authors>Bin Zhu,Tao Liu</authors>
+		<jconf>Edutainment</jconf>
+		<id>178141</id>
+		<label>5</label>
+		<organization>College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015</organization>
+	</publication>
+	<publication>
+		<title>Integrating Data Quality Data into Decision-Making Process: An Information Visualization Approach</title>
+		<year>2007</year>
+		<authors>Bin Zhu,G. Shankar,Yu Cai</authors>
+		<jconf>HCI (8)</jconf>
+		<id>242089</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiresolution Video Watermarking Using Perceptual Models and Scene Segmentation</title>
+		<year>1997</year>
+		<authors>Mitchell D. Swanson,Bin Zhu,Ahmed H. Tewfik</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>321538</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Hiding for Video-in-Video</title>
+		<year>1997</year>
+		<authors>Mitchell D. Swanson,Bin Zhu,Ahmed H. Tewfik</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>321539</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Coding by Folding</title>
+		<year>1997</year>
+		<authors>Bin Zhu,Mitchell D. Swanson,Ahmed H. Tewfik</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322744</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image coding with wavelet representations, edge information and visual masking</title>
+		<year>1995</year>
+		<authors>Bin Zhu,Ahmed H. Tewfik,M. A. Colestock,Omer Nezih Gerek,A. Enis Cetin</authors>
+		<jconf>ICIP</jconf>
+		<id>322745</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Support concept-based multimedia information retrieval: a knowledge management approach</title>
+		<year>1999</year>
+		<authors>Bin Zhu,Marshall Ramsey,Hsinchun Chen,Roslin V. Hauck,Tobun D. Ng,Bruce R. Schatz</authors>
+		<jconf>ICIS</jconf>
+		<id>327152</id>
+		<label>0</label>
+		<organization>Management Information Systems Department, University of Arizona</organization>
+	</publication>
+	<publication>
+		<title>Current State of the Art - Challenges and Future Directions for Audio Watermarking</title>
+		<year>1999</year>
+		<authors>Mitchell D. Swanson,Bin Zhu,Ahmed H. Tewfik</authors>
+		<jconf>ICMCS, Vol. 1</jconf>
+		<id>331169</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Classifier with Probabilistic IF-THEN Rules</title>
+		<year>2007</year>
+		<authors>Hexin Lv,Bin Zhu,Yongchuan Tang</authors>
+		<jconf>IFSA (1)</jconf>
+		<id>385331</id>
+		<label>5</label>
+		<organization>College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Conditional Dempster-Shafer Theory for Uncertain Knowledge Updating</title>
+		<year>2007</year>
+		<authors>Hexin Lv,Bin Zhu,Yongchuan Tang</authors>
+		<jconf>IFSA (1)</jconf>
+		<id>385376</id>
+		<label>5</label>
+		<organization>College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Chaotic Simulated Annealing Neural Network with Decaying Chaotic Noise and Its Application in Economic Load Dispatch of Power Systems</title>
+		<year>2004</year>
+		<authors>Ya-lin Mao,Guo-zhong Zhang,Bin Zhu,Ming Zhou</authors>
+		<jconf>IRI</jconf>
+		<id>414173</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SVision: A Network Host-Centered Anomaly Visualization Technique</title>
+		<year>2005</year>
+		<authors>Iosif-Viorel Onut,Bin Zhu,Ali A. Ghorbani</authors>
+		<jconf>ISC</jconf>
+		<id>452918</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Certified Email Protocol</title>
+		<year>2007</year>
+		<authors>Jun Shao,Min Feng,Bin Zhu,Zhenfu Cao</authors>
+		<jconf>ISC</jconf>
+		<id>452993</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visualizing the archive of a computer mediated communication process</title>
+		<year>2002</year>
+		<authors>Bin Zhu,Hsinchun Chen</authors>
+		<jconf>JCDL</jconf>
+		<id>467920</id>
+		<label>0</label>
+		<organization>University of Arizona, Tucson, AZ</organization>
+	</publication>
+	<publication>
+		<title>MedTextus: an intelligent web-based medical meta-search system</title>
+		<year>2002</year>
+		<authors>Bin Zhu,Gondy Leroy,Hsinchun Chen,Yongchi Chen</authors>
+		<jconf>JCDL</jconf>
+		<id>467926</id>
+		<label>0</label>
+		<organization>University of Arizona, Tucson, AZ</organization>
+	</publication>
+	<publication>
+		<title>A novel visualization technique for network anomaly detection</title>
+		<year>2004</year>
+		<authors>Iosif-Viorel Onut,Bin Zhu,Ali A. Ghorbani</authors>
+		<jconf>PST</jconf>
+		<id>554827</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Note on the Cramer-Damgard Identification Scheme</title>
+		<year>2005</year>
+		<authors>Yunlei Zhao,Shirley H. C. Cheung,Binyu Zang,Bin Zhu</authors>
+		<jconf>WINE</jconf>
+		<id>662548</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced Verification-Based Decoding for Packet-Based LDPC Codes over Wireless Channels</title>
+		<year>2008</year>
+		<authors>Bin Zhu,Defeng Huang,Sven Nordholm</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705583</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Numeric Control Programming System for Locators</title>
+		<year>2008</year>
+		<authors>Bin Zhu,Yongsheng Chai</authors>
+		<jconf>RAM</jconf>
+		<id>728083</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Refactoring Formal Specifications in Object-Z</title>
+		<year>2008</year>
+		<authors>Hui Liu,Bin Zhu</authors>
+		<jconf>CSSE (2)</jconf>
+		<id>728968</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Newsmap: a knowledge map for online news</title>
+		<year>2005</year>
+		<authors>Thian-Huat Ong,Hsinchun Chen,Wai-Ki Sung,Bin Zhu</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857253</id>
+		<label>0</label>
+		<organization>Information System Department, School of Management, Boston University</organization>
+	</publication>
+	<publication>
+		<title>Using 3D interfaces to facilitate the spatial knowledge retrieval: a geo-referenced knowledge repository system</title>
+		<year>2005</year>
+		<authors>Bin Zhu,Hsinchun Chen</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857341</id>
+		<label>0</label>
+		<organization>Department of Information Systems, Boston University, Boston, MA</organization>
+	</publication>
+	<publication>
+		<title>elpfulMed: Intelligent searching for medical information over the internet</title>
+		<year>2003</year>
+		<authors>Hsinchun Chen,Ann M. Lally,Bin Zhu,Michael Chau</authors>
+		<jconf>JASIST</jconf>
+		<id>955722</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Collection of Visual Thesauri for Browsing Large Collections of Geographic Images</title>
+		<year>1999</year>
+		<authors>Marshall Ramsey,Hsinchun Chen,Bin Zhu,Bruce R. Schatz</authors>
+		<jconf>JASIS</jconf>
+		<id>956892</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Validating a geographical image retrieval system</title>
+		<year>2000</year>
+		<authors>Bin Zhu,Hsinchun Chen</authors>
+		<jconf>JASIS</jconf>
+		<id>957447</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new one-and-half layer channel routing algorithm based on assigning resources for CMOS gate array</title>
+		<year>1993</year>
+		<authors>Bin Zhu,Xinya Wu,Wenjun Zhuang,Wai-Kai Chen</authors>
+		<jconf>IEEE Trans. on CAD of Integrated Circuits and Systems</jconf>
+		<id>1086444</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Creating a large-scale content-based airphoto image digital library</title>
+		<year>2000</year>
+		<authors>Bin Zhu,Marshall Ramsey,Hsinchun Chen</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102376</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Arithmetic coding with dual symbol sets and its performance analysis</title>
+		<year>1999</year>
+		<authors>Bin Zhu,En-Hui Yang,Ahmed H. Tewfik</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102378</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>User-interface Design of Web Application Using Object-Z</title>
+		<year>2009</year>
+		<authors>Bin Zhu,Huaikou Miao,Bo Song</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>1236191</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A management strategy for distributed data in collaborative design</title>
+		<year>2009</year>
+		<authors>Bin Zhu,Yantao Wang</authors>
+		<jconf>CSCWD</jconf>
+		<id>1240488</id>
+		<label>2</label>
+		<organization>School of Electromechanical Automobile Engineering, Yantai University, China</organization>
+	</publication>
+	<publication>
+		<title>Communication-Garden System: Visualizing a computer-mediated communication process</title>
+		<year>2008</year>
+		<authors>Bin Zhu,Hsinchun Chen</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1270651</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Alert Correlation for Extracting Attack Strategies</title>
+		<year>2006</year>
+		<authors>Bin Zhu,Ali A. Ghorbani</authors>
+		<jconf>Proceedings of the 38th conference on Winter simulation</jconf>
+		<id>1295857</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study on Multidisciplinary Collaborative Design Based on Regression Analysis.</title>
+		<year>2009</year>
+		<authors>Bin Zhu,JieXin Zhang</authors>
+		<jconf>null</jconf>
+		<id>1322808</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of Verification-Based Decoding for Packet-Based LDPC Codes over Binary Symmetric Channel.</title>
+		<year>2009</year>
+		<authors>Bin Zhu,Defeng Huang,Sven Nordholm</authors>
+		<jconf>null</jconf>
+		<id>1323602</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Network-Based Collaborative Commodity Development</title>
+		<year>2008</year>
+		<authors>Yantao Wang,Hua Ying,Bin Zhu</authors>
+		<jconf>Computer Supported Cooperative Work in Design IV: 11th International Conference, CSCWD 2007, Melbourne, Australia, April 26-28, 2007. Revised Selected Papers</jconf>
+		<id>1383474</id>
+		<label>2</label>
+		<organization>The Center of Engineering Training, YanTai University, Yantai, P.R China 264005</organization>
+	</publication>
+	<publication>
+		<title>Current State olf the Art, Challenges and Future Directions for Audio Watermarking</title>
+		<year>1999</year>
+		<authors>Mitchell D. Swanson,Bin Zhu,Ahmed H. Tewfik</authors>
+		<jconf>Proceedings of the IEEE International Conference on Multimedia Computing and Systems - Volume 2</jconf>
+		<id>1393224</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Creating a Large-Scale Digital Library for Georeferenced Information</title>
+		<year>1999</year>
+		<authors>Bin Zhu,Marshall Ramsey,Tobun D. Ng,Hsinchun Chen,Bruce Schatz</authors>
+		<jconf>null</jconf>
+		<id>1414993</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Create a large-scale digital library for geo-referenced information</title>
+		<year>1999</year>
+		<authors>Bin Zhu,Marshall Ramsey,Hsinchun Chen,Rosie V, Hauck,Tobun D. Ng,Bruce Schatz</authors>
+		<jconf>Proceedings of the fourth ACM conference on Digital libraries</jconf>
+		<id>1556398</id>
+		<label>0</label>
+		<organization>Management Information Systems Department, University of Arizona, Tucson, AZ</organization>
+	</publication>
+	<publication>
+		<title>Generating Test Case from Functional Requirement of Web Applications</title>
+		<year>2009</year>
+		<authors>Bin Zhu,Huaikou Miao,Hongwei Zeng,Shengbo Chen</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02</jconf>
+		<id>1652947</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research and Design of Multifunctional Intelligent Melted Iron Analyzer</title>
+		<year>2008</year>
+		<authors>Bin Zhu,Weixu Chen,Yuejun Lei</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 02</jconf>
+		<id>1749205</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+</person>

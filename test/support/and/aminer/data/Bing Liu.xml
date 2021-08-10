@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>4810</personID>
+	<FullName>Bing Liu</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</title>
+		<year>2007</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>3637</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Controlling FD and MVD Inferences in MLS</title>
+		<year>2005</year>
+		<authors>Yan Heping,Bing Liu,Xiaoming Yang,Wei Wang,Baile Shi,Genxing Yang</authors>
+		<jconf>CIT</jconf>
+		<id>8253</id>
+		<label>0</label>
+		<organization>Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Incorporating with Recursive Model Training in Time Series Clustering</title>
+		<year>2005</year>
+		<authors>Jiangjiao Duan,Wei Wang,Bing Liu,Yongsheng Xue,Haofeng Zhou,Baile Shi</authors>
+		<jconf>CIT</jconf>
+		<id>8331</id>
+		<label>0</label>
+		<organization>Fudan University</organization>
+	</publication>
+	<publication>
+		<title>A Formal Specification for Web Services Composition and Verification</title>
+		<year>2005</year>
+		<authors>Yuliang Shi,Liang Zhang,Bing Liu,Fangfang Liu,Lili Lin,Baile Shi</authors>
+		<jconf>CIT</jconf>
+		<id>8432</id>
+		<label>0</label>
+		<organization>Fudan University</organization>
+	</publication>
+	<publication>
+		<title>Non-Almost-Derivable Frequent Itemsets Mining</title>
+		<year>2005</year>
+		<authors>Xiaoming Yang,Zhibin Wang,Bing Liu,Shouzhi Zhang,Wei Wang,Bole Shi</authors>
+		<jconf>CIT</jconf>
+		<id>8555</id>
+		<label>0</label>
+		<organization>Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Mining Opinion Features in Customer Reviews</title>
+		<year>2004</year>
+		<authors>Minqing Hu,Bing Liu</authors>
+		<jconf>AAAI</jconf>
+		<id>11842</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Opinion Extraction and Summarization on the Web</title>
+		<year>2006</year>
+		<authors>Minqing Hu,Bing Liu</authors>
+		<jconf>AAAI</jconf>
+		<id>11897</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Comparative Sentences and Relations</title>
+		<year>2006</year>
+		<authors>Nitin Jindal,Bing Liu</authors>
+		<jconf>AAAI</jconf>
+		<id>13328</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Post-Analysis of Learned Rules</title>
+		<year>1996</year>
+		<authors>Bing Liu,Wynne Hsu</authors>
+		<jconf>AAAI/IAAI, Vol. 1</jconf>
+		<id>13849</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intuitive Representation of Decision Trees Using General Rules and Exceptions</title>
+		<year>2000</year>
+		<authors>Bing Liu,Minqing Hu,Wynne Hsu</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>13851</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Constraints to Model Disjunctions in Rule-Based Reasoning</title>
+		<year>1996</year>
+		<authors>Bing Liu,Joxan Jaffar</authors>
+		<jconf>AAAI/IAAI, Vol. 2</jconf>
+		<id>13855</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Text Classification by Labeling Words</title>
+		<year>2004</year>
+		<authors>Bing Liu,Xiaoli Li,Wee Sun Lee,Philip S. Yu</authors>
+		<jconf>AAAI</jconf>
+		<id>13875</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Wrapper Generation Using Tree Matching and Partial Tree Alignment</title>
+		<year>2006</year>
+		<authors>Yanhong Zhai,Bing Liu</authors>
+		<jconf>AAAI</jconf>
+		<id>15564</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Multi-agent Model for Planning and Design of Exposition Spaces</title>
+		<year>2008</year>
+		<authors>Ivan Blecic,Arnaldo Cecchini,Giuseppe A. Trunfio,Jian Zhou,Wei Zang,Bing Liu</authors>
+		<jconf>ACRI</jconf>
+		<id>23956</id>
+		<label>7</label>
+		<organization>College of Architecture and Urban Planning, Tongji University, Shanghai, P.R. China 200092</organization>
+	</publication>
+	<publication>
+		<title>A Grid-Based System for the Multi-reservoir Optimal Scheduling in Huaihe River Basin</title>
+		<year>2006</year>
+		<authors>Bing Liu,Huaping Chen,Guoyi Zhang,Shijin Xu</authors>
+		<jconf>APWeb Workshops</jconf>
+		<id>48182</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering Through Decision Tree Construction</title>
+		<year>2000</year>
+		<authors>Bing Liu,Yiyuan Xia,Philip S. Yu</authors>
+		<jconf>CIKM</jconf>
+		<id>95617</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining community structure of named entities from free text</title>
+		<year>2005</year>
+		<authors>Xin Li,Bing Liu</authors>
+		<jconf>CIKM</jconf>
+		<id>95632</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using micro information units for internet search</title>
+		<year>2002</year>
+		<authors>Xiaoli Li,Tong-Heng Phang,Minqing Hu,Bing Liu</authors>
+		<jconf>CIKM</jconf>
+		<id>95644</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Clustering Transactions Using Large Items</title>
+		<year>1999</year>
+		<authors>Ke Wang,Chu Xu,Bing Liu</authors>
+		<jconf>CIKM</jconf>
+		<id>96014</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Opportunity map: a visualization framework for fast identification of actionable knowledge</title>
+		<year>2005</year>
+		<authors>Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Weimin Xiao</authors>
+		<jconf>CIKM</jconf>
+		<id>96048</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Measuring the meaning in time series clustering of text search queries</title>
+		<year>2006</year>
+		<authors>Bing Liu,Rosie Jones,Kristina Lisa Klinkner</authors>
+		<jconf>CIKM</jconf>
+		<id>96070</id>
+		<label>10</label>
+		<organization>Virginia Polytechnic Institute, Blacksburg, VA</organization>
+	</publication>
+	<publication>
+		<title>A Novel RBF Neural Network with Fast Training and Accurate Generalization</title>
+		<year>2004</year>
+		<authors>Lipo Wang,Bing Liu,Chunru Wan</authors>
+		<jconf>CIS</jconf>
+		<id>97234</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web for Data Mining Applications</title>
+		<year>2000</year>
+		<authors>Bing Liu,Yiming Ma,Ching Kian Wong</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112374</id>
+		<label>0</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Experimental Studies of the Universal Chemical Key (UCK)Algorithm on the NCI Database of Chemical Compounds</title>
+		<year>2003</year>
+		<authors>Robert L. Grossman,Pavan Kasturi,Donald Hamelberg,Bing Liu</authors>
+		<jconf>CSB</jconf>
+		<id>120935</id>
+		<label>0</label>
+		<organization>Lab. for Adv. Comput., Illinois Univ., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Semi-supervised Text Classification Using Partitioned EM</title>
+		<year>2004</year>
+		<authors>Gao Cong,Wee Sun Lee,Haoran Wu,Bing Liu</authors>
+		<jconf>DASFAA</jconf>
+		<id>140478</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Changes for Real-Life Applications</title>
+		<year>2000</year>
+		<authors>Bing Liu,Wynne Hsu,Heng-Siew Han,Yiyuan Xia</authors>
+		<jconf>DaWaK</jconf>
+		<id>144324</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Assigning Unique Keys to Chemical Compounds for Data Integration: Some Interesting Counter Examples</title>
+		<year>2005</year>
+		<authors>Greeshma Neglur,Robert L. Grossman,Bing Liu</authors>
+		<jconf>DILS</jconf>
+		<id>156389</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficiently Determine the Starting Sample Size for Progressive Sampling</title>
+		<year>2001</year>
+		<authors>Baohua Gu,Bing Liu,Feifang Hu,Huan Liu</authors>
+		<jconf>DMKD</jconf>
+		<id>159059</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Reinforcement Approach to Schelduling</title>
+		<year>1988</year>
+		<authors>Bing Liu</authors>
+		<jconf>ECAI</jconf>
+		<id>165054</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Route Finding: Combining Knowledge and Cases and an Efficient Search Algorithm</title>
+		<year>1996</year>
+		<authors>Bing Liu</authors>
+		<jconf>ECAI</jconf>
+		<id>165134</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Positive and Unlabeled Examples with Different Data Distributions</title>
+		<year>2005</year>
+		<authors>Xiaoli Li,Bing Liu</authors>
+		<jconf>ECML</jconf>
+		<id>172140</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficiently Determining the Starting Sample Size for Progressive Sampling</title>
+		<year>2001</year>
+		<authors>Baohua Gu,Bing Liu,Feifang Hu,Huan Liu</authors>
+		<jconf>ECML</jconf>
+		<id>172251</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to Classify Documents with Only a Small Positive Training Set</title>
+		<year>2007</year>
+		<authors>Xiaoli Li,Bing Liu,See-Kiong Ng</authors>
+		<jconf>ECML</jconf>
+		<id>172753</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,</organization>
+	</publication>
+	<publication>
+		<title>Content-based Index and Retrieval Method of Chinese Document Images</title>
+		<year>1999</year>
+		<authors>Yaodong He,Zao Jiang,Bing Liu,Hong Zhao</authors>
+		<jconf>ICDAR</jconf>
+		<id>294813</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multivariate Time Series Prediction via Temporal Classification</title>
+		<year>2002</year>
+		<authors>Bing Liu,Jing Liu</authors>
+		<jconf>ICDE</jconf>
+		<id>300541</id>
+		<label>0</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Finding Actionable Knowledge via Automated Comparison</title>
+		<year>2009</year>
+		<authors>Lei Zhang,Bing Liu,Jeffrey Benkler,Chi Zhou</authors>
+		<jconf>ICDE</jconf>
+		<id>302262</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Speed-up Iterative Frequent Itemset Mining with Constraint Changes</title>
+		<year>2002</year>
+		<authors>Gao Cong,Bing Liu</authors>
+		<jconf>ICDM</jconf>
+		<id>302509</id>
+		<label>0</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Building Text Classifiers Using Positive and Unlabeled Examples</title>
+		<year>2003</year>
+		<authors>Bing Liu,Yang Dai,Xiaoli Li,Wee Sun Lee,Philip S. Yu</authors>
+		<jconf>ICDM</jconf>
+		<id>302784</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the Interestingness of Association Rules from the Temporal Dimension</title>
+		<year>2001</year>
+		<authors>Bing Liu,Yiming Ma,Ronnie Lee</authors>
+		<jconf>ICDM</jconf>
+		<id>302786</id>
+		<label>0</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Detecting Patterns of Change Using Enhanced Parallel Coordinates Visualization</title>
+		<year>2003</year>
+		<authors>Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Andreas Schaller</authors>
+		<jconf>ICDM</jconf>
+		<id>303048</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Illinois Univ., Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>A Visual Data Mining Framework for Convenient Identification of Useful Knowledge</title>
+		<year>2005</year>
+		<authors>Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Weimin Xiao</authors>
+		<jconf>ICDM</jconf>
+		<id>303050</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Mining Latent Associations of Objects Using a Typed Mixture Model--A Case Study on Expert/Expertise Mining</title>
+		<year>2006</year>
+		<authors>Shenghua Bao,Yunbo Cao,Bing Liu,Yong Yu,Hang Li</authors>
+		<jconf>ICDM</jconf>
+		<id>303222</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, USA</organization>
+	</publication>
+	<publication>
+		<title>Analyzing and Detecting Review Spam</title>
+		<year>2007</year>
+		<authors>Nitin Jindal,Bing Liu</authors>
+		<jconf>ICDM</jconf>
+		<id>303456</id>
+		<label>0</label>
+		<organization>Univ. of Illinois at Chicago, Chicago</organization>
+	</publication>
+	<publication>
+		<title>Time Sensitive Ranking with Application to Publication Search</title>
+		<year>2008</year>
+		<authors>Xin Li,Bing Liu,Philip S. Yu</authors>
+		<jconf>ICDM</jconf>
+		<id>303691</id>
+		<label>0</label>
+		<organization>Microsoft Corp., Redmond, WA</organization>
+	</publication>
+	<publication>
+		<title>Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression</title>
+		<year>2003</year>
+		<authors>Wee Sun Lee,Bing Liu</authors>
+		<jconf>ICML</jconf>
+		<id>335212</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partially Supervised Classification of Text Documents</title>
+		<year>2002</year>
+		<authors>Bing Liu,Wee Sun Lee,Philip S. Yu,Xiaoli Li</authors>
+		<jconf>ICML</jconf>
+		<id>335275</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Schedule Medium Access Control for Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Bing Liu,Lin Zhang,Huimin Zhang</authors>
+		<jconf>ICN</jconf>
+		<id>337281</id>
+		<label>6</label>
+		<organization>Beijing University of Posts and Telecommunications, China</organization>
+	</publication>
+	<publication>
+		<title>Integrating Rules and Constraints</title>
+		<year>1994</year>
+		<authors>Bing Liu</authors>
+		<jconf>ICTAI</jconf>
+		<id>367226</id>
+		<label>0</label>
+		<organization>Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Small Listener for Heterogeneous Mobile Devices: A Service Enabler with a Uniform Web Object View</title>
+		<year>2005</year>
+		<authors>Bing Liu,Sushil K. Prasad,Erdogan Dogdu</authors>
+		<jconf>ICWS</jconf>
+		<id>370781</id>
+		<label>10</label>
+		<organization>Virginia Polytechnic Institute and State University, Blacksburg</organization>
+	</publication>
+	<publication>
+		<title>A Refinement Approach to Search and Constraint Satisfaction Problem</title>
+		<year>1995</year>
+		<authors>Bing Liu</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>374393</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Air Travel and Tourist Information Systems</title>
+		<year>1995</year>
+		<authors>Bing Liu</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>374396</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Knowledge to Isolate Search in Route Finding</title>
+		<year>1995</year>
+		<authors>Bing Liu</authors>
+		<jconf>IJCAI</jconf>
+		<id>389510</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to Classify Texts Using Positive and Unlabeled Data</title>
+		<year>2003</year>
+		<authors>Xiaoli Li,Bing Liu</authors>
+		<jconf>IJCAI</jconf>
+		<id>389524</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Increasing Functional Constraints Need to Be Checked Only Once</title>
+		<year>1995</year>
+		<authors>Bing Liu</authors>
+		<jconf>IJCAI (1)</jconf>
+		<id>389605</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Interesting Holes in Data</title>
+		<year>1997</year>
+		<authors>Bing Liu,Liang-Ping Ku,Wynne Hsu</authors>
+		<jconf>IJCAI (2)</jconf>
+		<id>389615</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Page Cleaning for Web Mining through Feature Weighting</title>
+		<year>2003</year>
+		<authors>Lan Yi,Bing Liu</authors>
+		<jconf>IJCAI</jconf>
+		<id>391220</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning to Identify Unexpected Instances in the Test Set</title>
+		<year>2007</year>
+		<authors>Xiaoli Li,Bing Liu,See-Kiong Ng</authors>
+		<jconf>IJCAI</jconf>
+		<id>391440</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ECO: An Empirical-Based Compilation and Optimization System</title>
+		<year>2003</year>
+		<authors>Nastaran Baradaran,Jacqueline Chame,Chun Chen,Pedro C. Diniz,Mary W. Hall,Yoon-Ju Lee,Bing Liu,Robert F. Lucas</authors>
+		<jconf>IPDPS</jconf>
+		<id>408098</id>
+		<label>14</label>
+		<organization>Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>A Novel Fuzzy Neural Network with Fast Training and Accurate Generalization</title>
+		<year>2004</year>
+		<authors>Lipo Wang,Bing Liu,Chunru Wan</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442983</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Universal Approximation Theorem of Fuzzy Neural Networks with Random Membership Function Parameters</title>
+		<year>2005</year>
+		<authors>Lipo Wang,Bing Liu,Chunru Wan</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>442985</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining and summarizing customer reviews</title>
+		<year>2004</year>
+		<authors>Minqing Hu,Bing Liu</authors>
+		<jconf>KDD</jconf>
+		<id>472557</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Exploration mining in diabetic patients databases: findings and conclusions</title>
+		<year>2000</year>
+		<authors>Wynne Hsu,Mong-Li Lee,Bing Liu,Tok Wang Ling</authors>
+		<jconf>KDD</jconf>
+		<id>472812</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260</organization>
+	</publication>
+	<publication>
+		<title>Mining data records in Web pages</title>
+		<year>2003</year>
+		<authors>Bing Liu,Robert L. Grossman,Yanhong Zhai</authors>
+		<jconf>KDD</jconf>
+		<id>473022</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Using General Impressions to Analyze Discovered Classification Rules</title>
+		<year>1997</year>
+		<authors>Bing Liu,Wynne Hsu,Shu Chen</authors>
+		<jconf>KDD</jconf>
+		<id>473023</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-level organization and summarization of the discovered rules</title>
+		<year>2000</year>
+		<authors>Bing Liu,Minqing Hu,Wynne Hsu</authors>
+		<jconf>KDD</jconf>
+		<id>473024</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Identifying non-actionable association rules</title>
+		<year>2001</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma</authors>
+		<jconf>KDD</jconf>
+		<id>473025</id>
+		<label>0</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Discovering the set of fundamental rule changes</title>
+		<year>2001</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma</authors>
+		<jconf>KDD</jconf>
+		<id>473026</id>
+		<label>0</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Integrating Classification and Association Rule Mining</title>
+		<year>1998</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma</authors>
+		<jconf>KDD</jconf>
+		<id>473027</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pruning and Summarizing the Discovered Associations</title>
+		<year>1999</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma</authors>
+		<jconf>KDD</jconf>
+		<id>473028</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Association Rules with Multiple Minimum Supports</title>
+		<year>1999</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma</authors>
+		<jconf>KDD</jconf>
+		<id>473029</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Interesting Knowledge Using DM-II</title>
+		<year>1999</year>
+		<authors>Bing Liu,Wynne Hsu,Yiming Ma,Shu Chen</authors>
+		<jconf>KDD</jconf>
+		<id>473030</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering unexpected information from your competitors' web sites</title>
+		<year>2001</year>
+		<authors>Bing Liu,Yiming Ma,Philip S. Yu</authors>
+		<jconf>KDD</jconf>
+		<id>473033</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Rule interestingness analysis using OLAP operations</title>
+		<year>2006</year>
+		<authors>Bing Liu,Kaidi Zhao,Jeffrey Benkler,Weimin Xiao</authors>
+		<jconf>KDD</jconf>
+		<id>473037</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Targeting the right students using data mining</title>
+		<year>2000</year>
+		<authors>Yiming Ma,Bing Liu,Ching Kian Wong,Philip S. Yu,Shuik Ming Lee</authors>
+		<jconf>KDD</jconf>
+		<id>473047</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Querying multiple sets of discovered rules</title>
+		<year>2002</year>
+		<authors>Alexander Tuzhilin,Bing Liu</authors>
+		<jconf>KDD</jconf>
+		<id>473370</id>
+		<label>0</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Interestingness-Based Interval Merger for Numeric Association Rules</title>
+		<year>1998</year>
+		<authors>Ke Wang,Soon Hock William Tay,Bing Liu</authors>
+		<jconf>KDD</jconf>
+		<id>473400</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A refinement approach to handling model misfit in text categorization</title>
+		<year>2002</year>
+		<authors>Haoran Wu,Tong-Heng Phang,Bing Liu,Xiaoli Li</authors>
+		<jconf>KDD</jconf>
+		<id>473438</id>
+		<label>0</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Opportunity map: identifying causes of failure - a deployed data mining system</title>
+		<year>2006</year>
+		<authors>Kaidi Zhao,Bing Liu,Jeffrey Benkler,Weimin Xiao</authors>
+		<jconf>KDD</jconf>
+		<id>473484</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>V-Miner: using enhanced parallel coordinates to mine product design and test data</title>
+		<year>2004</year>
+		<authors>Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Andreas Schaller</authors>
+		<jconf>KDD</jconf>
+		<id>473486</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Eliminating noisy information in Web pages for data mining</title>
+		<year>2003</year>
+		<authors>Lan Yi,Bing Liu,Xiaoli Li</authors>
+		<jconf>KDD</jconf>
+		<id>473513</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Accelerated Bundle Adjustment in Multiple-View Reconstruction</title>
+		<year>2003</year>
+		<authors>Bing Liu,Maoyuan Yu,Dennis Maier,Reinhard Manner</authors>
+		<jconf>KES</jconf>
+		<id>475089</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selector: A Language Construct for Developing Dynamic Applications</title>
+		<year>2002</year>
+		<authors>Pedro C. Diniz,Bing Liu</authors>
+		<jconf>LCPC</jconf>
+		<id>483074</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Forward and Backward Chaining in Constraint Programming (Abstract)</title>
+		<year>1997</year>
+		<authors>Joxan Jaffar,Bing Liu,Roland H. C. Yap</authors>
+		<jconf>LPNMR</jconf>
+		<id>487716</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SyD: A Middleware Testbed for Collaborative Applications over Small Heterogeneous Devices and Data Stores</title>
+		<year>2004</year>
+		<authors>Sushil K. Prasad,Vijay K. Madisetti,Shamkant B. Navathe,Raj Sunderraman,Erdogan Dogdu,Anu G. Bourgeois,Michael Weeks,Bing Liu,Janaka Balasooriya,Arthi Hariharan,Wanxia Xie,Praveen Madiraju,Srilaxmi Malladi,Raghupathy Sivakumar,Alexander Zelikovsky,Yanqing Zhang,Yi Pan,Saeid Belkasim</authors>
+		<jconf>Middleware</jconf>
+		<id>499961</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visually Aided Exploration of Interesting Association Rules</title>
+		<year>1999</year>
+		<authors>Bing Liu,Wynne Hsu,Ke Wang,Shu Chen</authors>
+		<jconf>PAKDD</jconf>
+		<id>526962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering Overlapping Communities of Named Entities</title>
+		<year>2006</year>
+		<authors>Xin Li,Bing Liu,Philip S. Yu</authors>
+		<jconf>PKDD</jconf>
+		<id>541840</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving an Association Rule Based Classifier</title>
+		<year>2000</year>
+		<authors>Bing Liu,Yiming Ma,Ching Kian Wong</authors>
+		<jconf>PKDD</jconf>
+		<id>541862</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Text Classification of Emergent Disease Reports</title>
+		<year>2007</year>
+		<authors>Yi Zhang,Bing Liu</authors>
+		<jconf>PKDD</jconf>
+		<id>542095</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA</organization>
+	</publication>
+	<publication>
+		<title>An Improved Generic Arc Consistency Algorithm and Its Specializations</title>
+		<year>1996</year>
+		<authors>Bing Liu</authors>
+		<jconf>PRICAI</jconf>
+		<id>551650</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Decision Tree Induction for Discovering Holes in Data</title>
+		<year>1998</year>
+		<authors>Bing Liu,Ke Wang,Lai-Fun Mun,Xin-Zhi Qi</authors>
+		<jconf>PRICAI</jconf>
+		<id>551664</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260</organization>
+	</publication>
+	<publication>
+		<title>Concurrent Discretization of Multiple Attributes</title>
+		<year>1998</year>
+		<authors>Ke Wang,Bing Liu</authors>
+		<jconf>PRICAI</jconf>
+		<id>551898</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Bottom-Up Distance-Based Index Tree for Metric Space</title>
+		<year>2006</year>
+		<authors>Bing Liu,Zhihui Wang,Xiaoming Yang,Wei Wang,Baile Shi</authors>
+		<jconf>RSKT</jconf>
+		<id>562293</id>
+		<label>0</label>
+		<organization>Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Subsequence Similarity Search Under Time Shifting</title>
+		<year>2006</year>
+		<authors>Bing Liu,Jianjun Xu,Zhihui Wang,Wei Wang,Baile Shi</authors>
+		<jconf>RSKT</jconf>
+		<id>562295</id>
+		<label>0</label>
+		<organization>Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Discovering Frequent Substructures from Hierarchical Semi-structured Data</title>
+		<year>2002</year>
+		<authors>Gao Cong,Lan Yi,Bing Liu,Ke Wang</authors>
+		<jconf>SDM</jconf>
+		<id>579035</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying comparative sentences in text documents</title>
+		<year>2006</year>
+		<authors>Nitin Jindal,Bing Liu</authors>
+		<jconf>SIGIR</jconf>
+		<id>595109</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic text classification of disease reporting</title>
+		<year>2007</year>
+		<authors>Yi Zhang,Bing Liu</authors>
+		<jconf>SIGIR</jconf>
+		<id>596209</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>The utility of linguistic rules in opinion mining</title>
+		<year>2007</year>
+		<authors>Xiaowen Ding,Bing Liu</authors>
+		<jconf>SIGIR</jconf>
+		<id>596295</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>MAC Performance and Improvement in Mobile Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Bing Liu,Ke Yu,Lin Zhang,Huimin Zhang</authors>
+		<jconf>SNPD (3)</jconf>
+		<id>609466</id>
+		<label>6</label>
+		<organization>Beijing University of Posts and Telecommunications, China</organization>
+	</publication>
+	<publication>
+		<title>Recognition of 3D Objects from 2D Images - Some Issues</title>
+		<year>1996</year>
+		<authors>Bing Liu,P. Wang</authors>
+		<jconf>SSPR</jconf>
+		<id>618933</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Reputation Management Scheme Based on Global Trust Model for Peer-to-Peer Virtual Communities</title>
+		<year>2006</year>
+		<authors>Jingtao Li,Xueping Wang,Bing Liu,Qian Wang,Gendu Zhang</authors>
+		<jconf>WAIM</jconf>
+		<id>651973</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Incremental Data Summarization for Hierarchical Clustering</title>
+		<year>2006</year>
+		<authors>Bing Liu,Yuliang Shi,Zhihui Wang,Wei Wang,Baile Shi</authors>
+		<jconf>WAIM</jconf>
+		<id>652000</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tight Bounds on the Estimation Distance Using Wavelet</title>
+		<year>2006</year>
+		<authors>Bing Liu,Zhihui Wang,Jingtao Li,Wei Wang,Baile Shi</authors>
+		<jconf>WAIM</jconf>
+		<id>652003</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Effective Approach for Hiding Sensitive Knowledge in Data Publishing</title>
+		<year>2006</year>
+		<authors>Zhihui Wang,Bing Liu,Wei Wang,Haofeng Zhou,Baile Shi</authors>
+		<jconf>WAIM</jconf>
+		<id>652101</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An EM Based Training Algorithm for Cross-Language Text Categorization</title>
+		<year>2005</year>
+		<authors>Leonardo Rigutini,Marco Maggini,Bing Liu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655065</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Adding the Temporal Dimension to Search - A Case Study in Publication Search</title>
+		<year>2005</year>
+		<authors>Philip S. Yu,Xin Li,Bing Liu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655134</id>
+		<label>0</label>
+		<organization>IBM TJ Watson Res. Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>WISE-2005 Tutorial: Web Content Mining</title>
+		<year>2005</year>
+		<authors>Bing Liu</authors>
+		<jconf>WISE</jconf>
+		<id>663551</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>NET - A System for Extracting Web Data from Flat and Nested Data Records</title>
+		<year>2005</year>
+		<authors>Bing Liu,Yanhong Zhai</authors>
+		<jconf>WISE</jconf>
+		<id>663755</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracting Web Data Using Instance-Based Learning</title>
+		<year>2005</year>
+		<authors>Yanhong Zhai,Bing Liu</authors>
+		<jconf>WISE</jconf>
+		<id>664006</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dealing with different distributions in learning from</title>
+		<year>2004</year>
+		<authors>Xiaoli Li,Bing Liu</authors>
+		<jconf>WWW (Alternate Track Papers  Posters)</jconf>
+		<id>673801</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining topic-specific concepts and definitions on the web</title>
+		<year>2003</year>
+		<authors>Bing Liu,Chee Wee Chin,Hwee Tou Ng</authors>
+		<jconf>WWW</jconf>
+		<id>674341</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Opinion observer: analyzing and comparing opinions on the Web</title>
+		<year>2005</year>
+		<authors>Bing Liu,Minqing Hu,Junsheng Cheng</authors>
+		<jconf>WWW</jconf>
+		<id>674347</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Visualizing web site comparisons</title>
+		<year>2002</year>
+		<authors>Bing Liu,Kaidi Zhao,Lan Yi</authors>
+		<jconf>WWW</jconf>
+		<id>674368</id>
+		<label>0</label>
+		<organization>National University of Singapore/Singapore-MIT Alliance, Singapore</organization>
+	</publication>
+	<publication>
+		<title>On the temporal dimension of search</title>
+		<year>2004</year>
+		<authors>Philip S. Yu,Xin Li,Bing Liu</authors>
+		<jconf>WWW (Alternate Track Papers  Posters)</jconf>
+		<id>674878</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web data extraction based on partial tree alignment</title>
+		<year>2005</year>
+		<authors>Yanhong Zhai,Bing Liu</authors>
+		<jconf>WWW</jconf>
+		<id>674890</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Review spam detection</title>
+		<year>2007</year>
+		<authors>Nitin Jindal,Bing Liu</authors>
+		<jconf>WWW</jconf>
+		<id>675151</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Extracting Web Data Using Instance-Based Learning</title>
+		<year>2007</year>
+		<authors>Yanhong Zhai,Bing Liu</authors>
+		<jconf>World Wide Web</jconf>
+		<id>675269</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607</organization>
+	</publication>
+	<publication>
+		<title>Classification using support vector machines with graded resolution</title>
+		<year>2005</year>
+		<authors>Lipo Wang,Bing Liu,Chunru Wan</authors>
+		<jconf>GrC</jconf>
+		<id>686956</id>
+		<label>9</label>
+		<organization>Coll. of Inf. Eng., Xiangtan Univ., China</organization>
+	</publication>
+	<publication>
+		<title>A holistic lexicon-based approach to opinion mining</title>
+		<year>2008</year>
+		<authors>Xiaowen Ding,Bing Liu,Philip S. Yu</authors>
+		<jconf>WSDM</jconf>
+		<id>710420</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Opinion spam and analysis</title>
+		<year>2008</year>
+		<authors>Nitin Jindal,Bing Liu</authors>
+		<jconf>WSDM</jconf>
+		<id>710428</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Scheduling via reinforcement</title>
+		<year>1988</year>
+		<authors>Bing Liu</authors>
+		<jconf>AI in Engineering</jconf>
+		<id>743698</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scoring the Data Using Association Rules</title>
+		<year>2003</year>
+		<authors>Bing Liu,Yiming Ma,Ching Kian Wong,Philip S. Yu</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>755019</id>
+		<label>0</label>
+		<organization>School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg</organization>
+	</publication>
+	<publication>
+		<title>Positive solutions of three-point boundary value problems for the one-dimensional p-laplacian with infinitely many singularities</title>
+		<year>2004</year>
+		<authors>Bing Liu</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756010</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Existence and uniqueness of solutionsto first-order multipoint boundary value problems</title>
+		<year>2004</year>
+		<authors>Bing Liu</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756018</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Note on third-order boundary value problem for differential equations with deviating arguments</title>
+		<year>2002</year>
+		<authors>Bing Liu,Jian She Yu</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756040</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterizing the dynamic connectivity between genes by variable parameter regression and Kalman filtering based on temporal gene expression data</title>
+		<year>2005</year>
+		<authors>Qinghua Cui,Bing Liu,Tianzi Jiang,Songde Ma</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>763403</id>
+		<label>15</label>
+		<organization>National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences Beijing 100080, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Esub8: A novel tool to predict protein subcellular localizations in eukaryotic organisms</title>
+		<year>2004</year>
+		<authors>Qinghua Cui,Tianzi Jiang,Bing Liu,Songde Ma</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768594</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A combinational feature selection and ensemble neural network method for classification of gene expression data</title>
+		<year>2004</year>
+		<authors>Bing Liu,Qinghua Cui,Tianzi Jiang,Songde Ma</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>768798</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Business applications of data mining</title>
+		<year>2002</year>
+		<authors>Chidanand Apte,Bing Liu,Edwin P. D. Pednault,Padhraic Smyth</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>769581</id>
+		<label>0</label>
+		<organization>Department of Computer Science at the University of Illinois at Chicago.</organization>
+	</publication>
+	<publication>
+		<title>Managing large collections of data mining models</title>
+		<year>2008</year>
+		<authors>Bing Liu,Alexander Tuzhilin</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>777762</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Conceptual design: issues and challenges</title>
+		<year>2000</year>
+		<authors>Wynne Hsu,Bing Liu</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778648</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finding the Shortest Route Using Cases, Knowledge, and Djikstra's Algorithm</title>
+		<year>1994</year>
+		<authors>Bing Liu,Siew-Hwee Choo,Shee-Ling Lok,Sing-Meng Leong,Soo-Chee Lee,Foong-Ping Poon,Hwee-Har Tan</authors>
+		<jconf>IEEE Expert</jconf>
+		<id>875062</id>
+		<label>0</label>
+		<organization>Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Mining Web Pages for Data Records</title>
+		<year>2004</year>
+		<authors>Bing Liu,Robert L. Grossman,Yanhong Zhai</authors>
+		<jconf>IEEE Intelligent Systems</jconf>
+		<id>875065</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the Subjective Interestingness of Association Rules</title>
+		<year>2000</year>
+		<authors>Bing Liu,Wynne Hsu,Shu Chen,Yiming Ma</authors>
+		<jconf>IEEE Intelligent Systems</jconf>
+		<id>875066</id>
+		<label>0</label>
+		<organization>Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Neural Network Approach to Shape from Shading</title>
+		<year>2003</year>
+		<authors>Tianzi Jiang,Bing Liu,Yingli Lu,David J. Evans</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>906495</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Systematic benchmarking of microarray data feature extraction and classification</title>
+		<year>2008</year>
+		<authors>Jing Zhang,Tianzi Jiang,Bing Liu,Xingpeng Jiang,Huizhi Zhao</authors>
+		<jconf>Int. J. Comput. Math.</jconf>
+		<id>907015</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient and Accurate Method for 3D-Point Reconstruction from Multiple Views</title>
+		<year>2005</year>
+		<authors>Bing Liu,Maoyuan Yu,Dennis Maier,Reinhard Manner</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<id>907982</id>
+		<label>11</label>
+		<organization>Lehrstuhl für Informatik V, Universität Mannheim, Mannheim, Germany D-68131</organization>
+	</publication>
+	<publication>
+		<title>An Empirical Study of the Universal Chemical Key Algorithm for Assigning Unique Keys to Chemical Compounds</title>
+		<year>2004</year>
+		<authors>Robert L. Grossman,Pavan Kasturi,Donald Hamelberg,Bing Liu</authors>
+		<jconf>J. Bioinformatics and Computational Biology</jconf>
+		<id>959166</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SARS-CoV protease inhibitors design using virtual screening method from natural products libraries</title>
+		<year>2005</year>
+		<authors>Bing Liu,Jiaju Zhou</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>963560</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Top 10 algorithms in data mining</title>
+		<year>2008</year>
+		<authors>Xindong Wu,Vipin Kumar,J. Ross Quinlan,Joydeep Ghosh,Qiang Yang,Hiroshi Motoda,Geoffrey J. McLachlan,Angus F. M. Ng,Bing Liu,Philip S. Yu,Zhi-Hua Zhou,Michael Steinbach,David J. Hand,Dan Steinberg</authors>
+		<jconf>Knowl. Inf. Syst.</jconf>
+		<id>1003702</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Editorial: special issue on web content mining</title>
+		<year>2004</year>
+		<authors>Bing Liu,Kevin Chen-Chuan Chang</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063588</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Web for Data Mining: Organizing and Interpreting the Discovered Rules using the Web</title>
+		<year>2000</year>
+		<authors>Yiming Ma,Bing Liu,Ching Kian Wong</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063593</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WebKDD 2004: web mining and web usage analysis post-workshop report</title>
+		<year>2004</year>
+		<authors>Olfa Nasraoui,Bamshad Mobasher,Brij M. Masand,Bing Liu</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063610</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>KDD Cup and workshop 2007</title>
+		<year>2007</year>
+		<authors>James Bennett,Charles Elkan,Bing Liu,Padhraic Smyth,Domonkos Tikk</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063733</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Research Activities in Database Management and Information Retrieval at the University of Illinois at Chicago</title>
+		<year>2002</year>
+		<authors>Isabel F. Cruz,Ashfaq A. Khokhar,Bing Liu,A. Prasad Sistla,Ouri Wolfson,Clement T. Yu</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064846</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ConstraintLisp: an object-oriented constraint programming language</title>
+		<year>1992</year>
+		<authors>Bing Liu,Yuen-Wah Ku</authors>
+		<jconf>SIGPLAN Notices</jconf>
+		<id>1067720</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: Special Section on Mining and Searching the Web</title>
+		<year>2004</year>
+		<authors>Bing Liu,Soumen Chakrabarti</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113197</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Finding Interesting Patterns Using User Expectations</title>
+		<year>1999</year>
+		<authors>Bing Liu,Wynne Hsu,Lai-Fun Mun,Hing-Yan Lee</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113207</id>
+		<label>0</label>
+		<organization>Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Structured Data Extraction from the Web Based on Partial Tree Alignment</title>
+		<year>2006</year>
+		<authors>Yanhong Zhai,Bing Liu</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113812</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Illinois Univ., Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: Special Section on Intelligent Data Preparation</title>
+		<year>2005</year>
+		<authors>Chengqi Zhang,Qiang Yang,Bing Liu</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113840</id>
+		<label>0</label>
+		<organization>IEEE Computer Society</organization>
+	</publication>
+	<publication>
+		<title>The dynamics of a prey-dependent consumption model concerning impulsive control strategy</title>
+		<year>2005</year>
+		<authors>Bing Liu,Lansun Chen,Yujuan Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148990</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Complexities in a Lotka-volterra Predator-prey Model Concerning impulsive Control Strategy</title>
+		<year>2005</year>
+		<authors>Bing Liu,Yujuan Zhang,Lansun Chen</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1194213</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</title>
+		<year>2007</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1204666</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Entity discovery and assignment for opinion mining applications</title>
+		<year>2009</year>
+		<authors>Xiaowen Ding,Bing Liu,Lei Zhang</authors>
+		<jconf>KDD</jconf>
+		<id>1212507</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Positive Unlabeled Learning for Data Stream Classification</title>
+		<year>2009</year>
+		<authors>Xiaoli Li,Philip S. Yu,Bing Liu,See-Kiong Ng</authors>
+		<jconf>SDM</jconf>
+		<id>1213601</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Positive solutions of a nonlinear four-point boundary value problems</title>
+		<year>2004</year>
+		<authors>Bing Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1229568</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</title>
+		<year>2007</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1235972</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What's behind topic formation and development: a perspective of community core groups</title>
+		<year>2009</year>
+		<authors>Tieyun Qian,Qing Li,Bing Liu,Hui Xiong,Jaideep Srivastava,Phillip C.-Y. Sheu</authors>
+		<jconf>CIKM</jconf>
+		<id>1239226</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Approximations of Signaling Pathway Dynamics</title>
+		<year>2009</year>
+		<authors>Bing Liu,P. S. Thiagarajan,David Hsu</authors>
+		<jconf>CMSB</jconf>
+		<id>1239833</id>
+		<label>0</label>
+		<organization>NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,</organization>
+	</publication>
+	<publication>
+		<title>Towards the SocioScope: an information system for the study of social dynamics through digital traces</title>
+		<year>2009</year>
+		<authors>Andrea Vaccari,Francesco Calabrese,Bing Liu,Carlo Ratti</authors>
+		<jconf>GIS</jconf>
+		<id>1244164</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Expanding Domain Sentiment Lexicon through Double Propagation</title>
+		<year>2009</year>
+		<authors>Guang Qiu,Bing Liu,Jiajun Bu,Chun Chen</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249682</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A singular integral of the composite operator</title>
+		<year>2009</year>
+		<authors>Shusen Ding,Bing Liu</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>1266617</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovery of functional miRNA-mRNA regulatory modules with computational methods</title>
+		<year>2009</year>
+		<authors>Bing Liu,Jiuyong Li,Anna Tsykin</authors>
+		<jconf>Journal of Biomedical Informatics</jconf>
+		<id>1277422</id>
+		<label>4</label>
+		<organization>School of Computer and Information Science, University of South Australia, Mawson Lakes, SA 5095, Australia</organization>
+	</publication>
+	<publication>
+		<title>A note on a nonlocal boundary value problems</title>
+		<year>2004</year>
+		<authors>Bing Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283282</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamics of a two-species Lotka-Volterra competition system in a polluted environment with pulse toxicant input</title>
+		<year>2009</year>
+		<authors>Bing Liu,Lei Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283700</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest editorial</title>
+		<year>2008</year>
+		<authors>Srinivasan Parthasarathy,Bing Liu</authors>
+		<jconf>Cognitive Technologies</jconf>
+		<id>1288314</id>
+		<label>0</label>
+		<organization>bogus</organization>
+	</publication>
+	<publication>
+		<title>Classification by Association Rule Analysis</title>
+		<year>2009</year>
+		<authors>Bing Liu</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1297210</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Opinion Mining</title>
+		<year>2009</year>
+		<authors>Bing Liu</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1298452</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic-Based Remote Sensing Images Intelligent Service on Grid Environment.</title>
+		<year>2009</year>
+		<authors>Naixia Mou,Bing Liu,Xiushan Lu,Lingxian Zhang,Wenbao Liu</authors>
+		<jconf>null</jconf>
+		<id>1314189</id>
+		<label>5</label>
+		<organization>Geomatics Coll., Shandong Univ. of Sci. & Technol., Qingdao, China</organization>
+	</publication>
+	<publication>
+		<title>A Heuristic Greedy Optimum Algorithm for Target Coverage in Wireless Sensor Networks.</title>
+		<year>2009</year>
+		<authors>Hongwu Zhang,Hongyuan Wang,Hongcai Feng,Bing Liu,Bingxiang Gui</authors>
+		<jconf>null</jconf>
+		<id>1318365</id>
+		<label>6</label>
+		<organization>Dept. of Electron. & Inf. Eng., Huazhong Univ. of Sci. & Technol., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>An New Global Dynamic Scheduling Algorithm with Multi-Hop Path Splitting and Multi-Pathing Using GridFTP.</title>
+		<year>2009</year>
+		<authors>Bingxiang Gui,Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1318398</id>
+		<label>6</label>
+		<organization>Dept. of Comput. & Inf. Eng., Wuhan Polytech. Univ., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>An Ontology-Based Approach to Knowledge Management.</title>
+		<year>2009</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1318983</id>
+		<label>6</label>
+		<organization>Dept. of Comput. & Inf. Eng., Wuhan Polytech. Univ., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Advances in Web Mining and Web Usage Analysis: 6th International Workshop on Knowledge Discovery on the Web, WEBKDD 2004Seattle, WA, USA, August 22-25, ... Papers (Lecture Notes in Computer Science)</title>
+		<year>2006</year>
+		<authors>Bamshad Mobasher,Olfa Nasraoui,Bing Liu,Brij Masand</authors>
+		<jconf>null</jconf>
+		<id>1353755</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data (Data-Centric Systems and Applications)</title>
+		<year>2006</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1357963</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the Seventh SIAM International Conference on Data Mining</title>
+		<year>2007</year>
+		<authors>Chid Apte,Bing Liu,Srinivasan Parthasarathy</authors>
+		<jconf>Proceedings In Applied Mathematics</jconf>
+		<id>1379741</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solvability of multi-point boundary value problem at resonance-part IV</title>
+		<year>2003</year>
+		<authors>Bing Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1415986</id>
+		<label>17</label>
+		<organization>Department of Mathematics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Automatic extraction of outbreak information from news</title>
+		<year>2008</year>
+		<authors>Bing Liu</authors>
+		<jconf>null</jconf>
+		<id>1431826</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago</organization>
+	</publication>
+	<publication>
+		<title>Solvability of multi-point boundary value problem at resonance (III)</title>
+		<year>2002</year>
+		<authors>Bing Liu,Jianshe Yu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1522803</id>
+		<label>17</label>
+		<organization>College of Mathematics and Statistics, Wuhan University, Wuhan 430072, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Research activities in database management and information retrieval at University of Illinois at Chicago</title>
+		<year>2002</year>
+		<authors>Isabel Cruz,Ashfaq Khokhar,Bing Liu,Prasad Sistla,Ouri Wolfson,Clement Yu</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1618795</id>
+		<label>0</label>
+		<organization>University of Illinois at Chicago, Chicago, IL</organization>
+	</publication>
+	<publication>
+		<title>Reprogrammable gate arrays for hardware accelerated IC design verification</title>
+		<year>1990</year>
+		<authors>Alan W. Ptak,Jeffrey A. Dickson,Bing Liu</authors>
+		<jconf>Microprocessors Microsystems</jconf>
+		<id>1643707</id>
+		<label>12</label>
+		<organization>Univ. of Manitoba, Winnipeg, Man., Canada</organization>
+	</publication>
+	<publication>
+		<title>Robot Obstacle Avoidance based on an Improved Ant Colony Algorithm</title>
+		<year>2009</year>
+		<authors>Jie Dong,Bing Liu,Kaixiang Peng,Yixin Yin</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 03</jconf>
+		<id>1651883</id>
+		<label>13</label>
+		<organization>Sch. of Inf. Eng., Univ. of Sci. & Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Content-Based Indexing and Retrieval Method of Chinese Document Images</title>
+		<year>1999</year>
+		<authors>Yaodong He,Zao Jiang,Bing Liu,Hong Zhao</authors>
+		<jconf>Proceedings of the Fifth International Conference on Document Analysis and Recognition</jconf>
+		<id>1694347</id>
+		<label>2</label>
+		<organization>Software Center, Northeast Univ. of Technol., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>Positive solutions of a nonlinear three-point boundary value problem</title>
+		<year>2002</year>
+		<authors>Bing Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1698629</id>
+		<label>17</label>
+		<organization>Department of Mathematics, Huazong University of Science and Technology, Wuhan 430074, People's Republic of China and Department of Mathematics, Hubei Normal University, Huangshi, Hubei 435002, People's Republic of China</organization>
+	</publication>
+</person>

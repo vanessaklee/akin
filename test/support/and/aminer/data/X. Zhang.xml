@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>78117</personID>
+	<FullName>X. Zhang</FullName>
+	<FirstName>X.</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>ACTIVE: agile coordinator testbed integrated virtual environment</title>
+		<year>2006</year>
+		<authors>G. Emami,J. Cheng,D. Cornwell,M. Feldhousen,C. Long,V. Malhotra,I. Starnes,Larry Kerschberg,Alexander Brodsky,X. Zhang</authors>
+		<jconf>AAMAS</jconf>
+		<id>55771</id>
+		<label>0</label>
+		<organization>University of Mass-Dartmouth, North Dartmouth, MA</organization>
+	</publication>
+	<publication>
+		<title>Repair of the Genetic Material in Biologically Inspired Embryonic-Cell-Based Systems</title>
+		<year>2004</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe</authors>
+		<jconf>ESA/VLSI</jconf>
+		<id>126016</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ontogenetic Cellular Hardware for Fault Tolerant Systems</title>
+		<year>2003</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe,Quan M. Zhu</authors>
+		<jconf>Embedded Systems and Applications</jconf>
+		<id>126017</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault Modelling and Co-Simulation in FlowFET-Based Biological Array Systems</title>
+		<year>2006</year>
+		<authors>Hans G. Kerkhoff,X. Zhang,R. W. Barber,D. R. Emerson</authors>
+		<jconf>DELTA</jconf>
+		<id>148718</id>
+		<label>2</label>
+		<organization>MESA, Inst. for Nanotechnology, Enschede, Netherlands</organization>
+	</publication>
+	<publication>
+		<title>A Reconfigurable Self-Healing Embryonic Cell Architecture</title>
+		<year>2003</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe,Nigel Gunton,Quan M. Zhu</authors>
+		<jconf>Engineering of Reconfigurable Systems and Algorithms</jconf>
+		<id>185310</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partial-DNA Supported Artificial-Life in an Embryonic Array</title>
+		<year>2004</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe,Quan M. Zhu</authors>
+		<jconf>ERSA</jconf>
+		<id>185311</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some Issues in a Functional Implementation of a Finite Element Algorithm</title>
+		<year>1993</year>
+		<authors>Philip W. Grant,J. A. Sharp,Michael F. Webster,X. Zhang</authors>
+		<jconf>FPCA</jconf>
+		<id>214178</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Artificial Innate Immune System: An Instant Defence Layer of Embryonics</title>
+		<year>2004</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe,Quan M. Zhu</authors>
+		<jconf>ICARIS</jconf>
+		<id>273348</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Motion-Compensating Long-Term Memory Prediction</title>
+		<year>1997</year>
+		<authors>Thomas Wiegand,X. Zhang,Bernd Girod</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322167</id>
+		<label>4</label>
+		<organization>Telecommun. Inst., Erlangen-Nurnberg Univ.</organization>
+	</publication>
+	<publication>
+		<title>Invariant Object Recognition by Shape Space Analysis</title>
+		<year>1998</year>
+		<authors>Jun Zhang,X. Zhang,Hamid Krim</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>322671</id>
+		<label>5</label>
+		<organization>Wisconsin Univ., Eau Claire, WI</organization>
+	</publication>
+	<publication>
+		<title>A Discrete-Time Queuing Analysis of the Wireless ATM Multiplexing System</title>
+		<year>2001</year>
+		<authors>Mustafa K. Mehmet Ali,X. Zhang,Jeremiah F. Hayes</authors>
+		<jconf>ICN (1)</jconf>
+		<id>336611</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonconservatice Schrodinger equations with unobserved Neumann B.C.: Global uniqueness and observability in one shot</title>
+		<year>2002</year>
+		<authors>Irena Lasiecka,Roberto Triggiani,X. Zhang</authors>
+		<jconf>Analysis and Optimization of Differential Systems</jconf>
+		<id>383059</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving Computational Fluid Dynamics Problems on Unstructured Grids with Distributed Parallel Processing</title>
+		<year>1995</year>
+		<authors>Philip W. Grant,Michael F. Webster,X. Zhang</authors>
+		<jconf>IRREGULAR</jconf>
+		<id>415032</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pulmonary Ct Image Analysis and Computer Aided Detection</title>
+		<year>2007</year>
+		<authors>Milan Sonka,Juerg Tschirren,S. Ukil,X. Zhang,Y. Xu,Joseph M. Reinhardt,E. J. van Beek,Geoffrey McLennan,Eric A. Hoffman</authors>
+		<jconf>ISBI</jconf>
+		<id>418071</id>
+		<label>8</label>
+		<organization>Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA</organization>
+	</publication>
+	<publication>
+		<title>Successive packing based interleaver design for turbo codes</title>
+		<year>2002</year>
+		<authors>X. Zhang,Yun Q. Shi,Hangjun Chen,Alexander M. Haimovich,Anthony Vetro,Huifang Sun</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>427444</id>
+		<label>9</label>
+		<organization>New Jersey Inst. of Technol., Newark, NJ</organization>
+	</publication>
+	<publication>
+		<title>FREEDOM-7: A High Fidelity Seven Axis Haptic Device with Application to Surgical Training</title>
+		<year>1997</year>
+		<authors>Vincent Hayward,P. Gregorio,Oliver R. Astley,Stephanie Greenish,Michel Doyon,L. Lessard,J. McDougall,I. Sinclair,S. Boelen,X. Chen,J.-G. Demers,J. Poulin,I. Benguigui,N. Almey,B. Makuc,X. Zhang</authors>
+		<jconf>ISER</jconf>
+		<id>434707</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Deep Submicron CMOS Integrated Circuit Reliability Simulation with SPICE</title>
+		<year>2005</year>
+		<authors>Xiaojun Li,Bing Huang,J. Qin,X. Zhang,Michael Talmor,Z. Gur,Joseph B. Bernstein</authors>
+		<jconf>ISQED</jconf>
+		<id>448062</id>
+		<label>12</label>
+		<organization>University of Maryland, College Park</organization>
+	</publication>
+	<publication>
+		<title>Mining Influential Association Rules</title>
+		<year>2002</year>
+		<authors>X. Zhang,Z. Chen,Q. Zhu</authors>
+		<jconf>JCIS</jconf>
+		<id>468506</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Simulation of a Multi-Dimensional Computational Fluid Dynamics Problem</title>
+		<year>1996</year>
+		<authors>Philip W. Grant,Michael F. Webster,X. Zhang</authors>
+		<jconf>PDP</jconf>
+		<id>534235</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Univ. of Wales, Swansea</organization>
+	</publication>
+	<publication>
+		<title>The MicroGrid: a Scientific Tool for Modeling Computational Grids</title>
+		<year>2000</year>
+		<authors>Hyo Jung Song,Xianan Liu,Dennis Jakobsen,Ranjita Bhagwan,Xingbin Zhang,Kenjiro Taura,Andrew A. Chien</authors>
+		<jconf>SC</jconf>
+		<id>575477</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Memory Rendezvous of Anonymous Mobile Agents in a Unidirectional Ring</title>
+		<year>2006</year>
+		<authors>Leszek Gasieniec,Evangelos Kranakis,Danny Krizanc,X. Zhang</authors>
+		<jconf>SOFSEM</jconf>
+		<id>611945</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bio-Inspired Reconfigurable Architecture for Reliable Systems</title>
+		<year>2003</year>
+		<authors>X. Zhang,Gabriel Dragffy,Anthony G. Pipe</authors>
+		<jconf>VLSI</jconf>
+		<id>644481</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stripe-Based Wavelet Transform and its Coding</title>
+		<year>2003</year>
+		<authors>X. Zhang,L. Cheng,K. Li</authors>
+		<jconf>WAA</jconf>
+		<id>650452</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impasse-Driven Learning in the Context of Video Games in Chinese Players</title>
+		<year>2009</year>
+		<authors>X. Zhang,X. Luo,F. C. Blumberg,Z. Shen,C. Su</authors>
+		<jconf>WKDD</jconf>
+		<id>713277</id>
+		<label>15</label>
+		<organization>Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Towards automated progress assessment of workpackage components in construction projects using computer vision</title>
+		<year>2009</year>
+		<authors>Y. M. Ibrahim,T. C. Lukins,X. Zhang,E. Trucco,A. P. Kaka</authors>
+		<jconf>Advanced Engineering Informatics</jconf>
+		<id>744040</id>
+		<label>18</label>
+		<organization>School of the Built Environment, University of Salford, M5 4WT, Salford, UK</organization>
+	</publication>
+	<publication>
+		<title>ORegAnno: an open access database and curation system for literature-derived promoters, transcription factor binding sites and regulatory variation</title>
+		<year>2006</year>
+		<authors>Stephen Montgomery,Obi L. Griffith,Monica C. Sleumer,Casey M. Bergman,Misha Bilenky,Erin Pleasance,Y. Prychyna,X. Zhang,Steven J. M. Jones</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>765121</id>
+		<label>17</label>
+		<organization>Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6</organization>
+	</publication>
+	<publication>
+		<title>Version Augmented URIs for Reference Permanence via an Apache Module Design</title>
+		<year>1998</year>
+		<authors>Jonathan Simonson,Daniel Berleant,X. Zhang,M. Xie,H. Vo</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795468</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of the matrix exponential function using finite elements in time</title>
+		<year>2008</year>
+		<authors>D. H. Gebremedhin,Charles A. Weatherford,X. Zhang,Albert Wynn III,Genzo Tanaka</authors>
+		<jconf>CoRR</jconf>
+		<id>829092</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient and Accurate Collision Detection for Granular Flow Simulation</title>
+		<year>1998</year>
+		<authors>Baba C. Vemuri,L. Chen,L. Vu-Quoc,X. Zhang,O. Walton</authors>
+		<jconf>Graphical Models and Image Processing</jconf>
+		<id>834591</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction</title>
+		<year>2008</year>
+		<authors>Gordon H. Huang,Christine W. Chan,X. Zhang</authors>
+		<jconf>International Journal of Software Engineering and Knowledge Engineering</jconf>
+		<id>921225</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sparse Matrix Representations in a Functional Language</title>
+		<year>1996</year>
+		<authors>Philip W. Grant,J. A. Sharp,Michael F. Webster,X. Zhang</authors>
+		<jconf>J. Funct. Program.</jconf>
+		<id>980875</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>cisRED: a database system for genome-scale computational discovery of regulatory elements</title>
+		<year>2006</year>
+		<authors>Gordon Robertson,Misha Bilenky,K. Lin,An He,W. Yuen,M. Dagpinar,Richard Varhol,Kevin Teague,Obi L. Griffith,X. Zhang,Y. Pan,Maik Hassel,Monica C. Sleumer,W. Pan,Erin Pleasance,M. Chuang,H. Hao,Yvonne Y. Li,Neil Robertson,C. Fjell,B. Li,Stephen Montgomery,Tamara Astakhova,Jianjun Zhou,Jorg Sander,Asim S. Siddiqui,Steven J. M. Jones</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1020897</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A performance analysis of a discrete-time queueing system with server interruption for modeling wireless ATM multiplexer</title>
+		<year>2003</year>
+		<authors>Mustafa K. Mehmet Ali,X. Zhang,Jeremiah F. Hayes</authors>
+		<jconf>Perform. Eval.</jconf>
+		<id>1036405</id>
+		<label>6</label>
+		<organization>Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8</organization>
+	</publication>
+	<publication>
+		<title>Object representation and recognition in shape spaces</title>
+		<year>2003</year>
+		<authors>Jun Zhang,X. Zhang,Hamid Krim,G. G. Walter</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042168</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experiences of Parallelising Finite-element Problems in a Functional Style</title>
+		<year>1995</year>
+		<authors>Philip W. Grant,J. A. Sharp,Michael F. Webster,X. Zhang</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1074127</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linear MMSE Space-Time Equalizer for MIMO Multicode CDMA Systems</title>
+		<year>2006</year>
+		<authors>B.-H. Kim,X. Zhang,M. Flury</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088274</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Noninvasive Three-Dimensional Cardiac Activation Imaging From Body Surface Potential Maps: A Computational and Experimental Study on a Rabbit Model</title>
+		<year>2008</year>
+		<authors>C. Han,Z. Liu,X. Zhang,S. Pogwizd,B. He</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1116148</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reduced Complexity Interpolation Architecture for Soft-Decision Reed#8211;Solomon Decoding</title>
+		<year>2006</year>
+		<authors>X. Zhang</authors>
+		<jconf>IEEE Trans. VLSI Syst.</jconf>
+		<id>1134770</id>
+		<label>26</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH</organization>
+	</publication>
+	<publication>
+		<title>A simulated annealing and hill-climbing algorithm for the traveling tournament problem</title>
+		<year>2006</year>
+		<authors>A. Lim,B. Rodrigues,X. Zhang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<id>1159346</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scheduling sports competitions at multiple venues - Revisited</title>
+		<year>2006</year>
+		<authors>A. Lim,B. Rodrigues,X. Zhang</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<id>1159444</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global asymptotic stabilization of feedforward nonlinear systems with a delay in the input</title>
+		<year>2006</year>
+		<authors>X. Zhang,H. Gao,C. Zhang</authors>
+		<jconf>Int. J. Systems Science</jconf>
+		<id>1173156</id>
+		<label>28</label>
+		<organization>Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Global stabilization of a class of time-delay nonlinear systems</title>
+		<year>2005</year>
+		<authors>X. Zhang,Z. Cheng</authors>
+		<jconf>Int. J. Systems Science</jconf>
+		<id>1173509</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Dimensionality Reduction by Locally Linear Inlaying</title>
+		<year>2009</year>
+		<authors>Y. Hou,P. Zhang,X. Xu,X. Zhang,W. Li</authors>
+		<jconf>IEEE Transactions on Neural Networks</jconf>
+		<id>1230515</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supporting Scalable and Distributed Data Subsetting and Aggregation in Large-Scale Seismic Data Analysis</title>
+		<year>2006</year>
+		<authors>X. Zhang,Benjamin Rutt,Umit V. Catalyurek,Tahsin M. Kurc,Paul L. Stoffa,Mrinal K. Sen,Joel H. Saltz</authors>
+		<jconf>IEEE/ACM Transactions on Networking (TON)</jconf>
+		<id>1295493</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of virtual reality in volumetric cellular visualization.</title>
+		<year>2004</year>
+		<authors>Y. Q. Guan,M. Opas,Y. Y. Cai,X. Zhang,Zhuo Wei Xiong,S. Wong,Y. T. Lee</authors>
+		<jconf>null</jconf>
+		<id>1316003</id>
+		<label>32</label>
+		<organization>University of Toronto, Canada</organization>
+	</publication>
+	<publication>
+		<title>Scaling of impervious surface area and vegetation as indicators to urban land surface temperature using satellite data</title>
+		<year>2009</year>
+		<authors>X. Zhang,T. Zhong,K. Wang,Z. Cheng</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1388991</id>
+		<label>29</label>
+		<organization>Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China</organization>
+	</publication>
+	<publication>
+		<title>Some intersection theorems and minimax inequalities</title>
+		<year>1997</year>
+		<authors>X. Zhang</authors>
+		<jconf>Journal of Optimization Theory and Applications</jconf>
+		<id>1408183</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sophisticated Information Gathering in a Marketplace of Information Providers</title>
+		<year>1999</year>
+		<authors>V. Lesser,B. Horling,A. Raja,T. Wagner,X. Zhang</authors>
+		<jconf>null</jconf>
+		<id>1427525</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The application of artificial neural networks in editing noisy seismic data</title>
+		<year>1994</year>
+		<authors>X. Zhang,Y. Li</authors>
+		<jconf>Soft computing: fuzzy logic, neural networks, and distributed artificial intelligence</jconf>
+		<id>1506853</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Internet based virtual exhibition system: conceptual design and infrastructure</title>
+		<year>1998</year>
+		<authors>C. J. Su,Benjamin P.-C. Yen,X. Zhang</authors>
+		<jconf>Computers and Industrial Engineering</jconf>
+		<id>1547430</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evolvable view environment (EVE): non-equivalent view maintenance under schema changes</title>
+		<year>1999</year>
+		<authors>E. A. Rundensteiner,A. Koeller,X. Zhang,A. J. Lee,A. Nica,A. Van Wyk,Y. Lee</authors>
+		<jconf>Proceedings of the 1999 ACM SIGMOD international conference on Management of data</jconf>
+		<id>1548902</id>
+		<label>33</label>
+		<organization>Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA</organization>
+	</publication>
+	<publication>
+		<title>An accurate tangential force-displacement model for granular-flow simulations: contacting spheres with plastic deformation, force-driven formulation</title>
+		<year>2004</year>
+		<authors>L. Vu-Quoc,L. Lesburg,X. Zhang</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1564566</id>
+		<label>22</label>
+		<organization>Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL</organization>
+	</publication>
+	<publication>
+		<title>Exact controllability of semilinear evolution systems and its application</title>
+		<year>2000</year>
+		<authors>X. Zhang</authors>
+		<jconf>Journal of Optimization Theory and Applications</jconf>
+		<id>1566268</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The MicroGrid: a scientific tool for modeling computational gridsr</title>
+		<year>2000</year>
+		<authors>H. J. Song,X. Liu,D. Jakobsen,R. Bhagwan,X. Zhang,K. Taura,A. Chien</authors>
+		<jconf>Proceedings of the 2000 ACM/IEEE conference on Supercomputing (CDROM)</jconf>
+		<id>1570895</id>
+		<label>13</label>
+		<organization>Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas</organization>
+	</publication>
+	<publication>
+		<title>An approximate model of residual stress in injected molded parts</title>
+		<year>2001</year>
+		<authors>X. Zhang,V. R. Voller,K. A. Stelson,M. Bhattacharya,X. Cheng,A. Sen</authors>
+		<jconf>Finite elements: techniques and developments</jconf>
+		<id>1574270</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic image-to-site model registration</title>
+		<year>1996</year>
+		<authors>X. Zhang</authors>
+		<jconf>Proceedings of the Acoustics, Speech, and Signal Processing, 1996. on Conference Proceedings., 1996 IEEE International Conference - Volume 04</jconf>
+		<id>1604020</id>
+		<label>12</label>
+		<organization>Comput. Vision Lab., Maryland Univ., College Park, MD, USA</organization>
+	</publication>
+	<publication>
+		<title>Protein structure prediction by a data-level parallel algorithm</title>
+		<year>1989</year>
+		<authors>X. Zhang,D. Waltz,J. P. Mesirov</authors>
+		<jconf>Proceedings of the 1989 ACM/IEEE conference on Supercomputing</jconf>
+		<id>1646498</id>
+		<label>39</label>
+		<organization>Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA</organization>
+	</publication>
+	<publication>
+		<title>Efficient final placement based on nets-as-points</title>
+		<year>1989</year>
+		<authors>X. Zhang,T. L. Pillage,R. A. Rohrer</authors>
+		<jconf>Proceedings of the 26th ACM/IEEE Design Automation Conference</jconf>
+		<id>1648713</id>
+		<label>38</label>
+		<organization>Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Distorted-wave born approximation for the ionisation of hydrogen by electrons</title>
+		<year>1990</year>
+		<authors>I. E. McCarthy,X. Zhang</authors>
+		<jconf>Australian Journal of Physics</jconf>
+		<id>1675633</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stress in thermally annealed parylene films</title>
+		<year>1992</year>
+		<authors>S. Dabral,J. Van Etten,X. Zhang,C. Apblett,G.-R. Yang,P. Ficalora,J. F. McDonald</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1676186</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A High Accuracy Printed Traditional and Simplified Chinese Character Document Recognition System</title>
+		<year>1995</year>
+		<authors>X. Zhang,L. Shen,X. Liu,Y. Li,C. D. Yan</authors>
+		<jconf>Proceedings of the Third International Conference on Document Analysis and Recognition (Volume 2) - Volume 2</jconf>
+		<id>1691559</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A dependable microelectronic peptide synthesizer using electrode data</title>
+		<year>2008</year>
+		<authors>H. G. Kerkhoff,X. Zhang,F. Mailly,P. Nouet,H. Liu,A. Richardson</authors>
+		<jconf>VLSI Design</jconf>
+		<id>1748132</id>
+		<label>2</label>
+		<organization>Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands</organization>
+	</publication>
+</person>

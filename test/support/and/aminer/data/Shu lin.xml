@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>26102</personID>
+	<FullName>Shu Lin</FullName>
+	<FirstName>Shu</FirstName>
+	<LastName>Lin</LastName>
+	<publication>
+		<title>A Class of Low-Density Parity-Check Codes Constructed Based on Reed-Solomon Codes with Two Information Symbols</title>
+		<year>2003</year>
+		<authors>Ivana Djurdjevic,Jun Xu,Khaled A. S. Abdel-Ghaffar,Shu Lin</authors>
+		<jconf>AAECC</jconf>
+		<id>16653</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>New Constructions of Quasi-cyclic LDPC Codes Based on Two Classes of Balanced Incomplete Block Designs: For AWGN and Binary Erasure Channels</title>
+		<year>2006</year>
+		<authors>Lan Lan,Ying Yu Tai,Shu Lin,Behshad Memari,Bahram Honary</authors>
+		<jconf>AAECC</jconf>
+		<id>16784</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Constructions of Quasi-cyclic LDPC Codes - Part I: For AWGN and Binary Random Erasure Channels</title>
+		<year>2006</year>
+		<authors>Lan Lan,Lingqi Zeng,Ying Yu Tai,Lei Chen,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>AAECC</jconf>
+		<id>16785</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some Results on Linear Unequal-Error-Protection Codes Specified by their Generator Matrix</title>
+		<year>1991</year>
+		<authors>Robert Morelos-Zaragoza,Shu Lin</authors>
+		<jconf>AAECC</jconf>
+		<id>16831</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Construction of Quasi-cyclic LDPC Codes - Part II: For AWGN and Binary Random and Burst Erasure Channels</title>
+		<year>2006</year>
+		<authors>Ying Yu Tai,Lingqi Zeng,Lan Lan,Shumei Song,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>AAECC</jconf>
+		<id>16932</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impact of Manufacturing Practices on Adoption of Plant Information Systems</title>
+		<year>2003</year>
+		<authors>Rajiv D. Banker,Indranil Bardhan,Hsihui Chang,Shu Lin</authors>
+		<jconf>ICIS</jconf>
+		<id>326310</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low-complexity and high-performance multilevel coded modulation for the AWGN and Rayleigh fading channels</title>
+		<year>1993</year>
+		<authors>Shu Lin,Sandeep Rajpal,Dojun Rhee</authors>
+		<jconf>Information Theory and Applications</jconf>
+		<id>453476</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Similarity queries in the DISIMA image DBMS</title>
+		<year>2001</year>
+		<authors>Vincent Oria,M. Tamer Ozsu,Shu Lin,Paul Iglinski</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502699</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DISIMA: A Distributed and Interoperable Image Database System</title>
+		<year>2000</year>
+		<authors>Vincent Oria,M. Tamer Ozsu,Paul Iglinski,Shu Lin,Benjamin Bin Yao</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599470</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Extendible Hash for Multi-Precision Similarity Querying of Image Databases</title>
+		<year>2001</year>
+		<authors>Shu Lin,M. Tamer Ozsu,Vincent Oria,Raymond T. Ng</authors>
+		<jconf>VLDB</jconf>
+		<id>643461</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of High Performance and Efficiently Encodable Nonbinary Quasi-Cyclic LDPC Codes</title>
+		<year>2006</year>
+		<authors>Bo Zhou,Ying Yu Tai,Lan Lan,Shumei Song,Lingqi Zeng,Shu Lin</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>703183</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cyclic Codes for Correcting Bursts of Errors or Erasures With Iterative Decoding</title>
+		<year>2006</year>
+		<authors>Shumei Song,Shu Lin,Khaled A. S. Abdel-Ghaffar,Zhi Ding,Marc P. C. Fossorier</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>703217</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Two-Stage Iterative Decoding of LDPC Codes for Lowering Error Floors</title>
+		<year>2008</year>
+		<authors>Jingyu Kang,Li Zhang,Zhi Ding,Shu Lin</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705660</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>Block coded modulation and concatenated coding schemes for error control on fading channels</title>
+		<year>1991</year>
+		<authors>Branka Vucetic,Shu Lin</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>839180</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Codes with multi-level error-correcting capabilities</title>
+		<year>1990</year>
+		<authors>Mao Chao Lin,Shu Lin</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>852736</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Long BCH Codes Are Bad</title>
+		<year>1967</year>
+		<authors>Shu Lin,E. J. Weldon Jr</authors>
+		<jconf>Information and Control</jconf>
+		<id>888746</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improvement to Multifold Euclidean Geometry Codes</title>
+		<year>1975</year>
+		<authors>Shu Lin,Kai-Ping Yiu</authors>
+		<jconf>Information and Control</jconf>
+		<id>888748</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Class of One-Step Majority-Logic Decodable Cyclic Codes</title>
+		<year>1980</year>
+		<authors>Shu Lin,George Markowsky</authors>
+		<jconf>IBM Journal of Research and Development</jconf>
+		<id>890573</id>
+		<label>0</label>
+		<organization>IBM Thomas J. Watson Research Center, Yorktown Heights, New York, USA</organization>
+	</publication>
+	<publication>
+		<title>Near-Shannon-limit quasi-cyclic low-density parity-check codes</title>
+		<year>2004</year>
+		<authors>Lei Chen,Jun Xu,Ivana Djurdjevic,Shu Lin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087222</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Efficient Encoding of Quasi-Cyclic Low-Density Parity-Check Codes</title>
+		<year>2005</year>
+		<authors>Zongwang Li,Lei Chen,Lingqi Zeng,Shu Lin,Wai H. Fong</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087408</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient encoding of quasi-cyclic low-density parity-check codes</title>
+		<year>2006</year>
+		<authors>Zongwang Li,Lei Chen,Lingqi Zeng,Shu Lin,Wai H. Fong</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087525</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Turbo encoding and decoding of Reed-Solomon codes through binary decomposition and self-concatenation</title>
+		<year>2004</year>
+		<authors>Cathy Ye Liu,Shu Lin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087582</id>
+		<label>0</label>
+		<organization>LSI Logic Corp., Milpitas, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Construction of low-density parity-check codes by superposition</title>
+		<year>2005</year>
+		<authors>Jun Xu,Lei Chen,Lingqi Zeng,Lan Lan,Shu Lin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087916</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>New Constructions of Quasi-Cyclic LDPC Codes Based on Special Classes of BIBDs for the AWGN and Binary Erasure Channels</title>
+		<year>2007</year>
+		<authors>Lan Lan,Ying Yu Tai,Shu Lin,Behshad Memari,Bahram Honary</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088389</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Algebraic Construction of Quasi-Cyclic LDPC Codes for the AWGN and Erasure Channels</title>
+		<year>2006</year>
+		<authors>Ying Yu Tai,Lan Lan,Lingqi Zeng,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088410</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New constructions of quasi-cyclic LDPC codes based on special classes of BIDBs for the AWGN and binary erasure channels</title>
+		<year>2008</year>
+		<authors>Lan Lan,Ying Yu Tai,Shu Lin,Behshad Memari,Bahram Honary</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088418</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transactions Papers - Constructions of Nonbinary Quasi-Cyclic LDPC Codes: A Finite Field Approach</title>
+		<year>2008</year>
+		<authors>Lingqi Zeng,Lan Lan,Ying Yu Tai,Shumei Song,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088463</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of nonbinary cyclic, quasi-cyclic and regular LDPC codes: a finite geometry approach</title>
+		<year>2008</year>
+		<authors>Lingqi Zeng,Lan Lan,Ying Yu Tai,Bo Zhou,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088525</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of Low-Density Parity-Check Codes Based on Balanced Incomplete Block Designs</title>
+		<year>2004</year>
+		<authors>Bassem Ammar,Bahram Honary,Yu Kou,Jun Xu,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1103951</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Error and erasure control (d, k) block codes</title>
+		<year>1991</year>
+		<authors>Hendrik C. Ferreira,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105570</id>
+		<label>0</label>
+		<organization>Lab. for Cybern., Rand Afrikaans Univ., Johannesburg</organization>
+	</publication>
+	<publication>
+		<title>Differential trellis decoding of convolutional codes</title>
+		<year>2000</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105643</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Error performance analysis for reliability-based decoding algorithms</title>
+		<year>2002</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105644</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>Soft-decision decoding of linear block codes based on ordered statistics</title>
+		<year>1995</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105645</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Correction to 'Soft decision decoding of linear block codes based on ordered statistics' (Sep 95 1379-1396)</title>
+		<year>1996</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105646</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computationally efficient soft-decision decoding of linear block codes based on ordered statistics</title>
+		<year>1996</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105647</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>First-order approximation of the ordered binary-symmetric channel</title>
+		<year>1996</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105648</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>Weight distribution for closest coset decoding of |u|u+v| constructed codes</title>
+		<year>1997</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105649</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Complementary reliability-based decodings of binary linear block codes</title>
+		<year>1997</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105650</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some decomposable codes: the |a+x|b+x|a+b+x| construction</title>
+		<year>1997</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105651</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Unified Method for Evaluating the Error-Correction Radius of Reliability-Based Soft-Decision Algorithms for Linear Block Codes</title>
+		<year>1998</year>
+		<authors>Marc P. C. Fossorier,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105652</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the weight distribution of terminated convolutional codes</title>
+		<year>1999</year>
+		<authors>Marc P. C. Fossorier,Shu Lin,Daniel J. Costello Jr</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105653</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bit-Error Probability for Maximum-Likelihood Decoding of Linear Block Codes and Related Soft-Decision Decoding Methods</title>
+		<year>1998</year>
+		<authors>Marc P. C. Fossorier,Shu Lin,Dojun Rhee</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105654</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>Reliability-Based Syndrome Decoding of Linear Block Codes</title>
+		<year>1998</year>
+		<authors>Marc P. C. Fossorier,Shu Lin,Jakov Snyders</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105655</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An approximation to the weight distribution of binary primitive BCH codes with designed distances 9 and 11</title>
+		<year>1986</year>
+		<authors>Toru Fujiwara,Toyoo Takata,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105736</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Trellis-Based Recursive Maximum-Likelihood Decoding Algorithm for Binary Linear Block Codes</title>
+		<year>1998</year>
+		<authors>Toru Fujiwara,Hiroshi Yamamoto,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1105738</id>
+		<label>0</label>
+		<organization>Graduate Sch. of Eng. Sci., Osaka Univ.</organization>
+	</publication>
+	<publication>
+		<title>Coding for the binary symmetric broadcast channel with two receivers</title>
+		<year>1985</year>
+		<authors>Tadao Kasami,Shu Lin,Victor K.-W. Wei,Saburo Yamamura</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106651</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On linear structure and phase rotation invariant properties of block M-PSK modulation codes</title>
+		<year>1991</year>
+		<authors>Tadao Kasami,Toyoo Takata,Toru Fujiwara,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106653</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On multilevel block modulation codes</title>
+		<year>1991</year>
+		<authors>Tadao Kasami,Toyoo Takata,Toru Fujiwara,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106655</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the optimum bit orders with respect to the state complexity of trellis diagrams for binary linear codes</title>
+		<year>1993</year>
+		<authors>Tadao Kasami,Toyoo Takata,Toru Fujiwara,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106657</id>
+		<label>0</label>
+		<organization>Dept. of Inf. & Comput. Sci., Osaka Univ.</organization>
+	</publication>
+	<publication>
+		<title>Linear block codes for error detection</title>
+		<year>1983</year>
+		<authors>Tadao Kasami,Torleiv Klove,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106659</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On complexity of trellis structure of linear block codes</title>
+		<year>1993</year>
+		<authors>Tadao Kasami,Toyoo Takata,Toru Fujiwara,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106662</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Graph theoretic approaches to the code construction for the two-user multiple- access binary adder channel</title>
+		<year>1983</year>
+		<authors>Tadao Kasami,Shu Lin,Victor K.-W. Wei,Saburo Yamamura</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106728</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An approximation to the weight distribution of binary linear codes</title>
+		<year>1985</year>
+		<authors>Tadao Kasami,Toru Fujiwara,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106784</id>
+		<label>0</label>
+		<organization>Univ. of Hawaii at Manoa, Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>A cascaded coding scheme for error control and its performance analysis</title>
+		<year>1988</year>
+		<authors>Tadao Kasami,Toru Fujiwara,Toyoo Takata,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106786</id>
+		<label>0</label>
+		<organization>Dept. of Inf. & Comput. Sci., Osaka Univ.</organization>
+	</publication>
+	<publication>
+		<title>Low-density parity-check codes based on finite geometries: A rediscovery and new results</title>
+		<year>2001</year>
+		<authors>Yu Kou,Shu Lin,Marc P. C. Fossorier</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106962</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., California Univ., Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>A Low-Weight Trellis-Based Iterative Soft-Decision Decoding Algorithm for Binary Linear Block Codes</title>
+		<year>1999</year>
+		<authors>Takuya Koumoto,Toyoo Takata,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106967</id>
+		<label>0</label>
+		<organization>Graduate Sch. of Inf. Sci., Nara Inst. of Sci. & Technol.</organization>
+	</publication>
+	<publication>
+		<title>Cyclic unequal error protection codes constructed from cyclic codes of composite length</title>
+		<year>1988</year>
+		<authors>Mao Chao Lin,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107252</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computer search for binary cyclic UEP codes of odd length up to 65</title>
+		<year>1990</year>
+		<authors>Mao Chao Lin,Chi-Chang Lin,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107256</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Nat. Taiwan Univ., Taipei</organization>
+	</publication>
+	<publication>
+		<title>Nonhomogeneous Trellis codes for the Quasi-Synchronous Multiple-Access Binary adder channel with Two Users</title>
+		<year>1986</year>
+		<authors>Shu Lin,Victor K.-W. Wei</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107268</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Soft-decision decoding of binary linear block codes based on an iterative search algorithm</title>
+		<year>1997</year>
+		<authors>H. T. Moorthy,Shu Lin,Tadao Kasami</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107737</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructions of Generalized Concatenated Codes and Their Trellis-Based Decoding Complexity</title>
+		<year>1999</year>
+		<authors>Robert Morelos-Zaragoza,Toru Fujiwara,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107741</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a class of optimal nonbinary linear unequal-error-protection codes for two sets of messages</title>
+		<year>1994</year>
+		<authors>Robert Morelos-Zaragoza,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107742</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>QPSK block-modulation codes for unequal error protection</title>
+		<year>1995</year>
+		<authors>Robert Morelos-Zaragoza,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107743</id>
+		<label>0</label>
+		<organization>Fac. of Eng., Osaka Univ.</organization>
+	</publication>
+	<publication>
+		<title>On primitive BCH codes with unequal error protection capabilities</title>
+		<year>1995</year>
+		<authors>Robert Morelos-Zaragoza,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107744</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multistage decoding of multilevel block M-PSK modulation codes and its performance analysis</title>
+		<year>1993</year>
+		<authors>Toyoo Takata,Satoshi Ujita,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1108984</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Suboptimum decoding of decomposable block codes</title>
+		<year>1994</year>
+		<authors>Toyoo Takata,Y. Yamashita,Toru Fujiwara,Tadao Kasami,Shu Lin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1108985</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Algebraic Construction of Gallager and Circulant Low-Density Parity-Check Codes</title>
+		<year>2004</year>
+		<authors>Heng Tang,Jun Xu,Yu Kou,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109012</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Codes on finite geometries</title>
+		<year>2005</year>
+		<authors>Heng Tang,Jun Xu,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109013</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Construction of Regular and Irregular LDPC Codes: Geometry Decomposition and Masking</title>
+		<year>2007</year>
+		<authors>Jun Xu,Lei Chen,Ivana Djurdjevic,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1110111</id>
+		<label>0</label>
+		<organization>Marvell Semicond., Sunnyvale, CA</organization>
+	</publication>
+	<publication>
+		<title>Construction of Quasi-Cyclic LDPC Codes for AWGN and Binary Erasure Channels: A Finite Field Approach</title>
+		<year>2007</year>
+		<authors>Lan Lan,Lingqi Zeng,Ying Yu Tai,Lei Chen,Shu Lin,Khaled A. S. Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1110375</id>
+		<label>0</label>
+		<organization>Keyeye Commun., Sacramento</organization>
+	</publication>
+	<publication>
+		<title>Accelerating FPGA-based emulation of quasi-cyclic LDPC codes with vector processing</title>
+		<year>2009</year>
+		<authors>Xiaoheng Chen,Jingyu Kang,Shu Lin,Venkatesh Akella</authors>
+		<jconf>DATE</jconf>
+		<id>1241314</id>
+		<label>0</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>A unified approach to the construction of binary and nonbinary quasi-cyclic LDPC codes based on finite fields</title>
+		<year>2009</year>
+		<authors>Shumei Song,Bo Zhou,Shu Lin,Khaled Abdel-Ghaffar</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1364755</id>
+		<label>0</label>
+		<organization>Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>High performance non-binary quasi-cyclic LDPC codes on euclidean geometries</title>
+		<year>2009</year>
+		<authors>Bo Zhou,Jingyu Kang,Ying Yu Tai,Shu Lin,Zhi Ding</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1364882</id>
+		<label>0</label>
+		<organization>Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA</organization>
+	</publication>
+	<publication>
+		<title>Trellises and Trellis-Based Decoding Algorithms for Linear Block Codes</title>
+		<year>1998</year>
+		<authors>Shu Lin,Tadao Kasami,Marc Fossorier</authors>
+		<jconf>null</jconf>
+		<id>1535626</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DISIMA: a distributed and interoperable image database system</title>
+		<year>2000</year>
+		<authors>Vincent Oria,M. Tamer Özsu,Paul J. Iglinski,Shu Lin,Bin Yao</authors>
+		<jconf>ACM SIGMOD Record</jconf>
+		<id>1550339</id>
+		<label>0</label>
+		<organization>Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada</organization>
+	</publication>
+	<publication>
+		<title>Error Control Coding, Second Edition</title>
+		<year>2004</year>
+		<authors>Shu Lin,Daniel J. Costello</authors>
+		<jconf>null</jconf>
+		<id>1558189</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

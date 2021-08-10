@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>30281</personID>
+	<FullName>Kai Zhang</FullName>
+	<FirstName>Kai</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>Hierarchical Stereo Matching: From Foreground to Background</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Wang Yuzhou,Guoping Wang</authors>
+		<jconf>ACIVS</jconf>
+		<id>19577</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-Media Retrieval with Semantic Web: A Case Study in Airport Security Inspection Applications</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Lejian Liao,Yuanda Cao,Liehuang Zhu</authors>
+		<jconf>AMT</jconf>
+		<id>41172</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, Beijing Institute of Technology, 100081</organization>
+	</publication>
+	<publication>
+		<title>A Method for Evaluating Upper Bound of Simultaneous Switching Gates Using Circuit Partition</title>
+		<year>1999</year>
+		<authors>Kai Zhang,Tsuyoshi Shinogi,Haruhiko Takase,Terumine Hayashi</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>53240</id>
+		<label>3</label>
+		<organization>Dept. of Electr. & Electron. Eng., Mie Univ., Tsu</organization>
+	</publication>
+	<publication>
+		<title>Graph Theory Application in Cell Nuleus Segmentation, Tracking and Identification</title>
+		<year>2007</year>
+		<authors>Lelin Zhang,Hongkai Xiong,Kai Zhang,Xiaobo Zhou</authors>
+		<jconf>BIBE</jconf>
+		<id>63552</id>
+		<label>4</label>
+		<organization>Shanghai Jiao Tong Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>A Simulation-Based 3D Axon Axis Extraction in Confocal Fluorescence Microscopy Images</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Hongkai Xiong,Xiaobo Zhou</authors>
+		<jconf>BIBE</jconf>
+		<id>63634</id>
+		<label>4</label>
+		<organization>Shanghai Jiao Tong Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Stereo Matching and 3-D Reconstruction for Optic Disk Images</title>
+		<year>2005</year>
+		<authors>Kai Zhang,Xu Xi,Zhang Li,Guoping Wang</authors>
+		<jconf>CVBIA</jconf>
+		<id>127329</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applying Neighborhood Consistency for Fast Clustering and Kernel Density Estimation</title>
+		<year>2005</year>
+		<authors>Kai Zhang,Ming Tang,James T. Kwok</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129668</id>
+		<label>7</label>
+		<organization>University of Science and Technology - Kowloon</organization>
+	</publication>
+	<publication>
+		<title>The 2nd Order Analysis of IDDQ Test Data</title>
+		<year>2000</year>
+		<authors>Shengli Li,Kai Zhang,Jien-Chung Lo</authors>
+		<jconf>DFT</jconf>
+		<id>153503</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Accelerated Convergence Using Dynamic Mean Shift</title>
+		<year>2006</year>
+		<authors>Kai Zhang,James T. Kwok,Ming Tang</authors>
+		<jconf>ECCV (2)</jconf>
+		<id>169532</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple Viewpoints Based Ontology Integration</title>
+		<year>2003</year>
+		<authors>Kai Zhang,Yunfa Hu,Yu Wang</authors>
+		<jconf>GCC (2)</jconf>
+		<id>224185</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Queuing Analysis on MIMO Systems with Adaptive Modulation and Coding</title>
+		<year>2008</year>
+		<authors>Sheng Zhou,Kai Zhang,Zhisheng Niu,Yang Yang</authors>
+		<jconf>ICC</jconf>
+		<id>276430</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiuser MIMO Downlink Transmission Over Time-Varying Channels</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>ICC</jconf>
+		<id>277799</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Impact of Carrier Frequency Offsets in OFDM/SDMA Systems</title>
+		<year>2007</year>
+		<authors>Sheng Zhou,Kai Zhang,Zhisheng Niu</authors>
+		<jconf>ICC</jconf>
+		<id>277879</id>
+		<label>10</label>
+		<organization>Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A 3D Self-Adjust Region Growing Method for Axon Extraction</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Hongkai Xiong,Xiaobo Zhou,Stephen Wong</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>324741</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Block-quantized kernel matrix for fast spectral embedding</title>
+		<year>2006</year>
+		<authors>Kai Zhang,James T. Kwok</authors>
+		<jconf>ICML</jconf>
+		<id>336036</id>
+		<label>7</label>
+		<organization>The Hong Kong University of Science and Technology, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Maximum margin clustering made practical</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Ivor W. Tsang,James T. Kwok</authors>
+		<jconf>ICML</jconf>
+		<id>336151</id>
+		<label>7</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Improved Nystrouml;m low-rank approximation and error analysis</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Ivor W. Tsang,James T. Kwok</authors>
+		<jconf>ICML</jconf>
+		<id>336162</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Wordnet-Based Approach to Feature Selection in Text Categorization</title>
+		<year>2004</year>
+		<authors>Kai Zhang,Jian Sun,Bin Wang</authors>
+		<jconf>Intelligent Information Processing</jconf>
+		<id>379183</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A high SFDR direct digital synthesizer with frequency error free output</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Xinming Huang</authors>
+		<jconf>ISCAS</jconf>
+		<id>431403</id>
+		<label>13</label>
+		<organization>Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA</organization>
+	</publication>
+	<publication>
+		<title>Improved Learning Algorithm Based on Generalized SOM for Dynamic Non-linear System</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Gen-Zhi Guan,Fang-Fang Chen,Lin Zhang,Zhi-Ye Du</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>443193</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compilation and Runtime-Optimizations for Software Distributed Shared Memory</title>
+		<year>2000</year>
+		<authors>Kai Zhang,John M. Mellor-Crummey,Robert J. Fowler</authors>
+		<jconf>LCR</jconf>
+		<id>483531</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Coarse-to-Fine Adaptation Segmentation Approach for Cellular Image Analysis</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Hongkai Xiong,Lei Yang,Xiaobo Zhou</authors>
+		<jconf>MMM (1)</jconf>
+		<id>504791</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simplifying Mixture Models through Function Approximation</title>
+		<year>2006</year>
+		<authors>Kai Zhang,James T. Kwok</authors>
+		<jconf>NIPS</jconf>
+		<id>517718</id>
+		<label>7</label>
+		<organization>Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Metal Powder Laser Forming System</title>
+		<year>2006</year>
+		<authors>Fei Xing,Weijun Liu,Kai Zhang,Xiaofeng Shang,Tianran Wang</authors>
+		<jconf>PROLAMAT</jconf>
+		<id>553524</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Advanced medical collaborative technologies - Extending interactivity in grid collaboration tools for long distance biomedical training and research</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Wei-Li Liu</authors>
+		<jconf>SC</jconf>
+		<id>575685</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Software Defect Fractal Description</title>
+		<year>2006</year>
+		<authors>Kai Zhang</authors>
+		<jconf>SEDE</jconf>
+		<id>581419</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A topical PageRank based algorithm for recommender systems</title>
+		<year>2008</year>
+		<authors>Liyan Zhang,Kai Zhang,Chunping Li</authors>
+		<jconf>SIGIR</jconf>
+		<id>596271</id>
+		<label>20</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Heuristics for Solving Probabilistic Interval Algebra Networks</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Andre Trudel</authors>
+		<jconf>TIME</jconf>
+		<id>628546</id>
+		<label>14</label>
+		<organization>Acadia University, Canada</organization>
+	</publication>
+	<publication>
+		<title>Board Forum Crawling: A Web Crawling Method for Web Forum</title>
+		<year>2006</year>
+		<authors>Yan Guo,Kui Li,Kai Zhang,Gang Zhang</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655294</id>
+		<label>21</label>
+		<organization>Software Division, ICT, CAS</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Orthonormal Random Beamforming for Cellular Downlink with Multiple Antennas</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>703906</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining common topics from multiple asynchronous text streams</title>
+		<year>2009</year>
+		<authors>Xiang Wang,Kai Zhang,Xiaoming Jin,Dou Shen</authors>
+		<jconf>WSDM</jconf>
+		<id>710468</id>
+		<label>20</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Methodology for Mode Selection in MIMO-OFDM System</title>
+		<year>2008</year>
+		<authors>Peter W. C. Chan,Z. G. Pan,Xueyuan Zhao,C. M. Lo,Kai Zhang,Derek C. K. Lee</authors>
+		<jconf>WCNC</jconf>
+		<id>734814</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Studies on some perfectly matched layers for one-dimensional time-dependent systems</title>
+		<year>2009</year>
+		<authors>Yanping Lin,Kai Zhang,Jun Zou</authors>
+		<jconf>Adv. Comput. Math.</jconf>
+		<id>742822</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Locating object contours in complex background using improved snakes</title>
+		<year>2007</year>
+		<authors>Frank Y. Shih,Kai Zhang</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835595</id>
+		<label>9</label>
+		<organization>Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Receive Antenna Selection for Orthogonal Space-Time Block Codes with Imperfect Channel Estimation</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>895754</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interference Suppression for Block Diagonalization MIMO Downlink Systems over Time-Varying Channels</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>895759</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Orthonormal Random Beamforming and Multi-Beam Selection for Cellular Systems</title>
+		<year>2007</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>896044</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Joint Transmit Rate, Power and Antenna Allocation for MIMO Systems with Multimedia Traffic</title>
+		<year>2006</year>
+		<authors>Kai Zhang,Zhisheng Niu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898417</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A fast approximate algorithm for training L1-SVMs in primal space</title>
+		<year>2007</year>
+		<authors>Lei Wang,Shixin Sun,Kai Zhang</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>917784</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Contour Detection Based On Improved Snake Model</title>
+		<year>2004</year>
+		<authors>Frank Y. Shih,Kai Zhang</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919342</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Inter-Frame Interpolation By Snake Model And Greedy Algorithm</title>
+		<year>2004</year>
+		<authors>Frank Y. Shih,Kai Zhang</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919347</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Support vector machine networks for multi-class classification</title>
+		<year>2005</year>
+		<authors>Frank Y. Shih,Kai Zhang</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919352</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Two-Phase Algorithm For Face Recognition</title>
+		<year>2004</year>
+		<authors>Frank Y. Shih,Kai Zhang,Yan-Yu Fu</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919357</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A hierarchical refinement algorithm for fully automatic gridding in spotted DNA microarray image processing</title>
+		<year>2007</year>
+		<authors>Yu Wang,Marc Q. Ma,Kai Zhang,Frank Y. Shih</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>942486</id>
+		<label>9</label>
+		<organization>Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA</organization>
+	</publication>
+	<publication>
+		<title>A distance-based separator representation for pattern classification</title>
+		<year>2008</year>
+		<authors>Frank Y. Shih,Kai Zhang</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947750</id>
+		<label>9</label>
+		<organization>Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States</organization>
+	</publication>
+	<publication>
+		<title>A Block Coprocessor for User Data Rate Improvements to GPRS Coding Scheme 4</title>
+		<year>2007</year>
+		<authors>R. Simon Sherratt,Kai Zhang,Owen J. Wilkes</authors>
+		<jconf>Journal of Circuits, Systems, and Computers</jconf>
+		<id>971057</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ELB-Q: A New Method for Improving the Robustness in DNA Microarray Image Quantification</title>
+		<year>2007</year>
+		<authors>Marc Q. Ma,Kai Zhang,Hui-Yun Wang,Frank Y. Shih</authors>
+		<jconf>IEEE Transactions on Information Technology in Biomedicine</jconf>
+		<id>1111583</id>
+		<label>9</label>
+		<organization>New Jersey Inst. of Technol., Newark</organization>
+	</publication>
+	<publication>
+		<title>Domain decomposition methods for linear and semilinear elliptic stochastic partial differential equations</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Ran Zhang,Yunguang Yin,Shi Yu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147315</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pricing options under jump diffusion processes with fitted finite volume method</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Song Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147857</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving CS-4 User Data Rate in GPRS Enabled Devices by Using a BLER Co-processor</title>
+		<year>2006</year>
+		<authors>R. Simon Sherratt,Kai Zhang,Owen J. Wilkes</authors>
+		<jconf>IJWIN</jconf>
+		<id>1183874</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chaos inducement and Enhancement in Two Particular Nonlinear Maps Using Weak Periodic/quasiperiodic Perturbations</title>
+		<year>2006</year>
+		<authors>Jie Zhang,Michael Small,Kai Zhang</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1193545</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prototype vector machine for large scale semi-supervised learning</title>
+		<year>2009</year>
+		<authors>Kai Zhang,James T. Kwok,Bahram Parvin</authors>
+		<jconf>ICML</jconf>
+		<id>1210353</id>
+		<label>7</label>
+		<organization>Lawrence Berkeley National Laboratory, Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>An Area-Efficient LDPC Decoder Architecture and Implementation for CMMB Systems</title>
+		<year>2009</year>
+		<authors>Kai Zhang,Xinming Huang,Zhongfeng Wang</authors>
+		<jconf>ASAP</jconf>
+		<id>1237804</id>
+		<label>13</label>
+		<organization>Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Soft decoder architecture of LT codes</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Xinming Huang,Chen Shen</authors>
+		<jconf>Genomics, Proteomics & Bioinformatics</jconf>
+		<id>1262129</id>
+		<label>13</label>
+		<organization>Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA</organization>
+	</publication>
+	<publication>
+		<title>High-throughput layered decoder implementation for quasi-cyclic LDPC codes</title>
+		<year>2009</year>
+		<authors>Kai Zhang,Xinming Huang,Zhongfeng Wang</authors>
+		<jconf>IEEE Journal on Selected Areas in Communications</jconf>
+		<id>1278548</id>
+		<label>13</label>
+		<organization>Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA</organization>
+	</publication>
+	<publication>
+		<title>Density-Weighted Nystrom Method for Computing Large Kernel Eigensystems</title>
+		<year>2009</year>
+		<authors>Kai Zhang,James T. Kwok</authors>
+		<jconf>Neural Computation</jconf>
+		<id>1279713</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study on the Biconical Antenna in the EMC Test Suitable for Engineering Machinery.</title>
+		<year>2009</year>
+		<authors>Kai Zhang,Wanli Li,Xiwei Chen</authors>
+		<jconf>null</jconf>
+		<id>1316929</id>
+		<label>19</label>
+		<organization>Sch. of Mech. Eng., Tongji Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>The Application of Two-Dimensional Image Reconstruction for Relics' Preservation and Administration.</title>
+		<year>2009</year>
+		<authors>Min Zhou,Kai Zhang</authors>
+		<jconf>null</jconf>
+		<id>1318035</id>
+		<label>18</label>
+		<organization>Inst. of Inf. Technol., Beijing Union Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Predictive Control in Czochralski Crystal Growth with Power Input as the Unique Manipulation.</title>
+		<year>2009</year>
+		<authors>Yongling Fu,Kai Zhang,Xiaoye Qi</authors>
+		<jconf>null</jconf>
+		<id>1322636</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improved Nystr&ouml;m low-rank approximation and error analysis</title>
+		<year>2008</year>
+		<authors>Kai Zhang,Ivor W. Tsang,James T. Kwok</authors>
+		<jconf>Proceedings of the 25th international conference on Machine learning</jconf>
+		<id>1377974</id>
+		<label>7</label>
+		<organization>Hong Kong University of Science and Technology, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Research and Development of the Remote I/O Data Acquisition System Based on Embedded ARM Platform</title>
+		<year>2009</year>
+		<authors>Daogang Peng,Hao Zhang,Kai Zhang,Hui Li,Fei Xia</authors>
+		<jconf>Proceedings of the 2009 International Conference on Electronic Computer Technology</jconf>
+		<id>1392023</id>
+		<label>23</label>
+		<organization>Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai</organization>
+	</publication>
+	<publication>
+		<title>Multi-view face identification and pose estimation using B-spline interpolation</title>
+		<year>2005</year>
+		<authors>Frank Y. Shih,Camel Y. Fu,Kai Zhang</authors>
+		<jconf>Information Sciences&mdash;Informatics and Computer Science: An International Journal</jconf>
+		<id>1414860</id>
+		<label>9</label>
+		<organization>Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ</organization>
+	</publication>
+	<publication>
+		<title>A New Least Squares Subspace Projection Approach to Unmix Hyperspectral Data</title>
+		<year>2009</year>
+		<authors>Liaoying Zhao,Kai Zhang</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 04</jconf>
+		<id>1652862</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Microstructure Evolution of Stainless Steel during Laser Metal Deposition Shaping</title>
+		<year>2009</year>
+		<authors>Kai Zhang,Weijun Liu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1654676</id>
+		<label>1</label>
+		<organization>Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>Research on the Application of Industrial CT for Relics Image Reconstruction</title>
+		<year>2009</year>
+		<authors>Kai Zhang,Hong Bao,Min Zhou</authors>
+		<jconf>Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 01</jconf>
+		<id>1658742</id>
+		<label>18</label>
+		<organization>Inst. of Inf. Technol., Beihang Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Target Detecting Based on Improved WVD-HT for Radio Frequency Interference to UWB-SAR</title>
+		<year>2008</year>
+		<authors>Chunjian Xie,Kai Zhang,Kuisheng Feng,Chenjiang Guo,Jiadong Xu</authors>
+		<jconf>Proceedings of the 2008 First International Conference on Intelligent Networks and Intelligent Systems</jconf>
+		<id>1753851</id>
+		<label>6</label>
+		<organization>Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian</organization>
+	</publication>
+</person>

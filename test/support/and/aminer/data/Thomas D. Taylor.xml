@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>477125</personID>
+	<FullName>Thomas D. Taylor</FullName>
+	<FirstName>Thomas D.</FirstName>
+	<LastName>Taylor</LastName>
+	<publication>
+		<title>Advanced Simulation, Battle Managers, and Visualization</title>
+		<year>1995</year>
+		<authors>Joseph J. Molitoris,Thomas D. Taylor</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>669916</id>
+		<label>0</label>
+		<organization>Center for Naval Anal., Alexandria, VA</organization>
+	</publication>
+	<publication>
+		<title>Development and Application of NASA's First Standard Spacecraft Computer</title>
+		<year>1984</year>
+		<authors>Charles E. Trevathan,Thomas D. Taylor,Raymond G. Hartenstein,Ann. C. Merwarth,William N. Stewart</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>776666</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pseudospectral methods for solution of the incompressible Navier-Stokes equations</title>
+		<year>1987</year>
+		<authors>Hwar C. Ku,Thomas D. Taylor,Richard S. Hirsh</authors>
+		<jconf>Computers and Fluids</jconf>
+		<id>1441820</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Pseudospectral method for solution of the three-dimensional incompressible Navier-Stokes equations</title>
+		<year>1987</year>
+		<authors>Hwar C. Ku,Richard S. Hirsh,Thomas D. Taylor</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1446070</id>
+		<label>2</label>
+		<organization>The Johns Hopkins Univ., Laurel, MD</organization>
+	</publication>
+</person>

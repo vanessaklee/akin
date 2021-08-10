@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>340014</personID>
+	<FullName>J. Yin</FullName>
+	<FirstName>J.</FirstName>
+	<LastName>Yin</LastName>
+	<publication>
+		<title>Enhanced speech in noisy multiple speaker environment</title>
+		<year>2008</year>
+		<authors>Chiman Kwan,S. Chu,J. Yin,X. Liu,M. Kruger,I. Sityar</authors>
+		<jconf>IJCNN</jconf>
+		<id>394123</id>
+		<label>0</label>
+		<organization>Signal Process. Inc., Rockville, MD</organization>
+	</publication>
+	<publication>
+		<title>An integrated approach to robust speaker identification and speech recognition</title>
+		<year>2008</year>
+		<authors>C. Kwan,J. Yin,B. Ayhan,S. Chu,X. Liu,K. Puckett,Y. Zhao,K. C. Ho,M. Kruger,I. Sityar</authors>
+		<jconf>IJCNN</jconf>
+		<id>394302</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Speech separation algorithms for multiple speaker environments</title>
+		<year>2008</year>
+		<authors>C. Kwan,J. Yin,B. Ayhan,S. Chu,X. Liu,K. Puckett,Y. Zhao,K. C. Ho,M. Kruger,I. Sityar</authors>
+		<jconf>IJCNN</jconf>
+		<id>394383</id>
+		<label>0</label>
+		<organization>Signal Process., Inc., Rockville, MD</organization>
+	</publication>
+	<publication>
+		<title>Reducing Complexity of Software Deployment with Delta Configuration</title>
+		<year>2007</year>
+		<authors>Arijit Ganguly,J. Yin,H. Shaikh,David M. Chess,T. Eilem,Renato J. O. Figueiredo,J. Hansom,A. Mohindra,Giovanni Pacifici</authors>
+		<jconf>Integrated Network Management</jconf>
+		<id>395863</id>
+		<label>1</label>
+		<organization>Adv. Comput. & Inf. Syst. Lab., Florida Univ., Gainesville, FL</organization>
+	</publication>
+	<publication>
+		<title>Recent applications of IBM's query by image content (QBIC)</title>
+		<year>1996</year>
+		<authors>Dragutin Petkovic,Wayne Niblack,Myron Flickner,David Steele,Denis Lee,J. Yin,Jim Hafner,F. Tung,H. Treat,R. Dow,M. Gee,M. Vo,P. Vo,Bonnie J. Holt,J. Hethorn,K. Weiss,P. Elliott,C. Bird</authors>
+		<jconf>SAC</jconf>
+		<id>568248</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Existence of holey 3-GDDs of type (u, gtw1)</title>
+		<year>1999</year>
+		<authors>J. Wang,J. Yin</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>851468</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Packings and coverings of the complete directed multigraph with 3- and 4-circuits</title>
+		<year>1996</year>
+		<authors>Frank E. Bennett,J. Yin</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>852410</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Existence of perfect Mendelsohn designs with k=5 and lambda1</title>
+		<year>1992</year>
+		<authors>Frank E. Bennett,Kevin T. Phelps,Christopher A. Rodger,J. Yin,Lie Zhu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>853306</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the existence of perfect Mendelsohn designs with k = 7 and lambda even</title>
+		<year>1993</year>
+		<authors>Frank E. Bennett,J. Yin,Lie Zhu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>853631</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Four new BIBDs with block size seven</title>
+		<year>1993</year>
+		<authors>J. Yin,S. Wu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>853644</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constrained mesh optimization on boundary</title>
+		<year>2008</year>
+		<authors>J. Yin,C. Teodosiu</authors>
+		<jconf>Eng. Comput. (Lond.)</jconf>
+		<id>874386</id>
+		<label>4</label>
+		<organization>Advanced Simulation Technology of Mechanics Co.,Ltd, Hirosawa 2-1, 351-0198, Wako, Japan</organization>
+	</publication>
+	<publication>
+		<title>Signal Sets From Functions With Optimum Nonlinearity</title>
+		<year>2007</year>
+		<authors>C. Ding,J. Yin</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1088118</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon</organization>
+	</publication>
+	<publication>
+		<title>Nonuniform Sequential Sampling for Signal Analysis</title>
+		<year>2004</year>
+		<authors>Peter Hall,J. Yin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106114</id>
+		<label>5</label>
+		<organization>Centre for Math. & its Applications, Australian Nat. Univ., Canberra, ACT, Australia</organization>
+	</publication>
+	<publication>
+		<title>Constructions for Perfect 5-Deletion-Correcting Codes of Length 7</title>
+		<year>2006</year>
+		<authors>J. Wang,J. Yin</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1110056</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Gauss quadrature and partial cross validation</title>
+		<year>2004</year>
+		<authors>A. S. Kozek,J. Yin</authors>
+		<jconf>Computational Statistics  Data Analysis</jconf>
+		<id>1156685</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A nanoscale nonvolatile memory device made from RbAg4I5 solid electrolyte grown on a Si substrate</title>
+		<year>2008</year>
+		<authors>X. F. Liang,Y. Chen,B. Yang,J. Yin,Z. G. Liu</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1380017</id>
+		<label>6</label>
+		<organization>National Laboratory of Solid State Microstructures, Nanjing University, Nanjing 210093, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>On the existence of perfect Mendelsohn designs with k=7 and &lgr; even</title>
+		<year>1993</year>
+		<authors>F. E. Bennett,J. Yin,L. Zhu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>1503040</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Existence of perfect Mendelsohn designs with k=5 and &lgr;>1</title>
+		<year>1992</year>
+		<authors>F. E. Bennett,K. T. Phelps,C. A. Rodger,J. Yin,L. Zhu</authors>
+		<jconf>Discrete Mathematics</jconf>
+		<id>1671561</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+</person>

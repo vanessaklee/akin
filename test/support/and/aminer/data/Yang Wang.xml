@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>28010</personID>
+	<FullName>Yang Wang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>A Unified Framework for Segmentation-Assisted Image Registration</title>
+		<year>2006</year>
+		<authors>Jundong Liu,Yang Wang,Junhong Liu</authors>
+		<jconf>ACCV (2)</jconf>
+		<id>18149</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Boosting over Groups and Its Application to Acronym-Expansion Extraction</title>
+		<year>2008</year>
+		<authors>Weijian Ni,Yalou Huang,Dong Li,Yang Wang</authors>
+		<jconf>ADMA</jconf>
+		<id>27582</id>
+		<label>2</label>
+		<organization>College of Information Technical Science, Nankai University, Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Question Answering Summarization of Multiple Biomedical Documents</title>
+		<year>2007</year>
+		<authors>Zhongmin Shi,Gabor Melli,Yang Wang,Yudong Liu,Baohua Gu,Mehdi M. Kashani,Anoop Sarkar,Fred Popowich</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31705</id>
+		<label>3</label>
+		<organization>School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada</organization>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Graph-Ranking for Text Retrieval</title>
+		<year>2008</year>
+		<authors>Maoqiang Xie,Jinli Liu,Nan Zheng,Dong Li,Yalou Huang,Yang Wang</authors>
+		<jconf>AIRS</jconf>
+		<id>38006</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Machine Learning in Embedded Software And Hardware Platforms</title>
+		<year>2005</year>
+		<authors>David J. Mulvaney,Ian P. W. Sillitoe,Erick Swere,Yang Wang,Zhenhuan Zhu</authors>
+		<jconf>ALaRT</jconf>
+		<id>38681</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resource Integration Framework of Logistics Resource Grid</title>
+		<year>2005</year>
+		<authors>Biqing Huang,Yang Wang,Zhiyuan Chen,Hongbo Sun</authors>
+		<jconf>ASIAN</jconf>
+		<id>51433</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video editing based on object movement and camera motion</title>
+		<year>2006</year>
+		<authors>Yang Wang,Masahito Hirakawa</authors>
+		<jconf>AVI</jconf>
+		<id>61217</id>
+		<label>6</label>
+		<organization>Beijing Forestry University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Deep Web Navigation by Example</title>
+		<year>2008</year>
+		<authors>Yang Wang,Thomas Hornung</authors>
+		<jconf>BIS (Workshops)</jconf>
+		<id>66926</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Foreground and Shadow Detection Based on Conditional Random Field</title>
+		<year>2007</year>
+		<authors>Yang Wang</authors>
+		<jconf>CAIP</jconf>
+		<id>73857</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Utilizing field usage patterns for Java heap space optimization</title>
+		<year>2006</year>
+		<authors>Zhuang Guo,Jose Nelson Amaral,Duane Szafron,Yang Wang</authors>
+		<jconf>CASCON</jconf>
+		<id>77353</id>
+		<label>9</label>
+		<organization>University of Alberta, Edmonton, Canada</organization>
+	</publication>
+	<publication>
+		<title>Local optimization of triangular surface meshes for general quadrics in lp norm</title>
+		<year>2001</year>
+		<authors>Jerzy W. Jaromczyk,Yang Wang</authors>
+		<jconf>CCCG</jconf>
+		<id>82102</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MAPGrid: A New Architecture for Empowering Mobile Data Placement in Grid Environments</title>
+		<year>2007</year>
+		<authors>Yun Huang,Nalini Venkatasubramanian,Yang Wang</authors>
+		<jconf>CCGRID</jconf>
+		<id>83394</id>
+		<label>11</label>
+		<organization>University of California, Irvine, CA</organization>
+	</publication>
+	<publication>
+		<title>Teraflop Computing for Nanoscience</title>
+		<year>2006</year>
+		<authors>Yang Wang,G. M. Stocks,Aurelian Rusanu,D. M. C. Nicholson,Markus Eisenbach,J. S. Faulkner</authors>
+		<jconf>CDES</jconf>
+		<id>84807</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human-Currency Interaction: learning from virtual currency use in China</title>
+		<year>2008</year>
+		<authors>Yang Wang,Scott D. Mainwaring</authors>
+		<jconf>CHI</jconf>
+		<id>91426</id>
+		<label>11</label>
+		<organization>University of California, Irvine, Irvine, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>A microscopic view on community detection in complex networks</title>
+		<year>2008</year>
+		<authors>Yang Wang,Huaiming Song,Weiping Wang,Mingyuan An</authors>
+		<jconf>PIKM</jconf>
+		<id>96756</id>
+		<label>14</label>
+		<organization>Graduate University of Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Space Efficient Algorithm for Sequence Alignment with Inversions</title>
+		<year>2003</year>
+		<authors>Yong Gao,Junfeng Wu,Robert Niewiadomski,Yang Wang,Zhi-Zhong Chen,Guohui Lin</authors>
+		<jconf>COCOON</jconf>
+		<id>105229</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Linear Programming Duality Approach to Analyzing Strictly Nonblocking d-ary Multilog Networks under General Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>Hung Q. Ngo,Yang Wang,Anh Le</authors>
+		<jconf>COCOON</jconf>
+		<id>105771</id>
+		<label>9</label>
+		<organization>Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260</organization>
+	</publication>
+	<publication>
+		<title>A hybrid cultural ecology: world of warcraft in China</title>
+		<year>2008</year>
+		<authors>Silvia Lindtner,Bonnie A. Nardi,Yang Wang,Scott D. Mainwaring,He Jing,Wenjing Liang</authors>
+		<jconf>CSCW</jconf>
+		<id>122187</id>
+		<label>11</label>
+		<organization>University of California, Irvine, Irvine, USA</organization>
+	</publication>
+	<publication>
+		<title>Face Modeling and Analysis in Stony Brook University</title>
+		<year>2005</year>
+		<authors>Dimitris Samaras,Yang Wang,Lei Zhang,Sen Wang,Mohit Gupta</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>128959</id>
+		<label>9</label>
+		<organization>State University of New York at Stony Brook</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Conditional Random Field Model for Object Segmentation in Image Sequences</title>
+		<year>2005</year>
+		<authors>Yang Wang,Qiang Ji</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129354</id>
+		<label>9</label>
+		<organization>Rensselaer Polytechnic Institute</organization>
+	</publication>
+	<publication>
+		<title>Unsupervised Discovery of Action Classes</title>
+		<year>2006</year>
+		<authors>Yang Wang,Hao Jiang,Mark S. Drew,Ze-Nian Li,Greg Mori</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129357</id>
+		<label>3</label>
+		<organization>Simon Fraser University</organization>
+	</publication>
+	<publication>
+		<title>Video Segmentation Based on Graphical Models</title>
+		<year>2003</year>
+		<authors>Yang Wang,Tele Tan,Kia-Fock Loe</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129373</id>
+		<label>16</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>3D Surface Matching and Recognition Using Conformal Geometry</title>
+		<year>2006</year>
+		<authors>Sen Wang,Yang Wang,Miao Jin,Xianfeng Gu,Dimitris Samaras</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129377</id>
+		<label>9</label>
+		<organization>State University of New York at Stony Brook</organization>
+	</publication>
+	<publication>
+		<title>Face Re-Lighting from a Single Image under Harsh Lighting Conditions</title>
+		<year>2007</year>
+		<authors>Yang Wang,Zicheng Liu,Gang Hua,Zhen Wen,Zhengyou Zhang,Dimitris Samaras</authors>
+		<jconf>CVPR</jconf>
+		<id>130120</id>
+		<label>9</label>
+		<organization>Carnegie Mellon Univ., Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>Enforcing convexity for improved alignment with constrained local models</title>
+		<year>2008</year>
+		<authors>Yang Wang,Simon Lucey,Jeffrey F. Cohn</authors>
+		<jconf>CVPR</jconf>
+		<id>130536</id>
+		<label>9</label>
+		<organization>Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Developing a Database for Proteomic Analysis of Extracytosolic Plant Proteins</title>
+		<year>2004</year>
+		<authors>Yang Wang,Osmar R. Zaiane,Randy Goebel,Jennafer L. Southron,Urmila Basu,Randy M. Whittal,Julie L. Stephens,Gregory J. Taylor</authors>
+		<jconf>DEXA Workshops</jconf>
+		<id>152399</id>
+		<label>9</label>
+		<organization>University of Alberta, Edmonton, Canada</organization>
+	</publication>
+	<publication>
+		<title>An Overview of Associative Classifiers</title>
+		<year>2006</year>
+		<authors>Yanmin Sun,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>DMIN</jconf>
+		<id>158873</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation of Multiple Illuminants from a Single Image of Arbitrary Known Geometry</title>
+		<year>2002</year>
+		<authors>Yang Wang,Dimitris Samaras</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>169421</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials</title>
+		<year>2008</year>
+		<authors>Wei Zeng,Yun Zeng,Yang Wang,Xiaotian Yin,Xianfeng Gu,Dimitris Samaras</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>169709</id>
+		<label>9</label>
+		<organization>Carnegie Mellon University, Pittsburgh, USA PA 15213</organization>
+	</publication>
+	<publication>
+		<title>Multiple Tree Models for Occlusion and Spatial Constraints in Human Pose Estimation</title>
+		<year>2008</year>
+		<authors>Yang Wang,Greg Mori</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>169715</id>
+		<label>3</label>
+		<organization>School of Computing Science, Simon Fraser University, Canada</organization>
+	</publication>
+	<publication>
+		<title>Evaluation Methodology for the Security of e-Finance Systems</title>
+		<year>2005</year>
+		<authors>Yang Wang,Pradeep K. Ray</authors>
+		<jconf>EEE</jconf>
+		<id>178464</id>
+		<label>22</label>
+		<organization>SISTM, University of New South Wales, Australia</organization>
+	</publication>
+	<publication>
+		<title>Wireless Sensing, Actuation and Control - With Applications to Civil Structures</title>
+		<year>2006</year>
+		<authors>Yang Wang,Jerome P. Lynch,Kincho H. Law</authors>
+		<jconf>EG-ICE</jconf>
+		<id>178971</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Ensemble Approach to Learning to Rank</title>
+		<year>2008</year>
+		<authors>Dong Li,Yang Wang,Weijian Ni,Yalou Huang,Maoqiang Xie</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218221</id>
+		<label>2</label>
+		<organization>Coll. of Inf. Technol. Sci., Nankai Univ., Tianjin</organization>
+	</publication>
+	<publication>
+		<title>Partition Triangle Meshes into Coarsely Quadrangular Segmentation</title>
+		<year>2008</year>
+		<authors>Hanming Lv,Yang Wang</authors>
+		<jconf>FSKD (4)</jconf>
+		<id>218455</id>
+		<label>24</label>
+		<organization>Sch. of Textiles, Tianjin Polytech. Univ., Tianjin</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Assignment Problem in a Mobile System with Limited Bandwidth</title>
+		<year>2003</year>
+		<authors>Yang Wang,Thomas Kunz</authors>
+		<jconf>HICSS</jconf>
+		<id>248683</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci., Alberta Univ., Edmonton, Alta., Canada</organization>
+	</publication>
+	<publication>
+		<title>The Trellis Security Infrastructure: A Layered Approach to Overlay Metacomputers </title>
+		<year>2004</year>
+		<authors>Morgan Kan,Danny Ngo,Mark Lee,Paul Lu,Nolan Bard,Michael Closson,Meng Ding,Mark Goldberg,Nicholas Lamb,Yang Wang,Ron Senda,Edmund Sumbar</authors>
+		<jconf>HPCS</jconf>
+		<id>254677</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Boosted Multiple Deformable Trees for Parsing Human Poses</title>
+		<year>2007</year>
+		<authors>Yang Wang,Greg Mori</authors>
+		<jconf>Workshop on Human Motion</jconf>
+		<id>257350</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-Latent Dirichlet Allocation: A Hierarchical Model for Human Action Recognition</title>
+		<year>2007</year>
+		<authors>Yang Wang,Payam Sabzmeydani,Greg Mori</authors>
+		<jconf>Workshop on Human Motion</jconf>
+		<id>257351</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Strictly Nonblocking Function-Cast d-Ary Multi-Log Networks under Fanout and Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>Yang Wang,Hung Q. Ngo,Xiaohong Jiang</authors>
+		<jconf>ICC</jconf>
+		<id>276768</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of an Out-of-Band Virtualization System on Solaris 10</title>
+		<year>2006</year>
+		<authors>Yang Wang,Wei Xue,Jiwu Shu,Guangyan Zhang</authors>
+		<jconf>International Conference on Computational Science (3)</jconf>
+		<id>280419</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Resolution Tracking of Non-Rigid 3D Motion of Densely Sampled Data Using Harmonic Maps</title>
+		<year>2005</year>
+		<authors>Yang Wang,Mohit Gupta,Song Zhang,Sen Wang,Xianfeng Gu,Dimitris Samaras,Peisen Huang</authors>
+		<jconf>ICCV</jconf>
+		<id>293848</id>
+		<label>9</label>
+		<organization>State University of New York at Stony Brook</organization>
+	</publication>
+	<publication>
+		<title>Joint Region Tracking with Switching Hypothesized Measurements</title>
+		<year>2003</year>
+		<authors>Yang Wang,Tele Tan,Kia-Fock Loe</authors>
+		<jconf>ICCV</jconf>
+		<id>293858</id>
+		<label>16</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Non-Rigid Object Alignment with a Mismatch Template Based on Exhaustive Local Search</title>
+		<year>2007</year>
+		<authors>Yang Wang,Simon Lucey,Jeffrey F. Cohn</authors>
+		<jconf>ICCV</jconf>
+		<id>294035</id>
+		<label>9</label>
+		<organization>Carnegie Mellon Univ., Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>Ricci Flow for 3D Shape Analysis</title>
+		<year>2007</year>
+		<authors>Xianfeng Gu,Sen Wang,Junho Kim,Yun Zeng,Yang Wang,Hong Qin,Dimitris Samaras</authors>
+		<jconf>ICCV</jconf>
+		<id>294321</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci., Wayne State Univ., Detroit, MI, USA</organization>
+	</publication>
+	<publication>
+		<title>Boosting for Learning Multiple Classes with Imbalanced Class Distribution</title>
+		<year>2006</year>
+		<authors>Yanmin Sun,Mohamed S. Kamel,Yang Wang</authors>
+		<jconf>ICDM</jconf>
+		<id>303171</id>
+		<label>19</label>
+		<organization>Pattern Discovery Software Systems Ltd., Canada</organization>
+	</publication>
+	<publication>
+		<title>Multiple Ranker Method in Document Retrieval</title>
+		<year>2008</year>
+		<authors>Dong Li,Maoqiang Xie,Yang Wang,Yalou Huang,Weijian Ni</authors>
+		<jconf>ICIC (3)</jconf>
+		<id>314243</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical stereo correspondence using features of gray connected components</title>
+		<year>1997</year>
+		<authors>Yang Wang,Prabir Bhattacharya</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>322009</id>
+		<label>29</label>
+		<organization>Dept. of Comput. Sci. & Eng., Nebraska Univ., Lincoln, NE</organization>
+	</publication>
+	<publication>
+		<title>A probabilistic method for foreground and shadow segmentation</title>
+		<year>2003</year>
+		<authors>Yang Wang,Tele Tan,Kia-Fock Loe</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>322077</id>
+		<label>16</label>
+		<organization>Institute for Infocomm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Boosting with incomplete information</title>
+		<year>2008</year>
+		<authors>Gholamreza Haffari,Yang Wang,Shaojun Wang,Greg Mori,Feng Jiao</authors>
+		<jconf>ICML</jconf>
+		<id>336294</id>
+		<label>3</label>
+		<organization>Simon Fraser University, Canada</organization>
+	</publication>
+	<publication>
+		<title>Facial Feature Tracking using a Multi-State Hierarchical Shape Model under Varying Face Pose and Facial Expression</title>
+		<year>2006</year>
+		<authors>Yan Tong,Yang Wang,Zhiwei Zhu,Qiang Ji</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>348971</id>
+		<label>9</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY 12180-3590, USA</organization>
+	</publication>
+	<publication>
+		<title>A new method to obtain the shift-table in Boyer-Moore's string matching algorithm</title>
+		<year>2008</year>
+		<authors>Yang Wang</authors>
+		<jconf>ICPR</jconf>
+		<id>349834</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mobile Robot Path Planning in Dynamic Environments</title>
+		<year>2007</year>
+		<authors>Yang Wang,Ian P. W. Sillitoe,David J. Mulvaney</authors>
+		<jconf>ICRA</jconf>
+		<id>356625</id>
+		<label>4</label>
+		<organization>Dept. of Electron. & Electr. Eng., Loughborough Univ.</organization>
+	</publication>
+	<publication>
+		<title>Two Further Gradient BYY Learning Rules for Gaussian Mixture with Automated Model Selection</title>
+		<year>2004</year>
+		<authors>Jinwen Ma,Bin Gao,Yang Wang,QianSheng Cheng</authors>
+		<jconf>IDEAL</jconf>
+		<id>372046</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Switching Hypothesized Measurements: A Dynamic Model with Applications to Occlusion Adaptive Joint Tracking</title>
+		<year>2003</year>
+		<authors>Yang Wang,Tele Tan,Kia-Fock Loe</authors>
+		<jconf>IJCAI</jconf>
+		<id>391053</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Multi-Teraflops Studies of the Magnetic Structure of FeMn Alloys</title>
+		<year>2003</year>
+		<authors>A. Canning,B. Ujfalussy,Thomas C. Schulthess,X.-G. Zhang,William A. Shelton,D. M. C. Nicholson,G. M. Stocks,Yang Wang,T. Dirks</authors>
+		<jconf>IPDPS</jconf>
+		<id>408378</id>
+		<label>13</label>
+		<organization>CRD, Lawrence Berkeley Nat. Lab., CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Algorithm for yield driven correction of layout</title>
+		<year>2004</year>
+		<authors>Yang Wang,Yici Cai,Xianlong Hong,Qiang Zhou</authors>
+		<jconf>ISCAS (5)</jconf>
+		<id>424665</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Density Prediction of Selective Laser Sintering Parts Based on Artificial Neural Network</title>
+		<year>2004</year>
+		<authors>Xianfeng Shen,Jin Yao,Yang Wang,Jialin Yang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442827</id>
+		<label>39</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Intelligent Language Tutoring System for Handling Errors Caused by Transfer</title>
+		<year>1992</year>
+		<authors>Yang Wang,Roberto Garigliano</authors>
+		<jconf>Intelligent Tutoring Systems</jconf>
+		<id>459000</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A VRML Interface for a Knowledge-Based Structural Design System</title>
+		<year>2001</year>
+		<authors>Jenmu Wang,Yang Wang</authors>
+		<jconf>IV</jconf>
+		<id>460830</id>
+		<label>37</label>
+		<organization>Dept. of Civil Eng., Tamkang Univ., Tamsui</organization>
+	</publication>
+	<publication>
+		<title>Representing Discovered Patterns Using Attributed Hypergraph</title>
+		<year>1996</year>
+		<authors>Yang Wang,Andrew K. C. Wong</authors>
+		<jconf>KDD</jconf>
+		<id>473401</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parameter Inference of Cost-Sensitive Boosting Algorithms</title>
+		<year>2005</year>
+		<authors>Yanmin Sun,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>MLDM</jconf>
+		<id>501394</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Data Exchange Protocol Using Improved Star Trees in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Ben Xu,Liusheng Huang,Hongli Xu,Jichun Wang,Yang Wang</authors>
+		<jconf>MSN</jconf>
+		<id>508758</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Self-organization Data Gathering for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Hongli Xu,Liusheng Huang,Junmin Wu,Yang Wang,Jichun Wang,Xu Wang</authors>
+		<jconf>MSN</jconf>
+		<id>508774</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable, Reliable Marshalling and Organization of Distributed Large Scale Data Onto Enterprise Storage Environments</title>
+		<year>2005</year>
+		<authors>Joseph JaJa,Mike Smorul,Fritz McCall,Yang Wang</authors>
+		<jconf>MSST</jconf>
+		<id>509077</id>
+		<label>40</label>
+		<organization>University of Maryland, College Park</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Key Messaging for Cluster Computing</title>
+		<year>2004</year>
+		<authors>Ming Zhu,Yang Wang,Meng Ding,Constantine Katsinis</authors>
+		<jconf>NCA</jconf>
+		<id>512274</id>
+		<label>9</label>
+		<organization>University of Alberta, Edmonton</organization>
+	</publication>
+	<publication>
+		<title>Fast Krylov Methods for N-Body Learning</title>
+		<year>2005</year>
+		<authors>Nando de Freitas,Yang Wang,Maryam Mahdaviani,Dustin Lang</authors>
+		<jconf>NIPS</jconf>
+		<id>515462</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning a discriminative hidden part model for human action recognition</title>
+		<year>2008</year>
+		<authors>Yang Wang,Greg Mori</authors>
+		<jconf>NIPS</jconf>
+		<id>518162</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploit Semantic Information for Category Annotation Recommendation in Wikipedia</title>
+		<year>2007</year>
+		<authors>Yang Wang,Haofen Wang,Haiping Zhu,Yong Yu</authors>
+		<jconf>NLDB</jconf>
+		<id>518620</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Frequent Subsequence-Based Protein Localization</title>
+		<year>2006</year>
+		<authors>Osmar R. Zaiane,Yang Wang,Randy Goebel,Gregory J. Taylor</authors>
+		<jconf>BioDM</jconf>
+		<id>527253</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recognizing Human Action from Videos Using Histograms of Visual Words</title>
+		<year>2008</year>
+		<authors>Yang Wang,Yi Sun</authors>
+		<jconf>PCM</jconf>
+		<id>532199</id>
+		<label>3</label>
+		<organization>School of Computing Science, Simon Fraser University, Canada</organization>
+	</publication>
+	<publication>
+		<title>Using Dataflow Information to Improve Inter-Workflow Instance Concurrency</title>
+		<year>2005</year>
+		<authors>Yang Wang,Paul Lu</authors>
+		<jconf>PDCAT</jconf>
+		<id>532772</id>
+		<label>9</label>
+		<organization>University of Alberta, Canada</organization>
+	</publication>
+	<publication>
+		<title>Estimation of Multiple Directional Light Sources for Synthesis of Mixed Reality Images</title>
+		<year>2002</year>
+		<authors>Yang Wang,Dimitris Samaras</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<id>540198</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Color Image Segmentation Based on Parameter-Dependent Connected Components</title>
+		<year>2000</year>
+		<authors>Yang Wang</authors>
+		<jconf>PICS</jconf>
+		<id>540999</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Algorithm for Finding Parameter Dependent: Connected Components of Gray Images</title>
+		<year>1998</year>
+		<authors>Yang Wang,Prabir Bhattacharya</authors>
+		<jconf>PICS</jconf>
+		<id>541001</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Understanding with Connected Component Histograms</title>
+		<year>1999</year>
+		<authors>Yang Wang,Prabir Bhattacharya</authors>
+		<jconf>PICS</jconf>
+		<id>541002</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating the QMR Method with First Principles Material Science Application Code</title>
+		<year>1995</year>
+		<authors>Noel M. Nachtigal,William A. Shelton,G. M. Stocks,D. M. C. Nicholson,Yang Wang</authors>
+		<jconf>PPSC</jconf>
+		<id>549401</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Application of Least Square in Precision Cylindrical Grinding</title>
+		<year>2006</year>
+		<authors>Dawei Fu,Li Su,Yang Wang</authors>
+		<jconf>PROLAMAT</jconf>
+		<id>553254</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-teraflops spin dynamics studies of the magnetic structure of FeMn/Co interfaces</title>
+		<year>2001</year>
+		<authors>A. Canning,B. Ujfalussy,Thomas C. Schulthess,X.-G. Zhang,William A. Shelton,D. M. C. Nicholson,G. M. Stocks,Yang Wang,T. Dirks</authors>
+		<jconf>SC</jconf>
+		<id>574811</id>
+		<label>13</label>
+		<organization>Pittsburgh Supercomputer Center, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Making More Wikipedians: Facilitating Semantics Reuse for Wikipedia Authoring</title>
+		<year>2007</year>
+		<authors>Linyun Fu,Haofen Wang,Haiping Zhu,Huajie Zhang,Yang Wang,Yong Yu</authors>
+		<jconf>ISWC/ASWC</jconf>
+		<id>583828</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EachWiki: Suggest to Be an Easy-To-Edit Wiki Interface for Everyone</title>
+		<year>2007</year>
+		<authors>Huajie Zhang,Linyun Fu,Haofen Wang,Haiping Zhu,Yang Wang,Yong Yu</authors>
+		<jconf>Semantic Web Challenge</jconf>
+		<id>583987</id>
+		<label>44</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coverage-preserving Data Gathering in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Hongli Xu,Liusheng Huang,Junmin Wu,Yang Wang</authors>
+		<jconf>SNPD (2)</jconf>
+		<id>609397</id>
+		<label>42</label>
+		<organization>Univ. of Science & Technology of China, China</organization>
+	</publication>
+	<publication>
+		<title>PLA-based Runtime Dynamism in Support of Privacy-Enhanced Web Personalization</title>
+		<year>2006</year>
+		<authors>Yang Wang,Alfred Kobsa,Andre van der Hoek,Jeffery White</authors>
+		<jconf>SPLC</jconf>
+		<id>616275</id>
+		<label>11</label>
+		<organization>Dept. of Inf., California Univ., Irvine, CA</organization>
+	</publication>
+	<publication>
+		<title>Epidemic Spreading in Real Networks: An Eigenvalue Viewpoint</title>
+		<year>2003</year>
+		<authors>Yang Wang,Deepayan Chakrabarti,Chenxi Wang,Christos Faloutsos</authors>
+		<jconf>SRDS</jconf>
+		<id>617360</id>
+		<label>9</label>
+		<organization>Carnegie Mellon Univ., Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>DynamicTrust: The Trust Development in Peer-to-Peer Environments</title>
+		<year>2006</year>
+		<authors>Yang Wang,Vijay Viradharajan</authors>
+		<jconf>SUTC (1)</jconf>
+		<id>623770</id>
+		<label>47</label>
+		<organization>Macquarie University, Australia</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Foreground and Shadow Detection in Image Sequences</title>
+		<year>2002</year>
+		<authors>Yang Wang,Tele Tan</authors>
+		<jconf>UAI</jconf>
+		<id>632984</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Respecting Users' Individual Privacy Constraints in Web Personalization</title>
+		<year>2007</year>
+		<authors>Yang Wang,Alfred Kobsa</authors>
+		<jconf>User Modeling</jconf>
+		<id>634857</id>
+		<label>11</label>
+		<organization>Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Constraint-Sensitive Privacy Management for Personalized Web-Based Systems</title>
+		<year>2005</year>
+		<authors>Yang Wang</authors>
+		<jconf>User Modeling</jconf>
+		<id>634898</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Hidden Markov Random Field Model for Foreground and Shadow Segmentation</title>
+		<year>2005</year>
+		<authors>Yang Wang,Kia-Fock Loe,Tele Tan,Jian-Kang Wu</authors>
+		<jconf>WACV/MOTION</jconf>
+		<id>651005</id>
+		<label>16</label>
+		<organization>National University of Singapore, Singapore; Institute for Infocomm Research, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Object Tracing System</title>
+		<year>2006</year>
+		<authors>Ke Zhou,Chun-hua Li,Dan Feng,Yang Wang,Liang Lu,Yong-guang Ji</authors>
+		<jconf>IWNAS</jconf>
+		<id>680915</id>
+		<label>50</label>
+		<organization>Coll. of Comput. Sci. & Technol., Huazhong Univ. of Sci. & Technol.</organization>
+	</publication>
+	<publication>
+		<title>Modeling the effects of timing parameters on virus propagation</title>
+		<year>2003</year>
+		<authors>Yang Wang,Chenxi Wang</authors>
+		<jconf>WORM</jconf>
+		<id>686538</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Asymptotic White noise Hypothesis for PCM quantization</title>
+		<year>2008</year>
+		<authors>Sergiy V. Borodachov,Yang Wang</authors>
+		<jconf>CISS</jconf>
+		<id>701177</id>
+		<label>51</label>
+		<organization>Sch. of Math., Georgia Inst. of Technol., Atlanta, GA</organization>
+	</publication>
+	<publication>
+		<title>Strictly Nonblocking f-Cast Photonic Switching Networks under General Crosstalk Constraints</title>
+		<year>2008</year>
+		<authors>Thanh-Nhan Nguyen,Hung Q. Ngo,Yang Wang</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705794</id>
+		<label>9</label>
+		<organization>Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY</organization>
+	</publication>
+	<publication>
+		<title>Wireless fire monitoring system for ancient buildings</title>
+		<year>2007</year>
+		<authors>Hongli Xu,Liusheng Huang,Junmin Wu,Yang Wang,Ben Xu,Jichun Wang,Dashan Wang</authors>
+		<jconf>Infoscale</jconf>
+		<id>708961</id>
+		<label>42</label>
+		<organization>Univ. of Science & Technology of China, Hefei, P. R. China</organization>
+	</publication>
+	<publication>
+		<title>Travel Speed Prediction Using Fuzzy Reasoning</title>
+		<year>2008</year>
+		<authors>Yang Wang,Honghai Liu,Patrick Beullens,David Brown</authors>
+		<jconf>ICIRA (1)</jconf>
+		<id>722368</id>
+		<label>48</label>
+		<organization>Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL</organization>
+	</publication>
+	<publication>
+		<title>A Needle-Holding Robot for Ultrasound Guided Percutaneous Hepatic Microwave Ablation and Initial Experiments</title>
+		<year>2008</year>
+		<authors>Shuangcheng Deng,Lipei Jiang,Yingyu Cao,Ping Liang,Ren He,Tong Lu,Yang Wang</authors>
+		<jconf>ICIRA (2)</jconf>
+		<id>722537</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A practical approach to multiple super-resolution sprite generation</title>
+		<year>2008</year>
+		<authors>Getian Ye,Yang Wang,Jie Xu,Gunawan Herman,Bang Zhang</authors>
+		<jconf>MMSP</jconf>
+		<id>727116</id>
+		<label>22</label>
+		<organization>Making Sense of Data Group, Nat. ICT Australia, Sydney, NSW</organization>
+	</publication>
+	<publication>
+		<title>Collecting Internet Malware Based on Client-side Honeypot</title>
+		<year>2008</year>
+		<authors>Xiaoyan Sun,Yang Wang,Jie Ren,Yuefei Zhu,Shengli Liu</authors>
+		<jconf>ICYCS</jconf>
+		<id>730370</id>
+		<label>53</label>
+		<organization>Zhengzhou Inf. Sci. & Technol. Inst., Zhengzhou</organization>
+	</publication>
+	<publication>
+		<title>Initial experiments of a needle-holding robot for microwave ablation therapy</title>
+		<year>2008</year>
+		<authors>Shuangcheng Deng,Lipei Jiang,Yingyu Cao,Ping Liang,Ren He,Yang Wang,Lu Tong</authors>
+		<jconf>ICARCV</jconf>
+		<id>733154</id>
+		<label>49</label>
+		<organization>Major Lab., Beijing Inst. of Petrochem. Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>The Study and Analysis of Joint Adaptive Clock Recovery Mechanism for TDMoIP</title>
+		<year>2008</year>
+		<authors>Shuai Zhu,Yuanxin Xu,Jie Zhang,Yang Wang</authors>
+		<jconf>ICNSC</jconf>
+		<id>735802</id>
+		<label>24</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Generation of finite tight frames by Householder transformations</title>
+		<year>2006</year>
+		<authors>De-Jun Feng,Long Wang,Yang Wang</authors>
+		<jconf>Adv. Comput. Math.</jconf>
+		<id>742270</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sigma-delta quantization errors and the traveling salesman problem</title>
+		<year>2008</year>
+		<authors>Yang Wang</authors>
+		<jconf>Adv. Comput. Math.</jconf>
+		<id>742440</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Uniformity of Non-Uniform Gabor Bases</title>
+		<year>2003</year>
+		<authors>Youming Liu,Yang Wang</authors>
+		<jconf>Adv. Comput. Math.</jconf>
+		<id>742773</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High Resolution Acquisition, Learning and Transfer of Dynamic 3D Facial Expressions</title>
+		<year>2004</year>
+		<authors>Yang Wang,Xiaolei Huang,Chan-Su Lee,Song Zhang,Zhiguo Li,Dimitris Samaras,Dimitris N. Metaxas,Ahmed M. Elgammal,Peisen Huang</authors>
+		<jconf>Comput. Graph. Forum</jconf>
+		<id>788278</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A queueing analysis for the denial of service (DoS) attacks in computer networks</title>
+		<year>2007</year>
+		<authors>Yang Wang,Chuang Lin,Quan-Lin Li,Yuguang Fang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>796204</id>
+		<label>26</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Estimation of multiple directional light sources for synthesis of augmented reality images</title>
+		<year>2003</year>
+		<authors>Yang Wang,Dimitris Samaras</authors>
+		<jconf>Graphical Models</jconf>
+		<id>834634</id>
+		<label>9</label>
+		<organization>Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY</organization>
+	</publication>
+	<publication>
+		<title>Digital Connectivity and Extended Well-Composed Sets for Gray Images</title>
+		<year>1997</year>
+		<authors>Yang Wang,Prabir Bhattacharya</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835492</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Substitution Delone Sets</title>
+		<year>2003</year>
+		<authors>J. C. Lagarias,Yang Wang</authors>
+		<jconf>Discrete  Computational Geometry</jconf>
+		<id>843627</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A global optimal algorithm for class-dependent discretization of continuous data</title>
+		<year>2004</year>
+		<authors>Lili Liu,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>Intell. Data Anal.</jconf>
+		<id>893250</id>
+		<label>19</label>
+		<organization>Pattern Discovery Software Systems, Ltd., 550 Parkside Drive, Unit B9, Waterloo, Ontario N2L 5V4, Canada. E-mail: yang@patterndiscovery.com</organization>
+	</publication>
+	<publication>
+		<title>High Resolution Tracking of Non-Rigid Motion of Densely Sampled 3D Data Using Harmonic Maps</title>
+		<year>2008</year>
+		<authors>Yang Wang,Mohit Gupta,Song Zhang,Sen Wang,Xianfeng Gu,Dimitris Samaras,Peisen Huang</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<id>908014</id>
+		<label>9</label>
+		<organization>Robotics Institute, Carnegie Mellon University, Pittsburg, USA</organization>
+	</publication>
+	<publication>
+		<title>Conjugate and natural gradient rules for BYY harmony learning on Gaussian mixture with automated model selection</title>
+		<year>2005</year>
+		<authors>Jinwen Ma,Bin Gao,Yang Wang,QianSheng Cheng</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919193</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation of multiple directional illuminants from a single image</title>
+		<year>2008</year>
+		<authors>Yang Wang,Dimitris Samaras</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947745</id>
+		<label>9</label>
+		<organization>Computer Science Department, Stony Brook University, 2429 Computer Science, Stony Brook, NY 11794-4400, USA</organization>
+	</publication>
+	<publication>
+		<title>Subdivision Schemes and Refinement Equations with Nonnegative Masks</title>
+		<year>2001</year>
+		<authors>Yang Wang</authors>
+		<jconf>Journal of Approximation Theory</jconf>
+		<id>958820</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coverage and Exposure Paths in Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Liusheng Huang,Hongli Xu,Yang Wang,Junmin Wu,Hong Li</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973978</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>T1DBase, a community web-based resource for type 1 diabetes research</title>
+		<year>2005</year>
+		<authors>Luc J. Smink,Erin M. Helton,Barry C. Healy,Christopher C. Cavnor,Alex C. Lam,Daisy Flamez,Oliver S. Burren,Yang Wang,Geoffrey E. Dolman,David B. Burdick,Vincent H. Everett,Gustavo Glusman,Davide Laneri,Lee Rowen,Helen Schuilenburg,Neil M. Walker,Josyf Mychaleckyj,Linda S. Wicker,Decio L. Eizirik,John A. Todd,Nathan Goodman</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1020367</id>
+		<label>54</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Computation in Local Area Networks of Workstations</title>
+		<year>1995</year>
+		<authors>Mehmet Celenk,Yang Wang</authors>
+		<jconf>Parallel Algorithms Appl.</jconf>
+		<id>1030824</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Conditional Random Field Model for Foreground and Shadow Segmentation</title>
+		<year>2006</year>
+		<authors>Yang Wang,Kia-Fock Loe,Jian-Kang Wu</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033296</id>
+		<label>16</label>
+		<organization>Sch. of Comput. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching</title>
+		<year>2007</year>
+		<authors>Sen Wang,Yang Wang,Miao Jin,Xianfeng David Gu,Dimitris Samaras</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033711</id>
+		<label>9</label>
+		<organization>State Univ. of New York, Stony Brook</organization>
+	</publication>
+	<publication>
+		<title>On parameter-dependent connected components of gray images</title>
+		<year>1996</year>
+		<authors>Yang Wang,Prabir Bhattacharya</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041818</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A probabilistic approach for foreground and shadow segmentation in monocular image sequences</title>
+		<year>2005</year>
+		<authors>Yang Wang,Tele Tan,Kia-Fock Loe,Jian-Kang Wu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1041853</id>
+		<label>16</label>
+		<organization>Institute for Infocomm Research, Singapore 119613 and Department of Computer Science, National University of Singapore, Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Robust facial feature tracking under varying face pose and facial expression</title>
+		<year>2007</year>
+		<authors>Yan Tong,Yang Wang,Zhiwei Zhu,Qiang Ji</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042520</id>
+		<label>9</label>
+		<organization>National ICT Australia, Eveleigh, NSW 1430, Australia</organization>
+	</publication>
+	<publication>
+		<title>Cost-sensitive boosting for classification of imbalanced data</title>
+		<year>2007</year>
+		<authors>Yanmin Sun,Mohamed S. Kamel,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042552</id>
+		<label>19</label>
+		<organization>Pattern Discovery Technologies Inc., Waterloo, Ontario, Canada, N2L 5Z4</organization>
+	</publication>
+	<publication>
+		<title>Strictly Nonblocking Multirate logd(N, m, p) Networks</title>
+		<year>2005</year>
+		<authors>Frank Kwang-Ming Hwang,Yong He,Yang Wang</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1059594</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data</title>
+		<year>2005</year>
+		<authors>Wai-Ho Au,Keith C. C. Chan,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>IEEE/ACM Trans. Comput. Biology Bioinform.</jconf>
+		<id>1086944</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Correction to 'Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data</title>
+		<year>2007</year>
+		<authors>Wai-Ho Au,Keith C. C. Chan,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>IEEE/ACM Trans. Comput. Biology Bioinform.</jconf>
+		<id>1087047</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A space-efficient algorithm for sequence alignment with inversions and reversals</title>
+		<year>2004</year>
+		<authors>Zhi-Zhong Chen,Yong Gao,Guohui Lin,Robert Niewiadomski,Yang Wang,Junfeng Wu</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1090052</id>
+		<label>9</label>
+		<organization>Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8</organization>
+	</publication>
+	<publication>
+		<title>Spatiotemporal video segmentation based on graphical models</title>
+		<year>2005</year>
+		<authors>Yang Wang,Kia-Fock Loe,Tele Tan,Jian-Kang Wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102177</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Epidemic thresholds in real networks</title>
+		<year>2008</year>
+		<authors>Deepayan Chakrabarti,Yang Wang,Chenxi Wang,Jure Leskovec,Christos Faloutsos</authors>
+		<jconf>ACM Trans. Inf. Syst. Secur.</jconf>
+		<id>1103719</id>
+		<label>9</label>
+		<organization>Carnegie Mellon University, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Boosting an Associative Classifier</title>
+		<year>2006</year>
+		<authors>Yanmin Sun,Yang Wang,Andrew K. C. Wong</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113579</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>From Association to Classification: Inference Using Weight of Evidence</title>
+		<year>2003</year>
+		<authors>Yang Wang,Andrew K. C. Wong</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113698</id>
+		<label>19</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>High-Order Pattern Discovery from Discrete-Valued Data</title>
+		<year>1997</year>
+		<authors>Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113724</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contextual modeling of functional MR images with conditional random fields</title>
+		<year>2006</year>
+		<authors>Yang Wang,Jagath C. Rajapakse</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1115708</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Framework for Brain Connectivity From Functional MR Images</title>
+		<year>2008</year>
+		<authors>Jagath C. Rajapakse,Yang Wang,Xuebin Zheng,Juan Zhou</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1116093</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pattern discovery: a data driven approach to decision support</title>
+		<year>2003</year>
+		<authors>Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part C</jconf>
+		<id>1132385</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generative and Discriminative Learning by CL-Net</title>
+		<year>2007</year>
+		<authors>Yanmin Sun,Andrew K. C. Wong,Yang Wang</authors>
+		<jconf>IEEE Transactions on Systems, Man, and Cybernetics, Part B</jconf>
+		<id>1132885</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of an ultra-wide bandwidth wireless indoor non-line-of-sight channels</title>
+		<year>2009</year>
+		<authors>Yang Wang,Jie Zhang,Qinyu Zhang,Naitong Zhang</authors>
+		<jconf>Wireless Communications and Mobile Computing</jconf>
+		<id>1140789</id>
+		<label>24</label>
+		<organization>Harbin Institute of Technology, Shenzhen Graduate School, Xili, ShenZhen, China</organization>
+	</publication>
+	<publication>
+		<title>New travelling wave solutions to some nonlinear equations via a combined method</title>
+		<year>2008</year>
+		<authors>Yang Wang,Long Wei</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149288</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robot Navigation by Waypoints</title>
+		<year>2008</year>
+		<authors>Yang Wang,David J. Mulvaney,Ian P. W. Sillitoe,Erick Swere</authors>
+		<jconf>Journal of Intelligent and Robotic Systems</jconf>
+		<id>1152371</id>
+		<label>4</label>
+		<organization>Department of Electronic and Electrial Engineering, Loughborough University, Loughborough, UK LE11 3TU</organization>
+	</publication>
+	<publication>
+		<title>Preparation of one-dimensional photonic crystal with variable period by using ultra-high vacuum electron beam evaporation</title>
+		<year>2007</year>
+		<authors>Su Chen,Zhitang Song,Yang Wang,Duanzheng Yao</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155691</id>
+		<label>1</label>
+		<organization>Semiconductor Functional Thin Films Technology Center and State Key Laboratory of Functional Materials for Informatics, Shanghai Institute of Micro-system and Information Technology, Chinese Academy of Science, Shanghai 200050, P R China</organization>
+	</publication>
+	<publication>
+		<title>Real-time machine learning in embedded software and hardware platforms</title>
+		<year>2007</year>
+		<authors>David J. Mulvaney,Ian P. W. Sillitoe,Erick Swere,Yang Wang,Zhenhuan Zhu</authors>
+		<jconf>IJISTA</jconf>
+		<id>1170165</id>
+		<label>4</label>
+		<organization>Department of Electronic and Electrical Engineering, Loughborough University, LE11 3TU, UK.</organization>
+	</publication>
+	<publication>
+		<title>Comments on 'Estimation of frequencies and damping factors by two-dimensional ESPRIT type methods</title>
+		<year>2005</year>
+		<authors>Yang Wang,Jian-Wen Chen,Zhong Liu</authors>
+		<jconf>IEEE Transactions on Signal Processing</jconf>
+		<id>1175320</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of optical proximity correction technology</title>
+		<year>2008</year>
+		<authors>Yici Cai,Qiang Zhou,Xianlong Hong,Rui Shi,Yang Wang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180538</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>It is time for a computer application degree</title>
+		<year>2006</year>
+		<authors>Yang Wang</authors>
+		<jconf>SIGCSE Bulletin</jconf>
+		<id>1182584</id>
+		<label>32</label>
+		<organization>Missouri State University, Springfield, Missouri</organization>
+	</publication>
+	<publication>
+		<title>Serial hook-ups: a comparative usability study of secure device pairing methods</title>
+		<year>2009</year>
+		<authors>Alfred Kobsa,Rahim Sonawalla,Gene Tsudik,Ersin Uzun,Yang Wang</authors>
+		<jconf>SOUPS</jconf>
+		<id>1216340</id>
+		<label>11</label>
+		<organization>University of California, Irvine</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Moving Vehicle Detection With Cast Shadow Removal in Video Based on Conditional Random Field</title>
+		<year>2009</year>
+		<authors>Y. Wang</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1227630</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rearrangeable and nonblocking [w, f] -distributors</title>
+		<year>2009</year>
+		<authors>Hung Q. Ngo,Yang Wang,Dazhen Pan</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1227971</id>
+		<label>9</label>
+		<organization>Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY</organization>
+	</publication>
+	<publication>
+		<title>Effects of Suffix Repetition Rates of a String on the Performance of String Matching Algorithms</title>
+		<year>2009</year>
+		<authors>Yang Wang</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>1236071</id>
+		<label>32</label>
+		<organization>Comput. Sci. Dept., Missouri State Univ., Springfield, MO, USA</organization>
+	</publication>
+	<publication>
+		<title>An Energy-efficient Disjoint Path Routing Approach for Wireless Ad-hoc Networks</title>
+		<year>2009</year>
+		<authors>Xiaojun Cao,Barnali Chakrabarty,Yang Wang,Fei Hu</authors>
+		<jconf>ISCA PDCCS</jconf>
+		<id>1236613</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tree-based Burst Aggregation in Optical Burst Switching Networks</title>
+		<year>2009</year>
+		<authors>Xiaojun Cao,Yichuan Wang,Yang Wang,Chunsheng Xin</authors>
+		<jconf>ISCA PDCCS</jconf>
+		<id>1236618</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Cookie-Based DDoS Protection Scheme and its Performance Analysis</title>
+		<year>2009</year>
+		<authors>Rongfei Zeng,Chuang Lin,Hongkun Yang,Yuanzhuo Wang,Yang Wang,Peter D. Ungsunan</authors>
+		<jconf>AINA</jconf>
+		<id>1237409</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Traffic Density Estimation with On-line SVM Classifier</title>
+		<year>2009</year>
+		<authors>Thanes Wassantachat,Zhidong Li,Jing Chen,Yang Wang,Evan Tan</authors>
+		<jconf>AVSS</jconf>
+		<id>1238028</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incremental EM for Probabilistic Latent Semantic Analysis on Human Action Recognition</title>
+		<year>2009</year>
+		<authors>Jie Xu,Getian Ye,Yang Wang,Gunawan Herman,Bang Zhang,Jun Yang</authors>
+		<jconf>AVSS</jconf>
+		<id>1238052</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the performance of adaptive traffic signal control</title>
+		<year>2009</year>
+		<authors>Chen Cai,Bernhard Hengst,Getian Ye,Enyang Huang,Yang Wang,Carlos Aydos,Glenn Geers</authors>
+		<jconf>Mathematik für Informatiker</jconf>
+		<id>1244190</id>
+		<label>22</label>
+		<organization>University of New South Wales</organization>
+	</publication>
+	<publication>
+		<title>Situating Productive Play: Online Gaming Practices and Guanxi in China</title>
+		<year>2009</year>
+		<authors>Silvia Lindtner,Scott D. Mainwaring,Paul Dourish,Yang Wang</authors>
+		<jconf>INTERACT (1)</jconf>
+		<id>1250008</id>
+		<label>11</label>
+		<organization>Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440</organization>
+	</publication>
+	<publication>
+		<title>Network processing performability evaluation on heterogeneous reliability multicore processors using SRN model</title>
+		<year>2009</year>
+		<authors>Peter D. Ungsunan,Chuang Lin,Yang Wang,Yi Gai</authors>
+		<jconf>IPDPS</jconf>
+		<id>1250432</id>
+		<label>26</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Personalized Modeling and Assessment of the Aortic-Mitral Coupling from 4D TEE and CT</title>
+		<year>2009</year>
+		<authors>Razvan Ioan Ionasec,Ingmar Voigt,Bogdan Georgescu,Yang Wang,Helene Houle,Joachim Hornegger,Nassir Navab,Dorin Comaniciu</authors>
+		<jconf>MICCAI (1)</jconf>
+		<id>1252713</id>
+		<label>9</label>
+		<organization>Integrated Data Systems, Siemens Corporate Research, Princeton, USA</organization>
+	</publication>
+	<publication>
+		<title>Developing a multifunctional network laboratory for teaching and research</title>
+		<year>2009</year>
+		<authors>Xiaojun Cao,Yang Wang,Adrian Caciula,Yichuan Wang</authors>
+		<jconf>SIGITE Conference</jconf>
+		<id>1256102</id>
+		<label>18</label>
+		<organization>Georgia State University, Atlanta, GA, USA</organization>
+	</publication>
+	<publication>
+		<title>Upright cluster services</title>
+		<year>2009</year>
+		<authors>Allen Clement,Manos Kapritsos,Sangmin Lee,Yang Wang,Lorenzo Alvisi,Michael Dahlin,Taylor Riche</authors>
+		<jconf>SOSP</jconf>
+		<id>1256310</id>
+		<label>17</label>
+		<organization>The University of Texas at Austin, Austin, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation of a Privacy-Enhancing Framework for Personalized Websites</title>
+		<year>2009</year>
+		<authors>Yang Wang,Alfred Kobsa</authors>
+		<jconf>Computer Science - R&D</jconf>
+		<id>1256849</id>
+		<label>11</label>
+		<organization>Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Privacy in Online Social Networking at Workplace</title>
+		<year>2009</year>
+		<authors>Yang Wang,Alfred Kobsa</authors>
+		<jconf>Computers & Electrical Engineering</jconf>
+		<id>1261130</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient SAN-Level Caching Method Based on Chunk-Aging</title>
+		<year>2007</year>
+		<authors>Jiwu Shu,Yang Wang,Wei Xue,Yifeng Luo</authors>
+		<jconf>I. J. Network Security</jconf>
+		<id>1265747</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Group-by Query Process in Middleware of Large Scale Data Intensive Systems</title>
+		<year>2009</year>
+		<authors>Huaiming Song,Mingyuan An,Yang Wang,Weiping Wang,Ninghui Sun</authors>
+		<jconf>NAS</jconf>
+		<id>1265757</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Products of Mealy-type fuzzy finite state machines</title>
+		<year>2009</year>
+		<authors>Jun Liu,Zhiwen Mo,Dong Qiu,Yang Wang</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>1272901</id>
+		<label>28</label>
+		<organization>College of Mathematics and Software Science, Sichuan Normal University, Chengdu, Sichuan 610066, PR China</organization>
+	</publication>
+	<publication>
+		<title>Efficient constrained local model fitting for non-rigid face alignment</title>
+		<year>2009</year>
+		<authors>Simon Lucey,Yang Wang,Mark Cox,Sridha Sridharan,Jeffrey F. Cohn</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>1277034</id>
+		<label>9</label>
+		<organization>Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA</organization>
+	</publication>
+	<publication>
+		<title>Human Action Recognition by Semilatent Topic Models</title>
+		<year>2009</year>
+		<authors>Yang Wang,Greg Mori</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1280210</id>
+		<label>3</label>
+		<organization>Simon Fraser University, Burnaby</organization>
+	</publication>
+	<publication>
+		<title>Face Relighting from a Single Image under Arbitrary Unknown Lighting Conditions</title>
+		<year>2009</year>
+		<authors>Yang Wang,Lei Zhang,Zicheng Liu,Gang Hua,Zhen Wen,Zhengyou Zhang,Dimitris Samaras</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1280264</id>
+		<label>9</label>
+		<organization>Carnegie Mellon University, Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>A distributed Key Message algorithm to optimize the communication in clusters</title>
+		<year>2009</year>
+		<authors>Yang Wang,Ming Zhu,Hua Li</authors>
+		<jconf>Parallel Computing</jconf>
+		<id>1280266</id>
+		<label>9</label>
+		<organization>Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8</organization>
+	</publication>
+	<publication>
+		<title>An Implicit Finite Difference Scheme with Preconditioning for Convection Dominated Diffusion Equation.</title>
+		<year>2009</year>
+		<authors>Lunji Song,Yujiang Wu,Yang Wang,Sa Xie</authors>
+		<jconf>null</jconf>
+		<id>1316694</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a workflow-aware distributed versioning file system for metacomputing systems.</title>
+		<year>2005</year>
+		<authors>Yang Wang</authors>
+		<jconf>null</jconf>
+		<id>1319230</id>
+		<label>9</label>
+		<organization>Dept. of Comput. Sci., Alberta Univ., Alta., Canada</organization>
+	</publication>
+	<publication>
+		<title>Effective Criterion Functions for Efficient Agglomerative Clustering on Very Large Networks.</title>
+		<year>2009</year>
+		<authors>Yang Wang,Mingyuan An</authors>
+		<jconf>null</jconf>
+		<id>1319499</id>
+		<label>14</label>
+		<organization>Key Lab. of Comput. Syst. & Archit., Grad. Univ. of Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Heuristic Approach to Reconstruct Triangle Mesh from Unorganized Point Cloud.</title>
+		<year>2009</year>
+		<authors>Hanming Lv,Yang Wang</authors>
+		<jconf>null</jconf>
+		<id>1322770</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Security Analysis of Enterprise Network Based on Stochastic Game Nets Model.</title>
+		<year>2009</year>
+		<authors>Yuanzhuo Wang,Chuang Lin,Yang Wang,Kun Meng</authors>
+		<jconf>null</jconf>
+		<id>1324063</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recognition of Coronary Heart Disease Patients by RBF Neural Network Basing on Contents of Microelements in Human Blood.</title>
+		<year>2009</year>
+		<authors>Wei You,Yang Wang,Baoan Wo,Shuiqing Lv,Aili Zhan,Wenjing Sun</authors>
+		<jconf>null</jconf>
+		<id>1327868</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Iterative Filtering as an Alternative Algorithm for Empirical Mode Decomposition.</title>
+		<year>2009</year>
+		<authors>Luan Lin,Yang Wang,Haomin Zhou</authors>
+		<jconf>Advances in Adaptive Data Analysis</jconf>
+		<id>1346806</id>
+		<label>51</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence of a Convolution-Filtering-Based Algorithm for Empirical Mode Decomposition.</title>
+		<year>2009</year>
+		<authors>Chao Huang,Lihua Yang,Yang Wang</authors>
+		<jconf>Advances in Adaptive Data Analysis</jconf>
+		<id>1346833</id>
+		<label>51</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Vector-Control System of PMSM Based on Internal Model Control of Current Loop</title>
+		<year>2009</year>
+		<authors>Jun Liu,Meng-zhi Huang,Yang Wang</authors>
+		<jconf>Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 01</jconf>
+		<id>1364978</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing Model of Blasting Parameters Based on Fuzzy Neural Network</title>
+		<year>2009</year>
+		<authors>Haiwang Ye,Yang Wang,Jian Chang,Fang Liu,Peng Yao</authors>
+		<jconf>Proceedings of the 2009 International Conference on Multimedia Information Networking and Security - Volume 02</jconf>
+		<id>1365237</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on the Robustness of a Proportional Integral Switching Surface Based on Sliding Mode Control</title>
+		<year>2009</year>
+		<authors>Jun Liu,Yang Wang,Meng-zhi Huang,Jian-bo Lu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Advanced Computer Control</jconf>
+		<id>1389656</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementation of a modified Marder-Weitzner method for solving nonlinear eigenvalue problems</title>
+		<year>2009</year>
+		<authors>Yu-Jiang Wu,Yang Wang,Min-Li Zeng,Ai-Li Yang</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1393585</id>
+		<label>30</label>
+		<organization>School of Mathematics and Statistics, Lanzhou University, Lanzhou 730000, PR China</organization>
+	</publication>
+	<publication>
+		<title>On the use of high-order ambiguity function for multi-component polynomial phase signals</title>
+		<year>1998</year>
+		<authors>Yang Wang,Guotong Zhou</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1395941</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parameter-dependent connected component of gray images and image understanding, segmentation and stereo correspondence</title>
+		<year>1998</year>
+		<authors>Yang Wang</authors>
+		<jconf>null</jconf>
+		<id>1397715</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>'No representation without information flow': measuring efficacy and efficiency of representationan: an information theoretic approach</title>
+		<year>2009</year>
+		<authors>Junkang Feng,Yang Wang</authors>
+		<jconf>WSEAS Transactions on Computers</jconf>
+		<id>1429210</id>
+		<label>41</label>
+		<organization>Database Research Group, School of Computing, University of the West of Scotland, UK</organization>
+	</publication>
+	<publication>
+		<title>Plenary lecture 1: an information flow based model of representation for developing informatics as an academic discipline</title>
+		<year>2009</year>
+		<authors>Junkang Feng,Yang Wang</authors>
+		<jconf>Proceedings of the 8th Wseas international conference on Telecommunications and informatics</jconf>
+		<id>1431711</id>
+		<label>41</label>
+		<organization>University of the West of Scotland, UK</organization>
+	</publication>
+	<publication>
+		<title>Multidimensional two-scale dilation equations</title>
+		<year>1993</year>
+		<authors>Marc A. Berger,Yang Wang</authors>
+		<jconf>Wavelets: a tutorial in theory and applications</jconf>
+		<id>1509974</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Arbitrarily smooth orthogonal nonseparable wavelets in R2</title>
+		<year>1999</year>
+		<authors>Eugene Belogay,Yang Wang</authors>
+		<jconf>SIAM Journal on Mathematical Analysis</jconf>
+		<id>1552445</id>
+		<label>52</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Segment Hough Transform -- a Novel Hough-based Algorithm for Curve Detection</title>
+		<year>2007</year>
+		<authors>Hanxi Li,Hong Zheng,Yang Wang</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1582098</id>
+		<label>33</label>
+		<organization>Beihang University, China</organization>
+	</publication>
+	<publication>
+		<title>Research on Optimization Algorithm for Attribute Reduction of Decision System</title>
+		<year>2008</year>
+		<authors>Yang Wang</authors>
+		<jconf>Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing</jconf>
+		<id>1593781</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing of LED Illuminating System and Testing Notice</title>
+		<year>2009</year>
+		<authors>Tao Liu,Feng-bao Yang,Jun Yu,Yang Wang</authors>
+		<jconf>Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02</jconf>
+		<id>1650066</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topology control for delay-constraint data collection in wireless sensor networks</title>
+		<year>2009</year>
+		<authors>Hongli Xu,Liusheng Huang,Wang Liu,Gang Wang,Yang Wang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>1654199</id>
+		<label>42</label>
+		<organization>School of Computer Science & Technology, Univ. of Science & Technology of China, Hefei, Anhui 230027, PR China and Suzhou Institute for Advanced Study, Univ. of Science & Technology of China, Suzhou, Jiangsu 215123, PR China</organization>
+	</publication>
+	<publication>
+		<title>On validity of m-step multisplitting preconditioners for linear systems</title>
+		<year>2002</year>
+		<authors>Zhi-Hao Cao,Yang Wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1702825</id>
+		<label>35</label>
+		<organization>Laboratory of Mathematics for Nonlinear Sciences and Department of Mathematics, Fudan University, Shanghai, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Conditional Random Field Model for Foreground and Shadow Segmentation</title>
+		<year>2006</year>
+		<authors>Yang Wang</authors>
+		<jconf>IEEE Transactions on Pattern Analysis and Machine Intelligence</jconf>
+		<id>1708576</id>
+		<label>19</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Distributed parallel processing in networks of workstations</title>
+		<year>1995</year>
+		<authors>Yang Wang</authors>
+		<jconf>null</jconf>
+		<id>1721233</id>
+		<label>0</label>
+		<organization>Ohio Univ.</organization>
+	</publication>
+	<publication>
+		<title>High performance first principles method for complex magnetic properties</title>
+		<year>1998</year>
+		<authors>B. Ujfalussy,Xindong Wang,Xiaoguang Zhang,D. M. C. Nicholson,W. A. Shelton,G. M. Stocks,A. Canning,Yang Wang,B. L. Gyorffy</authors>
+		<jconf>Proceedings of the 1998 ACM/IEEE conference on Supercomputing (CDROM)</jconf>
+		<id>1729984</id>
+		<label>13</label>
+		<organization>Pittsburgh Supercomputing Center, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Research on Vehicle Image Classifier Based on Concentration Regulating of Immune Clonal Selection</title>
+		<year>2008</year>
+		<authors>Hong Zheng,Du Jiaying,Zhaorui Liu,Yang Wang</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 06</jconf>
+		<id>1748776</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Study on the Harmonious Operation of Logistics Finance Management of Supply Chain in Ports-Hinterland Based on System Dynamics</title>
+		<year>2008</year>
+		<authors>Yang Wang,Xing-rui Ma,Yuan-zhi Chen</authors>
+		<jconf>Proceedings of the 2008 International Conference on Risk Management & Engineering Management</jconf>
+		<id>1750633</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Needle-Holding Robot for Ultrasound Guided Percutaneous Hepatic Microwave Ablation and Initial Experiments</title>
+		<year>2008</year>
+		<authors>Shuangcheng Deng,Lipei Jiang,Yingyu Cao,Ping Liang,He Ren,Tong Lu,Yang Wang</authors>
+		<jconf>Proceedings of the First International Conference on Intelligent Robotics and Applications: Part II</jconf>
+		<id>1754477</id>
+		<label>49</label>
+		<organization>Department of Ultrasound, General Hospital of PLA, Beijing, China 100853</organization>
+	</publication>
+</person>

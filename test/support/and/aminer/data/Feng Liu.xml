@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>13166</personID>
+	<FullName>Feng Liu</FullName>
+	<FirstName>Feng</FirstName>
+	<LastName>Liu</LastName>
+	<publication>
+		<title>Environment Lighting for Point Sampled Geometry</title>
+		<year>2006</year>
+		<authors>Feng Liu,Sushil Bhakar,Thomas Fevens,Sudhir P. Mudur</authors>
+		<jconf>CGIV</jconf>
+		<id>7957</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Environment Lighting for Point Sampled Geometry</title>
+		<year>2006</year>
+		<authors>Feng Liu,Sushil Bhakar,Thomas Fevens,Sudhir P. Mudur</authors>
+		<jconf>CGIV</jconf>
+		<id>7959</id>
+		<label>0</label>
+		<organization>Concordia University, Canada</organization>
+	</publication>
+	<publication>
+		<title>A Novel Greedy Bayesian Network Structure Learning Algorithm for Limited Data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>ADMA</jconf>
+		<id>27564</id>
+		<label>2</label>
+		<organization>Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Network Structure Ensemble Learning</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>ADMA</jconf>
+		<id>27565</id>
+		<label>2</label>
+		<organization>Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Web Service for Tele-Communication</title>
+		<year>2006</year>
+		<authors>Wu Chou,Feng Liu,Li Li</authors>
+		<jconf>AICT/ICIW</jconf>
+		<id>32866</id>
+		<label>4</label>
+		<organization>Avaya Labs Research, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Research on System Integrative Evaluation Method Based on Survivability</title>
+		<year>2008</year>
+		<authors>Wei-Hua Jiang,Jun Du,Feng Liu</authors>
+		<jconf>AINA Workshops</jconf>
+		<id>36716</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Integrated Supporting System for Mesh-Pull Based P2P IPTV</title>
+		<year>2008</year>
+		<authors>Bo Wen,Feng Liu,Luoming Meng</authors>
+		<jconf>APNOMS</jconf>
+		<id>45935</id>
+		<label>6</label>
+		<organization>Network Management Research Centre, Beijing Jiaotong University, and Engineering Research Center of Network Management Technology for High Speed Railway, Ministry of Education, Beijing, P.R. China 100044</organization>
+	</publication>
+	<publication>
+		<title>Transform BPEL Workflow into Hierarchical CP-Nets to Make Tool Support for Verification</title>
+		<year>2006</year>
+		<authors>Yanping Yang,QingPing Tan,Yong Xiao,Feng Liu,Jinshan Yu</authors>
+		<jconf>APWeb</jconf>
+		<id>48495</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Ordering-Based Greedy Bayesian Network Learning Algorithm on Limited Data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60208</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ensembling Bayesian network structure learning on limited data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>CIKM</jconf>
+		<id>96421</id>
+		<label>2</label>
+		<organization>Beijing University of Posts and Telecommunications, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>An Improved Particle Swarm Optimizer for Truss Structure Optimization</title>
+		<year>2006</year>
+		<authors>Lijuan Li,Zhibin Huang,Feng Liu</authors>
+		<jconf>CIS</jconf>
+		<id>97372</id>
+		<label>8</label>
+		<organization>Guangdong Univ. of Technol., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>An Architecture of Wireless Web and Dialogue System Convergence for Multimodal Service Interaction Over Converged Networks</title>
+		<year>2003</year>
+		<authors>Feng Liu,J. Jenny Li,Xueshan Shan,Wu Chou</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112373</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collaboration upon Heterogeneous Platforms - from Desktop PC to Handheld Device</title>
+		<year>2006</year>
+		<authors>Feng Liu,Ling Chen,Gencai Chen</authors>
+		<jconf>CSCWD</jconf>
+		<id>122597</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WS-SLA: A Framework for Web Services Oriented Service Level Agreements</title>
+		<year>2006</year>
+		<authors>Wenhui Sun,Jinyu Zhang,Feng Liu</authors>
+		<jconf>CSCWD</jconf>
+		<id>122615</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving the Performance of Gene Mention Recognition System using Reformed Lexicon-based Support Vector Machine</title>
+		<year>2007</year>
+		<authors>Yifei Chen,Feng Liu,Bernard Manderick</authors>
+		<jconf>DMIN</jconf>
+		<id>158806</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Texture-Consistent Shadow Removal</title>
+		<year>2008</year>
+		<authors>Feng Liu,Michael Gleicher</authors>
+		<jconf>ECCV (4)</jconf>
+		<id>169754</id>
+		<label>10</label>
+		<organization>Computer Sciences Department, University of Wisconsin-Madison,</organization>
+	</publication>
+	<publication>
+		<title>Adaptive spectrum-based variable bit truncation of discrete cosine transform (DCT) for energy-efficient wireless multimedia communication</title>
+		<year>2004</year>
+		<authors>Feng Liu,Chi-Ying Tsui</authors>
+		<jconf>ESTImedia</jconf>
+		<id>189873</id>
+		<label>14</label>
+		<organization>Hong Kong Univ. of Sci. & Technol., China</organization>
+	</publication>
+	<publication>
+		<title>A Data Discarding Framework for Reducing the Energy Consumption of Viterbi Decoder in Decoding Broadcasted Wireless Multi-Resolution JPEG2000 Images</title>
+		<year>2005</year>
+		<authors>Feng Liu,Chi-Ying Tsui</authors>
+		<jconf>ESTImedia</jconf>
+		<id>189875</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Low Complexity MPEG Video Decoder with Arbitrary Downscaling Capability</title>
+		<year>2006</year>
+		<authors>Shu Shi,Feng Liu,Xu Cheng</authors>
+		<jconf>ESTImedia</jconf>
+		<id>189928</id>
+		<label>10</label>
+		<organization>Microprocessor R&D Center, Peking Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Forward and Inverse Solutions of Electrocardiography Problem Using an Adaptive BEM Method</title>
+		<year>2007</year>
+		<authors>Guofa Shou,Ling Xia,Mingfeng Jiang,Feng Liu,Stuart Crozier</authors>
+		<jconf>FIMH</jconf>
+		<id>206318</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Heuristic Algorithm for Constructing Delay- and Degree-Bounded Application-Level Multicast Tree</title>
+		<year>2005</year>
+		<authors>Feng Liu,Xicheng Lu,Yuxing Peng</authors>
+		<jconf>GCC</jconf>
+		<id>223846</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neighbor Relationship and Optimization in Mesh Overlay Multicast</title>
+		<year>2008</year>
+		<authors>Bo Wen,Feng Liu,Zhen Liu,Fei Ma</authors>
+		<jconf>HPCC</jconf>
+		<id>253577</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Greedy Bayesian Network Learning Algorithm on Limited Data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>ICANN (1)</jconf>
+		<id>272767</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Algorithm of Gray Watermark Embedding</title>
+		<year>2006</year>
+		<authors>Yong-zeng Shen,Min-jie Zhang,Feng Liu</authors>
+		<jconf>ICAT</jconf>
+		<id>273762</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Networking Business Model In Regional Medical Service- Case of Chikamori Medical Group in Kochi, Japan</title>
+		<year>2008</year>
+		<authors>Feng Liu,M. Hirano,Peiqian Liu</authors>
+		<jconf>ICC</jconf>
+		<id>276727</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low Complexity MMSE Vector Precoding Using Lattice Reduction for MIMO Systems</title>
+		<year>2007</year>
+		<authors>Feng Liu,Ling-ge Jiang,Chen He</authors>
+		<jconf>ICC</jconf>
+		<id>277915</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Self-supervised Learning Framework for Classifying Microarray Gene Expression Data</title>
+		<year>2006</year>
+		<authors>Yijuan Lu,Qi Tian,Feng Liu,Maribel Sanchez,Yufeng Wang</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>279502</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Crowd Simulation</title>
+		<year>2003</year>
+		<authors>Feng Liu,Ronghua Liang</authors>
+		<jconf>ICCSA (1)</jconf>
+		<id>291555</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Remaining Delivery Time Estimation Based Routing for Intermittently Connected Mobile Networks</title>
+		<year>2008</year>
+		<authors>Feng Liu,Ming Li,Run Zhang,He Zhang,Zhen Xu</authors>
+		<jconf>ICDCS Workshops</jconf>
+		<id>299212</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Ordering-Based Greedy Bayesian Network Learning Algorithm on Limited Data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>ICDM Workshops</jconf>
+		<id>303513</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Named Entity Recognition in Biomedical Literature Using Two-Layer Support Vector Machines</title>
+		<year>2007</year>
+		<authors>Feng Liu,Yifei Chen,Bernard Manderick</authors>
+		<jconf>ICEIS (2)</jconf>
+		<id>307872</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Named Entity Recognition in Biomedical Literature: A Comparison of Support Vector Machines and Conditional Random Fields</title>
+		<year>2007</year>
+		<authors>Feng Liu,Yifei Chen,Bernard Manderick</authors>
+		<jconf>ICEIS (Selected Papers)</jconf>
+		<id>308482</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating and Comparing Biomedical Term Identification Systems</title>
+		<year>2008</year>
+		<authors>Yifei Chen,Feng Liu,Bernard Manderick</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>314642</id>
+		<label>11</label>
+		<organization>Computational Modeling Lab, Vrije Universiteit Brussel, Brussels, Belgium 1050</organization>
+	</publication>
+	<publication>
+		<title>Incomplete motion feature tracking algorithm in video sequences</title>
+		<year>2002</year>
+		<authors>Zhongxiang Luo,Yueting Zhuang,Feng Liu,Yunhe Pan</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>319481</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Region Enhanced Scale-Invariant Saliency Detection</title>
+		<year>2006</year>
+		<authors>Feng Liu,Michael Gleicher</authors>
+		<jconf>ICME</jconf>
+		<id>331967</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Context-Sensitive Kernel Functions: A Distance Function Viewpoint</title>
+		<year>2005</year>
+		<authors>Bram Vanschoenwinkel,Feng Liu,Bernard Manderick</authors>
+		<jconf>ICMLC</jconf>
+		<id>336530</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation Distribution of Algorithm for Fuzzy Clustering Gene Expression Data</title>
+		<year>2006</year>
+		<authors>Feng Liu,Juan Liu,Jing Feng,Huaibei Zhou</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337767</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Adaptive Blind Source Separation Based on Kernel Function</title>
+		<year>2005</year>
+		<authors>Feng Liu,Cao Zhexin,Qiang Zhi,Shaoqian Li,Min Liang</authors>
+		<jconf>ICNC (2)</jconf>
+		<id>337785</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending OpenMP for Heterogeneous Chip Multiprocessors</title>
+		<year>2003</year>
+		<authors>Feng Liu,Vipin Chaudhary</authors>
+		<jconf>ICPP</jconf>
+		<id>343683</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing the Location-aided Routing Protocol in Mobile Ad hoc Networks</title>
+		<year>2005</year>
+		<authors>Guisen Deng,Xuejun Zhang,Feng Liu,Jun Zhang</authors>
+		<jconf>ICWN</jconf>
+		<id>369981</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Service Enablement of Communication Services</title>
+		<year>2005</year>
+		<authors>Wu Chou,Li Li,Feng Liu</authors>
+		<jconf>ICWS</jconf>
+		<id>370592</id>
+		<label>4</label>
+		<organization>Avaya Labs Research</organization>
+	</publication>
+	<publication>
+		<title>WSIP - Web Service SIP Endpoint for Converged Multimedia/Multimodal Communication over IP</title>
+		<year>2004</year>
+		<authors>Feng Liu,Wu Chou,Li Li,J. Jenny Li</authors>
+		<jconf>ICWS</jconf>
+		<id>370771</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>WIP: Web Service Initiation Protocol for Multimedia and Voice Communication over IP</title>
+		<year>2006</year>
+		<authors>Wu Chou,Li Li,Feng Liu</authors>
+		<jconf>ICWS</jconf>
+		<id>370844</id>
+		<label>4</label>
+		<organization>Avaya Labs Research, 233 Mt. Airy Road, Basking Ridge, NJ 07920, USA</organization>
+	</publication>
+	<publication>
+		<title>Semantic Modeling and Design Patterns for Asynchronous Events in Web Service Interaction</title>
+		<year>2006</year>
+		<authors>Li Li,Wu Chou,Feng Liu,Dan Zhuo</authors>
+		<jconf>ICWS</jconf>
+		<id>371067</id>
+		<label>4</label>
+		<organization>Avaya Labs Research, Avaya Inc.</organization>
+	</publication>
+	<publication>
+		<title>TARGET: Two-way Web Service Router Gateway</title>
+		<year>2006</year>
+		<authors>Feng Liu,Gesan Wang,Wu Chou,Lookman Fazal,Li Li</authors>
+		<jconf>ICWS</jconf>
+		<id>371069</id>
+		<label>4</label>
+		<organization>Avaya Labs Research, Basking Ridge, NJ</organization>
+	</publication>
+	<publication>
+		<title>A Semantic QoS-Aware Discovery Framework for Web Services</title>
+		<year>2008</year>
+		<authors>Qian Ma,Hao Wang,Ying Li,Guotong Xie,Feng Liu</authors>
+		<jconf>ICWS</jconf>
+		<id>371108</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Services Methods for Communication over IP</title>
+		<year>2007</year>
+		<authors>Wu Chou,Li Li,Feng Liu</authors>
+		<jconf>ICWS</jconf>
+		<id>371227</id>
+		<label>4</label>
+		<organization>Avaya Inc., Ridge</organization>
+	</publication>
+	<publication>
+		<title>Research on Radar Targets Recognition by Extracting 3-D Characteristic from ISAR Images</title>
+		<year>2004</year>
+		<authors>Feng Liu,Jiadong Xu</authors>
+		<jconf>Intelligent Information Processing</jconf>
+		<id>379058</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Artificial Ventilation Modeling using Neuro-Fuzzy Hybrid System</title>
+		<year>2006</year>
+		<authors>Feng Liu,Geok See Ng,Chai Quek,Tsee Foong Loh</authors>
+		<jconf>IJCNN</jconf>
+		<id>393629</id>
+		<label>30</label>
+		<organization>Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Blind equalization Using nu- support vector regressor for constant modulus signals</title>
+		<year>2008</year>
+		<authors>Feng Liu,Hu-cheng An,Jia-ming Li,Lin-dong Ge</authors>
+		<jconf>IJCNN</jconf>
+		<id>394223</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Extensible Three-tier XML Dialogue System Architecture for Multimodal Interaction and Automated Agent Services</title>
+		<year>2005</year>
+		<authors>Li Li,Feng Liu,Wu Chou</authors>
+		<jconf>IMSA</jconf>
+		<id>398280</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptable Architecture for Secure Delivery of Converged Services</title>
+		<year>2003</year>
+		<authors>J. Jenny Li,Wu Chou,Xueshan Shan,Feng Liu,W. Eric Wong</authors>
+		<jconf>ISADS</jconf>
+		<id>416257</id>
+		<label>4</label>
+		<organization>Avaya Res. Labs, Basking Ridge, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Energy-aware optimal workload allocation among the battery-powered devices to maximize the co-operation life time</title>
+		<year>2006</year>
+		<authors>Feng Liu,Chi-Ying Tsui</authors>
+		<jconf>ISCAS</jconf>
+		<id>430562</id>
+		<label>14</label>
+		<organization>Hong Kong Univ. of Sci. & Technol.</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Distributed Algorithm for Constructing Delay and Degree-Bounded Application-Level Multicast Tree</title>
+		<year>2005</year>
+		<authors>Feng Liu,Xicheng Lu,Yuxing Peng,Jingshu Huang</authors>
+		<jconf>ISPAN</jconf>
+		<id>446159</id>
+		<label>7</label>
+		<organization>National Laboratory for Parallel & Distributed Processing,China</organization>
+	</publication>
+	<publication>
+		<title>Tests on Symmetry and Continuity between BSIM4 and BSIM5</title>
+		<year>2007</year>
+		<authors>Xudong Niu,Yan Song,Bo Li,Wei Bian,Yadong Tao,Feng Liu,Jinhua Hu,Yu Chen,Frank He</authors>
+		<jconf>ISQED</jconf>
+		<id>448486</id>
+		<label>10</label>
+		<organization>Sch. of Comput. & Inf. Eng., Peking Univ., Shenzhen</organization>
+	</publication>
+	<publication>
+		<title>Generic Carrier-Based Core Model for Four-Terminal Double-Gate MOSFET Valid for Symmetric, Asymmetric, SOI, and Independent Gate Operation Modes</title>
+		<year>2008</year>
+		<authors>Feng Liu,Jin He,Yue Fu,Jinhua Hu,Wei Bian,Yan Song,Xing Zhang,Mansun Chan</authors>
+		<jconf>ISQED</jconf>
+		<id>448559</id>
+		<label>10</label>
+		<organization>Peking Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Study on the Si-Ge Nanowire MOSFETs with the Core-Shell Structure</title>
+		<year>2008</year>
+		<authors>Yue Fu,Jin He,Feng Liu,Jie Feng,Chenyue Ma,Lining Zhang</authors>
+		<jconf>ISQED</jconf>
+		<id>448584</id>
+		<label>10</label>
+		<organization>Peking Univ., Shenzhen</organization>
+	</publication>
+	<publication>
+		<title>An analytic model for Ge/Si core/shell nanowire MOSFETs considering drift-diffusion and ballistic transport</title>
+		<year>2009</year>
+		<authors>Lining Zhang,Jin He,Jian Zhang,Feng Liu,Yue Fu,Yan Song,Xing Zhang</authors>
+		<jconf>ISQED</jconf>
+		<id>448673</id>
+		<label>10</label>
+		<organization>TSRC, Key Laboratory of Microelectronic Devices and Circuits of Ministry of Education, Institute of Microelectronics, EECS, Peking University, 100871, China</organization>
+	</publication>
+	<publication>
+		<title>A case study on system-level modeling by aspect-oriented programming</title>
+		<year>2009</year>
+		<authors>Feng Liu,Otmane Ait Mohamed,Xiaoyu Song,QingPing Tan</authors>
+		<jconf>ISQED</jconf>
+		<id>448886</id>
+		<label>7</label>
+		<organization>National Lab of Parallel Distributed Processing, Hunan, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Schemes for Monte Carlo Markov Chain Algorithms in Global Illumination</title>
+		<year>2008</year>
+		<authors>Yu-Chi Lai,Feng Liu,Li Zhang,Charles Dyer</authors>
+		<jconf>ISVC (1)</jconf>
+		<id>451861</id>
+		<label>10</label>
+		<organization>Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685</organization>
+	</publication>
+	<publication>
+		<title>Motion Path Synthesis for Intelligent Avatar</title>
+		<year>2003</year>
+		<authors>Feng Liu,Ronghua Liang</authors>
+		<jconf>IVA</jconf>
+		<id>461321</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Max-Relevance and Min-Redundancy Greedy Bayesian Network Learning Algorithm</title>
+		<year>2007</year>
+		<authors>Feng Liu,QiLiang Zhu</authors>
+		<jconf>IWINAC (1)</jconf>
+		<id>464826</id>
+		<label>2</label>
+		<organization>Department of Computer Science and Technology, Beijing University of Posts and Telecommunications,</organization>
+	</publication>
+	<publication>
+		<title>Video retargeting: automating pan and scan</title>
+		<year>2006</year>
+		<authors>Feng Liu,Michael Gleicher</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503374</id>
+		<label>10</label>
+		<organization>University of Wisconsin, Madison, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>Re-cinematography: improving the camera dynamics of casual video</title>
+		<year>2007</year>
+		<authors>Michael Gleicher,Feng Liu</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503551</id>
+		<label>10</label>
+		<organization>University of Wisconsin - Madison, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>Discovering panoramas in web videos</title>
+		<year>2008</year>
+		<authors>Feng Liu,Yu-hen Hu,Michael Gleicher</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503760</id>
+		<label>10</label>
+		<organization>University of Wisconsin-Madison, Madison, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>Noisy video super-resolution</title>
+		<year>2008</year>
+		<authors>Feng Liu,Jinjun Wang,Shenghuo Zhu,Michael Gleicher,Yihong Gong</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503812</id>
+		<label>10</label>
+		<organization>University of Wisconsin-Madison, Madison, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>Learning Bayesian Networks with Combination of MRMR Criterion and EMI Method</title>
+		<year>2007</year>
+		<authors>Fengzhan Tian,Feng Liu,Zhihai Wang,Jian Yu</authors>
+		<jconf>PAKDD</jconf>
+		<id>527413</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Motion Data Manipulation: Wavelet Based Motion Processing and Spacetime Rectification</title>
+		<year>2002</year>
+		<authors>Feng Liu,Yueting Zhuang,Zhongxiang Luo,Yunhe Pan</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531732</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Robust Algorithm for Video Based Human Motion Tracking</title>
+		<year>2002</year>
+		<authors>Feng Liu,Yueting Zhuang,Zhongxiang Luo,Yunhe Pan</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>531733</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Verifying Web Services Composition: A Transformation-Based Approach</title>
+		<year>2005</year>
+		<authors>Yanping Yang,QingPing Tan,Yong Xiao,Jinshan Yu,Feng Liu</authors>
+		<jconf>PDCAT</jconf>
+		<id>532876</id>
+		<label>7</label>
+		<organization>National University of Defense Technology Changsha, Hunan, China</organization>
+	</publication>
+	<publication>
+		<title>The Inconsistency in Rough Set Based Rule Generation</title>
+		<year>2000</year>
+		<authors>Guoyin Wang,Feng Liu</authors>
+		<jconf>Rough Sets and Current Trends in Computing</jconf>
+		<id>561674</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Hierarchical CP-Nets to Increase the Reliability of Web Services Workflow</title>
+		<year>2006</year>
+		<authors>Yanping Yang,QingPing Tan,Yong Xiao,Jinshan Yu,Feng Liu</authors>
+		<jconf>SAINT</jconf>
+		<id>571712</id>
+		<label>7</label>
+		<organization>National University of Defense Technology</organization>
+	</publication>
+	<publication>
+		<title>Web Service for Communication Service Management</title>
+		<year>2005</year>
+		<authors>Wu Chou,Li Li,Feng Liu</authors>
+		<jconf>SEKE</jconf>
+		<id>582638</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supremum of Agent Number Needed in Analyzing Security Protocols Based on Horn Logic</title>
+		<year>2008</year>
+		<authors>Feng Liu,Zhoujun Li,Ti Zhou,Mengjun Li</authors>
+		<jconf>SEKE</jconf>
+		<id>583106</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Computation of Algebraic Immunity of Symmetric Boolean Functions</title>
+		<year>2007</year>
+		<authors>Feng Liu,Keqin Feng</authors>
+		<jconf>TAMC</jconf>
+		<id>625949</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic image retargeting with fisheye-view warping</title>
+		<year>2005</year>
+		<authors>Feng Liu,Michael Gleicher</authors>
+		<jconf>UIST</jconf>
+		<id>634256</id>
+		<label>10</label>
+		<organization>University of Wisconsin-Madison, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>A Practical OpenMP Compiler for System on Chips</title>
+		<year>2003</year>
+		<authors>Feng Liu,Vipin Chaudhary</authors>
+		<jconf>WOMPAT</jconf>
+		<id>666065</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Frequent Itemset Mining Based on Heuristic Two Level Counting</title>
+		<year>2006</year>
+		<authors>Feng Liu,Fengzhan Tian,QiLiang Zhu</authors>
+		<jconf>ICICIC (2)</jconf>
+		<id>679415</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun.</organization>
+	</publication>
+	<publication>
+		<title>A Novel Chase Based Multiuser Detector for MIMO-CDMA Systems</title>
+		<year>2007</year>
+		<authors>Feng Liu,M. Reza Soleymani</authors>
+		<jconf>VTC Fall</jconf>
+		<id>687692</id>
+		<label>0</label>
+		<organization>Concordia Univ., Montreal</organization>
+	</publication>
+	<publication>
+		<title>An Architecture for Supporting Network Fault Recovery Management</title>
+		<year>2008</year>
+		<authors>Feng Liu,Antonis M. Hadjiantonis,Ha Manh Tran,Mina Amin</authors>
+		<jconf>AIMS</jconf>
+		<id>695382</id>
+		<label>9</label>
+		<organization>MNM Team, Ludwig-Maximilians-University Munich, Germany</organization>
+	</publication>
+	<publication>
+		<title>Multi-objective scheduling problems subjected to special process constraint</title>
+		<year>2008</year>
+		<authors>Jiaquan Gao,Guixia He,Yushun Wang,Feng Liu</authors>
+		<jconf>IEEE Congress on Evolutionary Computation</jconf>
+		<id>698320</id>
+		<label>17</label>
+		<organization>Zhijiang Coll., Zhejiang Univ. of Technol., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>A Projection and Search Algorithm for the Bicluster Problem</title>
+		<year>2008</year>
+		<authors>Feng Liu,Huaibei Zhou,Juan Liu</authors>
+		<jconf>CSSE (4)</jconf>
+		<id>729460</id>
+		<label>25</label>
+		<organization>Int. Sch. of Software, Wuhan Univ., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Network Optimization based on Genetic Algorithm and Estimation of Distribution Algorithm</title>
+		<year>2008</year>
+		<authors>Yao Qiu,Feng Liu,Xiao Huang</authors>
+		<jconf>CSSE (4)</jconf>
+		<id>729548</id>
+		<label>25</label>
+		<organization>Int. Sch. of Software, Wuhan Univ., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Free-space nano-optical devices and integration: Design, fabrication, and manufacturing</title>
+		<year>2005</year>
+		<authors>Jian Jim Wang,Xuegong Deng,Lei Chen,Paul F. Sciortino Jr,Feng Liu,Stephen Tai,Xiaoming Liu,Anguel Nikolov,Barry J. Weinbaum</authors>
+		<jconf>Bell Labs Technical Journal</jconf>
+		<id>762078</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual-Quality Optimizing Super Resolution</title>
+		<year>2009</year>
+		<authors>Feng Liu,Jinjun Wang,Shenghuo Zhu,Michael Gleicher,Yihong Gong</authors>
+		<jconf>Comput. Graph. Forum</jconf>
+		<id>788750</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D motion retrieval with motion index tree</title>
+		<year>2003</year>
+		<authors>Feng Liu,Yueting Zhuang,Fei Wu,Yunhe Pan</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>835113</id>
+		<label>10</label>
+		<organization>Institute of Artificial Intelligence, Zhejiang University, Microsoft Visual Perception Laboratory of Zhejiang University, Hangzhou, 310027, PR China</organization>
+	</publication>
+	<publication>
+		<title>The alignment problem of visual cryptography schemes</title>
+		<year>2009</year>
+		<authors>Feng Liu,Chuan Kun Wu,Xi Jun Lin</authors>
+		<jconf>Des. Codes Cryptography</jconf>
+		<id>842787</id>
+		<label>16</label>
+		<organization>The State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China 100190 and Graduate School of Chinese Academy of Sciences, Beijing, China 100190</organization>
+	</publication>
+	<publication>
+		<title>An optimal weather condition dependent approach for emission planning in urban areas</title>
+		<year>2007</year>
+		<authors>Feng Liu,Jiang Zhu,Fei Hu,Yuanhang Zhang</authors>
+		<jconf>Environmental Modelling and Software</jconf>
+		<id>871362</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Joint MMSE Vector Precoding Based on GMD Method for MIMO Systems</title>
+		<year>2007</year>
+		<authors>Feng Liu,Ling-ge Jiang,Chen He</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>895889</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lattice-Reduction-Aided MMSE Tomlinson-Harashima Precoding for MIMO Systems</title>
+		<year>2007</year>
+		<authors>Feng Liu,Ling-ge Jiang,Chen He</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>896162</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wideband Signal DOA Estimation Based on Modified Quantum Genetic Algorithm</title>
+		<year>2006</year>
+		<authors>Feng Liu,Shaoqian Li,Min Liang,Laizhao Hu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>896946</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Subspace-Based Blind Detection of Space-Time Coding</title>
+		<year>2006</year>
+		<authors>Zhengwei Gong,Taiyi Zhang,Haiyuan Liu,Feng Liu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898185</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constant Modulus Based Blind Channel Estimation for OFDM Systems</title>
+		<year>2006</year>
+		<authors>Zhigang Chen,Taiyi Zhang,Yatong Zhou,Feng Liu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>898442</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Wavelets Network Interpolation Algorithm for OFDM Channel Estimation Systems</title>
+		<year>2005</year>
+		<authors>Haiyuan Liu,Taiyi Zhang,Ruiping Zhang,Feng Liu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>899014</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Frequency Offset Estimator over Frequency Selective Fading Channels by Using Correlative Coding</title>
+		<year>2005</year>
+		<authors>Zhigang Chen,Taiyi Zhang,Feng Liu</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>899065</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quantitative QoS Management Implement Mechanism in IP-DiffServ</title>
+		<year>2005</year>
+		<authors>Zhang Jin-Yu,Li Liu,Li Hong-Hui,Feng Liu</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>973544</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multiple animated characters motion fusion</title>
+		<year>2002</year>
+		<authors>Zhongxiang Luo,Yueting Zhuang,Feng Liu,Yunhe Pan</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<id>1002846</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The pharmacogenetics and pharmacogenomics knowledge base: accentuating the knowledge</title>
+		<year>2008</year>
+		<authors>Tina Hernandez-Boussard,Michelle Whirl Carrillo,Joan M. Hebert,Li Gong,Ryan Owen,Mei Gong,Winston Gor,Feng Liu,Chuong Truong,Ryan Whaley,Mark Woon,Tina Zhou,Russ B. Altman,Teri E. Klein</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1021336</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Generic Hebbian Ordering-Based Fuzzy Rule Base Reduction Approach to Mamdani Neuro-Fuzzy System</title>
+		<year>2007</year>
+		<authors>Feng Liu,Chai Quek,Geok See Ng</authors>
+		<jconf>Neural Computation</jconf>
+		<id>1023835</id>
+		<label>30</label>
+		<organization>fliu@pmail.ntu.edu.sg</organization>
+	</publication>
+	<publication>
+		<title>Color text image binarization based on binary texture analysis</title>
+		<year>2005</year>
+		<authors>Bin Wang,Xiang-Feng Li,Feng Liu,Fu-Qiao Hu</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046167</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Color text image binarization based on binary texture analysis</title>
+		<year>2005</year>
+		<authors>Bin Wang,Xiang-Feng Li,Feng Liu,Fu-Qiao Hu</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046168</id>
+		<label>19</label>
+		<organization>Inst. Image Process. & Pattern Recognition, Shanghai Jiao Tong Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Interactive Semisupervised Learning for Microarray Analysis</title>
+		<year>2007</year>
+		<authors>Yijuan Lu,Qi Tian,Feng Liu,Maribel Sanchez,Yufeng Wang</authors>
+		<jconf>IEEE/ACM Trans. Comput. Biology Bioinform.</jconf>
+		<id>1087022</id>
+		<label>22</label>
+		<organization>Dept. of Comput. Sci., Texas Univ., San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Integrating SIP in Converged Multimodal/Multimedia Communication Services</title>
+		<year>2005</year>
+		<authors>Feng Liu,Wu Chou,Weiping Guo,W. Eric Wong</authors>
+		<jconf>Telecommunication Systems</jconf>
+		<id>1099314</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A note on 'a mapping algorithm for computer-assisted exploration in the design of embedded systems</title>
+		<year>2007</year>
+		<authors>Gang Chen,Xiaoyu Song,Feng Liu,QingPing Tan,Fei He</authors>
+		<jconf>ACM Trans. Design Autom. Electr. Syst.</jconf>
+		<id>1118051</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Re-cinematography: Improving the camerawork of casual video</title>
+		<year>2008</year>
+		<authors>Michael Gleicher,Feng Liu</authors>
+		<jconf>TOMCCAP</jconf>
+		<id>1121023</id>
+		<label>10</label>
+		<organization>University of Wisconsin-Madison, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>A novel analytical scheme to compute the n-fold convolution of exponential-sum distribution functions</title>
+		<year>2004</year>
+		<authors>N.-Y. Ma,Feng Liu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148241</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wavelet-based diffusion approaches for signal denoising</title>
+		<year>2007</year>
+		<authors>Feng Liu,Xiao E. Ruan</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1151049</id>
+		<label>21</label>
+		<organization>Department of Information Science, School of Science, Xi'an Jiaotong University, Xi'an, 710049, PR China</organization>
+	</publication>
+	<publication>
+		<title>MMSE vector precoding with joint transmitter and receiver design for MIMO systems</title>
+		<year>2007</year>
+		<authors>Feng Liu,Ling-ge Jiang,Chen He</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1151386</id>
+		<label>19</label>
+		<organization>Department of Electronic Engineering, Shanghai Jiao Tong University, Shanghai 200240, China</organization>
+	</publication>
+	<publication>
+		<title>Adaptive discriminant analysis for microarray-based classification</title>
+		<year>2008</year>
+		<authors>Yijuan Lu,Qi Tian,Jennifer L. Neary,Feng Liu,Yufeng Wang</authors>
+		<jconf>TKDD</jconf>
+		<id>1167784</id>
+		<label>22</label>
+		<organization>The University of Texas at San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>Improving TCP Throughput over HSDPA Networks</title>
+		<year>2008</year>
+		<authors>Fengyuan Ren,Xiaomeng Huang,Feng Liu,Chuang Lin</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1177034</id>
+		<label>23</label>
+		<organization>Comput. Sci. & Technol. Dept., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Diffusion filtering in image processing based on wavelet transform</title>
+		<year>2006</year>
+		<authors>Feng Liu</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180412</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stabilization of switched linear systems with bounded disturbances and unobservable switchings</title>
+		<year>2007</year>
+		<authors>Feng Liu</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180467</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Content-preserving warps for 3D video stabilization</title>
+		<year>2009</year>
+		<authors>Feng Liu,Michael Gleicher,Hailin Jin,Aseem Agarwala</authors>
+		<jconf>ACM Trans. Graph.</jconf>
+		<id>1227885</id>
+		<label>10</label>
+		<organization>University of Wisconsin-Madison</organization>
+	</publication>
+	<publication>
+		<title>A new verification-based fast-match for large vocabulary continuous speech recognition</title>
+		<year>2005</year>
+		<authors>Mohamed Afify,Feng Liu,Hui Jiang,Olivier Siohan</authors>
+		<jconf>IEEE Transactions on Speech and Audio Processing</jconf>
+		<id>1229123</id>
+		<label>4</label>
+		<organization>BBN Technol., Cambridge, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>DHT-Based Range Query Processing for Web Service Discovery</title>
+		<year>2009</year>
+		<authors>Yiming Zhang,Ling Liu,Dongsheng Li,Feng Liu,Xicheng Lu</authors>
+		<jconf>ICWS</jconf>
+		<id>1248990</id>
+		<label>7</label>
+		<organization>Nat. Lab. for Parallel & Distrib. Process. (PDL), Nat. Univ. of Defense Technol., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Using Web Photos for Measuring Video Frame Interestingness</title>
+		<year>2009</year>
+		<authors>Feng Liu,Yuzhen Niu,Michael Gleicher</authors>
+		<jconf>IJCAI</jconf>
+		<id>1249422</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Factors Affecting Software Projects' Budget - A Case Study</title>
+		<year>2009</year>
+		<authors>Jie Liu,Feng Liu</authors>
+		<jconf>Software Engineering Research and Practice</jconf>
+		<id>1255616</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transmission Scheduling in Data-Driven Peer-to-Peer Streaming towards Optimal Throughput</title>
+		<year>2009</year>
+		<authors>Jiqing Wu,Yuxing Peng,Feng Liu</authors>
+		<jconf>NAS</jconf>
+		<id>1265811</id>
+		<label>7</label>
+		<organization>Nat. Lab. for Parallel & Distrib. Process., Nat. Univ. of Defense Technol., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Cloud Computing-Based Architecture for Freight System Application in China Railway</title>
+		<year>2009</year>
+		<authors>Baopeng Zhang,Ning Zhang,Honghui Li,Feng Liu,Kai Miao</authors>
+		<jconf>BRICS Dissertation Series</jconf>
+		<id>1265940</id>
+		<label>6</label>
+		<organization>Beijing JiaoTong University</organization>
+	</publication>
+	<publication>
+		<title>Impulsive control of bifurcations</title>
+		<year>2009</year>
+		<authors>Feng Liu,Zhi-Hong Guan,Hua O. Wang,Yuqing Li</authors>
+		<jconf>Mathematics and Computers in Simulation</jconf>
+		<id>1284068</id>
+		<label>21</label>
+		<organization>School of Mechanics and Electronic Information, China University of Geosciences, Wuhan 430074, PR China and Department of Control Science and Engineering, Huazhong University of Science and Technology, Wuhan 430074, PR China</organization>
+	</publication>
+	<publication>
+		<title>A Measurement and Modeling Study of P2P IPTV Applications.</title>
+		<year>2008</year>
+		<authors>Feng Liu,Zhitang Li</authors>
+		<jconf>null</jconf>
+		<id>1303970</id>
+		<label>21</label>
+		<organization>Dept. of Comput. Sci. & Technol., Huazhong Univ. of Sci. & Technol., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>A Quick Group Search Optimizer with Passive Congregation and its Convergence Analysis.</title>
+		<year>2009</year>
+		<authors>Guang Qin,Feng Liu,Lijuan Li</authors>
+		<jconf>null</jconf>
+		<id>1304153</id>
+		<label>8</label>
+		<organization>Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A Topology Optimization for Truss Based on Improved Group Search Optimizer.</title>
+		<year>2009</year>
+		<authors>Haobin Xie,Feng Liu,Lijuan Li</authors>
+		<jconf>null</jconf>
+		<id>1304154</id>
+		<label>8</label>
+		<organization>Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Learning color and locality cues for moving object detection and segmentation.</title>
+		<year>2009</year>
+		<authors>Feng Liu,Michael Gleicher</authors>
+		<jconf>null</jconf>
+		<id>1304955</id>
+		<label>10</label>
+		<organization>Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>A Comparative Study of Parallel Prefix Adders in FPGA Implementation of EAC.</title>
+		<year>2009</year>
+		<authors>Feng Liu,Fariborz Fereydouni-Forouzandeh,Otmane Aït Mohamed,Gang Chen,Xiaoyu Song,QingPing Tan</authors>
+		<jconf>null</jconf>
+		<id>1305701</id>
+		<label>7</label>
+		<organization>Nat. Lab. of Parallel Distrib. Process., Hunan, China</organization>
+	</publication>
+	<publication>
+		<title>Anode-ALM: An Aggregation-Based Application Level Multicast for Media Streaming.</title>
+		<year>2009</year>
+		<authors>Feng Liu,Yuxing Peng,Xicheng Lu</authors>
+		<jconf>null</jconf>
+		<id>1324718</id>
+		<label>7</label>
+		<organization>Parallel & Distrib. Process. Lab., Nation Univ. of Defense Technol., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>Using Simulation to Characterize Topology of Peer to Peer Botnets.</title>
+		<year>2009</year>
+		<authors>Junfeng Yu,Zhitang Li,Jun Hu,Feng Liu,Lingyun Zhou</authors>
+		<jconf>null</jconf>
+		<id>1328706</id>
+		<label>21</label>
+		<organization>Coll. of Comput. Sci. & Technol., Huazhong Univ. of Sci. & Technol., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Frequency sensitivity in Hodgkin-Huxley systems.</title>
+		<year>2001</year>
+		<authors>Yuguo Yu,Feng Liu,Wei Wang</authors>
+		<jconf>Biological Cybernetics</jconf>
+		<id>1332583</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamics of the noisy neural network.</title>
+		<year>1997</year>
+		<authors>Feng Liu,Wei Wang,Xixian Yao</authors>
+		<jconf>Biological Cybernetics</jconf>
+		<id>1332870</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Microarray Gene Expression Data by Hybrid Discriminant Analysis.</title>
+		<year>2007</year>
+		<authors>Yijuan Lu,Qi Tian,Maribel Sanchez,Jennifer L. Neary,Feng Liu,Yufeng Wang</authors>
+		<jconf>IEEE MultiMedia</jconf>
+		<id>1337769</id>
+		<label>22</label>
+		<organization>University of Texas at San Antonio</organization>
+	</publication>
+	<publication>
+		<title>Splice Site Prediction using Support Vector Machines with Context-Sensitive Kernel Functions.</title>
+		<year>2009</year>
+		<authors>Yifei Chen,Feng Liu,Bram Vanschoenwinkel,Bernard Manderick</authors>
+		<jconf>J. UCS</jconf>
+		<id>1339899</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design about Real-time Fault Detection Information System of the Transformer Substation</title>
+		<year>2009</year>
+		<authors>Yuejun Liu,Jing Su,Feng Liu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 02</jconf>
+		<id>1383282</id>
+		<label>17</label>
+		<organization>Dept. of Continue Educ., Anyang Normal Univ., Anyang</organization>
+	</publication>
+	<publication>
+		<title>The Performance Analysis of an Improved Robust Beamforming Algorithm</title>
+		<year>2009</year>
+		<authors>Chun-Jing Liu,Shu Zhang,Feng Liu</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 01</jconf>
+		<id>1394551</id>
+		<label>27</label>
+		<organization>Coll. of Inf. & Commun. Eng., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Robust Color-Based Tracking</title>
+		<year>2004</year>
+		<authors>Feng Liu,Qingshan Liu,Hanqing Lu</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1411175</id>
+		<label>16</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Grid Method and Its Application to Steady Euler Flow Calculations</title>
+		<year>1999</year>
+		<authors>Feng Liu,Shanhong Ji,Guojun Liao</authors>
+		<jconf>SIAM Journal on Scientific Computing</jconf>
+		<id>1552492</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Level-set-based deformation methods for adaptive grids</title>
+		<year>2000</year>
+		<authors>Guojun Liao,Feng Liu,Gary C. De la Pena,Danping Peng,Stanley Osher</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1556193</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Use clustering to improve neural network in financial time series prediction</title>
+		<year>2007</year>
+		<authors>Feng Liu,Peng Du,Fangfei Weng,Jun Qu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 02</jconf>
+		<id>1577144</id>
+		<label>1</label>
+		<organization>Xiamen University, China</organization>
+	</publication>
+	<publication>
+		<title>Max-Relevance and Min-Redundancy Greedy Bayesian Network Learning on High Dimensional Data</title>
+		<year>2007</year>
+		<authors>Feng Liu,Qiliang Zhu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 01</jconf>
+		<id>1579327</id>
+		<label>2</label>
+		<organization>Beijing University of Posts and Telecommunications, China</organization>
+	</publication>
+	<publication>
+		<title>Whole-frame Error concealment with improved backward motion estimation for H.264 decoders</title>
+		<year>2007</year>
+		<authors>Shi-Chen Sui,Feng Liu,Ping Xue</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1585222</id>
+		<label>31</label>
+		<organization>Nanjing Univ. of Posts & Telecomm, China</organization>
+	</publication>
+	<publication>
+		<title>SceBoost Learning Algorithm for Feature Selection</title>
+		<year>2007</year>
+		<authors>Min Zhang,Qingsheng Zhu,Feng Liu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 01</jconf>
+		<id>1585311</id>
+		<label>3</label>
+		<organization>Chongqing University, China</organization>
+	</publication>
+	<publication>
+		<title>An Effective Error Concealment Framework For H.264 Decoder Based on Video Scene Change Detection</title>
+		<year>2007</year>
+		<authors>Ji Zhang,Feng Liu,Hui Shao,Gang Wang</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1585574</id>
+		<label>31</label>
+		<organization>Nanjing Univ. of Posts & Telecomm, China</organization>
+	</publication>
+	<publication>
+		<title>An Improved Particle Swarm Optimizer for Truss Structure Optimization</title>
+		<year>2007</year>
+		<authors>Lijuan Li,Zhibin Huang,Feng Liu</authors>
+		<jconf>Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers</jconf>
+		<id>1591694</id>
+		<label>8</label>
+		<organization>Guangdong University of Technology, Guangzhou, 510006, China</organization>
+	</publication>
+	<publication>
+		<title>Truth and absolute truth in neutrosophic logic</title>
+		<year>2004</year>
+		<authors>Feng Liu</authors>
+		<jconf>Smarandache Notions Journal</jconf>
+		<id>1613683</id>
+		<label>13</label>
+		<organization>Dept. of Economic Information, School of Information (Xinxi Xueyuan), Xi'an University of Finance and Economics (Xi'an Caijing Xueyuan), 44 Cuihua Nan Road (Cuihua Nanlu 44 Hao), Xi'an, Shaanxi Province, 710061, P. R. China</organization>
+	</publication>
+	<publication>
+		<title>Toward excitation and inhibition in neutrosophic logic: a multiagent model based on ying-yang philosophy</title>
+		<year>2004</year>
+		<authors>Feng Liu</authors>
+		<jconf>Smarandache Notions Journal</jconf>
+		<id>1614096</id>
+		<label>13</label>
+		<organization>Dept. of Economic Information, School of Information (Xinxi Xueyuan), Xi'an University of Finance and Economics (Xi'an Caijing Xueyuan), 44 Cuihua Nan Road (Cuihua Nanlu 44 Hao), Xi'an, Shaanxi Province, 710061, P. R. China</organization>
+	</publication>
+	<publication>
+		<title>Intentionally and unintentionally: on both, A and non-A, in neutrosophy</title>
+		<year>2002</year>
+		<authors>Feng Liu,Florentin Smarandache</authors>
+		<jconf>Octogon Mathematical Magazine</jconf>
+		<id>1616452</id>
+		<label>13</label>
+		<organization>Department of Management Science and Engineering, Shaanxi Economics and Trade Institute (South Campus), South Cuihua Road, Xi'an, Shaanxi, 710061, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Foreward</title>
+		<year>2002</year>
+		<authors>Jack Allen,Feng Liu,Dragoş Constantinescu</authors>
+		<jconf>Smarandache notions</jconf>
+		<id>1702924</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Paradoxes review</title>
+		<year>2002</year>
+		<authors>Feng Liu</authors>
+		<jconf>Smarandache Notions Journal</jconf>
+		<id>1703212</id>
+		<label>13</label>
+		<organization>Dept. of Management Science and Engineering, Shaanxi Economics and Trade Institute (South Campus), South Cuihua Road, Xi'an Shaanxi, 710061, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Smarandache notions</title>
+		<year>2002</year>
+		<authors>Jack Allen,Feng Liu,Dragoş Constantinescu</authors>
+		<jconf>null</jconf>
+		<id>1704731</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Group Search Optimizer and its Application on Truss Structure Design</title>
+		<year>2008</year>
+		<authors>Feng Liu,Xiao-Tong Xu,Li-Juan Li</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07</jconf>
+		<id>1750054</id>
+		<label>8</label>
+		<organization>Guangdong Univ. of Technol., Guangzhou</organization>
+	</publication>
+</person>

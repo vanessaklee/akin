@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>69226</personID>
+	<FullName>Thomas Zimmermann</FullName>
+	<FirstName>Thomas</FirstName>
+	<LastName>Zimmermann</LastName>
+	<publication>
+		<title>Amica: einfache, uniforme Nutzung heterogener, verteilter, dynamischer Ressourcen</title>
+		<year>1999</year>
+		<authors>Torsten Fink,Thomas Zimmermann,Eberhard Zehendner</authors>
+		<jconf>ARCS Workshops</jconf>
+		<id>48920</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting vulnerable software components</title>
+		<year>2007</year>
+		<authors>Stephan Neuhaus,Thomas Zimmermann,Christian Holler,Andreas Zeller</authors>
+		<jconf>ACM Conference on Computer and Communications Security</jconf>
+		<id>84211</id>
+		<label>1</label>
+		<organization>University of Calgary, Alberta, Canada</organization>
+	</publication>
+	<publication>
+		<title>Visualizing Memory Graphs</title>
+		<year>2001</year>
+		<authors>Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>Software Visualization</jconf>
+		<id>138528</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Aspects from Version History</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann</authors>
+		<jconf>Aspects For Legacy Applications</jconf>
+		<id>138995</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HAM: Cross-cutting Concerns in Eclipse</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>Aspects For Legacy Applications</jconf>
+		<id>138998</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Eclipse for CrossCutting</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>Aspects For Legacy Applications</jconf>
+		<id>138999</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Additions of Method Calls in ArgoUML</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig,V. Benjamin Livshits</authors>
+		<jconf>Aspects For Legacy Applications</jconf>
+		<id>139001</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Project History to Support Programmers</title>
+		<year>2005</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>GI Jahrestagung (1)</jconf>
+		<id>231780</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Taking lessons from history</title>
+		<year>2006</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>ICSE</jconf>
+		<id>363476</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Mining Version Histories to Guide Software Changes</title>
+		<year>2004</year>
+		<authors>Thomas Zimmermann,Peter Weisgerber,Stephan Diehl,Andreas Zeller</authors>
+		<jconf>ICSE</jconf>
+		<id>363477</id>
+		<label>1</label>
+		<organization>Saarland University</organization>
+	</publication>
+	<publication>
+		<title>Predicting Faults from Cached History</title>
+		<year>2007</year>
+		<authors>Sunghun Kim,Thomas Zimmermann,E. James Whitehead Jr,Andreas Zeller</authors>
+		<jconf>ICSE</jconf>
+		<id>363503</id>
+		<label>1</label>
+		<organization>Saarland University, Germany</organization>
+	</publication>
+	<publication>
+		<title>Predicting defects using network analysis on dependency graphs</title>
+		<year>2008</year>
+		<authors>Thomas Zimmermann,Nachiappan Nagappan</authors>
+		<jconf>ICSE</jconf>
+		<id>363725</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary, AB, Canada</organization>
+	</publication>
+	<publication>
+		<title>4th International Workshop on Mining Software Repositories (MSR 2007)</title>
+		<year>2007</year>
+		<authors>Harald Gall,Michele Lanza,Thomas Zimmermann</authors>
+		<jconf>ICSE Companion</jconf>
+		<id>363734</id>
+		<label>1</label>
+		<organization>Saarland Univ., Germany</organization>
+	</publication>
+	<publication>
+		<title>Duplicate bug reports considered harmful ... really?</title>
+		<year>2008</year>
+		<authors>Nicolas Bettenburg,Rahul Premraj,Thomas Zimmermann,Sunghun Kim</authors>
+		<jconf>ICSM</jconf>
+		<id>364928</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MythSE Myths in Software Engineering Half day ICSM 2007Working Session</title>
+		<year>2007</year>
+		<authors>Ahmed E. Hassan,Thomas Zimmermann</authors>
+		<jconf>ICSM</jconf>
+		<id>364992</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting component failures at design time</title>
+		<year>2006</year>
+		<authors>Adrian Schroter,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>ISESE</jconf>
+		<id>435217</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>DEFECTS 2008: international workshop on defects in large software systems</title>
+		<year>2008</year>
+		<authors>Premkumar T. Devanbu,Brendan Murphy,Nachiappan Nagappan,Thomas Zimmermann,Valentin Dallmeier</authors>
+		<jconf>ISSTA</jconf>
+		<id>451025</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary, AB, Canada</organization>
+	</publication>
+	<publication>
+		<title>How History Justifies System Architecture (or Not)</title>
+		<year>2003</year>
+		<authors>Thomas Zimmermann,Stephan Diehl,Andreas Zeller</authors>
+		<jconf>IWPSE</jconf>
+		<id>465896</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>How documentation evolves over time</title>
+		<year>2007</year>
+		<authors>Daniel Schreck,Valentin Dallmeier,Thomas Zimmermann</authors>
+		<jconf>IWPSE</jconf>
+		<id>465898</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Mining Aspects from Version History</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann</authors>
+		<jconf>ASE</jconf>
+		<id>471426</id>
+		<label>1</label>
+		<organization>Saarland University, Germany</organization>
+	</publication>
+	<publication>
+		<title>Automatic Identification of Bug-Introducing Changes</title>
+		<year>2006</year>
+		<authors>Sunghun Kim,Thomas Zimmermann,Kai Pan,E. James Whitehead Jr</authors>
+		<jconf>ASE</jconf>
+		<id>471614</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extraction of bug localization benchmarks from history</title>
+		<year>2007</year>
+		<authors>Valentin Dallmeier,Thomas Zimmermann</authors>
+		<jconf>ASE</jconf>
+		<id>472061</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Fast Data Mining For Programming Support</title>
+		<year>2004</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>LWA</jconf>
+		<id>488330</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining version archives for co-changed lines</title>
+		<year>2006</year>
+		<authors>Thomas Zimmermann,Sunghun Kim,Andreas Zeller,E. James Whitehead Jr</authors>
+		<jconf>MSR</jconf>
+		<id>508878</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining eclipse for cross-cutting concerns</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>MSR</jconf>
+		<id>508889</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Extracting structural information from bug reports</title>
+		<year>2008</year>
+		<authors>Nicolas Bettenburg,Rahul Premraj,Thomas Zimmermann,Sunghun Kim</authors>
+		<jconf>MSR</jconf>
+		<id>508926</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary, AB, Canada</organization>
+	</publication>
+	<publication>
+		<title>TA-RE: an exchange language for mining software repositories</title>
+		<year>2006</year>
+		<authors>Sunghun Kim,Thomas Zimmermann,Miryung Kim,Ahmed E. Hassan,Audris Mockus,Tudor Girba,Martin Pinzger,E. James Whitehead Jr,Andreas Zeller</authors>
+		<jconf>MSR</jconf>
+		<id>508943</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining usage expertise from version archives</title>
+		<year>2008</year>
+		<authors>David Schuler,Thomas Zimmermann</authors>
+		<jconf>MSR</jconf>
+		<id>508946</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary, AB, Canada</organization>
+	</publication>
+	<publication>
+		<title>When do changes induce fixes?</title>
+		<year>2005</year>
+		<authors>Jacek Sliwerski,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>MSR</jconf>
+		<id>508968</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining additions of method calls in ArgoUML</title>
+		<year>2006</year>
+		<authors>Thomas Zimmermann,Silvia Breu,Christian Lindig,V. Benjamin Livshits</authors>
+		<jconf>MSR</jconf>
+		<id>508982</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>How Long Will It Take to Fix This Bug?</title>
+		<year>2007</year>
+		<authors>Cathrin Weis,Rahul Premraj,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>MSR</jconf>
+		<id>508997</id>
+		<label>1</label>
+		<organization>Saarland University, Germany</organization>
+	</publication>
+	<publication>
+		<title>Mining Workspace Updates in CVS</title>
+		<year>2007</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>MSR</jconf>
+		<id>509001</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrucken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Aspect mining for large systems</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>521927</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Aspect mining for large systems</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>521928</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>eROSE: guiding programmers in eclipse</title>
+		<year>2005</year>
+		<authors>Thomas Zimmermann,Valentin Dallmeier,Konstantin Halachev,Andreas Zeller</authors>
+		<jconf>OOPSLA Companion</jconf>
+		<id>522924</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Predicting Software Metrics at Design Time</title>
+		<year>2008</year>
+		<authors>Wolfgang Holz,Rahul Premraj,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>PROFES</jconf>
+		<id>552964</id>
+		<label>1</label>
+		<organization>University of Calgary, Canada</organization>
+	</publication>
+	<publication>
+		<title>Was Software-Archive erzahlen</title>
+		<year>2006</year>
+		<authors>Stephan Diehl,Andreas Zeller,Thomas Zimmermann</authors>
+		<jconf>Software Engineering</jconf>
+		<id>579478</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Explaining Product Release Planning Results Using Concept Analysis</title>
+		<year>2008</year>
+		<authors>Gengshen Du,Thomas Zimmermann,Gunther Ruhe</authors>
+		<jconf>SEKE</jconf>
+		<id>583095</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DynaMine: finding common error patterns by mining software revision histories</title>
+		<year>2005</year>
+		<authors>V. Benjamin Livshits,Thomas Zimmermann</authors>
+		<jconf>ESEC/SIGSOFT FSE</jconf>
+		<id>601226</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HATARI: raising risk awareness</title>
+		<year>2005</year>
+		<authors>Jacek Sliwerski,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>ESEC/SIGSOFT FSE</jconf>
+		<id>601302</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What makes a good bug report?</title>
+		<year>2008</year>
+		<authors>Nicolas Bettenburg,Sascha Just,Adrian Schroter,Cathrin Weiss,Rahul Premraj,Thomas Zimmermann</authors>
+		<jconf>SIGSOFT FSE</jconf>
+		<id>601589</id>
+		<label>1</label>
+		<organization>University of Calgary, Alberta, Canada</organization>
+	</publication>
+	<publication>
+		<title>Towards the next generation of bug tracking systems</title>
+		<year>2008</year>
+		<authors>Sascha Just,Rahul Premraj,Thomas Zimmermann</authors>
+		<jconf>VL/HCC</jconf>
+		<id>641672</id>
+		<label>1</label>
+		<organization>University of Calgary, AB, Canada</organization>
+	</publication>
+	<publication>
+		<title>Building Software Cost Estimation Models using Homogenous Data</title>
+		<year>2007</year>
+		<authors>Rahul Premraj,Thomas Zimmermann</authors>
+		<jconf>ESEM</jconf>
+		<id>708138</id>
+		<label>1</label>
+		<organization>Saarland University, Germany</organization>
+	</publication>
+	<publication>
+		<title>HAM: cross-cutting concerns in Eclipse</title>
+		<year>2006</year>
+		<authors>Silvia Breu,Thomas Zimmermann,Christian Lindig</authors>
+		<jconf>ETX</jconf>
+		<id>710910</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Fine-grained processing of CVS archives with APFEL</title>
+		<year>2006</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>ETX</jconf>
+		<id>710911</id>
+		<label>1</label>
+		<organization>Saarland University, Saarbrücken, Germany</organization>
+	</publication>
+	<publication>
+		<title>Quality of bug reports in Eclipse</title>
+		<year>2007</year>
+		<authors>Nicolas Bettenburg,Sascha Just,Adrian Schroter,Cathrin Weis,Rahul Premraj,Thomas Zimmermann</authors>
+		<jconf>ETX</jconf>
+		<id>710982</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary, Alberta, Canada</organization>
+	</publication>
+	<publication>
+		<title>Predicting faults from cached history</title>
+		<year>2008</year>
+		<authors>Sunghun Kim,Thomas Zimmermann,E. James Whitehead Jr,Andreas Zeller</authors>
+		<jconf>ISEC</jconf>
+		<id>734670</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Object-Oriented Symbolic Derivation and Automatic Programming of Finite Elements in Mechanics</title>
+		<year>1999</year>
+		<authors>Dominique Eyheramendy,Thomas Zimmermann</authors>
+		<jconf>Eng. Comput. (Lond.)</jconf>
+		<id>874200</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Drawing Graphs Within Graphs</title>
+		<year>2005</year>
+		<authors>Paul Holleis,Thomas Zimmermann,Daniel Gmach</authors>
+		<jconf>J. Graph Algorithms Appl.</jconf>
+		<id>981372</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Version Histories to Guide Software Changes</title>
+		<year>2005</year>
+		<authors>Thomas Zimmermann,Peter Weisgerber,Stephan Diehl,Andreas Zeller</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1129938</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Do Crosscutting Concerns Cause Defects?</title>
+		<year>2008</year>
+		<authors>Marc Eaddy,Thomas Zimmermann,Kaitin D. Sherwood,Vibhav Garg,Gail C. Murphy,Nachiappan Nagappan,Alfred V. Aho</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1130107</id>
+		<label>1</label>
+		<organization>University of Calgary, Calgary</organization>
+	</publication>
+	<publication>
+		<title>Where do bugs come from?</title>
+		<year>2006</year>
+		<authors>Adrian Schroter,Thomas Zimmermann,Rahul Premraj,Andreas Zeller</authors>
+		<jconf>ACM SIGSOFT Software Engineering Notes</jconf>
+		<id>1179624</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>When do changes induce fixes?</title>
+		<year>2005</year>
+		<authors>Jacek Sliwerski,Thomas Zimmermann,Andreas Zeller</authors>
+		<jconf>ACM SIGSOFT Software Engineering Notes</jconf>
+		<id>1179676</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting Bugs from History</title>
+		<year>2008</year>
+		<authors>Thomas Zimmermann,Nachiappan Nagappan,Andreas Zeller</authors>
+		<jconf>Software Evolution</jconf>
+		<id>1202713</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting defects in SAP Java code: An experience report</title>
+		<year>2009</year>
+		<authors>Tilman Holschuh,Markus Pauser,Kim Herzig,Thomas Zimmermann,Rahul Premraj,Andreas Zeller</authors>
+		<jconf>ICSE Companion</jconf>
+		<id>1210480</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving bug tracking systems</title>
+		<year>2009</year>
+		<authors>Thomas Zimmermann,Rahul Premraj,Jonathan Sillito,Silvia Breu</authors>
+		<jconf>ICSE Companion</jconf>
+		<id>1210635</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: Mining Software Archives</title>
+		<year>2009</year>
+		<authors>Nachiappan Nagappan,Andreas Zeller,Thomas Zimmermann</authors>
+		<jconf>IEEE Software</jconf>
+		<id>1227475</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>Expert recommendation with usage expertise</title>
+		<year>2009</year>
+		<authors>David Ma,David Schuler,Thomas Zimmermann,Jonathan Sillito</authors>
+		<jconf>ICSM</jconf>
+		<id>1248517</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Changes and bugs - Mining and predicting development activities</title>
+		<year>2009</year>
+		<authors>Thomas Zimmermann</authors>
+		<jconf>ICSM</jconf>
+		<id>1248524</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cross-project defect prediction: a large scale experiment on data vs. domain vs. process</title>
+		<year>2009</year>
+		<authors>Thomas Zimmermann,Nachiappan Nagappan,Harald Gall,Emanuel Giger,Brendan Murphy</authors>
+		<jconf>ESEC/SIGSOFT FSE</jconf>
+		<id>1256145</id>
+		<label>1</label>
+		<organization>Microsoft Research, Redmond, WA, USA</organization>
+	</publication>
+	<publication>
+		<title>Improving bug triage with bug tossing graphs</title>
+		<year>2009</year>
+		<authors>Gaeul Jeong,Sunghun Kim,Thomas Zimmermann</authors>
+		<jconf>ESEC/SIGSOFT FSE</jconf>
+		<id>1256174</id>
+		<label>1</label>
+		<organization>Microsoft Research, Seattle, WA, USA</organization>
+	</publication>
+	<publication>
+		<title>Optimized assignment of developers for fixing bugs an initial evaluation for eclipse projects.</title>
+		<year>2009</year>
+		<authors>Md. Mainur Rahman,Günther Ruhe,Thomas Zimmermann</authors>
+		<jconf>null</jconf>
+		<id>1311606</id>
+		<label>1</label>
+		<organization>Microsoft Research One Microsoft Way Redmond, WA 98052, USA</organization>
+	</publication>
+	<publication>
+		<title>Predicting defects with program dependencies.</title>
+		<year>2009</year>
+		<authors>Thomas Zimmermann,Nachiappan Nagappan</authors>
+		<jconf>null</jconf>
+		<id>1311626</id>
+		<label>1</label>
+		<organization>Microsoft Research Redmond, WA, USA</organization>
+	</publication>
+	<publication>
+		<title>Information needs in bug reports: improving cooperation between developers and users.</title>
+		<year>2010</year>
+		<authors>Silvia Breu,Rahul Premraj,Jonathan Sillito,Thomas Zimmermann</authors>
+		<jconf>null</jconf>
+		<id>1322172</id>
+		<label>1</label>
+		<organization>Microsoft Research, Redmond, WA, USA</organization>
+	</publication>
+	<publication>
+		<title>Proceedings of the 2nd International Workshop on Defects in Large Software Systems: Held in conjunction with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2009)</title>
+		<year>2009</year>
+		<authors>Ben Liblit,Nachiappan Nagappan,Thomas Zimmermann</authors>
+		<jconf>International Symposium on Software Testing and Analysis</jconf>
+		<id>1431394</id>
+		<label>1</label>
+		<organization>Microsoft Research</organization>
+	</publication>
+	<publication>
+		<title>Object-oriented nonlinear finite element programming: a primer</title>
+		<year>2001</year>
+		<authors>Stéphane Commend,Thomas Zimmermann</authors>
+		<jconf>Advances in Engineering Software</jconf>
+		<id>1515583</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting Defects for Eclipse</title>
+		<year>2007</year>
+		<authors>Thomas Zimmermann,Rahul Premraj,Andreas Zeller</authors>
+		<jconf>Proceedings of the 29th International Conference on Software Engineering Workshops</jconf>
+		<id>1606051</id>
+		<label>1</label>
+		<organization>Saarland University</organization>
+	</publication>
+</person>

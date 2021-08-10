@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>68649</personID>
+	<FullName>Kuo Zhang</FullName>
+	<FirstName>Kuo</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>Weighted Ontology-Based Search Exploiting Semantic Similarity</title>
+		<year>2006</year>
+		<authors>Kuo Zhang,Jie Tang,MingCai Hong,Juan-Zi Li,Wei Wei</authors>
+		<jconf>APWeb</jconf>
+		<id>48550</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adapting Prime Number Labeling Scheme for Directed Acyclic Graphs</title>
+		<year>2006</year>
+		<authors>Gang Wu,Kuo Zhang,Can Liu,Juan-Zi Li</authors>
+		<jconf>DASFAA</jconf>
+		<id>140970</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Feature-Correlation Based Multi-view Detection</title>
+		<year>2005</year>
+		<authors>Kuo Zhang,Jie Tang,Juan-Zi Li,Kehong Wang</authors>
+		<jconf>ICCSA (4)</jconf>
+		<id>292290</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Practical Application of FDC in Software Service Pricing</title>
+		<year>2006</year>
+		<authors>Yan Zheng,Wei Sun,Zhong Bo Jiang,Rongzeng Cao,Kuo Zhang</authors>
+		<jconf>ICEBE</jconf>
+		<id>304700</id>
+		<label>1</label>
+		<organization>IBM China Research Lab</organization>
+	</publication>
+	<publication>
+		<title>Software as a Service: An Integration Perspective</title>
+		<year>2007</year>
+		<authors>Wei Sun,Kuo Zhang,Shyh-Kwei Chen,Xin Zhang,Haiqi Liang</authors>
+		<jconf>ICSOC</jconf>
+		<id>365350</id>
+		<label>1</label>
+		<organization>IBM China Research Lab,</organization>
+	</publication>
+	<publication>
+		<title>A Component-Based Reflective Middleware Approach to Context-Aware Adaptive Systems</title>
+		<year>2005</year>
+		<authors>Kuo Zhang,Yanni Wu,Zhenkun Zheng,Xiaoge Wang,Yu Chen</authors>
+		<jconf>ICWE</jconf>
+		<id>369424</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Term Committee Based Event Identification within News Topics</title>
+		<year>2008</year>
+		<authors>Kuo Zhang,Juan-Zi Li,Gang Wu,Kehong Wang</authors>
+		<jconf>PAKDD</jconf>
+		<id>527428</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New event detection based on indexing-tree and named entity</title>
+		<year>2007</year>
+		<authors>Kuo Zhang,Juan Zi,Li Gang Wu</authors>
+		<jconf>SIGIR</jconf>
+		<id>596169</id>
+		<label>0</label>
+		<organization>Tsinghua University</organization>
+	</publication>
+	<publication>
+		<title>Keyword Extraction Using Support Vector Machine</title>
+		<year>2006</year>
+		<authors>Kuo Zhang,Hui Xu,Jie Tang,Juan-Zi Li</authors>
+		<jconf>WAIM</jconf>
+		<id>652228</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Stakeholder Matrix: Supporting the Modeling of Responsibility in Situation-Oriented Directories</title>
+		<year>2007</year>
+		<authors>Markus Stolze,Kuo Zhang,Ying Huang,Noi Sukaviriya,Brian White,Jim Laredo</authors>
+		<jconf>CEC/EEE</jconf>
+		<id>659095</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Policy-Driven Approach for Software-as-Services Customization</title>
+		<year>2007</year>
+		<authors>Kuo Zhang,Xin Zhang,Wei Sun,Haiqi Liang,Ying Huang,Liangzhao Zeng,Xuanzhe Liu</authors>
+		<jconf>CEC/EEE</jconf>
+		<id>659196</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logical structure based semantic relationship extraction from semi-structured documents</title>
+		<year>2006</year>
+		<authors>Kuo Zhang,Gang Wu,Juan-Zi Li</authors>
+		<jconf>WWW</jconf>
+		<id>674355</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PURPLE: A Reflective Middleware for Pervasive Computing</title>
+		<year>2005</year>
+		<authors>Kuo Zhang,Xiaoge Wang,Yanni Wu,Zhenkun Zheng</authors>
+		<jconf>ICITA (1)</jconf>
+		<id>679697</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending Metadata with Scenarios in Adaptive Distributed System</title>
+		<year>2005</year>
+		<authors>Yanni Wu,Kuo Zhang,Xiaoge Wang,Jinlan Tian</authors>
+		<jconf>ICITA (2)</jconf>
+		<id>679862</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending metadata with scenarios in adaptive distributed system</title>
+		<year>2007</year>
+		<authors>Yanni Wu,Kuo Zhang,Xiaoge Wang,Jinlan Tian</authors>
+		<jconf>J. Network and Computer Applications</jconf>
+		<id>1168001</id>
+		<label>2</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing 100084, PR China</organization>
+	</publication>
+	<publication>
+		<title>Towards a Model Driven Service Engineering Process.</title>
+		<year>2008</year>
+		<authors>Ateret Anaby-Tavor,David Amid,Aviad Sela,Amit Fisher,Kuo Zhang,Ou Tie Jun</authors>
+		<jconf>null</jconf>
+		<id>1314633</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+</person>

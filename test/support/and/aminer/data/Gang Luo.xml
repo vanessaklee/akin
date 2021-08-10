@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>24739</personID>
+	<FullName>Gang Luo</FullName>
+	<FirstName>Gang</FirstName>
+	<LastName>Luo</LastName>
+	<publication>
+		<title>Intelligent Output Interface for Intelligent Medical Search Engine</title>
+		<year>2008</year>
+		<authors>Gang Luo</authors>
+		<jconf>AAAI</jconf>
+		<id>15664</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Abnormality Detection in Automated Mass Screening System of Diabetic Retinopathy</title>
+		<year>2001</year>
+		<authors>Gang Luo,Opas Chutatape,Huiqi Li,Shankar M. Krishnan</authors>
+		<jconf>CBMS</jconf>
+		<id>80421</id>
+		<label>2</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.</organization>
+	</publication>
+	<publication>
+		<title>Transaction reordering with application to synchronized scans</title>
+		<year>2008</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>CIKM</jconf>
+		<id>96518</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-time new event detection for video streams</title>
+		<year>2008</year>
+		<authors>Gang Luo,Rong Yan,Philip S. Yu</authors>
+		<jconf>CIKM</jconf>
+		<id>96521</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Content-based filtering for efficient online materialized view maintenance</title>
+		<year>2008</year>
+		<authors>Gang Luo,Philip S. Yu</authors>
+		<jconf>CIKM</jconf>
+		<id>96590</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>MedSearch: a specialized search engine for medical information retrieval</title>
+		<year>2008</year>
+		<authors>Gang Luo,Chunqiang Tang,Hao Yang,Xing Wei</authors>
+		<jconf>CIKM</jconf>
+		<id>96648</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Transaction reordering with application to synchronized scans</title>
+		<year>2008</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>DOLAP</jconf>
+		<id>159884</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Multi-query SQL Progress Indicators</title>
+		<year>2006</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Philip S. Yu</authors>
+		<jconf>EDBT</jconf>
+		<id>176475</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Non-Blocking Parallel Spatial Join Algorithm</title>
+		<year>2002</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann</authors>
+		<jconf>ICDE</jconf>
+		<id>300578</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Wisconsin Univ., Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of Three Methods for Join View Maintenance in Parallel RDBMS</title>
+		<year>2003</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>ICDE</jconf>
+		<id>300579</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>Increasing the Accuracy and Coverage of SQL Progress Indicators</title>
+		<year>2005</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>ICDE</jconf>
+		<id>300580</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center</organization>
+	</publication>
+	<publication>
+		<title>Partial Materialized Views</title>
+		<year>2007</year>
+		<authors>Gang Luo</authors>
+		<jconf>ICDE</jconf>
+		<id>301566</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SAO: A Stream Index for Answering Linear Optimization Queries</title>
+		<year>2007</year>
+		<authors>Gang Luo,Kun-Lung Wu,Philip S. Yu</authors>
+		<jconf>ICDE</jconf>
+		<id>301817</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Evaluation of the iMed Intelligent Medical Search Engine</title>
+		<year>2009</year>
+		<authors>Gang Luo</authors>
+		<jconf>ICDE</jconf>
+		<id>302275</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Res. Center, Hawthorne, NY</organization>
+	</publication>
+	<publication>
+		<title>Challenging issues in iterative intelligent medical search</title>
+		<year>2008</year>
+		<authors>Gang Luo,Chunqiang Tang</authors>
+		<jconf>ICPR</jconf>
+		<id>350527</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Low-Power Clock Skew Compensation Circuit</title>
+		<year>2008</year>
+		<authors>Rong Ji,Liang Chen,Gang Luo,Xianjun Zeng,Junfeng Zhang,Yingjie Feng</authors>
+		<jconf>ISVLSI</jconf>
+		<id>452590</id>
+		<label>8</label>
+		<organization>Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Fault Models in Testing</title>
+		<year>1991</year>
+		<authors>Gregor von Bochmann,Anindya Das,Rachida Dssouli,Martin Dubuc,Abderrazak Ghedamsi,Gang Luo</authors>
+		<jconf>Protocol Test Systems</jconf>
+		<id>555297</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating Tests for Control Portion of SDL Specifications</title>
+		<year>1993</year>
+		<authors>Gang Luo,Anindya Das,Gregor von Bochmann</authors>
+		<jconf>Protocol Test Systems</jconf>
+		<id>555396</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generating Synchronizable Test Sequences Based on Finite State Machine with Distributed Ports</title>
+		<year>1993</year>
+		<authors>Gang Luo,Rachida Dssouli,Gregor von Bochmann,Pallapa Venkataram,Abderrazak Ghedamsi</authors>
+		<jconf>Protocol Test Systems</jconf>
+		<id>555397</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On iterative intelligent medical search</title>
+		<year>2008</year>
+		<authors>Gang Luo,Chunqiang Tang</authors>
+		<jconf>SIGIR</jconf>
+		<id>596382</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>A scalable hash ripple join algorithm</title>
+		<year>2002</year>
+		<authors>Gang Luo,Curt J. Ellmann,Peter J. Haas,Jeffrey F. Naughton</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599233</id>
+		<label>0</label>
+		<organization>University of Wisconsin-Madison</organization>
+	</publication>
+	<publication>
+		<title>Toward a Progress Indicator for Database Queries</title>
+		<year>2004</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599239</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resource-adaptive real-time new event detection</title>
+		<year>2007</year>
+		<authors>Gang Luo,Chunqiang Tang,Philip S. Yu</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>600159</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, Hawthorne, NY</organization>
+	</publication>
+	<publication>
+		<title>Efficient Detection of Empty-Result Queries</title>
+		<year>2006</year>
+		<authors>Gang Luo</authors>
+		<jconf>VLDB</jconf>
+		<id>642144</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Locking Protocols for Materialized Aggregate Join Views</title>
+		<year>2003</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>VLDB</jconf>
+		<id>643214</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S</title>
+		<year>2007</year>
+		<authors>Kun-Lung Wu,Philip S. Yu,Bugra Gedik,Kirsten Hildrum,Charu C. Aggarwal,Eric Bouillet,Wei Fan,David George,Xiaohui Gu,Gang Luo,Haixun Wang</authors>
+		<jconf>VLDB</jconf>
+		<id>644209</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Answering relationship queries on the web</title>
+		<year>2007</year>
+		<authors>Gang Luo,Chunqiang Tang,Ying-li Tian</authors>
+		<jconf>WWW</jconf>
+		<id>675035</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center</organization>
+	</publication>
+	<publication>
+		<title>MedSearch: a specialized search engine for medical information</title>
+		<year>2007</year>
+		<authors>Gang Luo,Chunqiang Tang,Hao Yang,Xing Wei</authors>
+		<jconf>WWW</jconf>
+		<id>675098</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Rate Assignment and Power Control in Uplink UMTSW-CDMA Systems</title>
+		<year>2006</year>
+		<authors>Gang Luo,Lian Zhao</authors>
+		<jconf>CCECE</jconf>
+		<id>696485</id>
+		<label>6</label>
+		<organization>Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.</organization>
+	</publication>
+	<publication>
+		<title>Transaction Reordering and Grouping for Continuous Data Loading</title>
+		<year>2006</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>BIRTE</jconf>
+		<id>701956</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Steganalysis for Text Steganography Based on Font Format</title>
+		<year>2007</year>
+		<authors>Lingyun Xiang,Xingming Sun,Gang Luo,Can Gan</authors>
+		<jconf>IAS</jconf>
+		<id>716891</id>
+		<label>7</label>
+		<organization>Hunan University, China</organization>
+	</publication>
+	<publication>
+		<title>Detection of Hidden Information in Webpages Based on Randomness</title>
+		<year>2007</year>
+		<authors>Junwei Huang,Xingming Sun,Huajun Huang,Gang Luo</authors>
+		<jconf>IAS</jconf>
+		<id>716937</id>
+		<label>7</label>
+		<organization>Hunan University, China</organization>
+	</publication>
+	<publication>
+		<title>Failure-Equivalent Transformation of Transition Systems to Avoid Internal Actions</title>
+		<year>1992</year>
+		<authors>Gang Luo,Gregor von Bochmann,Anindya Das,Cheng Wu</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>932704</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward a progress indicator for program compilation</title>
+		<year>2007</year>
+		<authors>Gang Luo,Tong Chen,Hao Yu</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1075684</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Locking Protocols for Materialized Aggregate Join Views</title>
+		<year>2005</year>
+		<authors>Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113175</id>
+		<label>0</label>
+		<organization>IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Test Selection Based on Communicating Nondeterministic Finite-State Machines Using a Generalized WP-Method</title>
+		<year>1994</year>
+		<authors>Gang Luo,Gregor von Bochmann,Alexandre Petrenko</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1128897</id>
+		<label>1</label>
+		<organization>Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.</organization>
+	</publication>
+	<publication>
+		<title>Software Testing Based on SDL Specifications with Save</title>
+		<year>1994</year>
+		<authors>Gang Luo,Anindya Das,Gregor von Bochmann</authors>
+		<jconf>IEEE Trans. Software Eng.</jconf>
+		<id>1128899</id>
+		<label>1</label>
+		<organization>Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.</organization>
+	</publication>
+	<publication>
+		<title>Tracking Telescope Aiming Point for Bioptic Driving Surveillance</title>
+		<year>2009</year>
+		<authors>Xianping Fu,Gang Luo,Eli Peli</authors>
+		<jconf>IPCV</jconf>
+		<id>1257810</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Consumer-Centric Electronic Medical Record</title>
+		<year>2009</year>
+		<authors>Gang Luo,Selena B. Thomas,Chunqiang Tang</authors>
+		<jconf>JIPS</jconf>
+		<id>1263465</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Development and Evaluation of Vision Multiplexing Devices for Vision Impairments</title>
+		<year>2009</year>
+		<authors>Eli Peli,Gang Luo,Alex Bowers,Noa M. Rensing</authors>
+		<jconf>International Journal on Artificial Intelligence Tools</jconf>
+		<id>1273430</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Answering linear optimization queries with an approximate stream index</title>
+		<year>2009</year>
+		<authors>Gang Luo,Kun-Lung Wu,Philip S. Yu</authors>
+		<jconf>Knowl. Inf. Syst.</jconf>
+		<id>1278723</id>
+		<label>0</label>
+		<organization>IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Comments on 'Leading-One Prediction with Concurrent Position Correction</title>
+		<year>2009</year>
+		<authors>Rong Ji,Zhiqiang Ling,Xianjun Zeng,Bingcai Sui,Liang Chen,Junfeng Zhang,Yingjie Feng,Gang Luo</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1281309</id>
+		<label>8</label>
+		<organization>National University of Defense Technology, Changsha</organization>
+	</publication>
+	<publication>
+		<title>Improved Method for Network Danger Evaluation Based on Immunology Principle.</title>
+		<year>2009</year>
+		<authors>Jin Yang,Peng Jin,YanWei Hong,Gang Luo</authors>
+		<jconf>null</jconf>
+		<id>1320175</id>
+		<label>4</label>
+		<organization>Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China</organization>
+	</publication>
+	<publication>
+		<title>Trace-equivalent transformation of nondeterministic finite state machines to avoid internal actions</title>
+		<year>1993</year>
+		<authors>Gang Luo</authors>
+		<jconf>Proceedings of the third international conference on Young computer scientists</jconf>
+		<id>1507593</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Test generation with respect to distributed interfaces</title>
+		<year>1994</year>
+		<authors>Gang Luo,Rachida Dssouli,Gregor V. Bochmann,Pallapa Venkataram,Abderrazak Ghedamsi</authors>
+		<jconf>Computer Standards Interfaces</jconf>
+		<id>1512645</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges and experience in prototyping a multi-modal stream analytic and monitoring application on System S</title>
+		<year>2007</year>
+		<authors>Kun-Lung Wu,Kirsten W. Hildrum,Wei Fan,Philip S. Yu,Charu C. Aggarwal,David A. George,Buǧra Gedik,Eric Bouillet,Xiaohui Gu,Gang Luo,Haixun Wang</authors>
+		<jconf>Proceedings of the 33rd international conference on Very large data bases</jconf>
+		<id>1585831</id>
+		<label>0</label>
+		<organization>IBM T. J. Watson Research Center, Hawthorne, NY</organization>
+	</publication>
+	<publication>
+		<title>A Novel Clock Duty-Cycle Corrector of DSP Systems</title>
+		<year>2008</year>
+		<authors>Xianjun Zeng,Rong Ji,Shizhen Huang,Liang Chen,Gang Luo,Junfeng Zhang</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 2 - Volume 02</jconf>
+		<id>1596586</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+</person>

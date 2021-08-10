@@ -46,26 +46,26 @@ defmodule Akin.Phonetic.MetaphoneAlgorithm do
       _ ->
         t = elem(split_at(value, 1), 1)
 
-    case first(value) do
-      "a" ->
-        if first(t) == "e", do: t, else: value
+        case first(value) do
+          "a" ->
+            if first(t) == "e", do: t, else: value
 
-      x when x in ["g", "k", "p"] ->
-        if first(t) == "n", do: t, else: value
+          x when x in ["g", "k", "p"] ->
+            if first(t) == "n", do: t, else: value
 
-      "w" ->
-        cond do
-          first(t) == "r" -> t
-          first(t) == "h" -> "w" <> elem(split_at(value, 2), 1)
-          true -> value
+          "w" ->
+            cond do
+              first(t) == "r" -> t
+              first(t) == "h" -> "w" <> elem(split_at(value, 2), 1)
+              true -> value
+            end
+
+          "x" ->
+            "s" <> t
+
+          _ ->
+            value
         end
-
-      "x" ->
-        "s" <> t
-
-      _ ->
-        value
-    end
     end
   end
 

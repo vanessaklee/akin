@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>36501</personID>
+	<FullName>Hao Wang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>NetSpy: Automatic Generation of Spyware Signatures for NIDS</title>
+		<year>2006</year>
+		<authors>Hao Wang,Somesh Jha,Vinod Ganapathy</authors>
+		<jconf>ACSAC</jconf>
+		<id>24504</id>
+		<label>0</label>
+		<organization>University of Wisconsin-Madison, USA</organization>
+	</publication>
+	<publication>
+		<title>Classification of Polarimetric SAR Data Based on Multidimensional Watershed Clustering</title>
+		<year>2006</year>
+		<authors>Wen Yang,Hao Wang,Yongfeng Cao,Haijian Zhang</authors>
+		<jconf>ADMA</jconf>
+		<id>27448</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Low-Latency Peer-to-Peer Approach for Massively Multiplayer Games</title>
+		<year>2005</year>
+		<authors>Jin Zhou,Li Tang,Kai Li,Hao Wang,Zhizhi Zhou</authors>
+		<jconf>AP2PC</jconf>
+		<id>43520</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BLAST++ : A Tool for BLASTing Queries in Batches</title>
+		<year>2003</year>
+		<authors>Hao Wang,Twee-Hee Ong,Beng Chin Ooi,Kian-Lee Tan</authors>
+		<jconf>APBC</jconf>
+		<id>43613</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web-Based Cooperative Design for SoC and Improved Architecture Exploration Algorithm</title>
+		<year>2006</year>
+		<authors>Guang-Sheng Ma,Xiuqin Wang,Hao Wang</authors>
+		<jconf>APWeb Workshops</jconf>
+		<id>48257</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RNA Pseudoknot Prediction Using Term Rewriting</title>
+		<year>2005</year>
+		<authors>Xuezheng Fu,Hao Wang,William L. Harrison,Robert W. Harrison</authors>
+		<jconf>BIBE</jconf>
+		<id>63174</id>
+		<label>7</label>
+		<organization>Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA, USA</organization>
+	</publication>
+	<publication>
+		<title>The algorithms for dynamic scheduling</title>
+		<year>2000</year>
+		<authors>Zhiying Zhou,Jie Zhang,Hao Wang</authors>
+		<jconf>Computers and Their Applications</jconf>
+		<id>78282</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architectural Design and Implementation of Highly Available and Scalable Medical System with IBM WebSphere Middleware</title>
+		<year>2004</year>
+		<authors>Han Wang,Hao Wang,Jinmei Shen</authors>
+		<jconf>CBMS</jconf>
+		<id>80723</id>
+		<label>9</label>
+		<organization>IBM, Rochester, MN</organization>
+	</publication>
+	<publication>
+		<title>An auctioning reputation system based on anomaly</title>
+		<year>2005</year>
+		<authors>Shai Rubin,Mihai Christodorescu,Vinod Ganapathy,Jonathon T. Giffin,Louis Kruger,Hao Wang,Nicholas Kidd</authors>
+		<jconf>ACM Conference on Computer and Communications Security</jconf>
+		<id>84089</id>
+		<label>0</label>
+		<organization>University of Wisconsin, Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>Understanding the Prediction of Transmembrane Proteins by Support Vector Machine using Association Rule Mining</title>
+		<year>2007</year>
+		<authors>Hae-Jin Hu,Hao Wang,Robert Harrison,Phang C. Tai,Yi Pan</authors>
+		<jconf>CIBCB</jconf>
+		<id>93736</id>
+		<label>7</label>
+		<organization>Molecular Basis of Disease Program, Georgia State Univ., Atlanta, GA</organization>
+	</publication>
+	<publication>
+		<title>On-line Algorithm for Server Selection of Video Streaming over P2P Networks</title>
+		<year>2006</year>
+		<authors>Hao Wang,Andras Farago</authors>
+		<jconf>Communications in Computing</jconf>
+		<id>93965</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application-aware Interface for SOAP Communication in Web Services</title>
+		<year>2006</year>
+		<authors>Hao Wang,Yizhu Tong,Hong Liu,Taoying Liu</authors>
+		<jconf>CLUSTER</jconf>
+		<id>99977</id>
+		<label>13</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Creating Vulnerability Signatures Using Weakest Preconditions</title>
+		<year>2007</year>
+		<authors>David Brumley,Hao Wang,Somesh Jha,Dawn Xiaodong Song</authors>
+		<jconf>CSF</jconf>
+		<id>124214</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Difference Systems of Sets with Multipliers</title>
+		<year>2006</year>
+		<authors>Vladimir D. Tonchev,Hao Wang</authors>
+		<jconf>CSR</jconf>
+		<id>125605</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Secure Authentication Scheme Based Threshold ECDSA For Wireless Sensor Network</title>
+		<year>2006</year>
+		<authors>Hao Wang,Zhongfu Wu,Xin Tan</authors>
+		<jconf>Security and Management</jconf>
+		<id>126485</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adapting LDA Model to Discover Author-Topic Relations for Email Analysis</title>
+		<year>2008</year>
+		<authors>Liqiang Geng,Hao Wang,Xin Wang,Larry Korba</authors>
+		<jconf>DaWaK</jconf>
+		<id>144522</id>
+		<label>18</label>
+		<organization>Institute of Information Technology, National Research Council of Canada Fredericton, , New Brunswick, Canada</organization>
+	</publication>
+	<publication>
+		<title>Indexing Genomic Databases for Fast Homology Searching</title>
+		<year>2002</year>
+		<authors>Twee-Hee Ong,Kian-Lee Tan,Hao Wang</authors>
+		<jconf>DEXA</jconf>
+		<id>150180</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Certified Email Protocol</title>
+		<year>2007</year>
+		<authors>Hao Wang,Yuyi Ou,Jie Ling,Xiang Xu,Heqing Guo</authors>
+		<jconf>DEXA Workshops</jconf>
+		<id>152564</id>
+		<label>19</label>
+		<organization>Guangdong University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Feature Similarity Based Redundancy Reduction for Gene Selection</title>
+		<year>2006</year>
+		<authors>Xuezheng Fu,Feng Tan,Hao Wang,Yanqing Zhang,Robert W. Harrison</authors>
+		<jconf>DMIN</jconf>
+		<id>158794</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving Qos-Driven Web Service Dynamic Composition as Fuzzy Constraint Satisfaction</title>
+		<year>2005</year>
+		<authors>Manshan Lin,Jianshan Xie,Heqing Guo,Hao Wang</authors>
+		<jconf>EEE</jconf>
+		<id>178375</id>
+		<label>19</label>
+		<organization>South China University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Reducing the Dependence of SPKI/SDSI on PKI</title>
+		<year>2006</year>
+		<authors>Hao Wang,Somesh Jha,Thomas W. Reps,Stefan Schwoon,Stuart G. Stubblebine</authors>
+		<jconf>ESORICS</jconf>
+		<id>189405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Fuzzy Kohonen Clustering Network Algorithm</title>
+		<year>2008</year>
+		<authors>Yanqing Yang,Zhenhong Jia,Chun Chang,Xizhong Qin,Tao Li,Hao Wang,Junkai Zhao</authors>
+		<jconf>FSKD (1)</jconf>
+		<id>218163</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalability of Hybrid Fuzzy C-Means Algorithm Based on Quantum-Behaved PSO</title>
+		<year>2007</year>
+		<authors>Hao Wang,Shiqin Yang,Wenbo Xu,Jun Sun</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>218963</id>
+		<label>27</label>
+		<organization>Fuyang Teachers College, Fuyang, Anhui</organization>
+	</publication>
+	<publication>
+		<title>A Fast Subspace Clustering Algorithm Based on Pattern Similarity</title>
+		<year>2007</year>
+		<authors>Yanglan Gan,Jihong Guan,Hao Wang</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219030</id>
+		<label>26</label>
+		<organization>Hefei University of Technology</organization>
+	</publication>
+	<publication>
+		<title>Agora: Grid Community in Vega Grid</title>
+		<year>2003</year>
+		<authors>Hao Wang,Zhiwei Xu,Yili Gong,Wei Li</authors>
+		<jconf>GCC (1)</jconf>
+		<id>224048</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Foundations of SMS Commerce Success: Lessons from SMS Messaging and Co-Opetition</title>
+		<year>2003</year>
+		<authors>Heng Xu,Hock-Hai Teo,Hao Wang</authors>
+		<jconf>HICSS</jconf>
+		<id>249007</id>
+		<label>29</label>
+		<organization>Sch. of Comput., National Univ., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Predicting the Usage of P2P Sharing Software: The Role of Trust and Perceived Risk</title>
+		<year>2005</year>
+		<authors>Heng Xu,Hao Wang,Hock-Hai Teo</authors>
+		<jconf>HICSS</jconf>
+		<id>249013</id>
+		<label>29</label>
+		<organization>NCS Communication Engineering Pte. Ltd., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Fair Payment Protocols for E-Commerce</title>
+		<year>2004</year>
+		<authors>Hao Wang,Heqing Guo</authors>
+		<jconf>I3E</jconf>
+		<id>258318</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of RSVP and Mobility-Aware RSVP Using Performance Evaluation Process Algebra</title>
+		<year>2008</year>
+		<authors>Hao Wang,David I. Laurenson,Jane Hillston</authors>
+		<jconf>ICC</jconf>
+		<id>275982</id>
+		<label>32</label>
+		<organization>Sch. of Eng. & Electron., Univ. of Edinburgh, Edinburgh</organization>
+	</publication>
+	<publication>
+		<title>Wiener Indices of Balanced Binary Trees</title>
+		<year>2005</year>
+		<authors>Sergey Bereg,Hao Wang</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>278146</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Feature Selection Approach for Microarray Gene Expression Data</title>
+		<year>2006</year>
+		<authors>Feng Tan,Xuezheng Fu,Hao Wang,Yanqing Zhang,Anu G. Bourgeois</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>280271</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding the Session Durability in Peer-to-Peer Storage System</title>
+		<year>2006</year>
+		<authors>Jing Tian,Yafei Dai,Hao Wang,Mao Yang</authors>
+		<jconf>International Conference on Computational Science (4)</jconf>
+		<id>280303</id>
+		<label>33</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dependable Transaction for Electronic Commerce</title>
+		<year>2005</year>
+		<authors>Hao Wang,Heqing Guo,Manshan Lin,Jianfei Yin,Qi He,Jun Zhang</authors>
+		<jconf>ICCSA (3)</jconf>
+		<id>292147</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Abuse-Free Item Exchange</title>
+		<year>2005</year>
+		<authors>Hao Wang,Heqing Guo,Jianfei Yin,Qi He,Manshan Lin,Jun Zhang</authors>
+		<jconf>ICCSA (4)</jconf>
+		<id>292148</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Character-Like Region Verification for Extracting Text in Scene Images</title>
+		<year>2001</year>
+		<authors>Hao Wang,Jari Kangas</authors>
+		<jconf>ICDAR</jconf>
+		<id>295679</id>
+		<label>35</label>
+		<organization>Visual Commun. Lab., Nokia Res. Center, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Interdomain Routing as Social Choice</title>
+		<year>2006</year>
+		<authors>Ronny Ramzi Dakdouk,Semih Salihoglu,Hao Wang,Haiyong Xie,Yang Richard Yang</authors>
+		<jconf>ICDCS Workshops</jconf>
+		<id>298422</id>
+		<label>18</label>
+		<organization>Yale University, New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Enhanced IT Service Management</title>
+		<year>2007</year>
+		<authors>Hao Wang,Bo Yang,Liang Liu,Qian Ma,Kewei Sun,Ying Chen</authors>
+		<jconf>ICEBE</jconf>
+		<id>304780</id>
+		<label>38</label>
+		<organization>IBM China Res. Lab., Beijing</organization>
+	</publication>
+	<publication>
+		<title>New Fair Payment Protocols</title>
+		<year>2004</year>
+		<authors>Hao Wang,Heqing Guo,Manshan Lin</authors>
+		<jconf>ICETE (1)</jconf>
+		<id>309269</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Character Location and Segmentation in Color Scene Images</title>
+		<year>2001</year>
+		<authors>Hao Wang</authors>
+		<jconf>ICIAP</jconf>
+		<id>312336</id>
+		<label>35</label>
+		<organization>Visual Commun. Lab., Nokia Res. Center, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Enhancing multimedia streaming performance through peer-paired collaboration</title>
+		<year>2002</year>
+		<authors>Hao Wang,Guobin Shen,Shipeng Li,Yuzhuo Zhong</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>322072</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Camera Readable 2D Bar Codes Design and Decoding for Mobile Phones</title>
+		<year>2006</year>
+		<authors>Hao Wang,Yanming Zou</authors>
+		<jconf>ICIP</jconf>
+		<id>324394</id>
+		<label>35</label>
+		<organization>Nokia Res. Center, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Parallel Approximate Matrix Factorization for Kernel Methods</title>
+		<year>2007</year>
+		<authors>Kaihua Zhu,Hang Cui,Hongjie Bai,Jian Li,Zhihuan Qiu,Hao Wang,Hui Xu,Edward Y. Chang</authors>
+		<jconf>ICME</jconf>
+		<id>332962</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Wireless Network Dynamic Topology Routing Protocol Based on Aggregation Tree Model</title>
+		<year>2006</year>
+		<authors>Guozhen Tan,Ningning Han,Yi Liu,Jialin Li,Hao Wang</authors>
+		<jconf>ICN/ICONS/MCL</jconf>
+		<id>337078</id>
+		<label>40</label>
+		<organization>Dalian University of Techology, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>On the Stability of Rational, Heterogeneous Interdomain Route Selection</title>
+		<year>2005</year>
+		<authors>Hao Wang,Haiyong Xie,Yang Richard Yang,Avi Silberschatz,Erran L. Li,Yanbin Liu</authors>
+		<jconf>ICNP</jconf>
+		<id>338570</id>
+		<label>18</label>
+		<organization>Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Stable Egress Route Selection for Interdomain Traffic Engineering: Model and Analysis</title>
+		<year>2005</year>
+		<authors>Hao Wang,Haiyong Xie,Yang Richard Yang,Avi Silberschatz,Erran L. Li,Yanbin Liu</authors>
+		<jconf>ICNP</jconf>
+		<id>338585</id>
+		<label>18</label>
+		<organization>Dept. of Comput. Sci., Yale Univ., New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>An Online Model Checking Tool for Safety and Liveness Bugs</title>
+		<year>2008</year>
+		<authors>Zhengwei Qi,Liang Liu,Alei Liang,Hao Wang,Ying Chen</authors>
+		<jconf>ICPADS</jconf>
+		<id>342089</id>
+		<label>38</label>
+		<organization>Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Management as a Service for IT Service Management</title>
+		<year>2008</year>
+		<authors>Bo Yang,Hao Wang,Ying Chen</authors>
+		<jconf>ICSOC</jconf>
+		<id>365316</id>
+		<label>38</label>
+		<organization>IBM China Research Lab., Beijing, China 100193</organization>
+	</publication>
+	<publication>
+		<title>Research and Implementation of Knowledge-Enhanced Information Services</title>
+		<year>2007</year>
+		<authors>Bo Yang,Hao Wang,Liang Liu,Qian Ma,Ying Chen,Hui Lei</authors>
+		<jconf>ICSOC</jconf>
+		<id>365345</id>
+		<label>38</label>
+		<organization>IBM China Research Laboratory, Beijing, 100094, China</organization>
+	</publication>
+	<publication>
+		<title>Critical Success Factors for Web-Based Organizational IT Training Systems</title>
+		<year>2002</year>
+		<authors>Hao Wang,Heng Xu,Hock Chuan Chan,Ling Chen</authors>
+		<jconf>ICWL</jconf>
+		<id>369761</id>
+		<label>29</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Lightweight and Scalable Encryption Algorithm for Streaming Video over Wireless Networks</title>
+		<year>2007</year>
+		<authors>Hao Wang,Chong-wei Xu</authors>
+		<jconf>ICWN</jconf>
+		<id>370398</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Semantic QoS-Aware Discovery Framework for Web Services</title>
+		<year>2008</year>
+		<authors>Qian Ma,Hao Wang,Ying Li,Guotong Xie,Feng Liu</authors>
+		<jconf>ICWS</jconf>
+		<id>371108</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Synchronizing with Web Service Evolution</title>
+		<year>2008</year>
+		<authors>Zhile Zou,Ru Fang,Liang Liu,Qing Bo Wang,Hao Wang</authors>
+		<jconf>ICWS</jconf>
+		<id>371121</id>
+		<label>38</label>
+		<organization>IBM China Res. Lab., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Fast Filter-and-Refine Algorithms for Subsequence Selection</title>
+		<year>2002</year>
+		<authors>Beng Chin Ooi,HweeHwa Pang,Hao Wang,Limsoon Wong,Cui Yu</authors>
+		<jconf>IDEAS</jconf>
+		<id>372846</id>
+		<label>4</label>
+		<organization>Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Optimal ISP subscription for Internet multihoming: algorithm design and implication analysis</title>
+		<year>2005</year>
+		<authors>Hao Wang,Haiyong Xie,Lili Qiu,Abraham Silberschatz,Yang Richard Yang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402849</id>
+		<label>18</label>
+		<organization>Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Pipelined van Emde Boas Tree: Algorithms, Analysis, and Applications</title>
+		<year>2007</year>
+		<authors>Hao Wang,Bill Lin</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403086</id>
+		<label>18</label>
+		<organization>Univ. of California, La Jolla</organization>
+	</publication>
+	<publication>
+		<title>Efficient error recovery techniques in a novel multimedia streaming framework with peer-paired collaboration</title>
+		<year>2002</year>
+		<authors>Hao Wang,Guobin Shen,Shipeng Li,Yuzhuo Zhong</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>427709</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Video Streaming Over Multi-hop Wireless Networks</title>
+		<year>2005</year>
+		<authors>Hao Wang,Andras Farago,Subbarayan Venkatesan</authors>
+		<jconf>ISM</jconf>
+		<id>437526</id>
+		<label>11</label>
+		<organization>Cameron University</organization>
+	</publication>
+	<publication>
+		<title>Triangulation of Bayesian Networks Using an Adaptive Genetic Algorithm</title>
+		<year>2006</year>
+		<authors>Hao Wang,Kui Yu,Xindong Wu,Hongliang Yao</authors>
+		<jconf>ISMIS</jconf>
+		<id>440550</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collaborative and Interactive Room Design on the Web</title>
+		<year>2000</year>
+		<authors>Hao Wang,Xiaoyan Xie,Zhiyong Huang</authors>
+		<jconf>ISPAN</jconf>
+		<id>446106</id>
+		<label>4</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Hierarchical Queueing Model for Streaming Video over Multi-Hop Wireless Networks</title>
+		<year>2008</year>
+		<authors>Hao Wang</authors>
+		<jconf>ITNG</jconf>
+		<id>457980</id>
+		<label>11</label>
+		<organization>Kennesaw State Univ., Kennesaw</organization>
+	</publication>
+	<publication>
+		<title>APPLE: A Novel P2P Based e-Learning Environment</title>
+		<year>2004</year>
+		<authors>Hai Jin,Zuoning Yin,Xudong Yang,Fucheng Wang,Jie Ma,Hao Wang,Jiangpei Yin</authors>
+		<jconf>IWDC</jconf>
+		<id>463507</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PEPA Analysis of MAP Effects in Hierarchical Mobile IPv6</title>
+		<year>2007</year>
+		<authors>Hao Wang,David I. Laurenson,Jane Hillston</authors>
+		<jconf>MASCOTS</jconf>
+		<id>490084</id>
+		<label>32</label>
+		<organization>Joint Res. Inst. for Signal & Image Process., Univ. of Edinburgh, Edinburgh</organization>
+	</publication>
+	<publication>
+		<title>Automatic text discovering through stroke-based segmentation and text string combination</title>
+		<year>2008</year>
+		<authors>Lei Xu,Yingfei Liu,Kongqiao Wang,Hao Wang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503876</id>
+		<label>35</label>
+		<organization>Nokia Research Center, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>FreeRank: implementing independent ranking service for multiplayer online games</title>
+		<year>2005</year>
+		<authors>Li Tang,Jun Li,Jin Zhou,Zhizhi Zhou,Hao Wang,Kai Li</authors>
+		<jconf>NETGAMES</jconf>
+		<id>512843</id>
+		<label>3</label>
+		<organization>singhua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Parallelizing Support Vector Machines on Distributed Computers</title>
+		<year>2007</year>
+		<authors>Edward Y. Chang,Kaihua Zhu,Hao Wang,Hongjie Bai,Jian Li,Zhihuan Qiu,Hang Cui</authors>
+		<jconf>NIPS</jconf>
+		<id>517904</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Data Storage Mechanism for P2P VoD Based on Multi-channel Overlay</title>
+		<year>2008</year>
+		<authors>Xiaofei Liao,Hao Wang,Song Wu,Hai Jin</authors>
+		<jconf>NPC</jconf>
+		<id>519981</id>
+		<label>47</label>
+		<organization>Services Computing Technology and System Lab Cluster and Grid Computing Lab School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China 430074</organization>
+	</publication>
+	<publication>
+		<title>A Parallel Algorithm for Learning Bayesian Networks</title>
+		<year>2007</year>
+		<authors>Kui Yu,Hao Wang,Xindong Wu</authors>
+		<jconf>PAKDD</jconf>
+		<id>527335</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining a Complete Set of Both Positive and Negative Association Rules from Large Databases</title>
+		<year>2008</year>
+		<authors>Hao Wang,Xing Zhang,Guoqing Chen</authors>
+		<jconf>PAKDD</jconf>
+		<id>527572</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Modeling and Practical Parallel Algorithms of Cluster Computing with Applications on Distributed Platforms</title>
+		<year>2003</year>
+		<authors>Han Wang,Hao Wang,Jinmei Shen</authors>
+		<jconf>PDPTA</jconf>
+		<id>537136</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Implementation of a Graphics Design Framework on the Web</title>
+		<year>2000</year>
+		<authors>Xiaoyan Xie,Hao Wang,Zhiyong Huang</authors>
+		<jconf>Pacific Conference on Computer Graphics and Applications</jconf>
+		<id>540225</id>
+		<label>4</label>
+		<organization>Sch. of Comput., Nat. Univ. of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Security Policy Reconciliation in Distributed Computing Environments</title>
+		<year>2004</year>
+		<authors>Hao Wang,Somesh Jha,Miron Livny,Patrick Drew McDaniel</authors>
+		<jconf>POLICY</jconf>
+		<id>545612</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>LVQ Based Distributed Video Coding with LDPC in Pixel Domain</title>
+		<year>2006</year>
+		<authors>Anhong Wang,Yao Zhao,Hao Wang</authors>
+		<jconf>PRICAI</jconf>
+		<id>551918</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Software Project Level Estimation Model Framework based on Bayesian Belief Networks</title>
+		<year>2006</year>
+		<authors>Hao Wang,Fei Peng,Chao Zhang,Andrej Pietschker</authors>
+		<jconf>QSIC</jconf>
+		<id>557319</id>
+		<label>14</label>
+		<organization>Siemes Ltd., China</organization>
+	</publication>
+	<publication>
+		<title>An algorithm for optimal comma free codes with isomorphism rejection</title>
+		<year>2009</year>
+		<authors>Hao Wang,Vladimir D. Tonchev</authors>
+		<jconf>SAC</jconf>
+		<id>569748</id>
+		<label>16</label>
+		<organization>Michigan Technological University, Houghton, MI</organization>
+	</publication>
+	<publication>
+		<title>COPE: traffic engineering in dynamic networks</title>
+		<year>2006</year>
+		<authors>Hao Wang,Haiyong Xie,Lili Qiu,Yang Richard Yang,Yin Zhang,Albert G. Greenberg</authors>
+		<jconf>SIGCOMM</jconf>
+		<id>588995</id>
+		<label>18</label>
+		<organization>Yale University</organization>
+	</publication>
+	<publication>
+		<title>Reliability as an interdomain service</title>
+		<year>2007</year>
+		<authors>Hao Wang,Yang Richard Yang,Paul H. Liu,Jia Wang,Alexandre Gerber,Albert G. Greenberg</authors>
+		<jconf>SIGCOMM</jconf>
+		<id>589079</id>
+		<label>18</label>
+		<organization>Yale University, New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>Optimal bandwidth selection for MLS surfaces</title>
+		<year>2008</year>
+		<authors>Hao Wang,Carlos Eduardo Scheidegger,Claudio T. Silva</authors>
+		<jconf>Shape Modeling International</jconf>
+		<id>608572</id>
+		<label>10</label>
+		<organization>Univ. of Utah, Salt Lake City, UT</organization>
+	</publication>
+	<publication>
+		<title>A Novel Method for All Solutions SAT Problem</title>
+		<year>2008</year>
+		<authors>Xiuqin Wang,Guangsheng Ma,Hao Wang</authors>
+		<jconf>SNPD</jconf>
+		<id>609015</id>
+		<label>6</label>
+		<organization>Comput. Sci. & Technol. Inst., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Towards Automatic Generation of Vulnerability-Based Signatures</title>
+		<year>2006</year>
+		<authors>David Brumley,James Newsome,Dawn Xiaodong Song,Hao Wang,Somesh Jha</authors>
+		<jconf>IEEE Symposium on Security and Privacy</jconf>
+		<id>613564</id>
+		<label>0</label>
+		<organization>University of Wisconsin-Madison</organization>
+	</publication>
+	<publication>
+		<title>Weighted Pushdown Systems and Trust-Management Systems</title>
+		<year>2006</year>
+		<authors>Somesh Jha,Stefan Schwoon,Hao Wang,Thomas W. Reps</authors>
+		<jconf>TACAS</jconf>
+		<id>625227</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ant-MST: An Ant-Based Minimum Spanning Tree for Gene Expression Data Clustering</title>
+		<year>2007</year>
+		<authors>Deyu Zhou,Yulan He,Chee Keong Kwoh,Hao Wang</authors>
+		<jconf>PRIB</jconf>
+		<id>677939</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Comparisons of Different Channel Codes in Distributed Video Coding</title>
+		<year>2006</year>
+		<authors>Hao Wang,Yao Zhao,Anhong Wang</authors>
+		<jconf>ICICIC (2)</jconf>
+		<id>679321</id>
+		<label>5</label>
+		<organization>Inst. of Inf. Sci., Beijing Jiaotong Univ.</organization>
+	</publication>
+	<publication>
+		<title>A Fair Item-Item Exchange Protocol Satisfying Newly Introduced Requirements</title>
+		<year>2005</year>
+		<authors>Hao Wang,Heqing Guo,Manshan Lin,Jianfei Yin</authors>
+		<jconf>ICITA (2)</jconf>
+		<id>679786</id>
+		<label>19</label>
+		<organization>Sch. of Comput. Sci. & Eng., South China Univ. of Technol., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of Signal Processing Effect in Media Gateway Based on Cross Correlation</title>
+		<year>2006</year>
+		<authors>Hao Wang,Yanying Wang,Jikun Guo,Dianwu Gao</authors>
+		<jconf>IIH-MSP</jconf>
+		<id>681532</id>
+		<label>6</label>
+		<organization>Heilongjiang Institute of Science and Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Hand Gesture Tracking for Wearable Computing Systems</title>
+		<year>2008</year>
+		<authors>Xiujuan Chai,Kongqiao Wang,Luosi Wei,Hao Wang</authors>
+		<jconf>VISAPP (2)</jconf>
+		<id>682751</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structure Analysis and SNR-Variance Evolution for Parallel Concatenated Coded IDMA Systems</title>
+		<year>2008</year>
+		<authors>Hao Wang,Shi Chen,Xiaokang Lin</authors>
+		<jconf>VTC Fall</jconf>
+		<id>690063</id>
+		<label>3</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Efficient Multiple-Link Adaptive Bandwidth Provisioning for End-to-End Quality of Service Guarantee</title>
+		<year>2006</year>
+		<authors>Hao Wang,Changcheng Huang,James Yan</authors>
+		<jconf>CCECE</jconf>
+		<id>696301</id>
+		<label>21</label>
+		<organization>Syst. & Comput. Eng., Carleton Univ., Ottawa, Ont.</organization>
+	</publication>
+	<publication>
+		<title>A Novel Fault Diagnosis of Analog Circuit Algorithm Based on Incomplete Wavelet Packet Transform and Improved Balanced Binary-Tree SVMs</title>
+		<year>2007</year>
+		<authors>Anna Wang,Junfang Liu,Hao Wang,Ran Tao</authors>
+		<jconf>LSMS (1)</jconf>
+		<id>700221</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Efficient Implementation of Pipelined Heaps for Network Processing</title>
+		<year>2006</year>
+		<authors>Hao Wang,Bill Lin</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>703448</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Network Resource Management in IEEE 802.11 Wireless Random Access MAC</title>
+		<year>2006</year>
+		<authors>Hao Wang,Changcheng Huang,James Yan</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704014</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Cellular Capacity with Base Station Cooperation</title>
+		<year>2008</year>
+		<authors>Li Ping,Peng Wang,Hao Wang,Xiaokang Lin</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>706152</id>
+		<label>3</label>
+		<organization>Dept. of Electron. Eng., City Univ. of Hong Kong, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>A virtual mouse system for mobile device</title>
+		<year>2005</year>
+		<authors>YongBo Gai,Hao Wang,Kongqiao Wang</authors>
+		<jconf>MUM</jconf>
+		<id>711141</id>
+		<label>35</label>
+		<organization>Nokia Research Center, China</organization>
+	</publication>
+	<publication>
+		<title>Certified Email Delivery with Offline TTP</title>
+		<year>2007</year>
+		<authors>Hao Wang,Yuyi Ou,Jie Ling,Lu Liang,Xiang Xu</authors>
+		<jconf>IAS</jconf>
+		<id>716964</id>
+		<label>19</label>
+		<organization>Guangdong University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Performance Analysis of a Forging Manipulator Based on the Composite Modeling Method</title>
+		<year>2008</year>
+		<authors>Genliang Chen,Hao Wang,Zhongqin Lin,Guimin Liu</authors>
+		<jconf>ICIRA (1)</jconf>
+		<id>722384</id>
+		<label>38</label>
+		<organization>School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China 200240</organization>
+	</publication>
+	<publication>
+		<title>Automatic model-based service hosting environment migration</title>
+		<year>2008</year>
+		<authors>Liang Liu,Ying Li,Qian Ma,Kewei Sun,Ying Chen,Hao Wang</authors>
+		<jconf>NOMS</jconf>
+		<id>726885</id>
+		<label>38</label>
+		<organization>IBM China Res. Lab., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A comprehensive semantic-based resource allocation framework for workflow management systems</title>
+		<year>2008</year>
+		<authors>Chong Wang,Zhile Zou,Qian Ma,Ru Fang,Hao Wang</authors>
+		<jconf>NOMS</jconf>
+		<id>726890</id>
+		<label>38</label>
+		<organization>Shanghai JiaoTong Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>A Bayesian knowledge engineering framework for service management</title>
+		<year>2008</year>
+		<authors>Wei Wang,Hao Wang,Bo Yang,Liang Liu,Peini Liu,Guosun Zeng</authors>
+		<jconf>NOMS</jconf>
+		<id>726948</id>
+		<label>38</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tongji Univ., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>The Design of a Nanometer Biosensor and Its Microfluidic Integration</title>
+		<year>2008</year>
+		<authors>Hao Wang,Wenzhen Sun,Xiangang Luo</authors>
+		<jconf>RAM</jconf>
+		<id>727988</id>
+		<label>39</label>
+		<organization>Coll. of Mechatron., Univ. of Electro Sci. & Technol. of China, Chengdu</organization>
+	</publication>
+	<publication>
+		<title>Software Productivity Analysis with CSBSG Data Set</title>
+		<year>2008</year>
+		<authors>Hao Wang,Haiqing Wang,Hefei Zhang</authors>
+		<jconf>CSSE (2)</jconf>
+		<id>728918</id>
+		<label>37</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Hybrid SAT Solver Considering Circuit Observability</title>
+		<year>2008</year>
+		<authors>Xiuqin Wang,Hao Wang,Guangsheng Ma</authors>
+		<jconf>ICYCS</jconf>
+		<id>730315</id>
+		<label>6</label>
+		<organization>Comput. Sci. & Technol. Inst., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>BLAST++: BLASTing queries in batches</title>
+		<year>2003</year>
+		<authors>Hao Wang,Beng Chin Ooi,Kian-Lee Tan,Twee-Hee Ong,Lei Zhou</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>766408</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proving Theorems by Pattern Recognition I</title>
+		<year>1960</year>
+		<authors>Hao Wang</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>776834</id>
+		<label>36</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new dependable exchange protocol</title>
+		<year>2006</year>
+		<authors>Hao Wang,Heqing Guo,Manshan Lin,Jianfei Yin,Qi He,Jun Zhang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>802559</id>
+		<label>19</label>
+		<organization>School of Computer Science and Engineering, South China University of Technology, Guangzhou 510640, China</organization>
+	</publication>
+	<publication>
+		<title>Wiener indices of balanced binary trees</title>
+		<year>2007</year>
+		<authors>Sergey Bereg,Hao Wang</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>838563</id>
+		<label>11</label>
+		<organization>Computer Science and Information Systems Department, Kennesaw State University, 1000 Chastain Rd., Kennesaw, GA 30144-5591, USA</organization>
+	</publication>
+	<publication>
+		<title>A wireless LAN-based indoor positioning technology</title>
+		<year>2004</year>
+		<authors>Zhe Xiang,Song Song,Jin Chen,Hao Wang,Jian Huang,Xingxin (Grace) Gao</authors>
+		<jconf>IBM Journal of Research and Development</jconf>
+		<id>890914</id>
+		<label>38</label>
+		<organization>IBM Research Division, IBM China Research Laboratory, 2/F, Haohai Building, No. 7, 5th Street, Shangdi, Haidian District, Beijing 100085, China</organization>
+	</publication>
+	<publication>
+		<title>Algorithm of integrating QFD and TRIZ for the innovative design process</title>
+		<year>2005</year>
+		<authors>Hao Wang,Guanlong Chen,Zhongqin Lin,Haihua Wang</authors>
+		<jconf>IJCAT</jconf>
+		<id>904642</id>
+		<label>38</label>
+		<organization>Auto-Body Manufacturing Technology Center, School of Mechanical and Power Energy Engineering, Shanghai Jiao Tong University, Shanghai, 200030, P.R. China.</organization>
+	</publication>
+	<publication>
+		<title>1D Bar Code Reading on Camera Phones</title>
+		<year>2007</year>
+		<authors>Kongqiao Wang,Yanming Zou,Hao Wang</authors>
+		<jconf>Int. J. Image Graphics</jconf>
+		<id>910495</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Affective interaction based on person-independent facial expression space</title>
+		<year>2008</year>
+		<authors>Hao Wang,Kongqiao Wang</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>918078</id>
+		<label>35</label>
+		<organization>Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China</organization>
+	</publication>
+	<publication>
+		<title>Non-fuzzy versions of fuzzy reasoning in classical logics</title>
+		<year>2001</year>
+		<authors>Guojun Wang,Hao Wang</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>942072</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Logic of Automata - Part I</title>
+		<year>1957</year>
+		<authors>Arthur W. Burks,Hao Wang</authors>
+		<jconf>J. ACM</jconf>
+		<id>949914</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Logic of Automata - Part II</title>
+		<year>1957</year>
+		<authors>Arthur W. Burks,Hao Wang</authors>
+		<jconf>J. ACM</jconf>
+		<id>949916</id>
+		<label>45</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Words in the History of a Turing Machine with a Fixed Input</title>
+		<year>1963</year>
+		<authors>Michael O. Rabin,Hao Wang</authors>
+		<jconf>J. ACM</jconf>
+		<id>951396</id>
+		<label>41</label>
+		<organization>University of Jerusalem and Harvard University</organization>
+	</publication>
+	<publication>
+		<title>A Variant to Turing's Theory of Computing Machines</title>
+		<year>1957</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. ACM</jconf>
+		<id>951788</id>
+		<label>41</label>
+		<organization>University of Oxford, Oxford, England</organization>
+	</publication>
+	<publication>
+		<title>An algorithm for optimal difference systems of sets</title>
+		<year>2007</year>
+		<authors>Vladimir D. Tonchev,Hao Wang</authors>
+		<jconf>J. Comb. Optim.</jconf>
+		<id>970350</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An automated approach to specification animation for validation</title>
+		<year>2007</year>
+		<authors>Shaoying Liu,Hao Wang</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997632</id>
+		<label>38</label>
+		<organization>Shanghai Jiaotong University, China</organization>
+	</publication>
+	<publication>
+		<title>Short Definitions of the Ordinals</title>
+		<year>1966</year>
+		<authors>Kenneth R. Brown,Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>998486</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-Standard Models for Formal Logics</title>
+		<year>1950</year>
+		<authors>J. Barkley Rosser,Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1000806</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Note on Quine's Principles of Quantification</title>
+		<year>1947</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001291</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Theory of Element and Number</title>
+		<year>1948</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001292</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Formal System of Logic</title>
+		<year>1950</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001293</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Existence of Classes and Value Specification of Variables</title>
+		<year>1950</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001294</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Set-Theoretical Basis for Real Numbers</title>
+		<year>1950</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001295</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logic of Many-Sorted Theories</title>
+		<year>1952</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001296</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Certain Predicates Defined by Induction Schemata</title>
+		<year>1953</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001297</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Problems</title>
+		<year>1953</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001298</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Formalization of Mathematics</title>
+		<year>1954</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001299</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Undecidable Sentences Generated by Semantic Paradoxes</title>
+		<year>1955</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001300</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Axiomatization of Arithmetic</title>
+		<year>1957</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001301</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Alternative Proof of a Theorem of Kleene</title>
+		<year>1958</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001302</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Some Facts About Kurt Godel</title>
+		<year>1981</year>
+		<authors>Hao Wang</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1001303</id>
+		<label>41</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>LTR_FINDER: an efficient tool for the prediction of full-length LTR retrotransposons</title>
+		<year>2007</year>
+		<authors>Zhao Xu,Hao Wang</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1017838</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On route selection for interdomain traffic engineering</title>
+		<year>2005</year>
+		<authors>Yang Richard Yang,Haiyong Xie,Hao Wang,Abraham Silberschatz,Arvind Krishnamurthy,Yanbin Liu,Erran L. Li</authors>
+		<jconf>IEEE Network</jconf>
+		<id>1024063</id>
+		<label>18</label>
+		<organization>Yale Univ., New Haven, CT, USA</organization>
+	</publication>
+	<publication>
+		<title>Dynamics of Stoichiometric Bacteria-Algae Interactions in the Epilimnion</title>
+		<year>2007</year>
+		<authors>Hao Wang,Hal L. Smith,Yang Kuang,James J. Elser</authors>
+		<jconf>SIAM Journal of Applied Mathematics</jconf>
+		<id>1058207</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theory and Techniques for Automatic Generation of Vulnerability-Based Signatures</title>
+		<year>2008</year>
+		<authors>David Brumley,James Newsome,D. Song,Hao Wang,Somesh Jha</authors>
+		<jconf>IEEE Trans. Dependable Sec. Comput.</jconf>
+		<id>1097991</id>
+		<label>0</label>
+		<organization>University of Wisconsin - Madison, Madison</organization>
+	</publication>
+	<publication>
+		<title>A rule-based approach for RNA pseudoknot prediction</title>
+		<year>2008</year>
+		<authors>Xuezheng Fu,Hao Wang,Robert W. Harrison,William L. Harrison</authors>
+		<jconf>IJDMB</jconf>
+		<id>1172236</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Security metrics for software systems</title>
+		<year>2009</year>
+		<authors>Ju An Wang,Hao Wang,Minzhe Guo,Min Xia</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>1204796</id>
+		<label>43</label>
+		<organization>Southern Polytechnic State University, Marietta, GA</organization>
+	</publication>
+	<publication>
+		<title>Apply ant colony optimization to Tetris</title>
+		<year>2009</year>
+		<authors>Xingguo Chen,Hao Wang,Weiwei Wang,Yinghuan Shi,Yang Gao</authors>
+		<jconf>GECCO</jconf>
+		<id>1207892</id>
+		<label>1</label>
+		<organization>State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Junction Tree Factored Particle Inference Algorithm for Multi-Agent Dynamic Influence Diagrams</title>
+		<year>2009</year>
+		<authors>Hongliang Yao,Jian Chang,Caizi Jiang,Hao Wang</authors>
+		<jconf>FAW</jconf>
+		<id>1215897</id>
+		<label>26</label>
+		<organization>Department of Computer Science and Technology, Hefei University of Technology, Hefei, Anhui province, China 230009</organization>
+	</publication>
+	<publication>
+		<title>Packet doppler: network monitoring using packet shift detection</title>
+		<year>2008</year>
+		<authors>Tongqing Qiu,Jian Ni,Hao Wang,Nan Hua,Yang Richard Yang,Jun Jim Xu</authors>
+		<jconf>CoNEXT</jconf>
+		<id>1216206</id>
+		<label>18</label>
+		<organization>Yale University</organization>
+	</publication>
+	<publication>
+		<title>An SMR based advance resource reservation scheme for combined mobility and QoS Provisioning</title>
+		<year>2008</year>
+		<authors>Hao Wang,David I. Laurenson,Jane Hillston</authors>
+		<jconf>PIMRC</jconf>
+		<id>1217179</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluating Service Identification with Design Metrics on Business Process Decomposition</title>
+		<year>2009</year>
+		<authors>Qian Ma,Nianjun Zhou,Yanfeng Zhu,Hao Wang</authors>
+		<jconf>IEEE SCC</jconf>
+		<id>1236569</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Request Characteristics to Improve Performance of Web Services Based Business Applications</title>
+		<year>2009</year>
+		<authors>Yizhu Tong,Hao Wang,Taoying Liu</authors>
+		<jconf>AINA</jconf>
+		<id>1237306</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interactive Storyboard: Animated Story Creation on Touch Interfaces</title>
+		<year>2009</year>
+		<authors>Kun Yu,Hao Wang,Chang Liu,Jianwei Niu</authors>
+		<jconf>AMT</jconf>
+		<id>1237603</id>
+		<label>35</label>
+		<organization>Nokia Research Center Beijing, Mobile Social Networking, P.R. China 100176</organization>
+	</publication>
+	<publication>
+		<title>Applying Knowledge Sharing for Business Intelligence Collaboration</title>
+		<year>2009</year>
+		<authors>Bo Yang,Hao Wang,Fred Douglis</authors>
+		<jconf>ICWS</jconf>
+		<id>1249025</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Facial Expression Synthesis and Recognition with Intensity Alignment</title>
+		<year>2007</year>
+		<authors>Hao Wang</authors>
+		<jconf>Business & Information Systems Engineering</jconf>
+		<id>1262447</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering pattern-based subspace clusters by pattern tree</title>
+		<year>2009</year>
+		<authors>Jihong Guan,Yanglan Gan,Hao Wang</authors>
+		<jconf>Knowl.-Based Syst.</jconf>
+		<id>1278769</id>
+		<label>26</label>
+		<organization>Department of Computer Science and Technology, Hefei University of Technology, Hefei 23009, China</organization>
+	</publication>
+	<publication>
+		<title>Bandwidth Selection and Reconstruction Quality in Point-Based Surfaces</title>
+		<year>2009</year>
+		<authors>Hao Wang,Carlos Eduardo Scheidegger,Claudio T. Silva</authors>
+		<jconf>IEEE Trans. Vis. Comput. Graph.</jconf>
+		<id>1282388</id>
+		<label>10</label>
+		<organization>University of Utah, Salt Lake City</organization>
+	</publication>
+	<publication>
+		<title>An Improved Method of Traffic Forecasting Based on Tariff-SASVR.</title>
+		<year>2009</year>
+		<authors>Yanfeng Tan,Xizhong Qin,Zhenhong Jia,Chun Chang,Hao Wang</authors>
+		<jconf>null</jconf>
+		<id>1306322</id>
+		<label>23</label>
+		<organization>Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China</organization>
+	</publication>
+	<publication>
+		<title>PDPTW Based Taxi Dispatch Modeling for Booking Service.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Der-Horng Lee,Ruey Cheu</authors>
+		<jconf>null</jconf>
+		<id>1306416</id>
+		<label>30</label>
+		<organization>Ningbo Inst. of Technol., Zhejiang Univ., Ningbo, China</organization>
+	</publication>
+	<publication>
+		<title>Spatiotemporal Phase Congruency Based Invariant Features for Human Behavior Classification.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Yi Xu,Xiaokang Yang,Li Song,Wenjun Zhang</authors>
+		<jconf>null</jconf>
+		<id>1308783</id>
+		<label>31</label>
+		<organization>Institute of Image Communication and Information Processing, and Shanghai Key Laboratory of Digital Media Processing and Transmissions,</organization>
+	</publication>
+	<publication>
+		<title>Key Elements Tracing Method for Parallel XML Parsing in Multi-Core System.</title>
+		<year>2009</year>
+		<authors>Xiaosong Li,Hao Wang,Taoying Liu,Wei Li</authors>
+		<jconf>null</jconf>
+		<id>1308867</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Multi-channel MAC Protocol for Dense VANET Using Directional Antennas.</title>
+		<year>2008</year>
+		<authors>Xu Xie,Furong Wang,Hao Wang,Kewei Li</authors>
+		<jconf>null</jconf>
+		<id>1312041</id>
+		<label>47</label>
+		<organization>Dept. of Electron. & Inf. Eng., Univ. of Sci. & Technol., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>An Auxiliary Ground Station Based Traffic Load Balancing Scheme for LEO Satellite Systems.</title>
+		<year>2008</year>
+		<authors>Hao Wang,Furong Wang,Xu Xie,Laurence Tianruo Yang</authors>
+		<jconf>null</jconf>
+		<id>1312137</id>
+		<label>47</label>
+		<organization>Dept. Electr. & Inf. Eng., Huazhong Univ. Sci. & Technol., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>FLTL-MC: Online High Level Program Analysis for Web Services.</title>
+		<year>2009</year>
+		<authors>Zhengwei Qi,Liang Liu,Fuyuan Zhang,Haibing Guan,Hao Wang,Ying Chen</authors>
+		<jconf>null</jconf>
+		<id>1314501</id>
+		<label>38</label>
+		<organization>Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>General Approach for Simulating Heterogeneity of Car-Following Behaviors.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Wei Wang</authors>
+		<jconf>null</jconf>
+		<id>1316981</id>
+		<label>38</label>
+		<organization>Sch. of Transp., Southeast Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Requirement and Design Analysis for the Post-Trauma Mobile Psychology Service.</title>
+		<year>2009</year>
+		<authors>Yang Ji,Nan Lin,Fan Zhang,Yangyi Wen,Kui Zhang,ZhuoHong Zhu,Chunlei Fan,Hao Wang,Kun Yu</authors>
+		<jconf>null</jconf>
+		<id>1318053</id>
+		<label>35</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantic Annotation for CSSCI Academic Resources Based on Ontology.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Xin-ning Su,Fang Liu</authors>
+		<jconf>null</jconf>
+		<id>1318991</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of Support Vector Machine to Mobile Communications in Telephone Traffic Load of Monthly Busy Hour Prediction.</title>
+		<year>2009</year>
+		<authors>Rui Han,Zhenhong Jia,Xizhong Qin,Chun Chang,Hao Wang</authors>
+		<jconf>null</jconf>
+		<id>1319852</id>
+		<label>23</label>
+		<organization>Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China</organization>
+	</publication>
+	<publication>
+		<title>A modular NFA architecture for regular expression matching.</title>
+		<year>2010</year>
+		<authors>Hao Wang,Shi Pu,Gabriel Knezek,Jyh-Charn Liu</authors>
+		<jconf>null</jconf>
+		<id>1322493</id>
+		<label>25</label>
+		<organization>Texas A&M University, College Station, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>En-route Security Monitoring Based on an Incident Detection Algorithm for Commercial Vehicles.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Ruey Cheu,Der-Horng Lee</authors>
+		<jconf>null</jconf>
+		<id>1322561</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Neuro-fuzzy Identification of MR Damper.</title>
+		<year>2009</year>
+		<authors>Hao Wang,Haiyan Hu</authors>
+		<jconf>null</jconf>
+		<id>1322828</id>
+		<label>44</label>
+		<organization>Sch. of Energy & Environ. Eng., Shanghai Univ. of Electr. Power, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>bSpace: A Data Cleaning Approach for RFID Data Streams Based on Virtual Spatial Granularity.</title>
+		<year>2009</year>
+		<authors>Baoyan Song,Pengfei Qin,Hao Wang,Weihong Xuan,Ge Yu</authors>
+		<jconf>null</jconf>
+		<id>1323265</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Kernel based articulated object tracking with scale adaptation and model update.</title>
+		<year>2008</year>
+		<authors>Anbang Yao,Guijin Wang,Xinggang Lin,Hao Wang</authors>
+		<jconf>null</jconf>
+		<id>1329663</id>
+		<label>3</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Verifying Real-Time Systems using Explicit-time Description Methods</title>
+		<year>2009</year>
+		<authors>Hao Wang,Wendy MacCaull</authors>
+		<jconf>CoRR</jconf>
+		<id>1334842</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Explicit-time Description Method for Timed Model Checking</title>
+		<year>2009</year>
+		<authors>Hao Wang,Wendy MacCaull</authors>
+		<jconf>CoRR</jconf>
+		<id>1334892</id>
+		<label>19</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GreenCloud: a new architecture for green data center</title>
+		<year>2009</year>
+		<authors>Liang Liu,Hao Wang,Xue Liu,Xing Jin,Wen Bo He,Qing Bo Wang,Ying Chen</authors>
+		<jconf>Proceedings of the 6th international conference industry session on Autonomic computing and communications industry session</jconf>
+		<id>1430494</id>
+		<label>38</label>
+		<organization>IBM China Research Lab, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Ontology-based security assessment for software products</title>
+		<year>2009</year>
+		<authors>Ju An Wang,Minzhe Guo,Hao Wang,Min Xia,Linfeng Zhou</authors>
+		<jconf>Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research: Cyber Security and Information Intelligence Challenges and Strategies</jconf>
+		<id>1433714</id>
+		<label>43</label>
+		<organization>Southern Polytechnic State University, Marietta, GA</organization>
+	</publication>
+	<publication>
+		<title>Reflections on Kurt Go&uml;del</title>
+		<year>1987</year>
+		<authors>Hao Wang</authors>
+		<jconf>null</jconf>
+		<id>1445043</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Non-repudiable Protocol for Secure Messaging</title>
+		<year>2007</year>
+		<authors>Hao Wang,Yuyi Ou,Jie Ling,Xiaotao He,Lu Liang,Xiang Xu</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1577351</id>
+		<label>19</label>
+		<organization>Guangdong University of Technology</organization>
+	</publication>
+	<publication>
+		<title>An Approach to Security and Privacy of RFID System for Supply Chain</title>
+		<year>2004</year>
+		<authors>Xingxin (Grace) Gao,Zhe (Alex) Xiang,Hao Wang,Jun Shen,Jian Huang,Song Song</authors>
+		<jconf>Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference</jconf>
+		<id>1613319</id>
+		<label>38</label>
+		<organization>IBM China Research Lab, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Research on Positioning Technology of Xinjiang Mobile GIS</title>
+		<year>2009</year>
+		<authors>Gang Yin,Zhenhong Jia,Xizhong Qin,Chun Chang,Tao Li,Hao Wang,Junkai Zhao</authors>
+		<jconf>Proceedings of the 2009 International Conference on Environmental Science and Information Application Technology - Volume 03</jconf>
+		<id>1652888</id>
+		<label>23</label>
+		<organization>Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China</organization>
+	</publication>
+	<publication>
+		<title>Radius Restrained Distributed Breadth First Search Flooding in Large-Scale Multimedia Communication</title>
+		<year>2009</year>
+		<authors>Rui Li,Shaoming Pan,Hao Wang</authors>
+		<jconf>Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 02</jconf>
+		<id>1655596</id>
+		<label>34</label>
+		<organization>State Key Lab. of Inf. Eng. in Surveying, Mapping & Remote Sensing, Wuhan Univ., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Low Cost Mechanism for QoS-Aware Re-Planning of Composite Service</title>
+		<year>2009</year>
+		<authors>Yu Dai,Zhiliang Zhu,Dancheng Li,Hao Wang,Ying Chen,Bin Zhang</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02</jconf>
+		<id>1655905</id>
+		<label>38</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Stability of Rational, Heterogeneous Interdomain Route Selection</title>
+		<year>2005</year>
+		<authors>Hao Wang,Haiyong Xie,Yang Richard Yang,Avi Silberschatz,Li Erran Li,Yanbin Liu</authors>
+		<jconf>Proceedings of the 13TH IEEE International Conference on Network Protocols</jconf>
+		<id>1706780</id>
+		<label>18</label>
+		<organization>Yale University, New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>Algorithms and qos of video streaming over wireless networks</title>
+		<year>2005</year>
+		<authors>Hao Wang</authors>
+		<jconf>null</jconf>
+		<id>1707116</id>
+		<label>11</label>
+		<organization>The University of Texas at Dallas</organization>
+	</publication>
+	<publication>
+		<title>Stable Egress Route Selection for Interdomain Traffic Engineering: Model and Analysis</title>
+		<year>2005</year>
+		<authors>Hao Wang,Haiyong Xie,Yang Richard Yang,Avi Silberschatz Silberschatz,Li Erran Li,Yanbin Liu</authors>
+		<jconf>Proceedings of the 13TH IEEE International Conference on Network Protocols</jconf>
+		<id>1708403</id>
+		<label>18</label>
+		<organization>Yale University, New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>Variable Topology Cartesian Genetic Programming for Combinational Circuit</title>
+		<year>2008</year>
+		<authors>Xiuqin Wang,Hao Wang,Guangsheng Ma</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07</jconf>
+		<id>1751091</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Snail Identification Based on Fourier Transformation</title>
+		<year>2008</year>
+		<authors>Donghong Hu,Wei Chen,Hao Wang,Ling Zhang,Ying Wang</authors>
+		<jconf>Proceedings of the 2008 First International Conference on Intelligent Networks and Intelligent Systems</jconf>
+		<id>1751951</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+</person>

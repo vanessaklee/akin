@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>36697</personID>
+	<FullName>David Cooper</FullName>
+	<FirstName>David</FirstName>
+	<LastName>Cooper</LastName>
+	<publication>
+		<title>Java Implementation Verification Using Reverse Engineering</title>
+		<year>2004</year>
+		<authors>David Cooper,Benjamin Khoo,Brian R. von Konsky,Mike Robey</authors>
+		<jconf>ACSC</jconf>
+		<id>24633</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Dependence Graphs to Assist Manual and Automated Object Oriented Software Inspections</title>
+		<year>2006</year>
+		<authors>David Cooper,Mun Wai Chan,Gautam Mehra,Peter Woodward,Brian R. von Konsky,Michael C. Robey,Michael Harding</authors>
+		<jconf>ASWEC</jconf>
+		<id>54761</id>
+		<label>0</label>
+		<organization>Curtin University of Technology, Perth WA, Australia</organization>
+	</publication>
+	<publication>
+		<title>President's information technology advisory committee (PITAC): subcommittee on transforming the government</title>
+		<year>2000</year>
+		<authors>David Cooper,Bo Ewald</authors>
+		<jconf>DG.O</jconf>
+		<id>155008</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Geometric Properties of Correspondence Vectors for the Registration of Free-Form Shapes</title>
+		<year>2000</year>
+		<authors>Yonghuai Liu,Marcos A. Rodrigues,David Cooper</authors>
+		<jconf>ICPR</jconf>
+		<id>347715</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reading the fine print: what benchmarks don't tell you</title>
+		<year>1994</year>
+		<authors>Randi J. Rost,Jim Bushnell,David Cooper,Jerry Schneble,Lynn Thorsen-Jensen</authors>
+		<jconf>SIGGRAPH</jconf>
+		<id>593888</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Segregation with Communication</title>
+		<year>2000</year>
+		<authors>David Cooper,Susan Stepney</authors>
+		<jconf>ZB</jconf>
+		<id>676509</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Use of Z</title>
+		<year>1991</year>
+		<authors>Rosalind Barden,Susan Stepney,David Cooper</authors>
+		<jconf>Z User Workshop</jconf>
+		<id>676535</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Formal Methods for Industrial Products</title>
+		<year>2000</year>
+		<authors>Susan Stepney,David Cooper</authors>
+		<jconf>ZB</jconf>
+		<id>676735</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>More Powerful Z Data Refinement: Pushing the State of the Art in Industrial Refinement</title>
+		<year>1998</year>
+		<authors>Susan Stepney,David Cooper,Jim Woodcock</authors>
+		<jconf>ZUM</jconf>
+		<id>676736</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>E-Publishing Portal: A New Approach to Faculty Outreach</title>
+		<year>2006</year>
+		<authors>Nedelina Tchangalova,David Cooper</authors>
+		<jconf>ELPUB</jconf>
+		<id>714004</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Demonstrably Correct Compiler</title>
+		<year>1991</year>
+		<authors>Susan Stepney,Dave Whitely,David Cooper,Colin Grant</authors>
+		<jconf>Formal Asp. Comput.</jconf>
+		<id>876407</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The certification of the Mondex electronic purse to ITSEC Level E6</title>
+		<year>2008</year>
+		<authors>Jim Woodcock,Susan Stepney,David Cooper,John A. Clark,Jeremy Jacob</authors>
+		<jconf>Formal Asp. Comput.</jconf>
+		<id>876567</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sorting of textual data bases: A variety generation approach to distribution sorting</title>
+		<year>1980</year>
+		<authors>David Cooper,Mary E. Dicker,Michael F. Lynch</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>935559</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The use of binary search trees in external distribution sorting</title>
+		<year>1984</year>
+		<authors>David Cooper,Michael F. Lynch</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>935560</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compression of Wiswesser Line Notations Using Variety Generation</title>
+		<year>1979</year>
+		<authors>David Cooper,Michael F. Lynch</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>966127</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recognizing and Responding to Student Affect</title>
+		<year>2009</year>
+		<authors>Beverly Park Woolf,Toby Dragon,Ivon Arroyo,David Cooper,Winslow Burleson,Kasia Muldner</authors>
+		<jconf>HCI (3)</jconf>
+		<id>1208606</id>
+		<label>6</label>
+		<organization>Department of Computer Science, University of Massachusetts Amherst, Amherst, USA MA 01003</organization>
+	</publication>
+	<publication>
+		<title>The benefit of information technology in managing outcomes focused curriculum development across related degree programs</title>
+		<year>2006</year>
+		<authors>Brian R. von Konsky,Allan Loh,Mike Robey,Susan J. Gribble,Jim Ivins,David Cooper</authors>
+		<jconf>Proceedings of the 8th Austalian conference on Computing education - Volume 52</jconf>
+		<id>1372785</id>
+		<label>0</label>
+		<organization>Curtin University of Technology, Department of Computing, Perth, Western Australia</organization>
+	</publication>
+	<publication>
+		<title>Z in practice</title>
+		<year>1995</year>
+		<authors>Rosalind Barden,Susan Stepney,David Cooper</authors>
+		<jconf>null</jconf>
+		<id>1716145</id>
+		<label>4</label>
+		<organization>Logica UK Limited</organization>
+	</publication>
+</person>

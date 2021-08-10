@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>16756</personID>
+	<FullName>Rakesh Kumar</FullName>
+	<FirstName>Rakesh</FirstName>
+	<LastName>Kumar</LastName>
+	<publication>
+		<title>Core architecture optimization for heterogeneous chip multiprocessors</title>
+		<year>2006</year>
+		<authors>Rakesh Kumar,Dean M. Tullsen,Norman P. Jouppi</authors>
+		<jconf>PACT</jconf>
+		<id>9746</id>
+		<label>1</label>
+		<organization>University of California, San Diego, La Jolla, CA</organization>
+	</publication>
+	<publication>
+		<title>A QoS routing protocol for delay-sensitive applications in mobile ad hoc networks</title>
+		<year>2008</year>
+		<authors>Pradeep Macharla,Rakesh Kumar,Anil Kumar Sarje,Manoj Misra</authors>
+		<jconf>COMSWARE</jconf>
+		<id>113945</id>
+		<label>3</label>
+		<organization>Dept. of Electron. & Comput. Eng., Indian Inst. of Technol. Roorkee, Roorkee</organization>
+	</publication>
+	<publication>
+		<title>Multi-View 3D Analysis with Applications for Augmented Reality and Enhanced Video Visualization</title>
+		<year>2000</year>
+		<authors>Yanlin Guo,Steven C. Hsu,Supun Samarasekera,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>127983</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Vehicle Fingerprinting for Reacquisition and Tracking in Videos</title>
+		<year>2005</year>
+		<authors>Yanlin Guo,Steven C. Hsu,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>127985</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation</organization>
+	</publication>
+	<publication>
+		<title>Learning-Based Building Outline Detection from Multiple Aerial Images</title>
+		<year>2001</year>
+		<authors>Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar,Steven C. Hsu</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>127989</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pose Estimation, Model Refinement, and Enhanced Visualization Using Video</title>
+		<year>2000</year>
+		<authors>Stephen C. Hsu,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney</authors>
+		<jconf>CVPR</jconf>
+		<id>128206</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>True Multi-Image Alignment and its Application to Mosaicing and Lens Distortion Correction</title>
+		<year>1997</year>
+		<authors>Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>128979</id>
+		<label>5</label>
+		<organization>David Sarnoff Res. Center, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects</title>
+		<year>2006</year>
+		<authors>Ying Shan,Feng Han,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129026</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation 201 Washington Road Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Linear Model Hashing and Batch RANSAC for Rapid and Accurate Object Recognition</title>
+		<year>2004</year>
+		<authors>Ying Shan,Bogdan Matei,Harpreet S. Sawhney,Rakesh Kumar,Daniel F. Huber,Martial Hebert</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129028</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Unsupervised Learning of Discriminative Edge Measures for Vehicle Matching between Non-Overlapping Cameras</title>
+		<year>2005</year>
+		<authors>Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129029</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Layer Representation with Applications to Tracking</title>
+		<year>2000</year>
+		<authors>Hai Tao,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>129201</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Depth Recovery from Multiple Synchronized Video Streams</title>
+		<year>2001</year>
+		<authors>Hai Tao,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129202</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Building Detection and Modeling from Aerial LIDAR Data</title>
+		<year>2006</year>
+		<authors>Vivek Verma,Rakesh Kumar,Stephen C. Hsu</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129323</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Wide Area Multi-Camera Stereo Tracking</title>
+		<year>2005</year>
+		<authors>Tao Zhao,Manoj Aggarwal,Rakesh Kumar,Harpreet S. Sawhney</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129684</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation</organization>
+	</publication>
+	<publication>
+		<title>PEET: Prototype Embedding and Embedding Transition for Matching Vehicles over Disparate Viewpoints</title>
+		<year>2007</year>
+		<authors>Yanlin Guo,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>129802</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Odometry System Using Multiple Stereo Cameras and Inertial Measurement Unit</title>
+		<year>2007</year>
+		<authors>Taragay Oskiper,Zhiwei Zhu,Supun Samarasekera,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>130187</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Real-time global localization with a pre-built visual landmark database</title>
+		<year>2008</year>
+		<authors>Zhiwei Zhu,Taragay Oskiper,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney</authors>
+		<jconf>CVPR</jconf>
+		<id>130280</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discovering class specific composite features through discriminative sampling with Swendsen-Wang Cut</title>
+		<year>2008</year>
+		<authors>Feng Han,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>130408</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Building segmentation for densely built urban regions using aerial LIDAR data</title>
+		<year>2008</year>
+		<authors>Bodgan C. Matei,Harpreet S. Sawhney,Supun Samarasekera,Janet Kim,Rakesh Kumar</authors>
+		<jconf>CVPR</jconf>
+		<id>130516</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Matching vehicles under large pose transformations using approximate 3D models and piecewise MRF model</title>
+		<year>2008</year>
+		<authors>Yanlin Guo,Cen Rao,Supun Samarasekera,Janet Kim,Rakesh Kumar,Harpreet S. Sawhney</authors>
+		<jconf>CVPR</jconf>
+		<id>130673</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Magellan: A Search and Machine Learning-based Framework for Fast Multi-core Design Space Exploration and Optimization</title>
+		<year>2008</year>
+		<authors>Sukhun Kang,Rakesh Kumar</authors>
+		<jconf>DATE</jconf>
+		<id>143852</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Video Mosaicing through Topology Inference and Local to Global Alignment</title>
+		<year>1998</year>
+		<authors>Harpreet S. Sawhney,Steven C. Hsu,Rakesh Kumar</authors>
+		<jconf>ECCV (2)</jconf>
+		<id>169210</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Partial Object Matching with Shapeme Histograms</title>
+		<year>2004</year>
+		<authors>Ying Shan,Harpreet S. Sawhney,Bogdan Matei,Rakesh Kumar</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>169232</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Actions Using Robust String Kernels</title>
+		<year>2007</year>
+		<authors>Changjiang Yang,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>Workshop on Human Motion</jconf>
+		<id>257352</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application-specific customization of parameterized FPGA soft-core processors</title>
+		<year>2006</year>
+		<authors>David Sheldon,Rakesh Kumar,Roman L. Lysecky,Frank Vahid,Dean M. Tullsen</authors>
+		<jconf>ICCAD</jconf>
+		<id>283514</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Conjoining soft-core FPGA processors</title>
+		<year>2006</year>
+		<authors>David Sheldon,Rakesh Kumar,Frank Vahid,Dean M. Tullsen,Roman L. Lysecky</authors>
+		<jconf>ICCAD</jconf>
+		<id>283572</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Vehicle Identification between Non-Overlapping Cameras without Direct Feature Matching</title>
+		<year>2005</year>
+		<authors>Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>ICCV</jconf>
+		<id>293587</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation</organization>
+	</publication>
+	<publication>
+		<title>Independent Motion Detection in 3D Scenes</title>
+		<year>1999</year>
+		<authors>Harpreet S. Sawhney,Yanlin Guo,Jane C. Asmuth,Rakesh Kumar</authors>
+		<jconf>ICCV</jconf>
+		<id>293673</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>A Global Matching Framework for Stereo Computation</title>
+		<year>2001</year>
+		<authors>Hai Tao,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>ICCV</jconf>
+		<id>293763</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Video Georegistration: Algorithm and Quantitative Evaluation</title>
+		<year>2001</year>
+		<authors>Richard P. Wildes,David J. Hirvonen,Steven C. Hsu,Rakesh Kumar,W. Brian Lehman,Bogdan Matei,Wen-Yi Zhao</authors>
+		<jconf>ICCV</jconf>
+		<id>293879</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Multiple Cue Integrated Action Detection</title>
+		<year>2007</year>
+		<authors>Sang-Hack Jung,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>ICCV-HCI</jconf>
+		<id>293950</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ten-fold Improvement in Visual Odometry Using Landmark Matching</title>
+		<year>2007</year>
+		<authors>Zhiwei Zhu,Taragay Oskiper,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney</authors>
+		<jconf>ICCV</jconf>
+		<id>294221</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Annotation of Video by Alignment to Reference Imagery</title>
+		<year>1999</year>
+		<authors>Keith J. Hanna,Harpreet S. Sawhney,Rakesh Kumar,Yanlin Guo,Supun Samarasekera</authors>
+		<jconf>Workshop on Vision Algorithms</jconf>
+		<id>294396</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Sampling Algorithm for Tracking Multiple Objects</title>
+		<year>1999</year>
+		<authors>Hai Tao,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>Workshop on Vision Algorithms</jconf>
+		<id>294409</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video as an image data source: efficient representations and applications</title>
+		<year>1995</year>
+		<authors>P. Anandan,Michal Irani,Rakesh Kumar,James R. Bergen</authors>
+		<jconf>ICIP</jconf>
+		<id>316142</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Manipulation of Motion Imagery</title>
+		<year>2000</year>
+		<authors>Rakesh Kumar,Harpreet S. Sawhney,Yanlin Guo,Steven C. Hsu,Supun Samarasekera</authors>
+		<jconf>ICIP</jconf>
+		<id>318873</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Annotation of Video by Alignment to Reference Imagery</title>
+		<year>1999</year>
+		<authors>Keith J. Hanna,Harpreet S. Sawhney,Rakesh Kumar,Yanlin Guo,Supun Samarasekera</authors>
+		<jconf>ICMCS, Vol. 1</jconf>
+		<id>330191</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation</organization>
+	</publication>
+	<publication>
+		<title>Registration of Highly-Oblique and Zoomed in Aerial Video to Reference Imagery</title>
+		<year>2000</year>
+		<authors>Rakesh Kumar,Supun Samarasekera,Steven C. Hsu,Keith J. Hanna</authors>
+		<jconf>ICPR</jconf>
+		<id>347470</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>A Heterogeneous Feature-based Image Alignment Method</title>
+		<year>2006</year>
+		<authors>Cen Rao,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>ICPR (2)</jconf>
+		<id>348417</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534</organization>
+	</publication>
+	<publication>
+		<title>Optimal peer selection for P2P downloading and streaming</title>
+		<year>2005</year>
+		<authors>Micah Adler,Rakesh Kumar,Keith W. Ross,Dan Rubenstein,Torsten Suel,David D. Yao</authors>
+		<jconf>INFOCOM</jconf>
+		<id>399828</id>
+		<label>6</label>
+		<organization>Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Pollution in P2P file sharing systems</title>
+		<year>2005</year>
+		<authors>Jian Liang,Rakesh Kumar,Y. Xi,Keith W. Ross</authors>
+		<jconf>INFOCOM</jconf>
+		<id>401582</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stochastic Fluid Theory for P2P Streaming Systems</title>
+		<year>2007</year>
+		<authors>Rakesh Kumar,Yong Liu,Keith W. Ross</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403159</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting unbalanced thread scheduling for energy and performance on a CMP of SMT processors</title>
+		<year>2006</year>
+		<authors>M. De Vuyst,Rakesh Kumar,Dean M. Tullsen</authors>
+		<jconf>IPDPS</jconf>
+		<id>411477</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance</title>
+		<year>2004</year>
+		<authors>Rakesh Kumar,Dean M. Tullsen,Parthasarathy Ranganathan,Norman P. Jouppi,Keith I. Farkas</authors>
+		<jconf>ISCA</jconf>
+		<id>419097</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Interconnections in Multi-Core Architectures: Understanding Mechanisms, Overheads and Scaling</title>
+		<year>2005</year>
+		<authors>Rakesh Kumar,Victor V. Zyuban,Dean M. Tullsen</authors>
+		<jconf>ISCA</jconf>
+		<id>419101</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci. & Eng., California Univ., San Diego, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Software Energy Optimization of Real Time Preemptive Tasks by Minimizing Cache-Related Preemption Costs</title>
+		<year>2002</year>
+		<authors>Rakesh Kumar,Tusar Kanti Patra,Anupam Basu</authors>
+		<jconf>ISHPC</jconf>
+		<id>435414</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Single-ISA Heterogeneous Multi-Core Architectures: The Potential for Processor Power Reduction</title>
+		<year>2003</year>
+		<authors>Rakesh Kumar,Keith I. Farkas,Norman P. Jouppi,Parthasarathy Ranganathan,Dean M. Tullsen</authors>
+		<jconf>MICRO</jconf>
+		<id>499291</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering University of California,San Diego La Jolla,CA</organization>
+	</publication>
+	<publication>
+		<title>Conjoined-Core Chip Multiprocessing</title>
+		<year>2004</year>
+		<authors>Rakesh Kumar,Norman P. Jouppi,Dean M. Tullsen</authors>
+		<jconf>MICRO</jconf>
+		<id>499293</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Compiling for instruction cache performance on a multithreaded architecture</title>
+		<year>2002</year>
+		<authors>Rakesh Kumar,Dean M. Tullsen</authors>
+		<jconf>MICRO</jconf>
+		<id>499295</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Balanced Multithreading: Increasing Throughput via a Low Cost Multithreading Hierarchy</title>
+		<year>2004</year>
+		<authors>Eric Tune,Rakesh Kumar,Dean M. Tullsen,Brad Calder</authors>
+		<jconf>MICRO</jconf>
+		<id>499517</id>
+		<label>1</label>
+		<organization>University of California at San Diego</organization>
+	</publication>
+	<publication>
+		<title>Action video retrieval based on atomic action vocabulary</title>
+		<year>2008</year>
+		<authors>Sang-Hack Jung,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>Multimedia Information Retrieval</jconf>
+		<id>500537</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Composition Trust Bindings in Pervasive Computing Service Composition</title>
+		<year>2006</year>
+		<authors>John Buford,Rakesh Kumar,Greg Perkins</authors>
+		<jconf>PerCom Workshops</jconf>
+		<id>538476</id>
+		<label>6</label>
+		<organization>Polytechnic University, Brooklyn, NY</organization>
+	</publication>
+	<publication>
+		<title>Video Flashlights: Real Time Rendering of Multiple Videosfor Immersive Model Visualization</title>
+		<year>2002</year>
+		<authors>Harpreet S. Sawhney,Aydin Arpa,Rakesh Kumar,Supun Samarasekera,Manoj Aggarwal,Steven C. Hsu,David Nister,Keith J. Hanna</authors>
+		<jconf>Rendering Techniques</jconf>
+		<id>563076</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid stereo camera: an IBR approach for synthesis of very high resolution stereoscopic image sequences</title>
+		<year>2001</year>
+		<authors>Harpreet S. Sawhney,Yanlin Guo,Keith J. Hanna,Rakesh Kumar,Sean Adkins,Samuel Zhou</authors>
+		<jconf>SIGGRAPH</jconf>
+		<id>593924</id>
+		<label>5</label>
+		<organization>Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Fluid modeling of pollution proliferation in P2P networks</title>
+		<year>2006</year>
+		<authors>Rakesh Kumar,David D. Yao,Amitabha Bagchi,Keith W. Ross,Dan Rubenstein</authors>
+		<jconf>SIGMETRICS/Performance</jconf>
+		<id>597284</id>
+		<label>6</label>
+		<organization>Polytechnic University, New York, NY</organization>
+	</publication>
+	<publication>
+		<title>Proximity-aware directory-based coherence for multi-core processor architectures</title>
+		<year>2007</year>
+		<authors>Jeffery A. Brown,Rakesh Kumar,Dean M. Tullsen</authors>
+		<jconf>SPAA</jconf>
+		<id>614693</id>
+		<label>1</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Translator Design to Model Cpp Files</title>
+		<year>2005</year>
+		<authors>Satwinder Singh,K. S. Kahlon,Rakesh Kumar,Gurjeet Singh</authors>
+		<jconf>WEC (5)</jconf>
+		<id>658617</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The architecture of Efficient Multi-Core Processors: A Holistic Approach</title>
+		<year>2007</year>
+		<authors>Rakesh Kumar,Dean M. Tullsen</authors>
+		<jconf>Advances in Computers</jconf>
+		<id>739224</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Processor Power Reduction Via Single-ISA Heterogeneous Multi-Core Architectures</title>
+		<year>2003</year>
+		<authors>Rakesh Kumar,Keith I. Farkas,Norman P. Jouppi,Parthasarathy Ranganathan,Dean M. Tullsen</authors>
+		<jconf>Computer Architecture Letters</jconf>
+		<id>781408</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Danger of Interval-Based Power Efficiency Metrics: When Worst Is Best</title>
+		<year>2005</year>
+		<authors>Yiannakis Sazeides,Rakesh Kumar,Dean M. Tullsen,Theofanis Constantinou</authors>
+		<jconf>Computer Architecture Letters</jconf>
+		<id>781447</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated Mosaics via Topology Inference</title>
+		<year>2002</year>
+		<authors>Steven C. Hsu,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>IEEE Computer Graphics and Applications</jconf>
+		<id>786703</id>
+		<label>5</label>
+		<organization>David Sarnoff Res. Center, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>The FastTrack overlay: A measurement study</title>
+		<year>2006</year>
+		<authors>Jian Liang,Rakesh Kumar,Keith W. Ross</authors>
+		<jconf>Computer Networks</jconf>
+		<id>794706</id>
+		<label>6</label>
+		<organization>Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States</organization>
+	</publication>
+	<publication>
+		<title>Heterogeneous Chip Multiprocessors</title>
+		<year>2005</year>
+		<authors>Rakesh Kumar,Dean M. Tullsen,Norman P. Jouppi,Parthasarathy Ranganathan</authors>
+		<jconf>IEEE Computer</jconf>
+		<id>807039</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Toward a sentient environment: real-time wide area multiple human tracking with identities</title>
+		<year>2008</year>
+		<authors>Tao Zhao,Manoj Aggarwal,Thomas Germano,Ian Roth,Alexandar Knowles,Rakesh Kumar,Harpreet S. Sawhney,Supun Samarasekera</authors>
+		<jconf>Mach. Vis. Appl.</jconf>
+		<id>1017614</id>
+		<label>5</label>
+		<organization>Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Rapid Object Indexing Using Locality Sensitive Hashing and Joint 3D-Signature Space Estimation</title>
+		<year>2006</year>
+		<authors>Bogdan Matei,Ying Shan,Harpreet S. Sawhney,Yi Tan,Rakesh Kumar,Daniel F. Huber,Martial Hebert</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1032459</id>
+		<label>5</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Independent Motion Detection in 3D Scenes</title>
+		<year>2000</year>
+		<authors>Harpreet S. Sawhney,Yanlin Guo,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1032905</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>True Multi-Image Alignment and Its Application to Mosaicing and Lens Distortion Correction</title>
+		<year>1999</year>
+		<authors>Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1032906</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Shapeme Histogram Projection and Matching for Partial Object Recognition</title>
+		<year>2006</year>
+		<authors>Ying Shan,Harpreet S. Sawhney,Bogdan Matei,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1032947</id>
+		<label>5</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Object Tracking with Bayesian Estimation of Dynamic Layer Representations</title>
+		<year>2002</year>
+		<authors>Hai Tao,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033145</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Robust Object Matching for Persistent Tracking with Heterogeneous Features</title>
+		<year>2007</year>
+		<authors>Yanlin Guo,Steven C. Hsu,Harpreet S. Sawhney,Rakesh Kumar,Ying Shan</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033738</id>
+		<label>5</label>
+		<organization>Sarnoff Corp., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Unsupervised Learning of Discriminative Edge Measures for Vehicle Matching between Nonoverlapping Cameras</title>
+		<year>2008</year>
+		<authors>Ying Shan,Harpreet S. Sawhney,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033885</id>
+		<label>5</label>
+		<organization>IEEE</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the special issue on the 2005 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'05)</title>
+		<year>2005</year>
+		<authors>Norman P. Jouppi,Rakesh Kumar,Dean M. Tullsen</authors>
+		<jconf>SIGARCH Computer Architecture News</jconf>
+		<id>1062426</id>
+		<label>1</label>
+		<organization>University of California, San Diego</organization>
+	</publication>
+	<publication>
+		<title>Two optimal peer selection problems</title>
+		<year>2004</year>
+		<authors>Micah Adler,Rakesh Kumar,Keith W. Ross,Dan Rubenstein,David A. Turner,David D. Yao</authors>
+		<jconf>SIGMETRICS Performance Evaluation Review</jconf>
+		<id>1063763</id>
+		<label>6</label>
+		<organization>Polytechnic University, NY</organization>
+	</publication>
+	<publication>
+		<title>Validation of an Optical Flow Method for Tag Displacement Estimation</title>
+		<year>1999</year>
+		<authors>Lawrence Dougherty,Jane C. Asmuth,Aaron S. Blom,Leon Axel,Rakesh Kumar</authors>
+		<jconf>IEEE Trans. Med. Imaging</jconf>
+		<id>1114791</id>
+		<label>5</label>
+		<organization>Dept. of Radiol., Pennsylvania Univ., Philadelphia, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Effect of test condition and stress free temperature on the electromigration failure of Cu dual damascene submicron interconnect line-via test structures</title>
+		<year>2005</year>
+		<authors>Arijit Roy,Cher Ming Tan,Rakesh Kumar,Xian Tong Chen</authors>
+		<jconf>Microelectronics Reliability</jconf>
+		<id>1154191</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhancement of adhesion strength of Cu layer with low dielectric constant SiC: H liners in Cu interconnects</title>
+		<year>2005</year>
+		<authors>Grace Wang,S. Balakumar,S. C. Hwee,Rakesh Kumar,T. Hara</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155136</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Placement of scattering bars in binary and attenuated phase shift mask for damascene trench patterning</title>
+		<year>2004</year>
+		<authors>Sohan Singh Mehta,Navab Singh,Moitreyee Mukherjee-Roy,Rakesh Kumar</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155200</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resist pattern peeling assessment in DUV chemically amplified resist</title>
+		<year>2004</year>
+		<authors>Sohan Singh Mehta,Sun Hai Qin,Moitreyee Mukherjee-Roy,Navab Singh,Rakesh Kumar</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155339</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A method for deep etching in dielectric films for 3D-chip and photonics applications</title>
+		<year>2004</year>
+		<authors>B. Ramana Murthy,Rakesh Kumar</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1155380</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards scalable reliability frameworks for error prone CMPs</title>
+		<year>2009</year>
+		<authors>Joseph Sloan,Rakesh Kumar</authors>
+		<jconf>CASES</jconf>
+		<id>1238788</id>
+		<label>1</label>
+		<organization>Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Distributed peak power management for many-core architectures</title>
+		<year>2009</year>
+		<authors>John Sartori,Rakesh Kumar</authors>
+		<jconf>DATE</jconf>
+		<id>1241270</id>
+		<label>1</label>
+		<organization>Coordinated Sci. Lab., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>VideoTrek: A vision system for a tag-along robot.</title>
+		<year>2009</year>
+		<authors>Oleg Naroditsky,Zhiwei Zhu,Aveek Das,Supun Samarasekera,Taragay Oskiper,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1305113</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Workload adaptive shared memory multicore processors with reconfigurable interconnects.</title>
+		<year>2009</year>
+		<authors>Shoaib Akram,Rakesh Kumar,Deming Chen</authors>
+		<jconf>null</jconf>
+		<id>1313859</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Register Multimapping: A technique for reducing register bank conflicts in processors with large register files.</title>
+		<year>2009</year>
+		<authors>Nam Duong,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1313866</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comparative Study of Different Sensors for Smart Car Park Management.</title>
+		<year>2007</year>
+		<authors>Rakesh Kumar,Naveen K. Chilamkurti,Ben Soh</authors>
+		<jconf>null</jconf>
+		<id>1314933</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Replication of Biomolecular Techniques for Implementing Intelligent Systems.</title>
+		<year>2008</year>
+		<authors>Sanjeev Dhawan,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1315110</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analyzing Performance of Web-Based Metrics for Evaluating Reliability and Maintainability of Hypermedia Applications.</title>
+		<year>2008</year>
+		<authors>Sanjeev Dhawan,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1315126</id>
+		<label>0</label>
+		<organization>Fac. of Comput. Eng., Kurukshetra Univ., Kurukshetra</organization>
+	</publication>
+	<publication>
+		<title>Panel: Realistic low power design: Let errors occur and correct them later or mitigate errors via design guardbanding and process control?.</title>
+		<year>2009</year>
+		<authors>Abhijit Chatterjee,Jacob A. Abraham,Adit D. Singh,Elie Maricau,Rakesh Kumar,Chris Papachristou</authors>
+		<jconf>null</jconf>
+		<id>1320877</id>
+		<label>4</label>
+		<organization>Georgia Tech., USA</organization>
+	</publication>
+	<publication>
+		<title>Low-Overhead, High-Speed Multi-core Barrier Synchronization.</title>
+		<year>2010</year>
+		<authors>John Sartori,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1323041</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing peak power with a table-driven adaptive processor core.</title>
+		<year>2009</year>
+		<authors>Vasileios Kontorinis,Amirali Shayan,Dean M. Tullsen,Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1325044</id>
+		<label>1</label>
+		<organization>University of Illinois, Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Servo: a programming model for many-core computing</title>
+		<year>2008</year>
+		<authors>Nicolas Zea,John Sartori,Rakesh Kumar</authors>
+		<jconf>ACM SIGARCH Computer Architecture News</jconf>
+		<id>1379305</id>
+		<label>1</label>
+		<organization>Coordinated Science Laboratory, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the special issue on the 2007 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'07)</title>
+		<year>2008</year>
+		<authors>Norman P. Jouppi,Rakesh Kumar,Dean Tullsen</authors>
+		<jconf>ACM SIGARCH Computer Architecture News</jconf>
+		<id>1380520</id>
+		<label>1</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Software Energy Optimization of Real Time Preemptive Tasks by Minimizing Cache-Related Preemption Costs</title>
+		<year>2009</year>
+		<authors>Rakesh Kumar,Tusar Kanti Patra,Anupam Basu</authors>
+		<jconf>Proceedings of the 4th International Symposium on High Performance Computing</jconf>
+		<id>1436071</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114</organization>
+	</publication>
+	<publication>
+		<title>Determination of the hardness and elastic modulus of low-k thin films and their barrier layer for microelectronic applications</title>
+		<year>2003</year>
+		<authors>Lu Shen,Kaiyang Zeng,Yihua Wang,Babu Narayanan,Rakesh Kumar</authors>
+		<jconf>Microelectronic Engineering</jconf>
+		<id>1561928</id>
+		<label>9</label>
+		<organization>Institute of Microelectronics, 11 Science Park Road, Science Park II, Singapore 117685, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Model dependent inference of three-dimensional information from a sequence of two-dimensional images</title>
+		<year>1992</year>
+		<authors>Rakesh Kumar</authors>
+		<jconf>null</jconf>
+		<id>1676758</id>
+		<label>7</label>
+		<organization>Univ. of Massachusetts, Boston</organization>
+	</publication>
+	<publication>
+		<title>Representation of Scenes from Collections of Images</title>
+		<year>1995</year>
+		<authors>Rakesh Kumar,P. Anandan,michal Irani,James Bergen,Keith Hanna</authors>
+		<jconf>Proceedings of the IEEE Workshop on Representation of Visual Scenes</jconf>
+		<id>1693346</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+</person>

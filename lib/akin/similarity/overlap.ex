@@ -5,22 +5,26 @@ defmodule Akin.Similarity.Overlap do
   """
   import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
 
-  @behaviour Akin.StringMetric
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
 
   @doc """
   Compares two values using the Overlap Similarity metric and returns the
-  coefficient.  It takes the ngram size as the third argument, and, if
-  none is provided, assumes that you want to use 1.
+  coefficient.  It takes the ngram size as the third argument.
   ## Examples
       iex> Akin.Similarity.Overlap.compare("compare me", "to me")
-      0.8
-      iex> Akin.Similarity.Overlap.compare("compare me", "to me", 2)
       0.5
+      iex> Akin.Similarity.Overlap.compare("compare me", "to me", [ngram_size: 1])
+      0.8
       iex> Akin.Similarity.Overlap.compare("or me", "me", 1)
       1.0
   """
-  def compare(left, right), do: compare(left, right, 1)
-
+  def compare(left, right) do
+    compare(left, right, Akin.default_ngram_size())
+  end
+  def compare(left, right, opts) when is_list(opts) do
+    compare(left, right, Keyword.get(opts, :ngram_size) || Akin.default_ngram_size())
+  end
   def compare(left, right, n) do
     cond do
       n <= 0 || String.length(left) < n || String.length(right) < n ->

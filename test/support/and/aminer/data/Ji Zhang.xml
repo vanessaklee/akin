@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>54157</personID>
+	<FullName>Ji Zhang</FullName>
+	<FirstName>Ji</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>TCP Quick-Adjust by Utilizing Explicit Link Characteristic Information</title>
+		<year>2008</year>
+		<authors>Ji Zhang,Jouni Korhonen,SooHong Park,David Pearce</authors>
+		<jconf>AINA Workshops</jconf>
+		<id>36878</id>
+		<label>0</label>
+		<organization>Univ. of York, York</organization>
+	</publication>
+	<publication>
+		<title>Modular verification of dynamically adaptive systems</title>
+		<year>2009</year>
+		<authors>Ji Zhang,Heather Goldsby,Betty H. C. Cheng</authors>
+		<jconf>AOSD</jconf>
+		<id>43295</id>
+		<label>1</label>
+		<organization>Michigan State University, East Lansing, MI, USA</organization>
+	</publication>
+	<publication>
+		<title>Grid-ODF: Detecting Outliers Effectively and Efficiently in Large Multi-dimensional Databases</title>
+		<year>2005</year>
+		<authors>Wei Wang,Ji Zhang,Hai H. Wang</authors>
+		<jconf>CIS (1)</jconf>
+		<id>97245</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Scalable Video Conference System Based on SIP</title>
+		<year>2005</year>
+		<authors>Zhen Yang,Huadong Ma,Ji Zhang</authors>
+		<jconf>CSCWD (Selected papers)</jconf>
+		<id>122237</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Building XML Data Warehouse Based on Frequent Patterns in User Queries</title>
+		<year>2003</year>
+		<authors>Ji Zhang,Tok Wang Ling,Robert M. Bruckner,A. Min Tjoa</authors>
+		<jconf>DaWaK</jconf>
+		<id>144501</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Information-Driven Framework for Image Mining</title>
+		<year>2001</year>
+		<authors>Ji Zhang,Wynne Hsu,Mong-Li Lee</authors>
+		<jconf>DEXA</jconf>
+		<id>150642</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PC-Filter: A Robust Filtering Technique for Duplicate Record Detection in Large Databases</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Tok Wang Ling,Robert M. Bruckner,Han Liu</authors>
+		<jconf>DEXA</jconf>
+		<id>150646</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Efficient and Effective Association Rule Mining from XML Data</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Tok Wang Ling,Robert M. Bruckner,A. Min Tjoa,Han Liu</authors>
+		<jconf>DEXA</jconf>
+		<id>150648</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Color Indexing Scheme Using Two-level Clustering Processing for Effective and Efficient Image Retrieval</title>
+		<year>2005</year>
+		<authors>Ji Zhang,Wei Wang,Sheng Zhang</authors>
+		<jconf>DMIN</jconf>
+		<id>158817</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fault Diagnosis Approach Based on Qualitative Model of Signed Directed Graph and Reasoning Rules</title>
+		<year>2005</year>
+		<authors>Bingshu Wang,Wenliang Cao,Liangyu Ma,Ji Zhang</authors>
+		<jconf>FSKD (2)</jconf>
+		<id>217908</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Computational Framework and Browser for Supporting Automatic Genome Annotation</title>
+		<year>2006</year>
+		<authors>Feng Lu,Ji Zhang,Yanhong Zhou</authors>
+		<jconf>GCC Workshops</jconf>
+		<id>224427</id>
+		<label>9</label>
+		<organization>Huazhong University of Science and Technology, China</organization>
+	</publication>
+	<publication>
+		<title>A Novel Dimensionality Reduction Technique Based on Independent Component Analysis for Modeling Microarray Gene Expression Data</title>
+		<year>2004</year>
+		<authors>Han Liu,Rafal Kustra,Ji Zhang</authors>
+		<jconf>IC-AI</jconf>
+		<id>265495</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Statistical Issues with Labeled Sample Size Analysis for Semi-Supervised Linear Discriminant Analysis</title>
+		<year>2004</year>
+		<authors>Han Liu,Di Wu,Ji Zhang,Xiaolin Yang,Xiaobin Yuan,Rafal Kustra</authors>
+		<jconf>IC-AI</jconf>
+		<id>265498</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generalized Semi-Infinite Optimization and its Application in Robotics' Path Planning Problem</title>
+		<year>2004</year>
+		<authors>Han Liu,Xiaolin Yang,Ji Zhang,Yongji Wang</authors>
+		<jconf>IC-AI</jconf>
+		<id>265499</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Composite Kernel Approach to Chinese Entity Relation Extraction</title>
+		<year>2009</year>
+		<authors>Ji Zhang,You Ouyang,Wenjie Li,Yuexian Hou</authors>
+		<jconf>ICCPOL</jconf>
+		<id>289783</id>
+		<label>10</label>
+		<organization>Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China</organization>
+	</publication>
+	<publication>
+		<title>Event-Based Summarization Using Critical Temporal Event Term Chain</title>
+		<year>2009</year>
+		<authors>Maofu Liu,Wenjie Li,Xiaolong Zhang,Ji Zhang</authors>
+		<jconf>ICCPOL</jconf>
+		<id>289829</id>
+		<label>10</label>
+		<organization>Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>Simplifying the Reconstruction of 3D Models using Parameter Elimination</title>
+		<year>2007</year>
+		<authors>Daniel G. Aliaga,Ji Zhang,Mireille Boutin</authors>
+		<jconf>ICCV</jconf>
+		<id>294133</id>
+		<label>11</label>
+		<organization>Purdue Univ., West Lafayette</organization>
+	</publication>
+	<publication>
+		<title>SPOT: A System for Detecting Projected Outliers From High-dimensional Data Streams</title>
+		<year>2008</year>
+		<authors>Ji Zhang,Qigang Gao,Hai Wang</authors>
+		<jconf>ICDE</jconf>
+		<id>301949</id>
+		<label>2</label>
+		<organization>Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca</organization>
+	</publication>
+	<publication>
+		<title>A Novel Method for Detecting Outlying Subspaces in High-dimensional Databases Using Genetic Algorithm</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Qigang Gao,Hai Wang</authors>
+		<jconf>ICDM</jconf>
+		<id>303120</id>
+		<label>2</label>
+		<organization>Dalhousie University, Canada</organization>
+	</publication>
+	<publication>
+		<title>Robust Bundle Adjustment for Structure from Motion</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Mireille Boutin,Daniel G. Aliaga</authors>
+		<jconf>ICIP</jconf>
+		<id>324318</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN</organization>
+	</publication>
+	<publication>
+		<title>Model-based development of dynamically adaptive software</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Betty H. C. Cheng</authors>
+		<jconf>ICSE</jconf>
+		<id>363463</id>
+		<label>1</label>
+		<organization>Michigan State University, East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Enabling Safe Dynamic Component-Based Software Adaptation</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Betty H. C. Cheng,Zhenxiao Yang,Philip K. McKinley</authors>
+		<jconf>WADS</jconf>
+		<id>363464</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discover Gene Specific Local Co-regulations Using Progressive Genetic Algorithm</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Qigang Gao,Hai Wang</authors>
+		<jconf>ICTAI</jconf>
+		<id>367756</id>
+		<label>2</label>
+		<organization>Dalhousie University, Canada</organization>
+	</publication>
+	<publication>
+		<title>An Effective and Efficient Data Cleaning Technique in Large Databases</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Han Liu</authors>
+		<jconf>IKE</jconf>
+		<id>394809</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Class of Banyan Networks and Tandem Banyan Switching Fabrics</title>
+		<year>1993</year>
+		<authors>Sandeep Sibal,Ji Zhang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402457</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Spectral Decomposition Approach for Transient Analysis of Multi-Server Discrete-Time Queues</title>
+		<year>1992</year>
+		<authors>Khosrow Sohraby,Ji Zhang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402523</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Study of Markov Modulated Fluid Flow Models with Priority Traffic</title>
+		<year>1993</year>
+		<authors>Ji Zhang</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402948</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>The Transient Performance Analysis of Voice/Data Integrated Networks</title>
+		<year>1990</year>
+		<authors>Ji Zhang,Edward J. Coyle</authors>
+		<jconf>INFOCOM</jconf>
+		<id>402964</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI</organization>
+	</publication>
+	<publication>
+		<title>Anomaly detection in high-dimensional network data streams: A case study</title>
+		<year>2008</year>
+		<authors>Ji Zhang,Qigang Gao,Hai Wang</authors>
+		<jconf>ISI</jconf>
+		<id>436009</id>
+		<label>2</label>
+		<organization>Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS</organization>
+	</publication>
+	<publication>
+		<title>Itanium processor clock design</title>
+		<year>2000</year>
+		<authors>Utpal Desai,Simon Tam,Robert Kim,Ji Zhang,Stefan Rusu</authors>
+		<jconf>ISPD</jconf>
+		<id>446415</id>
+		<label>14</label>
+		<organization>Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA</organization>
+	</publication>
+	<publication>
+		<title>Image Mining: Issues, Frameworks and Techniques</title>
+		<year>2001</year>
+		<authors>Ji Zhang,Wynne Hsu,Mong-Li Lee</authors>
+		<jconf>MDM/KDD</jconf>
+		<id>473452</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing the Java Piped I/O Stream Library for Performance</title>
+		<year>2002</year>
+		<authors>Ji Zhang,Jaejin Lee,Philip K. McKinley</authors>
+		<jconf>LCPC</jconf>
+		<id>483364</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Addressing mobility issues in mobile environment</title>
+		<year>2008</year>
+		<authors>Ji Zhang,Arto Hamalainen,Jari Porras</authors>
+		<jconf>Mobile Middleware</jconf>
+		<id>500242</id>
+		<label>3</label>
+		<organization>Lappeenranta University of Technology, Finland</organization>
+	</publication>
+	<publication>
+		<title>AMOEBA-RT: Run-Time Verification of Adaptive Software</title>
+		<year>2007</year>
+		<authors>Heather Goldsby,Betty H. C. Cheng,Ji Zhang</authors>
+		<jconf>MoDELS Workshops</jconf>
+		<id>507447</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HOS-Miner: A System for Detecting Outlying Subspaces of High-dimensional Data</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Meng Lou,Tok Wang Ling,Hai H. Wang</authors>
+		<jconf>VLDB</jconf>
+		<id>644127</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proactive care-of address test for route optimization in FMIPv6</title>
+		<year>2005</year>
+		<authors>Ji Zhang,David Pearce</authors>
+		<jconf>WMASH</jconf>
+		<id>665001</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>X-warehouse: building query pattern-driven data</title>
+		<year>2005</year>
+		<authors>Ji Zhang,Wei Wang,Han Liu,Sheng Zhang</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674908</id>
+		<label>2</label>
+		<organization>University of Toronto, Toronto, Canada</organization>
+	</publication>
+	<publication>
+		<title>XAR-miner: efficient association rules mining for XML data</title>
+		<year>2005</year>
+		<authors>Sheng Zhang,Ji Zhang,Han Liu,Wei Wang</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674912</id>
+		<label>2</label>
+		<organization>University of Toronto, Toronto, Canada</organization>
+	</publication>
+	<publication>
+		<title>Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation</title>
+		<year>2006</year>
+		<authors>Hao Dong,Mingguo Zhao,Ji Zhang,Zongying Shi,Naiyao Zhang</authors>
+		<jconf>IROS</jconf>
+		<id>724661</id>
+		<label>5</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Research and Practice in Undergraduate Embedded System Course</title>
+		<year>2008</year>
+		<authors>Xiumin Shi,Ji Zhang,Yanbing Ju</authors>
+		<jconf>ICYCS</jconf>
+		<id>730243</id>
+		<label>7</label>
+		<organization>Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Efficient Association Rule Mining in XML Data</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Han Liu,Tok Wang Ling,Robert M. Bruckner,A. Min Tjoa</authors>
+		<jconf>J. Database Manag.</jconf>
+		<id>979868</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Mining: Trends and Developments</title>
+		<year>2002</year>
+		<authors>Wynne Hsu,Mong-Li Lee,Ji Zhang</authors>
+		<jconf>J. Intell. Inf. Syst.</jconf>
+		<id>982224</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clustering in Dynamic Spatial Databases</title>
+		<year>2005</year>
+		<authors>Ji Zhang,Wynne Hsu,Mong-Li Lee</authors>
+		<jconf>J. Intell. Inf. Syst.</jconf>
+		<id>982386</id>
+		<label>6</label>
+		<organization>School of Computing, National University of Singapore, Singapore 117543</organization>
+	</publication>
+	<publication>
+		<title>Using temporal logic to specify adaptive program semantics</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Betty H. C. Cheng</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997631</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detecting outlying subspaces for high-dimensional data: the new task, algorithms, and performance</title>
+		<year>2006</year>
+		<authors>Ji Zhang,Hai Wang</authors>
+		<jconf>Knowl. Inf. Syst.</jconf>
+		<id>1003512</id>
+		<label>2</label>
+		<organization>Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada</organization>
+	</publication>
+	<publication>
+		<title>Spectral Decomposition Approach for Transient Analysis of Multi-Server Discrete-Time Queues</title>
+		<year>1994</year>
+		<authors>Khosrow Sohraby,Ji Zhang</authors>
+		<jconf>Perform. Eval.</jconf>
+		<id>1037236</id>
+		<label>0</label>
+		<organization>IBM Thomas J. Watson Res. Center, Yorktown Heights, NY</organization>
+	</publication>
+	<publication>
+		<title>Discover gene specific local co-regulations from time-course gene expression data</title>
+		<year>2008</year>
+		<authors>Ji Zhang,Qigang Gao,Hai Wang</authors>
+		<jconf>Scientific Programming</jconf>
+		<id>1073329</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The transient solution of time-dependent M/M/1 queues</title>
+		<year>1991</year>
+		<authors>Ji Zhang,Edward J. Coyle</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109810</id>
+		<label>0</label>
+		<organization>Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Specifying real-time properties in autonomic systems</title>
+		<year>2007</year>
+		<authors>Ji Zhang,Zhinan Zhou,Betty H. C. Cheng,Philip K. McKinley</authors>
+		<jconf>ISSE</jconf>
+		<id>1168394</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Specifying adaptation semantics</title>
+		<year>2005</year>
+		<authors>Ji Zhang,Betty H. C. Cheng</authors>
+		<jconf>ACM SIGSOFT Software Engineering Notes</jconf>
+		<id>1179821</id>
+		<label>1</label>
+		<organization>Michigan State University, East Lansing, Michigan</organization>
+	</publication>
+	<publication>
+		<title>D-GridMST: Clustering Large Distributed Spatial Databases</title>
+		<year>2005</year>
+		<authors>Ji Zhang,Han Liu</authors>
+		<jconf>Classification and Clustering for Knowledge Discovery</jconf>
+		<id>1200887</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gene Specific Co-regulation Discovery: An Improved Approach</title>
+		<year>2009</year>
+		<authors>Ji Zhang,Qing Liu,Kai Xu</authors>
+		<jconf>ICCS (1)</jconf>
+		<id>1209808</id>
+		<label>2</label>
+		<organization>CSIRO Tasmanian ICT Centre, Hobart, Australia 7001</organization>
+	</publication>
+	<publication>
+		<title>Humanoid Robot Gait Generation Based on Limit Cycle Stability</title>
+		<year>2008</year>
+		<authors>Mingguo Zhao,Ji Zhang,Hao Dong,Yu Liu,Liguo Li,Xuemin Su</authors>
+		<jconf>RoboCup</jconf>
+		<id>1213105</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detecting Projected Outliers in High-Dimensional Data Streams</title>
+		<year>2009</year>
+		<authors>Ji Zhang,Qigang Gao,Hai H. Wang,Qing Liu,Kai Xu</authors>
+		<jconf>DEXA</jconf>
+		<id>1241679</id>
+		<label>2</label>
+		<organization>CSIRO ICT Center, Hobart, Australia</organization>
+	</publication>
+	<publication>
+		<title>The Intelligent Reconfigurable Measuring Node Based on Wireless Access Network.</title>
+		<year>2009</year>
+		<authors>Liming Wu,Junxiu Liu,Ji Zhang,Yuling Luo</authors>
+		<jconf>null</jconf>
+		<id>1304221</id>
+		<label>12</label>
+		<organization>Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>A dynamic scalable service model for SIP-based video conference.</title>
+		<year>2005</year>
+		<authors>Zhen Yang,Huadong Ma,Ji Zhang</authors>
+		<jconf>null</jconf>
+		<id>1304504</id>
+		<label>4</label>
+		<organization>Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China</organization>
+	</publication>
+	<publication>
+		<title>Effect of energy feedbacks on Virtual Slope Walking: I. Complementary Energy Feedback.</title>
+		<year>2009</year>
+		<authors>Ji Zhang,Mingguo Zhao,Hao Dong</authors>
+		<jconf>null</jconf>
+		<id>1306965</id>
+		<label>5</label>
+		<organization>Dept. of Autom., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>On the error analysis of vertical line pair-based monocular visual odometry in urban area.</title>
+		<year>2009</year>
+		<authors>Ji Zhang,Dezhen Song</authors>
+		<jconf>null</jconf>
+		<id>1312773</id>
+		<label>13</label>
+		<organization>Computer Science and Engineering Department, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Effect of Gaze Direction and Face Expression on Visual Reflexive Attention.</title>
+		<year>2009</year>
+		<authors>Xin Guan,Qi Wang,Ji Zhang,Xue-min Zhang</authors>
+		<jconf>null</jconf>
+		<id>1329302</id>
+		<label>12</label>
+		<organization>Sch. of Psychol., Beijing Normal Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Towards outlier detection for high-dimensional data streams using projected outlier analysis strategy</title>
+		<year>2009</year>
+		<authors>Ji Zhang</authors>
+		<jconf>null</jconf>
+		<id>1366661</id>
+		<label>2</label>
+		<organization>Dalhousie University (Canada)</organization>
+	</publication>
+	<publication>
+		<title>Hos-Miner: a system for detecting outlyting subspaces of high-dimensional data</title>
+		<year>2004</year>
+		<authors>Ji Zhang,Meng Lou,Tok Wang Ling,Hai Wang</authors>
+		<jconf>Proceedings of the Thirtieth international conference on Very large data bases - Volume 30</jconf>
+		<id>1580147</id>
+		<label>2</label>
+		<organization>Department of Computer Science, University of Toronto</organization>
+	</publication>
+	<publication>
+		<title>An Effective Error Concealment Framework For H.264 Decoder Based on Video Scene Change Detection</title>
+		<year>2007</year>
+		<authors>Ji Zhang,Feng Liu,Hui Shao,Gang Wang</authors>
+		<jconf>Proceedings of the Fourth International Conference on Image and Graphics</jconf>
+		<id>1585574</id>
+		<label>15</label>
+		<organization>Nanjing Univ. of Posts & Telecomm, China</organization>
+	</publication>
+	<publication>
+		<title>AMOEBA-RT: Run-Time Verification of Adaptive Software</title>
+		<year>2008</year>
+		<authors>Heather J. Goldsby,Betty H. Cheng,Ji Zhang</authors>
+		<jconf>Models in Software Engineering: Workshops and Symposia at MoDELS 2007, Nashville, TN, USA, September 30 - October 5, 2007, Reports and Revised Selected Papers</jconf>
+		<id>1599631</id>
+		<label>1</label>
+		<organization>Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824</organization>
+	</publication>
+	<publication>
+		<title>Towards Re-engineering Legacy Systems for Assured Dynamic Adaptation</title>
+		<year>2007</year>
+		<authors>Ji Zhang,Betty H. C. Cheng</authors>
+		<jconf>Proceedings of the International Workshop on Modeling in Software Engineering</jconf>
+		<id>1604146</id>
+		<label>1</label>
+		<organization>Michigan State University, USA</organization>
+	</publication>
+</person>

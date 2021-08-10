@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>83582</personID>
+	<FullName>Hui Fang</FullName>
+	<FirstName>Hui</FirstName>
+	<LastName>Fang</LastName>
+	<publication>
+		<title>Video Extraction in Compressed Domain</title>
+		<year>2003</year>
+		<authors>Puteri Norhashimah,Hui Fang,Jianmin Jiang</authors>
+		<jconf>AVSS</jconf>
+		<id>61440</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Randomly Accessible Procedural Animation of Physically Approximate Turbulent Motion</title>
+		<year>2002</year>
+		<authors>Hui Fang,John C. Hart</authors>
+		<jconf>CA</jconf>
+		<id>70509</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improve retrieval accuracy for difficult queries using negative feedback</title>
+		<year>2007</year>
+		<authors>Xuanhui Wang,Hui Fang,ChengXiang Zhai</authors>
+		<jconf>CIKM</jconf>
+		<id>96305</id>
+		<label>2</label>
+		<organization>The Ohio State University, Columbus, OH</organization>
+	</publication>
+	<publication>
+		<title>Subspace Clustering for Microarray Data Analysis: Multiple Criteria and Significance Assessment</title>
+		<year>2004</year>
+		<authors>Hui Fang,ChengXiang Zhai,Lei Liu,Jiong Yang</authors>
+		<jconf>CSB</jconf>
+		<id>120860</id>
+		<label>2</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>A Hybrid Scheme for Temporal Video Segmentation</title>
+		<year>2006</year>
+		<authors>Hui Fang,Puteri Norhashimah,Jianmin Jiang,Yong Yin</authors>
+		<jconf>DELTA</jconf>
+		<id>148731</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Probabilistic Models for Expert Finding</title>
+		<year>2007</year>
+		<authors>Hui Fang,ChengXiang Zhai</authors>
+		<jconf>ECIR</jconf>
+		<id>170388</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D facial geometry recovery via group-wise optical flow</title>
+		<year>2008</year>
+		<authors>Hui Fang,Nicholas Costen,David Cristinacce,John Darby</authors>
+		<jconf>FG</jconf>
+		<id>205794</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic alignment of large-scale aerial rasters to road-maps</title>
+		<year>2007</year>
+		<authors>Xiaqing Wu,Rodrigo L. Carceroni,Hui Fang,Steve Zelinka,Andrew Kirmse</authors>
+		<jconf>GIS</jconf>
+		<id>233075</id>
+		<label>2</label>
+		<organization>Google, Inc., Mountain View, CA</organization>
+	</publication>
+	<publication>
+		<title>Interactive material replacement in photographs</title>
+		<year>2005</year>
+		<authors>Steve Zelinka,Hui Fang,Michael Garland,John C. Hart</authors>
+		<jconf>Graphics Interface</jconf>
+		<id>236117</id>
+		<label>2</label>
+		<organization>University of Illinois at Urbana, Champaign</organization>
+	</publication>
+	<publication>
+		<title>Region Growing with Automatic Seeding for Semantic Video Object Segmentation</title>
+		<year>2005</year>
+		<authors>Yue Feng,Hui Fang,Jianmin Jiang</authors>
+		<jconf>ICAPR (2)</jconf>
+		<id>273194</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video Indexing and Retrieval in Compressed Domain Using Fuzzy-Categorization</title>
+		<year>2006</year>
+		<authors>Hui Fang,Rami Qahwaji,Jianmin Jiang</authors>
+		<jconf>ISVC (2)</jconf>
+		<id>451647</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>3D Face Reconstruction Under Imperfect Tracking Circumstances Using Shape Model Constraints</title>
+		<year>2007</year>
+		<authors>Hui Fang,Nicholas Paul Costen</authors>
+		<jconf>ISVC (2)</jconf>
+		<id>451833</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A formal study of information retrieval heuristics</title>
+		<year>2004</year>
+		<authors>Hui Fang,Tao Tao,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>594871</id>
+		<label>2</label>
+		<organization>University of Illinois at Urbana Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>An exploration of axiomatic approaches to information retrieval</title>
+		<year>2005</year>
+		<authors>Hui Fang,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>594872</id>
+		<label>2</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Semantic term matching in axiomatic approaches to information retrieval</title>
+		<year>2006</year>
+		<authors>Hui Fang,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>594873</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A study of Poisson query generation model for information retrieval</title>
+		<year>2007</year>
+		<authors>Qiaozhu Mei,Hui Fang,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>596192</id>
+		<label>2</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Term feedback for information retrieval with language models</title>
+		<year>2007</year>
+		<authors>Bin Tan,Atulya Velivelli,Hui Fang,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>596322</id>
+		<label>2</label>
+		<organization>University of Illinois</organization>
+	</publication>
+	<publication>
+		<title>A study of methods for negative relevance feedback</title>
+		<year>2008</year>
+		<authors>Xuanhui Wang,Hui Fang,ChengXiang Zhai</authors>
+		<jconf>SIGIR</jconf>
+		<id>596450</id>
+		<label>2</label>
+		<organization>OSU, Columbus, OH, USA</organization>
+	</publication>
+	<publication>
+		<title>Improving the Robustness of Language Models - UIUC TREC 2003 Robust and Genomics Experiments</title>
+		<year>2003</year>
+		<authors>ChengXiang Zhai,Tao Tao,Hui Fang,Zhidi Shang</authors>
+		<jconf>TREC</jconf>
+		<id>630441</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Language Models for Expert Finding--UIUC TREC 2006 Enterprise Track Experiments</title>
+		<year>2006</year>
+		<authors>Hui Fang,Lixin Zhou,ChengXiang Zhai</authors>
+		<jconf>TREC</jconf>
+		<id>630680</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Controlling Uncertainty in Personal Positioning at Minimal Measurement Cost</title>
+		<year>2008</year>
+		<authors>Hui Fang,Wen-Jing Hsu,Larry Rudolph</authors>
+		<jconf>UIC</jconf>
+		<id>633896</id>
+		<label>3</label>
+		<organization>Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798</organization>
+	</publication>
+	<publication>
+		<title>An empirical study of gene synonym query expansion in biomedical information retrieval</title>
+		<year>2009</year>
+		<authors>Yue Lu,Hui Fang,Chengxiang Zhai</authors>
+		<jconf>Inf. Retr.</jconf>
+		<id>937644</id>
+		<label>2</label>
+		<organization>Electrical and Computer Engineering, University of Delaware, Newark, USA 19716</organization>
+	</publication>
+	<publication>
+		<title>Neural adaptive control for a class of nonlinear systems with unknown deadzone</title>
+		<year>2008</year>
+		<authors>Zhonghua Wang,Yong Zhang,Hui Fang</authors>
+		<jconf>Neural Computing and Applications</jconf>
+		<id>1022105</id>
+		<label>7</label>
+		<organization>University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China</organization>
+	</publication>
+	<publication>
+		<title>A fuzzy logic approach for detection of video shot boundaries</title>
+		<year>2006</year>
+		<authors>Hui Fang,Jianmin Jiang,Yue Feng</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042246</id>
+		<label>1</label>
+		<organization>School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK</organization>
+	</publication>
+	<publication>
+		<title>Textureshop: texture synthesis as a photograph editing tool</title>
+		<year>2004</year>
+		<authors>Hui Fang,John C. Hart</authors>
+		<jconf>ACM Trans. Graph.</jconf>
+		<id>1119122</id>
+		<label>2</label>
+		<organization>University of Illinois, Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Detail preserving shape deformation in image editing</title>
+		<year>2007</year>
+		<authors>Hui Fang,John C. Hart</authors>
+		<jconf>ACM Trans. Graph.</jconf>
+		<id>1119749</id>
+		<label>2</label>
+		<organization>Google, Inc.</organization>
+	</publication>
+	<publication>
+		<title>RotoTexture: Automated Tools for Texturing Raw Video</title>
+		<year>2006</year>
+		<authors>Hui Fang,John C. Hart</authors>
+		<jconf>IEEE Trans. Vis. Comput. Graph.</jconf>
+		<id>1133925</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Behavioral Consistency Extraction for Face Verification</title>
+		<year>2008</year>
+		<authors>Hui Fang,Nicholas Costen</authors>
+		<jconf>COST 2102 Conference (Prague)</jconf>
+		<id>1206557</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Video Competition</title>
+		<year>2009</year>
+		<authors>Norman Poh,Chi-Ho Chan,Josef Kittler,Sebastien Marcel,Christopher Mc Cool,Enrique Argones-Rua,Jose Luis Alba-Castro,Mauricio Villegas,Roberto Paredes,Vitomir Struc,Nikola Pavesic,Albert Ali Salah,Hui Fang,Nicholas Costen</authors>
+		<jconf>ICB</jconf>
+		<id>1209665</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>UIUC/MUSC at TREC 2005 Genomics Track</title>
+		<year>2005</year>
+		<authors>ChengXiang Zhai,Xu Ling,Xin He,Atulya Velivelli,Xuanhui Wang,Hui Fang,Azadeh Shakery,Xinghua Lu</authors>
+		<jconf>TREC</jconf>
+		<id>1214686</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Axiomatic Approach to IR--UIUC TREC 2005 Robust Track Experiments</title>
+		<year>2005</year>
+		<authors>Hui Fang,ChengXiang Zhai</authors>
+		<jconf>TREC</jconf>
+		<id>1214718</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interactive Construction of Query Language Models - UIUC TREC 2005 HARD Track Experiments</title>
+		<year>2005</year>
+		<authors>Bin Tan,Atulya Velivelli,Hui Fang,ChengXiang Zhai</authors>
+		<jconf>TREC</jconf>
+		<id>1214740</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining User Position Log for Construction of Personalized Activity Map</title>
+		<year>2009</year>
+		<authors>Hui Fang,Wen-Jing Hsu,Larry Rudolph</authors>
+		<jconf>ADMA</jconf>
+		<id>1236821</id>
+		<label>3</label>
+		<organization>Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460</organization>
+	</publication>
+	<publication>
+		<title>Cognitive personal positioning based on activity map and adaptive particle filter</title>
+		<year>2009</year>
+		<authors>Hui Fang,Wen-Jing Hsu,Larry Rudolph</authors>
+		<jconf>MSWiM</jconf>
+		<id>1253498</id>
+		<label>3</label>
+		<organization>Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Existence of nontrivial homoclinic orbits for fourth-order difference equations</title>
+		<year>2009</year>
+		<authors>Hui Fang,Dapeng Zhao</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283680</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Search Relevance Feedback</title>
+		<year>2009</year>
+		<authors>Hui Fang,ChengXiang Zhai</authors>
+		<jconf>Theory of Computing Systems</jconf>
+		<id>1299631</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Determination of Total Amino Acids in Oilseed Rape Leaves Using Near Infrared Spectroscopy and Chemometrics.</title>
+		<year>2009</year>
+		<authors>Fei Liu,Fan Zhang,Hui Fang,Weijun Zhou,Yong He</authors>
+		<jconf>null</jconf>
+		<id>1317808</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Implementation of Time and Frequency Synchronization for Carrier Interferometry of OFDM in an Underwater Acoustic Channel.</title>
+		<year>2009</year>
+		<authors>Hui Fang,Xiaoyi Hu,Ru Xu</authors>
+		<jconf>null</jconf>
+		<id>1318435</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Design of an Observer-Based Neural Adaptive Controller for a Class of Nonlinear Systems with Input-Constrained.</title>
+		<year>2009</year>
+		<authors>Min Fang,Xueyan Yang,Hui Fang,Xiaoli Bai</authors>
+		<jconf>null</jconf>
+		<id>1323180</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face Video Competition</title>
+		<year>2009</year>
+		<authors>Norman Poh,Chi Ho Chan,Josef Kittler,Sébastien Marcel,Christopher Mc Cool,Enrique Argones Rúa,José Luis Castro,Mauricio Villegas,Roberto Paredes,Vitomir Štruc,Nikola Pavešić,Albert Ali Salah,Hui Fang,Nicholas Costen</authors>
+		<jconf>Proceedings of the Third International Conference on Advances in Biometrics</jconf>
+		<id>1431828</id>
+		<label>5</label>
+		<organization>Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD</organization>
+	</publication>
+	<publication>
+		<title>Behavioral Consistency Extraction for Face Verification</title>
+		<year>2009</year>
+		<authors>Hui Fang,Nicholas Costen</authors>
+		<jconf>Cross-Modal Analysis of Speech, Gestures, Gaze and Facial Expressions: COST Action 2102 International Conference Prague, Czech Republic, October 15-18, 2008 Revised Selected and Invited Papers</jconf>
+		<id>1657736</id>
+		<label>5</label>
+		<organization>Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.</organization>
+	</publication>
+	<publication>
+		<title>Detection of Protein Content of Oilseed Rape Leaves Using Visible/Near-Infrared Spectroscopy and Multivariate Calibrations</title>
+		<year>2008</year>
+		<authors>Fei Liu,Hui Fang,Yong He,Fan Zhang,Zonglai Jin,Weijun Zhou</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03</jconf>
+		<id>1751618</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

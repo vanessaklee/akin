@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>38647</personID>
+	<FullName>David Nelson</FullName>
+	<FirstName>David</FirstName>
+	<LastName>Nelson</LastName>
+	<publication>
+		<title>Managing Schema Versions in Object-Oriented Databases</title>
+		<year>2005</year>
+		<authors>Xian Liu,David Nelson,Simon Stobart,Sue Stirk</authors>
+		<jconf>ADBIS</jconf>
+		<id>26081</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database Interoperability using a Database's own Natural Query Language</title>
+		<year>2003</year>
+		<authors>Robert Warrender,David Nelson,Sue Stirk</authors>
+		<jconf>BNCOD Posters</jconf>
+		<id>68062</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Nested Matrix Model for Schema Versioning in Object-Oriented Databases</title>
+		<year>2003</year>
+		<authors>Liu Xian,David Nelson,Sue Stirk</authors>
+		<jconf>BNCOD Posters</jconf>
+		<id>68075</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A database system for constructing, integrating, and displaying physical maps of chromosome 19</title>
+		<year>1995</year>
+		<authors>Tom Slezak,Mark Wagner,Mimi Yeh,Linda Ashworth,David Nelson,David Ow,Elbert Branscomb,Anthony Carrano</authors>
+		<jconf>HICSS (5)</jconf>
+		<id>248100</id>
+		<label>4</label>
+		<organization>Human Genome Center, Lawrence Livermore Nat. Lab., CA</organization>
+	</publication>
+	<publication>
+		<title>Automated Semantic Analysis of Design Models</title>
+		<year>2007</year>
+		<authors>Frank Weil,Brian E. Mastenbrook,David Nelson,Paul Dietz,Aswin van den Berg</authors>
+		<jconf>MoDELS</jconf>
+		<id>507278</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experiences in Deploying Model-Driven Engineering</title>
+		<year>2007</year>
+		<authors>Thomas Weigert,Frank Weil,Kevin Marth,Paul Baker,Clive Jervis,Paul Dietz,Yexuan Gui,Aswin van den Berg,Kim Fleer,David Nelson,Michael Wells,Brian E. Mastenbrook</authors>
+		<jconf>SDL Forum</jconf>
+		<id>578903</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-Throughput GoMiner, an 'industrial-strength' integrative gene ontology tool for interpretation of multiple-microarray experiments, with application to studies of Common Variable Immune Deficiency (CVID)</title>
+		<year>2005</year>
+		<authors>Barry Zeeberg,Haiying Qin,Sudarshan Narasimhan,Margot Sunshine,Hong Cao,David W. Kane,Mark Reimers,Robert M. Stephens,David Bryant,Stanley K. Burt,Eldad Elnekave,Danielle M. Hari,Thomas A. Wynn,Charlotte Cunningham-Rundles,Donn M. Stewart,David Nelson,John N. Weinstein</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>769235</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructible Falsity and Inexact Predicates</title>
+		<year>1984</year>
+		<authors>Ahmad Almukdad,David Nelson</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>998125</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constructible Falsity</title>
+		<year>1949</year>
+		<authors>David Nelson</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1000403</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Twenty-Fifth Annual Meeting of the Association for Symbolic Logic</title>
+		<year>1960</year>
+		<authors>David Nelson</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1000406</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-Null Implication</title>
+		<year>1966</year>
+		<authors>David Nelson</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1000407</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ideas in Teaching, Learning and Assessment of Databases: A Communication of the 7thInternational Workshop on Teaching, Learning and Assessment of Databases (TLAD 2009)</title>
+		<year>2009</year>
+		<authors>Anne E. James,David Nelson,Karen Davis,Richard Cooper,Alastair Monger</authors>
+		<jconf>BNCOD</jconf>
+		<id>1205974</id>
+		<label>1</label>
+		<organization>Department of Computing, Engineering and Technology, University of Sunderland, UK</organization>
+	</publication>
+	<publication>
+		<title>Mobile 3D Game Development: From Start to Market</title>
+		<year>2007</year>
+		<authors>Carlos Morales,David Nelson</authors>
+		<jconf>null</jconf>
+		<id>1356408</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database: Enterprise, Skills and Innovation: 22nd British National Conference on Databases, BNCOD 22, Sunderland, UK, July 5-7, 2005, Proceedings (Lecture Notes in Computer Science)</title>
+		<year>2005</year>
+		<authors>Mike Jackson,David Nelson,Sue Stirk</authors>
+		<jconf>null</jconf>
+		<id>1357654</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interactive video&mdash;a producer's medium</title>
+		<year>1987</year>
+		<authors>Martin Wright,David Nelson</authors>
+		<jconf>Interactive media: working methods and practical applications</jconf>
+		<id>1452498</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SIGGRAPH public policy committee activity detailed</title>
+		<year>2001</year>
+		<authors>David Nelson,Bob Ellis,Laurie Reinhart</authors>
+		<jconf>ACM SIGGRAPH Computer Graphics</jconf>
+		<id>1566290</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Coursework in cognition by mathematics undergraduates: a seven year review</title>
+		<year>2000</year>
+		<authors>David Nelson</authors>
+		<jconf>PRIMUS: problems, resources, and issues in mathematics undergraduate studies</jconf>
+		<id>1575557</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Architecture and Applications of the Apollo Domain</title>
+		<year>1984</year>
+		<authors>David Nelson,Paul Leach</authors>
+		<jconf>IEEE Computer Graphics and Applications</jconf>
+		<id>1578745</id>
+		<label>0</label>
+		<organization>Apollo Computer, Inc.</organization>
+	</publication>
+	<publication>
+		<title>Professional Workstations (Panel Session)</title>
+		<year>1982</year>
+		<authors>James H. Clark,Robert M. Dunn,Harvey Kriloff,David Nelson</authors>
+		<jconf>ACM SIGGRAPH Computer Graphics</jconf>
+		<id>1697908</id>
+		<label>0</label>
+		<organization>Apollo Computer, Inc.</organization>
+	</publication>
+	<publication>
+		<title>Expert system classification of urban land use/cover for Delhi, India</title>
+		<year>2008</year>
+		<authors>Elizabeth A. Wentz,David Nelson,Atiqur Rahman,William L. Stefanov,Shoursaseni Sen Roy</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1746481</id>
+		<label>3</label>
+		<organization>School of Geographical Sciences, Arizona State University, Tempe, AZ 85287-0104</organization>
+	</publication>
+</person>

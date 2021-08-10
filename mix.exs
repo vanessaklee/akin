@@ -36,7 +36,10 @@ defmodule Akin.Mixfile do
       {:earmark, "~> 1.3", only: :dev},
       {:ex_doc, "~> 0.19", only: :dev},
       {:credo, "~> 1.0", only: :dev},
-      {:ex_unicode, "~> 1.0"}
+      {:ex_unicode, "~> 1.0"},
+      {:html_entities, "~> 0.5"},
+      {:stemmer, "~> 1.0"},
+      {:sweet_xml, "~> 0.7.0"},
     ]
   end
 

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10323</personID>
+	<FullName>Lei Jin</FullName>
+	<FirstName>Lei</FirstName>
+	<LastName>Jin</LastName>
+	<publication>
+		<title>A flexible data to L2 cache mapping approach for future multicore processors</title>
+		<year>2006</year>
+		<authors>Lei Jin,Hyunjin Lee,Sangyeun Cho</authors>
+		<jconf>Memory System Performance and Correctness</jconf>
+		<id>6323</id>
+		<label>0</label>
+		<organization>University of Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>An Extensible Data Model with Security Support for Dataspace Management</title>
+		<year>2008</year>
+		<authors>Lei Jin,Yawei Zhang,Xiaojun Ye</authors>
+		<jconf>HPCC</jconf>
+		<id>253532</id>
+		<label>1</label>
+		<organization>Minist. of Educ. Sch. of Software, Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Taming Single-Thread Program Performance on Many Distributed On-Chip L2 Caches</title>
+		<year>2008</year>
+		<authors>Lei Jin,Sangyeun Cho</authors>
+		<jconf>ICPP</jconf>
+		<id>345085</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Pittsburgh Univ., Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>TPTS: A Novel Framework for Very Fast Manycore Processor Architecture Simulation</title>
+		<year>2008</year>
+		<authors>Sangyeun Cho,Socrates Demetriades,Shayne Evans,Lei Jin,Hyunjin Lee,Kiyeon Lee,Michael Moeng</authors>
+		<jconf>ICPP</jconf>
+		<id>345116</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reducing cache traffic and energy with macro data load</title>
+		<year>2006</year>
+		<authors>Lei Jin,Sangyeun Cho</authors>
+		<jconf>ISLPED</jconf>
+		<id>437337</id>
+		<label>0</label>
+		<organization>University of Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>Secure Dataspace with Access Policies</title>
+		<year>2008</year>
+		<authors>Lei Jin,Yawei Zhang,Xiaojun Ye</authors>
+		<jconf>ISPA</jconf>
+		<id>445478</id>
+		<label>1</label>
+		<organization>Minist. of Educ. Sch. of Software, Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of Search Patterns for Cooperative Robots Operating in Remote Environment</title>
+		<year>2001</year>
+		<authors>Ray R. Hashemi,Lei Jin,Gary T. Anderson,Edmund Wilson,Murray R. Clark</authors>
+		<jconf>ITCC</jconf>
+		<id>456915</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Arkansas Univ., Little Rock, AR</organization>
+	</publication>
+	<publication>
+		<title>A Rule-Based System for Localization of Water on the Surface of Mars</title>
+		<year>2001</year>
+		<authors>Ray R. Hashemi,Lei Jin,Steve Jones,Danny Owens,Gary T. Anderson</authors>
+		<jconf>ITCC</jconf>
+		<id>456916</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., Arkansas Univ., Little Rock, AR</organization>
+	</publication>
+	<publication>
+		<title>Managing Distributed, Shared L2 Caches through OS-Level Page Allocation</title>
+		<year>2006</year>
+		<authors>Sangyeun Cho,Lei Jin</authors>
+		<jconf>MICRO</jconf>
+		<id>499621</id>
+		<label>0</label>
+		<organization>University of Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>Achieving Predictable Performance with On-Chip Shared L2 Caches for Manycore-Based Real-Time Systems</title>
+		<year>2007</year>
+		<authors>Sangyeun Cho,Lei Jin,Kiyeon Lee</authors>
+		<jconf>RTCSA</jconf>
+		<id>564840</id>
+		<label>0</label>
+		<organization>University of Pittsburgh</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Dimensional K-Anonymity Model for Hierarchical Data</title>
+		<year>2008</year>
+		<authors>Xiaojun Ye,Lei Jin,Bin Li</authors>
+		<jconf>ISECS</jconf>
+		<id>720165</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Content-based blind compensation and shaping for streaming video</title>
+		<year>2009</year>
+		<authors>Jun Huang,Funmilayo Lawal,Lei Jin,Oliver Yang</authors>
+		<jconf>CCECE</jconf>
+		<id>1258618</id>
+		<label>3</label>
+		<organization>Comput. Commun. Network Res. Lab., Univ. of Ottawa, Ottawa, ON</organization>
+	</publication>
+	<publication>
+		<title>SOS: A Software-Oriented Distributed Shared Cache Management Approach for Chip Multiprocessors.</title>
+		<year>2009</year>
+		<authors>Lei Jin,Sangyeun Cho</authors>
+		<jconf>null</jconf>
+		<id>1302102</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Two-phase trace-driven simulation (TPTS): a fast multicore processor architecture simulation approach.</title>
+		<year>2010</year>
+		<authors>Hyunjin Lee,Lei Jin,Kiyeon Lee,Socrates Demetriades,Michael Moeng,Sangyeun Cho</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1342715</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Simulation model of the LS-DRMTA adaptive algorithm for multiple antenna system for DS-CDMA</title>
+		<year>2002</year>
+		<authors>Lei Jin,Z. Salcic,C. F. Mecklenbrauker</authors>
+		<jconf>Proceedings of the The 8th International Conference on Communication Systems - Volume 01</jconf>
+		<id>1604928</id>
+		<label>4</label>
+		<organization>Dept. of Electr. & Electron. Eng., Auckland Univ., New Zealand</organization>
+	</publication>
+	<publication>
+		<title>Electrical and compositional properties of TaSi2 films</title>
+		<year>2002</year>
+		<authors>N. M. Ravindra,Lei Jin,Dentcho Ivanov,Vishal R. Mehta,Lamine M. Dieng,Guerman Popov,Oktay H. Gokce,James Grow,Anthony T. Fiory</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1618423</id>
+		<label>5</label>
+		<organization>New Jersey Institute of Technology, University Heights, Newark, NJ</organization>
+	</publication>
+</person>

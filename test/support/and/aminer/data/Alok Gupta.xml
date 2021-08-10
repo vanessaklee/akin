@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10023</personID>
+	<FullName>Alok Gupta</FullName>
+	<FirstName>Alok</FirstName>
+	<LastName>Gupta</LastName>
+	<publication>
+		<title>A predictive empirical model for pricing and resource allocation decisions</title>
+		<year>2007</year>
+		<authors>Wolfgang Ketter,John Collins,Maria L. Gini,Paul R. Schrater,Alok Gupta</authors>
+		<jconf>ICEC</jconf>
+		<id>6156</id>
+		<label>0</label>
+		<organization>University of Minnesota, Minneapolis, MN</organization>
+	</publication>
+	<publication>
+		<title>CAD for polyp detection: an invaluable tool to meet the increasing need for colon-cancer screening</title>
+		<year>2004</year>
+		<authors>Pascal Cathier,Senthil Periaswamy,Anna K. Jerebko,Murat Dundar,J. Liang,Glenn Fung,Jonathan Stoeckel,T. Venkata,R. Amara,Arun Krishnan,R. Bharat Rao,Alok Gupta,E. Vega,Shaked Laks,A. Megibow,Michael Macari,Luca Bogoni</authors>
+		<jconf>CARS</jconf>
+		<id>75871</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semantics and CBIR: a medical imaging perspective</title>
+		<year>2008</year>
+		<authors>Xiang Sean Zhou,Sonja Zillner,Manuel Moller,Michael Sintek,Yiqiang Zhan,Arun Krishnan,Alok Gupta</authors>
+		<jconf>CIVR</jconf>
+		<id>98546</id>
+		<label>1</label>
+		<organization>Siemens Medical Solutions, Malvern, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Motion estimation using ordinal measures</title>
+		<year>1997</year>
+		<authors>Dinkar N. Bhat,Shree K. Nayar,Alok Gupta</authors>
+		<jconf>CVPR</jconf>
+		<id>127535</id>
+		<label>1</label>
+		<organization>Columbia Univ., New York, NY</organization>
+	</publication>
+	<publication>
+		<title>The use of hybrid models to recover cardiac wall motion in tagged MR images</title>
+		<year>1996</year>
+		<authors>Gareth Funka-Lea,Alok Gupta</authors>
+		<jconf>CVPR</jconf>
+		<id>127901</id>
+		<label>1</label>
+		<organization>Siemens Corp. Res. Inc., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Database-Guided Segmentation of Anatomical Structures with Complex Appearance</title>
+		<year>2005</year>
+		<authors>Bogdan Georgescu,Xiang Sean Zhou,Dorin Comaniciu,Alok Gupta</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>127961</id>
+		<label>1</label>
+		<organization>Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Multi-Modality Model-Based Registration in the Cardiac Domain</title>
+		<year>2000</year>
+		<authors>Thomas O'Donnell,Shmuel Aharon,Alok Gupta,Gareth Funka-Lea,Sandra Simon Halliburton,Richard D. White</authors>
+		<jconf>CVPR</jconf>
+		<id>128702</id>
+		<label>1</label>
+		<organization>Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Global Models with Parametric Offsets as Applied to Cardiac Motion Recovery</title>
+		<year>1996</year>
+		<authors>Thomas O'Donnell,Terrance E. Boult,Alok Gupta</authors>
+		<jconf>CVPR</jconf>
+		<id>128704</id>
+		<label>1</label>
+		<organization>Siemens Corp. Res. Inc., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>A Unified Framework for Uncertainty Propagation in Automatic Shape Tracking</title>
+		<year>2004</year>
+		<authors>Xiang Sean Zhou,Dorin Comaniciu,Binglong Xie,R. Cruceanu,Alok Gupta</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>129556</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new model for the recovery of cylindrical structures from medical image data</title>
+		<year>1997</year>
+		<authors>Thomas O'Donnell,Alok Gupta,Terrance E. Boult</authors>
+		<jconf>CVRMed</jconf>
+		<id>130811</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Economic Analysis of Consumer Purchase Intentions in Electronic and Traditional Retail Channels: Competitive and Strategic Implications</title>
+		<year>2004</year>
+		<authors>Bo-chiuan Su,Alok Gupta,Zhiping D. Walter</authors>
+		<jconf>EEE</jconf>
+		<id>178445</id>
+		<label>0</label>
+		<organization>Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Understanding Patterns of Technology Evolution: An Ecosystem Perspective</title>
+		<year>2006</year>
+		<authors>Gediminas Adomavicius,Jesse Bockstedt,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>HICSS</jconf>
+		<id>243208</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Simulating Online Yankee Auctions to Optimize Sellers Revenue</title>
+		<year>2001</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta</authors>
+		<jconf>HICSS</jconf>
+		<id>243446</id>
+		<label>0</label>
+		<organization>MIS Area, Northeastern Univ., Boston, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Minitrack Introduction</title>
+		<year>2002</year>
+		<authors>Ram D. Gopal,Alok Gupta</authors>
+		<jconf>HICSS</jconf>
+		<id>245052</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Facilitators and Inhibitors of Market Structure Change: A Hybrid Theory of Unbiased Electronic Markets</title>
+		<year>2005</year>
+		<authors>Nelson F. Granados,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>HICSS</jconf>
+		<id>245078</id>
+		<label>0</label>
+		<organization>U. Minnesota, Minneapolis, MN</organization>
+	</publication>
+	<publication>
+		<title>Ethical, Legal and Economic Issues in the Digital Economy: Intellectual Property Rights, Piracy, Trust, Security and Privacy: Minitrack Introduction</title>
+		<year>2004</year>
+		<authors>Alok Gupta,Ramnath K. Chellappa</authors>
+		<jconf>HICSS</jconf>
+		<id>245146</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mini Track: 'Ethical, Legal and Economic Issues in the Digital Economy: Intellectual Property Rights, Piracy, Trust, Security and Privacy</title>
+		<year>2005</year>
+		<authors>Alok Gupta,Ramnath K. Chellappa</authors>
+		<jconf>HICSS</jconf>
+		<id>245147</id>
+		<label>0</label>
+		<organization>University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Minitrack Introduction</title>
+		<year>2006</year>
+		<authors>Alok Gupta,Ramnath K. Chellappa</authors>
+		<jconf>HICSS</jconf>
+		<id>245148</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Do Firm RD Investments Drive Decisions to Join? On the Value of Standard-Setting Organizations in the Consumer Electronics Industry</title>
+		<year>2008</year>
+		<authors>Alok Gupta,Robert J. Kauffman,Amy Ping Wu</authors>
+		<jconf>HICSS</jconf>
+		<id>250166</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Polyline Tracking for Artery Motion Compensation in Coronary Angiography</title>
+		<year>1998</year>
+		<authors>Marie-Pierre Dubuisson-Jolly,Cheng-Chung Liang,Alok Gupta</authors>
+		<jconf>ICCV</jconf>
+		<id>293032</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Cooperative Framework for Segmentation Using 2D Active Contours and 3D Hybrid Models as Applied to Branching Cylindrical Structures</title>
+		<year>1998</year>
+		<authors>Thomas O'Donnell,Marie-Pierre Dubuisson-Jolly,Alok Gupta</authors>
+		<jconf>ICCV</jconf>
+		<id>293548</id>
+		<label>1</label>
+		<organization>Siemens Corp. Res. Inc., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Insights and Analyses of Online Auctions</title>
+		<year>2001</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>769820</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Economics of Network Management</title>
+		<year>1999</year>
+		<authors>Alok Gupta,Dale O. Stahl,Andrew B. Whinston</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>772504</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Understanding evolution in technology ecosystems</title>
+		<year>2008</year>
+		<authors>Gediminas Adomavicius,Jesse Bockstedt,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>777878</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tracking Deformable Templates Using a Shortest Path Algorithm</title>
+		<year>2001</year>
+		<authors>Marie-Pierre Dubuisson-Jolly,Alok Gupta</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>834923</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparative analysis of multi-item online auctions: evidence from the laboratory</title>
+		<year>2001</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857030</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database design in the modern organization - identifying robust structures under changing query patterns and arrival rate conditions</title>
+		<year>2004</year>
+		<authors>Andrew N. K. Chen,Paulo B. Goes,Alok Gupta,James R. Marsden</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857122</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Risk profile and consumer shopping behavior in electronic and traditional channels</title>
+		<year>2004</year>
+		<authors>Alok Gupta,Bo-chiuan Su,Zhiping D. Walter</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>857128</id>
+		<label>0</label>
+		<organization>Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN</organization>
+	</publication>
+	<publication>
+		<title>Segmentation of range images as the search for geometric parametric models</title>
+		<year>1995</year>
+		<authors>Ales Leonardis,Alok Gupta,Ruzena Bajcsy</authors>
+		<jconf>International Journal of Computer Vision</jconf>
+		<id>908368</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing computing resources in active intranets</title>
+		<year>2002</year>
+		<authors>Ramnath K. Chellappa,Alok Gupta</authors>
+		<jconf>Int. Journal of Network Management</jconf>
+		<id>914082</id>
+		<label>0</label>
+		<organization>Treibick Electronic Commerce Initiative, University of Connecticut, USA</organization>
+	</publication>
+	<publication>
+		<title>Predicting Bidders' Willingness to Pay in Online Multiunit Ascending Auctions: Analytical and Empirical Insights</title>
+		<year>2008</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta,Gilbert G. Karuga</authors>
+		<jconf>INFORMS Journal on Computing</jconf>
+		<id>924291</id>
+		<label>0</label>
+		<organization>Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455</organization>
+	</publication>
+	<publication>
+		<title>Streamlining the Digital Economy: How to Avert a Tragedy of the Commons</title>
+		<year>1997</year>
+		<authors>Alok Gupta,Boris Jukic,Manoj Parameswaran,Dale O. Stahl,Andrew B. Whinston</authors>
+		<jconf>IEEE Internet Computing</jconf>
+		<id>928710</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IT-enabled transparent electronic markets: the case of the air travel industry</title>
+		<year>2007</year>
+		<authors>Nelson F. Granados,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>Inf. Syst. E-Business Management</jconf>
+		<id>943318</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Color and texture fusion: application to aerial image segmentation and GIS updating</title>
+		<year>2000</year>
+		<authors>Marie-Pierre Dubuisson-Jolly,Alok Gupta</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>946267</id>
+		<label>1</label>
+		<organization>Siemens Corp. Res. Inc., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>User Heterogeneity and its Impact on Electronic Auction Market Design: An Empirical Exploration1Research Essays</title>
+		<year>2004</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta,Yiwei Jin</authors>
+		<jconf>MIS Quarterly</jconf>
+		<id>1008965</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the Special Issue on Innovative Applications of Computer Vision</title>
+		<year>2002</year>
+		<authors>Bir Bhanu,Terrance E. Boult,Alok Gupta,David Michael</authors>
+		<jconf>Mach. Vis. Appl.</jconf>
+		<id>1017315</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Programming for Detecting, Tracking, and Matching Deformable Contours</title>
+		<year>1995</year>
+		<authors>Davi Geiger,Alok Gupta,Luiz A. Costa,John Vlontzos</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1031648</id>
+		<label>1</label>
+		<organization>Courant Inst. of Math. Sci., New York Univ., NY</organization>
+	</publication>
+	<publication>
+		<title>An Information Fusion Framework for Robust Shape Tracking</title>
+		<year>2005</year>
+		<authors>Xiang Sean Zhou,Dorin Comaniciu,Alok Gupta</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033548</id>
+		<label>1</label>
+		<organization>Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Heuristics for selecting robust database structures with dynamic query patterns</title>
+		<year>2006</year>
+		<authors>Andrew N. K. Chen,Paulo B. Goes,Alok Gupta,James R. Marsden</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<id>1160222</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing online selling mechanisms: Transparency levels and prices</title>
+		<year>2008</year>
+		<authors>Nelson F. Granados,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1270693</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integrating User Preferences and Real-Time Workload in Information Services</title>
+		<year>2000</year>
+		<authors>Prabhudev Konana,Alok Gupta,Andrew B. Whinston</authors>
+		<jconf>Synthesis Lectures on Computer Graphics and Animation</jconf>
+		<id>1289068</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward Comprehensive Real-Time Bidder Support in Iterative Combinatorial Auctions</title>
+		<year>2005</year>
+		<authors>Gediminas Adomavicius,Alok Gupta</authors>
+		<jconf>Synthesis Lectures on Computer Graphics and Animation</jconf>
+		<id>1289222</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Replicating Online Yankee Auctions to Analyze Auctioneers' and Bidders' Strategies</title>
+		<year>2003</year>
+		<authors>Ravi Bapna,Paulo B. Goes,Alok Gupta</authors>
+		<jconf>Synthesis Lectures on Computer Graphics and Animation</jconf>
+		<id>1289251</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Designing Intelligent Software Agents for Auctions with Limited Information Feedback.</title>
+		<year>2009</year>
+		<authors>Gediminas Adomavicius,Alok Gupta,Dmitry Zhdanov</authors>
+		<jconf>Information Systems Research</jconf>
+		<id>1346490</id>
+		<label>0</label>
+		<organization>Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455</organization>
+	</publication>
+	<publication>
+		<title>Priority pricing of integrated services networks</title>
+		<year>1997</year>
+		<authors>Alok Gupta,Dale O. Stahl,Andrew B. Whinston</authors>
+		<jconf>Internet economics</jconf>
+		<id>1398164</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Auctioning Vertically Integrated Online Services: Computational Approaches for Real-Time Allocation</title>
+		<year>2008</year>
+		<authors>Ravi Bapna,Paulo Goes,Alok Gupta</authors>
+		<jconf>Journal of Management Information Systems</jconf>
+		<id>1428540</id>
+		<label>0</label>
+		<organization>Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota</organization>
+	</publication>
+	<publication>
+		<title>Business Computing</title>
+		<year>2009</year>
+		<authors>Gediminas Adomavicius,Alok Gupta</authors>
+		<jconf>null</jconf>
+		<id>1429130</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Volumetric segmentation of range images of 3D objects using superquadric models</title>
+		<year>1993</year>
+		<authors>Alok Gupta,Ruzena Bajcsy</authors>
+		<jconf>CVGIP: Image Understanding</jconf>
+		<id>1503505</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing computing resources in intranets: an electronic commerce perspective</title>
+		<year>1998</year>
+		<authors>Alok Gupta,Dale O. Stahl,Andrew B. Whinston</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1549982</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Special issue on economics of electronic commerce</title>
+		<year>1998</year>
+		<authors>Andrew B. Whinston,Alok Gupta</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1555164</id>
+		<label>0</label>
+		<organization>Univ. of Connecticut, Storrs</organization>
+	</publication>
+	<publication>
+		<title>Research issues in real-time DBMS in the context of electronic commerce</title>
+		<year>1996</year>
+		<authors>Prabhudev Konana,Alok Gupta,Andrew B. Whinston</authors>
+		<jconf>Proceedings of the workshop on on Databases: active and real-time</jconf>
+		<id>1574829</id>
+		<label>0</label>
+		<organization>Univ. of Connecticut, Storrs</organization>
+	</publication>
+	<publication>
+		<title>Technology roles and paths of influence in an ecosystem model of technology evolution</title>
+		<year>2007</year>
+		<authors>Gediminas Adomavicius,Jesse C. Bockstedt,Alok Gupta,Robert J. Kauffman</authors>
+		<jconf>Information Technology and Management</jconf>
+		<id>1604377</id>
+		<label>0</label>
+		<organization>Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455</organization>
+	</publication>
+	<publication>
+		<title>Digital signature: use and modification to achieve success in next generational e-business processes</title>
+		<year>2004</year>
+		<authors>Alok Gupta,Y. Alex Tung,James R. Marsden</authors>
+		<jconf>Information and Management</jconf>
+		<id>1612835</id>
+		<label>0</label>
+		<organization>Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN</organization>
+	</publication>
+	<publication>
+		<title>Estimating Internet Users' Demand Characteristics</title>
+		<year>2001</year>
+		<authors>Alok Gupta,Boris Jukic,Mingzhi Li,Dale O. Stahl,Andrew B. Whinston</authors>
+		<jconf>Computational Economics</jconf>
+		<id>1620182</id>
+		<label>0</label>
+		<organization>OPIM Department, University of Connecticut, U.S.A.</organization>
+	</publication>
+	<publication>
+		<title>Segmentation versus object representation&mdash;are they separable?</title>
+		<year>1989</year>
+		<authors>Ruzena Bajcsy,Franc Solina,Alok Gupta</authors>
+		<jconf>Analysis and interpretation of range images</jconf>
+		<id>1638738</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Surface and volumetric segmentation of complex 3-D objects using parametric shape models</title>
+		<year>1991</year>
+		<authors>Alok Gupta</authors>
+		<jconf>null</jconf>
+		<id>1661820</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Editorial: introduction to the special issue on innovative applications of computer vision</title>
+		<year>2002</year>
+		<authors>Bir Bhanu,Alok Gupta</authors>
+		<jconf>Machine Vision and Applications</jconf>
+		<id>1703314</id>
+		<label>1</label>
+		<organization>Siemens Corporate Research Inc., David Michael, Cognex Corp.</organization>
+	</publication>
+</person>

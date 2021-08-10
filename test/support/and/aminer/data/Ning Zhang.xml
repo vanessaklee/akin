@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>36424</personID>
+	<FullName>Ning Zhang</FullName>
+	<FirstName>null</FirstName>
+	<LastName>null</LastName>
+	<publication>
+		<title>Security Issues in an EDI Environment</title>
+		<year>1996</year>
+		<authors>Ning Zhang,Qi Shi</authors>
+		<jconf>ACSAC</jconf>
+		<id>24462</id>
+		<label>0</label>
+		<organization>af.affilation</organization>
+	</publication>
+	<publication>
+		<title>C3: A New Learning Scheme to Improve Classification of Rare Category Emails</title>
+		<year>2003</year>
+		<authors>Jie Yang,Joshua Zhexue Huang,Ning Zhang,Zhuoqun Xu</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>60050</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pseudo-Randomness of Discrete-Log Sequences from Elliptic Curves</title>
+		<year>2007</year>
+		<authors>Zhixiong Chen,Ning Zhang,Guozhen Xiao</authors>
+		<jconf>Inscrypt</jconf>
+		<id>97591</id>
+		<label>3</label>
+		<organization>Ministry of Education Key Lab of Computer Networks and Information Security, Xidian University, Xi'an, China 710071</organization>
+	</publication>
+	<publication>
+		<title>A General Approach to Evaluation of Secure Systems</title>
+		<year>1995</year>
+		<authors>Qi Shi,Ning Zhang</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112669</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Applying Composable Security Properties to Assessment of Information Systems</title>
+		<year>1996</year>
+		<authors>Qi Shi,Ning Zhang</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112670</id>
+		<label>0</label>
+		<organization>Sch. of Comput. & Math. Sci., Liverpool Univ.</organization>
+	</publication>
+	<publication>
+		<title>Towards an Authentication Middleware to Support Ubiquitous Web Access</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Jay Chin,Alan L. Rector,Carole A. Goble,Y. Li</authors>
+		<jconf>COMPSAC Workshops</jconf>
+		<id>112907</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Context Constrained Authorisation for Pervasive Grid Computing</title>
+		<year>2007</year>
+		<authors>Jay Chin,Ning Zhang,Aleksandra Nenadic,Li Yao,J. M. Brooke</authors>
+		<jconf>COMSWARE</jconf>
+		<id>113825</id>
+		<label>0</label>
+		<organization>Manchester Univ., Manchester</organization>
+	</publication>
+	<publication>
+		<title>A Fast Algorithm for the Chirp Rate Estimation</title>
+		<year>2008</year>
+		<authors>Jihai Cao,Ning Zhang,Lin Song</authors>
+		<jconf>DELTA</jconf>
+		<id>148965</id>
+		<label>4</label>
+		<organization>Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>FAME: Adding Multi-Level Authentication to Shibboleth</title>
+		<year>2006</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Jay Chin,Carole A. Goble</authors>
+		<jconf>e-Science</jconf>
+		<id>163115</id>
+		<label>0</label>
+		<organization>University of Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>XML Query Processing and Optimization</title>
+		<year>2004</year>
+		<authors>Ning Zhang</authors>
+		<jconf>EDBT Workshops</jconf>
+		<id>176906</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Distributed Reputation Management Scheme for Mobile Agent-Based E-Commerce Applications </title>
+		<year>2005</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>EEE</jconf>
+		<id>178289</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>DSA-Based Verifiable and Recoverable Encryption of Signatures and Its Application in Certified E-Goods Delivery</title>
+		<year>2005</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Qi Shi,Carole A. Goble</authors>
+		<jconf>EEE</jconf>
+		<id>178405</id>
+		<label>0</label>
+		<organization>University of Manchester</organization>
+	</publication>
+	<publication>
+		<title>CRM Method for Power Supply Enterprises Based on Analysis of Utility and Customers_ Credit and Multistage Fuzzy Evaluation</title>
+		<year>2007</year>
+		<authors>Yuansheng Huang,Ning Zhang,Lei Yu</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219009</id>
+		<label>7</label>
+		<organization>North China Electric Power University</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Comprehensive Evaluation for Power Network Operating Schemes</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Hua Ye,Yutian Liu</authors>
+		<jconf>FSKD (4)</jconf>
+		<id>219254</id>
+		<label>8</label>
+		<organization>Shandong Univ., Jinan</organization>
+	</publication>
+	<publication>
+		<title>On Miquel's Five-Circle Theorem</title>
+		<year>2004</year>
+		<authors>Hongbo Li,Ronghua Xu,Ning Zhang</authors>
+		<jconf>IWMM/GIAE</jconf>
+		<id>232357</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Finding Shortest Paths in Large Network Systems</title>
+		<year>2001</year>
+		<authors>Edward P. F. Chan,Ning Zhang</authors>
+		<jconf>ACM-GIS</jconf>
+		<id>232849</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A general approach to secure components composition</title>
+		<year>1996</year>
+		<authors>Qi Shi,Ning Zhang</authors>
+		<jconf>HASE</jconf>
+		<id>239297</id>
+		<label>0</label>
+		<organization>Sch. of Comput. & Math., Liverpool John Moores Univ.</organization>
+	</publication>
+	<publication>
+		<title>Generators Bidding Behavior in the NYISO Day-Ahead Wholesale Electricity Market</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Timothy Mount,Richard Boisvert</authors>
+		<jconf>HICSS</jconf>
+		<id>249350</id>
+		<label>10</label>
+		<organization>Cornell University</organization>
+	</publication>
+	<publication>
+		<title>Odaies: Ontology-driven Adaptive Web Information Extraction System</title>
+		<year>2003</year>
+		<authors>Ning Zhang,Hong Chen,Yu Wang,Shi-Jun Cheng,Ming-Feng Xiong</authors>
+		<jconf>IAT</jconf>
+		<id>261066</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci. & Technol., Peking Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Compact Access Control Labeling for Efficient Secure XML Query Evaluation</title>
+		<year>2005</year>
+		<authors>Huaxin Zhang,Ning Zhang,Kenneth Salem,Donghui Zhuo</authors>
+		<jconf>ICDE Workshops</jconf>
+		<id>301481</id>
+		<label>6</label>
+		<organization>University of Waterloo, Canada</organization>
+	</publication>
+	<publication>
+		<title>BlossomTree: Evaluating XPaths in FLWOR Expressions</title>
+		<year>2005</year>
+		<authors>Ning Zhang,Shishir Agrawal,M. Tamer Ozsu</authors>
+		<jconf>ICDE</jconf>
+		<id>301483</id>
+		<label>6</label>
+		<organization>University of Waterloo</organization>
+	</publication>
+	<publication>
+		<title>A Succinct Physical Storage Scheme for Efficient Evaluation of Path Queries in XML</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Varun Kacholia,M. Tamer Ozsu</authors>
+		<jconf>ICDE</jconf>
+		<id>301491</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>XSEED: Accurate and Fast Cardinality Estimation for XPath Queries</title>
+		<year>2006</year>
+		<authors>Ning Zhang,M. Tamer Ozsu,Ashraf Aboulnaga,Ihab F. Ilyas</authors>
+		<jconf>ICDE</jconf>
+		<id>301499</id>
+		<label>6</label>
+		<organization>University of Waterloo</organization>
+	</publication>
+	<publication>
+		<title>Towards a Secure Mobile Agent Based M-Commerce System</title>
+		<year>2003</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>ICEIS (4)</jconf>
+		<id>305787</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-Repudiation and Fairness in Electronic Data Exchange</title>
+		<year>2003</year>
+		<authors>Aleksandra Nenadic,Ning Zhang</authors>
+		<jconf>ICEIS (4)</jconf>
+		<id>306935</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Concurrent Garbage Collection Implementation in a Standard JVM for Real-Time Purposes</title>
+		<year>2004</year>
+		<authors>Yuqiang Xian,Ning Zhang,Guangze Xiong</authors>
+		<jconf>ICESS</jconf>
+		<id>308997</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Primary-consistent soft-decision color demosaic for digital cameras</title>
+		<year>2003</year>
+		<authors>Xiaolin Wu,Ning Zhang</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>322292</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada</organization>
+	</publication>
+	<publication>
+		<title>Lossless compression of color mosaic images</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Xiaolin Wu</authors>
+		<jconf>ICIP</jconf>
+		<id>322655</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada</organization>
+	</publication>
+	<publication>
+		<title>A Study of Fairness for ATM ABR Service Based on Cell Delay</title>
+		<year>2001</year>
+		<authors>Ning Zhang,Manhee Jo,Shigetomo Kimura,Yoshihiko Ebihara</authors>
+		<jconf>ICOIN</jconf>
+		<id>339234</id>
+		<label>15</label>
+		<organization>Tsukuba Univ., Ibaraki</organization>
+	</publication>
+	<publication>
+		<title>DiSigncryption: An Integration of Agent-Based Signature Delegation with Distributed Reputation Management Schem</title>
+		<year>2005</year>
+		<authors>Omaima Bamasak,Ning Zhang,Doug Edwards</authors>
+		<jconf>IPDPS</jconf>
+		<id>408074</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Certified E-Mail Delivery with DSA Receipts</title>
+		<year>2005</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Qi Shi,Carole A. Goble</authors>
+		<jconf>IPDPS</jconf>
+		<id>410241</id>
+		<label>0</label>
+		<organization>University of Manchester</organization>
+	</publication>
+	<publication>
+		<title>Context-based Arithmetic Coding Reexamined for DCT Video Compression</title>
+		<year>2007</year>
+		<authors>Li Zhang,Xiaolin Wu,Ning Zhang,Wen Gao,Qiang Wang,Debin Zhao</authors>
+		<jconf>ISCAS</jconf>
+		<id>428940</id>
+		<label>14</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Asymmetric Authentication Protocol for M-Commerce Applications</title>
+		<year>2003</year>
+		<authors>Li-Sha He,Ning Zhang</authors>
+		<jconf>ISCC</jconf>
+		<id>431880</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>A secure proxy signature protocol for agent-based M-commerce applications</title>
+		<year>2004</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>ISCC</jconf>
+		<id>431928</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>Revocation invocation for accountable anonymous PKI certificate trees</title>
+		<year>2004</year>
+		<authors>D. Critchlow,Ning Zhang</authors>
+		<jconf>ISCC</jconf>
+		<id>432127</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A secure and fair DSA-based signature exchange protocol</title>
+		<year>2004</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Stephen Barton</authors>
+		<jconf>ISCC</jconf>
+		<id>432643</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>Prediction of Helix, Strand Segments from Primary Protein Sequences by a Set of Neural Networks</title>
+		<year>2007</year>
+		<authors>Zhuo Song,Ning Zhang,Zhuo Yang,Tao Zhang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443630</id>
+		<label>17</label>
+		<organization>Key Lab. of Bioactive Materials, Ministry of Education and College of life science, Nankai University, Tianjin, 300071, P.R.China</organization>
+	</publication>
+	<publication>
+		<title>A General Fuzzified CMAC Controller with Eligibility</title>
+		<year>2008</year>
+		<authors>Zhipeng Shen,Ning Zhang,Chen Guo</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443983</id>
+		<label>0</label>
+		<organization>College of Information Science and Technology, Dalian Maritime University, Dalian, China 116026</organization>
+	</publication>
+	<publication>
+		<title>Achieving Distributed Trusted Services</title>
+		<year>2004</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>ITCC (1)</jconf>
+		<id>456534</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>A Security Protocol for Certified E-Goods Delivery</title>
+		<year>2004</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Stephen Barton</authors>
+		<jconf>ITCC (1)</jconf>
+		<id>457227</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Manchester Univ., UK</organization>
+	</publication>
+	<publication>
+		<title>An Analysis Framework of Factors Influencing China Software and Information Service Offshore Outsourcing</title>
+		<year>2008</year>
+		<authors>Ning Zhang</authors>
+		<jconf>ITNG</jconf>
+		<id>458129</id>
+		<label>19</label>
+		<organization>Central Univ. of Finance & Econ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Dynamic output feedback Hinfinity controller design of fuzzy dynamic systems using LMI techniques</title>
+		<year>1998</year>
+		<authors>Zhixiu Han,Gang Feng,Ning Zhang</authors>
+		<jconf>KES (2)</jconf>
+		<id>476820</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade-off scheme for fault tolerant connected dominating sets on size and diameter</title>
+		<year>2008</year>
+		<authors>Ning Zhang,Incheol Shin,Feng Zou,Weili Wu,My T. Thai</authors>
+		<jconf>FOWANC</jconf>
+		<id>506600</id>
+		<label>0</label>
+		<organization>University of Florida, Gainesville, FL, USA</organization>
+	</publication>
+	<publication>
+		<title>A mobility monitoring based advance reservation protocol</title>
+		<year>2006</year>
+		<authors>Ian Featherstone,Ning Zhang</authors>
+		<jconf>Q2SWinet</jconf>
+		<id>509826</id>
+		<label>0</label>
+		<organization>University of Manchester, Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>Characteristics of the Group Interest Network</title>
+		<year>2008</year>
+		<authors>Ning Zhang</authors>
+		<jconf>NAA</jconf>
+		<id>510875</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Graph Cuts in Content-Based Image Classification and Retrieval with Relevance Feedback</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Ling Guan</authors>
+		<jconf>PCM</jconf>
+		<id>532236</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new signature scheme: joint-signature</title>
+		<year>2004</year>
+		<authors>Li-Sha He,Ning Zhang</authors>
+		<jconf>SAC</jconf>
+		<id>566465</id>
+		<label>0</label>
+		<organization>The University of Manchester, Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>A secure method for signature delegation to mobile agents</title>
+		<year>2004</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>SAC</jconf>
+		<id>566595</id>
+		<label>0</label>
+		<organization>University of Manchester, Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>Fair certified e-mail delivery</title>
+		<year>2004</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Stephen Barton</authors>
+		<jconf>SAC</jconf>
+		<id>568038</id>
+		<label>0</label>
+		<organization>University of Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>An Insight Into User Privacy and Accountable Anonymity for Mobile E-Commerce Transactions</title>
+		<year>2002</year>
+		<authors>D. Critchlow,Ning Zhang</authors>
+		<jconf>SEC</jconf>
+		<id>580723</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New End-to-End Authentication Protocol for Mobile Users to Access Internet Services</title>
+		<year>2002</year>
+		<authors>Li-Sha He,Ning Zhang,Li-Rong He</authors>
+		<jconf>SEC</jconf>
+		<id>580853</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Visualization Techniques for Web Usability Analysis</title>
+		<year>2007</year>
+		<authors>Jianli Duan,Ning Zhang</authors>
+		<jconf>SNPD (2)</jconf>
+		<id>609325</id>
+		<label>0</label>
+		<organization>Dalian Maritime University, China</organization>
+	</publication>
+	<publication>
+		<title>Analysis of Sidelobe Elevation for Polyphase Complementary Codes through the Non-ideal System</title>
+		<year>2007</year>
+		<authors>Debin Pang,Ning Zhang</authors>
+		<jconf>SNPD (3)</jconf>
+		<id>609619</id>
+		<label>30</label>
+		<organization>Harbin Institute of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>InterJoin: Exploiting Indexes and Materialized Views in XPath Evaluation</title>
+		<year>2006</year>
+		<authors>Derek Phillips,Ning Zhang,Ihab F. Ilyas,M. Tamer Ozsu</authors>
+		<jconf>SSDBM</jconf>
+		<id>618501</id>
+		<label>6</label>
+		<organization>University of Waterloo, Canada</organization>
+	</publication>
+	<publication>
+		<title>Distributed Supercomputing for Graphics Applications: A Case Study on an Implementation of the Radiosity Approach</title>
+		<year>1989</year>
+		<authors>Jose L. Encarnacao,Geory Koberle,Ning Zhang</authors>
+		<jconf>Supercomputer</jconf>
+		<id>623659</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>L-8 constrained micronoise filtering for high-fidelity image compression</title>
+		<year>2000</year>
+		<authors>Ning Zhang,Xinggang Lin,Yujin Zhang</authors>
+		<jconf>VCIP</jconf>
+		<id>637763</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FIX: Feature-based Indexing Technique for XML Documents</title>
+		<year>2006</year>
+		<authors>Ning Zhang,M. Tamer Ozsu,Ihab F. Ilyas,Ashraf Aboulnaga</authors>
+		<jconf>VLDB</jconf>
+		<id>641789</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Statistical Learning Techniques for Costing XML Queries</title>
+		<year>2005</year>
+		<authors>Ning Zhang,Peter J. Haas,Vanja Josifovski,Guy M. Lohman,Chun Zhang</authors>
+		<jconf>VLDB</jconf>
+		<id>644121</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Building Domain Ontology Based on Web Data and Generic Ontology</title>
+		<year>2004</year>
+		<authors>Jie Yang,Lei Wang,Song Zhang,Xin Sui,Ning Zhang,Zhuoqun Xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655201</id>
+		<label>2</label>
+		<organization>Peking Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Offer Group Generation and Delayed Processing in Multi-Issue Negotiation</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Song Zhang,Lei Wang,Jie Yang,Zhuoqun Xu</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655228</id>
+		<label>2</label>
+		<organization>Peking University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Ant Colony Optimization Algorithm for Learning Classification Rules</title>
+		<year>2006</year>
+		<authors>Junzhong Ji,Ning Zhang,Chunnian Liu,Ning Zhong</authors>
+		<jconf>Web Intelligence</jconf>
+		<id>655372</id>
+		<label>32</label>
+		<organization>Beijing University of Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Assisting Seller Pricing Strategy Selection for Electronic Auctions</title>
+		<year>2004</year>
+		<authors>Jia Zhang,Ning Zhang,Jen-Yao Chung</authors>
+		<jconf>CEC</jconf>
+		<id>659001</id>
+		<label>10</label>
+		<organization>Cornell University</organization>
+	</publication>
+	<publication>
+		<title>Plugging a Scalable Authentication Framework into Shibboleth</title>
+		<year>2005</year>
+		<authors>Ning Zhang,Li Yao,Jay Chin,Aleksandra Nenadic,A. McNab,Alan L. Rector,Carole A. Goble,Qi Shi</authors>
+		<jconf>WETICE</jconf>
+		<id>660115</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Approximation for Minimum-Weight Routing Backbone in Wireless Sensor Network</title>
+		<year>2008</year>
+		<authors>Ning Zhang,Incheol Shin,Bo Li,Cem Boyaci,Ravi Tiwari,My T. Thai</authors>
+		<jconf>WASA</jconf>
+		<id>677759</id>
+		<label>0</label>
+		<organization>Dept. of Computer and Information Science and Engineering, University of Florida, Gainesville FL 32611</organization>
+	</publication>
+	<publication>
+		<title>Levels of Authentication Assurance: an Investigation</title>
+		<year>2007</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Li Yao,Terry Morrow</authors>
+		<jconf>IAS</jconf>
+		<id>716897</id>
+		<label>0</label>
+		<organization>University of Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>A Purpose-Based Access Control Model</title>
+		<year>2007</year>
+		<authors>Naikuo Yang,Howard Barringer,Ning Zhang</authors>
+		<jconf>IAS</jconf>
+		<id>716902</id>
+		<label>0</label>
+		<organization>University of Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>Secure M-commerce Transactions: A Third Party Based Signature Protocol</title>
+		<year>2007</year>
+		<authors>Li-Sha He,Ning Zhang,Li-Rong He,Ian Rogers</authors>
+		<jconf>IAS</jconf>
+		<id>716922</id>
+		<label>0</label>
+		<organization>University of Mancester, UK</organization>
+	</publication>
+	<publication>
+		<title>E-learning and Its Information Technology</title>
+		<year>2008</year>
+		<authors>Ning Zhang,Hong Bao</authors>
+		<jconf>CSSE (5)</jconf>
+		<id>729946</id>
+		<label>5</label>
+		<organization>Inst. of Inf. Technol., Beijing Union Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>MS-BID: a Java package for label-free LC-MS-based comparative proteomic analysis</title>
+		<year>2008</year>
+		<authors>Daehee Hwang,Ning Zhang,Hookeun Lee,Eugene Yi,Hui Zhang,Inyoul Y. Lee,Leroy Hood,Ruedi Aebersold</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>768011</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Achieving Non-Repudiation of Receipt</title>
+		<year>1996</year>
+		<authors>Ning Zhang,Qi Shi</authors>
+		<jconf>Comput. J.</jconf>
+		<id>792008</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Flexible Approach to Secure and Fair Document Exchange</title>
+		<year>1999</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti</authors>
+		<jconf>Comput. J.</jconf>
+		<id>792009</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Security enhanced accountable anonymous PKI certificates for mobile e-commerce</title>
+		<year>2004</year>
+		<authors>D. Critchlow,Ning Zhang</authors>
+		<jconf>Computer Networks</jconf>
+		<id>793823</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient protocol for anonymous and fair document exchange</title>
+		<year>2003</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795830</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autonomous mobile agent based fair exchange</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti,Robert Askwith</authors>
+		<jconf>Computer Networks</jconf>
+		<id>795865</id>
+		<label>0</label>
+		<organization>Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL</organization>
+	</publication>
+	<publication>
+		<title>Achieving fine-grained access control in virtual organizations</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Li Yao,Aleksandra Nenadic,Jay Chin,Carole A. Goble,Alan L. Rector,David W. Chadwick,Sassa Otenko,Qi Shi</authors>
+		<jconf>Concurrency and Computation: Practice and Experience</jconf>
+		<id>810936</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SHEETSPAIR: A Database of Amino Acid Pairs in Protein Sheet Structures</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Jishou Ruan,Jie Wu,Tao Zhang</authors>
+		<jconf>Data Science Journal</jconf>
+		<id>839865</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ERPDB: An Integrated Database of ERP Data for Neuroinformatics Research</title>
+		<year>2007</year>
+		<authors>QingHong Yan,Ning Zhang,Jie Wu,Tao Zhang</authors>
+		<jconf>Data Science Journal</jconf>
+		<id>840011</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Compact access control labeling for efficient secure XML query evaluation</title>
+		<year>2007</year>
+		<authors>Huaxin Zhang,Ning Zhang,Kenneth Salem,Donghui Zhuo</authors>
+		<jconf>Data Knowl. Eng.</jconf>
+		<id>846334</id>
+		<label>6</label>
+		<organization>Computer Science Department, University of Waterloo, Waterloo, ON, Canada</organization>
+	</publication>
+	<publication>
+		<title>Reputation management and signature delegation: A distributed approach</title>
+		<year>2006</year>
+		<authors>Omaima Bamasak,Ning Zhang</authors>
+		<jconf>Electronic Commerce Research</jconf>
+		<id>862508</id>
+		<label>0</label>
+		<organization>School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL</organization>
+	</publication>
+	<publication>
+		<title>Efficient elliptic curve scalar multiplication algorithms resistant to power analysis</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Zhixiong Chen,Guozhen Xiao</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>942573</id>
+		<label>3</label>
+		<organization>National Key Laboratory of ISN, Xidian University, Xi'an, Shaanxi 710071, PR China</organization>
+	</publication>
+	<publication>
+		<title>RSA-based Verifiable and Recoverable Encryption of Signatures and its application in certified e-mail delivery</title>
+		<year>2005</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Qi Shi</authors>
+		<jconf>Journal of Computer Security</jconf>
+		<id>970596</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>H2 Control design for fuzzy dynamic systems via LMI</title>
+		<year>2000</year>
+		<authors>Ning Zhang,Gang Feng</authors>
+		<jconf>Journal of Intelligent and Fuzzy Systems</jconf>
+		<id>981861</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An effective model for composition of secure systems</title>
+		<year>1998</year>
+		<authors>Qi Shi,Ning Zhang</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997154</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A unified approach to a fair document exchange system</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997532</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Revocation of privacy-enhanced public-key certificates</title>
+		<year>2005</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti</authors>
+		<jconf>Journal of Systems and Software</jconf>
+		<id>997534</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RSA-based Certified Delivery of E-Goods Using Verifiable and Recoverable Signature Encryption</title>
+		<year>2005</year>
+		<authors>Aleksandra Nenadic,Ning Zhang,Barry M. G. Cheetham,Carole A. Goble</authors>
+		<jconf>J. UCS</jconf>
+		<id>1002080</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Auction-Based Pricing Model for Web Service Providers</title>
+		<year>2006</year>
+		<authors>Jia Zhang,Ning Zhang,Liang-Jie Zhang</authors>
+		<jconf>Int. J. Web Service Res.</jconf>
+		<id>1003330</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automated regression testing using DBT and Sleuth</title>
+		<year>1999</year>
+		<authors>Anneliese von Mayrhauser,Ning Zhang</authors>
+		<jconf>Journal of Software Maintenance</jconf>
+		<id>1069267</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On approximation algorithms of k-connected m-dominating sets in disk graphs</title>
+		<year>2007</year>
+		<authors>My T. Thai,Ning Zhang,Ravi Tiwari,Xiaochun Xu</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095730</id>
+		<label>0</label>
+		<organization>Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States</organization>
+	</publication>
+	<publication>
+		<title>Primary-consistent soft-decision color demosaicking for digital cameras (patent pending)</title>
+		<year>2004</year>
+		<authors>Xiaolin Wu,Ning Zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1101762</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada</organization>
+	</publication>
+	<publication>
+		<title>On multirate optimality of JPEG2000 code stream</title>
+		<year>2005</year>
+		<authors>Xiaolin Wu,Sorina Dumitrescu,Ning Zhang</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102232</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada</organization>
+	</publication>
+	<publication>
+		<title>Lossless compression of color mosaic images</title>
+		<year>2006</year>
+		<authors>Ning Zhang,Xiaolin Wu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102347</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada</organization>
+	</publication>
+	<publication>
+		<title>Sixty-phase generalized Barker sequences</title>
+		<year>1989</year>
+		<authors>Ning Zhang,Solomon W. Golomb</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109813</id>
+		<label>13</label>
+		<organization>Dept. of Sci. & Tech., Pacific Bell, Sam Ramon, CA</organization>
+	</publication>
+	<publication>
+		<title>A limit theorem for n-phase Barker sequences (corresp.)</title>
+		<year>1990</year>
+		<authors>Ning Zhang,Solomon W. Golomb</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109814</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Uniqueness of the generalized Barker sequence of length 6</title>
+		<year>1990</year>
+		<authors>Ning Zhang,Solomon W. Golomb</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109815</id>
+		<label>13</label>
+		<organization>Pacific Bell Broadband Network Res., San Ramon, CA</organization>
+	</publication>
+	<publication>
+		<title>On the crosscorrelation of generalized Barker sequences</title>
+		<year>1990</year>
+		<authors>Ning Zhang,Solomon W. Golomb</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109816</id>
+		<label>13</label>
+		<organization>Pacific Bell, San Ramon, CA</organization>
+	</publication>
+	<publication>
+		<title>Polyphase sequence with low autocorrelations</title>
+		<year>1993</year>
+		<authors>Ning Zhang,Solomon W. Golomb</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109817</id>
+		<label>13</label>
+		<organization>Pacific Bell, San Ramon, CA</organization>
+	</publication>
+	<publication>
+		<title>Practical and efficient fair document exchange over networks</title>
+		<year>2006</year>
+		<authors>Ning Zhang,Qi Shi,Madjid Merabti,Robert Askwith</authors>
+		<jconf>J. Network and Computer Applications</jconf>
+		<id>1168040</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Bipartite Network Study of the Library Book Lending System</title>
+		<year>2009</year>
+		<authors>Nan-nan Li,Ning Zhang</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217852</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topological Structure and Interest Spectrum of the Group Interest Network</title>
+		<year>2009</year>
+		<authors>Ning Zhang</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217916</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Corra: Computational framework and tools for LC-MS discovery and targeted mass spectrometry-based proteomics</title>
+		<year>2008</year>
+		<authors>Mi-Youn Brusniak,Bernd Bodenmiller,David Campbell,Kelly Cooke,James Eddes,Andrew Garbutt,Hollis Lau,Simon Letarte,Lukas N. Mueller,Vagisha Sharma,Olga Vitek,Ning Zhang,Ruedi Aebersold,Julian D. Watts</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1220928</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A tag recommendation system for folksonomy</title>
+		<year>2009</year>
+		<authors>Ning Zhang,Yuan Zhang,Jie Tang</authors>
+		<jconf>Mathematics and Its Applications</jconf>
+		<id>1239571</id>
+		<label>16</label>
+		<organization>Tsinghua University, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic sports genre categorization and view-type classification over large-scale dataset</title>
+		<year>2009</year>
+		<authors>Lingfang Li,Ning Zhang,Ling-Yu Duan,Qingming Huang,Jun Du,Ling Guan</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>1253076</id>
+		<label>25</label>
+		<organization>Ryerson Multimedia Research Laboratory, Ryerson University, Toronto, Ontario, Toronto, Canada</organization>
+	</publication>
+	<publication>
+		<title>A Generic Authentication LoA Derivation Model</title>
+		<year>2009</year>
+		<authors>Li Yao,Ning Zhang</authors>
+		<jconf>SEC</jconf>
+		<id>1255161</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comprehensive simulation study of SWAN QoS model in MANETs with proactive and reactive routing</title>
+		<year>2009</year>
+		<authors>Ning Zhang,Alagan Anpalagan</authors>
+		<jconf>CCECE</jconf>
+		<id>1258574</id>
+		<label>25</label>
+		<organization>Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, ON</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Cloud Computing-Based Architecture for Freight System Application in China Railway</title>
+		<year>2009</year>
+		<authors>Baopeng Zhang,Ning Zhang,Honghui Li,Feng Liu,Kai Miao</authors>
+		<jconf>BRICS Dissertation Series</jconf>
+		<id>1265940</id>
+		<label>24</label>
+		<organization>Beijing JiaoTong University</organization>
+	</publication>
+	<publication>
+		<title>Under Development - UCD in Chinese IT enterprises</title>
+		<year>2008</year>
+		<authors>Zhengjie Liu,Zhiwei Guo,Kai Qian,Huiling Wei,Ning Zhang</authors>
+		<jconf>Interactions</jconf>
+		<id>1275861</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Binary XML Storage and Query Processing in Oracle 11g</title>
+		<year>2009</year>
+		<authors>Ning Zhang,Nipun Agarwal,Sivasankaran Chandrasekar,Sam Idicula,Vijay Medi,Sabina Petride,Balasubramanyam Sthanikam</authors>
+		<jconf>PVLDB</jconf>
+		<id>1286869</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Secure Binding Management Protocol for Mobile IPv6 Networks.</title>
+		<year>2008</year>
+		<authors>Osama Elshakankiry,Andy Carpenter,Ning Zhang</authors>
+		<jconf>null</jconf>
+		<id>1311997</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Univ. of Manchester, Manchester</organization>
+	</publication>
+	<publication>
+		<title>Research on Distributed Data Mining Technology Based on Grid.</title>
+		<year>2009</year>
+		<authors>Ning Zhang,Hong Bao</authors>
+		<jconf>null</jconf>
+		<id>1314246</id>
+		<label>5</label>
+		<organization>Inst. of Inf. Technol., Beijing Union Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Comprehensive Evaluation for Electromagnetic Loop in China Ultra-high Voltage Grid.</title>
+		<year>2009</year>
+		<authors>Dong Yang,Yutian Liu,Ning Zhang</authors>
+		<jconf>null</jconf>
+		<id>1322579</id>
+		<label>8</label>
+		<organization>Shandong Univ., Jinan, China</organization>
+	</publication>
+	<publication>
+		<title>Analysis and Simulation Protocols Based on Slotted ALOHA for Plastic Optical Fiber Network.</title>
+		<year>2008</year>
+		<authors>Ning Zhang,Ronghua Liu</authors>
+		<jconf>null</jconf>
+		<id>1328264</id>
+		<label>18</label>
+		<organization>Dept. of Inf. Eng., Beijing Inst. of Petro-Chem. Technol., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A Flexible Routing Decision Framework to Support Diversified Application-Level Data Types in MANETs.</title>
+		<year>2009</year>
+		<authors>Kitisak Osathanunkul,Ning Zhang</authors>
+		<jconf>null</jconf>
+		<id>1331239</id>
+		<label>0</label>
+		<organization>Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK</organization>
+	</publication>
+	<publication>
+		<title>Self-Protection Model Based on Intelligent Agent</title>
+		<year>2009</year>
+		<authors>Bing Sun,Ya-Ping Zhang,Ning Zhang</authors>
+		<jconf>Proceedings of the 2009 Third International Conference on Network and System Security</jconf>
+		<id>1365468</id>
+		<label>29</label>
+		<organization>Sch. of Manage., Tianjin Univ., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>FIX: feature-based indexing technique for XML documents</title>
+		<year>2006</year>
+		<authors>Ning Zhang,M. Tamer Özsu,Ihab F. Ilyas,Ashraf Aboulnaga</authors>
+		<jconf>Proceedings of the 32nd international conference on Very large data bases</jconf>
+		<id>1368124</id>
+		<label>6</label>
+		<organization>University of Waterloo</organization>
+	</publication>
+	<publication>
+		<title>Effective hole-injection layer for non-doped inverted top-emitting organic light-emitting devices</title>
+		<year>2008</year>
+		<authors>Yanlong Meng,Wenfa Xie,Ning Zhang,Shufen Chen,Jiang Li,Wei Hu,Yi Zhao,Jingying Hou,Shiyong Liu</authors>
+		<jconf>Microelectronics Journal</jconf>
+		<id>1374965</id>
+		<label>26</label>
+		<organization>State Key Laboratory on Integrated Optoelectronics, College of Electronic Science and Engineering, Jilin University, Changchun 130012, PR China</organization>
+	</publication>
+	<publication>
+		<title>Characteristics of the Group Interest Network</title>
+		<year>2009</year>
+		<authors>Ning Zhang</authors>
+		<jconf>Numerical Analysis and Its Applications: 4th International Conference, NAA 2008, Lozenetz, Bulgaria, June 16-20, 2008. Revised Selected Papers</jconf>
+		<id>1388550</id>
+		<label>23</label>
+		<organization>Business School, University of Shanghai for Science and Technology, Shanghai, P.R. China 200093</organization>
+	</publication>
+	<publication>
+		<title>Marker-Controlled Perception-Based Mesh Segmentation</title>
+		<year>2004</year>
+		<authors>Chi Zhang,Ning Zhang,Chengjun Li,Guoping Wang</authors>
+		<jconf>Proceedings of the Third International Conference on Image and Graphics</jconf>
+		<id>1413954</id>
+		<label>2</label>
+		<organization>Peking University</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Comprehensive Evaluation for Power Network Operating Schemes</title>
+		<year>2007</year>
+		<authors>Ning Zhang,Hua Ye,Yutian Liu,Xinsheng Niu</authors>
+		<jconf>Proceedings of the Fourth International Conference on Fuzzy Systems and Knowledge Discovery - Volume 04</jconf>
+		<id>1579168</id>
+		<label>8</label>
+		<organization>Shandong University</organization>
+	</publication>
+	<publication>
+		<title>H_2 Control design for fuzzy dynamic systems via LMI</title>
+		<year>2000</year>
+		<authors>Ning Zhang,Gang Feng</authors>
+		<jconf>Journal of Intelligent Fuzzy Systems: Applications in Engineering and Technology</jconf>
+		<id>1579791</id>
+		<label>20</label>
+		<organization>Department of Systems and Control, School of Electrical Engineering, University of New South Wales, Sydney, NSW 2052, Australia. Tel.&colon; +61 2 93855701&semi; Fax&colon; +61 2 93855993&semi; E-mail&colon; ningz@alpha2.ee.unsw.edu.au</organization>
+	</publication>
+	<publication>
+		<title>Analysis on Routing Convergence in Optical Network</title>
+		<year>2007</year>
+		<authors>Ning ZHANG,Hong BAO,Aibo LIU</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1582251</id>
+		<label>5</label>
+		<organization>Beijing Union University, Beijing 100101, China</organization>
+	</publication>
+	<publication>
+		<title>Segmentation of Spectrum Map for HFSWR Based on Feature Extraction</title>
+		<year>2008</year>
+		<authors>Yang Li,Ning Zhang,Qiang Yang</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05</jconf>
+		<id>1592155</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Method in Multi-Issue Negotiation</title>
+		<year>2004</year>
+		<authors>Ning Zhang,Lei Wang,Jie Yang</authors>
+		<jconf>Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference</jconf>
+		<id>1613361</id>
+		<label>2</label>
+		<organization>Peking University, Beijing</organization>
+	</publication>
+	<publication>
+		<title>Distributed supercomputing to achieve real-time representation and manipulation of complex scenes</title>
+		<year>1990</year>
+		<authors>José Encarnaçao,G. Köberle,Ning Zhang</authors>
+		<jconf>Computers in Industry</jconf>
+		<id>1623315</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Time-domain Detection Approach with Blind Separation Based on Neural Network</title>
+		<year>2009</year>
+		<authors>Guan Nan Li,Feng Zheng,Li Yang,Ning Zhang</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01</jconf>
+		<id>1654365</id>
+		<label>0</label>
+		<organization>PLA Commun. & Command Inst., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Interference Temperature Estimation Based on the Detection and Estimation of Angles of Arrival of Multiple Wide-Band Sources in Cognitive Radio Sensor Networks</title>
+		<year>2009</year>
+		<authors>Wei Ma,Mu Qing Wu,Guan Nan Li,Ning Zhang</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02</jconf>
+		<id>1656552</id>
+		<label>0</label>
+		<organization>Sch. of Inf. & Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>VISSIM-Based Simulation of the Left-Turn Waiting Zone at Signalized Intersection</title>
+		<year>2008</year>
+		<authors>Hui Chen,Ning Zhang,Zhendong Qian</authors>
+		<jconf>Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01</jconf>
+		<id>1747810</id>
+		<label>31</label>
+		<organization>ITS Inst. of Minist. of Educ., Southeast Univ., Nanjing</organization>
+	</publication>
+</person>

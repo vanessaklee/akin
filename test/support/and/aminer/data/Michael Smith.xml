@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>10717</personID>
+	<FullName>Michael Smith</FullName>
+	<FirstName>Michael</FirstName>
+	<LastName>Smith</LastName>
+	<publication>
+		<title>Aristotle: a system for development of program analysis based tools</title>
+		<year>1995</year>
+		<authors>Mary Jean Harrold,Loren Larsen,John Lloyd,David Nedved,Melanie Page,Gregg Rothermel,Manvinder Singh,Michael Smith</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6553</id>
+		<label>0</label>
+		<organization>Clemson University, Clemson, South Carolina</organization>
+	</publication>
+	<publication>
+		<title>Running the Table: An AI for Computer Billiards</title>
+		<year>2006</year>
+		<authors>Michael Smith</authors>
+		<jconf>AAAI</jconf>
+		<id>15003</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Muscular Effects of VDT Work</title>
+		<year>1984</year>
+		<authors>Michael Smith</authors>
+		<jconf>COMPCON</jconf>
+		<id>110318</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mental and Emotional Issues in VDT Work</title>
+		<year>1984</year>
+		<authors>Michael Smith</authors>
+		<jconf>COMPCON</jconf>
+		<id>110320</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Flexible Hardware Encoder for Low-Density Parity-Check Codes</title>
+		<year>2004</year>
+		<authors>Dong-U Lee,Wayne Luk,Connie Wang,Christopher Jones,Michael Smith,John D. Villasenor</authors>
+		<jconf>FCCM</jconf>
+		<id>203297</id>
+		<label>4</label>
+		<organization>University of California, Los Angeles, USA</organization>
+	</publication>
+	<publication>
+		<title>Digital Signal Processing in Predicting Secondary Structures of Proteins</title>
+		<year>2004</year>
+		<authors>Debasis Mitra,Michael Smith</authors>
+		<jconf>IEA/AIE</jconf>
+		<id>374481</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>E-RACE, A Hardware-Assisted Approach to Lockset-Based Data Race Detection for Embedded Products</title>
+		<year>2008</year>
+		<authors>Lily Huang,Michael Smith,Albert Tran,James Miller</authors>
+		<jconf>ISSRE</jconf>
+		<id>450415</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Hardware-Assisted Tool for Fast, Full Code Coverage Analysis</title>
+		<year>2008</year>
+		<authors>Albert Tran,Michael Smith,James Miller</authors>
+		<jconf>ISSRE</jconf>
+		<id>450445</id>
+		<label>6</label>
+		<organization>Univ. of Calgary, Calgary, AB</organization>
+	</publication>
+	<publication>
+		<title>Broadening participation in computing with the k-gray engineering pathway digital library</title>
+		<year>2008</year>
+		<authors>Alice M. Agogino,Michael Smith</authors>
+		<jconf>JCDL</jconf>
+		<id>468121</id>
+		<label>7</label>
+		<organization>University of Trinidad and Tobago, Trinidad, WI</organization>
+	</publication>
+	<publication>
+		<title>Towards context-aware face recognition</title>
+		<year>2005</year>
+		<authors>Marc Davis,Michael Smith,John F. Canny,Nathan Good,Simon King,Rajkumar Janakiraman</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502116</id>
+		<label>8</label>
+		<organization>France Telecom R&D, South San Francisco, CA</organization>
+	</publication>
+	<publication>
+		<title>Engineering with logic: HOL specification and symbolic-evaluation testing for TCP implementations</title>
+		<year>2006</year>
+		<authors>Steve Bishop,Matthew Fairbairn,Michael Norrish,Peter Sewell,Michael Smith,Keith Wansbrough</authors>
+		<jconf>POPL</jconf>
+		<id>545943</id>
+		<label>9</label>
+		<organization>University of Cambridge Computer Laboratory</organization>
+	</publication>
+	<publication>
+		<title>Formal Methods Fact vs. Fiction</title>
+		<year>1994</year>
+		<authors>C. Michael Holloway,Ben L. Di Vito,David Guaspari,Michael Smith</authors>
+		<jconf>TRI-Ada</jconf>
+		<id>588050</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rigorous specification and conformance testing techniques for network protocols, as applied to TCP, UDP, and sockets</title>
+		<year>2005</year>
+		<authors>Steve Bishop,Matthew Fairbairn,Michael Norrish,Peter Sewell,Michael Smith,Keith Wansbrough</authors>
+		<jconf>SIGCOMM</jconf>
+		<id>588458</id>
+		<label>9</label>
+		<organization>University of Cambridge Computer Laboratory</organization>
+	</publication>
+	<publication>
+		<title>Empirical Analysis of the Correlation between Amount-of-Reuse Metrics in the C Programming Language</title>
+		<year>1999</year>
+		<authors>William Curry,Giancarlo Succi,Michael R. Smith,Eric Liu,Raymond Wong</authors>
+		<jconf>SSR</jconf>
+		<id>619407</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architecture Design for Globally Distributed Projects</title>
+		<year>2007</year>
+		<authors>Matthew Bass,Raghvinder S. Sangwan,Michael Smith</authors>
+		<jconf>WICSA</jconf>
+		<id>661825</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A TDD approach to introducing students to embedded programming</title>
+		<year>2007</year>
+		<authors>James Miller,Michael Smith</authors>
+		<jconf>ITiCSE</jconf>
+		<id>698612</id>
+		<label>6</label>
+		<organization>University of Calgary</organization>
+	</publication>
+	<publication>
+		<title>Mother, May I? OWL-based Policy Management at NASA</title>
+		<year>2007</year>
+		<authors>Michael Smith,Andrew Schain,Kendall Clark,Arlen Griffey,Vladimir Kolovski</authors>
+		<jconf>OWLED</jconf>
+		<id>716257</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Owlgres: A Scalable OWL Reasoner</title>
+		<year>2008</year>
+		<authors>Markus Stocker,Michael Smith</authors>
+		<jconf>OWLED</jconf>
+		<id>716309</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing Change: An Ontology Version Control System</title>
+		<year>2008</year>
+		<authors>Timothy Redmond,Michael Smith,Nick Drummond,Tania Tudorache</authors>
+		<jconf>OWLED</jconf>
+		<id>716318</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Opening, Closing Worlds - On Integrity Constraints</title>
+		<year>2008</year>
+		<authors>Evren Sirin,Michael Smith,Evan Wallace</authors>
+		<jconf>OWLED</jconf>
+		<id>716334</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PickPocket: A computer billiards shark</title>
+		<year>2007</year>
+		<authors>Michael Smith</authors>
+		<jconf>Artif. Intell.</jconf>
+		<id>746195</id>
+		<label>1</label>
+		<organization>Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8</organization>
+	</publication>
+	<publication>
+		<title>Cryptographic Information Recovery Using Key Recover</title>
+		<year>2000</year>
+		<authors>Michael Smith,Paul C. van Oorschot,Michael Willett</authors>
+		<jconf>Computers  Security</jconf>
+		<id>805140</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Combining spatial and scale-space techniques for edge detection to provide a spatially adaptive wavelet-based noise filtering algorithm</title>
+		<year>2002</year>
+		<authors>Farshad Faghih,Michael Smith</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1100775</id>
+		<label>14</label>
+		<organization>Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.</organization>
+	</publication>
+	<publication>
+		<title>Performance and Capacity Analysis of UWB Networks over 60GHz WPAN Channel</title>
+		<year>2008</year>
+		<authors>Wei Li,Jun Wei,Michael Smith</authors>
+		<jconf>JCM</jconf>
+		<id>1184883</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Scalable Testing Framework for Location-Based Services</title>
+		<year>2009</year>
+		<authors>Jiang Yu,Andrew Tappenden,James Miller,Michael R. Smith</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1225893</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The CORC experience: survey of founding libraries. Part I</title>
+		<year>2001</year>
+		<authors>Ingrid Hsieh-Yee,Michael Smith</authors>
+		<jconf>Decision Analysis</jconf>
+		<id>1293707</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The CORC experience: survey of founding libraries. Part II</title>
+		<year>2001</year>
+		<authors>Ingrid Hsieh-Yee,Michael Smith</authors>
+		<jconf>Decision Analysis</jconf>
+		<id>1293719</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Killer Elite: The Inside Story of America's Most Secret Special Operations Team</title>
+		<year>2007</year>
+		<authors>Michael Smith</authors>
+		<jconf>null</jconf>
+		<id>1353741</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonparametric regression using linear combinations of basis functions</title>
+		<year>2001</year>
+		<authors>Robert Kohn,Michael Smith,David Chan</authors>
+		<jconf>Statistics and Computing</jconf>
+		<id>1528746</id>
+		<label>18</label>
+		<organization>Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia</organization>
+	</publication>
+	<publication>
+		<title>The Official DataCAD User's Guide (Starburst 9.0)</title>
+		<year>2000</year>
+		<authors>Michael Smith,Richard Morse</authors>
+		<jconf>null</jconf>
+		<id>1528812</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Physical, Mental, and Emotional Stress Effects of VDT Work</title>
+		<year>1984</year>
+		<authors>Michael Smith</authors>
+		<jconf>IEEE Computer Graphics and Applications</jconf>
+		<id>1582756</id>
+		<label>3</label>
+		<organization>National Institute for Occupational Safety and Health</organization>
+	</publication>
+	<publication>
+		<title>Risk Mitigation Tactics for Planning and Monitoring Global Software Development Projects</title>
+		<year>2007</year>
+		<authors>Mathew Bass,Michael Smith,Raghvinder S. Sangwan</authors>
+		<jconf>Proceedings of the International Conference on Global Software Engineering</jconf>
+		<id>1583810</id>
+		<label>11</label>
+		<organization>Siemens Corporate Research</organization>
+	</publication>
+	<publication>
+		<title>Promoting health and productivity in the computerized office</title>
+		<year>1991</year>
+		<authors>Steven Sauter,Marvin Dainoff,Michael Smith</authors>
+		<jconf>null</jconf>
+		<id>1676446</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+</person>

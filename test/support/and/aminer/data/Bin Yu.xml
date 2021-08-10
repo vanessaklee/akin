@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>31466</personID>
+	<FullName>Bin Yu</FullName>
+	<FirstName>Bin</FirstName>
+	<LastName>Yu</LastName>
+	<publication>
+		<title>Approximation Lasso Methods for Language Modeling</title>
+		<year>2006</year>
+		<authors>Jianfeng Gao,Hisami Suzuki,Bin Yu</authors>
+		<jconf>ACL</jconf>
+		<id>20343</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of PGA on Optimization of Distribution of Shopping Centers</title>
+		<year>2005</year>
+		<authors>Bin Yu,Chuntian Cheng,Zhong-Zheng Yang,Kwok-wing Chau</authors>
+		<jconf>AI*IA</jconf>
+		<id>33932</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incentive Mechanisms for Peer-to-Peer Systems</title>
+		<year>2003</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>AP2PC</jconf>
+		<id>43454</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Utilizing Fuzzy Petri Net for Choreography Based Semantic Web Services Discovery</title>
+		<year>2007</year>
+		<authors>Peng Men,Zhenhua Duan,Bin Yu</authors>
+		<jconf>ICATPN</jconf>
+		<id>45726</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Emergence of agent-based referral networks</title>
+		<year>2002</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>AAMAS</jconf>
+		<id>55536</id>
+		<label>2</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Searching social networks</title>
+		<year>2003</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>AAMAS</jconf>
+		<id>55541</id>
+		<label>2</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Synergistic integration of agent technologies for military simulation</title>
+		<year>2006</year>
+		<authors>Sean Owens,Paul Scerri,Robin Glinton,Bin Yu,Katia P. Sycara</authors>
+		<jconf>AAMAS</jconf>
+		<id>56439</id>
+		<label>2</label>
+		<organization>Carnegie Mellon University, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>An integrated token-based algorithm for scalable coordination</title>
+		<year>2005</year>
+		<authors>Yang Xu,Paul Scerri,Bin Yu,Steven Okamoto,Michael Lewis,Katia P. Sycara</authors>
+		<jconf>AAMAS</jconf>
+		<id>56969</id>
+		<label>2</label>
+		<organization>Carnegie Mellon University</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Pricing Mechanisms for P2P Referral Systems</title>
+		<year>2004</year>
+		<authors>Bin Yu,Cuihong Li,Munindar P. Singh,Katia P. Sycara</authors>
+		<jconf>AAMAS</jconf>
+		<id>56996</id>
+		<label>2</label>
+		<organization>Carnegie Mellon University</organization>
+	</publication>
+	<publication>
+		<title>An evidential model of distributed reputation management</title>
+		<year>2002</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>AAMAS</jconf>
+		<id>56997</id>
+		<label>2</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Detecting deception in reputation management</title>
+		<year>2003</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>AAMAS</jconf>
+		<id>56998</id>
+		<label>2</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Scalable and reliable data delivery in mobile ad hoc sensor networks</title>
+		<year>2006</year>
+		<authors>Bin Yu,Paul Scerri,Katia P. Sycara,Yang Xu,Michael Lewis</authors>
+		<jconf>AAMAS</jconf>
+		<id>56999</id>
+		<label>2</label>
+		<organization>Carnegie Mellon University, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Managing the pedigree and quality of information in dynamic information sharing environments</title>
+		<year>2007</year>
+		<authors>Bin Yu,Srikanth Kallurkar,Ganesh Vaidyanathan,Donald Steiner</authors>
+		<jconf>AAMAS</jconf>
+		<id>57106</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An incentive mechanism for message relaying in unstructured peer-to-peer systems</title>
+		<year>2007</year>
+		<authors>Cuihong Li,Bin Yu,Katia P. Sycara</authors>
+		<jconf>AAMAS</jconf>
+		<id>57315</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Service Matchmaking with Rough Sets</title>
+		<year>2006</year>
+		<authors>Maozhen Li,Bin Yu,Chang Huang,Yong-Hua Song</authors>
+		<jconf>CCGRID</jconf>
+		<id>82893</id>
+		<label>6</label>
+		<organization>Brunel University, UK</organization>
+	</publication>
+	<publication>
+		<title>A Social Mechanism of Reputation Management in Electronic Communities</title>
+		<year>2000</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>CIA</jconf>
+		<id>92589</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An agent-based approach to knowledge management</title>
+		<year>2002</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>CIKM</jconf>
+		<id>95989</id>
+		<label>2</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Semantic Matching of Web Services Based on Choreographies</title>
+		<year>2006</year>
+		<authors>Lihui Lei,Zhenhua Duan,Bin Yu</authors>
+		<jconf>CSCWD</jconf>
+		<id>122389</id>
+		<label>3</label>
+		<organization>Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an</organization>
+	</publication>
+	<publication>
+		<title>Semantic Matching of Web Services for Collaborative Business Processes</title>
+		<year>2006</year>
+		<authors>Lihui Lei,Zhenhua Duan,Bin Yu</authors>
+		<jconf>CSCWD (Selected Papers)</jconf>
+		<id>122624</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low Delay Perpetually Lossless Coding of Audio Signals</title>
+		<year>2001</year>
+		<authors>Sean Dorward,Dawei Huang,Serap A. Savari,Gerald Schuller,Bin Yu</authors>
+		<jconf>Data Compression Conference</jconf>
+		<id>146156</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A WSRF Based Shopping Cart System</title>
+		<year>2005</year>
+		<authors>Maozhen Li,Man Qi,Masoud Rozati,Bin Yu</authors>
+		<jconf>EGC</jconf>
+		<id>178775</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SpiderNet: An Integrated Peer-to-Peer Service Composition Framework</title>
+		<year>2004</year>
+		<authors>Xiaohui Gu,Klara Nahrstedt,Bin Yu</authors>
+		<jconf>HPDC</jconf>
+		<id>255126</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>Multi-step-ahead Prediction Based on B-Spline Interpolation and Adaptive Time-Delay Neural Network</title>
+		<year>2005</year>
+		<authors>Jing-Xin Xie,Chun-Tian Cheng,Bin Yu,Qing-Rui Zhang</authors>
+		<jconf>ICANN (2)</jconf>
+		<id>272651</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Page Segmentation Using Document Model</title>
+		<year>1997</year>
+		<authors>Anil K. Jain,Bin Yu</authors>
+		<jconf>ICDAR</jconf>
+		<id>294928</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Automatic understanding of symbol-connected diagrams</title>
+		<year>1995</year>
+		<authors>Bin Yu</authors>
+		<jconf>ICDAR</jconf>
+		<id>295820</id>
+		<label>11</label>
+		<organization>Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>The Dynamics Mechanism Study on Interactive Development of Industry Clusters and Urbanization</title>
+		<year>2006</year>
+		<authors>Weixiang Xu,Ye Jiang,Bin Yu,Gennian Tang</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>313797</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Control of Hopf Bifurcation for an Internet Congestion Model</title>
+		<year>2007</year>
+		<authors>Zunshui Cheng,Jianlong Qiu,Guangbin Wang,Bin Yu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314189</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Denoising via Lossy Compression and Wavelet Thresholding</title>
+		<year>1997</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>316807</id>
+		<label>0</label>
+		<organization>af.affilation</organization>
+	</publication>
+	<publication>
+		<title>Spatially Adaptive Wavelet Thresholding with Context Modeling for Image Denoising</title>
+		<year>1998</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>316808</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Multiple Copy Image Denoising via Wavelet Thresholding</title>
+		<year>1998</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>316809</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Compression of cDNA and inkjet microarray images</title>
+		<year>2002</year>
+		<authors>Rebecka Jornsten,Bin Yu,Wei Wang,Kannan Ramchandran</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>318395</id>
+		<label>0</label>
+		<organization>California Univ., Berkeley, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Lane Boundary Detection Using a Multiresolution Hough Transform</title>
+		<year>1997</year>
+		<authors>Bin Yu,Anil K. Jain</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322560</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Trust and Reputation Management in a Small-World Network</title>
+		<year>2000</year>
+		<authors>Mahadevan Venkatraman,Bin Yu,Munindar P. Singh</authors>
+		<jconf>ICMAS</jconf>
+		<id>329271</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>A Three-Layer Virtual Director Model for Supporting Automated Multi-Site Distributed Education</title>
+		<year>2006</year>
+		<authors>Bin Yu,Cha Zhang,Yong Rui,Klara Nahrstedt</authors>
+		<jconf>ICME</jconf>
+		<id>331749</id>
+		<label>8</label>
+		<organization>Univ. of Illinois at Urbana, Champaign, IL</organization>
+	</publication>
+	<publication>
+		<title>On the Convergence of Boosting Procedures</title>
+		<year>2003</year>
+		<authors>Tong Zhang,Bin Yu</authors>
+		<jconf>ICML</jconf>
+		<id>336048</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data spectroscopy: learning mixture models using eigenspaces of convolution operators</title>
+		<year>2008</year>
+		<authors>Tao Shi,Mikhail Belkin,Bin Yu</authors>
+		<jconf>ICML</jconf>
+		<id>336268</id>
+		<label>0</label>
+		<organization>University of California, Berkeley</organization>
+	</publication>
+	<publication>
+		<title>An Economical Contour Extraction AIgorithm for Understanding Large-size Engineering Drawings</title>
+		<year>1990</year>
+		<authors>Bin Yu,Xinggang Lin,Youshou Wu</authors>
+		<jconf>ICSI</jconf>
+		<id>364000</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pseudo Likelihood Estimation in Network Tomography</title>
+		<year>2003</year>
+		<authors>Gang Liang,Bin Yu</authors>
+		<jconf>INFOCOM</jconf>
+		<id>401592</id>
+		<label>0</label>
+		<organization>Dept. of Stat., California Univ., Berkeley, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Compression of cDNA microarray images</title>
+		<year>2002</year>
+		<authors>Rebecka Jornsten,Bin Yu</authors>
+		<jconf>ISBI</jconf>
+		<id>417336</id>
+		<label>0</label>
+		<organization>Dept. of Stat., Rutgers Univ., Piscataway, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>TEEVE: The Next Generation Architecture for Tele-immersive Environment</title>
+		<year>2005</year>
+		<authors>Zhenyu Yang,Klara Nahrstedt,Yi Cui,Bin Yu,Jin Liang,Sang-Hack Jung,Ruzena Bajcsy</authors>
+		<jconf>ISM</jconf>
+		<id>437567</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>A Study of Collaborative Dancing in Tele-immersive Environments</title>
+		<year>2006</year>
+		<authors>Zhenyu Yang,Bin Yu,Wanmin Wu,Klara Nahrstedt,Ross Diankov,Ruzena Bajcsy</authors>
+		<jconf>ISM</jconf>
+		<id>437654</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign, USA</organization>
+	</publication>
+	<publication>
+		<title>Requirements Engineering Processes Improvement: A Systematic View</title>
+		<year>2005</year>
+		<authors>Anliang Ning,Hong Hou,Qingyi Hua,Bin Yu,Kegang Hao</authors>
+		<jconf>ISPW</jconf>
+		<id>447480</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intelligent Online BGP-4 Analyzer</title>
+		<year>2000</year>
+		<authors>Yixin Zhao,Jianping Wu,Bin Yu</authors>
+		<jconf>MASCOTS</jconf>
+		<id>490022</id>
+		<label>8</label>
+		<organization>Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A scalable overlay video mixing service model</title>
+		<year>2003</year>
+		<authors>Bin Yu,Klara Nahrstedt</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502693</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Video summarization based on user log enhanced link analysis</title>
+		<year>2003</year>
+		<authors>Bin Yu,Wei-Ying Ma,Klara Nahrstedt,HongJiang Zhang</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503192</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Collaborative dancing in tele-immersive environment</title>
+		<year>2006</year>
+		<authors>Zhenyu Yang,Bin Yu,Wanmin Wu,Ross Diankov,Ruzena Bajcsy</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503319</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign</organization>
+	</publication>
+	<publication>
+		<title>A Realtime Software Solution for Resynchronizing Filtered MPEG2 Transport Stream</title>
+		<year>2002</year>
+		<authors>Bin Yu,Klara Nahrstedt</authors>
+		<jconf>ISMSE</jconf>
+		<id>508472</id>
+		<label>8</label>
+		<organization>Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Model Selection in Gaussian Graphical Models: High-Dimensional Consistency of l1-regularized MLE</title>
+		<year>2008</year>
+		<authors>Pradeep Ravikumar,Garvesh Raskutti,Martin Wainwright,Bin Yu</authors>
+		<jconf>NIPS</jconf>
+		<id>518189</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images</title>
+		<year>2008</year>
+		<authors>Pradeep Ravikumar,Vincent Q. Vu,Bin Yu,Thomas Naselaris,Kendrick Kay,Jack L. Gallant</authors>
+		<jconf>NIPS</jconf>
+		<id>518304</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A multi-stream adaptation framework for bandwidth management in 3D tele-immersion</title>
+		<year>2006</year>
+		<authors>Zhenyu Yang,Bin Yu,Klara Nahrstedt,Ruzena Bajcsy</authors>
+		<jconf>NOSSDAV</jconf>
+		<id>519688</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Service Matchmaking and Discovery with Rough Sets</title>
+		<year>2006</year>
+		<authors>Bin Yu,Wenming Guo,Maozhen Li,Yong-Hua Song,Peter Hobson,Man Qi</authors>
+		<jconf>SKG</jconf>
+		<id>681003</id>
+		<label>6</label>
+		<organization>Brunel University, UK</organization>
+	</publication>
+	<publication>
+		<title>Research and Design of One Key Agreement Scheme in Bluetooth</title>
+		<year>2008</year>
+		<authors>Bin Yu,Haiyan Li</authors>
+		<jconf>CSSE (3)</jconf>
+		<id>729317</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptive Social Network for Information Access: Theoretical and Experimental Results</title>
+		<year>2003</year>
+		<authors>Bin Yu,Mahadevan Venkatraman,Munindar P. Singh</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>738444</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous Gene Clustering and Subset Selection for Sample Classification Via MDL</title>
+		<year>2003</year>
+		<authors>Rebecka Jornsten,Bin Yu</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>764323</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Community-based service location</title>
+		<year>2001</year>
+		<authors>Munindar P. Singh,Bin Yu,Mahadevan Venkatraman</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>776086</id>
+		<label>2</label>
+		<organization>North Carolina State Univ.</organization>
+	</publication>
+	<publication>
+		<title>Distributed Reputation Management for Electronic Commerce</title>
+		<year>2002</year>
+		<authors>Bin Yu,Munindar P. Singh</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>789222</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information In The Non-Stationary Case</title>
+		<year>2008</year>
+		<authors>Vincent Q. Vu,Bin Yu,Robert E. Kass</authors>
+		<jconf>CoRR</jconf>
+		<id>827761</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>PGGA: A predictable and grouped genetic algorithm for job scheduling</title>
+		<year>2006</year>
+		<authors>Maozhen Li,Bin Yu,Man Qi</authors>
+		<jconf>Future Generation Comp. Syst.</jconf>
+		<id>876946</id>
+		<label>6</label>
+		<organization>Electronic and Computer Engineering, School of Engineering and Design, Brunel University, Uxbridge UB8 3PH, UK</organization>
+	</publication>
+	<publication>
+		<title>The Tree Representation of the Graph Used in Binary Image Processing</title>
+		<year>1991</year>
+		<authors>Bin Yu,Xinggang Lin,Youshou Wu</authors>
+		<jconf>Inf. Process. Lett.</jconf>
+		<id>934516</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sparse Boosting</title>
+		<year>2006</year>
+		<authors>Peter Buhlmann,Bin Yu</authors>
+		<jconf>Journal of Machine Learning Research</jconf>
+		<id>985261</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng., Princeton Univ., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>On Model Selection Consistency of Lasso</title>
+		<year>2006</year>
+		<authors>Peng Zhao,Bin Yu</authors>
+		<jconf>Journal of Machine Learning Research</jconf>
+		<id>985276</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Internet-based interactive HDTV</title>
+		<year>2004</year>
+		<authors>Bin Yu,Klara Nahrstedt</authors>
+		<jconf>Multimedia Syst.</jconf>
+		<id>1011439</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Document Representation and Its Application to Page Decomposition</title>
+		<year>1998</year>
+		<authors>Anil K. Jain,Bin Yu</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1031946</id>
+		<label>11</label>
+		<organization>Electroglas Inc., Santa Clara, CA</organization>
+	</publication>
+	<publication>
+		<title>A Generic System for Form Dropout</title>
+		<year>1996</year>
+		<authors>Bin Yu,Anil K. Jain</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033439</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>Automatic text location in images and video frames</title>
+		<year>1998</year>
+		<authors>Anil K. Jain,Bin Yu</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1039774</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI</organization>
+	</publication>
+	<publication>
+		<title>A robust and fast skew detection algorithm for generic documents</title>
+		<year>1996</year>
+		<authors>Bin Yu,Anil K. Jain</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042081</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A more efficient branch and bound algorithm for feature selection</title>
+		<year>1993</year>
+		<authors>Bin Yu,Baozong Yuan</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1042110</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new edge detector based on Fresnel diffraction</title>
+		<year>2007</year>
+		<authors>Luhong Diao,Bin Yu,Hua Li</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046550</id>
+		<label>4</label>
+		<organization>Institute of Optoelectronics, Shenzhen University, Shenzhen, China</organization>
+	</publication>
+	<publication>
+		<title>Spatially adaptive wavelet thresholding with context modeling for image denoising</title>
+		<year>2000</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1100481</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Adaptive wavelet thresholding for image denoising and compression</title>
+		<year>2000</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1100482</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Wavelet thresholding for multiple noisy image copies</title>
+		<year>2000</year>
+		<authors>S. Grace Chang,Bin Yu,Martin Vetterli</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1100483</id>
+		<label>0</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Image subband coding using context-based classification and adaptive quantization</title>
+		<year>1999</year>
+		<authors>Youngjun Yoo,Antonio Ortega,Bin Yu</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102356</id>
+		<label>0</label>
+		<organization>Media Technol. Lab., Texas Instrum. Inc., Dallas, TX</organization>
+	</publication>
+	<publication>
+		<title>The Minimum Description Length Principle in Coding and Modeling</title>
+		<year>1998</year>
+		<authors>Andrew R. Barron,Jorma Rissanen,Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1104153</id>
+		<label>0</label>
+		<organization>Dept. of Stat., Yale Univ., New Haven, CT</organization>
+	</publication>
+	<publication>
+		<title>Wavelet thresholding via MDL for natural images</title>
+		<year>2000</year>
+		<authors>Mark Hansen,Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1106172</id>
+		<label>0</label>
+		<organization>Lucent Technol Bell Labs., Murray Hill, NJ</organization>
+	</publication>
+	<publication>
+		<title>Iterated logarithmic expansions of the pathwise code lengths for exponential families</title>
+		<year>2000</year>
+		<authors>Lei Li,Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107223</id>
+		<label>0</label>
+		<organization>Dept. of Stat., Florida State Univ., Tallahassee, FL</organization>
+	</publication>
+	<publication>
+		<title>A fast lightweight approach to origin-destination IP traffic estimation using partial measurements</title>
+		<year>2006</year>
+		<authors>Gang Liang,Nina Taft,Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1107242</id>
+		<label>0</label>
+		<organization>Dept. of Stat., Univ. of California, USA</organization>
+	</publication>
+	<publication>
+		<title>Density estimation by stochastic complexity</title>
+		<year>1992</year>
+		<authors>Jorma Rissanen,Terry P. Speed,Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1108393</id>
+		<label>0</label>
+		<organization>IBM Almaden Res. Center, San Jose, CA</organization>
+	</publication>
+	<publication>
+		<title>Lower Bounds on Expected Redundancy for Nonparametric Classes</title>
+		<year>1996</year>
+		<authors>Bin Yu</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109732</id>
+		<label>0</label>
+		<organization>Dept. of Stat., California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>A rate of convergence result for a universal D-semifaithful code</title>
+		<year>1993</year>
+		<authors>Bin Yu,Terry P. Speed</authors>
+		<jconf>IEEE Transactions on Information Theory</jconf>
+		<id>1109744</id>
+		<label>0</label>
+		<organization>Dept. of Stat., Wisconsin Univ., Madison, WI</organization>
+	</publication>
+	<publication>
+		<title>Grid Service Discovery with Rough Sets</title>
+		<year>2008</year>
+		<authors>Maozhen Li,Bin Yu,Omer F. Rana,Zidong Wang</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113893</id>
+		<label>6</label>
+		<organization>Sch. of Eng. & Design, Brunel Univ., London</organization>
+	</publication>
+	<publication>
+		<title>Microarray image compression: SLOCO and the effect of information loss</title>
+		<year>2003</year>
+		<authors>Rebecka Jornsten,Wei Wang,Bin Yu,Kannan Ramchandran</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1150426</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An improved ant colony optimization for vehicle routing problem</title>
+		<year>2009</year>
+		<authors>Bin Yu,Zhong-Zhen Yang,Baozhen Yao</authors>
+		<jconf>European Journal of Operational Research</jconf>
+		<id>1163152</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hourglass multimedia content and service composition framework for smart room environments</title>
+		<year>2005</year>
+		<authors>Klara Nahrstedt,Bin Yu,Jin Liang,Yi Cui</authors>
+		<jconf>Pervasive and Mobile Computing</jconf>
+		<id>1185325</id>
+		<label>8</label>
+		<organization>University of Illinois at Urbana-Champaign, United States</organization>
+	</publication>
+	<publication>
+		<title>Genetic Polymorphisms of Nine X-STR Loci in Four Population Groups from Inner Mongolia, China</title>
+		<year>2007</year>
+		<authors>Qiao-Fang Hou,Bin Yu,Sheng-Bin Li</authors>
+		<jconf>Genomics, Proteomics  Bioinformatics</jconf>
+		<id>1186549</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatically wrapping legacy software into services: A grid case study</title>
+		<year>2008</year>
+		<authors>Maozhen Li,Bin Yu,Man Qi,Nick Antonopoulos</authors>
+		<jconf>Peer-to-Peer Networking and Applications</jconf>
+		<id>1186707</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An integrated approach to high-level information fusion</title>
+		<year>2009</year>
+		<authors>Katia P. Sycara,Robin Glinton,Bin Yu,Joseph A. Giampapa,Sean Owens,Michael Lewis,L. T. C. Charles Grindle</authors>
+		<jconf>Information Fusion</jconf>
+		<id>1225537</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Services Discovery with Rough Sets</title>
+		<year>2009</year>
+		<authors>Maozhen Li,Bin Yu,Vijay Sahota,Man Qi</authors>
+		<jconf>Int. J. Web Service Res.</jconf>
+		<id>1226229</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Perceptual audio coding using adaptive pre- and post-filters and lossless compression</title>
+		<year>2002</year>
+		<authors>Gerald Schuller,Bin Yu,Dawei Huang,Bernd Edler</authors>
+		<jconf>IEEE Transactions on Speech and Audio Processing</jconf>
+		<id>1229364</id>
+		<label>0</label>
+		<organization>Lucent Technol. Bell Labs., Murray Hill, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>A dynamic holding strategy in public transit systems with real-time information</title>
+		<year>2009</year>
+		<authors>Bin Yu,Zhong-Zhen Yang</authors>
+		<jconf>Appl. Intell.</jconf>
+		<id>1266579</id>
+		<label>9</label>
+		<organization>Transportation College, Dalian Maritime University, Dalian, People's Republic of China 116026</organization>
+	</publication>
+	<publication>
+		<title>Computational prediction of novel non-coding RNAs in Arabidopsis thaliana</title>
+		<year>2009</year>
+		<authors>Dandan Song,Yang Yang,Bin Yu,Binglian Zheng,Zhidong Deng,Bao-Liang Lu,Xuemei Chen,Tao Jiang</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1267372</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information in the Nonstationary Case</title>
+		<year>2009</year>
+		<authors>Vincent Q. Vu,Bin Yu,Robert E. Kass</authors>
+		<jconf>Neural Computation</jconf>
+		<id>1279648</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending the ONESAF Testbed into a C4ISR Testbed</title>
+		<year>2004</year>
+		<authors>Joseph A. Giampapa,Katia P. Sycara,Sean Owens,Robin Glinton,Young-Woo Seo,Bin Yu,Charles E. Grindle,Michael Lewis</authors>
+		<jconf>Simulation</jconf>
+		<id>1280940</id>
+		<label>2</label>
+		<organization>The Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890</organization>
+	</publication>
+	<publication>
+		<title>Large Sample Properties of Weighted Monte Carlo Estimators</title>
+		<year>2005</year>
+		<authors>Paul Glasserman,Bin Yu</authors>
+		<jconf>Synthesis Lectures on Information Concepts, Retrieval, and Services</jconf>
+		<id>1289889</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Modified Multi-Secret Sharing Visual Cryptography Scheme.</title>
+		<year>2008</year>
+		<authors>Bin Yu,Zhengxin Fu,Liguo Fang</authors>
+		<jconf>null</jconf>
+		<id>1303878</id>
+		<label>12</label>
+		<organization>Inst. of Electron. Technol., Inf. Eng. Univ., China</organization>
+	</publication>
+	<publication>
+		<title>A Verifiable Visual Cryptography Scheme.</title>
+		<year>2008</year>
+		<authors>Bin Yu,Liguo Fang,Xiaohui Xu</authors>
+		<jconf>null</jconf>
+		<id>1304040</id>
+		<label>12</label>
+		<organization>Inst. of Electron. Technol., Inf. Eng. Univ., China</organization>
+	</publication>
+	<publication>
+		<title>Prediction of Transmembrane Helical Segments in Membrane Proteins Using Back Propagation Neural Network with Wavelet Analysis</title>
+		<year>2009</year>
+		<authors>Bin Yu</authors>
+		<jconf>Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 02</jconf>
+		<id>1366064</id>
+		<label>15</label>
+		<organization>Coll. of Math. & Phys., Qingdao Univ. of Sci. & Technol., Qingdao, China</organization>
+	</publication>
+	<publication>
+		<title>Transform from Models to Service Description Based on MDA</title>
+		<year>2006</year>
+		<authors>Bin Yu,Chen Zhang,Yang Zhao</authors>
+		<jconf>Proceedings of the 2006 IEEE Asia-Pacific Conference on Services Computing</jconf>
+		<id>1367661</id>
+		<label>3</label>
+		<organization>Xidian University, China</organization>
+	</publication>
+	<publication>
+		<title>Stagewise Lasso</title>
+		<year>2007</year>
+		<authors>Peng Zhao,Bin Yu</authors>
+		<jconf>The Journal of Machine Learning Research</jconf>
+		<id>1379964</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sparsity and model selection through convex penalties: structured selection, covariance selection and some theory</title>
+		<year>2008</year>
+		<authors>Bin Yu</authors>
+		<jconf>null</jconf>
+		<id>1430319</id>
+		<label>0</label>
+		<organization>University of California, Berkeley</organization>
+	</publication>
+	<publication>
+		<title>Some results on empirical processes and stochastic complexity</title>
+		<year>1990</year>
+		<authors>Bin Yu</authors>
+		<jconf>null</jconf>
+		<id>1487469</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Isothetic polygon representation for contours</title>
+		<year>1992</year>
+		<authors>Bin Yu,Xinggang Lin,Youshou Wu,Baozong Yuan</authors>
+		<jconf>CVGIP: Image Understanding</jconf>
+		<id>1501529</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Looking at Markov samplers through cusum path plots: a simple diagnostic idea</title>
+		<year>1998</year>
+		<authors>Bin Yu,Per Mykland</authors>
+		<jconf>Statistics and Computing</jconf>
+		<id>1534733</id>
+		<label>0</label>
+		<organization>Department of Statistics, University of California at Berkeley, Berkeley, CA 94720, USA</organization>
+	</publication>
+	<publication>
+		<title>The minimum description length principle in coding and modeling (invited paper)</title>
+		<year>2000</year>
+		<authors>Andrew Barron,Jorma Rissanen,Bin Yu</authors>
+		<jconf>Information theory: 50 years of discovery</jconf>
+		<id>1555660</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Method of Realizing Fingerprint Authentication on Smartcard</title>
+		<year>2008</year>
+		<authors>Shichao Chen,Bin Yu</authors>
+		<jconf>Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05</jconf>
+		<id>1592467</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An economical contour extraction algorithm for understanding large-size engineering drawings</title>
+		<year>1990</year>
+		<authors>Bin Yu,Xinggang Lin,Youshou Wu</authors>
+		<jconf>Proceedings of the first international conference on systems integration on Systems integration '90</jconf>
+		<id>1624358</id>
+		<label>11</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ., Beijing</organization>
+	</publication>
+</person>

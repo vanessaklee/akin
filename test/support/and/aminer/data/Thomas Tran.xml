@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>9948</personID>
+	<FullName>Thomas Tran</FullName>
+	<FirstName>Thomas</FirstName>
+	<LastName>Tran</LastName>
+	<publication>
+		<title>Designing recommender systems for e-commerce: an integration approach</title>
+		<year>2006</year>
+		<authors>Thomas Tran</authors>
+		<jconf>ICEC</jconf>
+		<id>6120</id>
+		<label>0</label>
+		<organization>University of Ottawa, Ottawa, Ontario, Canada</organization>
+	</publication>
+	<publication>
+		<title>Modeling trust in e-commerce: an approach based on user requirements</title>
+		<year>2007</year>
+		<authors>Alireza Pourshahid,Thomas Tran</authors>
+		<jconf>ICEC</jconf>
+		<id>6188</id>
+		<label>0</label>
+		<organization>University of Ottawa, Ottawa, ON, Canada</organization>
+	</publication>
+	<publication>
+		<title>A Reputation-Oriented Reinforcement Learning Approach for Agents in Electronic Marketplaces</title>
+		<year>2002</year>
+		<authors>Thomas Tran</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>15254</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Learning Algorithm for Buying and Selling Agents in Electronic Marketplaces</title>
+		<year>2002</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31621</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Learning Algorithm for Buying and Selling Agents in Electronic Marketplaces</title>
+		<year>2002</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31623</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Strategy for Improved Satisfaction of Selling Software Agents in E-Commerce</title>
+		<year>2003</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31625</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving User Satisfaction in Agent-Based Electronic Marketplaces by Reputation Modelling and Adjustable Product Quality</title>
+		<year>2004</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>AAMAS</jconf>
+		<id>56833</id>
+		<label>0</label>
+		<organization>University of Waterloo</organization>
+	</publication>
+	<publication>
+		<title>An Intelligent Agent-Based Framework for Mobile Business</title>
+		<year>2007</year>
+		<authors>Zhiyong Weng,Thomas Tran</authors>
+		<jconf>ICMB</jconf>
+		<id>329572</id>
+		<label>0</label>
+		<organization>University of Ottawa</organization>
+	</publication>
+	<publication>
+		<title>Learning Algorithms for Software Agents in Uncertain and Untrusted Market Environments</title>
+		<year>2003</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>IJCAI</jconf>
+		<id>390912</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modelling Reputation in Agent-Based Marketplaces to Improve the Performance of Buying Agents</title>
+		<year>2003</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>User Modeling</jconf>
+		<id>634886</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Reputation-Oriented Reinforcement Learning Strategy for Agents in Electronic Marketplaces</title>
+		<year>2002</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>789193</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Equilibrium of E-Markets Populated with Reputation Oriented Learning Agents</title>
+		<year>2004</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>New Generation Comput.</jconf>
+		<id>1025441</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design and Implementation of Davis Social Links OSN Kernel</title>
+		<year>2009</year>
+		<authors>Thomas Tran,Kelcey Chan,Shaozhi Ye,Prantik Bhattacharyya,Ankush Garg,Xiaoming Lu,Shyhtsun Felix Wu</authors>
+		<jconf>WASA</jconf>
+		<id>1257973</id>
+		<label>1</label>
+		<organization>Department of Computer Science, University of California, Davis</organization>
+	</publication>
+	<publication>
+		<title>The Advantages of Designing Adaptive Business Agents Using Reputation Modeling Compared to the Approach of Recursive Modeling.</title>
+		<year>2004</year>
+		<authors>Thomas Tran,Robin Cohen</authors>
+		<jconf>Computational Intelligence</jconf>
+		<id>1333987</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Protecting buying agents in e-marketplaces by direct experience trust modelling.</title>
+		<year>2010</year>
+		<authors>Thomas Tran</authors>
+		<jconf>Knowl. Inf. Syst.</jconf>
+		<id>1340006</id>
+		<label>0</label>
+		<organization>University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada</organization>
+	</publication>
+</person>

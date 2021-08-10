@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>40483</personID>
+	<FullName>Rafael Alonso</FullName>
+	<FirstName>Rafael</FirstName>
+	<LastName>Alonso</LastName>
+	<publication>
+		<title>Profile-Based Security Against Malicious Mobile Agents</title>
+		<year>2006</year>
+		<authors>Hua Li,Glena Greene,Rafael Alonso</authors>
+		<jconf>ADMA</jconf>
+		<id>27405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Lessons from the implementation of an adaptive parts acquisition ePortal</title>
+		<year>2003</year>
+		<authors>Rafael Alonso,Jeffrey A. Bloom,Hua Li</authors>
+		<jconf>CIKM</jconf>
+		<id>95130</id>
+		<label>0</label>
+		<organization>Sarnoff Corporation, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Model-guided information discovery for intelligence analysis</title>
+		<year>2005</year>
+		<authors>Rafael Alonso,Hua Li</authors>
+		<jconf>CIKM</jconf>
+		<id>95132</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Quasi-Copies: Efficient Data Sharing for Information Retrieval Systems</title>
+		<year>1988</year>
+		<authors>Rafael Alonso,Daniel Barbara,Hector Garcia-Molina,Soraya Abad</authors>
+		<jconf>EDBT</jconf>
+		<id>176218</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Query Optimization for Energy Efficiency in Mobile Environments</title>
+		<year>1993</year>
+		<authors>Rafael Alonso,Sumit Ganguly</authors>
+		<jconf>FMLDO</jconf>
+		<id>209421</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Altruistic Locking: A Strategy for Coping with Long Lived Transactions</title>
+		<year>1987</year>
+		<authors>Kenneth Salem,Hector Garcia-Molina,Rafael Alonso</authors>
+		<jconf>HPTS</jconf>
+		<id>255843</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sharing Jobs Among Independently Owned Processors</title>
+		<year>1988</year>
+		<authors>Rafael Alonso,Luis L. Cova</authors>
+		<jconf>ICDCS</jconf>
+		<id>296387</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Princeton Univ., NJ</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Hierarchical Caching for Large-Scale Distributed File Systems</title>
+		<year>1992</year>
+		<authors>Matt Blaze,Rafael Alonso</authors>
+		<jconf>ICDCS</jconf>
+		<id>296486</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Negotiating Data Access in Federated Database Systems</title>
+		<year>1989</year>
+		<authors>Rafael Alonso,Daniel Barbara</authors>
+		<jconf>ICDE</jconf>
+		<id>299302</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Princeton Univ., NJ</organization>
+	</publication>
+	<publication>
+		<title>Data Sharing in a Large Heterogeneous Environment</title>
+		<year>1991</year>
+		<authors>Rafael Alonso,Daniel Barbara,Steve Chon</authors>
+		<jconf>ICDE</jconf>
+		<id>299304</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Princeton Univ., NJ</organization>
+	</publication>
+	<publication>
+		<title>The computational requirements of mobile machines</title>
+		<year>1995</year>
+		<authors>Swarup Acharya,Rafael Alonso</authors>
+		<jconf>ICECCS</jconf>
+		<id>305173</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Brown Univ., Providence, RI</organization>
+	</publication>
+	<publication>
+		<title>Integrated Image and Speech Analysis for Content-Based Video Indexing</title>
+		<year>1996</year>
+		<authors>Yuh-Lin Chang,Wenjun Zeng,Ibrahim Kamel,Rafael Alonso</authors>
+		<jconf>ICMCS</jconf>
+		<id>329861</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An adaptive nearest neighbor search for a parts acquisition ePortal</title>
+		<year>2003</year>
+		<authors>Rafael Alonso,Jeffrey A. Bloom,Hua Li,Chumki Basu</authors>
+		<jconf>KDD</jconf>
+		<id>472442</id>
+		<label>0</label>
+		<organization>Sarnoff Corporation, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>A Mobile Computer Interface for Heterogeneous Databases</title>
+		<year>1993</year>
+		<authors>Rafael Alonso,Eben M. Haber,Henry F. Korth</authors>
+		<jconf>RIDE-IMS</jconf>
+		<id>559714</id>
+		<label>0</label>
+		<organization>Matsushita Inf. Technol. Lab., Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Data Caching in Information Retrieval Systems</title>
+		<year>1987</year>
+		<authors>Patricia Simpson,Rafael Alonso</authors>
+		<jconf>SIGIR</jconf>
+		<id>595733</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Advisor for Flexible Working Sets</title>
+		<year>1990</year>
+		<authors>Rafael Alonso,Andrew W. Appel</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>596860</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Database System Issues in Nomadic Computing</title>
+		<year>1993</year>
+		<authors>Rafael Alonso,Henry F. Korth</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>597882</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Broadcast Disks: Data Management for Asymmetric Communications Environments</title>
+		<year>1995</year>
+		<authors>Swarup Acharya,Rafael Alonso,Michael J. Franklin,Stanley B. Zdonik</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>597952</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resource sharing in a distributed environment</title>
+		<year>1988</year>
+		<authors>Rafael Alonso,Luis L. Cova</authors>
+		<jconf>ACM SIGOPS European Workshop</jconf>
+		<id>600343</id>
+		<label>0</label>
+		<organization>Princeton University, Princeton, N.J.</organization>
+	</publication>
+	<publication>
+		<title>Stashing as a fault-tolerant mechanism for distributed systems</title>
+		<year>1990</year>
+		<authors>Luis L. Cova,Rafael Alonso,Daniel Barbara</authors>
+		<jconf>ACM SIGOPS European Workshop</jconf>
+		<id>600373</id>
+		<label>0</label>
+		<organization>Princeton University, Princeton, NJ</organization>
+	</publication>
+	<publication>
+		<title>Using Stashing to Increase Node Autonomy in Distributed File Systems</title>
+		<year>1990</year>
+		<authors>Rafael Alonso,Daniel Barbara,Luis L. Cova</authors>
+		<jconf>SRDS</jconf>
+		<id>616823</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Process Migration Implementation for a Unix System</title>
+		<year>1988</year>
+		<authors>Rafael Alonso,Kriton Kyrimis</authors>
+		<jconf>USENIX Winter</jconf>
+		<id>635895</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Long-Term Caching Strategies for Very Large Distributed File Systems</title>
+		<year>1991</year>
+		<authors>Matt Blaze,Rafael Alonso</authors>
+		<jconf>USENIX Summer</jconf>
+		<id>635987</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing Replicated Copies in Very Large Distributed Systems</title>
+		<year>1990</year>
+		<authors>Rafael Alonso,Luis L. Cova</authors>
+		<jconf>Workshop on the Management of Replicated Data</jconf>
+		<id>665216</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Princeton Univ., NJ</organization>
+	</publication>
+	<publication>
+		<title>Hybrid Multi-agent Systems: Integrating Swarming and BDI Agents</title>
+		<year>2006</year>
+		<authors>H. Van Dyke Parunak,Paul Nielsen,Sven Brueckner,Rafael Alonso</authors>
+		<jconf>ESOA</jconf>
+		<id>699811</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Computing Research at Princeton</title>
+		<year>1985</year>
+		<authors>Rafael Alonso,Daniel Barbara,Ricardo Cordon,Hector Garcia-Molina,Jack Kent,Frank M. Pittelli</authors>
+		<jconf>IEEE Database Eng. Bull.</jconf>
+		<id>844305</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Concurrency Control and Recovery for Global Procedures in Federated Database Systems</title>
+		<year>1987</year>
+		<authors>Rafael Alonso,Hector Garcia-Molina,Kenneth Salem</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>844308</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integration of Commit Protocols in Hetergeneous Databases</title>
+		<year>1994</year>
+		<authors>Ayellet Tal,Rafael Alonso</authors>
+		<jconf>Distributed and Parallel Databases</jconf>
+		<id>856202</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bit-Sequences: An Adaptive Cache Invalidation Method in Mobile Client/Server Environments</title>
+		<year>1997</year>
+		<authors>Jin Jing,Ahmed K. Elmagarmid,Abdelsalam Helal,Rafael Alonso</authors>
+		<jconf>MONET</jconf>
+		<id>1012684</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade Press News</title>
+		<year>1994</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064605</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade Press News</title>
+		<year>1994</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064607</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade Press News - Announcement and Preface</title>
+		<year>1994</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064609</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade Press News</title>
+		<year>1995</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064611</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trade Press News</title>
+		<year>1995</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064613</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Managing Video Data in a Mobile Environment</title>
+		<year>1995</year>
+		<authors>Rafael Alonso,Yuh-Lin Chang,Liviu Iftode,V. S. Mani</authors>
+		<jconf>SIGMOD Record</jconf>
+		<id>1064615</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data Caching Issues in an Information Retrieval System</title>
+		<year>1990</year>
+		<authors>Rafael Alonso,Daniel Barbara,Hector Garcia-Molina</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118188</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Spatial Event Prediction by Combining Value Function Approximation and Case-Based Reasoning</title>
+		<year>2009</year>
+		<authors>Hua Li,Hector Munoz-Avila,Diane Bramsen,Chad Hogg,Rafael Alonso</authors>
+		<jconf>ICCBR</jconf>
+		<id>1210002</id>
+		<label>0</label>
+		<organization>SET Corporation, Arlington VA 22201</organization>
+	</publication>
+	<publication>
+		<title>Broadcast Disks: Data Management for Asymmetric Communication Environments</title>
+		<year>1994</year>
+		<authors>Swarup Acharya,Rafael Alonso,Michael Franklin,Stanley Zdonik</authors>
+		<jconf>null</jconf>
+		<id>1420221</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Query optimization in distributed database systems through load balancing</title>
+		<year>1986</year>
+		<authors>Rafael Alonso</authors>
+		<jconf>null</jconf>
+		<id>1495118</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Broadcast disks: data management for asymmetric communication environments</title>
+		<year>1995</year>
+		<authors>Swarup Acharya,Rafael Alonso,Michael Franklin,Stanley Zdonik</authors>
+		<jconf>Proceedings of the 1995 ACM SIGMOD international conference on Management of data</jconf>
+		<id>1722537</id>
+		<label>0</label>
+		<organization>MITL</organization>
+	</publication>
+</person>

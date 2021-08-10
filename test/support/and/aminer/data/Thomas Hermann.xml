@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>119488</personID>
+	<FullName>Thomas Hermann</FullName>
+	<FirstName>Thomas</FirstName>
+	<LastName>Hermann</LastName>
+	<publication>
+		<title>Sonic interaction design: sound, information and experience</title>
+		<year>2008</year>
+		<authors>Davide Rocchesso,Stefania Serafin,Frauke Behrendt,Nicola Bernardini,Roberto Bresin,Gerhard Eckel,Karmen Franinovic,Thomas Hermann,Sandra Pauletto,Patrick Susini,Yon Visell</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>91842</id>
+		<label>1</label>
+		<organization>University of Bielefeld, Bielefeld, Germany</organization>
+	</publication>
+	<publication>
+		<title>Mensch-Computer-Interaktion: Vorstellungen der Benutzer</title>
+		<year>1983</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>GI Jahrestagung</jconf>
+		<id>230068</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Grenzen der Software-Ergonomie bei betrieblichen ISDN-Anlagen</title>
+		<year>1988</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>GI Jahrestagung (1)</jconf>
+		<id>230069</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gesture Desk - An Integrated Multi-modal Gestural Workplace for Sonification</title>
+		<year>2003</year>
+		<authors>Thomas Hermann,Thomas Henning,Helge Ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238207</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>AcouMotion - An Interactive Sonification System for Acoustic Motion Control</title>
+		<year>2005</year>
+		<authors>Thomas Hermann,Oliver Honer,Helge Ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238209</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hand Postures for Sonification Control</title>
+		<year>2001</year>
+		<authors>Thomas Hermann,Claudia Nolker,Helge Ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238211</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gestural Interactions for Multi-parameter Audio Control and Audification</title>
+		<year>2005</year>
+		<authors>Thomas Hermann,Stella Paschalidou,Dirk Beckmann,Helge Ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238213</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Holistic Body Tracking for Gestural Interfaces</title>
+		<year>2003</year>
+		<authors>Christian Lange,Thomas Hermann,Helge Ritter</authors>
+		<jconf>Gesture Workshop</jconf>
+		<id>238268</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Sonification of Rhythms in Human Electroencephalogram</title>
+		<year>2004</year>
+		<authors>Gerold Baier,Thomas Hermann</authors>
+		<jconf>ICAD</jconf>
+		<id>264425</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Polyrhythm in the Human Brain</title>
+		<year>2004</year>
+		<authors>Thomas Hermann,Gerold Baier,Markus Muller</authors>
+		<jconf>ICAD</jconf>
+		<id>264450</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Importance of Interaction in Sonification</title>
+		<year>2004</year>
+		<authors>Andy Hunt,Thomas Hermann</authors>
+		<jconf>ICAD</jconf>
+		<id>264453</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Subdivision of n-sided Regions into Four-sided Patches</title>
+		<year>1988</year>
+		<authors>Thomas Hermann,Gabor Renner</authors>
+		<jconf>IMA Conference on the Mathematics of Surfaces</jconf>
+		<id>396044</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Best Fit Surface Curvature at Vertices of Topologically Irregular Curve Networks</title>
+		<year>1994</year>
+		<authors>Tamas Varady,Thomas Hermann</authors>
+		<jconf>IMA Conference on the Mathematics of Surfaces</jconf>
+		<id>396064</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Polyrhythmic Organization of Coupled Nonlinear Oscillators</title>
+		<year>2005</year>
+		<authors>Gerold Baier,Thomas Hermann,Markus Muller</authors>
+		<jconf>IV</jconf>
+		<id>460132</id>
+		<label>1</label>
+		<organization>Bielefeld University</organization>
+	</publication>
+	<publication>
+		<title>Neural Gas Sonification - Growing Adaptive Interfaces for Interacting with Data</title>
+		<year>2004</year>
+		<authors>Thomas Hermann,Helge Ritter</authors>
+		<jconf>IV</jconf>
+		<id>460334</id>
+		<label>1</label>
+		<organization>Bielefeld University, Germany</organization>
+	</publication>
+	<publication>
+		<title>Interacting with Sonification Systems: Closing the Loop</title>
+		<year>2004</year>
+		<authors>Andy Hunt,Thomas Hermann,Sandra Pauletto</authors>
+		<jconf>IV</jconf>
+		<id>460347</id>
+		<label>1</label>
+		<organization>Bielefeld University, Germany</organization>
+	</publication>
+	<publication>
+		<title>Improving and Extending the Lim/Lee Exponentiation Algorithm</title>
+		<year>1999</year>
+		<authors>Biljana Cubaleska,Andreas Rieke,Thomas Hermann</authors>
+		<jconf>Selected Areas in Cryptography</jconf>
+		<id>570413</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>tacTilesfor Ambient Intelligence and Interactive Sonification</title>
+		<year>2008</year>
+		<authors>Thomas Hermann,Risto Koiva</authors>
+		<jconf>HAID</jconf>
+		<id>678106</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Experts' Systems Instead of Expert Systems</title>
+		<year>1995</year>
+		<authors>Thomas Hermann,Katharina Just</authors>
+		<jconf>AI Soc.</jconf>
+		<id>749101</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>NURBS for curve and surface design: G. Farin(Ed.) SIAM, 1991, 161 pp, ISBN 0-89871-286-6</title>
+		<year>1993</year>
+		<authors>Thomas Hermann,Gabor Renner</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778611</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Curve and surface design: H. Hagen (Ed.) SIAM, USA (1992), 219 pp, ISBN 089871-281-5</title>
+		<year>1993</year>
+		<authors>Thomas Hermann,Gabor Renner</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>778612</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Geometrical criteria on the higher order smoothness of composite surfaces</title>
+		<year>1999</year>
+		<authors>Thomas Hermann,Gabor Lukacs,Franz-Erich Wolter</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780335</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Note on the RGB-patch concept</title>
+		<year>1992</year>
+		<authors>Thomas Hermann,Gabor Renner</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780344</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Degree elevation for generalized Poisson functions</title>
+		<year>2002</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780407</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a tolerance problem of parametric curves and surfaces</title>
+		<year>1992</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780409</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>G2 interpolation of free form curve networks by biquintic Gregory patches</title>
+		<year>1996</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780411</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the smoothness of offset surfaces</title>
+		<year>1998</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780413</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the derivatives of second and third degree rational Bezier curves</title>
+		<year>1999</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780415</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On higher order derivatives of blending functions</title>
+		<year>2000</year>
+		<authors>Thomas Hermann,Gabor Lukacs</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780417</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new insight into the Gn continuity of polynomial surfaces</title>
+		<year>1996</year>
+		<authors>Thomas Hermann,Gabor Lukacs</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780419</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proof of the nonintersection conjecture of Hoffmann and Peters</title>
+		<year>1998</year>
+		<authors>Thomas Hermann,Gabor Lukacs</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>780421</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identification of discriminative features in the EEG</title>
+		<year>2004</year>
+		<authors>Peter Meinicke,Thomas Hermann,Holger Bekel,H. M. Muller,S. Weiss,Helge Ritter</authors>
+		<jconf>Intell. Data Anal.</jconf>
+		<id>893268</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Guest Editors' Introduction: An Introduction to Interactive Sonification</title>
+		<year>2005</year>
+		<authors>Thomas Hermann,Andy Hunt</authors>
+		<jconf>IEEE MultiMedia</jconf>
+		<id>893912</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Das Verbundprojekt ``Veranderungen der Wissensproduktion und -verteilung durch Expertensysteme'</title>
+		<year>1990</year>
+		<authors>Armin B. Cremers,Thomas Hermann</authors>
+		<jconf>KI</jconf>
+		<id>1004926</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The guide RNA database</title>
+		<year>1997</year>
+		<authors>Augustine E. Souza,Thomas Hermann,H. Ulrich Goringer</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1019869</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Crystallization sonification of high-dimensional datasets</title>
+		<year>2005</year>
+		<authors>Thomas Hermann,Helge Ritter</authors>
+		<jconf>TAP</jconf>
+		<id>1077644</id>
+		<label>1</label>
+		<organization>Bielefeld University, Bielefeld, Germany</organization>
+	</publication>
+	<publication>
+		<title>Model-based sonification revisited---authors' comments on Hermann and Ritter, ICAD 2002</title>
+		<year>2005</year>
+		<authors>Thomas Hermann,Helge Ritter</authors>
+		<jconf>TAP</jconf>
+		<id>1077646</id>
+		<label>1</label>
+		<organization>Bielefeld University, Bielefeld, Germany</organization>
+	</publication>
+	<publication>
+		<title>Mediated attention with multimodal augmented reality</title>
+		<year>2009</year>
+		<authors>Angelika Dierker,Christian Mertes,Thomas Hermann,Marc Hanheide,Gerhard Sagerer</authors>
+		<jconf>ICMI</jconf>
+		<id>1247955</id>
+		<label>1</label>
+		<organization>Bielefeld University, Bielefeld, Germany</organization>
+	</publication>
+	<publication>
+		<title>Augmented Haptics - An Interactive Feedback System for Musicians</title>
+		<year>2009</year>
+		<authors>Tobias Grosshauser,Thomas Hermann</authors>
+		<jconf>HAID</jconf>
+		<id>1258017</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Note on the RBG-patch concept</title>
+		<year>1992</year>
+		<authors>Thomas Hermann,Gábor Renner</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>1501114</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the derivatives of second and third degree rational B&eacute;zier curves</title>
+		<year>1999</year>
+		<authors>Thomas Hermann</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>1549587</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Geometric criteria on the higher order smoothness of composite surfaces</title>
+		<year>1999</year>
+		<authors>Thomas Hermann,Gábor Lukács,Franz-Erich Wolter</authors>
+		<jconf>Computer Aided Geometric Design</jconf>
+		<id>1553936</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>tacTiles for Ambient Intelligence and Interactive Sonification</title>
+		<year>2008</year>
+		<authors>Thomas Hermann,Risto Kõiva</authors>
+		<jconf>Proceedings of the 3rd international workshop on Haptic and Audio Interaction Design</jconf>
+		<id>1599514</id>
+		<label>1</label>
+		<organization>Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501</organization>
+	</publication>
+	<publication>
+		<title>Augmented Haptics --- An Interactive Feedback System for Musicians</title>
+		<year>2009</year>
+		<authors>Tobias Grosshauser,Thomas Hermann</authors>
+		<jconf>Proceedings of the 4th International Conference on Haptic and Audio Interaction Design</jconf>
+		<id>1650089</id>
+		<label>1</label>
+		<organization>Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany</organization>
+	</publication>
+</person>

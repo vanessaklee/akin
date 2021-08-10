@@ -3,7 +3,8 @@ defmodule Akin.Similarity.JaroWinkler do
   Calculates the [Jaro-Winkler Distance](http://en.wikipedia.org/wiki/
   Jaro-Winkler_distance) between two strings.
   """
-  @behaviour Akin.StringMetric
+  # @behaviour Akin.StringMetric
+  use Akin.StringMetric
 
   @doc """
   Calculates the Jaro-Winkler distance between two strings.

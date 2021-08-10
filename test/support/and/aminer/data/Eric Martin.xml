@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>1082704</personID>
+	<FullName>Éric Martin</FullName>
+	<FirstName>Éric</FirstName>
+	<LastName>Martin</LastName>
+	<publication>
+		<title>Quantification over names and modalities</title>
+		<year>2006</year>
+		<authors>Eric Martin</authors>
+		<jconf>Advances in Modal Logic</jconf>
+		<id>34449</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Absolute Versus Probabilistic Classification in a Logical Setting</title>
+		<year>2005</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39381</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning, Logic, and Topology in a Common Framework</title>
+		<year>2002</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39456</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Ordinal VC-Dimension and Some Notions of Complexity</title>
+		<year>2003</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39458</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Data Consumption Benefits of Accepting Increased Uncertainty</title>
+		<year>2004</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>ALT</jconf>
+		<id>39460</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Foundations for a Formalism of Nearness</title>
+		<year>2002</year>
+		<authors>Jane Brennan,Eric Martin</authors>
+		<jconf>Australian Joint Conference on Artificial Intelligence</jconf>
+		<id>59201</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Membership Functions for Spatial Proximity</title>
+		<year>2006</year>
+		<authors>Jane Brennan,Eric Martin</authors>
+		<jconf>Australian Conference on Artificial Intelligence</jconf>
+		<id>59203</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Input-Dependence in Function-Learning</title>
+		<year>2007</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>CiE</jconf>
+		<id>94962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory accesses management during high level synthesis</title>
+		<year>2004</year>
+		<authors>Gwenole Corre,Eric Senn,Pierre Bomel,Nathalie Julien,Eric Martin</authors>
+		<jconf>CODES+ISSS</jconf>
+		<id>105991</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On a Syntactic Characterization of Classification with a Mind Change Bound</title>
+		<year>2005</year>
+		<authors>Eric Martin,Arun Sharma</authors>
+		<jconf>COLT</jconf>
+		<id>109165</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Level Design Flow for Incorporating IP Cores: Case Study of 1D Wavelet IP Integration</title>
+		<year>2003</year>
+		<authors>Adel Baganne,Imed Bennour,Mehrez Elmarzougui,Riadh Gaiech,Eric Martin</authors>
+		<jconf>DATE</jconf>
+		<id>141366</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synchronization Processor Synthesis for Latency Insensitive Systems</title>
+		<year>2005</year>
+		<authors>Pierre Bomel,Eric Martin,Emmanuel Boutillon</authors>
+		<jconf>DATE</jconf>
+		<id>141558</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Functional Level Power Analysis: An Efficient Approach for Modeling the Power Consumption of Complex Processors</title>
+		<year>2004</year>
+		<authors>Johann Laurent,Nathalie Julien,Eric Senn,Eric Martin</authors>
+		<jconf>DATE</jconf>
+		<id>142330</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the Convergence of Incremental Knowledge Base Construction.</title>
+		<year>2004</year>
+		<authors>Tri M. Cao,Eric Martin,Paul Compton</authors>
+		<jconf>Discovery Science</jconf>
+		<id>156626</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A General Theory of Deduction, Induction, and Learning</title>
+		<year>2001</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Discovery Science</jconf>
+		<id>156769</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Each Other</title>
+		<year>2008</year>
+		<authors>Christopher Dartnell,Eric Martin,Jean Sallantin</authors>
+		<jconf>Discovery Science</jconf>
+		<id>157029</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Consumption Characterization and Modeling of Embedded Memories in XILINX VIRTEX 400E FPGA</title>
+		<year>2004</year>
+		<authors>David Elleouet,Nathalie Julien,Dominique Houzet,J.-G. Cousin,Eric Martin</authors>
+		<jconf>DSD</jconf>
+		<id>160825</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-Level Synthesis in Latency Insensitive System Methodology</title>
+		<year>2005</year>
+		<authors>Pierre Bomel,Nabil Abdelli,Eric Martin,Anne-Marie Fouilliart,Emmanuel Boutillon,Philippe Kajfasz</authors>
+		<jconf>DSD</jconf>
+		<id>160871</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory Aware HLS and the Implementation of Ageing Vectors</title>
+		<year>2004</year>
+		<authors>Gwenole Corre,Eric Senn,Nathalie Julien,Eric Martin</authors>
+		<jconf>DSD</jconf>
+		<id>160918</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Complete Methodology for Memory Optimization in DSP Applications</title>
+		<year>2004</year>
+		<authors>Florian Marteil,Nathalie Julien,Eric Senn,Eric Martin</authors>
+		<jconf>DSD</jconf>
+		<id>161039</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A note on the use of probabilities by mechanical learners</title>
+		<year>1995</year>
+		<authors>Eric Martin,Daniel N. Osherson</authors>
+		<jconf>EuroCOLT</jconf>
+		<id>192624</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hardware interface design for real time embedded systems</title>
+		<year>1997</year>
+		<authors>Adel Baganne,Jean Luc Philippe,Eric Martin</authors>
+		<jconf>Great Lakes Symposium on VLSI</jconf>
+		<id>233708</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A memory aware behavioral synthesis tool for real-time VLSI circuits</title>
+		<year>2004</year>
+		<authors>Gwenole Corre,Eric Senn,Nathalie Julien,Eric Martin</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>233753</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low Power Design of an Acoustic Echo Canceller Gmdf a Algorithm on Dedicated VLSI Architectures</title>
+		<year>1999</year>
+		<authors>S. Gailhard,Nathalie Julien,Adel Baganne,Eric Martin</authors>
+		<jconf>Great Lakes Symposium on VLSI</jconf>
+		<id>233828</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>How to Transform an Architectural Synthesis Tool for Low Power VLSI Designs</title>
+		<year>1998</year>
+		<authors>S. Gailhard,Nathalie Julien,Jean-Philippe Diguet,Eric Martin</authors>
+		<jconf>Great Lakes Symposium on VLSI</jconf>
+		<id>233829</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A design methodology for space-time adapter</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234516</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neural Network Based Algorithm for Radiation Dose Evaluation in Heterogeneous Environments</title>
+		<year>2006</year>
+		<authors>Jacques M. Bahi,Sylvain Contassot-Vivier,Libor Makovicka,Eric Martin,Marc Sauget</authors>
+		<jconf>ICANN (2)</jconf>
+		<id>271330</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A design flow dedicated to multi-mode architectures for DSP applications</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Caaliph Andriamisaina,Philippe Coussy,Emmanuel Casseau,Emmanuel Juin,Pascal Urard,Eric Martin</authors>
+		<jconf>ICCAD</jconf>
+		<id>283658</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>ICGI</jconf>
+		<id>311057</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Limiting Resolution: From Foundations to Implementation</title>
+		<year>2004</year>
+		<authors>Patrick Caldon,Eric Martin</authors>
+		<jconf>ICLP</jconf>
+		<id>327774</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning in Logic with RichProlog</title>
+		<year>2002</year>
+		<authors>Eric Martin,Phuong Nguyen,Arun Sharma,Frank Stephan</authors>
+		<jconf>ICLP</jconf>
+		<id>328379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autonomous Capture of a Tumbling Satellite</title>
+		<year>2006</year>
+		<authors>Guy Rouleau,Ioannis M. Rekleitis,Regent L'Archeveque,Eric Martin,Kourosh Parsa,Erick Dupuis</authors>
+		<jconf>ICRA</jconf>
+		<id>359018</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Vision System on Chip for Industrial Control</title>
+		<year>2001</year>
+		<authors>Eric Senn,Eric Martin</authors>
+		<jconf>VLSI-SOC</jconf>
+		<id>378634</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Architectural Synthesis with Interconnection Cost Control</title>
+		<year>1999</year>
+		<authors>Christophe Jego,Emmanuel Casseau,Eric Martin</authors>
+		<jconf>VLSI</jconf>
+		<id>378660</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Sufficient Conditions for Learnability of Logic Programs from Positive Data</title>
+		<year>1999</year>
+		<authors>Eric Martin,Arun Sharma</authors>
+		<jconf>ILP</jconf>
+		<id>395243</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reed-Solomon behavioral virtual component for communication systems</title>
+		<year>2004</year>
+		<authors>Emmanuel Casseau,Bertrand Le Gal,Christophe Jego,Nathalie Le Heno,Eric Martin</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>420371</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-level synthesis under I/O timing and memory constraints</title>
+		<year>2005</year>
+		<authors>Philippe Coussy,Gwenole Corre,Eric Senn,Pierre Bomel,Eric Martin</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>420770</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A design methodology for IP integration</title>
+		<year>2002</year>
+		<authors>Philippe Coussy,Adel Baganne,Eric Martin</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>427902</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Methodology for Efficient Space-Time Adapter Design Space Exploration: A Case Study of an Ultra Wide Band Interleaver</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>ISCAS</jconf>
+		<id>428785</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Estimation of a C Algorithm Based on the Functional-Level Power Analysis of a Digital Signal Processor</title>
+		<year>2002</year>
+		<authors>Nathalie Julien,Johann Laurent,Eric Senn,Eric Martin</authors>
+		<jconf>ISHPC</jconf>
+		<id>435379</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Memory Aware High Level Synthesis Tool </title>
+		<year>2004</year>
+		<authors>Gwenole Corre,Eric Senn,Nathalie Julien,Eric Martin</authors>
+		<jconf>ISVLSI</jconf>
+		<id>452244</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pipelined Memory Controllers for DSP Applications Handling Unpredictable Data Accesses</title>
+		<year>2005</year>
+		<authors>Bertrand Le Gal,Emmanuel Casseau,Sylvain Huet,Eric Martin</authors>
+		<jconf>ISVLSI</jconf>
+		<id>452286</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Consumption Estimation of a C Program for Data-Intensive Applications</title>
+		<year>2002</year>
+		<authors>Eric Senn,Nathalie Julien,Johann Laurent,Eric Martin</authors>
+		<jconf>PATMOS</jconf>
+		<id>530904</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SoftExplorer: Estimation, Characterization, and Optimization of the Power and Energy Consumption at the Algorithmic Level</title>
+		<year>2004</year>
+		<authors>Eric Senn,Johann Laurent,Nathalie Julien,Eric Martin</authors>
+		<jconf>PATMOS</jconf>
+		<id>530906</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DVB-DSNG Modem High Level Synthesis in an Optimized Latency Insensitive System Context</title>
+		<year>2005</year>
+		<authors>Pierre Bomel,Nabil Abdelli,Eric Martin,Anne-Marie Fouilliart,Emmanuel Boutillon,Philippe Kajfasz</authors>
+		<jconf>SAMOS</jconf>
+		<id>572058</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Communication and Timing Constraints Analysis for IP Design and Integration</title>
+		<year>2003</year>
+		<authors>Philippe Coussy,Adel Baganne,Eric Martin</authors>
+		<jconf>VLSI-SOC</jconf>
+		<id>644393</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SystemCmantic: A high level Modelling and Co-Design Framework</title>
+		<year>2005</year>
+		<authors>L. Kriaa,S. Adriano,E. Vaumorin,R. Nouacer,F. Blanc,S. Pajaniardja,Philippe Coussy,Eric Martin,D. Heller,F. Thabet,Anne-Marie Fouilliart</authors>
+		<jconf>FDL</jconf>
+		<id>732281</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Methodology for Efficient Space-Time Adapter Design Space Exploration: A Case Study of an Ultra Wide Band Interleaver</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>820820</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Design Methodology for Space-Time Adapter</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>820850</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Methodologie de modelisation et d'implementation d'adaptateurs spatio-temporels</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>820856</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of a design space exploration tool to enhance interleaver generation</title>
+		<year>2007</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Pascal Urard,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>820864</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Integration de la synthese memoire dans l'outil de synthese d'architecture GAUT Low Power</title>
+		<year>2006</year>
+		<authors>Gwenole Corre,Nathalie Julien,Eric Senn,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>822629</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-level synthesis under I/O Timing and Memory constraints</title>
+		<year>2006</year>
+		<authors>Philippe Coussy,Gwenole Corre,Pierre Bomel,Eric Senn,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>822630</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Memory Aware High Level Synthesis Too</title>
+		<year>2006</year>
+		<authors>Gwenole Corre,Nathalie Julien,Eric Senn,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>822631</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Memory Aware High-Level Synthesis for Embedded Systems</title>
+		<year>2006</year>
+		<authors>Gwenole Corre,Eric Senn,Nathalie Julien,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>822632</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthese Comportementale Sous Contraintes de Communication et de Placement Memoire pour les composants du TDSI</title>
+		<year>2006</year>
+		<authors>Gwenole Corre,Philippe Coussy,Pierre Bomel,Eric Senn,Eric Martin</authors>
+		<jconf>CoRR</jconf>
+		<id>822633</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synchronization Processor Synthesis for Latency Insensitive Systems</title>
+		<year>2007</year>
+		<authors>Pierre Bomel,Eric Martin,Emmanuel Boutillon</authors>
+		<jconf>CoRR</jconf>
+		<id>824038</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2004</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Electronic Colloquium on Computational Complexity (ECCC)</jconf>
+		<id>861453</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction by Enumeration</title>
+		<year>2001</year>
+		<authors>Eric Martin,Daniel N. Osherson</authors>
+		<jconf>Inf. Comput.</jconf>
+		<id>888820</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Constrained algorithmic IP design for system-on-chip</title>
+		<year>2007</year>
+		<authors>Philippe Coussy,Emmanuel Casseau,Pierre Bomel,Adel Baganne,Eric Martin</authors>
+		<jconf>Integration</jconf>
+		<id>927154</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sensitivity Analysis and Other Improvements to Tailored Combinatorial Library Design</title>
+		<year>2000</year>
+		<authors>Eric Martin,Alex Wong</authors>
+		<jconf>Journal of Chemical Information and Computer Sciences</jconf>
+		<id>967614</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scientific Discovery Based on Belief Revision</title>
+		<year>1997</year>
+		<authors>Eric Martin,Daniel N. Osherson</authors>
+		<jconf>J. Symb. Log.</jconf>
+		<id>1000159</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Consumption Modeling and Characterization of the TI C6201</title>
+		<year>2003</year>
+		<authors>Nathalie Julien,Johann Laurent,Eric Senn,Eric Martin</authors>
+		<jconf>IEEE Micro</jconf>
+		<id>1008474</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Clusters from Positive Data</title>
+		<year>2006</year>
+		<authors>John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1058793</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning power and language expressiveness</title>
+		<year>2003</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1093286</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Unifying logic, topology and learning in Parametric logic</title>
+		<year>2006</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1093288</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On ordinal VC-dimension and some notions of complexity</title>
+		<year>2006</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095559</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the data consumption benefits of accepting increased uncertainty</title>
+		<year>2007</year>
+		<authors>Eric Martin,Arun Sharma,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1095773</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Absolute versus probabilistic classification in a logical setting</title>
+		<year>2008</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096079</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A formal method for hardware IP design and integration under I/O and timing constraints</title>
+		<year>2006</year>
+		<authors>Philippe Coussy,Emmanuel Casseau,Pierre Bomel,Adel Baganne,Eric Martin</authors>
+		<jconf>ACM Trans. Embedded Comput. Syst.</jconf>
+		<id>1098650</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthese architecturale d'applications temps reel pour technologies submicroniques</title>
+		<year>2004</year>
+		<authors>Emmanuel Casseau,Christophe Jego,Eric Martin</authors>
+		<jconf>Technique et Science Informatiques</jconf>
+		<id>1130285</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Estimation et optimisation de la consommation des memoires</title>
+		<year>2008</year>
+		<authors>Gwenole Corre,Eric Senn,Nathalie Julien,Eric Martin</authors>
+		<jconf>Technique et Science Informatiques</jconf>
+		<id>1130529</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of a flexible 2-D discrete wavelet transform IP core for JPEG2000 image coding in embedded imaging systems</title>
+		<year>2006</year>
+		<authors>Guillaume Savaton,Emmanuel Casseau,Eric Martin</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1150234</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>G729 Voice Decoder Design</title>
+		<year>2006</year>
+		<authors>Fatma Sayadi,Emmanuel Casseau,Mohamed Atri,Mehrez Marzougui,Rached Tourki,Eric Martin</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165241</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Co-Design Methodology for Telecommunication Systems: A Case Study of an Acoustic Echo Canceller</title>
+		<year>1999</year>
+		<authors>Adel Baganne,Jean Luc Philippe,Eric Martin</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165578</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Low Power Synthesis Methodology with Data Format Optimization Applied on a DWT</title>
+		<year>2003</year>
+		<authors>Nathalie Julien,S. Gailhard,Eric Martin</authors>
+		<jconf>VLSI Signal Processing</jconf>
+		<id>1165599</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human Discovery and Machine Learning</title>
+		<year>2008</year>
+		<authors>Christopher Dartnell,Eric Martin,Helene Hagege,Jean Sallantin</authors>
+		<jconf>IJCINI</jconf>
+		<id>1169230</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autonomous capture of a tumbling satellite</title>
+		<year>2007</year>
+		<authors>Ioannis M. Rekleitis,Eric Martin,Guy Rouleau,Regent L'Archeveque,Kourosh Parsa,Erick Dupuis</authors>
+		<jconf>J. Field Robotics</jconf>
+		<id>1195711</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Dialectic Approach to Problem-Solving</title>
+		<year>2009</year>
+		<authors>Eric Martin,Jean Sallantin</authors>
+		<jconf>Discovery Science</jconf>
+		<id>1241806</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design Space Exploration of DSP Applications Based on Behavioral Description Models</title>
+		<year>2006</year>
+		<authors>Farhat Thabet,Philippe Coussy,Dominique Heller,Eric Martin</authors>
+		<jconf>Genomics, Proteomics & Bioinformatics</jconf>
+		<id>1262210</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploration and Rapid Prototyping of DSP Applications using SystemC Behavioral Simulation and High-level Synthesis</title>
+		<year>2009</year>
+		<authors>Farhat Thabet,Philippe Coussy,Dominique Heller,Eric Martin</authors>
+		<jconf>Signal Processing Systems</jconf>
+		<id>1284336</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Static Address Generation Easing: a Design Methodology for Parallel Interleaver Architectures</title>
+		<year>2010</year>
+		<authors>Cyrille Chavet,Philippe Coussy,Eric Martin,Pascal Urard</authors>
+		<jconf>CoRR</jconf>
+		<id>1336158</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Input-Dependence in Function-Learning.</title>
+		<year>2009</year>
+		<authors>Sanjay Jain,Eric Martin,Frank Stephan</authors>
+		<jconf>Theory Comput. Syst.</jconf>
+		<id>1340782</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Power Estimation of a C Algorithm Based on the Functional-Level Power Analysis of a Digital Signal Processor</title>
+		<year>2009</year>
+		<authors>Nathalie Julien,Johann Laurent,Eric Senn,Eric Martin</authors>
+		<jconf>Proceedings of the 4th International Symposium on High Performance Computing</jconf>
+		<id>1433407</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning from Each Other</title>
+		<year>2008</year>
+		<authors>Christopher Dartnell,Éric Martin,Jean Sallantin</authors>
+		<jconf>Proceedings of the 11th International Conference on Discovery Science</jconf>
+		<id>1746973</id>
+		<label>0</label>
+		<organization>School of Computer Science and Eng., UNSW, Sydney, Australia NSW 2052</organization>
+	</publication>
+</person>

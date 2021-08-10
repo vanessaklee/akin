@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>6790</personID>
+	<FullName>Wei Xu</FullName>
+	<FirstName>Wei</FirstName>
+	<LastName>Xu</LastName>
+	<publication>
+		<title>Extending OBDD Graphs for Composite Event Matching in Content-Based Pub/Sub Systems</title>
+		<year>2005</year>
+		<authors>Gang Xu,Wei Xu,Tao Huang</authors>
+		<jconf>ACIS-ICIS</jconf>
+		<id>4675</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on Models of Concept and Relation between Concepts Adapted for Semantic Disambiguation of Natural Language</title>
+		<year>2006</year>
+		<authors>Ke Zhao,Gangwei Hu,Wei Xu,Yatao Li</authors>
+		<jconf>IEEE ICCI</jconf>
+		<id>9155</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extractive Summarization using Inter- and Intra- Event Relevance</title>
+		<year>2006</year>
+		<authors>Wenjie Li,Mingli Wu,Qin Lu,Wei Xu,Chunfa Yuan</authors>
+		<jconf>ACL</jconf>
+		<id>20779</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CCSMOMS: A Composite Communication Scheme for Mobile Object Management System</title>
+		<year>2006</year>
+		<authors>Xiaobo Fan,Wei Xu,Hong Chen,Lei Liu</authors>
+		<jconf>AINA (2)</jconf>
+		<id>35250</id>
+		<label>5</label>
+		<organization>U.C. Berkeley</organization>
+	</publication>
+	<publication>
+		<title>The Distance Between Randomly Constructed Genomes</title>
+		<year>2007</year>
+		<authors>Wei Xu</authors>
+		<jconf>APBC</jconf>
+		<id>43654</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Application Server Based Web Services Management</title>
+		<year>2005</year>
+		<authors>Heqing Guan,Beihong Jin,Jun Wei,Wei Xu,Ningjiang Chen</authors>
+		<jconf>APSEC</jconf>
+		<id>47157</id>
+		<label>0</label>
+		<organization>Graduate School, Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Deriving Event Relevance from the Ontology Constructed with Formal Concept Analysis</title>
+		<year>2006</year>
+		<authors>Wei Xu,Wenjie Li,Mingli Wu,Wei Li,Chunfa Yuan</authors>
+		<jconf>CICLing</jconf>
+		<id>94382</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Category-Based Web Personalization System</title>
+		<year>2001</year>
+		<authors>Ching-Cheng Lee,Wei Xu</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112314</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Dynamic Process with Variable Structure by Reflection</title>
+		<year>2003</year>
+		<authors>Shaohua Liu,Jun Wei,Wei Xu</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112378</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SOWAC: A Service-Oriented Workflow Access Control Model</title>
+		<year>2004</year>
+		<authors>Wei Xu,Jun Wei,Yu Liu,Jing Li</authors>
+		<jconf>COMPSAC</jconf>
+		<id>112938</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>An Algorithm for Solving Scaled Total Least Squares Problems</title>
+		<year>2008</year>
+		<authors>Sanzheng Qiao,Wei Xu,Yimin Wei</authors>
+		<jconf>CSC</jconf>
+		<id>121473</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Algorithm for Multiple Object Trajectory Tracking</title>
+		<year>2004</year>
+		<authors>Mei Han,Wei Xu,Hai Tao,Yihong Gong</authors>
+		<jconf>CVPR (1)</jconf>
+		<id>128040</id>
+		<label>17</label>
+		<organization>NEC Labs. America, Cupertino, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Channel Algorithm for Edge Detection Under Varying Lighting</title>
+		<year>2006</year>
+		<authors>Wei Xu,Michael Jenkin,Yves Lesperance</authors>
+		<jconf>CVPR (2)</jconf>
+		<id>129487</id>
+		<label>19</label>
+		<organization>University of Colorado at Boulder</organization>
+	</publication>
+	<publication>
+		<title>Soft Edge Smoothness Prior for Alpha Channel Super Resolution</title>
+		<year>2007</year>
+		<authors>Shengyang Dai,Mei Han,Wei Xu,Ying Wu,Yihong Gong</authors>
+		<jconf>CVPR</jconf>
+		<id>129819</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Discriminative learning of visual words for 3D human pose estimation</title>
+		<year>2008</year>
+		<authors>Huazhong Ning,Wei Xu,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>CVPR</jconf>
+		<id>130233</id>
+		<label>17</label>
+		<organization>Dept. of ECE, Illinois Univ., Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Control Considerations for Scalable Event Processing</title>
+		<year>2005</year>
+		<authors>Wei Xu,Joseph L. Hellerstein,Bill Kramer,David A. Patterson</authors>
+		<jconf>DSOM</jconf>
+		<id>162289</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Latent Pose Estimator for Continuous Action Recognition</title>
+		<year>2008</year>
+		<authors>Huazhong Ning,Wei Xu,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>ECCV (2)</jconf>
+		<id>169652</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., USA</organization>
+	</publication>
+	<publication>
+		<title>Training Hierarchical Feed-Forward Visual Recognition Models Using Transfer Learning from Pseudo-Tasks</title>
+		<year>2008</year>
+		<authors>Amr Ahmed,Kai Yu,Wei Xu,Yihong Gong,Eric P. Xing</authors>
+		<jconf>ECCV (3)</jconf>
+		<id>169724</id>
+		<label>17</label>
+		<organization>NEC Labs America, Cupertino, CA 95014</organization>
+	</publication>
+	<publication>
+		<title>An Extended Event Matching Approach in Content-based Pub/Sub Systems for EAI</title>
+		<year>2005</year>
+		<authors>Gang Xu,Wei Xu,Tao Huang</authors>
+		<jconf>EDOC</jconf>
+		<id>177651</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences</organization>
+	</publication>
+	<publication>
+		<title>Zum Einsatzpotenzial von Wetterderivaten in der Landwirtschaft - dargestellt am Beispiel einer Niederschlagsoption</title>
+		<year>2006</year>
+		<authors>Oliver Mushoff,Martin Odening,Wei Xu</authors>
+		<jconf>GIL Jahrestagung</jconf>
+		<id>232416</id>
+		<label>23</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design of a nanosensor array architecture</title>
+		<year>2004</year>
+		<authors>Wei Xu,Narayanan Vijaykrishnan,Yuan Xie,Mary Jane Irwin</authors>
+		<jconf>ACM Great Lakes Symposium on VLSI</jconf>
+		<id>234319</id>
+		<label>25</label>
+		<organization>The Pennsylvania State University, University Park, PA</organization>
+	</publication>
+	<publication>
+		<title>A Component-Based Analytical Performance Model of IP-Based SAN</title>
+		<year>2008</year>
+		<authors>Min Wang,Wei Xu,Lu Xu</authors>
+		<jconf>GPC</jconf>
+		<id>235542</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparative Hypertext Approaches to Ergonomic Training</title>
+		<year>1997</year>
+		<authors>Wei Xu,Marvin J. Dainoff</authors>
+		<jconf>HCI (2)</jconf>
+		<id>240884</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on the Status Quo and System Architecture of the Web Information Resource Evaluation</title>
+		<year>2007</year>
+		<authors>Wei Xu,Ji Liu,Xiangxing Shen</authors>
+		<jconf>I3E (2)</jconf>
+		<id>258502</id>
+		<label>26</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient user Scheduling under Low Rate Feedback for Correlated MIMO Broadcast Channels</title>
+		<year>2008</year>
+		<authors>Wei Xu,Chunming Zhao,Zhi Ding</authors>
+		<jconf>ICC</jconf>
+		<id>276323</id>
+		<label>30</label>
+		<organization>Nat. Mobile Commun. Res. Lab., Southeast Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Error Probability of OFDM Systems Impaired by Carrier Frequency Offset in Frequency Selective Rayleigh Fading Channels</title>
+		<year>2007</year>
+		<authors>Peng Zhou,Ming Jiang,Chunming Zhao,Wei Xu</authors>
+		<jconf>ICC</jconf>
+		<id>277629</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Adaptive Resource Allocation for Multiuser OFDM Systems with Minimum Rate Constraints</title>
+		<year>2007</year>
+		<authors>Wei Xu,Chunming Zhao,Peng Zhou,Yijin Yang</authors>
+		<jconf>ICC</jconf>
+		<id>277787</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Hybrid Approach for Analysis of Factors Affecting Crude Oil Price</title>
+		<year>2007</year>
+		<authors>Wei Xu,Jue Wang,Xun Zhang,Wen Zhang,Shouyang Wang</authors>
+		<jconf>International Conference on Computational Science (3)</jconf>
+		<id>280801</id>
+		<label>31</label>
+		<organization>School of Management, Graduate University of Chinese Academy of Sciences, Chinese Academy of Sciences, Beijing, 100080, China</organization>
+	</publication>
+	<publication>
+		<title>Building Document Graphs for Multiple News Articles Summarization: An Event-Based Approach</title>
+		<year>2006</year>
+		<authors>Wei Xu,Chunfa Yuan,Wenjie Li,Mingli Wu,Kam-Fai Wong</authors>
+		<jconf>ICCPOL</jconf>
+		<id>289806</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Provably Correct Runtime Enforcement of Non-interference Properties</title>
+		<year>2006</year>
+		<authors>V. N. Venkatakrishnan,Wei Xu,Daniel C. DuVarney,R. Sekar</authors>
+		<jconf>ICICS</jconf>
+		<id>314958</id>
+		<label>32</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Speaker Diarization by Cross EM Refinement</title>
+		<year>2006</year>
+		<authors>Huazhong Ning,Wei Xu,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>ICME</jconf>
+		<id>331828</id>
+		<label>17</label>
+		<organization>Beckman Inst., Univ. of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Efficient Video Object Segmentation by Graph-Cut</title>
+		<year>2007</year>
+		<authors>Jinjun Wang,Wei Xu,Shenghuo Zhu,Yihong Gong</authors>
+		<jconf>ICME</jconf>
+		<id>332993</id>
+		<label>17</label>
+		<organization>NEC Lab. America, Cupertino</organization>
+	</publication>
+	<publication>
+		<title>Detecting Unsafe Driving Patterns using Discriminative Learning</title>
+		<year>2007</year>
+		<authors>Yue Zhou,Wei Xu,Huazhong Ning,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>ICME</jconf>
+		<id>333109</id>
+		<label>17</label>
+		<organization>Univ. of Illinois, Urbana</organization>
+	</publication>
+	<publication>
+		<title>Interfacial Behavior of Complex Hydrocarbon Fluids at Elevated Pressures and Temperatures</title>
+		<year>2005</year>
+		<authors>Subhash C. Ayirala,Wei Xu,Dandina N. Rao</authors>
+		<jconf>ICMENS</jconf>
+		<id>333595</id>
+		<label>34</label>
+		<organization>The Craft and Hawkins Department of Petroleum Engineering Louisiana State University Baton Rouge, LA 70803-6417, USA</organization>
+	</publication>
+	<publication>
+		<title>Compositional Dependence of Wetting and Contact Angles in Solid-Liquid-Liquid Systems under Realistic Environments</title>
+		<year>2005</year>
+		<authors>Wei Xu,Subhash C. Ayirala,Dandina N. Rao</authors>
+		<jconf>ICMENS</jconf>
+		<id>333894</id>
+		<label>34</label>
+		<organization>Dept. of Pet. Eng., Louisiana State Univ., Baton Rouge, LA, USA</organization>
+	</publication>
+	<publication>
+		<title>Exploration and Exploitation in Adaptive Filtering Based on Bayesian Active Learning</title>
+		<year>2003</year>
+		<authors>Yi Zhang,Wei Xu,James P. Callan</authors>
+		<jconf>ICML</jconf>
+		<id>336046</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Video Foreground Segmentation Based on Sequential Feature Clustering</title>
+		<year>2006</year>
+		<authors>Mei Han,Wei Xu,Yihong Gong</authors>
+		<jconf>ICPR (1)</jconf>
+		<id>346940</id>
+		<label>17</label>
+		<organization>NEC Laboratories America Cupertino, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>A Conditional Random Field Model for Video Super-resolution</title>
+		<year>2006</year>
+		<authors>Dan Kong,Mei Han,Wei Xu,Hai Tao,Yihong Gong</authors>
+		<jconf>ICPR (3)</jconf>
+		<id>347421</id>
+		<label>17</label>
+		<organization>NEC Labs America, Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Robust relative pose estimation with integrated cheirality constraint</title>
+		<year>2008</year>
+		<authors>Wei Xu,Jane Mulligan</authors>
+		<jconf>ICPR</jconf>
+		<id>349682</id>
+		<label>19</label>
+		<organization>Dept. of Comput. Sci., Univ. of Colorado, Boulder, CO</organization>
+	</publication>
+	<publication>
+		<title>Temporal difference learning to detect unsafe system states</title>
+		<year>2008</year>
+		<authors>Huazhong Ning,Wei Xu,Yue Zhou,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>ICPR</jconf>
+		<id>349707</id>
+		<label>17</label>
+		<organization>ECE Dept., U. of Illinois at Urbana-Champaign, Urbana, IL</organization>
+	</publication>
+	<publication>
+		<title>Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System</title>
+		<year>2006</year>
+		<authors>Olena Borzenko,Wei Xu,Mark Obsniuk,Arjun Chopra,Piotr Jasiobedzki,Michael R. M. Jenkin,Yves Lesperance</authors>
+		<jconf>ICVS</jconf>
+		<id>368789</id>
+		<label>19</label>
+		<organization>York University, Toronto, Canada.</organization>
+	</publication>
+	<publication>
+		<title>A Framework for Building Privacy-Conscious Composite Web Services</title>
+		<year>2006</year>
+		<authors>Wei Xu,V. N. Venkatakrishnan,R. Sekar,I. V. Ramakrishnan</authors>
+		<jconf>ICWS</jconf>
+		<id>370930</id>
+		<label>32</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>Spin-transfer torque magnetoresistive content addressable memory (CAM) cell structure design with enhanced search noise margin</title>
+		<year>2008</year>
+		<authors>Wei Xu,Tong Zhang,Yiran Chen</authors>
+		<jconf>ISCAS</jconf>
+		<id>431521</id>
+		<label>36</label>
+		<organization>ECSE Dept., Rensselaer Polytech. Inst., Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Extending OBDD Graphs for Composite Event Matching in Content-based Pub/Sub Systems</title>
+		<year>2005</year>
+		<authors>Gang Xu,Wei Xu,Tao Huang</authors>
+		<jconf>ISPDC</jconf>
+		<id>446948</id>
+		<label>0</label>
+		<organization>Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>An integrated baseball digest system using maximum entropy method</title>
+		<year>2002</year>
+		<authors>Mei Han,Wei Hua,Wei Xu,Yihong Gong</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502291</id>
+		<label>17</label>
+		<organization>C & C Research Laboratories, NEC USA, Inc.</organization>
+	</publication>
+	<publication>
+		<title>Video object segmentation by motion-based sequential feature clustering</title>
+		<year>2006</year>
+		<authors>Mei Han,Wei Xu,Yihong Gong</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>503485</id>
+		<label>17</label>
+		<organization>NEC Laboratories America</organization>
+	</publication>
+	<publication>
+		<title>Deep Learning with Kernel Regularization for Visual Recognition</title>
+		<year>2008</year>
+		<authors>Kai Yu,Wei Xu,Yihong Gong</authors>
+		<jconf>NIPS</jconf>
+		<id>518121</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining Console Logs for Large-Scale System Problem Detection</title>
+		<year>2008</year>
+		<authors>Wei Xu,Ling Huang,Armando Fox,David A. Patterson,Michael I. Jordan</authors>
+		<jconf>SysML</jconf>
+		<id>523930</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelism in Structured Newton Computations</title>
+		<year>2007</year>
+		<authors>Thomas F. Coleman,Wei Xu</authors>
+		<jconf>PARCO</jconf>
+		<id>529521</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Diversifying and Improving Business Process Management Systems by Service Cooperation Middleware</title>
+		<year>2003</year>
+		<authors>Shaohua Liu,Jun Wei,Wei Xu</authors>
+		<jconf>QSIC</jconf>
+		<id>557152</id>
+		<label>0</label>
+		<organization>Inst. of Software, Chinese Acad. of Sci., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Information Concept Lattice and Its Reductions</title>
+		<year>2007</year>
+		<authors>Wei Xu,Ping Xu,Wen-Xiu Zhang</authors>
+		<jconf>RSKT</jconf>
+		<id>562320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A hierarchical naive Bayes mixture model for name disambiguation in author citations</title>
+		<year>2005</year>
+		<authors>Hui Han,Wei Xu,Hongyuan Zha,C. Lee Giles</authors>
+		<jconf>SAC</jconf>
+		<id>567362</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities</title>
+		<year>2007</year>
+		<authors>Huazhong Ning,Wei Xu,Yun Chi,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>SDM</jconf>
+		<id>579283</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Literature-based Alignment of Ontologies</title>
+		<year>2008</year>
+		<authors>Patrick Lambrix,He Tan,Wei Xu</authors>
+		<jconf>OM</jconf>
+		<id>584209</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Document clustering with prior knowledge</title>
+		<year>2006</year>
+		<authors>Xiang Ji,Wei Xu</authors>
+		<jconf>SIGIR</jconf>
+		<id>594592</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Document clustering with cluster refinement and model selection capabilities</title>
+		<year>2002</year>
+		<authors>Xin Liu,Yihong Gong,Wei Xu,Shenghuo Zhu</authors>
+		<jconf>SIGIR</jconf>
+		<id>595360</id>
+		<label>17</label>
+		<organization>NEC USA, Inc, Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Document clustering by concept factorization</title>
+		<year>2004</year>
+		<authors>Wei Xu,Yihong Gong</authors>
+		<jconf>SIGIR</jconf>
+		<id>595994</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Document clustering based on non-negative matrix factorization</title>
+		<year>2003</year>
+		<authors>Wei Xu,Xin Liu,Yihong Gong</authors>
+		<jconf>SIGIR</jconf>
+		<id>595996</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Multi-labelled classification using maximum entropy method</title>
+		<year>2005</year>
+		<authors>Shenghuo Zhu,Xiang Ji,Wei Xu,Yihong Gong</authors>
+		<jconf>SIGIR</jconf>
+		<id>596001</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Fast exact maximum likelihood estimation for mixture of language models</title>
+		<year>2007</year>
+		<authors>Yi Zhang,Wei Xu</authors>
+		<jconf>SIGIR</jconf>
+		<id>596089</id>
+		<label>17</label>
+		<organization>NEC Lab America, Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>trNon-greedy active learning for text categorization using convex ansductive experimental design</title>
+		<year>2008</year>
+		<authors>Kai Yu,Shenghuo Zhu,Wei Xu,Yihong Gong</authors>
+		<jconf>SIGIR</jconf>
+		<id>596458</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Cupertino, USA</organization>
+	</publication>
+	<publication>
+		<title>An efficient and backwards-compatible transformation to ensure memory safety of C programs</title>
+		<year>2004</year>
+		<authors>Wei Xu,Daniel C. DuVarney,R. Sekar</authors>
+		<jconf>SIGSOFT FSE</jconf>
+		<id>601157</id>
+		<label>32</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>A Shared-Path-Protection Based Heuristic Algorithm for the Capacity Placement Problem in Mesh Networks</title>
+		<year>2007</year>
+		<authors>Wei Xu,Xingming Li</authors>
+		<jconf>SNPD (1)</jconf>
+		<id>608858</id>
+		<label>47</label>
+		<organization>University of Electronic Science and Technology of China Chengdu, China</organization>
+	</publication>
+	<publication>
+		<title>BUPT at TREC 2006: Spam Track</title>
+		<year>2006</year>
+		<authors>Zhen Yang,Wei Xu,Bo Chen,Weiran Xu,Jun Guo</authors>
+		<jconf>TREC</jconf>
+		<id>630689</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Nanosensor Array-Based VLSI Gas Discriminator</title>
+		<year>2005</year>
+		<authors>Kevin M. Irick,Wei Xu,Narayanan Vijaykrishnan,Mary Jane Irwin</authors>
+		<jconf>VLSI Design</jconf>
+		<id>645297</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Background Segmentation Using Spatial-Temporal Multi-Resolution MRF</title>
+		<year>2005</year>
+		<authors>Yue Zhou,Wei Xu,Hai Tao,Yihong Gong</authors>
+		<jconf>WACV/MOTION</jconf>
+		<id>651025</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc.</organization>
+	</publication>
+	<publication>
+		<title>A Transaction-Aware Coordination Protocol for Web Services Composition</title>
+		<year>2006</year>
+		<authors>Wei Xu,Wenqing Cheng,Wei Liu</authors>
+		<jconf>WISE</jconf>
+		<id>663914</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An approach for realizing privacy-preserving web-based services</title>
+		<year>2005</year>
+		<authors>Wei Xu,R. Sekar,I. V. Ramakrishnan,V. N. Venkatakrishnan</authors>
+		<jconf>WWW (Special interest tracks and posters)</jconf>
+		<id>674945</id>
+		<label>32</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>Research and Application of Spatio-temporal Data Mining Based on Ontology</title>
+		<year>2006</year>
+		<authors>Wei Xu,Hou-Kuan Huang</authors>
+		<jconf>ICICIC (2)</jconf>
+		<id>679308</id>
+		<label>1</label>
+		<organization>Sch. of Comput. & Inf. Technol., Beijing Jiaotong Univ.</organization>
+	</publication>
+	<publication>
+		<title>An Analytical Performance Model of IP-SAN</title>
+		<year>2008</year>
+		<authors>Min Wang,Liu Liu,Wei Xu,Lu Xu</authors>
+		<jconf>NAS</jconf>
+		<id>680893</id>
+		<label>0</label>
+		<organization>Inst. of Comput. Technol., Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Predictive Control for Dynamic Resource Allocation in Enterprise Data Centers</title>
+		<year>2006</year>
+		<authors>Wei Xu,Xiaoyun Zhu,Sharad Singhal,Zhikui Wang</authors>
+		<jconf>NOMS</jconf>
+		<id>726393</id>
+		<label>5</label>
+		<organization>California Univ., Berkeley, CA</organization>
+	</publication>
+	<publication>
+		<title>Instrumentation and experiment design for in-vitro interface temperature measurement during the insertion of an orthopaedic implant</title>
+		<year>2008</year>
+		<authors>Wei Xu</authors>
+		<jconf>ICARCV</jconf>
+		<id>733241</id>
+		<label>6</label>
+		<organization>Centre for Biomed. Eng., Univ. of Surrey, Guildford</organization>
+	</publication>
+	<publication>
+		<title>Tikhonov regularization for weighted total least squares problems</title>
+		<year>2007</year>
+		<authors>Yimin Wei,Naimin Zhang,Michael K. Ng,Wei Xu</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756356</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The termination criterion for subdivision of the rational Bezier curves</title>
+		<year>1991</year>
+		<authors>Guojin Wang,Wei Xu</authors>
+		<jconf>CVGIP: Graphical Model and Image Processing</jconf>
+		<id>834642</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maximum entropy model-based baseball highlight detection and classification</title>
+		<year>2004</year>
+		<authors>Yihong Gong,Mei Han,Wei Hua,Wei Xu</authors>
+		<jconf>Computer Vision and Image Understanding</jconf>
+		<id>834972</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy inference based on fuzzy concept lattice</title>
+		<year>2006</year>
+		<authors>Shi-Qing Fan,Wen-Xiu Zhang,Wei Xu</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>880831</id>
+		<label>0</label>
+		<organization>Institute for Information and System Sciences, Faculty of Science, Xi'an Jiaotong University, Xi'an, Shaan'xi 710049, PR China</organization>
+	</publication>
+	<publication>
+		<title>Lossless Subdivision-Based Multiresolution Representation of Arbitrary Triangle Meshes Using Kite Trees</title>
+		<year>2002</year>
+		<authors>Wei Xu,Richard Hammersley,Karen Lu,Donald S. Fussell</authors>
+		<jconf>Int. J. Found. Comput. Sci.</jconf>
+		<id>909498</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast exact maximum likelihood estimation for mixture of language model</title>
+		<year>2008</year>
+		<authors>Yi Zhang,Wei Xu</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>937281</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Design fuzzy controllers for complex systems with an application to 3-stage inverted pendulums</title>
+		<year>1993</year>
+		<authors>Hongmin Zhang,Xiwen Ma,Wei Xu,Peizhuang Wang</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>942298</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Paths and Cycles in Breakpoint Graph of Random Multichromosomal Genomes</title>
+		<year>2007</year>
+		<authors>Wei Xu,Chunfang Zheng,David Sankoff</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<id>962404</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multi-object trajectory tracking</title>
+		<year>2007</year>
+		<authors>Mei Han,Wei Xu,Hai Tao,Yihong Gong</authors>
+		<jconf>Mach. Vis. Appl.</jconf>
+		<id>1017574</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Cupertino, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>The design and characteristics of piezomotors using flexure-hinged displacement amplifiers</title>
+		<year>1996</year>
+		<authors>Tim King,Wei Xu</authors>
+		<jconf>Robotics and Autonomous Systems</jconf>
+		<id>1049729</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neuroscience output of China: A MEDLINE-based bibliometric study</title>
+		<year>2003</year>
+		<authors>Wei Xu,Yi-Zhang Chen,Zhi-Chao Shen</authors>
+		<jconf>Scientometrics</jconf>
+		<id>1054740</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SoftCuts: A Soft Edge Smoothness Prior for Color Image Super-Resolution</title>
+		<year>2009</year>
+		<authors>Shengyang Dai,Mei Han,Wei Xu,Ying Wu,Yihong Gong,Aggelos K. Katsaggelos</authors>
+		<jconf>IEEE Transactions on Image Processing</jconf>
+		<id>1102944</id>
+		<label>17</label>
+		<organization>Dept. of Electr. Eng. & Comput. Sci., Northwestern Univ., Evanston, IL</organization>
+	</publication>
+	<publication>
+		<title>Bifurcations of travelling wave solutions in a model of the hydrogen-bonded systems</title>
+		<year>2005</year>
+		<authors>Jianwei Shen,Jibin Li,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1144719</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Responses of strongly non-linear oscillator parametrically excited by random narrow-band noise</title>
+		<year>2005</year>
+		<authors>Xiaoli Yang,Wei Xu,Zhongkui Sun,Yong Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1144764</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bifurcation method and traveling wave solution to Whitham-Broer-Kaup equation</title>
+		<year>2005</year>
+		<authors>Jianwei Shen,Wei Xu,Yanfei Jin</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1144768</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bifurcations of traveling wave solutions for a class of the generalized Benjamin-Bona-Mahony equation</title>
+		<year>2006</year>
+		<authors>Xiaoshan Zhao,Wei Xu,Shuang Li,Jianwei Shen</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145151</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chaos controlling of extended nonlinear Lienard system based on the Melnikov theory</title>
+		<year>2006</year>
+		<authors>Ruihong Li,Wei Xu,Shuang Li</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145327</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Smooth and non-smooth travelling wave solutions of generalized Degasperis-Procesi equation</title>
+		<year>2006</year>
+		<authors>Jianwei Shen,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145769</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of chaotic behavior in the extended Duffing-Van der Pol system subject to additive non-symmetry biharmonical excitation</title>
+		<year>2006</year>
+		<authors>Zhan-guo Li,Wei Xu,Xiao-yan Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145867</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A series of explicit and exact travelling wave solutions of the B(m, n) equations</title>
+		<year>2007</year>
+		<authors>Wei Xu,Liang Gao,Yaning Tang,Jianwei Shen</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1146008</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bifurcations of limit cycles for a perturbed quintic Hamiltonian system with four infinite singular points</title>
+		<year>2007</year>
+		<authors>Hongxian Zhou,Wei Xu,Xiaoshan Zhao,Bingchang Zhou</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1146366</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stochastic Hopf bifurcation and chaos of stochastic Bonhoeffer-van der Pol system via Chebyshev polynomial approximation</title>
+		<year>2007</year>
+		<authors>Ying Zhang,Wei Xu,Tong Fang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1146982</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On the number of limit cycles of a cubic polynomials Hamiltonian system under quintic perturbation</title>
+		<year>2007</year>
+		<authors>Hongxian Zhou,Wei Xu,Shuang Li,Ying Zhang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147026</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Detection function method and its application to a class of quintic Hamiltonian systems with quintic perturbations</title>
+		<year>2007</year>
+		<authors>Hongxian Zhou,Wei Xu,Xiaoshan Zhao,Shuang Li</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147058</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Travelling wave solutions for a class of the generalized Benjamin-Bona-Mahoney equations</title>
+		<year>2007</year>
+		<authors>Xiaoshan Zhao,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147103</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Numerical meshfree path integration method for non-linear dynamic systems</title>
+		<year>2008</year>
+		<authors>Wen-Xian Xie,Wei Xu,Li Cai</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147508</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bifurcations of traveling wave solutions for a class of the nonlinear equations</title>
+		<year>2008</year>
+		<authors>Xiaoshan Zhao,Mingchun Wang,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1147529</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Travelling wave solutions in the generalized Hirota-Satsuma coupled KdV system</title>
+		<year>2005</year>
+		<authors>Jianwei Shen,Wei Xu,Yong Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1148399</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computations of shallow water equations with high-order central-upwind schemes on triangular meshes</title>
+		<year>2005</year>
+		<authors>Wen-Xian Xie,Li Cai,Jian-Hu Feng,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149132</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Thirteen limit cycles for a class of cubic Hamiltonian system with higher-order perturbed terms</title>
+		<year>2008</year>
+		<authors>Hongxian Zhou,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1149327</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards an Efficient Self-organizing Reconfiguration Method for Self-reconfigurable Robots</title>
+		<year>2003</year>
+		<authors>Wei Xu,Shigang Wang,An-Lin Wang,Guobao Wang</authors>
+		<jconf>Journal of Intelligent and Robotic Systems</jconf>
+		<id>1152666</id>
+		<label>33</label>
+		<organization>School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, P. R. of China; e-mail: njxw2000@yahoo.com</organization>
+	</publication>
+	<publication>
+		<title>3D finite element mesh generation of complicated tooth model based on CT slices</title>
+		<year>2006</year>
+		<authors>Jianxin Gao,Wei Xu,Zuquan Ding</authors>
+		<jconf>Computer Methods and Programs in Biomedicine</jconf>
+		<id>1163279</id>
+		<label>6</label>
+		<organization>Centre for Biomedical Engineering, School of Engineering, University of Surrey, Guildford, Surrey GU2 7XH, UK</organization>
+	</publication>
+	<publication>
+		<title>GCS-MA: A group communication system for mobile agents</title>
+		<year>2007</year>
+		<authors>Wei Xu,Jiannong Cao,Beihong Jin,Jing Li,Liang Zhang</authors>
+		<jconf>J. Network and Computer Applications</jconf>
+		<id>1168025</id>
+		<label>0</label>
+		<organization>Technology Center of Software Engineering, Institute of Software, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China</organization>
+	</publication>
+	<publication>
+		<title>Effect of Gaussian White Noise on the Dynamical Behaviors of an Extended Duffing-van der Pol oscillator</title>
+		<year>2006</year>
+		<authors>Xiaoli Yang,Wei Xu,Zhongkui Sun</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1193522</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global Analysis of Stochastic bifurcation in Duffing System</title>
+		<year>2003</year>
+		<authors>Wei Xu,Qun He,Tong Fang,Haiwu Rong</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1194687</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On using flexure-hinge five-bar linkages to develop novel walking mechanisms and small-scale grippers for microrobots</title>
+		<year>2004</year>
+		<authors>Guobao Wang,Shigang Wang,Wei Xu</authors>
+		<jconf>J. Field Robotics</jconf>
+		<id>1195873</id>
+		<label>33</label>
+		<organization>School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, People's Republic of China</organization>
+	</publication>
+	<publication>
+		<title>A hybrid particle swarm optimization approach with prior crossover differential evolution</title>
+		<year>2009</year>
+		<authors>Wei Xu,Xingsheng Gu</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207543</id>
+		<label>38</label>
+		<organization>East China University of Science and Technology, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>The Periodic Solution of a Class of Two Neurons Hopfield Network with Distributed Delay</title>
+		<year>2009</year>
+		<authors>Zhaogang Xiong,Wei Xu,Boshan Chen</authors>
+		<jconf>ISNN (1)</jconf>
+		<id>1211180</id>
+		<label>39</label>
+		<organization>School of Mathematics and Statistics, Hubei Normal University, Huangshi, Hubei, China 435002</organization>
+	</publication>
+	<publication>
+		<title>Fusion Algorithm Based on the Intuitionistic Fuzzy Set and Multiple Neural Network</title>
+		<year>2009</year>
+		<authors>Jun Zhi,Jianyong Liu,Wei Xu,Limin Zhi</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211404</id>
+		<label>35</label>
+		<organization>PLA University of Science and Technology, Nanjing, China 210007</organization>
+	</publication>
+	<publication>
+		<title>EzArray: A web-based highly automated Affymetrix expression array data management and analysis system</title>
+		<year>2008</year>
+		<authors>Yuerong Zhu,Yuelin Zhu,Wei Xu</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>1220616</id>
+		<label>37</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving STT MRAM storage density through smaller-than-worst-case transistor sizing</title>
+		<year>2009</year>
+		<authors>Wei Xu,Yiran Chen,Xiaobin Wang,Tong Zhang</authors>
+		<jconf>DAC</jconf>
+		<id>1240985</id>
+		<label>36</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY</organization>
+	</publication>
+	<publication>
+		<title>Data manipulation techniques to reduce phase change memory write energy</title>
+		<year>2009</year>
+		<authors>Wei Xu,Jibang Liu,Tong Zhang</authors>
+		<jconf>ISLPED</jconf>
+		<id>1250890</id>
+		<label>36</label>
+		<organization>Rensselaer Polytechnic Institute, Troy, NY, USA</organization>
+	</publication>
+	<publication>
+		<title>Detecting video events based on action recognition in complex scenes using spatio-temporal descriptor</title>
+		<year>2009</year>
+		<authors>Guangyu Zhu,Ming Yang,Kai Yu,Wei Xu,Yihong Gong</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>1252998</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Cupertino, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Detecting large-scale system problems by mining console logs</title>
+		<year>2009</year>
+		<authors>Wei Xu,Ling Huang,Armando Fox,David A. Patterson,Michael I. Jordan</authors>
+		<jconf>SOSP</jconf>
+		<id>1256307</id>
+		<label>5</label>
+		<organization>University of California at Berkeley, Berkeley, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Surveillance Event Detection</title>
+		<year>2008</year>
+		<authors>Mert Dikmen,Huazhong Ning,Dennis Lin,Liangliang Cao,Vuong Le,Shen-Fu Tsai,Kai-Hsiang Lin,Zhen Li,Jianchao Yang,Thomas S. Huang,Fengjun Lv,Wei Xu,Ming Yang,Kai Yu,Guangyu Zhu,Yihong Gong</authors>
+		<jconf>IJHPCA</jconf>
+		<id>1265640</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A generalization of Sperner's theorem and an application to graph orientations</title>
+		<year>2009</year>
+		<authors>Jianguo Qian,Konrad Engel,Wei Xu</authors>
+		<jconf>Discrete Applied Mathematics</jconf>
+		<id>1270206</id>
+		<label>41</label>
+		<organization>School of Mathematical Sciences, Xiamen University, Xiamen 361005, Fujian, PR China</organization>
+	</publication>
+	<publication>
+		<title>Feature - Bridging the gaps between enterprise software and end users</title>
+		<year>2009</year>
+		<authors>Kraig Finstad,Wei Xu,Shibani Kapoor,Sri Canakapalli,John Gladding</authors>
+		<jconf>Interactions</jconf>
+		<id>1275889</id>
+		<label>40</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incremental spectral clustering by efficiently updating the eigen-system</title>
+		<year>2010</year>
+		<authors>Huazhong Ning,Wei Xu,Yun Chi,Yihong Gong,Thomas S. Huang</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1280375</id>
+		<label>17</label>
+		<organization>NEC Laboratories America, Inc., USA</organization>
+	</publication>
+	<publication>
+		<title>Adaptive complete synchronization of the noise-perturbed two bi-directionally coupled chaotic systems with time-delay and unknown parametric mismatch</title>
+		<year>2009</year>
+		<authors>Yuzhu Xiao,Wei Xu,Sufang Tang,Xiuchun Li</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283583</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Analysis of bifurcations for non-linear stochastic non-smooth vibro-impact system via top Lyapunov exponent</title>
+		<year>2009</year>
+		<authors>Jinqian Feng,Wei Xu</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283594</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parametric inference for progressive Type-I hybrid censored data on a simple step-stress accelerated life test model</title>
+		<year>2009</year>
+		<authors>Li Ling,Wei Xu,Minghai Li</authors>
+		<jconf>Mathematics and Computers in Simulation</jconf>
+		<id>1284067</id>
+		<label>22</label>
+		<organization>Department of Applied Mathematics, Northwestern Polytechnical University, Xi'an 710072, China</organization>
+	</publication>
+	<publication>
+		<title>Limited feedback design for MIMO broadcast channels with ARQ mechanism</title>
+		<year>2009</year>
+		<authors>Wei Xu,Chunming Zhao,Zhi Ding</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1285211</id>
+		<label>30</label>
+		<organization>National Mobile Communications Research Lab., Southeast University, Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>View Synthesis for Virtual Walk through in Real Scene Based on Catadioptric Omnidirectional Images.</title>
+		<year>2008</year>
+		<authors>Wang Chen,Wei Xu,Zhihui Xiong,Maojun Zhang</authors>
+		<jconf>null</jconf>
+		<id>1305141</id>
+		<label>45</label>
+		<organization>Sch. of Inf. Syst. & Manage., Nat. Univ. of Defense Technol., Changsha</organization>
+	</publication>
+	<publication>
+		<title>Feature Matching under Region-Based Constraints for Robust Epipolar Geometry Estimation.</title>
+		<year>2009</year>
+		<authors>Wei Xu,Jane Mulligan</authors>
+		<jconf>null</jconf>
+		<id>1308046</id>
+		<label>19</label>
+		<organization>Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430</organization>
+	</publication>
+	<publication>
+		<title>Augmenting Exercise Systems with Virtual Exercise Environment.</title>
+		<year>2009</year>
+		<authors>Wei Xu,Jaeheon Jeong,Jane Mulligan</authors>
+		<jconf>null</jconf>
+		<id>1308133</id>
+		<label>19</label>
+		<organization>Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430</organization>
+	</publication>
+	<publication>
+		<title>Segment Clustering Radar Signal Sorting.</title>
+		<year>2009</year>
+		<authors>Qiang Guo,Wei Xu,Changhong Wang,Di Guan</authors>
+		<jconf>null</jconf>
+		<id>1316375</id>
+		<label>44</label>
+		<organization>Space Control & Inertial Technol. Res. Center, Harbin Inst. of Technol., Harbin, China</organization>
+	</publication>
+	<publication>
+		<title>Sequential Experimental Approach for Congestion Pricing with Multiple Vehicle Types and Multiple Time Periods.</title>
+		<year>2009</year>
+		<authors>Wei Xu,Hai Yang,Deren Han</authors>
+		<jconf>null</jconf>
+		<id>1316584</id>
+		<label>31</label>
+		<organization>Sch. of Manage. & Eng., Nanjing Univ., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Online System Problem Detection by Mining Patterns of Console Logs.</title>
+		<year>2009</year>
+		<authors>Wei Xu,Ling Huang,Armando Fox,David Patterson,Michael I. Jordan</authors>
+		<jconf>null</jconf>
+		<id>1319478</id>
+		<label>5</label>
+		<organization>EECS Dept., UC Berkeley, Berkeley, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Fast (Structured) Newton Computations.</title>
+		<year>2008</year>
+		<authors>Thomas F. Coleman,Wei Xu</authors>
+		<jconf>SIAM J. Scientific Computing</jconf>
+		<id>1344507</id>
+		<label>42</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EBM Metadata Based on Dublin Core Better Presenting Validity of Clinical Trials.</title>
+		<year>2007</year>
+		<authors>Wei Xu,Mihoko Okada</authors>
+		<jconf>J. Medical Systems</jconf>
+		<id>1346625</id>
+		<label>27</label>
+		<organization>Department of Health Informatics, Kawasaki University of Medical Welfare, Kurashiki, Japan 701-0193 and Library, The Second Military Medical University, Yangpu District, China 200433</organization>
+	</publication>
+	<publication>
+		<title>Subdivision Tree Representation of Arbitrary Triangle Meshes</title>
+		<year>1998</year>
+		<authors>Wei Xu,Don Fussell</authors>
+		<jconf>null</jconf>
+		<id>1424143</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Externalizing a work domain structure on a hypertext interface using an abstraction hierarchy: supporting complex search tasks and problem-solving activities</title>
+		<year>1996</year>
+		<authors>Wei Xu</authors>
+		<jconf>null</jconf>
+		<id>1471971</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Thermoelastic plastic metals with mass diffusion</title>
+		<year>1999</year>
+		<authors>Joseph Genin,Wei Xu</authors>
+		<jconf>Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)</jconf>
+		<id>1543570</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Stability Property of T. Chan's Preconditioner</title>
+		<year>2003</year>
+		<authors>Xiao-Qing Jin,Yi-Min Wei,Wei XU</authors>
+		<jconf>SIAM Journal on Matrix Analysis and Applications</jconf>
+		<id>1562097</id>
+		<label>16</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New Travel Demand Models with Back-Propagation Network</title>
+		<year>2007</year>
+		<authors>Qian Zhou,Hua-pu Lu,Wei Xu</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 03</jconf>
+		<id>1580182</id>
+		<label>2</label>
+		<organization>University of Virginia, USA</organization>
+	</publication>
+	<publication>
+		<title>Accelerating regularized iterative CT reconstruction on commodity graphics hardware (GPU)</title>
+		<year>2009</year>
+		<authors>Wei Xu,Klaus Mueller</authors>
+		<jconf>Proceedings of the Sixth IEEE international conference on Symposium on Biomedical Imaging: From Nano to Macro</jconf>
+		<id>1586939</id>
+		<label>32</label>
+		<organization>Center for Visual Computing, Computer Science Department, Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>Taint-enhanced policy enforcement: a practical approach to defeat a wide range of attacks</title>
+		<year>2006</year>
+		<authors>Wei Xu,Sandeep Bhatkar,R. Sekar</authors>
+		<jconf>Proceedings of the 15th conference on USENIX Security Symposium - Volume 15</jconf>
+		<id>1608172</id>
+		<label>32</label>
+		<organization>Stony Brook University</organization>
+	</publication>
+	<publication>
+		<title>Elastostatic inverse formulation</title>
+		<year>2002</year>
+		<authors>Wei Xu,Joseph Genin</authors>
+		<jconf>Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)</jconf>
+		<id>1620354</id>
+		<label>21</label>
+		<organization>Department of Mechanical Engineering, New Mexico State University, Las Cruses, NM</organization>
+	</publication>
+	<publication>
+		<title>Task-based dialog management using an agenda</title>
+		<year>2000</year>
+		<authors>Wei Xu,Alexander I. Rudnicky</authors>
+		<jconf>Proceedings of the ANLP-NAACL 2000 Workshop on Conversational Systems</jconf>
+		<id>1650558</id>
+		<label>9</label>
+		<organization>Carnegie Mellon University, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>An Improved and Efficient Tool for Analyzing Industrial Security Protocols</title>
+		<year>2009</year>
+		<authors>Nan Liu,Yuefei Zhu,Zhongquan Mao,Wei Xu</authors>
+		<jconf>Proceedings of the 2009 IITA International Conference on Control, Automation and Systems Engineering (case 2009)</jconf>
+		<id>1651214</id>
+		<label>7</label>
+		<organization>Zhengzhou Inf. Sci. & Technol. Inst., Zhengzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic recognition of logical relations for English, Chinese and Japanese in the GLARF framework</title>
+		<year>2009</year>
+		<authors>Adam Meyers,Michiko Kosaka,Nianwen Xue,Heng Ji,Ang Sun,Shasha Liao,Wei Xu</authors>
+		<jconf>Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions</jconf>
+		<id>1651797</id>
+		<label>12</label>
+		<organization>New York University</organization>
+	</publication>
+	<publication>
+		<title>Application of Synthetic Neural Network for Fault Diagnosis of Steam Turbine Flow Passage</title>
+		<year>2009</year>
+		<authors>Lihua Cao,Yunlong Zhou,Wei Xu,Yong Li</authors>
+		<jconf>Proceedings of the 2009 International Conference on Computational Intelligence and Natural Computing - Volume 01</jconf>
+		<id>1652248</id>
+		<label>10</label>
+		<organization>Sch. of Energy & Power Eng., North China Univ. of Electr. Power, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Internal Resistance Identification in Vehicle Power Lithium-Ion Battery and Application in Lifetime Evaluation</title>
+		<year>2009</year>
+		<authors>Xuezhe Wei,Bing Zhu,Wei Xu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03</jconf>
+		<id>1654818</id>
+		<label>29</label>
+		<organization>New Clean Energy Automotive Eng. Center, Tongji Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic Analysis of Fair Exchange Protocols in TLA</title>
+		<year>2009</year>
+		<authors>Nan Liu,Wei Xu,Yue-fei Zhu</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02</jconf>
+		<id>1657602</id>
+		<label>7</label>
+		<organization>Network Eng. Dept., Zhengzhou Inf. Sci. & Technol. Inst., Zhengzhou, China</organization>
+	</publication>
+	<publication>
+		<title>The termination criterion for subdivision of the rational Be&acute;zier curves</title>
+		<year>1991</year>
+		<authors>Guojin Wang,Wei Xu</authors>
+		<jconf>CVGIP: Graphical Models and Image Processing</jconf>
+		<id>1668305</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pad-analysis of fuzzy control stability</title>
+		<year>1990</year>
+		<authors>Pei-Zhuang Wang,Hong-Min Zhang,Wei Xu</authors>
+		<jconf>Fuzzy Sets and Systems</jconf>
+		<id>1672653</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Considerations for linking seatpan and backrest angles</title>
+		<year>1995</year>
+		<authors>Douglas L. Gardner,Leonard S. Mark,Marvin J. Dainoff,Wei Xu</authors>
+		<jconf>International Journal of Human-Computer Interaction</jconf>
+		<id>1717051</id>
+		<label>28</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A fast solver of radiosity equation systems</title>
+		<year>1995</year>
+		<authors>Wei Xu,Don Fussell</authors>
+		<jconf>Proceedings of the second Pacific conference on Fundamentals of computer graphics</jconf>
+		<id>1721609</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hydrodynamic modelling and CFD simulation of ferrofluids flow in magnetic targeting drug delivery</title>
+		<year>2008</year>
+		<authors>Shigang Wang,Handan Liu,Wei Xu</authors>
+		<jconf>International Journal of Computational Fluid Dynamics</jconf>
+		<id>1746642</id>
+		<label>33</label>
+		<organization>School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>An operator splitting method for variational inequalities with partially unknown mappings</title>
+		<year>2008</year>
+		<authors>Deren Han,Wei Xu,Hai Yang</authors>
+		<jconf>Numerische Mathematik</jconf>
+		<id>1747120</id>
+		<label>31</label>
+		<organization>Nanjing University, School of Management and Engineering, 210093, Nanjing, People&#x2019;s Republic of China</organization>
+	</publication>
+	<publication>
+		<title>Poisson adjacency distributions in genome comparison</title>
+		<year>2008</year>
+		<authors>Wei Xu,Benoît Alain,David Sankoff</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1754865</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+</person>

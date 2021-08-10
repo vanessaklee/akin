@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>24544</personID>
+	<FullName>Michael Wagner</FullName>
+	<FirstName>Michael</FirstName>
+	<LastName>Wagner</LastName>
+	<publication>
+		<title>Rule-Based Anomaly Pattern Detection for Detecting Disease Outbreaks</title>
+		<year>2002</year>
+		<authors>Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>15485</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Face-Voice Authentication Based on 3D Face Models</title>
+		<year>2006</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>ACCV (1)</jconf>
+		<id>17995</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy C-Means Clustering-Based Speaker Verification</title>
+		<year>2002</year>
+		<authors>Dat Tran,Michael Wagner</authors>
+		<jconf>AFSS</jconf>
+		<id>29434</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Noise Clustering-Based Speaker Verification</title>
+		<year>2002</year>
+		<authors>Dat Tran,Michael Wagner</authors>
+		<jconf>AFSS</jconf>
+		<id>29435</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generalised Fuzzy Hidden Markov Models for Speech Recognition</title>
+		<year>2002</year>
+		<authors>Dat Tran,Michael Wagner</authors>
+		<jconf>AFSS</jconf>
+		<id>29436</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Anatomische Abbildung elektrischer Aktivitat des ZNS</title>
+		<year>1996</year>
+		<authors>R. Beckmann,Helmut Buchner,G. Knoll,A. Rienacker,Manfred Fuchs,Michael Wagner,Jiri Silny,J. Pesch</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<id>64004</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Model-based EEG and MEG Source Reconstruction Methods</title>
+		<year>1996</year>
+		<authors>Michael Wagner,Manfred Fuchs,Hans-Aloys Wischmann,Ralf Drenckhahn,Thomas Kohler</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<id>64575</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Restoration of the Sphere-Cortex Homeomorphism</title>
+		<year>2006</year>
+		<authors>Andreas Mang,Michael Wagner,Jan Muller,Manfred Fuchs,Thorsten M. Buzug</authors>
+		<jconf>Bildverarbeitung fur die Medizin</jconf>
+		<id>64716</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interaction in a collaborative augmented reality environment</title>
+		<year>2002</year>
+		<authors>Holger Regenbrecht,Michael Wagner</authors>
+		<jconf>CHI Extended Abstracts</jconf>
+		<id>89984</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Comprehensive Context Modeling Framework for Pervasive Computing Systems</title>
+		<year>2008</year>
+		<authors>Roland Reichle,Michael Wagner,Mohammad Ullah Khan,Kurt Geihs,Jorge Lorenzo,Massimo Valla,Cristina Fra,Nearchos Paspallis,George A. Papadopoulos</authors>
+		<jconf>DAIS</jconf>
+		<id>139745</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Audio-Video Person Authentication Based on 3D Facial Feature Warping</title>
+		<year>2005</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>DICTA</jconf>
+		<id>155535</id>
+		<label>1</label>
+		<organization>University of Canberra</organization>
+	</publication>
+	<publication>
+		<title>A Robust Speaking Face Modelling Approach Based on Multilevel Fusion</title>
+		<year>2007</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>DICTA</jconf>
+		<id>155766</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An e-Learning Tool for the Austrian Citizen Card</title>
+		<year>2004</year>
+		<authors>Peter Parycek,Johannes Schneider,Michael Wagner</authors>
+		<jconf>EGOV</jconf>
+		<id>179274</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Spatial and Temporal Locality of Accesses: A New Hardware-Based Monitoring Approach for DSM Systems</title>
+		<year>1998</year>
+		<authors>Robert Hockauf,Wolfgang Karl,Markus Leberecht,Michael Oberhuber,Michael Wagner</authors>
+		<jconf>Euro-Par</jconf>
+		<id>196641</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Proposed Fuzzy Pattern Verification System</title>
+		<year>2001</year>
+		<authors>Dat Tran,Michael Wagner</authors>
+		<jconf>FUZZ-IEEE</jconf>
+		<id>221560</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Re-inventing icons: using animation as cues in icons for the visually impaired</title>
+		<year>2001</year>
+		<authors>Stephanie Ludi,Michael Wagner</authors>
+		<jconf>HCI</jconf>
+		<id>240447</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Restoration by Fuzzy Convex Ordinary Kriging</title>
+		<year>2000</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>ICIP</jconf>
+		<id>320468</id>
+		<label>1</label>
+		<organization>Sch. of Comput., Canberra Univ., ACT</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Network Anomaly Pattern Detection for Disease Outbreaks</title>
+		<year>2003</year>
+		<authors>Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner</authors>
+		<jconf>ICML</jconf>
+		<id>335961</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Information based Speaker Verification</title>
+		<year>2000</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>ICPR</jconf>
+		<id>348329</id>
+		<label>1</label>
+		<organization>Sch. of Comput., Univ. of Canberra, ACT</organization>
+	</publication>
+	<publication>
+		<title>EventScope: Bringing Remote Experience of Mars to the Public through Telepresence</title>
+		<year>2004</year>
+		<authors>Eben Myers,Peter Coppin,Michael Wagner,Karl Fischer,Luisa Lu,W. Ronald McCloskey,David Seneker</authors>
+		<jconf>INFOVIS</jconf>
+		<id>404800</id>
+		<label>1</label>
+		<organization>Carnegie Mellon University</organization>
+	</publication>
+	<publication>
+		<title>An Augmented Virtuality Approach to 3D Videoconferencing</title>
+		<year>2003</year>
+		<authors>Holger Regenbrecht,Claudia Ott,Michael Wagner,Tim Lum,Petra Kohler,Wilhelm Wilke,Erich Mueller</authors>
+		<jconf>ISMAR</jconf>
+		<id>438125</id>
+		<label>6</label>
+		<organization>DaimlerChrysler AG, Stuttgart, Germany</organization>
+	</publication>
+	<publication>
+		<title>Testing Voice Mimicry with the YOHO Speaker Verification Corpus</title>
+		<year>2005</year>
+		<authors>Yee W. Lau,Dat Tran,Michael Wagner</authors>
+		<jconf>KES (4)</jconf>
+		<id>474997</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Context Query Language for Pervasive Computing Environments</title>
+		<year>2008</year>
+		<authors>Roland Reichle,Michael Wagner,Mohammad Ullah Khan,Kurt Geihs,Massimo Valla,Cristina Fra,Nearchos Paspallis,George A. Papadopoulos</authors>
+		<jconf>PerCom</jconf>
+		<id>539100</id>
+		<label>7</label>
+		<organization>Distrib. Syst. Group, Kassel Univ., Kassel</organization>
+	</publication>
+	<publication>
+		<title>pPCx: Parallel Software for Linear Programming</title>
+		<year>1997</year>
+		<authors>Thomas F. Coleman,Joseph Czyzyk,Chunguang Sun,Michael Wagner,Stephen J. Wright</authors>
+		<jconf>PPSC</jconf>
+		<id>548894</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Audio Visual Speaker Verification Based on Hybrid Fusion of Cross Modal Features</title>
+		<year>2007</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>PReMI</jconf>
+		<id>551223</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mapping visual notations to MOF compliant models with QVT relations</title>
+		<year>2007</year>
+		<authors>Matthias Erche,Michael Wagner,Christian Hein</authors>
+		<jconf>SAC</jconf>
+		<id>569058</id>
+		<label>12</label>
+		<organization>IKV++ Technologies AG, Berlin, Germany</organization>
+	</publication>
+	<publication>
+		<title>Bayesian Biosurveillance of Disease Outbreaks</title>
+		<year>2004</year>
+		<authors>Gregory F. Cooper,Denver Dash,John Levander,Weng-Keen Wong,William R. Hogan,Michael Wagner</authors>
+		<jconf>UAI</jconf>
+		<id>633143</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The EventScope Remote Science Operations Tool: Using a Visualization of a Remote Location as an Interface for Robotic Exploration</title>
+		<year>2005</year>
+		<authors>Eben Myers,Peter Coppin,Michael Wagner,Luisa Lu,W. Ronald McCloskey,David Seneker,Kevin McCloskey</authors>
+		<jconf>IEEE Visualization</jconf>
+		<id>640099</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Outpatient Clinic Scheduling - A Simulation Approach</title>
+		<year>2004</year>
+		<authors>Ming Guo,Michael Wagner,Constance E. West</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>668851</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Early Outbreak Detection Using an Automated Data Feed of Test Orders from a Veterinary Diagnostic Laboratory</title>
+		<year>2007</year>
+		<authors>Loren Shaffer,Julie Funk,Paivi Rajala-Schultz,Garrick L. Wallstrom,Thomas Wittum,Michael Wagner,William Saville</authors>
+		<jconf>BioSurveillance</jconf>
+		<id>694338</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computational protein biomarker prediction: a case study for prostate cancer</title>
+		<year>2004</year>
+		<authors>Michael Wagner,Dayanand N. Naik,Alex Pothen,Srinivas Kasukurti,Raghu Ram Devineni,Bao-Ling Adam,John O. Semmes,George L. Wright Jr</authors>
+		<jconf>BMC Bioinformatics</jconf>
+		<id>769141</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A tangible AR desktop environment</title>
+		<year>2001</year>
+		<authors>Holger Regenbrecht,Gregory Baratoff,Michael Wagner</authors>
+		<jconf>Computers  Graphics</jconf>
+		<id>785772</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance Evaluation Methodologies for Abstract Data Type Implementation Techniques</title>
+		<year>1987</year>
+		<authors>Ray Ford,Michael Wagner</authors>
+		<jconf>Comput. Lang.</jconf>
+		<id>792386</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Geschaftsprozesgestaltung durch Kommunikation und Information</title>
+		<year>1998</year>
+		<authors>Michael Wagner</authors>
+		<jconf>HMD - Praxis Wirtschaftsinform.</jconf>
+		<id>886334</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>User verification through pointing characteristics: an exploration examination</title>
+		<year>1996</year>
+		<authors>Kate Barrelle,William Laverty,Ron Henderson,Jon Gough,Michael Wagner,Michael Hiron</authors>
+		<jconf>Int. J. Hum.-Comput. Stud.</jconf>
+		<id>911832</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing digraph-latency based biometric typist verification systems: inter and intra typist differences in digraph latency distributions</title>
+		<year>1995</year>
+		<authors>Doug Mahar,Renee Napier,Michael Wagner,William Laverty,Ron Henderson,Michael Hiron</authors>
+		<jconf>Int. J. Hum.-Comput. Stud.</jconf>
+		<id>912841</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Keyboard user verification: toward an accurate, efficient, and ecologically valid algorithm</title>
+		<year>1995</year>
+		<authors>Renee Napier,William Laverty,Doug Mahar,Ron Henderson,Michael Hiron,Michael Wagner</authors>
+		<jconf>Int. J. Hum.-Comput. Stud.</jconf>
+		<id>912973</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Image Enhancement by Kriging and Fuzzy Sets</title>
+		<year>2000</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919313</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fuzzy Approach to Speaker Verification</title>
+		<year>2002</year>
+		<authors>Dat Tran,Michael Wagner</authors>
+		<jconf>IJPRAI</jconf>
+		<id>919453</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Verteilte Suche nach digitalen Wasserzeichen in eMule</title>
+		<year>2007</year>
+		<authors>Michael Wagner</authors>
+		<jconf>Informatik Spektrum</jconf>
+		<id>926746</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust face-voice based speaker identity verification using multilevel fusion</title>
+		<year>2008</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>Image Vision Comput.</jconf>
+		<id>947753</id>
+		<label>1</label>
+		<organization>Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, LPO Box 340, Building 11, UC, Bruce, ACT 2601, Australia</organization>
+	</publication>
+	<publication>
+		<title>Speaker Verification with Fuzzy Fusion and Genetic Optimization</title>
+		<year>1999</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>JACIII</jconf>
+		<id>949062</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Linear Regression Models for Solvent Accessibility Prediction in Proteins</title>
+		<year>2005</year>
+		<authors>Michael Wagner,Rafal Adamczak,Aleksey A. Porollo,Jaroslaw Meller</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<id>962261</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Maximum feasibility guideline in the design and analysis of protein folding potentials</title>
+		<year>2002</year>
+		<authors>Jaroslaw Meller,Michael Wagner,Ron Elber</authors>
+		<jconf>Journal of Computational Chemistry</jconf>
+		<id>963756</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>What's Strange About Recent Events (WSARE): An Algorithm for the Early Detection of Disease Outbreaks</title>
+		<year>2005</year>
+		<authors>Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner</authors>
+		<jconf>Journal of Machine Learning Research</jconf>
+		<id>985172</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large-scale linear programming techniques for the design of protein folding potentials</title>
+		<year>2004</year>
+		<authors>Michael Wagner,Jaroslaw Meller,Ron Elber</authors>
+		<jconf>Math. Program.</jconf>
+		<id>1014329</id>
+		<label>11</label>
+		<organization>Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA</organization>
+	</publication>
+	<publication>
+		<title>probeBase: an online resource for rRNA-targeted oligonucleotide probes</title>
+		<year>2003</year>
+		<authors>Alexander Loy,Matthias Horn,Michael Wagner</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1019096</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>probeBase - an online resource for rRNA-targeted oligonucleotide probes: new features 2007</title>
+		<year>2007</year>
+		<authors>Alexander Loy,Frank Maixner,Michael Wagner,Matthias Horn</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1021056</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Similarity normalization for speaker verification by fuzzy fusion</title>
+		<year>2000</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1040921</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A geostatistical model for linear prediction analysis of speech</title>
+		<year>1998</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1040923</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ambiguity reduction in speaker identification by the relaxation labeling process</title>
+		<year>1999</year>
+		<authors>Tuan D. Pham,Michael Wagner</authors>
+		<jconf>Pattern Recognition</jconf>
+		<id>1040925</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Augmented Virtuality for Remote Collaboration</title>
+		<year>2004</year>
+		<authors>Holger Regenbrecht,Tim Lum,Petra Kohler,Claudia Ott,Michael Wagner,Wilhelm Wilke,Erich Mueller</authors>
+		<jconf>Presence</jconf>
+		<id>1043346</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>State mixture modelling applied to speech recognition</title>
+		<year>1999</year>
+		<authors>Dat Tran,Michael Wagner,Tongtao Zheng</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046044</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MagicMeeting: A Collaborative Tangible Augmented Reality System</title>
+		<year>2002</year>
+		<authors>Holger Regenbrecht,Michael Wagner,Gregory Baratoff</authors>
+		<jconf>Virtual Reality</jconf>
+		<id>1138472</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2008</year>
+		<authors>Romain Rouvoy,Mauro Caporuscio,Michael Wagner</authors>
+		<jconf>ECEASST</jconf>
+		<id>1186355</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling of Context-Aware Self-Adaptive Applications in Ubiquitous and Service-Oriented Environments</title>
+		<year>2009</year>
+		<authors>Kurt Geihs,Roland Reichle,Michael Wagner,Mohammad Ullah Khan</authors>
+		<jconf>Software Engineering for Self-Adaptive Systems</jconf>
+		<id>1206727</id>
+		<label>7</label>
+		<organization>Universität Kassel, Kassel, Germany 34121</organization>
+	</publication>
+	<publication>
+		<title>Context Inference of Users' Social Relationships and Distributed Policy Management</title>
+		<year>2009</year>
+		<authors>Alisa Devlic,Roland Reichle,Michael Wagner,Manuele Kirsch-Pinheiro,Yves Vanrompay,Yolande Berbers,Massimo Valla</authors>
+		<jconf>PerCom Workshops</jconf>
+		<id>1254387</id>
+		<label>7</label>
+		<organization>Appear Networks, Kista</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical data access in structured P2P-networks</title>
+		<year>2009</year>
+		<authors>Dirk Bradler,Lachezar Krumov,Michael Wagner,Jussi Kangasharju</authors>
+		<jconf>SpringSim</jconf>
+		<id>1260654</id>
+		<label>13</label>
+		<organization>University of Technology Darmstadt, Darmstadt, Germany</organization>
+	</publication>
+	<publication>
+		<title>Service-Oriented Adaptation in Ubiquitous Computing Environments</title>
+		<year>2009</year>
+		<authors>Kurt Geihs,Roland Reichle,Michael Wagner,Mohammad Ullah Khan</authors>
+		<jconf>IEEE Transactions on Audio, Speech & Language Processing</jconf>
+		<id>1260908</id>
+		<label>7</label>
+		<organization>Universitdt Kassel, Kassel, Germany</organization>
+	</publication>
+	<publication>
+		<title>Fusion of Acoustic and Linguistic Features for Emotion Detection</title>
+		<year>2009</year>
+		<authors>Florian Metze,Tim Polzehl,Michael Wagner</authors>
+		<jconf>ICSC</jconf>
+		<id>1261261</id>
+		<label>1</label>
+		<organization>SCS/LTI, Carnegie Mellon Univ., Pittsburgh, PA, USA</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2009</year>
+		<authors>Michael Wagner,Dieter Hogrefe,Kurt Geihs,Klaus David</authors>
+		<jconf>ECEASST</jconf>
+		<id>1287069</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Adaptation Reasoning Approach for Large Scale Component-based Applications</title>
+		<year>2009</year>
+		<authors>Mohammad Ullah Khan,Roland Reichle,Michael Wagner,Kurt Geihs,Ulrich Scholz,Konstantinos Kakousis,George A. Papadopoulos</authors>
+		<jconf>ECEASST</jconf>
+		<id>1287080</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preface</title>
+		<year>2009</year>
+		<authors>Romain Rouvoy,Michael Wagner</authors>
+		<jconf>ECEASST</jconf>
+		<id>1287081</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Liveness Assurance in Voice Authentication</title>
+		<year>2009</year>
+		<authors>Michael Wagner</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1300558</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Liveness Assurance in Face Authentication</title>
+		<year>2009</year>
+		<authors>Michael Wagner,Girija Chetty</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1300567</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards a Comprehensive Teamwork Model for Highly Dynamic Domains.</title>
+		<year>2010</year>
+		<authors>Hendrik Skubch,Michael Wagner,Roland Reichle,Stefan Triller,Kurt Geihs</authors>
+		<jconf>null</jconf>
+		<id>1327052</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Outpatient clinic scheduling: a simulation approach</title>
+		<year>2004</year>
+		<authors>Ming Guo,Michael Wagner,Constance West</authors>
+		<jconf>Proceedings of the 36th conference on Winter simulation</jconf>
+		<id>1371068</id>
+		<label>11</label>
+		<organization>Cincinnati Children's Hospital, Medical Center, Cincinnati, OH</organization>
+	</publication>
+	<publication>
+		<title>Audio-visual multimodal fusion for biometric person authentication and liveness verification</title>
+		<year>2006</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>Proceedings of the 2005 NICTA-HCSNet Multimodal User Interaction Workshop - Volume 57</jconf>
+		<id>1372890</id>
+		<label>1</label>
+		<organization>Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, Australia</organization>
+	</publication>
+	<publication>
+		<title>A speech recognition experiment with the entire syllable inventory of standard Chinese</title>
+		<year>1987</year>
+		<authors>Michael Wagner</authors>
+		<jconf>Speech Communication</jconf>
+		<id>1448530</id>
+		<label>1</label>
+		<organization>Univ. of N.S.W., Canberra, Australia</organization>
+	</publication>
+	<publication>
+		<title>Reliability score based multimodal fusion for biometric person authentication</title>
+		<year>2008</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>Proceedings of the American Conference on Applied Mathematics</jconf>
+		<id>1597534</id>
+		<label>1</label>
+		<organization>School of Information Sciences and Engineering, University of Canberra, Australia</organization>
+	</publication>
+	<publication>
+		<title>Video to the rescue</title>
+		<year>2006</year>
+		<authors>Girija Chetty,Michael Wagner</authors>
+		<jconf>Proceedings of the HCSNet workshop on Use of vision in human-computer interaction - Volume 56</jconf>
+		<id>1602999</id>
+		<label>1</label>
+		<organization>University of Canberra, Australia</organization>
+	</publication>
+</person>

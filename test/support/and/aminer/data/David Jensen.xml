@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>22176</personID>
+	<FullName>David Jensen</FullName>
+	<FirstName>David</FirstName>
+	<LastName>Jensen</LastName>
+	<publication>
+		<title>A Relational Representation for Procedural Task Knowledge</title>
+		<year>2005</year>
+		<authors>Stephen Hart,Roderic A. Grupen,David Jensen</authors>
+		<jconf>AAAI</jconf>
+		<id>13116</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Quantitative Knowledge for Multiagent Coordination</title>
+		<year>1999</year>
+		<authors>David Jensen,Michael Atighetchi,Regis Vincent,Victor R. Lesser</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>13316</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Toward a Theoretical Understanding of Why and When Decision Tree Pruning Algorithms Fail</title>
+		<year>1999</year>
+		<authors>Tim Oates,David Jensen</authors>
+		<jconf>AAAI/IAAI</jconf>
+		<id>14364</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Fast and efficient voltage scheduling by evolutionary slack distribution</title>
+		<year>2004</year>
+		<authors>Bita Gorjiara,Pai H. Chou,Nader Bagherzadeh,Mehrdad Reshadi,David Jensen</authors>
+		<jconf>ASP-DAC</jconf>
+		<id>52293</id>
+		<label>1</label>
+		<organization>Rockwell Collins, Cedar Rapids, IA</organization>
+	</publication>
+	<publication>
+		<title>Language Models for Financial News Recommendation</title>
+		<year>2000</year>
+		<authors>Victor Lavrenko,Matthew D. Schmill,Dawn Lawrie,Paul Ogilvie,David Jensen,James Allan</authors>
+		<jconf>CIKM</jconf>
+		<id>95555</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Representing documents with named entities for story link detection (SLD)</title>
+		<year>2006</year>
+		<authors>Chirag Shah,W. Bruce Croft,David Jensen</authors>
+		<jconf>CIKM</jconf>
+		<id>96138</id>
+		<label>0</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Leveraging relational autocorrelation with latent group models</title>
+		<year>2005</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>Probabilistic, Logical and Relational Learning</jconf>
+		<id>137994</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Discovery from Graphs (Invited Talk)</title>
+		<year>2000</year>
+		<authors>David Jensen</authors>
+		<jconf>Graph Drawing</jconf>
+		<id>224990</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dependency Networks for Relational Data</title>
+		<year>2004</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>ICDM</jconf>
+		<id>302887</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst</organization>
+	</publication>
+	<publication>
+		<title>Leveraging Relational Autocorrelation with Latent Group Models</title>
+		<year>2005</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>ICDM</jconf>
+		<id>302889</id>
+		<label>0</label>
+		<organization>University of Massachusetts at Amherst</organization>
+	</publication>
+	<publication>
+		<title>Simple Estimators for Relational Bayesian Classifiers</title>
+		<year>2003</year>
+		<authors>Jennifer Neville,David Jensen,Brian Gallagher</authors>
+		<jconf>ICDM</jconf>
+		<id>302891</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Network Structure for Active Inference in Collective Classification</title>
+		<year>2007</year>
+		<authors>Matthew J. Rattigan,Marc Maier,David Jensen,Bin Wu,Xin Pei,JianBin Tan,Yi Wang</authors>
+		<jconf>ICDM Workshops</jconf>
+		<id>303527</id>
+		<label>0</label>
+		<organization>Univ. of Massachusetts, Amherst</organization>
+	</publication>
+	<publication>
+		<title>Why Stacked Models Perform Effective Collective Classification</title>
+		<year>2008</year>
+		<authors>Andrew Fast,David Jensen</authors>
+		<jconf>ICDM</jconf>
+		<id>303614</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning</title>
+		<year>2002</year>
+		<authors>David Jensen,Jennifer Neville</authors>
+		<jconf>ICML</jconf>
+		<id>335033</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Avoiding Bias when Aggregating Relational Data with Degree Disparity</title>
+		<year>2003</year>
+		<authors>David Jensen,Jennifer Neville,Michael Hay</authors>
+		<jconf>ICML</jconf>
+		<id>335034</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identifying Predictive Structures in Relational Data Using Multiple Instance Learning</title>
+		<year>2003</year>
+		<authors>Amy McGovern,David Jensen</authors>
+		<jconf>ICML</jconf>
+		<id>335330</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Effects of Training Set Size on Decision Tree Complexity</title>
+		<year>1997</year>
+		<authors>Tim Oates,David Jensen</authors>
+		<jconf>ICML</jconf>
+		<id>335370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Graph clustering with network structure indices</title>
+		<year>2007</year>
+		<authors>Matthew J. Rattigan,Marc Maier,David Jensen</authors>
+		<jconf>ICML</jconf>
+		<id>336240</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Building Simple Models: A Case Study with Decision Trees</title>
+		<year>1997</year>
+		<authors>David Jensen,Tim Oates,Paul R. Cohen</authors>
+		<jconf>IDA</jconf>
+		<id>371416</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decentralized Search in Networks Using Homophily and Degree Disparity</title>
+		<year>2005</year>
+		<authors>Ozgur Simsek,David Jensen</authors>
+		<jconf>IJCAI</jconf>
+		<id>390639</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autocorrelation and Linkage Cause Bias in Evaluation of Relational Learners</title>
+		<year>2002</year>
+		<authors>David Jensen,Jennifer Neville</authors>
+		<jconf>ILP</jconf>
+		<id>395185</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bias/Variance Analysis for Relational Domains</title>
+		<year>2007</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>ILP</jconf>
+		<id>395431</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>MaxProp: Routing for Vehicle-Based Disruption-Tolerant Networks</title>
+		<year>2006</year>
+		<authors>John Burgess,Brian Gallagher,David Jensen,Brian Neil Levine</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403625</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Creating social networks to improve peer-to-peer networking</title>
+		<year>2005</year>
+		<authors>Andrew Fast,David Jensen,Brian Neil Levine</authors>
+		<jconf>KDD</jconf>
+		<id>472710</id>
+		<label>0</label>
+		<organization>University of Massachusetts - Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Why collective inference improves relational classification</title>
+		<year>2004</year>
+		<authors>David Jensen,Jennifer Neville,Brian Gallagher</authors>
+		<jconf>KDD</jconf>
+		<id>472850</id>
+		<label>0</label>
+		<organization>Univ. of Massachusetts - Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Information awareness: a prospective technical assessment</title>
+		<year>2003</year>
+		<authors>David Jensen,Matthew J. Rattigan,Hannah Blau</authors>
+		<jconf>KDD</jconf>
+		<id>472851</id>
+		<label>0</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Adjusting for Multiple Comparisons in Decision Tree Pruning</title>
+		<year>1997</year>
+		<authors>David Jensen,Matthew D. Schmill</authors>
+		<jconf>KDD</jconf>
+		<id>472852</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning relational probability trees</title>
+		<year>2003</year>
+		<authors>Jennifer Neville,David Jensen,Lisa Friedland,Michael Hay</authors>
+		<jconf>KDD</jconf>
+		<id>473123</id>
+		<label>0</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Using relational knowledge discovery to prevent securities fraud</title>
+		<year>2005</year>
+		<authors>Jennifer Neville,Ozgur Simsek,David Jensen,John Komoroske,Kelly Palmer,Henry G. Goldberg</authors>
+		<jconf>KDD</jconf>
+		<id>473124</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Large Datasets Lead to Overly Complex Models: An Explanation and a Solution</title>
+		<year>1998</year>
+		<authors>Tim Oates,David Jensen</authors>
+		<jconf>KDD</jconf>
+		<id>473132</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Progressive Sampling</title>
+		<year>1999</year>
+		<authors>Foster J. Provost,David Jensen,Tim Oates</authors>
+		<jconf>KDD</jconf>
+		<id>473213</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using structure indices for efficient approximation of network properties</title>
+		<year>2006</year>
+		<authors>Matthew J. Rattigan,Marc Maier,David Jensen</authors>
+		<jconf>KDD</jconf>
+		<id>473243</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst</organization>
+	</publication>
+	<publication>
+		<title>Relational data pre-processing techniques for improved securities fraud detection</title>
+		<year>2007</year>
+		<authors>Andrew Fast,Lisa Friedland,Marc Maier,Brian Taylor,David Jensen,Henry G. Goldberg,John Komoroske</authors>
+		<jconf>KDD</jconf>
+		<id>473691</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Finding tribes: identifying close-knit individuals from employment patterns</title>
+		<year>2007</year>
+		<authors>Lisa Friedland,David Jensen</authors>
+		<jconf>KDD</jconf>
+		<id>473692</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst</organization>
+	</publication>
+	<publication>
+		<title>Social networks: looking ahead</title>
+		<year>2008</year>
+		<authors>Ravi Kumar,Alexander Tuzhilin,Christos Faloutsos,David Jensen,Gueorgi Kossinets,Jure Leskovec,Andrew Tomkins</authors>
+		<jconf>KDD</jconf>
+		<id>473733</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Privacy Vulnerabilities in Encrypted HTTP Streams</title>
+		<year>2005</year>
+		<authors>George Dean Bissias,Marc Liberatore,David Jensen,Brian Neil Levine</authors>
+		<jconf>Privacy Enhancing Technologies</jconf>
+		<id>539678</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recommending citations for academic papers</title>
+		<year>2007</year>
+		<authors>Trevor Strohman,W. Bruce Croft,David Jensen</authors>
+		<jconf>SIGIR</jconf>
+		<id>596111</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Coordinating agent activities in knowledge discovery processes</title>
+		<year>1999</year>
+		<authors>David Jensen,Yulin Dong,Barbara Staudt Lerner,Eric K. McCall,Leon J. Osterweil,Stanley M. Sutton Jr,Alexander E. Wise</authors>
+		<jconf>WACC</jconf>
+		<id>650829</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Supply chain simulation: distributed supply chain simulation using a generic job running framework</title>
+		<year>2003</year>
+		<authors>Haifeng Xi,Heng Cao,Leonard Berman,David Jensen</authors>
+		<jconf>Winter Simulation Conference</jconf>
+		<id>671349</id>
+		<label>2</label>
+		<organization>IBM T. J. Watson Research Center, Yorktown Heights, NY</organization>
+	</publication>
+	<publication>
+		<title>Reports on the AAAI Fall Symposia (November 1999 and November 1998)</title>
+		<year>2000</year>
+		<authors>Fawzi Daud,Michael Mateas,Phoebe Sengers,Susan Brennan,Alain Giboin,David R. Traum,Vinay Chaudri,Richard Fikes,Donia Scott,Richard Power,David Jensen</authors>
+		<jconf>AI Magazine</jconf>
+		<id>747586</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Introduction to the special issue on multi-relational data mining and statistical relational learning</title>
+		<year>2006</year>
+		<authors>Hendrik Blockeel,David Jensen,Stefan Kramer</authors>
+		<jconf>Machine Learning</jconf>
+		<id>1009341</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A bias/variance decomposition for models using collective inference</title>
+		<year>2008</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>Machine Learning</jconf>
+		<id>1010125</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610</organization>
+	</publication>
+	<publication>
+		<title>Plant location with minimum inventory</title>
+		<year>1998</year>
+		<authors>Francisco Barahona,David Jensen</authors>
+		<jconf>Math. Program.</jconf>
+		<id>1013453</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimistic pruning for multiple instance learning</title>
+		<year>2008</year>
+		<authors>Amy McGovern,David Jensen</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1046768</id>
+		<label>0</label>
+		<organization>Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA</organization>
+	</publication>
+	<publication>
+		<title>Data Snooping, Dredging and Fishing: The Dark Side of Data Mining, A SIGKDD99 Panel Report</title>
+		<year>2000</year>
+		<authors>David Jensen</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063517</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting relational structure to understand publication patterns in high-energy physics</title>
+		<year>2003</year>
+		<authors>Amy McGovern,Lisa Friedland,Michael Hay,Brian Gallagher,Andrew Fast,Jennifer Neville,David Jensen</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063602</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>The case for anomalous link discovery</title>
+		<year>2005</year>
+		<authors>Matthew J. Rattigan,David Jensen</authors>
+		<jconf>SIGKDD Explorations</jconf>
+		<id>1063647</id>
+		<label>0</label>
+		<organization>University of Massachusetts, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Resisting structural re-identification in anonymized social networks</title>
+		<year>2008</year>
+		<authors>Michael Hay,Gerome Miklau,David Jensen,Donald F. Towsley,Philipp Weis</authors>
+		<jconf>PVLDB</jconf>
+		<id>1186073</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst</organization>
+	</publication>
+	<publication>
+		<title>Accurate Estimation of the Degree Distribution of Private Networks.</title>
+		<year>2009</year>
+		<authors>Michael Hay,Chao Li,Gerome Miklau,David Jensen</authors>
+		<jconf>null</jconf>
+		<id>1319448</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Knowledge Discovery by Design.</title>
+		<year>2009</year>
+		<authors>David Jensen</authors>
+		<jconf>null</jconf>
+		<id>1331410</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The case for anomalous link detection</title>
+		<year>2005</year>
+		<authors>Matthew J. Rattigan,David Jensen</authors>
+		<jconf>Proceedings of the 4th international workshop on Multi-relational mining</jconf>
+		<id>1410356</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst, Amherst, MA</organization>
+	</publication>
+	<publication>
+		<title>Relational Dependency Networks</title>
+		<year>2007</year>
+		<authors>Jennifer Neville,David Jensen</authors>
+		<jconf>The Journal of Machine Learning Research</jconf>
+		<id>1583751</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Statistical models and analysis techniques for learning in relational data</title>
+		<year>2006</year>
+		<authors>David Jensen</authors>
+		<jconf>null</jconf>
+		<id>1606299</id>
+		<label>0</label>
+		<organization>University of Massachusetts Amherst</organization>
+	</publication>
+</person>

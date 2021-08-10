@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>215986</personID>
+	<FullName>R. Ramesh</FullName>
+	<FirstName>R.</FirstName>
+	<LastName>Ramesh</LastName>
+	<publication>
+		<title>Automata-Driven Efficient Subterm Unification</title>
+		<year>1994</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan,R. C. Sekar</authors>
+		<jconf>FSTTCS</jconf>
+		<id>219934</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Pattern Matching in Trees</title>
+		<year>1988</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>ICALP</jconf>
+		<id>268890</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Term Matching on Parallel Computers</title>
+		<year>1987</year>
+		<authors>R. Ramesh,Rakesh M. Verma,Krishnaprasad Thirunarayan,I. V. Ramakrishnan</authors>
+		<jconf>ICALP</jconf>
+		<id>268891</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Pattern Matching</title>
+		<year>1992</year>
+		<authors>R. C. Sekar,R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>ICALP</jconf>
+		<id>269025</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multistage Indexing Algorithms for Speeding Prolog Execution</title>
+		<year>1992</year>
+		<authors>Ta Chen,I. V. Ramakrishnan,R. Ramesh</authors>
+		<jconf>JICSLP</jconf>
+		<id>327807</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automata-Driven Indexing of Prolog Clauses</title>
+		<year>1990</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan,David Scott Warren</authors>
+		<jconf>POPL</jconf>
+		<id>546668</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimal Speedups for Parallel Pattern Matching in Trees</title>
+		<year>1987</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>RTA</jconf>
+		<id>563590</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Incremental Techniques for Efficient Normalization of Nonlinear Rewrite Systems</title>
+		<year>1991</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>RTA</jconf>
+		<id>563591</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Portable Method of Integrating SLG Resolution into Prolog Systems</title>
+		<year>1994</year>
+		<authors>R. Ramesh,Weidong Chen</authors>
+		<jconf>SLP</jconf>
+		<id>605669</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Blind DC Estimation in the Presence of Non-Gaussian Signal</title>
+		<year>2006</year>
+		<authors>Dennis Hui,R. Ramesh</authors>
+		<jconf>VTC Fall</jconf>
+		<id>688674</id>
+		<label>2</label>
+		<organization>Ericsson Res., Research Triangle Park, NC</organization>
+	</publication>
+	<publication>
+		<title>Intelligent computer integrated manufacturing (I-CIM): Research perspectives</title>
+		<year>1992</year>
+		<authors>Soundar R. T. Kumara,Inyong Ham,Setsuo Ohsuga,Costas Tsatsoulis,R. Ramesh,Victor Frost,Rangasami L. Kashyap</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>738158</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A dynamic learning model for on-line quality control using the TAGUCHI approach</title>
+		<year>1992</year>
+		<authors>H. Raghav Rao,M. V. Thirumurthy,Ram Ramesh</authors>
+		<jconf>Applied Artificial Intelligence</jconf>
+		<id>738300</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enterprise computing environments and cost assessment</title>
+		<year>2000</year>
+		<authors>Sudip Bhattacharjee,R. Ramesh</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>770104</id>
+		<label>4</label>
+		<organization>State Univ. of New York at Buffalo, Buffalo</organization>
+	</publication>
+	<publication>
+		<title>Information Systems Frontiers</title>
+		<year>2000</year>
+		<authors>Jagdish Chandra,Salvatore T. March,Satyen Mukherjee,Will Pape,Ram Ramesh,H. Raghav Rao,Ray O. Waddoups</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>770521</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Distributed Mission Training: Teams, Virtual Reality, and Real-time Networking - Introduction</title>
+		<year>1999</year>
+		<authors>R. Ramesh,Dee H. Andrews</authors>
+		<jconf>Commun. ACM</jconf>
+		<id>775318</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EARS: An online bibliographic search and retrieval system based on ordered explosion</title>
+		<year>1987</year>
+		<authors>R. Ramesh,Colin G. Drury</authors>
+		<jconf>Inf. Process. Manage.</jconf>
+		<id>936551</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonlinear Pattern Matching in Trees</title>
+		<year>1992</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>J. ACM</jconf>
+		<id>951408</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Term Matching on Parallel Computers</title>
+		<year>1989</year>
+		<authors>R. Ramesh,Rakesh M. Verma,Krishnaprasad Thirunarayan,I. V. Ramakrishnan</authors>
+		<jconf>J. Log. Program.</jconf>
+		<id>984748</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automata-Driven Indexing of Prolog Clauses</title>
+		<year>1995</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan,David Scott Warren</authors>
+		<jconf>J. Log. Program.</jconf>
+		<id>984750</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Tree Pattern Matching</title>
+		<year>1990</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>J. Symb. Comput.</jconf>
+		<id>994528</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Pattern Matching</title>
+		<year>1995</year>
+		<authors>R. C. Sekar,R. Ramesh,I. V. Ramakrishnan</authors>
+		<jconf>SIAM J. Comput.</jconf>
+		<id>1060417</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multistage Indexing for Speeding Prolog Executions</title>
+		<year>1994</year>
+		<authors>Ta Chen,I. V. Ramakrishnan,R. Ramesh</authors>
+		<jconf>Softw., Pract. Exper.</jconf>
+		<id>1073787</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automata-driven efficient subterm unification</title>
+		<year>2001</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan,R. C. Sekar</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1094158</id>
+		<label>0</label>
+		<organization>Texas Instruments Inc., Dallas</organization>
+	</publication>
+	<publication>
+		<title>Implementation of Tabled Evaluation with Delaying in Prolog</title>
+		<year>1997</year>
+		<authors>R. Ramesh,Weidong Chen</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1113435</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Variable-Depth Trie Index Optimization: Theory and Experimental Results</title>
+		<year>1989</year>
+		<authors>R. Ramesh,A. J. G. Babu,J. Peter Kincaid</authors>
+		<jconf>ACM Trans. Database Syst.</jconf>
+		<id>1118622</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Distribution Problem with Carrier Service: A Dual Based Penalty Approach</title>
+		<year>1995</year>
+		<authors>Moustapha Diaby,R. Ramesh</authors>
+		<jconf>INFORMS Journal on Computing</jconf>
+		<id>1275294</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Optimal Algorithm for the Orienteering Tour Problem</title>
+		<year>1992</year>
+		<authors>R. Ramesh,Yong-Seok Yoon,Mark H. Karwan</authors>
+		<jconf>INFORMS Journal on Computing</jconf>
+		<id>1275420</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simultaneous Optimization of Design Tolerance and Total Cost for a Piston and Cylinder Assembly.</title>
+		<year>2009</year>
+		<authors>R. Sampath Kumar,N. Alagumurthy,R. Ramesh</authors>
+		<jconf>null</jconf>
+		<id>1316188</id>
+		<label>3</label>
+		<organization>Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India</organization>
+	</publication>
+	<publication>
+		<title>A New Scheduling Algorithms For Real Time Tasks</title>
+		<year>2009</year>
+		<authors>C. Yaashuwanth,R. Ramesh</authors>
+		<jconf>CoRR</jconf>
+		<id>1334709</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topographically discounted Internet infrastructure resources: a panel study and econometric analysis</title>
+		<year>2008</year>
+		<authors>Anna Ye Du,Xianjun Geng,Ram D. Gopal,R. Ramesh,Andrew B. Whinston</authors>
+		<jconf>Information Technology and Management</jconf>
+		<id>1374247</id>
+		<label>4</label>
+		<organization>Department of Management Science & Systems, SUNY, Buffalo, USA</organization>
+	</publication>
+	<publication>
+		<title>A simple method to test the stability of 2-D recursive digital filters of second order</title>
+		<year>2008</year>
+		<authors>R. Ramesh,P. S. Reddy</authors>
+		<jconf>Proceedings of the 8th conference on Signal processing, computational geometry and artificial vision</jconf>
+		<id>1385432</id>
+		<label>8</label>
+		<organization>School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India</organization>
+	</publication>
+	<publication>
+		<title>Term matching on parallel computers</title>
+		<year>1987</year>
+		<authors>R. Ramesh,R. M. Verma,T. Krishnaprasad,I. V. Ramakrishnan</authors>
+		<jconf>14th International Colloquium on Automata, languages and programming</jconf>
+		<id>1437583</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Microcomputer based multiple criteria decision support system for strategic planning</title>
+		<year>1987</year>
+		<authors>G. Chandrasekaran,R. Ramesh</authors>
+		<jconf>Information and Management</jconf>
+		<id>1452516</id>
+		<label>4</label>
+		<organization>State Univ. of New York at Buffalo, Buffalo</organization>
+	</publication>
+	<publication>
+		<title>Template approaches to growth of oriented oxide heterostructures on SiO2/Si</title>
+		<year>1994</year>
+		<authors>R. Ramesh,T. Sands,V. G. Keramidas</authors>
+		<jconf>Journal of Electronic Materials</jconf>
+		<id>1507601</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multicriteria jobshop scheduling</title>
+		<year>1989</year>
+		<authors>R. Ramesh,J. M. Cary</authors>
+		<jconf>Computers and Industrial Engineering</jconf>
+		<id>1622657</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Term matching on parallel computers</title>
+		<year>1989</year>
+		<authors>R. Ramesh,R. M. Verma,T. Krishaprasad,I. V. Ramakrishnan</authors>
+		<jconf>Journal of Logic Programming</jconf>
+		<id>1625464</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Theory of convex cones in multicriteria decision making</title>
+		<year>1988</year>
+		<authors>R. Ramesh,M. H. Karwan,S. Zionts</authors>
+		<jconf>Annals of Operations Research</jconf>
+		<id>1630252</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient approach to stochastic jobshop scheduling: algorithms and empirical investigations</title>
+		<year>1990</year>
+		<authors>R. Ramesh,J. M. Cary</authors>
+		<jconf>Computers and Industrial Engineering</jconf>
+		<id>1630609</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An integrated framework for decision support in corporate planning</title>
+		<year>1988</year>
+		<authors>R. Ramesh,G. Chandra Sekar</authors>
+		<jconf>Decision Support Systems</jconf>
+		<id>1632995</id>
+		<label>4</label>
+		<organization>State Univ. of New York, Buffalo</organization>
+	</publication>
+	<publication>
+		<title>Automata-driven indexing of Prolog clauses</title>
+		<year>1989</year>
+		<authors>R. Ramesh,I. V. Ramakrishnan,D. S. Warren</authors>
+		<jconf>Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</jconf>
+		<id>1634727</id>
+		<label>0</label>
+		<organization>Department of Computer Science, University of Texas at Dallas, Richardson, TX</organization>
+	</publication>
+	<publication>
+		<title>Preference structure representation using convex cones in multicriteria integer programming</title>
+		<year>1989</year>
+		<authors>R. Ramesh,M. H. Karwan,S. Zionts</authors>
+		<jconf>Management Science</jconf>
+		<id>1645373</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cascade Graphs: Design, Analysis and Algorithms for Relational Joins</title>
+		<year>2000</year>
+		<authors>Ram D. Gopal,R. Ramesh,Stanley Zionts</authors>
+		<jconf>INFORMS Journal on Computing</jconf>
+		<id>1702462</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>La0.5Sr0.5CoO3 electrode technology for Pb(Zr,Ti)O3 thin film nonvolatile memories</title>
+		<year>1995</year>
+		<authors>B. A. Tuttle,H. N. Al-Shareef,W. L. Warren,M. V. Raymond,T. J. Headley,J. A. Voigt,J. Evans,R. Ramesh</authors>
+		<jconf>Proceedings of the 1st European meeting on Integrated ferroelectrics</jconf>
+		<id>1713170</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Multistage indexing algorithms for speeding Prolog execution</title>
+		<year>1994</year>
+		<authors>Ta Chen,I. V. Ramakrishnan,R. Ramesh</authors>
+		<jconf>Software&mdash;Practice Experience</jconf>
+		<id>1714858</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A portable method for integrating SLG resolution into prolog systems</title>
+		<year>1994</year>
+		<authors>R. Ramesh,Weidong Chen</authors>
+		<jconf>Proceedings of the 1994 International Symposium on Logic programming</jconf>
+		<id>1717514</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Thin Film Ferroelectric Materials and Devices</title>
+		<year>1997</year>
+		<authors>R. Ramesh</authors>
+		<jconf>null</jconf>
+		<id>1728516</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+</person>

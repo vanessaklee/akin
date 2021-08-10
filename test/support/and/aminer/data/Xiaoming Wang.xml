@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>140313</personID>
+	<FullName>Xiaoming Wang</FullName>
+	<FirstName>Xiaoming</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>On Internal Cardinal Direction Relations</title>
+		<year>2005</year>
+		<authors>Yu Liu,Xiaoming Wang,Xin Jin,Lun Wu</authors>
+		<jconf>COSIT</jconf>
+		<id>116656</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Privacy and Copyright Protection Enforced Peer-to-Peer Network</title>
+		<year>2005</year>
+		<authors>Xiaoming Wang,Bin Zhu,Shipeng Li</authors>
+		<jconf>DRMTICS</jconf>
+		<id>160453</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Layered access control for MPEG-4 FGS video</title>
+		<year>2003</year>
+		<authors>Chun Yuan,Bin B. Zhu,Ming Su,Xiaoming Wang,Shipeng Li,Yuzhuo Zhong</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>322608</id>
+		<label>1</label>
+		<organization>Dept. of Comput. Sci., Tsinghua Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>On Static and Dynamic Partitioning Behavior of Large-Scale Networks</title>
+		<year>2005</year>
+		<authors>Derek Leonard,Zhongmei Yao,Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>ICNP</jconf>
+		<id>338423</id>
+		<label>3</label>
+		<organization>Texas A&M University, College Station</organization>
+	</publication>
+	<publication>
+		<title>Modeling Heterogeneous User Churn and Local Resilience of Unstructured P2P Networks</title>
+		<year>2006</year>
+		<authors>Zhongmei Yao,Derek Leonard,Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>ICNP</jconf>
+		<id>338596</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu</organization>
+	</publication>
+	<publication>
+		<title>On Node Isolation Under Churn in Unstructured P2P Networks with Heavy-Tailed Lifetimes</title>
+		<year>2007</year>
+		<authors>Zhongmei Yao,Xiaoming Wang,Derek Leonard,Dmitri Loguinov</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403085</id>
+		<label>3</label>
+		<organization>Texas A&M Univ., College Station</organization>
+	</publication>
+	<publication>
+		<title>Residual-Based Measurement of Peer and Link Lifetimes in Gnutella Networks</title>
+		<year>2007</year>
+		<authors>Xiaoming Wang,Zhongmei Yao,Dmitri Loguinov</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403227</id>
+		<label>3</label>
+		<organization>Texas A&M Univ., College Station</organization>
+	</publication>
+	<publication>
+		<title>Wealth-Based Evolution Model for the Internet AS-Level Topology</title>
+		<year>2006</year>
+		<authors>Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403428</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling the Evolution of Degree Correlation in Scale-Free Topology Generators</title>
+		<year>2008</year>
+		<authors>Xiaoming Wang,Xiliang Liu,Dmitri Loguinov</authors>
+		<jconf>INFOCOM</jconf>
+		<id>403939</id>
+		<label>3</label>
+		<organization>Texas A&M Univ., College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>An Intelligent Software-Integrated Environment of IC Testing</title>
+		<year>1994</year>
+		<authors>Yuning Sun,Xiaoming Wang,Wanchun Shi</authors>
+		<jconf>ITC</jconf>
+		<id>456084</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On zone-balancing of peer-to-peer networks: analysis of random node join</title>
+		<year>2004</year>
+		<authors>Xiaoming Wang,Yueping Zhang,Xiafeng Li,Dmitri Loguinov</authors>
+		<jconf>SIGMETRICS</jconf>
+		<id>597669</id>
+		<label>3</label>
+		<organization>Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>IRLbot: scaling to 6 billion pages and beyond</title>
+		<year>2008</year>
+		<authors>Hsin-Tsang Lee,Derek Leonard,Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>WWW</jconf>
+		<id>675170</id>
+		<label>3</label>
+		<organization>Texas A&M University, College Station, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>A Random Key Management Scheme for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Qing Yang,Qiaoliang Li,Xiaoming Wang,Naixue Xiong,Yi Pan</authors>
+		<jconf>WASA</jconf>
+		<id>677700</id>
+		<label>7</label>
+		<organization>School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319</organization>
+	</publication>
+	<publication>
+		<title>Ant Colony Optimization-Based Location-Aware Routing for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Xiaoming Wang,Qiaoliang Li,Naixue Xiong,Yi Pan</authors>
+		<jconf>WASA</jconf>
+		<id>677790</id>
+		<label>7</label>
+		<organization>School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319</organization>
+	</publication>
+	<publication>
+		<title>An Optimal Algorithm for Minimizing Cluster Overlap of ACE</title>
+		<year>2008</year>
+		<authors>Qiang Hu,Qiaoliang Li,Xiaoming Wang,Naixue Xiong,Yi Pan</authors>
+		<jconf>WASA</jconf>
+		<id>677794</id>
+		<label>7</label>
+		<organization>School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319</organization>
+	</publication>
+	<publication>
+		<title>Study on Embedded System Grid</title>
+		<year>2005</year>
+		<authors>Huifu Zhang,Zude Zhou,Fangmin Li,Xiaoming Wang</authors>
+		<jconf>SKG</jconf>
+		<id>681126</id>
+		<label>8</label>
+		<organization>Wuhan Univ. of Technol., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Large Prandtl number behavior of the Boussinesq system of Rayleigh-Benard convection</title>
+		<year>2004</year>
+		<authors>Xiaoming Wang</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756304</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Boundary layers in channel flow with injection and suction</title>
+		<year>2001</year>
+		<authors>Roger Temam,Xiaoming Wang</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756369</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A uniformly dissipative scheme for stationary statistical properties of the infinite Prandtl number model</title>
+		<year>2008</year>
+		<authors>Wenfang (Wendy) Cheng,Xiaoming Wang</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756931</id>
+		<label>9</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A level-set based variational method for design and optimization of heterogeneous objects</title>
+		<year>2005</year>
+		<authors>Michael Yu Wang,Xiaoming Wang</authors>
+		<jconf>Computer-Aided Design</jconf>
+		<id>779523</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An efficient and scalable pairwise key pre-distribution scheme for sensor networks using deployment knowledge</title>
+		<year>2009</year>
+		<authors>Boqing Zhou,Sujun Li,Qiaoliang Li,Xingming Sun,Xiaoming Wang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>803379</id>
+		<label>7</label>
+		<organization>School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China</organization>
+	</publication>
+	<publication>
+		<title>Graph-theoretic analysis of structured peer-to-peer systems: routing distances and fault resilience</title>
+		<year>2005</year>
+		<authors>Dmitri Loguinov,Juan Casas,Xiaoming Wang</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1122386</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Load-balancing performance of consistent hashing: asymptotic analysis of random node join</title>
+		<year>2007</year>
+		<authors>Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1122975</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>On static and dynamic partitioning behavior of large-scale P2P networks</title>
+		<year>2008</year>
+		<authors>Derek Leonard,Zhongmei Yao,Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123199</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Node isolation model and age-based neighbor selection in unstructured P2P networks</title>
+		<year>2009</year>
+		<authors>Zhongmei Yao,Xiaoming Wang,Derek Leonard,Dmitri Loguinov</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1123210</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Optimal harvesting problems for an age-dependent n-dimensional food chain model with diffusion</title>
+		<year>2007</year>
+		<authors>Dianchen Lu,Jianjun Gu,Xiaoming wang</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145972</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A feature-based topological optimization for structure design</title>
+		<year>2008</year>
+		<authors>Yulin Mei,Xiaoming Wang,Gengdong Cheng</authors>
+		<jconf>Advances in Engineering Software</jconf>
+		<id>1169561</id>
+		<label>10</label>
+		<organization>Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China</organization>
+	</publication>
+	<publication>
+		<title>Residual-based estimation of peer and link lifetimes in P2P networks</title>
+		<year>2009</year>
+		<authors>Xiaoming Wang,Zhongmei Yao,Dmitri Loguinov</authors>
+		<jconf>IEEE/ACM Trans. Netw.</jconf>
+		<id>1227969</id>
+		<label>3</label>
+		<organization>Department of Computer Science, Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>IRLbot: Scaling to 6 billion pages and beyond</title>
+		<year>2009</year>
+		<authors>Hsin-Tsang Lee,Derek Leonard,Xiaoming Wang,Dmitri Loguinov</authors>
+		<jconf>TWEB</jconf>
+		<id>1230129</id>
+		<label>3</label>
+		<organization>Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>p-Percent Coverage Schedule in Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Shan Gao,Xiaoming Wang,Yingshu Li</authors>
+		<jconf>ICCCN</jconf>
+		<id>1245888</id>
+		<label>7</label>
+		<organization>Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA</organization>
+	</publication>
+	<publication>
+		<title>Translational integrity and continuity: Personalized biomedical data integration</title>
+		<year>2009</year>
+		<authors>Xiaoming Wang,Lili Liu,James Fackenthal,Shelly Cummings,Oluwatobi I. Olopade,Kisha Hope,Jonathan C. Silverstein,Olufunmilayo I. Olopade</authors>
+		<jconf>Journal of Biomedical Informatics</jconf>
+		<id>1277403</id>
+		<label>13</label>
+		<organization>Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA</organization>
+	</publication>
+	<publication>
+		<title>Threshold Proxy Signature Scheme with Strong Real-Time Efficiency.</title>
+		<year>2008</year>
+		<authors>Xiaoming Wang,Huoyan Chen</authors>
+		<jconf>null</jconf>
+		<id>1312009</id>
+		<label>12</label>
+		<organization>Dept. of Comput. Sci., Jinan Univ., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>General Method to Build Deterministic Small-World Networks Based on Cayley Graph</title>
+		<year>2009</year>
+		<authors>Zhen Zhang,Wenjun Xiao,Xiaoming Wang</authors>
+		<jconf>Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 01</jconf>
+		<id>1366368</id>
+		<label>2</label>
+		<organization>Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China</organization>
+	</publication>
+	<publication>
+		<title>Time averaged energy dissipation rate for shear driven flows in Rn</title>
+		<year>1997</year>
+		<authors>Xiaoming Wang</authors>
+		<jconf>Physica D</jconf>
+		<id>1395324</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Attractor dimension estimates for two-dimensional shear flows</title>
+		<year>1998</year>
+		<authors>Charles R. Doering,Xiaoming Wang</authors>
+		<jconf>Physica D</jconf>
+		<id>1548673</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effect of tangential derivative in the boundary layer on time averaged energy dissipation rate</title>
+		<year>2000</year>
+		<authors>Xiaoming Wang</authors>
+		<jconf>Physica D</jconf>
+		<id>1574590</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Resonance Characteristic Analysis for Spur Gear Servo Mechanism</title>
+		<year>2009</year>
+		<authors>Zirong Luo,Dapeng Fan,Jianzhong Shang,Shaoshuai Miao,Zheng Yang,Xiaoming Wang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1649100</id>
+		<label>5</label>
+		<organization>Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China</organization>
+	</publication>
+	<publication>
+		<title>An energy equation for the weakly damped driven nonlinear Schro&uml;dinger equations and its application to their attractors</title>
+		<year>1995</year>
+		<authors>Xiaoming Wang</authors>
+		<jconf>Physica D</jconf>
+		<id>1715510</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

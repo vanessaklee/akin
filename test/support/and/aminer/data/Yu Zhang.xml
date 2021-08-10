@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>5724</personID>
+	<FullName>Yu Zhang</FullName>
+	<FirstName>Yu</FirstName>
+	<LastName>Zhang</LastName>
+	<publication>
+		<title>A Physically-Based Model for Real-Time Facial Expression Animation</title>
+		<year>2001</year>
+		<authors>Yu Zhang,Eric Sung,Edmond C. Prakash</authors>
+		<jconf>3DIM</jconf>
+		<id>4146</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>From Range Data to Animated Anatomy-Based Faces: A Model Adaptation Method</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>3DIM</jconf>
+		<id>4150</id>
+		<label>0</label>
+		<organization>National University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Method Used To Dynamic Scene Management Based On Octree</title>
+		<year>2007</year>
+		<authors>Huaiqing He,Yu Zhang,Haohan Liu</authors>
+		<jconf>CGIV</jconf>
+		<id>8137</id>
+		<label>1</label>
+		<organization>Civil Aviation University of China</organization>
+	</publication>
+	<publication>
+		<title>Semantic Web Development for Traditional Chinese Medicine</title>
+		<year>2008</year>
+		<authors>Zhaohui Wu,Tong Yu,Huajun Chen,Xiaohong Jiang,Chunying Zhou,Yu Zhang,Yuxin Mao,Yi Feng,Meng Cui,Aining Yin</authors>
+		<jconf>AAAI</jconf>
+		<id>15989</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Selectivity Estimation by Batch-Query based Histogram and Parametric Method</title>
+		<year>2007</year>
+		<authors>Jizhou Luo,Xiaofang Zhou,Yu Zhang,Heng Tao Shen,Jianzhong Li</authors>
+		<jconf>ADC</jconf>
+		<id>26726</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Immune Based Approach for Detection of Windows PE Virus</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Tao Li,Jia Sun,Renchao Qin</authors>
+		<jconf>ADMA</jconf>
+		<id>27604</id>
+		<label>4</label>
+		<organization>School of Computer Science, Sichuan University, Chengdu, China 610065</organization>
+	</publication>
+	<publication>
+		<title>Modeling Role-Based Agent Team</title>
+		<year>2007</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Canadian Conference on AI</jconf>
+		<id>31709</id>
+		<label>5</label>
+		<organization>Computer Science Department, Trinity University, San Antonio,</organization>
+	</publication>
+	<publication>
+		<title>A Reputation-Chain Trust Model for the Semantic Web</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Huajun Chen,Zhaohui Wu,Xiaoqing Zheng</authors>
+		<jconf>AINA (2)</jconf>
+		<id>35970</id>
+		<label>2</label>
+		<organization>Zhejiang University, Hangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>An Active Storage System for High Performance Computing</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Dan Feng</authors>
+		<jconf>AINA</jconf>
+		<id>36542</id>
+		<label>7</label>
+		<organization>Huazhong Univ. of Sci. & Technol., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>Word Sense Language Model for Information Retrieval</title>
+		<year>2006</year>
+		<authors>Liqi Gao,Yu Zhang,Ting Liu,Guiping Liu</authors>
+		<jconf>AIRS</jconf>
+		<id>37877</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Mining for Lexical Context-Specific Paraphrasing</title>
+		<year>2006</year>
+		<authors>Shiqi Zhao,Ting Liu,Xincheng Yuan,Sheng Li,Yu Zhang</authors>
+		<jconf>AIRS</jconf>
+		<id>37999</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Topic Tracking Based on Keywords Dependency Profile</title>
+		<year>2008</year>
+		<authors>Wei Zheng,Yu Zhang,Yu Hong,Jili Fan,Ting Liu</authors>
+		<jconf>AIRS</jconf>
+		<id>38055</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web Services Based State of the Environment Reporting</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Steve Jones,Lachlan Hurse,Arnon Accad</authors>
+		<jconf>APWeb</jconf>
+		<id>48541</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimizing the Data Intensive Mediator-Based Web Services Composition</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Xiangmin Zhou,Yiyue Gao</authors>
+		<jconf>APWeb</jconf>
+		<id>48557</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Computational Trust Model for Semantic Web Based on Bayesian Decision Theory</title>
+		<year>2006</year>
+		<authors>Xiaoqing Zheng,Huajun Chen,Zhaohui Wu,Yu Zhang</authors>
+		<jconf>APWeb</jconf>
+		<id>48562</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Decision Procedure for XPath Satisfiability in the Presence of DTD Containing Choice</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Yihua Cao,Xunhao Li</authors>
+		<jconf>APWeb</jconf>
+		<id>48698</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Completeness of Logical Relations for Monadic Types</title>
+		<year>2006</year>
+		<authors>Slawomir Lasota,David Nowak,Yu Zhang</authors>
+		<jconf>ASIAN</jconf>
+		<id>51683</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Observation-based proactive communication in team cooperation</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Richard A. Volz,Thomas R. Ioerger</authors>
+		<jconf>AAMAS</jconf>
+		<id>57013</id>
+		<label>5</label>
+		<organization>Trinity University, San Antonio, TX</organization>
+	</publication>
+	<publication>
+		<title>A Social Network-Based Trust Model for the Semantic Web</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Huajun Chen,Zhaohui Wu</authors>
+		<jconf>ATC</jconf>
+		<id>57824</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Bayesian Network (DBN) with Structure Expectation Maximization (SEM) for Modeling of Gene Network from Time Series Gene Expression Data</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Zhidong Deng,Hongshan Jiang,Peifa Jia</authors>
+		<jconf>BIOCOMP</jconf>
+		<id>65107</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Open Framework for Remote Electronic Elections</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>CANS</jconf>
+		<id>75547</id>
+		<label>16</label>
+		<organization>Macau University of Science and Technology, Macau SAR China, Laboratory of Computer Science, Institute of Software, Chinese Academy of Science, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Sustaining Incentive in Grid Resource Allocation: A Reinforcement Learning Approach</title>
+		<year>2007</year>
+		<authors>Li Lin,Yu Zhang,Jinpeng Huai</authors>
+		<jconf>CCGRID</jconf>
+		<id>83225</id>
+		<label>15</label>
+		<organization>Beihang University</organization>
+	</publication>
+	<publication>
+		<title>Real-Time Physically-Based Facial Expression Animation Using Mass-Spring System</title>
+		<year>2001</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>Computer Graphics International</jconf>
+		<id>86357</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.</organization>
+	</publication>
+	<publication>
+		<title>Adaptation-Based Individualized Face Modeling for Animation Using Displacement Map</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>Computer Graphics International</jconf>
+		<id>86358</id>
+		<label>0</label>
+		<organization>National University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Eulerian Path Methods for Multiple Sequence Alignment</title>
+		<year>2003</year>
+		<authors>Michael S. Waterman,Yu Zhang</authors>
+		<jconf>CSB</jconf>
+		<id>121298</id>
+		<label>18</label>
+		<organization>Dept. of Biol. Sci., Univ. of Southern California, Los Angeles, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Complete Lax Logical Relations for Cryptographic Lambda-Calculi</title>
+		<year>2004</year>
+		<authors>Jean Goubault-Larrecq,Slawomir Lasota,David Nowak,Yu Zhang</authors>
+		<jconf>CSL</jconf>
+		<id>124505</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Logical Relations for Dynamic Name Creation</title>
+		<year>2003</year>
+		<authors>Yu Zhang,David Nowak</authors>
+		<jconf>CSL</jconf>
+		<id>124890</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Discriminant Analysis using robust path-based similarity</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Dit-Yan Yeung</authors>
+		<jconf>CVPR</jconf>
+		<id>130300</id>
+		<label>19</label>
+		<organization>Dept. of Comput. Sci. & Eng., Hong Kong Univ. of Sci. & Technol., Hong Kong</organization>
+	</publication>
+	<publication>
+		<title>A power and temperature aware DRAM architecture</title>
+		<year>2008</year>
+		<authors>Song Liu,Seda Ogrenci Memik,Yu Zhang,Gokhan Memik</authors>
+		<jconf>DAC</jconf>
+		<id>134883</id>
+		<label>15</label>
+		<organization>Northwestern University, Evanston, IL</organization>
+	</publication>
+	<publication>
+		<title>Inferring Gene Regulatory Networks from Multiple Data Sources Via a Dynamic Bayesian Network with Structural EM</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Zhidong Deng,Hongshan Jiang,Peifa Jia</authors>
+		<jconf>DILS</jconf>
+		<id>156312</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data-Driven Facial Feature Morphing for 3D Face Synthesis</title>
+		<year>2006</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Eurographics Italian Chapter Conference</jconf>
+		<id>178659</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data-Layout Optimization Using Reuse Distance Distribution</title>
+		<year>2006</year>
+		<authors>Xiong Fu,Yu Zhang,Yiyun Chen</authors>
+		<jconf>EUC Workshops</jconf>
+		<id>190623</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallel Solution in Simulation of Cardiac Excitation Anisotropic Propagation</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Ling Xia,Yinglan Gong,Ligang Chen,Guanghuan Hou,Min Tang</authors>
+		<jconf>FIMH</jconf>
+		<id>206350</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Model of Context Awareness Agent System Based on Dynamic Fuzzy Logic</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Fanzhang Li</authors>
+		<jconf>FSKD (1)</jconf>
+		<id>218798</id>
+		<label>26</label>
+		<organization>Soochow University, Suzhou 215006, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Rapid modeling of 3D faces for animation using an efficient adaptation algorithm</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>GRAPHITE</jconf>
+		<id>236401</id>
+		<label>0</label>
+		<organization>National University of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Finite Element 3D Model of in Vivo Human Knee Joint Based on MRI for the Tibiofemoral Joint Contact Analysis</title>
+		<year>2007</year>
+		<authors>Zhixiu Hao,Dewen Jin,Yu Zhang,Jichuan Zhang</authors>
+		<jconf>HCI (12)</jconf>
+		<id>242651</id>
+		<label>24</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Observant and Proactive Communication in Multi-agent Teamwork</title>
+		<year>2006</year>
+		<authors>Yu Zhang</authors>
+		<jconf>IAT</jconf>
+		<id>261120</id>
+		<label>5</label>
+		<organization>Trinity University, USA</organization>
+	</publication>
+	<publication>
+		<title>Role-Based and Agent-Oriental Teamwork Modeling</title>
+		<year>2002</year>
+		<authors>Sen Cao,Richard A. Volz,Thomas R. Ioerger,Yu Zhang</authors>
+		<jconf>IC-AI</jconf>
+		<id>265114</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proactive Communication in Observation-Based Agent Team Corporation</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Richard A. Volz</authors>
+		<jconf>IC-AI</jconf>
+		<id>265869</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Proactive Information Exchange During Team Cooperation</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Richard A. Volz,Thomas R. Ioerger,Sen Cao,John Yen</authors>
+		<jconf>IC-AI</jconf>
+		<id>265871</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Towards Human Decision-Making in Multi-Agent Systems</title>
+		<year>2007</year>
+		<authors>Phillip Coleman,Michael Pellon,Yu Zhang</authors>
+		<jconf>IC-AI</jconf>
+		<id>266033</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Load Balancing Scheme for Distributed Multi-Agent Simulations</title>
+		<year>2008</year>
+		<authors>Phillip Coleman,Michael Pellon,Yu Zhang</authors>
+		<jconf>IC-AI</jconf>
+		<id>266193</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improving Videophone Transmission over Multi-Rate IEEE 802.11e Networks</title>
+		<year>2008</year>
+		<authors>Tiantian Guo,Jianfei Cai,Chuan Heng Foh,Yu Zhang</authors>
+		<jconf>ICC</jconf>
+		<id>276321</id>
+		<label>0</label>
+		<organization>Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Robust Distributed Localization with Data Inference for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Lin Zhang,Xiuming Shan</authors>
+		<jconf>ICC</jconf>
+		<id>276326</id>
+		<label>14</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An On-Off Queue Control Mechanism for Scalable Video Streaming over the IEEE 802.11e WLAN</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Chuan Heng Foh,Jianfei Cai</authors>
+		<jconf>ICC</jconf>
+		<id>276704</id>
+		<label>0</label>
+		<organization>Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Scalable Video Transmission over the IEEE 802.11e Networks Using Cross-Layer Rate Control</title>
+		<year>2007</year>
+		<authors>Chuan Heng Foh,Yu Zhang,Zefeng Ni,Jianfei Cai</authors>
+		<jconf>ICC</jconf>
+		<id>277118</id>
+		<label>0</label>
+		<organization>Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Simulating Wrinkles in Facial Expressions on an Anatomy-Based Face</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>International Conference on Computational Science (2)</jconf>
+		<id>280591</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Proximity in Query Focused Multi-document Extractive Summarization</title>
+		<year>2009</year>
+		<authors>Sujian Li,Yu Zhang,Wei Wang,Chen Wang</authors>
+		<jconf>ICCPOL</jconf>
+		<id>289824</id>
+		<label>29</label>
+		<organization>Institute of Computational Linguistics, Peking University, Beijing, China 100871</organization>
+	</publication>
+	<publication>
+		<title>Faces Alive: Reconstruction of Animated 3D Human Faces</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>ICCSA (3)</jconf>
+		<id>292288</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data-Driven Feature Control Models for Creating Virtual Faces</title>
+		<year>2007</year>
+		<authors>Yu Zhang</authors>
+		<jconf>ICCSA (2)</jconf>
+		<id>292444</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Fast and Stable Approach for Restoration of Warped Document Images</title>
+		<year>2005</year>
+		<authors>Kok Beng Chu,Li Zhang,Yu Zhang,Chew Lim Tan</authors>
+		<jconf>ICDAR</jconf>
+		<id>294646</id>
+		<label>0</label>
+		<organization>National University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Access Control in Peer-to-Peer Collaborative Systems</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Xianxian Li,Jinpeng Huai,Yunhao Liu</authors>
+		<jconf>ICDCS Workshops</jconf>
+		<id>299026</id>
+		<label>15</label>
+		<organization>Dept. of Comput. Sci. & Technol., Beihang Univ., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Develop a Computational Trust Prototype for the Semantic Web</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Huajun Chen,Zhaohui Wu,Xiaoqing Zheng</authors>
+		<jconf>ICDE Workshops</jconf>
+		<id>301487</id>
+		<label>2</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Solution of Bidomain Equations in Simulation of Cardiac Excitation Anisotropic Propagation</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Ling Xia,Guanghuan Hou</authors>
+		<jconf>ICIC (3)</jconf>
+		<id>313864</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computer Virus Evolution Model Inspired by Biological DNA</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Tao Li,Renchao Qin</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>314261</id>
+		<label>4</label>
+		<organization>College of Computer Science, Sichuan University, Chengdu, China 610065</organization>
+	</publication>
+	<publication>
+		<title>Application of the Stress Waves to Extract Multi-fault Features of the Low-Speed Machinery Based on Blind Source Separation</title>
+		<year>2007</year>
+		<authors>Bo Zhou,Changzheng Chen,Yi Gou,Yu Zhang</authors>
+		<jconf>ICIC (3)</jconf>
+		<id>314473</id>
+		<label>31</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of Efficient Numerical Methods in Solution of Ordinary Differential Equations for Modeling Electrical Activity in Cardiac Cells</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Ling Xia,Yinglan Gong</authors>
+		<jconf>ICIC (3)</jconf>
+		<id>314536</id>
+		<label>25</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An FSM-Based Approach for Malicious Code Detection Using the Self-Relocation Gene</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Tao Li,Jia Sun,Renchao Qin</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>314609</id>
+		<label>4</label>
+		<organization>College of Computer Science, Sichuan University, Chengdu, China 610065</organization>
+	</publication>
+	<publication>
+		<title>Choosing Business Collaborators Using Computing Intelligence Methods</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Sheng-Bo Guo,Jun Hu,Ann Hodgkinson</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>314611</id>
+		<label>33</label>
+		<organization>The University of Wollongong, Wollongong, Australia NSW 2522</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Simulation of Facial Expressions</title>
+		<year>2001</year>
+		<authors>Yu Zhang,Eric Sung,Edmond C. Prakash</authors>
+		<jconf>ICME</jconf>
+		<id>331564</id>
+		<label>0</label>
+		<organization>Nanyang Technological University</organization>
+	</publication>
+	<publication>
+		<title>Reanimating real humans: automatic reconstruction of animated faces from range data</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan</authors>
+		<jconf>ICME</jconf>
+		<id>331566</id>
+		<label>0</label>
+		<organization>Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Markerless Method for Resynthesizing Facial Animation on an Anatomy-Based Model</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Meng Luo,Shuhong Xu</authors>
+		<jconf>ICME</jconf>
+		<id>333059</id>
+		<label>0</label>
+		<organization>Inst. of High Performance Comput., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Multi-octagon-grid search algorithm for fast motion estimation</title>
+		<year>2008</year>
+		<authors>C. J. Duanmu,Yu Zhang,Xing Chen,Shuihong Zhou</authors>
+		<jconf>ICME</jconf>
+		<id>333181</id>
+		<label>35</label>
+		<organization>Department of Information Engineering, Zhejiang Normal Univeristy, Jin Hua, Zhejiang Province, Zip Code: 321004, China</organization>
+	</publication>
+	<publication>
+		<title>An example-based anthropometric model for face shape synthesis</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Edmond Cyril Prakash</authors>
+		<jconf>ICME</jconf>
+		<id>333333</id>
+		<label>0</label>
+		<organization>Inst. of High Performance Comput., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Muscle-driven modeling of wrinkles for 3D facial expressions</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>ICME</jconf>
+		<id>333393</id>
+		<label>0</label>
+		<organization>Inst. of High Performance Comput., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Mixed diamond, hexagon, and cross search fast motion estimation algorithm for H.264</title>
+		<year>2008</year>
+		<authors>C. J. Duanmu,Xing Chen,Yu Zhang,Shuihong Zhou</authors>
+		<jconf>ICME</jconf>
+		<id>333470</id>
+		<label>35</label>
+		<organization>Dept. of Inf. Eng., Zhejiang Normal Univ., Jinhua</organization>
+	</publication>
+	<publication>
+		<title>Development of Inhalable Nanoparticles</title>
+		<year>2004</year>
+		<authors>Leticia Ely,Raimar Lobenberg,Zhaolin Wang,Yu Zhang,Warren H. Finlay,Wilson H.-Y. Roa,Jeffrey O. H. Sham</authors>
+		<jconf>ICMENS</jconf>
+		<id>333558</id>
+		<label>41</label>
+		<organization>University of Alberta</organization>
+	</publication>
+	<publication>
+		<title>On Destination Set in IP-Level Topology Measurement</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Binxing Fang,Hongli Zhang</authors>
+		<jconf>ICN</jconf>
+		<id>337417</id>
+		<label>43</label>
+		<organization>Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Distributed Access Control in CROWN Groups</title>
+		<year>2005</year>
+		<authors>Jinpeng Huai,Yu Zhang,Xianxian Li,Yunhao Liu</authors>
+		<jconf>ICPP</jconf>
+		<id>343153</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ear Recognition using Improved Non-Negative Matrix Factorization</title>
+		<year>2006</year>
+		<authors>Li Yuan,Zhichun Mu,Yu Zhang,Ke Liu</authors>
+		<jconf>ICPR (4)</jconf>
+		<id>349546</id>
+		<label>37</label>
+		<organization>University of Science and Technology Beijing</organization>
+	</publication>
+	<publication>
+		<title>Arbitrary warped document image restoration based on segmentation and Thin-Plate Splines</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Changsong Liu,Xiaoqing Ding,Yanming Zou</authors>
+		<jconf>ICPR</jconf>
+		<id>349769</id>
+		<label>14</label>
+		<organization>Dept. of Electron. Eng., Tsinghua Univ. State Key Lab. of Intell. Technol. & Syst., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An approach for adaptive DRAM temperature and power management</title>
+		<year>2008</year>
+		<authors>Song Liu,Seda Ogrenci Memik,Yu Zhang,Gokhan Memik</authors>
+		<jconf>ICS</jconf>
+		<id>360907</id>
+		<label>15</label>
+		<organization>Northwestern University, Evanston, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach</title>
+		<year>2007</year>
+		<authors>Xiangyu Zhang Chao Liu,Yu Zhang,Jiawei Han,Bharat K. Bhargava</authors>
+		<jconf>ICSM</jconf>
+		<id>365049</id>
+		<label>46</label>
+		<organization>Univ. of Ilinois-UC, Urbana</organization>
+	</publication>
+	<publication>
+		<title>EEG Source Localization for Two Dipoles in the Brain Using a Combined Method</title>
+		<year>2005</year>
+		<authors>Zhuoming Li,Yu Zhang,Qinyu Zhang,Masatake Akutagawa,Hirofumi Nagashino,Fumio Shichijo,Yohsuke Kinouchi</authors>
+		<jconf>IDEAL</jconf>
+		<id>372128</id>
+		<label>47</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Exploiting Upper and Lower Bounds In Top-Down Query Optimization</title>
+		<year>2001</year>
+		<authors>Leonard D. Shapiro,David Maier,Paul Benninghoff,Keith Billings,Yubo Fan,Kavita Hatwal,Quan Wang,Yu Zhang,Hsiao-min Wu,Bennet Vance</authors>
+		<jconf>IDEAS</jconf>
+		<id>372942</id>
+		<label>48</label>
+		<organization>Portland State Univ., OR</organization>
+	</publication>
+	<publication>
+		<title>Applying Hypothetical Queries to E-Commerce Systems to Support Reservation and Personal Preferences</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Huajun Chen,Hao Sheng,Zhaohui Wu</authors>
+		<jconf>IDEAS</jconf>
+		<id>373103</id>
+		<label>2</label>
+		<organization>Zhejiang University, China</organization>
+	</publication>
+	<publication>
+		<title>Automatic Acquisition of Context-Specific Lexical Paraphrases</title>
+		<year>2007</year>
+		<authors>Shiqi Zhao,Ting Liu,Xincheng Yuan,Sheng Li,Yu Zhang</authors>
+		<jconf>IJCAI</jconf>
+		<id>391433</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Symbolic expression analysis for compiled communication</title>
+		<year>2008</year>
+		<authors>Shuyi Shao,Yu Zhang,Alex K. Jones,Rami G. Melhem</authors>
+		<jconf>IPDPS</jconf>
+		<id>412544</id>
+		<label>44</label>
+		<organization>Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Burst receiver for upstream communications over twisted pair lines</title>
+		<year>2004</year>
+		<authors>Alex W. Paek,Hichem Besbes,Yu Zhang,Ted Burk,Saf Asghar,Celite Milbrandt,Bruce Webb</authors>
+		<jconf>ISCAS (4)</jconf>
+		<id>423305</id>
+		<label>45</label>
+		<organization>Celite Syst. Inc., Austin, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>A synthesis scheme for simultaneous scheduling, binding, partitioning and placement with resources operating at multiple voltages</title>
+		<year>2005</year>
+		<authors>Ling Wang,Yingtao Jiang,Yu Zhang,Ru Chen</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>424688</id>
+		<label>8</label>
+		<organization>Sch. of Comput. Sci. & Technol., Harbin Inst. of Technol., China</organization>
+	</publication>
+	<publication>
+		<title>Fault Diagnosis on Satellite Attitude Control with Dynamic Neural Network</title>
+		<year>2004</year>
+		<authors>HanYong Hao,Zengqi Sun,Yu Zhang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>442186</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Palmprint Recognition Using a Novel Sparse Coding Technique</title>
+		<year>2007</year>
+		<authors>Li Shang,Feng-Wen Cao,Zhiqiang Zhao,Jie Chen,Yu Zhang</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>443544</id>
+		<label>51</label>
+		<organization>Dept. of Electronic Information Engineering, Suzhou Vocational University, Jiangsu, 215104, China</organization>
+	</publication>
+	<publication>
+		<title>Forming Proactive Team Cooperation by Observations</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Richard A. Volz</authors>
+		<jconf>KES (1)</jconf>
+		<id>475925</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Link-Based Rank of Postings in Newsgroup</title>
+		<year>2007</year>
+		<authors>Hongbo Liu,Jiahai Yang,Jiaxin Wang,Yu Zhang</authors>
+		<jconf>MLDM</jconf>
+		<id>501469</id>
+		<label>14</label>
+		<organization>Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, China</organization>
+	</publication>
+	<publication>
+		<title>Learning from facial aging patterns for automatic age estimation</title>
+		<year>2006</year>
+		<authors>Xin Geng,Zhi-Hua Zhou,Yu Zhang,Gang Li,Honghua Dai</authors>
+		<jconf>ACM Multimedia</jconf>
+		<id>502837</id>
+		<label>19</label>
+		<organization>Nanjing University, Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>The Implementation of a Fully Integrated Scheme of self-Configuration and self-Organization (FISCO) on Imote2</title>
+		<year>2007</year>
+		<authors>Jialu Fan,Jiming Chen,Jialiang Lu,Yu Zhang,Youxian Sun</authors>
+		<jconf>MSN</jconf>
+		<id>508687</id>
+		<label>49</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Recovery Escalation Algorithm with Load Balancing and Backup Resources Sharing in Path Protected WDM Optical Networks</title>
+		<year>2008</year>
+		<authors>Xiaobing Zheng,Lei Guo,Xingwei Wang,Yu Zhang,Xuekui Wang</authors>
+		<jconf>NCA</jconf>
+		<id>512307</id>
+		<label>50</label>
+		<organization>Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>A Direction to Avoid Re-encryption in Cryptographic File Sharing</title>
+		<year>2007</year>
+		<authors>Lanxiang Chen,Dan Feng,Lingfang Zeng,Yu Zhang</authors>
+		<jconf>NPC</jconf>
+		<id>520010</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extending Online Travel Agency with Adaptive Reservations</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Wenfei Fan,Huajun Chen,Hao Sheng,Zhaohui Wu</authors>
+		<jconf>OTM Conferences (1)</jconf>
+		<id>524825</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effective Filtering Scheme against RREQ Flooding Attack in Mobile Ad Hoc Networks</title>
+		<year>2006</year>
+		<authors>Jian-Hua Song,Fan Hong,Yu Zhang</authors>
+		<jconf>PDCAT</jconf>
+		<id>532893</id>
+		<label>7</label>
+		<organization>Huazhong University of Science and Technology, China</organization>
+	</publication>
+	<publication>
+		<title>Preserving User Location Privacy in Mobile Data Management Infrastructures</title>
+		<year>2006</year>
+		<authors>Reynold Cheng,Yu Zhang,Elisa Bertino,Sunil Prabhakar</authors>
+		<jconf>Privacy Enhancing Technologies</jconf>
+		<id>539689</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Semi-supervised Discriminant Analysis Via CCCP</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Dit-Yan Yeung</authors>
+		<jconf>ECML/PKDD (2)</jconf>
+		<id>542201</id>
+		<label>19</label>
+		<organization>Hong Kong University of Science and Technology,</organization>
+	</publication>
+	<publication>
+		<title>Parallel Solutions of BVP's in ODEs Based on Local Matching</title>
+		<year>1997</year>
+		<authors>Hajrudin Pasic,Yu Zhang</authors>
+		<jconf>PPSC</jconf>
+		<id>549507</id>
+		<label>57</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chinese Abbreviation-Definition Identification: A SVM Approach Using Context Information</title>
+		<year>2006</year>
+		<authors>Xu Sun,Houfeng Wang,Yu Zhang</authors>
+		<jconf>PRICAI</jconf>
+		<id>551850</id>
+		<label>55</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Alignment of Optical Maps</title>
+		<year>2005</year>
+		<authors>Anton Valouev,Lei Li,Yu-Chi Liu,David C. Schwartz,Yi Yang,Yu Zhang,Michael S. Waterman</authors>
+		<jconf>RECOMB</jconf>
+		<id>559136</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reconstructing the Evolutionary History of Complex Human Gene Clusters</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Giltae Song,Tomas Vinar,Eric D. Green,Adam C. Siepel,Webb Miller</authors>
+		<jconf>RECOMB</jconf>
+		<id>559253</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Using Reactive Deliberation for Real-Time Control of Soccer-Playing Robots</title>
+		<year>1997</year>
+		<authors>Yu Zhang,Alan K. Mackworth</authors>
+		<jconf>RoboCup</jconf>
+		<id>561013</id>
+		<label>62</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Level Constraint-Based Controller for the Dynamo98 Robot Soccer Team</title>
+		<year>1998</year>
+		<authors>Yu Zhang,Alan K. Mackworth</authors>
+		<jconf>RoboCup</jconf>
+		<id>561014</id>
+		<label>62</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gene Regulatory Network Construction Using Dynamic Bayesian Network (DBN) with Structure Expectation Maximization (SEM)</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Zhidong Deng,Hongshan Jiang,Peifa Jia</authors>
+		<jconf>RSKT</jconf>
+		<id>562262</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A decision-theoretic approach for designing proactive communication in multi-agent teamwork</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Richard A. Volz,Thomas R. Ioerger,John Yen</authors>
+		<jconf>SAC</jconf>
+		<id>568889</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simulating human intuitive decisions by Q-learning</title>
+		<year>2009</year>
+		<authors>Jason Leezer,Yu Zhang</authors>
+		<jconf>SAC</jconf>
+		<id>569886</id>
+		<label>5</label>
+		<organization>Trinity University</organization>
+	</publication>
+	<publication>
+		<title>Inverting sensor networks and actuating the environment for spatio-temporal access control</title>
+		<year>2006</year>
+		<authors>Shu Chen,Yu Zhang,Wade Trappe</authors>
+		<jconf>SASN</jconf>
+		<id>573010</id>
+		<label>60</label>
+		<organization>The State University of New Jersey, North Brunswick, NJ</organization>
+	</publication>
+	<publication>
+		<title>Optimal Motion Generation of Flexible Macro-micro Manipulator Systems Using Estimation of Distribution Algorithm</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Shude Zhou,Tangwen Yang,Zengqi Sun</authors>
+		<jconf>SEAL</jconf>
+		<id>580084</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical Face Modeling and Fast 3D Facial Expression Synthesis</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>SIBGRAPI</jconf>
+		<id>587497</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Achieving flexible task delegation in role-based agent teams</title>
+		<year>2007</year>
+		<authors>Yu Zhang</authors>
+		<jconf>SMC</jconf>
+		<id>607922</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chinese Question Classification Based on Ensemble Learning</title>
+		<year>2007</year>
+		<authors>Keliang Jia,Kang Chen,Xiaozhong Fan,Yu Zhang</authors>
+		<jconf>SNPD (3)</jconf>
+		<id>609562</id>
+		<label>68</label>
+		<organization>Shandong Economic University, China</organization>
+	</publication>
+	<publication>
+		<title>ACO Based QoS Routing Algorithm for Wireless Sensor Networks</title>
+		<year>2006</year>
+		<authors>Wenyu Cai,Xinyu Jin,Yu Zhang,Kangsheng Chen,Rui Wang</authors>
+		<jconf>UIC</jconf>
+		<id>633675</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Instant Facial Modeling and Animation of Living Humans</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>VMV</jconf>
+		<id>647254</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Homomorphism Resolving of XPath Trees Based on Automata</title>
+		<year>2007</year>
+		<authors>Ming Fu,Yu Zhang</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652230</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Tradeoff of Delta Table Merging and Re-writing Algorithms in What-If Analysis Application</title>
+		<year>2009</year>
+		<authors>Yansong Zhang,Yu Zhang,Yanqin Xiao,Shan Wang,Hong Chen</authors>
+		<jconf>APWeb/WAIM</jconf>
+		<id>652438</id>
+		<label>65</label>
+		<organization>Key Laboratory of the Ministry of Education for Data Engineering and Knowledge Engineering, Renmin University of China, Beijing, China 100872 and School of Information, Renmin University of China, Beijing, China 100872 and Department of Computer Science, Harbin Finance College, Harbin, China 150030</organization>
+	</publication>
+	<publication>
+		<title>An efficient texture generation technique for human head cloning and morphing</title>
+		<year>2006</year>
+		<authors>Yu Zhang</authors>
+		<jconf>GRAPP</jconf>
+		<id>683099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eigenvalue Statistics and Spatial Characteristics in Hotspot Areas Based on Wideband MIMO Channel Measurements</title>
+		<year>2008</year>
+		<authors>Xinying Gao,Jianhua Zhang,Yu Zhang</authors>
+		<jconf>VTC Fall</jconf>
+		<id>689834</id>
+		<label>43</label>
+		<organization>Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Comparison of Broadcast Strategy in MIMO Relay Networks</title>
+		<year>2008</year>
+		<authors>Jianing Li,Jianhua Zhang,Lei Guan,Yu Zhang</authors>
+		<jconf>VTC Fall</jconf>
+		<id>689966</id>
+		<label>43</label>
+		<organization>Dept. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Throughput Analysis for Wireless Ad Hoc Networks</title>
+		<year>2008</year>
+		<authors>Yang Su,Khalil Fakih,Jean-Francois Diouris,Yu Zhang</authors>
+		<jconf>VTC Spring</jconf>
+		<id>690153</id>
+		<label>69</label>
+		<organization>Ecole Polytech. de l'Univ. de Nantes, Nantes</organization>
+	</publication>
+	<publication>
+		<title>A Generic Validation Framework for Wideband MIMO Channel Models</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Jianhua Zhang,Guangyi Liu,Xinying Gao,Ping Zhang</authors>
+		<jconf>VTC Spring</jconf>
+		<id>690561</id>
+		<label>43</label>
+		<organization>Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Automated task distribution in multicore network processors using statistical analysis</title>
+		<year>2007</year>
+		<authors>Arindam Mallik,Yu Zhang,Gokhan Memik</authors>
+		<jconf>ANCS</jconf>
+		<id>691204</id>
+		<label>15</label>
+		<organization>Northwestern University</organization>
+	</publication>
+	<publication>
+		<title>A Novel Biology-Inspired Virus Detection Model with RVNS</title>
+		<year>2008</year>
+		<authors>Renchao Qin,Tao Li,Yu Zhang</authors>
+		<jconf>ISICA</jconf>
+		<id>700615</id>
+		<label>4</label>
+		<organization>Department of Computer Science, Sichuan University, Chengdu, China 610065</organization>
+	</publication>
+	<publication>
+		<title>Power-Modulated Challenge-Response Schemes for Verifying Location Claims</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Zang Li,Wade Trappe</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>704702</id>
+		<label>60</label>
+		<organization>Rutgers Univ., Piscataway</organization>
+	</publication>
+	<publication>
+		<title>Handover Latency of MIPv6 Implementation in Linux</title>
+		<year>2007</year>
+		<authors>Gaogang Xie,Ji Chen,Hongxia Zheng,Jianhua Yang,Yu Zhang</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705093</id>
+		<label>49</label>
+		<organization>Chinese Acad. of Sci., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Novel Spatial Autocorrelation Model of Shadow Fading in Urban Macro Environments</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Jianhua Zhang,Di Dong,Xin Nie,Guangyi Liu,Ping Zhang</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705600</id>
+		<label>43</label>
+		<organization>Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>An Experimental Investigation of Wideband MIMO Channel Based on Indoor Hotspot NLOS Measurements at 2.35GHz</title>
+		<year>2008</year>
+		<authors>Xin Nie,Jianhua Zhang,Yu Zhang,Guangyi Liu,Zemin Liu</authors>
+		<jconf>GLOBECOM</jconf>
+		<id>705614</id>
+		<label>43</label>
+		<organization>Key Lab. of Universal Wireless Commun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A Dynamic Immunity-Based Model for Computer Virus Detection</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Tao Li,Renchao Qin</authors>
+		<jconf>ISIP</jconf>
+		<id>709093</id>
+		<label>4</label>
+		<organization>Sch. of Comput. Sci., Sichuan Univ., Chengdu</organization>
+	</publication>
+	<publication>
+		<title>Implementation of FC-1 and FC-2 Layer for Multi-Gigabit Fibre Channel Transport</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Dan Feng,Wei Tong,Jingning Liu</authors>
+		<jconf>FGCN (1)</jconf>
+		<id>717694</id>
+		<label>7</label>
+		<organization>China Huazhong Univ., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>A multi-agent simulation for social agents</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Phillip Coleman,Michael Pellon,Jason Leezer</authors>
+		<jconf>SpringSim</jconf>
+		<id>719297</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Research on the Hierarchical Supervisory Control of Underwater Glider</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Jiaping Tian,Donghai Su,Shijie Wang</authors>
+		<jconf>IROS</jconf>
+		<id>724427</id>
+		<label>71</label>
+		<organization>Sch. of Mech. Eng., Shenyang Univ. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Facilitating an Active Transmit-only RFID System Through Receiver-based Processing</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Gautam D. Bhanage,Wade Trappe,Yanyong Zhang,Richard Howard</authors>
+		<jconf>SECON</jconf>
+		<id>727912</id>
+		<label>60</label>
+		<organization>Rutgers Univ., Piscataway</organization>
+	</publication>
+	<publication>
+		<title>A Novel 3-DOF HIP Exoskeleton for Kinematically Establishing Animal Model of Avascular Necrosis of the Femoral Head</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Jiafan Zhang,Yi-ming Dong,Canjun Yang,Ying Chen,Jian-hua Li,Tao Wu</authors>
+		<jconf>RAM</jconf>
+		<id>727978</id>
+		<label>2</label>
+		<organization>State Key Lab. of Fluid Power Transm. & Control, Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>Real-Coded Quantum Evolutionary Algorithm Based on Immune Theory for Multi-modal Optimization Problems</title>
+		<year>2008</year>
+		<authors>Xiaoming You,Yu Zhang,Sheng Liu</authors>
+		<jconf>CSSE (1)</jconf>
+		<id>728754</id>
+		<label>70</label>
+		<organization>Coll. of Electron. & Electr. Eng., Shanghai Univ. of Eng. Sci., Shanghai</organization>
+	</publication>
+	<publication>
+		<title>A Novel Method for Image Spam Filtering</title>
+		<year>2008</year>
+		<authors>Hailing Huang,Weiqiang Guo,Yu Zhang</authors>
+		<jconf>ICYCS</jconf>
+		<id>730471</id>
+		<label>9</label>
+		<organization>Res. Instn. of Comput. Applic., South China Univ. of Technol.</organization>
+	</publication>
+	<publication>
+		<title>Multi-hop Cross-Layer Design in Wireless Sensor Networks: A Case Study</title>
+		<year>2008</year>
+		<authors>Philipp Hurni,Torsten Braun,Bharat K. Bhargava,Yu Zhang</authors>
+		<jconf>WiMob</jconf>
+		<id>730874</id>
+		<label>46</label>
+		<organization>Inst. of Comput. Sci. & Appl. Math., Univ. of Bern, Bern</organization>
+	</publication>
+	<publication>
+		<title>Craniofacial Landmark Detection by Layered Diffusion and Dilated Skeleton Maps</title>
+		<year>2006</year>
+		<authors>Lihong Ma,Shengmin Jiang,Yu Zhang,Chunyi Lin,Hanqing Lu</authors>
+		<jconf>ICARCV</jconf>
+		<id>732694</id>
+		<label>9</label>
+		<organization>Dept. of Electron. Eng. & Telecom., South China Univ. of Tech., Guangzhou</organization>
+	</publication>
+	<publication>
+		<title>Synthesis of facial expressions using a 3D anatomical model</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>ICARCV</jconf>
+		<id>733343</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Ranking-Based Statistical Localization for Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Lin Zhang,Xiuming Shan</authors>
+		<jconf>WCNC</jconf>
+		<id>735254</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Stability of impulsive infinite delay differential equations</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Jitao Sun</authors>
+		<jconf>Appl. Math. Lett.</jconf>
+		<id>756553</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Predicting the activity phase of a follower neuron with A-current in an inhibitory network</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Amitabha Bose,Farzan Nadim</authors>
+		<jconf>Biological Cybernetics</jconf>
+		<id>761741</id>
+		<label>12</label>
+		<organization>New Jersey Institute of Technology, Department of Mathematical Sciences, 323 Martin Luther King Blvd, 07102, Newark, NJ, USA</organization>
+	</publication>
+	<publication>
+		<title>Refinement of optical map assemblies</title>
+		<year>2006</year>
+		<authors>Anton Valouev,Yu Zhang,David C. Schwartz,Michael S. Waterman</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>766306</id>
+		<label>18</label>
+		<organization>Department of Statistics, Harvard University MA, USA</organization>
+	</publication>
+	<publication>
+		<title>Tree-guided Bayesian inference of population structures</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>767664</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficient Modeling of An Anatomy-Based Face and Fast 3D Facial Expression Synthesis</title>
+		<year>2003</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>Comput. Graph. Forum</jconf>
+		<id>788271</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>New routing algorithms in trustworthy Internet</title>
+		<year>2008</year>
+		<authors>Xingwei Wang,Lei Guo,Ting Yang,Wei Ji,Ying Li,Xin Liu,Yu Zhang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>803266</id>
+		<label>50</label>
+		<organization>College of Information Science and Engineering, Northeastern University, P.O. Box 134, Shenyang 110004, China</organization>
+	</publication>
+	<publication>
+		<title>A new algorithm based on auxiliary virtual topology for sub-path protection in WDM optical networks</title>
+		<year>2009</year>
+		<authors>Xingwei Wang,Lei Guo,Xuekui Wang,Yu Zhang,Xiaobing Zheng,Weigang Hou,Hongming Li,Hongpeng Wang</authors>
+		<jconf>Computer Communications</jconf>
+		<id>803353</id>
+		<label>50</label>
+		<organization>College of Information Science and Engineering, Northeastern University, P.O. Box 365, Shenyang 110004, China</organization>
+	</publication>
+	<publication>
+		<title>A Constraint-Based Robotic Soccer Team</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Alan K. Mackworth</authors>
+		<jconf>Constraints</jconf>
+		<id>811945</id>
+		<label>62</label>
+		<organization>Laboratory for Computational Intelligence, Department of Computer Science, University of British Columbia, Vancouver, BC V6T 1Z4, Canada yzhang@cs.ubc.ca</organization>
+	</publication>
+	<publication>
+		<title>On Completeness of Logical Relations for Monadic Types</title>
+		<year>2006</year>
+		<authors>Slawomir Lasota,David Nowak,Yu Zhang</authors>
+		<jconf>CoRR</jconf>
+		<id>821027</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance of Coded pi/2 NS-8QAM Modulation</title>
+		<year>2008</year>
+		<authors>Changqing Liu,Yu Zhang,Jian Song,Chang-Yong Pan,Zhixing Yang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>900714</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HFSM: Hierarchical Facial Shape Modeling Algorithm for Realistic Facial Expression Animation</title>
+		<year>2003</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>International Journal of Shape Modeling</jconf>
+		<id>921287</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Eulerian Path Approach to Global Multiple Alignment for DNA Sequences</title>
+		<year>2003</year>
+		<authors>Yu Zhang,Michael S. Waterman</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<id>962322</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Alignment of Optical Maps</title>
+		<year>2006</year>
+		<authors>Anton Valouev,Lei Li,Yu-Chi Liu,David C. Schwartz,Yi Yang,Yu Zhang,Michael S. Waterman</authors>
+		<jconf>Journal of Computational Biology</jconf>
+		<id>962560</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Synthesis of 3D faces using region-based morphing under intuitive control</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Norman I. Badler</authors>
+		<jconf>Journal of Visualization and Computer Animation</jconf>
+		<id>1003062</id>
+		<label>20</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>HPtaa database-potential target genes for clinical diagnosis and immunotherapy of human carcinoma</title>
+		<year>2006</year>
+		<authors>Xiaosong Wang,Haitao Zhao,Qingwen Xu,Weibo Jin,Changning Liu,Huagang Zhang,Zhibin Huang,Xinyu Zhang,Yu Zhang,Dianqi Xin,Andrew J. G. Simpson,Lloyd J. Old,Yanqun Na,Yi Zhao,Weifeng Chen</authors>
+		<jconf>Nucleic Acids Research</jconf>
+		<id>1020747</id>
+		<label>21</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Physically-Based Method for Geometric Restoration of Distorted Document Images</title>
+		<year>2008</year>
+		<authors>Li Zhang,Yu Zhang,Chew Tan</authors>
+		<jconf>IEEE Trans. Pattern Anal. Mach. Intell.</jconf>
+		<id>1033868</id>
+		<label>0</label>
+		<organization>Nat. Univ. of Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A Power Law for Connectedness of Some Random Graphs at the Critical Point</title>
+		<year>1991</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Random Struct. Algorithms</jconf>
+		<id>1052455</id>
+		<label>22</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelization of IBM mambo system simulator in functional modes</title>
+		<year>2008</year>
+		<authors>Kun Wang,Yu Zhang,Huayong Wang,Xiaowei Shen</authors>
+		<jconf>Operating Systems Review</jconf>
+		<id>1066967</id>
+		<label>48</label>
+		<organization>IBM China Research Lab</organization>
+	</publication>
+	<publication>
+		<title>Impact of time-selective fading on the performance of quasi-orthogonal space-time-coded OFDM systems</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Huaping Liu</authors>
+		<jconf>IEEE Transactions on Communications</jconf>
+		<id>1087879</id>
+		<label>23</label>
+		<organization>Sch. of Electr. Eng. & Comput. Sci., Oregon State Univ., Corvallis, OR, USA</organization>
+	</publication>
+	<publication>
+		<title>Cryptographic logical relations</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Theor. Comput. Sci.</jconf>
+		<id>1096019</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Optimized Cross-Layer Design for Scalable Video Transmission Over the IEEE 802.11e Networks</title>
+		<year>2007</year>
+		<authors>Chuan Heng Foh,Yu Zhang,Zefeng Ni,Jianfei Cai,King Ngi Ngan</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097733</id>
+		<label>0</label>
+		<organization>Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Self-Learning Disk Scheduling</title>
+		<year>2009</year>
+		<authors>Yu Zhang,B. Bhargava</authors>
+		<jconf>IEEE Trans. Knowl. Data Eng.</jconf>
+		<id>1114131</id>
+		<label>46</label>
+		<organization>Purdue University, West Lafayette</organization>
+	</publication>
+	<publication>
+		<title>A New Physical Model with Multilayer Architecture for Facial Expression Animation Using Dynamic Adaptive Mesh</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>IEEE Trans. Vis. Comput. Graph.</jconf>
+		<id>1133880</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Face alive</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>J. Vis. Lang. Comput.</jconf>
+		<id>1137868</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Anatomy-based face reconstruction for animation using multi-layer deformation</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Terence Sim,Chew Lim Tan,Eric Sung</authors>
+		<jconf>J. Vis. Lang. Comput.</jconf>
+		<id>1137869</id>
+		<label>0</label>
+		<organization>Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore</organization>
+	</publication>
+	<publication>
+		<title>On the system of rational difference equations xn=A + 1/yn-p, yn=A+yn-1/xn-tyn-s</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Xiaofan Yang,Graham M. Megson,David J. Evans</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1145228</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SAGE-based estimation of doubly selective channel with an orthogonal polynomial model</title>
+		<year>2008</year>
+		<authors>Feng Yang,Jian Song,Yu Zhang,Chang-Yong Pan,Zhixing Yang</authors>
+		<jconf>Signal Processing</jconf>
+		<id>1151643</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decision-Feedback Receiver for Quasi-Orthogonal Space-Time Coded OFDM Using Correlative Coding Over Fast Fading Channels</title>
+		<year>2006</year>
+		<authors>Yu Zhang,Huaping Liu</authors>
+		<jconf>IEEE Transactions on Wireless Communications</jconf>
+		<id>1176360</id>
+		<label>23</label>
+		<organization>Sch. of Electr. Eng. & Comput. Sci., Oregon State Univ., Corvallis, OR</organization>
+	</publication>
+	<publication>
+		<title>A Role-Based Approach in Dynamic Task Delegation in Agent Teamwork</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>JSW</jconf>
+		<id>1184688</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of Localization Attacks on Power-Modulated Challenge-Response Systems</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Zang Li,Wade Trappe</authors>
+		<jconf>IEEE Transactions on Information Forensics and Security</jconf>
+		<id>1185677</id>
+		<label>60</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An integration architecture for process manufacturing systems</title>
+		<year>2002</year>
+		<authors>Chengen Wang,Yu Zhang,Guoning Song,Chaowan Yin,Chengbin Chu</authors>
+		<jconf>Int. J. Computer Integrated Manufacturing</jconf>
+		<id>1188074</id>
+		<label>27</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Decoding Digital Information from the Cascaded Heterogeneous Chaotic Systems</title>
+		<year>2003</year>
+		<authors>Chao Tao,Gonghuan Du,Yu Zhang</authors>
+		<jconf>I. J. Bifurcation and Chaos</jconf>
+		<id>1194650</id>
+		<label>30</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parameters optimization of support vector regression based on immune particle swarm optimization algorithm</title>
+		<year>2009</year>
+		<authors>Yan Wang,Juexin Wang,Wei Du,Chen Zhang,Yu Zhang,Chunguang Zhou</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207586</id>
+		<label>4</label>
+		<organization>College of Computer Science and Technology, Jilin University, Changchun, China</organization>
+	</publication>
+	<publication>
+		<title>Firefly: illuminating future network-on-chip with nanophotonics</title>
+		<year>2009</year>
+		<authors>Yan Pan,Prabhat Kumar,John Kim,Gokhan Memik,Yu Zhang,Alok N. Choudhary</authors>
+		<jconf>ISCA</jconf>
+		<id>1211001</id>
+		<label>15</label>
+		<organization>Northwestern University, Evanston, IL, USA</organization>
+	</publication>
+	<publication>
+		<title>Fuzzy Chance-Constrained Goal Programming Model and Algorithm of Oilfield Measures</title>
+		<year>2009</year>
+		<authors>Jiekun Song,Jiepeng Song,Yu Zhang,Zaixu Zhang,Shuiqing Fan</authors>
+		<jconf>ISNN (2)</jconf>
+		<id>1211356</id>
+		<label>28</label>
+		<organization>Financial Assets Center of Dongxin Unit, Shengli Oilfield, Dongying, China 257091</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the impact of on-chip network traffic on program phases for CMPs</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Berkin Ozisikyilmaz,Gokhan Memik,John Kim,Alok N. Choudhary</authors>
+		<jconf>ISPASS</jconf>
+		<id>1211636</id>
+		<label>15</label>
+		<organization>EECS Dept., Northwestern Univ., Evanston, IL</organization>
+	</publication>
+	<publication>
+		<title>The Computational SLR: A Logic for Reasoning about Computational Indistinguishability</title>
+		<year>2009</year>
+		<authors>Yu Zhang</authors>
+		<jconf>TLCA</jconf>
+		<id>1214612</id>
+		<label>16</label>
+		<organization>Laboratory of Computer Science, Institute of Software, CAS, Beijing, China and FIT, Macau University of Science and Technology, Macau SAR, China</organization>
+	</publication>
+	<publication>
+		<title>Propagation characteristics of wideband MIMO channel in urban micro- and macrocells</title>
+		<year>2008</year>
+		<authors>Jianhua Zhang,Di Dong,Yanping Liang,Xin Nie,Xinying Gao,Yu Zhang,Chen Huang,Guangyi Liu</authors>
+		<jconf>PIMRC</jconf>
+		<id>1217082</id>
+		<label>43</label>
+		<organization>Beijing Univ. of Posts & Telecommun., Beijing</organization>
+	</publication>
+	<publication>
+		<title>Organizational Adaptative Behavior: The Complex Perspective of Individuals-Tasks Interaction</title>
+		<year>2009</year>
+		<authors>Jiang Wu,Duoyong Sun,Bin Hu,Yu Zhang</authors>
+		<jconf>Complex (1)</jconf>
+		<id>1217901</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Poisson approximation for significance in genome-wide ChIP-chip tiling arrays</title>
+		<year>2008</year>
+		<authors>Yu Zhang</authors>
+		<jconf>Bioinformatics</jconf>
+		<id>1219668</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An EM-Based Time-Domain Channel Estimation Algorithm Using a priori Information</title>
+		<year>2008</year>
+		<authors>Feng Yang,Yu Zhang,Jian Song,Chang-Yong Pan,Zhixing Yang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224084</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impact of Randomized Cross-Polarization Discrimination on Channel Correlation Property of the 3GPP Spatial Channel Model</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Jianhua Zhang,Guangyi Liu,Ping Zhang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224924</id>
+		<label>43</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Robust Bandpass Sampling Scheme for Multiple RF Signals in SDR System</title>
+		<year>2009</year>
+		<authors>Chen Chi,Yu Zhang,Zhixing Yang</authors>
+		<jconf>IEICE Transactions</jconf>
+		<id>1224953</id>
+		<label>6</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Certifying Concurrent Programs Using Transactional Memory</title>
+		<year>2009</year>
+		<authors>Long Li,Yu Zhang,Yiyun Chen,Yong Li</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1225885</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Improved Approximate Detection of Duplicates for Data Streams Over Sliding Windows</title>
+		<year>2008</year>
+		<authors>Hong Shen,Yu Zhang</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1225934</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Symbolic Expression Analysis for Compiled Communication</title>
+		<year>2008</year>
+		<authors>Alex K. Jones,Shuyi Shao,Yu Zhang,Rami G. Melhem</authors>
+		<jconf>Parallel Processing Letters</jconf>
+		<id>1226892</id>
+		<label>44</label>
+		<organization>Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>Verifying Anonymous Credential Systems in Applied Pi Calculus</title>
+		<year>2009</year>
+		<authors>Xiangxi Li,Yu Zhang,Yuxin Deng</authors>
+		<jconf>CANS</jconf>
+		<id>1238728</id>
+		<label>16</label>
+		<organization>Laboratory for Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Dynamically Maintaining Duplicate-Insensitive and Time-Decayed Sum Using Time-Decaying Bloom Filter</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Hong Shen,Hui Tian,Xianchao Zhang</authors>
+		<jconf>ICA3PP</jconf>
+		<id>1245107</id>
+		<label>4</label>
+		<organization>School of Computer Science, University of Adelaide, Australia</organization>
+	</publication>
+	<publication>
+		<title>CNP: A Protocol for Reducing Maintenance Cost of Structured P2P</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Yuanda Cao,Baodong Cheng</authors>
+		<jconf>ICCSA (2)</jconf>
+		<id>1246078</id>
+		<label>4</label>
+		<organization>Beijing Laboratory of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing, PRC 100081</organization>
+	</publication>
+	<publication>
+		<title>Addressing Collaborative Attacks and Defense in Ad Hoc Wireless Networks</title>
+		<year>2009</year>
+		<authors>Bharat K. Bhargava,Ruy de Oliveira,Yu Zhang,Nwokedi C. Idika</authors>
+		<jconf>ICDCS Workshops</jconf>
+		<id>1246460</id>
+		<label>46</label>
+		<organization>Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA</organization>
+	</publication>
+	<publication>
+		<title>Analysis of Mixed Inflammable Gases Based on Single Sensor and RBF Neural Network</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Meixing Qi,Caidong Gu</authors>
+		<jconf>ICIC (2)</jconf>
+		<id>1247424</id>
+		<label>34</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Security Dialogs for Improved Security Behavior of Users</title>
+		<year>2009</year>
+		<authors>Frederik De Keukelaere,Sachiko Yoshihama,Scott Trent,Yu Zhang,Lin Luo,Mary Ellen Zurko</authors>
+		<jconf>INTERACT (1)</jconf>
+		<id>1250005</id>
+		<label>48</label>
+		<organization>IBM China Research Laboratory, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Non-uniform fat-meshes for chip multiprocessors</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Alex K. Jones</authors>
+		<jconf>IPDPS</jconf>
+		<id>1250342</id>
+		<label>44</label>
+		<organization>University of Pittsburgh, PA 15261 USA</organization>
+	</publication>
+	<publication>
+		<title>Semi-Supervised Multi-Task Regression</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Dit-Yan Yeung</authors>
+		<jconf>ECML/PKDD (2)</jconf>
+		<id>1254421</id>
+		<label>19</label>
+		<organization>Hong Kong University of Science and Technology,</organization>
+	</publication>
+	<publication>
+		<title>Heteroscedastic Probabilistic Linear Discriminant Analysis with Semi-supervised Extension</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Dit-Yan Yeung</authors>
+		<jconf>ECML/PKDD (2)</jconf>
+		<id>1254435</id>
+		<label>19</label>
+		<organization>Hong Kong University of Science and Technology,</organization>
+	</publication>
+	<publication>
+		<title>Whole-Genome Analysis of Gene Conversion Events</title>
+		<year>2009</year>
+		<authors>Chih-Hao Hsu,Yu Zhang,Ross C. Hardison,Webb Miller</authors>
+		<jconf>RECOMB-CG</jconf>
+		<id>1254747</id>
+		<label>18</label>
+		<organization>Center for Comparative Genomics and Bioinformatics, Pennsylvania State University, University Park, USA 16802</organization>
+	</publication>
+	<publication>
+		<title>Formal Reasoning about Concurrent Assembly Code with Reentrant Locks</title>
+		<year>2009</year>
+		<authors>Ming Fu,Yu Zhang,Yong Li</authors>
+		<jconf>TASE</jconf>
+		<id>1258323</id>
+		<label>11</label>
+		<organization>Dept. of Comput. Sci. & Technol., Univ. of Sci. & Technol. of China, Hefei, China</organization>
+	</publication>
+	<publication>
+		<title>Restoring warped document image through segmentation and full-page interpolation</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Changsong Liu,Xiaoqing Ding,Kongqiao Wang</authors>
+		<jconf>DRR</jconf>
+		<id>1259718</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Insider DoS Attacks on Epidemic Propagation Strategies of Network Reprogramming in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Xing-She Zhou,Yee Wei Law,Marimuthu Palaniswami</authors>
+		<jconf>IAS</jconf>
+		<id>1260059</id>
+		<label>32</label>
+		<organization>Sch. of Comput. Sci., Northwestern Polytech. Univ., Xi'an, China</organization>
+	</publication>
+	<publication>
+		<title>A history sensitive cascade model in diffusion networks</title>
+		<year>2009</year>
+		<authors>Stephen Foster,Walt Potter,Jiang Wu,Bin Hu,Yu Zhang</authors>
+		<jconf>SpringSim</jconf>
+		<id>1260623</id>
+		<label>5</label>
+		<organization>Trinity University</organization>
+	</publication>
+	<publication>
+		<title>Emergence of Social Norms in Complex Networks</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Jason Leezer</authors>
+		<jconf>Computers & Electrical Engineering</jconf>
+		<id>1261147</id>
+		<label>5</label>
+		<organization>Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>A survivable routing algorithm with differentiated domain protection based on a virtual topology graph in multi-domain optical networks</title>
+		<year>2009</year>
+		<authors>Lei Guo,Xingwei Wang,Jiannong Cao,Yu Zhang,Xiaobing Zheng,Xuekui Wang,Weigang Hou</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>1276406</id>
+		<label>50</label>
+		<organization>College of Information Science and Engineering, Northeastern University, Shenyang 110004, China</organization>
+	</publication>
+	<publication>
+		<title>An Agent-based Simulation Study for Exploring Organizational Adaptation</title>
+		<year>2009</year>
+		<authors>Jiang Wu,Bin Hu,Yu Zhang,Catherine Spence,Steven B. Hall,Kathleen M. Carley</authors>
+		<jconf>Simulation</jconf>
+		<id>1280619</id>
+		<label>5</label>
+		<organization>Trinity University, San Antonio, TX, USA</organization>
+	</publication>
+	<publication>
+		<title>Boundedness of the solutions of impulsive differential systems with time-varying delay</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Jitao Sun</authors>
+		<jconf>Applied Mathematics and Computation</jconf>
+		<id>1283246</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Collaborative attacks in WiMAX networks</title>
+		<year>2009</year>
+		<authors>Bharat K. Bhargava,Yu Zhang,Nwokedi C. Idika,Leszek Lilien,Mehdi Azarmi</authors>
+		<jconf>Security and Communication Networks</jconf>
+		<id>1287246</id>
+		<label>46</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Balancing Trust and Incentive in Peer-to-Peer Collaborative System</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Li Lin,Jinpeng Huai</authors>
+		<jconf>Proceedings of the 38th conference on Winter simulation</jconf>
+		<id>1295637</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Data-Driven Feature-Based 3D Face Synthesis.</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Shuhong Xu</authors>
+		<jconf>null</jconf>
+		<id>1301568</id>
+		<label>0</label>
+		<organization>Institute of High Performance Computing, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A 32-bit Decimal Floating-Point Logarithmic Converter.</title>
+		<year>2009</year>
+		<authors>Dongdong Chen,Yu Zhang,Younhee Choi,Moon Ho Lee,Seok-Bum Ko</authors>
+		<jconf>null</jconf>
+		<id>1302831</id>
+		<label>39</label>
+		<organization>Dept. of Electr. & Comput. Eng., Univ. of Saskatchewan, Sasaktoon, SK, Canada</organization>
+	</publication>
+	<publication>
+		<title>Adaptive Rule Loading and Session Control for Securing Web-Delivered Services.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Vugranam Sreedhar,Lin Luo,Shun Xiang Yang</authors>
+		<jconf>null</jconf>
+		<id>1314479</id>
+		<label>48</label>
+		<organization>IBM China Res. Lab., Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>The Interaction between Chinese Export Price and World Import Price of Tangerines.</title>
+		<year>2009</year>
+		<authors>Yu Zhao,Yu Zhang,Chunjie Qi</authors>
+		<jconf>null</jconf>
+		<id>1315195</id>
+		<label>42</label>
+		<organization>Coll. of Econ. & Manage., Huazhong Agric. Univ., Wuhan</organization>
+	</publication>
+	<publication>
+		<title>A Trajectory Clustering Algorithm Based on Symmetric Neighborhood.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Dechang Pi</authors>
+		<jconf>null</jconf>
+		<id>1317039</id>
+		<label>40</label>
+		<organization>Coll. of Inf. Sci. & Technol., Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, China</organization>
+	</publication>
+	<publication>
+		<title>Cost Comparison and Control Based on GLM and Panel Data Model: Evidence from Major Citrus Producing Areas in China.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Yu Zhao,Chunjie Qi</authors>
+		<jconf>null</jconf>
+		<id>1318130</id>
+		<label>42</label>
+		<organization>Coll. of Finance & Econ., Wuhan Univ. of Sci. & Eng., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Modeling and Prediction in the Enzymatic Hydrolysis of Cellulose Using Artificial Neural Networks.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Jing-Liang Xu,Zhen-Hong Yuan</authors>
+		<jconf>null</jconf>
+		<id>1319711</id>
+		<label>36</label>
+		<organization>Guangzhou Inst. of Energy Conversion, Chinese Acad. of Sci., Guangzhou, China</organization>
+	</publication>
+	<publication>
+		<title>Content-Based Trust Mechanism for E-commerce Systems.</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Huajun Chen,Xiaohong Jiang,Hao Sheng,Linhua Zhou,Tong Yu</authors>
+		<jconf>null</jconf>
+		<id>1327301</id>
+		<label>2</label>
+		<organization>Zhejiang Univ., Hangzhou</organization>
+	</publication>
+	<publication>
+		<title>The Performance of Erasure Codes Used in FT-MPI.</title>
+		<year>2009</year>
+		<authors>Xiaoguang Liu,Gang Wang,Yu Zhang,Ang Li,Fang Xie</authors>
+		<jconf>null</jconf>
+		<id>1330767</id>
+		<label>38</label>
+		<organization>Nankai-Baidu Joint Lab., Nankai Univ., Tianjin, China</organization>
+	</publication>
+	<publication>
+		<title>Localized and Integrated Topology Maintenance for Wireless Sensor Networks.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Nannan Zhao</authors>
+		<jconf>null</jconf>
+		<id>1331263</id>
+		<label>58</label>
+		<organization>Orange Lab. Beijing, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Efficient Relay Beamforming Design with SIC Detection for Dual-Hop MIMO Relay Networks</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Hanwen Luo,Wen Chen</authors>
+		<jconf>CoRR</jconf>
+		<id>1334771</id>
+		<label>59</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>RCCtrust: A Combined Trust Model for Electronic Community.</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Huajun Chen,Xiaohong Jiang,Hao Sheng,Zhaohui Wu</authors>
+		<jconf>J. Comput. Sci. Technol.</jconf>
+		<id>1338650</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EDFCES: a new example-driven 3D face construction and editing system</title>
+		<year>2008</year>
+		<authors>Yu Zhang,Eric Sung</authors>
+		<jconf>Machine Graphics Vision International Journal</jconf>
+		<id>1384605</id>
+		<label>0</label>
+		<organization>Department of Computer and Information Science, University of Pennsylvania, PA</organization>
+	</publication>
+	<publication>
+		<title>Differentiated Domain Protection Algorithm Based on Virtual Topology Graph in Multi-Domain Optical Networks</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Lei Guo,Xingwei Wang,Xiaobing Zheng,Xuekui Wang</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02</jconf>
+		<id>1389442</id>
+		<label>50</label>
+		<organization>Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang</organization>
+	</publication>
+	<publication>
+		<title>A Novel Trust-based Cooperative Node Selection Scheme in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Qiongli Liu,Yueming Cai,Weiwei Yang,Youyun Xu</authors>
+		<jconf>Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02</jconf>
+		<id>1390078</id>
+		<label>56</label>
+		<organization>Inst. of Commun. Eng., PLAUST, Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Modeling Internet Link Delay Based on Measurement</title>
+		<year>2009</year>
+		<authors>Hongli Zhang,Yu Zhang,Ying Liu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Electronic Computer Technology</jconf>
+		<id>1393887</id>
+		<label>43</label>
+		<organization>Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Eventual practical stability of impulsive differential equations with time delay in terms of two measurements</title>
+		<year>2005</year>
+		<authors>Yu Zhang,Jitao Sun</authors>
+		<jconf>Journal of Computational and Applied Mathematics</jconf>
+		<id>1409283</id>
+		<label>10</label>
+		<organization>Department of Applied Mathematics, Tongji University, 1239, Siping Rd., Shanghai 200092, PR China</organization>
+	</publication>
+	<publication>
+		<title>Image Disorientation Auto-Recovery</title>
+		<year>1999</year>
+		<authors>Jia Wang,Yin Zhang,Zhiyuan Chen,Yu Zhang</authors>
+		<jconf>null</jconf>
+		<id>1424365</id>
+		<label>60</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A coordinate SPC model for assuring designated fit quality via quality-oriented statistical tolerancing</title>
+		<year>2009</year>
+		<authors>Yu Zhang,Musheng Yang</authors>
+		<jconf>Computers and Industrial Engineering</jconf>
+		<id>1431244</id>
+		<label>52</label>
+		<organization>College of Mechanical Engineering, Shandong University of Technology and Zibo, Shandong, 255049, China</organization>
+	</publication>
+	<publication>
+		<title>Biomass measurements and relationships with Landsat-7/ETM+ and JERS-1/SAR data over Canada's western sub-arctic and low arctic</title>
+		<year>2009</year>
+		<authors>Wenjun Chen,D. Blain,Junhua Li,K. Keohler,R. Fraser,Yu Zhang,S. Leblanc,I. Olthof,Jixin Wang,M. McGovern</authors>
+		<jconf>International Journal of Remote Sensing</jconf>
+		<id>1432458</id>
+		<label>53</label>
+		<organization>Canada Centre for Remote Sensing, Natural Resources Canada, Ottawa, K1A 0Y7, Canada</organization>
+	</publication>
+	<publication>
+		<title>An iterative method for the inversion of the two-dimensional wave equation with a potential</title>
+		<year>1998</year>
+		<authors>Guanquan Zhang,Yu Zhang</authors>
+		<jconf>Journal of Computational Physics</jconf>
+		<id>1543354</id>
+		<label>54</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A decision-theoretic approach for designing proactive communication in multi-agent teamwork</title>
+		<year>2004</year>
+		<authors>Yu Zhang,Richard A. Volz,Thomas R. loerger,John Yen</authors>
+		<jconf>Proceedings of the 2004 ACM symposium on Applied computing</jconf>
+		<id>1557931</id>
+		<label>5</label>
+		<organization>Texas A&M University, College Station, TX</organization>
+	</publication>
+	<publication>
+		<title>Implementing Atomic Section by Using Hybrid Concurrent Control</title>
+		<year>2007</year>
+		<authors>Lei Zhao,Yu Zhang</authors>
+		<jconf>Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops</jconf>
+		<id>1583558</id>
+		<label>11</label>
+		<organization>University of Science & Technology of China, Hefei, 230027, China</organization>
+	</publication>
+	<publication>
+		<title>A new dynamic Bayesian network for integrating multiple data in estimating gene networks</title>
+		<year>2007</year>
+		<authors>Yu Zhang,Zhidong Deng,Peifa Jia</authors>
+		<jconf>Proceedings of the Third International Conference on Natural Computation - Volume 02</jconf>
+		<id>1583739</id>
+		<label>14</label>
+		<organization>Tsinghua University, China</organization>
+	</publication>
+	<publication>
+		<title>Using Reactive Deliberation for Real-Time Control of Soccer-Playing Robots</title>
+		<year>1998</year>
+		<authors>Yu Zhang,Alan K. Mackworth</authors>
+		<jconf>RoboCup-97: Robot Soccer World Cup I</jconf>
+		<id>1588371</id>
+		<label>62</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multi-Level Constraint-Based Controller for the Dynamo98 Robot Soccer Team</title>
+		<year>1999</year>
+		<authors>Yu Zhang,Alan K. Mackworth</authors>
+		<jconf>RoboCup-98: Robot Soccer World Cup II</jconf>
+		<id>1588841</id>
+		<label>62</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Performance comparison between statistical-based and direct data domain STAPs</title>
+		<year>2007</year>
+		<authors>Santana Burintramart,Tapan K. Sarkar,Yu Zhang,Michael C. Wicks</authors>
+		<jconf>Digital Signal Processing</jconf>
+		<id>1602567</id>
+		<label>67</label>
+		<organization>Department of Electrical Engineering and Computer Science, 329 Link Hall Syracuse University, Syracuse, NY 13244-1240, USA</organization>
+	</publication>
+	<publication>
+		<title>Research on AI Planning Based Modeling Method for Area Traffic Signal Control</title>
+		<year>2009</year>
+		<authors>Chenmu Yu,Shuhua Liu,Yu Zhang,Jie Liu</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03</jconf>
+		<id>1650195</id>
+		<label>66</label>
+		<organization>Sch. of Comput. Sci., Northeast Normal Univ., Changchun, China</organization>
+	</publication>
+	<publication>
+		<title>Transaction Behavior and Volatility of Price Signals in Futures Market</title>
+		<year>2009</year>
+		<authors>Yu Zhao,Yu Zhang,Chunjie Qi</authors>
+		<jconf>Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01</jconf>
+		<id>1651270</id>
+		<label>42</label>
+		<organization>Coll. of Econ. & Manage., Huazhong Agric. Univ., Wuhan, China</organization>
+	</publication>
+	<publication>
+		<title>Inverse System Decoupling Control for Induction Motor Based on Neural Network On-Line Learning</title>
+		<year>2009</year>
+		<authors>Wei Ni,Yu Zhang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1654240</id>
+		<label>64</label>
+		<organization>Sch. of Electron. Eng., Huaihai Inst. of Technol., Lianyungang, China</organization>
+	</publication>
+	<publication>
+		<title>A Pursuit-Evasion Algorithm Based on Hierarchical Reinforcement Learning</title>
+		<year>2009</year>
+		<authors>Jie Liu,Shuhua Liu,Hongyan Wu,Yu Zhang</authors>
+		<jconf>Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02</jconf>
+		<id>1654545</id>
+		<label>66</label>
+		<organization>Comput. Sci. Sch., Northeast Normal Univ., Changchun, China</organization>
+	</publication>
+	<publication>
+		<title>HIT: web based scoring method for English lexical substitution</title>
+		<year>2007</year>
+		<authors>Shiqi Zhao,Lin Zhao,Yu Zhang,Ting Liu,Sheng Li</authors>
+		<jconf>Proceedings of the 4th International Workshop on Semantic Evaluations</jconf>
+		<id>1658379</id>
+		<label>8</label>
+		<organization>Harbin Institute of Technology, Harbin, P.R. China</organization>
+	</publication>
+	<publication>
+		<title>Anatomy-based 3D facial modeling for expression animation</title>
+		<year>2002</year>
+		<authors>Yu Zhang,Edmond C. Prakash,Eric Sung</authors>
+		<jconf>Machine Graphics Vision International Journal</jconf>
+		<id>1699759</id>
+		<label>0</label>
+		<organization>School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Design Of Fuzzy Neural Network Controller For Marine Steam Turbine System</title>
+		<year>2008</year>
+		<authors>Qidan Zhu,Yu Zhang,Jingqiao Zhang</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 04</jconf>
+		<id>1747881</id>
+		<label>63</label>
+		<organization>Coll. of Autom., Harbin Eng. Univ., Harbin</organization>
+	</publication>
+	<publication>
+		<title>Comparative Research on Power Input and Efficiency of China's Typical Cities Based on Extension Model of DEA</title>
+		<year>2008</year>
+		<authors>Yong-xiu He,Li-fang Yang,Yan Li,Shuo Liu,Yu Zhang</authors>
+		<jconf>Proceedings of the 2008 International Conference on Risk Management & Engineering Management</jconf>
+		<id>1749031</id>
+		<label>61</label>
+		<organization>North China Electr. Power Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>A New Sub-path Protection Algorithm Based on Auxiliary Virtual Topology in WDM Optical Networks</title>
+		<year>2008</year>
+		<authors>Xuekui Wang,Lei Guo,Xingwei Wang,Yu Zhang,Xiaobing Zheng</authors>
+		<jconf>Proceedings of the 2008 Third International Conference on Convergence and Hybrid Information Technology - Volume 02</jconf>
+		<id>1753263</id>
+		<label>50</label>
+		<organization>Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang</organization>
+	</publication>
+</person>

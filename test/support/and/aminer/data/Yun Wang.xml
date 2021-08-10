@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>3102</personID>
+	<FullName>Yun Wang</FullName>
+	<FirstName>Yun</FirstName>
+	<LastName>Wang</LastName>
+	<publication>
+		<title>Extensible Indexing Support in DB2 Universal Database</title>
+		<year>2001</year>
+		<authors>Stefan Desloch,Weidong Chen,Jyh-Herng Chow,You-Chin Fuh,Jean Grandbois,Michelle Jou,Nelson Mendonca Mattos,Raiko Nitzsche,Brian T. Tran,Yun Wang</authors>
+		<jconf>Compontent Database Systems</jconf>
+		<id>2188</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Facets: a new algorithm for extracting 3-D surface from volume data</title>
+		<year>1995</year>
+		<authors>Yun Wang</authors>
+		<jconf>ACM Southeast Regional Conference</jconf>
+		<id>6723</id>
+		<label>1</label>
+		<organization>University of Alabama at Birmingham, Birmingham, Alabama</organization>
+	</publication>
+	<publication>
+		<title>Avoiding Priority Inversion on the Processing of Requests by Active Replicated Servers</title>
+		<year>2001</year>
+		<authors>Yun Wang,Francisco Vilar Brasileiro,Emmanuelle Anceaume,Fabiola Greve,Michel Hurfin</authors>
+		<jconf>DSN</jconf>
+		<id>161875</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques</title>
+		<year>1990</year>
+		<authors>C. Mohan,Donald J. Haderle,Yun Wang,Josephine M. Cheng</authors>
+		<jconf>EDBT</jconf>
+		<id>176509</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Improved Intermediate Value Theorem and Rough Fix-Point Theorem of Roughly Continuous Discrete Functions</title>
+		<year>2008</year>
+		<authors>Yun Wang,Yanyong Guan,Hongkai Wang,Kaiquan Shi</authors>
+		<jconf>FSKD (5)</jconf>
+		<id>218670</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Theory and Application of Rough Integration in Rough Function Model</title>
+		<year>2007</year>
+		<authors>Yun Wang,Jinmei Wang,Yanyong Guan</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219028</id>
+		<label>4</label>
+		<organization>University of Jinan</organization>
+	</publication>
+	<publication>
+		<title>Rough Derivatives in Rough Function Model and Their Application</title>
+		<year>2007</year>
+		<authors>Yun Wang,Yanyong Guan,Hongkai Wang</authors>
+		<jconf>FSKD (3)</jconf>
+		<id>219053</id>
+		<label>4</label>
+		<organization>University of Jinan</organization>
+	</publication>
+	<publication>
+		<title>A Novel Secure Routing System in Overlay Environment</title>
+		<year>2005</year>
+		<authors>Han Su,Yun Wang</authors>
+		<jconf>GCC</jconf>
+		<id>223891</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>On Data Fusion and Lifetime Constraints in Wireless Sensor Networks</title>
+		<year>2007</year>
+		<authors>Xiaodong Wang,Demin Wang,Yun Wang,Dharma P. Agrawal,Amitabh Mishra</authors>
+		<jconf>ICC</jconf>
+		<id>277758</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modeling, Learning and Simulating Biological Cells with Entity Grammar</title>
+		<year>2007</year>
+		<authors>Yun Wang,Rao Zheng,Yan-Jiang Qiao</authors>
+		<jconf>International Conference on Computational Science (4)</jconf>
+		<id>280863</id>
+		<label>8</label>
+		<organization>Beijing University of Chinese Medicine, Beijing, 100102, China</organization>
+	</publication>
+	<publication>
+		<title>A Nonblocking Approach for Reaching an Agreement on Request Total Orders</title>
+		<year>2008</year>
+		<authors>Yun Wang,Jie Wu</authors>
+		<jconf>ICDCS</jconf>
+		<id>298222</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An Efficient Hybrid Join Algorithm: A DB2 Prototype</title>
+		<year>1991</year>
+		<authors>Josephine M. Cheng,Donald J. Haderle,Richard Hedges,Balakrishna R. Iyer,Ted Messinger,C. Mohan,Yun Wang</authors>
+		<jconf>ICDE</jconf>
+		<id>299710</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>EFSM-based Testing Strategy for APIs Test of Embedded OS</title>
+		<year>2004</year>
+		<authors>SongXia Hao,XiChang Zhong,Yun Wang</authors>
+		<jconf>ICESS</jconf>
+		<id>308937</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comprehensive approach to teaching CS238 (visual basic programming)</title>
+		<year>2000</year>
+		<authors>Yun Wang</authors>
+		<jconf>IRMA Conference</jconf>
+		<id>414927</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Automatic Synthesis of Multi-Tasking Implementations from Real-Time Object-Oriented Models</title>
+		<year>2000</year>
+		<authors>Manas Saksena,Panagiota Karvelas,Yun Wang</authors>
+		<jconf>ISORC</jconf>
+		<id>444471</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IA-32 Execution Layer: a two-phase dynamic translator designed to support IA-32 applications on Itanium-based systems</title>
+		<year>2003</year>
+		<authors>Leonid Baraz,Tevi Devor,Orna Etzion,Shalom Goldenberg,Alex Skaletsky,Yun Wang,Yigel Zemach</authors>
+		<jconf>MICRO</jconf>
+		<id>499078</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enterprise Modelling Based Services Orchestration</title>
+		<year>2008</year>
+		<authors>Qing Li,Canqiang Li,Yun Wang</authors>
+		<jconf>OTM Workshops</jconf>
+		<id>525203</id>
+		<label>16</label>
+		<organization>Department of Automation, Tsinghua University, Beijing, P.R. China 100084</organization>
+	</publication>
+	<publication>
+		<title>A Method to Organize A Small-World Based Publish/Subscribe Network In Large-Scale Environment</title>
+		<year>2006</year>
+		<authors>Kai Li,Yun Wang</authors>
+		<jconf>PDPTA</jconf>
+		<id>536183</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scheduling Fixed-Priority Tasks with Preemption Threshold</title>
+		<year>1999</year>
+		<authors>Yun Wang,Manas Saksena</authors>
+		<jconf>RTCSA</jconf>
+		<id>564688</id>
+		<label>13</label>
+		<organization>Dept. of Comput. Sci., Concordia Univ., Montreal, Que.</organization>
+	</publication>
+	<publication>
+		<title>Experience from a Real Life Query Optimizer</title>
+		<year>1992</year>
+		<authors>Yun Wang</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>599911</id>
+		<label>17</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recent database challenges in China on data consolidation and integration</title>
+		<year>2007</year>
+		<authors>Yun Wang</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>600083</id>
+		<label>17</label>
+		<organization>IBM, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>High Level Indexing of User-Defined Types</title>
+		<year>1999</year>
+		<authors>Weidong Chen,Jyh-Herng Chow,You-Chin Fuh,Jean Grandbois,Michelle Jou,Nelson Mendonca Mattos,Brian T. Tran,Yun Wang</authors>
+		<jconf>VLDB</jconf>
+		<id>642350</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>DB2 Query Parallelism: Staging and Implementation</title>
+		<year>1995</year>
+		<authors>Yun Wang</authors>
+		<jconf>VLDB</jconf>
+		<id>643975</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Metadata driven memory optimizations in dynamic binary translator</title>
+		<year>2007</year>
+		<authors>Chaohao Xu,Jianhui Li,Tao Bao,Yun Wang,Bo Huang</authors>
+		<jconf>VEE</jconf>
+		<id>678022</id>
+		<label>15</label>
+		<organization>Software and Solution Group (SSG), Intel China Software Center, Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>A Robust Load Balancing Pattern for Grid Computing</title>
+		<year>2005</year>
+		<authors>Junling Wang,Yun Wang</authors>
+		<jconf>SKG</jconf>
+		<id>681043</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A latent class modeling approach to detect network intrusion</title>
+		<year>2006</year>
+		<authors>Yun Wang,Inyoung Kim,Gaston Mbateng,Shih-Yieh Ho</authors>
+		<jconf>Computer Communications</jconf>
+		<id>802548</id>
+		<label>18</label>
+		<organization>Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA</organization>
+	</publication>
+	<publication>
+		<title>A multinomial logistic regression modeling approach for anomaly intrusion detection</title>
+		<year>2005</year>
+		<authors>Yun Wang</authors>
+		<jconf>Computers  Security</jconf>
+		<id>805216</id>
+		<label>18</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Query Optimization in the IBM DB2 Family</title>
+		<year>1993</year>
+		<authors>Peter Gassner,Guy M. Lohman,K. Bernhard Schiefer,Yun Wang</authors>
+		<jconf>IEEE Data Eng. Bull.</jconf>
+		<id>844456</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Parallelism in Relational Database Management Systems</title>
+		<year>1994</year>
+		<authors>C. Mohan,Hamid Pirahesh,W. Grace Tang,Yun Wang</authors>
+		<jconf>IBM Systems Journal</jconf>
+		<id>892462</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Solving the Group Priority Inversion Problem in a Timed Asynchronous System</title>
+		<year>2002</year>
+		<authors>Yun Wang,Emmanuelle Anceaume,Francisco Vilar Brasileiro,Fabiola Greve,Michel Hurfin</authors>
+		<jconf>IEEE Trans. Computers</jconf>
+		<id>1082571</id>
+		<label>2</label>
+		<organization>Southeast Univ., Nanjing</organization>
+	</publication>
+	<publication>
+		<title>Intrusion Detection in Homogeneous and Heterogeneous Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Yun Wang,Xiaodong Wang,Bin Xie,Demin Wang,Dharma P. Agrawal</authors>
+		<jconf>IEEE Trans. Mob. Comput.</jconf>
+		<id>1114546</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Non-blocking message total ordering protocol</title>
+		<year>2008</year>
+		<authors>Yun Wang,Junling Wang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1180590</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nonuniform Deployment Prolongs Lifetime of Wireless Sensor Networks</title>
+		<year>2008</year>
+		<authors>Demin Wang,Yi Cheng,Yun Wang,Dharma P. Agrawal</authors>
+		<jconf>Ad Hoc  Sensor Wireless Networks</jconf>
+		<id>1189121</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Visual Zen art: aesthetic cognitive dissonance in Japanese dry stone garden measured in visual PageRank</title>
+		<year>2009</year>
+		<authors>DongSheng Cai,Shigenori Mochiuki,Yun Wang,Nobuyoshi Asai,Asako Fukumoto</authors>
+		<jconf>Educational Technology & Society</jconf>
+		<id>1256013</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Attribute reduction and optimal decision rules acquisition for continuous valued information systems</title>
+		<year>2009</year>
+		<authors>Yanyong Guan,Hongkai Wang,Yun Wang,Fang Yang</authors>
+		<jconf>Inf. Sci.</jconf>
+		<id>1276534</id>
+		<label>4</label>
+		<organization>School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China</organization>
+	</publication>
+	<publication>
+		<title>Range-Free Localization Using Expected Hop Progress in Wireless Sensor Networks</title>
+		<year>2009</year>
+		<authors>Yun Wang,Xiaodong Wang,Demin Wang,Dharma P. Agrawal</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1282181</id>
+		<label>7</label>
+		<organization>Southern Illinois University, Edwardsville</organization>
+	</publication>
+	<publication>
+		<title>The Determinants of Passenger Load Factor for Chinese Airline Industry.</title>
+		<year>2009</year>
+		<authors>Yun Wang,Hongbing Ouyang,Zongcheng Zhang</authors>
+		<jconf>null</jconf>
+		<id>1314905</id>
+		<label>5</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Contamination Level and Speciation of Heavy Metals in Sediments from Yundang Lake, Xiamen.</title>
+		<year>2009</year>
+		<authors>Jing Lin,Minggang Cai,Anxiang Qi,Hongyou Hu,Canrong Qiu,Yun Wang,Qingquan Hong</authors>
+		<jconf>null</jconf>
+		<id>1318209</id>
+		<label>6</label>
+		<organization>Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China</organization>
+	</publication>
+	<publication>
+		<title>Order-Based Decision Rules Acquisition in Continuous-Valued Decision Information Systems.</title>
+		<year>2009</year>
+		<authors>Yanyong Guan,Lei Du,Yun Wang</authors>
+		<jconf>null</jconf>
+		<id>1318980</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Scalable Real-Time System Design using Preemption Thresholds.</title>
+		<year>2000</year>
+		<authors>Manas Saksena,Yun Wang</authors>
+		<jconf>null</jconf>
+		<id>1321931</id>
+		<label>13</label>
+		<organization>TimeSys Corp., Pittsburgh, PA</organization>
+	</publication>
+	<publication>
+		<title>The Evil Twin</title>
+		<year>2008</year>
+		<authors>Yun Wang</authors>
+		<jconf>ACM SIGGRAPH ASIA 2008 computer animation festival</jconf>
+		<id>1383599</id>
+		<label>9</label>
+		<organization>Taiwan</organization>
+	</publication>
+	<publication>
+		<title>Hierarchical methods for three-dimensional surface reconstruction</title>
+		<year>1996</year>
+		<authors>Yun Wang</authors>
+		<jconf>null</jconf>
+		<id>1402747</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IA-32 Execution Layer: a two-phase dynamic translator designed to support IA-32 applications on Itanium®-based systems</title>
+		<year>2003</year>
+		<authors>Leonid Baraz,Tevi Devor,Orna Etzion,Shalom Goldenberg,Alex Skaletsky,Yun Wang,Yigel Zemach</authors>
+		<jconf>Proceedings of the 36th annual IEEE/ACM International Symposium on Microarchitecture</jconf>
+		<id>1557243</id>
+		<label>15</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Systems Biology Platform for Mechanism Clarification of TCM</title>
+		<year>2009</year>
+		<authors>Yun Wang,JinLing Hao,YanJiang Qiao</authors>
+		<jconf>Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 03</jconf>
+		<id>1655000</id>
+		<label>8</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The modeling of piezoceramic patch interactions with shells, plates, and beams</title>
+		<year>1995</year>
+		<authors>H. T. Banks,R. C. Smith,Yun Wang</authors>
+		<jconf>Quarterly of Applied Mathematics</jconf>
+		<id>1724884</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Application of Distributed GA-Based RBF Neural Network in Fire Detection</title>
+		<year>2008</year>
+		<authors>Hairong Wang,Weiguo Yang,Huiling Jiang,Yun Wang</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03</jconf>
+		<id>1751399</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+</person>

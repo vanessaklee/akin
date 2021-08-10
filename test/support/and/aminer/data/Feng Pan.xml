@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>25091</personID>
+	<FullName>Feng Pan</FullName>
+	<FirstName>Feng</FirstName>
+	<LastName>Pan</LastName>
+	<publication>
+		<title>Modeling and Learning Vague Event Durations for Temporal Reasoning</title>
+		<year>2007</year>
+		<authors>Feng Pan,Rutu Mulkar,Jerry R. Hobbs</authors>
+		<jconf>AAAI</jconf>
+		<id>15901</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Learning Event Durations from Event Descriptions</title>
+		<year>2006</year>
+		<authors>Feng Pan,Rutu Mulkar-Mehta,Jerry R. Hobbs</authors>
+		<jconf>ACL</jconf>
+		<id>21083</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Infrared Face Recognition by Using Blood Perfusion Data</title>
+		<year>2005</year>
+		<authors>Shi-Qian Wu,W. Song,Li-Jun Jiang,S.-L. Xie,Feng Pan,Wei-Yun Yau,Surendra Ranganath</authors>
+		<jconf>AVBPA</jconf>
+		<id>60851</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>REDUS: finding reducible subspaces in high dimensional data</title>
+		<year>2008</year>
+		<authors>Xiang Zhang,Feng Pan,Wei Wang</authors>
+		<jconf>CIKM</jconf>
+		<id>96562</id>
+		<label>3</label>
+		<organization>University of North Carolina at Chapel Hill, Chapel Hill, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>Optimal Interdiction of Unreactive Markovian Evaders</title>
+		<year>2009</year>
+		<authors>Alexander Gutfraind,Aric A. Hagberg,Feng Pan</authors>
+		<jconf>CPAIOR</jconf>
+		<id>118292</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Temporal Aggregates in OWL-Time</title>
+		<year>2005</year>
+		<authors>Feng Pan,Jerry R. Hobbs</authors>
+		<jconf>FLAIRS Conference</jconf>
+		<id>207568</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Novel Joint Rate Control Scheme for the Coding of Multiple Real Time Video Programs</title>
+		<year>2002</year>
+		<authors>Zengguo Li,Ce Zhu,Feng Pan,Genan Feng,Xiaokang Yang,Si Wu,Nam Ling</authors>
+		<jconf>ICDCS Workshops</jconf>
+		<id>298638</id>
+		<label>0</label>
+		<organization>Center for Signal Process., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Accelerating Profile Queries in Elevation Maps</title>
+		<year>2007</year>
+		<authors>Feng Pan,Wei Wang,Leonard McMillan</authors>
+		<jconf>ICDE</jconf>
+		<id>301622</id>
+		<label>3</label>
+		<organization>North Carolina Univ., Chapel Hill, NC</organization>
+	</publication>
+	<publication>
+		<title>CARE: Finding Local Linear Correlations in High Dimensional Data</title>
+		<year>2008</year>
+		<authors>Xiang Zhang,Feng Pan,Wei Wang</authors>
+		<jconf>ICDE</jconf>
+		<id>302059</id>
+		<label>3</label>
+		<organization>Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu</organization>
+	</publication>
+	<publication>
+		<title>A General Framework for Fast Co-clustering on Large Datasets Using Matrix Decomposition</title>
+		<year>2008</year>
+		<authors>Feng Pan,Xiang Zhang,Wei Wang</authors>
+		<jconf>ICDE</jconf>
+		<id>302079</id>
+		<label>3</label>
+		<organization>Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu</organization>
+	</publication>
+	<publication>
+		<title>Mining Frequent Closed Patterns in Microarray Data</title>
+		<year>2004</year>
+		<authors>Gao Cong,Kian-Lee Tan,Anthony K. H. Tung,Feng Pan</authors>
+		<jconf>ICDM</jconf>
+		<id>302511</id>
+		<label>3</label>
+		<organization>National University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Finding Representative Set from Massive Data</title>
+		<year>2005</year>
+		<authors>Feng Pan,Wei Wang,Anthony K. H. Tung,Jiong Yang</authors>
+		<jconf>ICDM</jconf>
+		<id>302775</id>
+		<label>3</label>
+		<organization>University of North Carolina at Chapel Hill</organization>
+	</publication>
+	<publication>
+		<title>Sample Selection for Maximal Diversity</title>
+		<year>2007</year>
+		<authors>Feng Pan,Adam Roberts,Leonard McMillan,David Threadgill,Wei Wang</authors>
+		<jconf>ICDM</jconf>
+		<id>303480</id>
+		<label>3</label>
+		<organization>Univ. of North Carolina, Chapel Hill</organization>
+	</publication>
+	<publication>
+		<title>Quantitative Association Analysis Using Tree Hierarchies</title>
+		<year>2008</year>
+		<authors>Feng Pan,Lynda Yang,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill,Wei Wang</authors>
+		<jconf>ICDM</jconf>
+		<id>303726</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC</organization>
+	</publication>
+	<publication>
+		<title>Study of Improved Hierarchy Genetic Algorithm Based on Adaptive Niches</title>
+		<year>2005</year>
+		<authors>Qiao-Ling Ji,Wei-Min Qi,Wei-You Cai,Yuan-Chu Cheng,Feng Pan</authors>
+		<jconf>ICIC (1)</jconf>
+		<id>313450</id>
+		<label>7</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive rate control for H.264</title>
+		<year>2004</year>
+		<authors>Zhengguo Li,Feng Pan,Keng Pang Lim,Xiao Lin,Susanto Rahardja</authors>
+		<jconf>ICIP</jconf>
+		<id>319197</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A New Set of Moment Invariants for Handwritten Numeral Recognition</title>
+		<year>1994</year>
+		<authors>Feng Pan,Mike Keane</authors>
+		<jconf>ICIP (1)</jconf>
+		<id>320318</id>
+		<label>9</label>
+		<organization>Dept. of Exp. Phys., Univ. Coll. Galway</organization>
+	</publication>
+	<publication>
+		<title>Fast intra mode decision algorithm for H.264/AVC video coding</title>
+		<year>2004</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Keng Pang Lim,Zhengguo Li,Dajun Wu,Si Wu,C. All,W. Ye,Z. Liang</authors>
+		<jconf>ICIP</jconf>
+		<id>320329</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A router based unequal error control scheme for video over the Internet</title>
+		<year>2002</year>
+		<authors>Xiaokang Yang,Ce Zhu,Zengguo Li,Genan Feng,Si Wu,Nam Ling,Feng Pan</authors>
+		<jconf>ICIP (2)</jconf>
+		<id>322438</id>
+		<label>0</label>
+		<organization>Labs. for Inf. Technol., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Complexity-based rate distortion optimization with perceptual tuning for scalable video coding</title>
+		<year>2005</year>
+		<authors>Feng Pan,Yin Sun,Zhongkang Lu,Ashraf A. Kassim</authors>
+		<jconf>ICIP (3)</jconf>
+		<id>323507</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Complexity adaptive quantization for intra-frames in very low bit rate video coding</title>
+		<year>2004</year>
+		<authors>Feng Pan,Zhengguo Li,Keng Pang Lim,Xiao Lin,Susanto Rahardja,Dajun Wu,Si Wu</authors>
+		<jconf>ICME</jconf>
+		<id>330929</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>A directional field based fast intra mode decision algorithm for H.264 video coding</title>
+		<year>2004</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Keng Pang Lim,Zhengguo Li</authors>
+		<jconf>ICME</jconf>
+		<id>330931</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Proactive frame-skipping decision scheme for variable frame rate video coding</title>
+		<year>2004</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Keng Pang Lim,Zhengguo Li,Dajun Wu,Si Wu</authors>
+		<jconf>ICME</jconf>
+		<id>330933</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Measuring blocking artifacts using edge direction information</title>
+		<year>2004</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Ee Ping Ong,Weisi Lin</authors>
+		<jconf>ICME</jconf>
+		<id>330935</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A perceptual bit allocation scheme for H.264</title>
+		<year>2005</year>
+		<authors>Hongtao Yu,Feng Pan,Zhiping Lin,Yin Sun</authors>
+		<jconf>ICME</jconf>
+		<id>332489</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Efficient contact state graph generation for assembly applications</title>
+		<year>2003</year>
+		<authors>Feng Pan,Joseph M. Schimmels</authors>
+		<jconf>ICRA</jconf>
+		<id>354238</id>
+		<label>10</label>
+		<organization>Dept. of Mech. & Ind. Eng., Marquette Univ., Milwaukee, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>Robust Procedures for Obtaining Assembly Contact State Extremal Configurations</title>
+		<year>2004</year>
+		<authors>Feng Pan,Joseph M. Schimmels</authors>
+		<jconf>ICRA</jconf>
+		<id>356903</id>
+		<label>10</label>
+		<organization>Dept. of Mech. & Ind. Eng., Marquette Univ., Milwaukee, WI, USA</organization>
+	</publication>
+	<publication>
+		<title>Temporal Aggregates for Web Services on the Semantic Web</title>
+		<year>2005</year>
+		<authors>Feng Pan</authors>
+		<jconf>ICWS</jconf>
+		<id>370590</id>
+		<label>0</label>
+		<organization>University of Southern California</organization>
+	</publication>
+	<publication>
+		<title>Exploring the Energy-Time Tradeoff in MPI Programs on a Power-Scalable Cluster</title>
+		<year>2005</year>
+		<authors>Vincent W. Freeh,Feng Pan,Nandini Kappiah,David K. Lowenthal,Robert Springer</authors>
+		<jconf>IPDPS</jconf>
+		<id>409001</id>
+		<label>3</label>
+		<organization>North Carolina State University</organization>
+	</publication>
+	<publication>
+		<title>Exploring the Energy-Time Tradeoff in High-Performance Computing</title>
+		<year>2005</year>
+		<authors>Feng Pan,Vincent W. Freeh,Daniel M. Smith</authors>
+		<jconf>IPDPS</jconf>
+		<id>410320</id>
+		<label>3</label>
+		<organization>North Carolina State University, Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Adaptive intra-frame quantization for very low bit rate video coding</title>
+		<year>2004</year>
+		<authors>Feng Pan,Zhengguo Li,Keng Pang Lim,Xiao Lin,Susanto Rahardja,Si Wu,Dajun Wu</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>423332</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A locally-adaptive algorithm for measuring blocking artifacts in images and videos</title>
+		<year>2004</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Weisi Lin,Ee Ping Ong,Susu Yao,Zhongkang Lu,Xiaokang Yang</authors>
+		<jconf>ISCAS (3)</jconf>
+		<id>423333</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>An adaptive edge-preserving artifacts removal filter for video post-processing</title>
+		<year>2005</year>
+		<authors>Xiaokang Yang,Susu Yao,Keng Pang Lim,Xiao Lin,Susanto Rahardja,Feng Pan</authors>
+		<jconf>ISCAS (5)</jconf>
+		<id>424997</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An improved rate control algorithm for H.264</title>
+		<year>2005</year>
+		<authors>Hongtao Yu,Zhiping Lin,Feng Pan</authors>
+		<jconf>ISCAS (1)</jconf>
+		<id>425052</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>A scalable fast mode decision algorithm for H.264</title>
+		<year>2006</year>
+		<authors>Zhiping Lin,Hongtao Yu,Feng Pan</authors>
+		<jconf>ISCAS</jconf>
+		<id>430117</id>
+		<label>0</label>
+		<organization>Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Carpenter: finding closed patterns in long biological datasets</title>
+		<year>2003</year>
+		<authors>Feng Pan,Gao Cong,Anthony K. H. Tung,Jiong Yang,Mohammed Javeed Zaki</authors>
+		<jconf>KDD</jconf>
+		<id>473148</id>
+		<label>3</label>
+		<organization>Natl. University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Fast Rate-Distortion Optimization in H.264/AVC Video Coding</title>
+		<year>2005</year>
+		<authors>Feng Pan,Kenny Choo,Thinh M. Le</authors>
+		<jconf>KES (3)</jconf>
+		<id>475340</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Block Standstill and Homogeneity Based Fast Motion Estimation Algorithm for H.264 Video Coding</title>
+		<year>2005</year>
+		<authors>Feng Pan,H. Men,Thinh M. Le</authors>
+		<jconf>KES (3)</jconf>
+		<id>475341</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Computing Semantic Similarity between Skill Statements for Approximate Matching</title>
+		<year>2007</year>
+		<authors>Feng Pan,Robert Farrell</authors>
+		<jconf>HLT-NAACL</jconf>
+		<id>511635</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A 2-Stage Partial Distortion Search Algorithm for Block Motion Estimation</title>
+		<year>2002</year>
+		<authors>R. Yu,Keng Pang Lim,Dajun Wu,Feng Pan,Zhengguo Li,Genan Feng,Si Wu</authors>
+		<jconf>IEEE Pacific Rim Conference on Multimedia</jconf>
+		<id>532046</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study</title>
+		<year>2009</year>
+		<authors>Xiang Zhang,Feng Pan,Yuying Xie,Fei Zou,Wei Wang</authors>
+		<jconf>RECOMB</jconf>
+		<id>559356</id>
+		<label>3</label>
+		<organization>Department of Computer Science, University of North Carolina at Chapel Hill,</organization>
+	</publication>
+	<publication>
+		<title>FARMER: Finding Interesting Rule Groups in Microarray Datasets</title>
+		<year>2004</year>
+		<authors>Gao Cong,Anthony K. H. Tung,Xin Xu,Feng Pan,Jiong Yang</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>598434</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition</title>
+		<year>2008</year>
+		<authors>Feng Pan,Xiang Zhang,Wei Wang</authors>
+		<jconf>SIGMOD Conference</jconf>
+		<id>600269</id>
+		<label>3</label>
+		<organization>University of North Carolina at Chapel Hill, Chapel Hill, NC, USA</organization>
+	</publication>
+	<publication>
+		<title>COBBLER: Combining Column and Row Enumeration for Closed Pattern Discovery</title>
+		<year>2004</year>
+		<authors>Feng Pan,Anthony K. H. Tung,Gao Cong,Xin Xu</authors>
+		<jconf>SSDBM</jconf>
+		<id>618209</id>
+		<label>3</label>
+		<organization>National University of Singapore</organization>
+	</publication>
+	<publication>
+		<title>Temporal Arithmetic Mixing Months and Days</title>
+		<year>2006</year>
+		<authors>Feng Pan,Jerry R. Hobbs</authors>
+		<jconf>TIME</jconf>
+		<id>628545</id>
+		<label>0</label>
+		<organization>University of Southern California</organization>
+	</publication>
+	<publication>
+		<title>Efficient Compression of Multi-view Video Using Hierarchical B Pictures</title>
+		<year>2008</year>
+		<authors>Lini Ma,Feng Pan</authors>
+		<jconf>MUE</jconf>
+		<id>692142</id>
+		<label>8</label>
+		<organization>Dept. of Comput. Sci., Beijing Inf. Sci. & Technol. Univ., Beijing</organization>
+	</publication>
+	<publication>
+		<title>The Exploration and Practice of Talents Foster Mode about Information Science in Country-Oriented Information-Based Strategy</title>
+		<year>2008</year>
+		<authors>Shuying Zhao,Chengdong Wu,Feng Pan,Yunzhou Zhang</authors>
+		<jconf>CSSE (5)</jconf>
+		<id>729959</id>
+		<label>6</label>
+		<organization>Sch. of Inf. Sci. & Eng., Northeastern Univ., Shenyang, China</organization>
+	</publication>
+	<publication>
+		<title>Optimal Interdiction of Unreactive Markovian Evaders</title>
+		<year>2009</year>
+		<authors>Alexander Gutfraind,Aric A. Hagberg,Feng Pan</authors>
+		<jconf>CoRR</jconf>
+		<id>830032</id>
+		<label>4</label>
+		<organization>Risk Analysis and Decision Support Systems, Los Alamos National Laboratory, Los Alamos, New Mexico 87545</organization>
+	</publication>
+	<publication>
+		<title>Minimizing a stochastic maximum-reliability path</title>
+		<year>2008</year>
+		<authors>Feng Pan,David P. Morton</authors>
+		<jconf>Networks</jconf>
+		<id>1024854</id>
+		<label>4</label>
+		<organization>D-6 Risk Analysis and Decision Support Systems, Los Alamos National Laboratory, Los Alamos, New Mexico 87545</organization>
+	</publication>
+	<publication>
+		<title>Adaptive image compression using local pattern information</title>
+		<year>2002</year>
+		<authors>Feng Pan</authors>
+		<jconf>Pattern Recognition Letters</jconf>
+		<id>1045327</id>
+		<label>0</label>
+		<organization>School of EEE, Centre for Signal Processing, Nanyang Technological University, 639798 Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>An ontology of time for the semantic web</title>
+		<year>2004</year>
+		<authors>Jerry R. Hobbs,Feng Pan</authors>
+		<jconf>ACM Trans. Asian Lang. Inf. Process.</jconf>
+		<id>1077446</id>
+		<label>0</label>
+		<organization>University of Southern California</organization>
+	</publication>
+	<publication>
+		<title>A unified architecture for real-time video-coding systems</title>
+		<year>2003</year>
+		<authors>Zhengguo Li,Ce Zhu,Nam Ling,Xiaokang Yang,Genan Feng,Si Wu,Feng Pan</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097075</id>
+		<label>0</label>
+		<organization>Media Div., Inst. for InfoComm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>A study of MPEG-4 rate control scheme and its improvements</title>
+		<year>2003</year>
+		<authors>Feng Pan,Zengguo Li,Keng Pang Lim,Genan Feng</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097159</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore</organization>
+	</publication>
+	<publication>
+		<title>Fast mode decision algorithm for intraprediction in H.264/AVC video coding</title>
+		<year>2005</year>
+		<authors>Feng Pan,Xiao Lin,Susanto Rahardja,Keng Pang Lim,Z. G. Li,Dajun Wu,Si Wu</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097161</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Fast intermode decision in H.264/AVC video coding</title>
+		<year>2005</year>
+		<authors>Dajun Wu,Feng Pan,Keng Pang Lim,Si Wu,Zhengguo Li,Xiao Lin,Susanto Rahardja,Chi Chung Ko</authors>
+		<jconf>IEEE Trans. Circuits Syst. Video Techn.</jconf>
+		<id>1097431</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Analyzing the Energy-Time Trade-Off in High-Performance Computing Applications</title>
+		<year>2007</year>
+		<authors>Vincent W. Freeh,David K. Lowenthal,Feng Pan,Nandini Kappiah,Robert Springer,Barry Rountree,Mark E. Femal</authors>
+		<jconf>IEEE Trans. Parallel Distrib. Syst.</jconf>
+		<id>1126126</id>
+		<label>3</label>
+		<organization>Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC</organization>
+	</publication>
+	<publication>
+		<title>Adaptive frame skipping based on spatio-temporal complexity for low bit-rate video coding</title>
+		<year>2006</year>
+		<authors>Feng Pan,Z. P. Lin,Xiao Lin,Susanto Rahardja,W. Juwono,F. Slamet</authors>
+		<jconf>J. Visual Communication and Image Representation</jconf>
+		<id>1143477</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adaptive rate control for H.264</title>
+		<year>2006</year>
+		<authors>Zhengguo Li,Wen Gao,Feng Pan,S. W. Ma,Keng Pang Lim,G. N. Feng,Xiao Lin,Susanto Rahardja,H. Q. Lu,Yan Lu</authors>
+		<jconf>J. Visual Communication and Image Representation</jconf>
+		<id>1143496</id>
+		<label>0</label>
+		<organization>Media Div., Inst. for Infocomm Res., Singapore, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Dynamic Modeling of Biotechnical Process Based on Online Support Vector Machine</title>
+		<year>2009</year>
+		<authors>Xianfang Wang,Zhiyong Du,Jindong Chen,Feng Pan</authors>
+		<jconf>JCP</jconf>
+		<id>1184607</id>
+		<label>12</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A survey of passive technology for digital image forensics</title>
+		<year>2007</year>
+		<authors>Weiqi Luo,Zhenhua Qu,Feng Pan,Jiwu Huang</authors>
+		<jconf>Frontiers of Computer Science in China</jconf>
+		<id>1185453</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mining non-redundant high order correlations in binary data</title>
+		<year>2008</year>
+		<authors>Xiang Zhang,Feng Pan,Wei Wang,Andrew B. Nobel</authors>
+		<jconf>PVLDB</jconf>
+		<id>1186041</id>
+		<label>3</label>
+		<organization>University of North Carolina at Chapel Hill</organization>
+	</publication>
+	<publication>
+		<title>Digital Video Coding - Techniques and Standards</title>
+		<year>2007</year>
+		<authors>Feng Pan</authors>
+		<jconf>Intelligent Multimedia Data Hiding: New Directions</jconf>
+		<id>1201411</id>
+		<label>14</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Problem difficulty analysis for particle swarm optimization: deception and modality</title>
+		<year>2009</year>
+		<authors>Bin Xin,Jie Chen,Feng Pan</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207555</id>
+		<label>13</label>
+		<organization>Department of Automatic Control, Beijing Institute of Technology, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>A multi-objective-based non-stationary UAV assignment model for constraints handling using PSO</title>
+		<year>2009</year>
+		<authors>Feng Pan,Guanghui Wang,Yang Liu</authors>
+		<jconf>GEC Summit</jconf>
+		<id>1207666</id>
+		<label>13</label>
+		<organization>Beijing Institute of Technology, Beijing, China</organization>
+	</publication>
+	<publication>
+		<title>Feature selection for ranking using boosted trees</title>
+		<year>2009</year>
+		<authors>Feng Pan,Tim Converse,David Ahn,Franco Salvetti,Gianluca Donato</authors>
+		<jconf>CIKM</jconf>
+		<id>1239501</id>
+		<label>0</label>
+		<organization>Microsoft / Powerset, San Francisco, CA, USA</organization>
+	</publication>
+	<publication>
+		<title>Robust sequence memory in sparsely-connected networks with controllable steady-state period</title>
+		<year>2009</year>
+		<authors>Min Xia,Jian'an Fang,Feng Pan,En'jian Bai</authors>
+		<jconf>Neurocomputing</jconf>
+		<id>1274010</id>
+		<label>5</label>
+		<organization>College of Information Science and Technology, Donghua University, Shanghai 201620, China</organization>
+	</publication>
+	<publication>
+		<title>Discriminating between photorealistic computer graphics and natural images using fractal geometry</title>
+		<year>2009</year>
+		<authors>Feng Pan,JiongBin Chen,Jiwu Huang</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1286072</id>
+		<label>11</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Statistical learning makes the hybridization of particle swarm and differential evolution more efficient - A novel hybrid optimizer</title>
+		<year>2009</year>
+		<authors>Jie Chen,Bin Xin,ZhiHong Peng,Feng Pan</authors>
+		<jconf>Science in China Series F: Information Sciences</jconf>
+		<id>1286198</id>
+		<label>13</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Web-based infectious disease reporting using XML forms</title>
+		<year>2008</year>
+		<authors>Danhong Liu,Xia Wang,Feng Pan,Yongyong Xu,Peng Yang,Keqin Rao</authors>
+		<jconf>Synthesis Lectures on Computer Vision</jconf>
+		<id>1290569</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A new hybrid model for time-series prediction.</title>
+		<year>2009</year>
+		<authors>Feng Pan,Min Xia,En'jian Bai</authors>
+		<jconf>null</jconf>
+		<id>1302001</id>
+		<label>5</label>
+		<organization>Coll. of Inf. Sci. & Technol., Donghua Univ., Shanghai, China</organization>
+	</publication>
+	<publication>
+		<title>An Optimal Controller Based-on GA for Direct Torque Control.</title>
+		<year>2009</year>
+		<authors>Feng Pan,Rucheng Han,Runsheng Zhang</authors>
+		<jconf>null</jconf>
+		<id>1329252</id>
+		<label>2</label>
+		<organization>Electr. Inf. Eng. Coll., Taiyuan Univ. of Sci. & Technol., Taiyuan, China</organization>
+	</publication>
+	<publication>
+		<title>An adaptive rate control algorithm for video coding over personal digital assistants (PDA)</title>
+		<year>2003</year>
+		<authors>Feng Pan,Z. G. Li,K. P. Lim,D. J. Wu,R. S. Yu,G. N. Feng</authors>
+		<jconf>Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1</jconf>
+		<id>1370694</id>
+		<label>0</label>
+		<organization>Inst. for Infocomm Res., A-STAR, Singapore</organization>
+	</publication>
+	<publication>
+		<title>Modeling of Fermentation Process Based on QDPSO-SVM</title>
+		<year>2008</year>
+		<authors>Xianfang Wang,Jindong Chen,Zhou Wu,Feng Pan</authors>
+		<jconf>Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07</jconf>
+		<id>1752846</id>
+		<label>12</label>
+		<organization>Sch. of Commun. & Control Eng., Jiangnan Univ., Wuxi</organization>
+	</publication>
+</person>
