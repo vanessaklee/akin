@@ -6,7 +6,7 @@ defmodule Akin.Similarity.MetaphoneExact do
   # @behaviour Akin.StringMetric
   use Akin.StringMetric
 
-  import Akin.Phonetic.MetaphoneAlgorithm, only: [compute: 1]
+  import Akin.Phonetic.Metaphone, only: [compute: 1]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1]
   import String, only: [first: 1]
 

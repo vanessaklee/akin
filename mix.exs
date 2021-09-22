@@ -11,7 +11,8 @@ defmodule Akin.Mixfile do
       homepage_url: "https://github.com/smashedtoatoms/akin",
       description: description(),
       package: package(),
-      deps: deps()
+      deps: deps(),
+      xref: [exclude: [Unicode.Utils]]
     ]
   end
 
@@ -37,9 +38,10 @@ defmodule Akin.Mixfile do
       {:ex_doc, "~> 0.19", only: :dev},
       {:credo, "~> 1.0", only: :dev},
       {:ex_unicode, "~> 1.0"},
+      {:unicode_string, "~> 1.0"},
       {:html_entities, "~> 0.5"},
       {:stemmer, "~> 1.0"},
-      {:sweet_xml, "~> 0.7.0"},
+      {:sweet_xml, "~> 0.7.0"}
     ]
   end
 

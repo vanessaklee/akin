@@ -1,4 +1,4 @@
-defmodule Akin.Phonetic.MetaphoneAlgorithm do
+defmodule Akin.Phonetic.Metaphone do
   @moduledoc """
   Calculates the [Metaphone Phonetic Algorithm](http://en.wikipedia.org/wiki/
   Metaphone) of a string.
@@ -10,9 +10,9 @@ defmodule Akin.Phonetic.MetaphoneAlgorithm do
   @doc """
     Returns the Metaphone phonetic version of the provided string.
     ## Examples
-      iex> Akin.Phonetic.MetaphoneAlgorithm.compute("z")
+      iex> Akin.Phonetic.Metaphone.compute("z")
       "s"
-      iex> Akin.Phonetic.MetaphoneAlgorithm.compute("ztiaz")
+      iex> Akin.Phonetic.Metaphone.compute("ztiaz")
       "sxs"
   """
   def compute(value) do

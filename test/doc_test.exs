@@ -1,6 +1,6 @@
 defmodule DocTest do
   use ExUnit.Case
-  doctest Akin.Phonetic.MetaphoneAlgorithm
+  doctest Akin.Phonetic.Metaphone
   doctest Akin.Similarity.MetaphoneExact
   doctest Akin.Similarity.MetaphoneScores
   doctest Akin.Similarity.DiceSorensen

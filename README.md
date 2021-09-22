@@ -200,11 +200,11 @@ Akin.compare_using(:metaphone_scores, a, b)
 To see the metaphone results, call the phonetic algorithm directly.
 
 ```elixir
-iex> Akin.Phonetic.MetaphoneAlgorithm.compute("virginia")
+iex> Akin.Phonetic.Metaphone.compute("virginia")
 "frjn"
-iex> Akin.Phonetic.MetaphoneAlgorithm.compute("woolf")
+iex> Akin.Phonetic.Metaphone.compute("woolf")
 "wlf"
-iex> Akin.Phonetic.MetaphoneAlgorithm.compute("woolfe")
+iex> Akin.Phonetic.Metaphone.compute("woolfe")
 "wlf"
 ```
 

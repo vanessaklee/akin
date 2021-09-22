@@ -5,6 +5,8 @@ defmodule Akin do
   import Akin.Util, only: [modulize: 1]
   @default_ngram_size 2
 
+  # TODO use Unicode.String.equals_ignoring_case? "ABS", "abs"
+
   @doc """
   Compare two strings using all supported algorithm. Return a map of metrics.
 

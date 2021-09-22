@@ -1,7 +1,7 @@
-defmodule MetaphoneAlgorithmTest do
+defmodule MetaphoneTest do
   use ExUnit.Case
 
-  import Akin.Phonetic.MetaphoneAlgorithm, only: [compute: 1]
+  import Akin.Phonetic.Metaphone, only: [compute: 1]
 
   test "returns nil with empty argument" do
     assert compute("") == nil
