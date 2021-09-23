@@ -11,126 +11,136 @@ defmodule DoubleMetaphoneTest do
     assert parse("123") == {"", ""}
   end
 
-  test "return the expected phonetic responses" do
-    # z
-    assert parse("z") == {"s", ""}
-    assert parse("zz") == {"s", ""}
+  test "return the expected phonetic responses - z" do
+    assert parse("z") == {"s", "s"}
+    assert parse("zz") == {"s", "s"}
+  end
 
-    # y
-    assert parse("y") == {"a", ""}
-    assert parse("zy") == {"s", ""}
-    assert parse("zyz") == {"ss", ""}
-    assert parse("zya") == {"s", ""}
+  test "return the expected phonetic responses - y" do
+    assert parse("y") == {"a", "a"}
+    assert parse("zy") == {"s", "s"}
+    assert parse("zyz") == {"ss", "ss"}
+    assert parse("zya") == {"s", "s"}
+  end
 
-    # x
-    assert parse("x") == {"s", ""}
-    assert parse("zx") == {"sks", ""}
-    assert parse("zxz") == {"skss", ""}
+  test "return the expected phonetic responses - x" do
+    assert parse("x") == {"s", "s"}
+    assert parse("zx") == {"sks", "sks"}
+    assert parse("zxz") == {"skss", "skss"}
+  end
 
-    # w
+  test "return the expected phonetic responses - w" do
     assert parse("w") == {"", ""}
-    assert parse("zw") == {"s", ""}
+    assert parse("zw") == {"s", "s"}
     assert parse("zwz") == {"ss", "sts"}
-    assert parse("zwa") == {"s", ""}
+    assert parse("zwa") == {"s", "s"}
+  end
 
-    # v
-    assert parse("v") == {"f", ""}
-    assert parse("zv") == {"sf", ""}
-    assert parse("zvz") == {"sfs", ""}
+  test "return the expected phonetic responses - v" do
+    assert parse("v") == {"f", "f"}
+    assert parse("zv") == {"sf", "sf"}
+    assert parse("zvz") == {"sfs", "sfs"}
+  end
 
-    # u
-    assert parse("u") == {"a", ""}
-    assert parse("zu") == {"s", ""}
+  test "return the expected phonetic responses - u" do
+    assert parse("u") == {"a", "a"}
+    assert parse("zu") == {"s", "s"}
+  end
 
-    # t
-    assert parse("t") == {"t", ""}
-    assert parse("ztiaz") == {"sxs", ""}
-    assert parse("ztioz") == {"sts", ""}
+  test "return the expected phonetic responses - t" do
+    assert parse("t") == {"t", "t"}
+    assert parse("ztiaz") == {"sxs", "sxs"}
+    assert parse("ztioz") == {"sts", "sts"}
     assert parse("zthz") == {"s0s", "sts"}
-    assert parse("ztchz") == {"sxs", ""}
-    assert parse("ztz") == {"sts", ""}
+    assert parse("ztchz") == {"sxs", "sxs"}
+    assert parse("ztz") == {"sts", "sts"}
+  end
 
-    # s
-    assert parse("s") == {"s", ""}
-    assert parse("zshz") == {"sxs", ""}
+  test "return the expected phonetic responses - s" do
+    assert parse("s") == {"s", "s"}
+    assert parse("zshz") == {"sxs", "sxs"}
     assert parse("zsioz") == {"sxs", "sss"}
     assert parse("zsiaz") == {"sxs", "sss"}
-    assert parse("zs") == {"ss", ""}
+    assert parse("zs") == {"ss", "ss"}
     assert parse("zsz") == {"ss", "sx"}
+  end
 
-    # r
-    assert parse("r") == {"r", ""}
-    assert parse("zr") == {"sr", ""}
-    assert parse("zrz") == {"srs", ""}
+  test "return the expected phonetic responses - r" do
+    assert parse("r") == {"r", "r"}
+    assert parse("zr") == {"sr", "sr"}
+    assert parse("zrz") == {"srs", "srs"}
+  end
 
-    # q
-    assert parse("q") == {"k", ""}
-    assert parse("zq") == {"sk", ""}
-    assert parse("zqz") == {"sks", ""}
+  test "return the expected phonetic responses - q" do
+    assert parse("q") == {"k", "k"}
+    assert parse("zq") == {"sk", "sk"}
+    assert parse("zqz") == {"sks", "sks"}
+  end
 
-    # p
-    assert parse("p") == {"p", ""}
-    assert parse("zp") == {"sp", ""}
-    assert parse("zph") == {"sf", ""}
-    assert parse("zpz") == {"sps", ""}
+  test "return the expected phonetic responses - p" do
+    assert parse("p") == {"p", "p"}
+    assert parse("zp") == {"sp", "sp"}
+    assert parse("zph") == {"sf", "sf"}
+    assert parse("zpz") == {"sps", "sps"}
+  end
 
-    # o
-    assert parse("o") == {"a", ""}
-    assert parse("zo") == {"s", ""}
+  test "return the expected phonetic responses - o" do
+    assert parse("o") == {"a", "a"}
+    assert parse("zo") == {"s", "s"}
+  end
 
-    # n
-    assert parse("n") == {"n", ""}
-    assert parse("zn") == {"sn", ""}
-    assert parse("znz") == {"sns", ""}
+  test "return the expected phonetic responses - n" do
+    assert parse("n") == {"n", "n"}
+    assert parse("zn") == {"sn", "sn"}
+    assert parse("znz") == {"sns", "sns"}
+  end
 
-    # m
-    assert parse("m") == {"m", ""}
-    assert parse("zm") == {"sm", ""}
-    assert parse("zmz") == {"sms", ""}
+  test "return the expected phonetic responses -m" do
+    assert parse("m") == {"m", "m"}
+    assert parse("zm") == {"sm", "sm"}
+    assert parse("zmz") == {"sms", "sms"}
+  end
 
-    # l
-    assert parse("l") == {"l", ""}
-    assert parse("zl") == {"sl", ""}
-    assert parse("zlz") == {"sls", ""}
+  test "return the expected phonetic responses - l" do
+    assert parse("l") == {"l", "l"}
+    assert parse("zl") == {"sl", "sl"}
+    assert parse("zlz") == {"sls", "sls"}
+  end
 
-    # k
-    assert parse("k") == {"k", ""}
-    assert parse("zk") == {"sk", ""}
-    assert parse("zck") == {"sk", ""}
+  test "return the expected phonetic responses - k" do
+    assert parse("k") == {"k", "k"}
+    assert parse("zk") == {"sk", "sk"}
+    assert parse("zck") == {"sk", "sk"}
+  end
 
-    # j
+  test "return the expected phonetic responses - j" do
     assert parse("j") == {"j", "a"}
     assert parse("zj") == {"sj", "s "}
-    assert parse("zjz") == {"ss", ""}
+    assert parse("zjz") == {"ss", "ss"}
+  end
 
-    # i
-    assert parse("i") == {"a", ""}
-    assert parse("zi") == {"s", ""}
+  test "return the expected phonetic responses - i" do
+    assert parse("i") == {"a", "a"}
+    assert parse("zi") == {"s", "s"}
+  end
 
-    # h
-    # php wrongly says nil
-    assert parse("h") == {"h", ""}
-    # php wrongly says s
-    assert parse("zh") == {"j", ""}
-    assert parse("zah") == {"s", ""}
+  test "return the expected phonetic responses - h" do
+    assert parse("h") == {"h", "h"}
+    assert parse("zh") == {"j", "j"}
+    assert parse("zah") == {"s", "s"}
     assert parse("zchh") == {"sx", "sk"}
-    assert parse("ha") == {"h", ""}
+    assert parse("ha") == {"h", "h"}
+  end
 
-    # g
-    assert parse("g") == {"k", ""}
-    assert parse("zg") == {"sk", ""}
-    # php wrongly says sf
-    assert parse("zgh") == {"sk", ""}
-    # php wrongly says sfs
-    assert parse("zghz") == {"sks", ""}
-    # php wrongly says sf
-    assert parse("zgha") == {"sk", ""}
-    # others wrongly say skh
+  test "return the expected phonetic responses - g" do
+    assert parse("g") == {"k", "k"}
+    assert parse("zg") == {"sk", "sk"}
+    assert parse("zgh") == {"sk", "sk"}
+    assert parse("zghz") == {"sks", "sks"}
+    assert parse("zgha") == {"sk", "sk"}
     assert parse("zgn") == {"sn", "skn"}
     assert parse("zgns") == {"sns", "skns"}
-    # others wrongly says sknt
     assert parse("zgned") == {"snt", "sknt"}
-    # php wrongly says snts
     assert parse("zgneds") == {"snts", "sknts"}
     assert parse("zgi") == {"sj", "sk"}
     assert parse("zgiz") == {"sjs", "sks"}
@@ -138,80 +148,80 @@ defmodule DoubleMetaphoneTest do
     assert parse("zgez") == {"sjs", "sks"}
     assert parse("zgy") == {"sk", "sj"}
     assert parse("zgyz") == {"sks", "sjs"}
-    assert parse("zgz") == {"sks", ""}
+    assert parse("zgz") == {"sks", "sks"}
+  end
 
-    # f
-    assert parse("f") == {"f", ""}
-    assert parse("zf") == {"sf", ""}
-    assert parse("zfz") == {"sfs", ""}
+  test "return the expected phonetic responses - f" do
+    assert parse("f") == {"f", "f"}
+    assert parse("zf") == {"sf", "sf"}
+    assert parse("zfz") == {"sfs", "sfs"}
+  end
 
-    # e
-    assert parse("e") == {"a", ""}
-    assert parse("ze") == {"s", ""}
+  test "return the expected phonetic responses - e" do
+    assert parse("e") == {"a", "a"}
+    assert parse("ze") == {"s", "s"}
+  end
 
-    # d
-    assert parse("d") == {"t", ""}
-    # php wrongly says fj
-    assert parse("fudge") == {"fj", ""}
-    # php wrongly says tj
-    assert parse("dodgy") == {"tj", ""}
-    # others wrongly say tjjy
-    # php wrongly says tj
-    assert parse("dodgi") == {"tj", ""}
-    assert parse("zd") == {"st", ""}
-    assert parse("zdz") == {"sts", ""}
+  test "return the expected phonetic responses - d" do
+    assert parse("d") == {"t", "t"}
+    assert parse("fudge") == {"fj", "fj"}
+    assert parse("dodgy") == {"tj", "tj"}
+    assert parse("dodgi") == {"tj", "tj"}
+    assert parse("zd") == {"st", "st"}
+    assert parse("zdz") == {"sts", "sts"}
+  end
 
-    # c
-    assert parse("c") == {"k", ""}
+  test "return the expected phonetic responses - c" do
+    assert parse("c") == {"k", "k"}
     assert parse("zcia") == {"ss", "sx"}
     assert parse("zciaz") == {"sss", "sxs"}
     assert parse("zch") == {"sx", "sk"}
     assert parse("zchz") == {"sxs", "sks"}
-    assert parse("zci") == {"ss", ""}
-    assert parse("zciz") == {"sss", ""}
-    assert parse("zce") == {"ss", ""}
-    assert parse("zcez") == {"sss", ""}
-    assert parse("zcy") == {"ss", ""}
-    assert parse("zcyz") == {"sss", ""}
-    assert parse("zsci") == {"ss", ""}
-    assert parse("zsciz") == {"sss", ""}
-    assert parse("zsce") == {"ss", ""}
-    assert parse("zscez") == {"sss", ""}
-    assert parse("zscy") == {"ss", ""}
-    assert parse("zscyz") == {"sss", ""}
-    # php wrongly says ssx
-    assert parse("zsch") == {"sx", ""}
-    assert parse("zc") == {"sk", ""}
+    assert parse("zci") == {"ss", "ss"}
+    assert parse("zciz") == {"sss", "sss"}
+    assert parse("zce") == {"ss", "ss"}
+    assert parse("zcez") == {"sss", "sss"}
+    assert parse("zcy") == {"ss", "ss"}
+    assert parse("zcyz") == {"sss", "sss"}
+    assert parse("zsci") == {"ss", "ss"}
+    assert parse("zsciz") == {"sss", "sss"}
+    assert parse("zsce") == {"ss", "ss"}
+    assert parse("zscez") == {"sss", "sss"}
+    assert parse("zscy") == {"ss", "ss"}
+    assert parse("zscyz") == {"sss", "sss"}
+    assert parse("zsch") == {"sx", "sx"}
+    assert parse("zc") == {"sk", "sk"}
     assert parse("zcz") == {"ss", "sx"}
+  end
 
-    # b
-    assert parse("b") == {"p", ""}
-    assert parse("zb") == {"sp", ""}
-    assert parse("zbz") == {"sps", ""}
-    assert parse("zmb") == {"smp", ""}
+  test "return the expected phonetic responses - b" do
+    assert parse("b") == {"p", "p"}
+    assert parse("zb") == {"sp", "sp"}
+    assert parse("zbz") == {"sps", "sps"}
+    assert parse("zmb") == {"smp", "smp"}
+  end
 
-    # a
-    assert parse("a") == {"a", ""}
-    assert parse("za") == {"s", ""}
+  test "return the expected phonetic responses - a" do
+    assert parse("a") == {"a", "a"}
+    assert parse("za") == {"s", "s"}
+  end
 
-    # Miscellaneous.
-    assert parse("dumb") == {"tmp", ""}
+  test "return the expected phonetic responses - misc" do
+    assert parse("dumb") == {"tmp", "tmp"}
     assert parse("smith") == {"sm0", "xmt"}
-    # php wrongly says sxl
-    assert parse("school") == {"skl", ""}
-    assert parse("merci") == {"mrs", ""}
-    assert parse("cool") == {"kl", ""}
-    assert parse("aebersold") == {"aprslt", ""}
+    assert parse("school") == {"skl", "skl"}
+    assert parse("merci") == {"mrs", "mrs"}
+    assert parse("cool") == {"kl", "kl"}
+    assert parse("aebersold") == {"aprslt", "aprslt"}
     assert parse("gnagy") == {"nk", "nj"}
     assert parse("knuth") == {"n0", "nt"}
     assert parse("pniewski") == {"nsk", "nfsk"}
-    # php wrongly says rft
-    assert parse("wright") == {"rt", ""}
-    assert parse("phone") == {"fn", ""}
-    assert parse("aggregate") == {"akrkt", ""}
-    assert parse("accuracy") == {"akrs", ""}
-    assert parse("encyclopedia") == {"ansklpt", ""}
-    assert parse("honorificabilitudinitatibus") == {"hnrfkplttnttps", ""}
-    assert parse("antidisestablishmentarianism") == {"anttsstplxmntrnsm", ""}
+    assert parse("wright") == {"rt", "rt"}
+    assert parse("phone") == {"fn", "fn"}
+    assert parse("aggregate") == {"akrkt", "akrkt"}
+    assert parse("accuracy") == {"akrs", "akrs"}
+    assert parse("encyclopedia") == {"ansklpt", "ansklpt"}
+    assert parse("honorificabilitudinitatibus") == {"hnrfkplttnttps", "hnrfkplttnttps"}
+    assert parse("antidisestablishmentarianism") == {"anttsstplxmntrnsm", "anttsstplxmntrnsm"}
   end
 end

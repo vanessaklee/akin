@@ -55,6 +55,75 @@ defmodule Akin.Phonetic.DoubleMetaphone do
   end
 
   @doc """
+  Iterate input characters
+  """
+  def parse(input) when is_binary(input) do
+    metaphone = init(input) |> check_word_start()
+    position = metaphone.position
+    end_index =  metaphone.word.end_index
+    character = letter_at_position(metaphone, position)
+
+    parse(metaphone, position, end_index, character)
+  end
+  def parse(_), do: {"", ""}
+  def parse(%DoubleMetaphone{primary_phone: primary, secondary_phone: secondary}, position, end_index, _character) when
+  position > end_index
+  and secondary in [nil, "", " "] do
+    return_phones({primary, ""})
+  end
+  def parse(%DoubleMetaphone{primary_phone: primary, secondary_phone: secondary}, position, end_index, _character) when
+  position > end_index do
+    return_phones({primary, secondary})
+  end
+  def parse(%DoubleMetaphone{} = metaphone, position, end_index, character) when
+  character == " " do
+    position = position + 1
+    metaphone = %{metaphone | position: position}
+    character = letter_at_position(metaphone, position)
+    parse(metaphone, position, end_index, character)
+  end
+  def parse(%DoubleMetaphone{} = metaphone, position, _end_index, character) do
+    initial_process(metaphone, position, character)
+    |> build_phones()
+    |> parse_next()
+  end
+
+  @doc """
+  Compare two strings, returning the outcome of the comparison using the
+  strictness of the threshold.
+
+  - "strict": both encodings for each string must match
+  - "strong": the primary encoding for each string must match
+  - "normal": the primary encoding of one string must match either encoding of other string (default)
+  - "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  """
+  def compare(left, right, threshold \\ "normal")
+  def compare({primary_left, secondary_left}, {primary_right, secondary_right}, "strict") when
+  primary_left == primary_right
+  and secondary_left == secondary_right do
+    true
+  end
+  def compare(_, _, "strict"), do: false
+
+  def compare({left, _}, {right, _}, "strong") when left == right, do: true
+  def compare(_, _, "strong"), do: false
+
+
+  def compare({primary_left, secondary_left}, {primary_right, secondary_right}, "weak") when
+  primary_left in [primary_right, secondary_right]
+  or secondary_left in [primary_right, secondary_right] do
+    true
+  end
+  def compare(_, _, "weak"), do: false
+
+  def compare({primary_left, secondary_left}, {primary_right, secondary_right}, "normal") when
+  primary_left in [primary_right, secondary_right]
+  or primary_right in [primary_left, secondary_left] do
+    true
+  end
+  def compare(_, _, "normal"), do: false
+
+  @doc """
   Skip silent letters at the start of a word or replace the X if the word starts with
   X as in Xavier with an S
   """
@@ -86,94 +155,9 @@ defmodule Akin.Phonetic.DoubleMetaphone do
   end
 
   @doc """
-  Handle cases for the letter B
-    - "-mb", e.g., "dumb", already skipped over... see "M" below
+  Handle conditional cases for different letters. Update phoenemes in the `next` param
+  of the metaphone struct and return the struct.
 
-  Handle cases for the letter C
-    - various germanic
-    - special case "CAESAR"
-    - italian "CHIANTI"
-    - "MICHAEL"
-    - germanic, greek, or otherwise "CH" for "KH" sound
-    - "CZERNY"
-    - "FOCACCIA"
-    - double "C", but not if e.g. "MCCLELLAN"
-    - "BELLOCCHIO" but not "BACCHUS"
-    - "ACCIDENT", "ACCEDE", "SUCCEED"
-    - "BACCI, "BERTUCCI", other Italian
-    - italian vs. english, e.g. "CIO", "CIE", "CIA"
-    - "MAC CAFFREY" or "MAC GREGOR"
-    - default for "C" is {"K", 1}
-
-  Handle cases for the letter D, like "edge"
-
-  Handle cases for the letter F
-
-  Handle cases for the letter G
-    - "ghislane", ghiradelli
-    - Parker's rule (with some further refinements) - e.g., "hugh"
-    - e.g., "laugh", "McLaughlin", "cough", "gough", "rough", "tough"
-    - not e.g. "cagney"
-    - "tagliaro"
-    - -ges-,-gep-,-gel-, -gie- at beginning
-    - -ger-,  -gy-
-    - talian e.g, "biaggi"
-    - obvious germanic
-    - always soft if french ending
-
-  Handle cases for the letter H; only keep if self.word.start_index & before vowel
-  or btw. 2 vowels; also handle "HH"
-
-  Handle cases for the letter L
-    - spanish, "jose", "san jacinto"
-    - Yankelovich/Jankelowicz
-    - spanish pron. of e.g. "bajador"
-
-  Handle cases for the letter K
-
-  Handle cases for the letter L
-    - spanish "cabrillo", "gallegos"
-
-  Handle cases for the letter M
-
-  Handle cases for the letter N
-
-  Handle cases for the letter P
-    - account for "campbell", "raspberry"
-
-  Handle cases for the letter Q
-
-  Handle cases for the letter R
-    - french e.g. "rogier", but exclude "hochmeier"
-
-  Handle cases for the letter S
-    - special cases "island", "isle", "carlisle", "carlysle"
-    - special case "sugar-"
-    - germanic
-    - italian & armenian
-    - german & anglicisations, e.g. "smith" match "schmidt", "snider"
-    - match "schneider" also, -sz- in slavic language altho in hungarian it is pronounced "s"
-    - Schlesinger's rule
-    - dutch origin, e.g. "school", "schooner"
-    - "schermerhorn", "schenker"
-    - french e.g. "resnais", "artois"
-
-  Handle cases for the letter T
-    - special case "thomas", "thames" or germanic
-
-  Handle cases for the letter V
-
-  Handle cases for the letter W
-    - when in middle of word
-    - "Wasserman" should match "Vasserman"
-    - "Arnow" should match "Arnoff"
-    - polish e.g. "filipowicz"
-
-  Handle cases for the letter X
-    - french e.g. "breaux"
-
-  Handle cases for the letter Z
-    - chinese pinyin e.g. "zhao"
   """
   def process(%DoubleMetaphone{position: position} = metaphone, character) when character == "B" do
     if letter_at_position(metaphone, (position + 1)) == "B" do
@@ -398,10 +382,10 @@ defmodule Akin.Phonetic.DoubleMetaphone do
               or letter_at_position(metaphone, (position - 1), (position + 3)) in ["AGGI", "OGGI"] do
                 if letter_at_position(metaphone, start_index, (start_index + 4)) in ["VON", "VAN"]
                 or letter_at_position(metaphone, start_index, (start_index + 3)) == "SCH"
-                or letter_at_position(metaphone, (position + 1), (start_index + 3)) == "ET" do
+                or letter_at_position(metaphone, (position + 1), (position + 3)) == "ET" do
                   %{metaphone | next: {"K", 2}}
                 else
-                  if letter_at_position(metaphone, (position + 1), (start_index + 5)) == "IER" do
+                  if letter_at_position(metaphone, (position + 1), (position + 5)) == "IER" do
                     %{metaphone | next: {"J", 2}}
                   else
                     %{metaphone | next: {"J", "K", 2}}
@@ -727,40 +711,6 @@ defmodule Akin.Phonetic.DoubleMetaphone do
   end
   def process(%DoubleMetaphone{} = metaphone, _character) do
     %{metaphone | next: {nil, 1}}
-  end
-
-  @doc """
-  Iterate input characters
-  """
-  def parse(input) when is_binary(input) do
-    metaphone = init(input) |> check_word_start()
-    position = metaphone.position
-    end_index =  metaphone.word.end_index
-    character = letter_at_position(metaphone, position)
-
-    parse(metaphone, position, end_index, character)
-  end
-  def parse(_), do: {"", ""}
-  def parse(%DoubleMetaphone{primary_phone: primary, secondary_phone: secondary} = metaphone, position, end_index, _character) when
-  position > end_index
-  and (secondary == primary or secondary in [nil, "", " "]) do
-    return_phones({metaphone.primary_phone, ""})
-  end
-  def parse(%DoubleMetaphone{primary_phone: primary, secondary_phone: secondary}, position, end_index, _character) when
-  position > end_index do
-    return_phones({primary, secondary})
-  end
-  def parse(%DoubleMetaphone{} = metaphone, position, end_index, character) when
-  character == " " do
-    position = position + 1
-    metaphone = %{metaphone | position: position}
-    character = letter_at_position(metaphone, position)
-    parse(metaphone, position, end_index, character)
-  end
-  def parse(%DoubleMetaphone{} = metaphone, position, _end_index, character) do
-    initial_process(metaphone, position, character)
-    |> build_phones()
-    |> parse_next()
   end
 
   defp initial_process(metaphone, position, character) when character in @vowels do
