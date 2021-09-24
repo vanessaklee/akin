@@ -1,0 +1,78 @@
+HOMOPHONES
+
+This is a list of homophones in "General American English". It is based on 
+the book _Handbook of Homophones_ by William Cameron Townsend, 1975. 
+For the purpose at hand, the list contains words that sound the same (or 
+very nearly the same) but are spelled differently. Thus the list includes 
+"bear" and "bare" but not "bear" (noun) and "bear" (verb). However, the list 
+does occasionally include spelling variants of the same word when there 
+is another word in the same entry; for instance, "ax,axe,acts" is in the list 
+but not "blessed,blest".(Note that the only difference between 
+"homophones" and "spelling variant" is whether or not the words are 
+lexically "the same".)
+
+Obviously, the determination of what counts as sounding the "same" 
+depends on the dialect of the speaker. Some of the entries in this list may 
+be homophones in my speech but not yours (for instance, "awed" and "odd". 
+The designation "General American English" should be sufficient to 
+disallow strong regional dialects (in the south, "tire" and "tar" can be 
+homophones!) while allowing for some minor variation. For instance, there
+are entries for "cot,caught" and "marry,merry,Mary".
+
+The list contains a few proper names, which are capitalized; e.g. "Pete" 
+and "peat". I think this is useful as long as proper names are limited to 
+common ones. (Proper names that differ only in case from common nouns
+are not included, e.g. "bill,"Bill".) If any and all proper names were fair 
+game, I fear we would be off and running (how about "Malays" and 
+"malaise"?). But I am open to advice.
+
+The format of the list is as follows. Each set of homophones is on a single  
+line terminated by a return. The members of a set are separated by 
+commas with no trailing spaces. (Thus it is essentially the same as 
+"comma-delimited" database format.) The list is alphabetized by the first 
+word (the headword) in each set (line). Each word in the list occurs as a 
+headword; thus each word occurs at least twice: once as a headword and at 
+least once in the tail of the list. This scheme permits retrieval from the 
+list by examining the headword of each line only. For instance:
+
+ascent,assent
+assent,ascent
+
+In general, regularly inflected forms of an entry are not included; thus the
+list contains "bough,bow" but not "boughs,bows". Do you think it is worth
+adding such entries?
+
+Version history
+
+10-May-93  Released first version based on Townsend 1975.
+11-May-93 Added entries derived from the 1964 Websters Pocket 
+                   Dictionary by Lee Hetherington of MIT.
+14-May-93 Added entries suggested by various reviewers and entries 
+                  derived from the Moby Pronounced dictionary by Lee 
+                  Hetherington of MIT.
+17-May-93 Added more entries, deleted a few.
+
+Fair use policy
+
+Please use this list as the common property of the general academic 
+community. You may redistribute the list in its original form (or at least 
+its "official" form), but you should not sell it or use it in a commercial 
+product without permission. If you use it in a research project or 
+publication, please give due credit. You may freely modify it for your own 
+use, but if you distribute a modified version, you should make clear what 
+changes you have made to the original list. Above all, if you make 
+enhancements to the list, please send such enhancements to us so that we 
+can pass them along to the rest of the users of the list. All 
+correspondence regarding this list should be sent to:
+
+Evan Antworth
+Summer Institute of Linguistics
+7500 W. Camp Wisdom Road
+Dallas, TX  75236
+U.S.A.
+
+Internet email evan.antworth@sil.org
+phone 214/709-3346, -2418
+fax 214/709-2433
+
+-----------------------------------------------------------------

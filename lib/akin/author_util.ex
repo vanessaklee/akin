@@ -3,7 +3,41 @@ defmodule Akin.AuthorUtil do
   Module for utilities to handle specifically author names.
   """
 
-  @common_suffixes ["jr", "esq", "ret", "sr", "ii", "iii", "iv", "v", "vi", "cpa", "dc", "vm", "dds", "jd", "md", "phd"]
+  defmodule Akin.Similarity.Preprocessor do
+    @moduledoc """
+    This module allows for the preprocessing of strings which will be used in the
+    comparision. Preprocessing is vital for high quality results. During
+    processing the input strings are upcased, all punctuation is stripped,
+    excess whitespace is trimmed and a Map of values is returned which is used
+    by all other comparison functions. This allows for the reuse of preprocessed
+    values and prevents each comparison function from rerunning the preprocessing.
+    """
+
+    alias Akin.Similarity.Preprocessed
+
+    # Replaces all punctuation
+    @regex ~r/[\p{P}\p{S}]/
+
+    def process(left, right) when is_binary(left) and is_binary(right) do
+      {process(left), process(right)}
+    end
+
+    def process(string) when is_binary(string) do
+      chunks =
+        string
+        |> String.replace(@regex, " ")
+        |> String.downcase()
+        |> String.split()
+        |> Enum.map(&String.trim/1)
+
+      %Preprocessed{
+        set: MapSet.new(chunks),
+        chunks: chunks,
+        string: Enum.join(chunks)
+      }
+    end
+  end
+
 
   @spec name_parts(String.t() | nil, String.t() | nil, String.t() | nil) :: map()
   @doc """
@@ -301,7 +335,6 @@ defmodule Akin.AuthorUtil do
     name = String.replace(name, ",", ", ") |> String.replace("  ", " ")
     case String.split(name, ", ") do
       [n, postcomma] ->
-        [n, postcomma] = flip_split([n, postcomma])
         split_name = split(n)
         l = split_name.last  <> ", " <> postcomma
         f = split_name.first
@@ -356,14 +389,6 @@ defmodule Akin.AuthorUtil do
         full: ""
       }
     end
-  end
-
-  @doc """
-  If a common suffix appears first in the split name, flip them.
-  """
-  def flip_split([n, postcomma]) do
-    n = String.trim(n)
-    if n in @common_suffixes, do: [postcomma, n], else: [n, postcomma]
   end
 
   @doc """

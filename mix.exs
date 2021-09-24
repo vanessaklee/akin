@@ -34,14 +34,15 @@ defmodule Akin.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
+      {:credo, "~> 1.0", only: :dev},
       {:earmark, "~> 1.3", only: :dev},
       {:ex_doc, "~> 0.19", only: :dev},
-      {:credo, "~> 1.0", only: :dev},
       {:ex_unicode, "~> 1.0"},
-      {:unicode_string, "~> 1.0"},
       {:html_entities, "~> 0.5"},
+      {:nimble_csv, "~> 1.1"},
       {:stemmer, "~> 1.0"},
-      {:sweet_xml, "~> 0.7.0"}
+      {:sweet_xml, "~> 0.7.0"},
+      {:unicode_string, "~> 1.0"}
     ]
   end
 

@@ -21,7 +21,7 @@ defmodule Akin.Similarity.Preprocessor do
     chunks =
       string
       |> String.replace(@regex, " ")
-      |> String.upcase()
+      |> String.downcase()
       |> String.split()
       |> Enum.map(&String.trim/1)
 
