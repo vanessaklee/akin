@@ -13,15 +13,17 @@ defmodule Akin.Metaphone do
     Compares two values phonetically and returns a boolean of whether they match
     or not.
     ## Examples
-      iex> Akin.Metaphone.compare("Colorado", "Kolorado")
+      iex> Akin.Metaphone.compare(%Akin.Primed{string: "Colorado"}, %Akin.Primed{string: "Kolorado"})
       1
-      iex> Akin.Metaphone.compare("Moose", "Elk")
+      iex> Akin.Metaphone.compare(%Akin.Primed{string: "Moose"}, %Akin.Primed{string: "Elk"})
       0
   """
-  def compare(%Primed{string: left}, %Primed{string: right}) do
+  def compare(left, right, _opts), do: compare(left, right)
+
+  def compare(%Primed{string: left} = l, %Primed{string: right} = r) do
     case len(left) == 0 || !is_alphabetic?(first(left)) || len(right) == 0 || !is_alphabetic?(first(right)) do
       false ->
-        if compute(left) == compute(right), do: 1, else: 0
+        if compute(l) == compute(r), do: 1, else: 0
       true ->
         nil
     end

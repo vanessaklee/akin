@@ -4,7 +4,7 @@ defmodule Akin.And do
 
   ### UNDER DEVELOPMENT ###
   """
-  alias Akin.{StringCompare, Levenshtein}
+  alias Akin.Levenshtein
   alias Akin.Util
 
   @min_bag_distance 0.5
@@ -134,7 +134,7 @@ defmodule Akin.And do
             levenshtein: 1
           }
      b. False: passible match, continue
-  4. Determine string comparison score using StringCompare.compare(scholar, author)
+  4. Determine string comparison score using Akin.compare(scholar, author)
      a. Less than @string_compare_bottom_threshold (0.75): not a match, done
         1. Return %{
             bag_distance: <bag distance score>,
@@ -172,7 +172,8 @@ defmodule Akin.And do
 
   Return :map
   """
-  def compare(author, scholar, scholar_perms) when is_binary(author) and is_binary(scholar) do
+  def compare( %Akin.Primed{string: author},  %Akin.Primed{string: scholar}, scholar_perms)
+  when is_binary(author) and is_binary(scholar) do
     compare(Util.prime(author), Util.prime(scholar), scholar_perms)
   end
   def compare(author, scholar, scholar_perms) do
@@ -197,7 +198,7 @@ defmodule Akin.And do
     %{bag_distance: bag_distance, exact: 1, string_compare: 1, parts_compare: 1, jaro: 1, levenshtein: 1}
   end
   def compare(author, scholar, scholar_perms, bag_distance, exact) do
-    string = StringCompare.compare(scholar, author)
+    string = Akin.compare(scholar, author)
     compare(author, scholar, scholar_perms, bag_distance, exact, string)
   end
   def compare(_author, _scholar, _scholar_perms, bag_distance, exact, string) when
@@ -246,12 +247,12 @@ defmodule Akin.And do
         if nthat == this or ithat == this do
           1
         else
-          if StringCompare.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
+          if Akin.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
         end
       [ithat] ->
         if ithat == ithis, do: 1, else: 0
       _ ->
-        if StringCompare.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
+        if Akin.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
     end
   end
   def score(_, _), do: 0
@@ -263,7 +264,7 @@ defmodule Akin.And do
       [ithat] ->
         if ithat == ithis, do: 1, else: 0
       _ ->
-        if StringCompare.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
+        if Akin.compare(Enum.join(that, " "), this) > @string_min, do: 1, else: 0
     end
   end
   def score(_, _, _), do: 0

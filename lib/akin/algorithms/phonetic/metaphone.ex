@@ -6,16 +6,17 @@ defmodule Akin.Metaphone.Metaphone do
 
   import String, only: [downcase: 1, first: 1, split_at: 2, last: 1, at: 2]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1, deduplicate: 1]
+  alias Akin.Primed
 
   @doc """
     Returns the Metaphone phonetic version of the provided string.
     ## Examples
-      iex> Akin.Metaphone.Metaphone.compute("z")
+      iex> Akin.Metaphone.Metaphone.compute(%Akin.Primed{string: "z"})
       "s"
-      iex> Akin.Metaphone.Metaphone.compute("ztiaz")
+      iex> Akin.Metaphone.Metaphone.compute(%Akin.Primed{string: "ztiaz"})
       "sxs"
   """
-  def compute(value) do
+  def compute(%Primed{string: value}) do
     cond do
       len(value) == 0 ->
         nil

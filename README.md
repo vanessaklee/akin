@@ -37,7 +37,7 @@ Compare two strings using all of the available algorithms. The return value is a
 
 Comparing the two names: "Oscar-Claude Monet" and "Monet, Claude"
 ```elixir
-iex> Akin.compare("Oscar-Claude Monet", "Monet, Claude")
+iex> Akin.compare(%Akin.Primed{string: "Oscar-Claude Monet"}, %Akin.Primed{string: "Monet, Claude"})
 %{
   bag_distance: 0.6666666666666667,
   chunk_set: 1.0,
@@ -56,7 +56,7 @@ iex> Akin.compare("Oscar-Claude Monet", "Monet, Claude")
 
 Comparing the two names: "Claude Monet" and "Edouard Manet"
 ```elixir
-iex> Akin.compare("Claude Monet", "Edouard Manet")
+iex> Akin.compare(%Akin.Primed{string: "Claude Monet", %Akin.Primed{string: "Edouard Manet"})
 %{
   bag_distance: 0.6923076923076923,
   chunk_set: 0.7079124579124579,
@@ -82,7 +82,7 @@ iex> Akin.compare("Claude Monet", "Edouard Manet")
 
 Comparing the two words: "tomato" and "tomahto"
 ```elixir
-iex> Akin.compare("tomato", "tomahto")
+iex> Akin.compare(%Akin.Primed{string: "tomato", %Akin.Primed{string: "tomahto"})
 %{
   bag_distance: 0.8571428571428572,
   chunk_set: 0.9523809523809524,
@@ -107,7 +107,7 @@ iex> Akin.compare("tomato", "tomahto")
 ```
 
 ```elixir
-iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
+iex> Akin.compare(%Akin.Primed{string: "Hubert Łępicki", %Akin.Primed{string: "Hubert Lepicki"})
 %{
   bag_distance: 0.8571428571428572,
   chunk_set: 0.8974358974358975,
@@ -136,8 +136,8 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 Use a single algorithm to comparing two names: "Oscar-Claude Monet" and "Monet, Claude". The return value is a float or a binary depending on the algorithm.
 
 ```elixir
-iex> a = "Oscar-Claude Monet"
-iex> b = "Monet, Claude"
+iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
+iex> b = %Akin.Primed{string: "Monet, Claude"}
 iex> Akin.compare_using(:jaro_winkler, a, b)
 0.6032763532763533
 
@@ -160,8 +160,8 @@ iex> Akin.compare_using(:tversky, a, b)
 The default ngram size for the algorithms is 2. You can change it for particular algorithms by requesting it in the options.
 
 ```elixir
-iex> a = "Oscar-Claude Monet"
-iex> b = "Monet, Claude"
+iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
+iex> b = %Akin.Primed{string: "Monet, Claude"}
 iex> opts = [ngram_size: 1]
 Akin.compare_using(:tversky, a, b, opts)
 0.2222222222222222
@@ -170,12 +170,12 @@ Akin.compare_using(:tversky, a, b, opts)
 Currently, the metaphone scores are limited. The two words being compared must include the same number of parts when the words are split. 
 
 ```elixir
-iex> a = "Oscar-Claude Monet"
-iex> b = "Monet, Claude"
+iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
+iex> b = %Akin.Primed{string: "Monet, Claude"}
 iex> Akin.compare_using(:metaphone_scores, a, b)
 nil
-iex> a = "Claude Monet"
-iex> b = "Edouard Manet"
+iex> a = %Akin.Primed{string: "Claude Monet"}
+iex> b = %Akin.Primed{string: "Edouard Manet"}
 iex> Akin.compare_using(:metaphone_scores, a, b)
 %{
   bag_distance: 0.625,
@@ -184,8 +184,8 @@ iex> Akin.compare_using(:metaphone_scores, a, b)
   levenshtein: 3,
   sorted_chunks: 0.6626984126984127
 }
-iex> a = "virginia woolfe"
-iex> b = "Virginia Woolf"
+iex> a = %Akin.Primed{string: "virginia woolfe"}
+iex> b = %Akin.Primed{string: "Virginia Woolf"}
 iex> Akin.compare_using(:metaphone_scores, a, b)
 Akin.compare_using(:metaphone_scores, a, b)   
 %{
@@ -245,17 +245,26 @@ Jaro-Winkler calculates the edit distance between two strings. A score of one de
 ## Levenshtein Distance
 
 :levenshtein
-Compares two strings by calculating the minimum number of single-character edits needed to change one string into the other. 
+Compare two strings for their Levenshtein score. The score is determined by finding the edit distance: the minimum number of single-character edits needed to change one word into the other. The distance is substracted from 1.0 and then divided by the longest length between the two strings. 
 
-## Metaphone Exact
+## Metaphone 
 
-:metaphone_exact
+:metaphone
 Compares two strings by converting each to an approximate phonetic representation in ASCII and then comparing those phoenetic representations. Returns a 1 if the phoentic representations are an exact match.
 
-## Metaphone Scores
+## Double Metaphone 
 
-:metaphone_scores
-Compares two strings by converting each to an approximate phonetic representation in ASCII and then comparing those phoenetic representations. Returns a map of algorithm scores for comparing the phoenetic representations. Currently compares using [:bag_distance, :jaro_winkler, :levenshtein, :chunk_set, :sorted_chunks].
+:double_metaphone_strict
+:double_metaphone_strong
+:double_metaphone_normal
+:double_metaphone_weak
+Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match threshold: strict, strong, normal (default), or weak. 
+
+  * "strict": both encodings for each string must match
+  * "strong": the primary encoding for each string must match
+  * "normal": the primary encoding of one string must match either encoding of other string (default)
+  * "weak":   either primary or secondary encoding of one string must match one encoding of other string
+
 
 ## N-Gram Similarity
 

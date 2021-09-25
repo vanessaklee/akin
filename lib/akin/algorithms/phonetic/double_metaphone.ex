@@ -98,6 +98,11 @@ defmodule Akin.Metaphone.Double do
   - "weak":   either primary or secondary encoding of one string must match one encoding of other string
   """
   def compare(left, right, threshold \\ "normal")
+
+  def compare(left, right, threshold) when is_binary(left) and is_binary(right) do
+    compare(parse(left), parse(right), threshold)
+  end
+
   def compare({primary_left, secondary_left}, {primary_right, secondary_right}, "strict") when
   primary_left == primary_right
   and secondary_left == secondary_right do
@@ -711,6 +716,31 @@ defmodule Akin.Metaphone.Double do
   end
   def process(%Double{} = metaphone, _character) do
     %{metaphone | next: {nil, 1}}
+  end
+
+  @doc """
+  Accept two lists. Loop through a cartesian product of the two lists. Using a
+  reducer, iterate over the thresholds. For each threshold, compare the item
+  sets using compare/3. The first, if any, threshold to return a true value
+  from compare/3 stops the reducer and returns 1. Otherwise continue the reducer.
+  If true is never returned, return 0.
+
+  - "strict": both encodings for each string must match
+  - "strong": the primary encoding for each string must match
+  - "normal": the primary encoding of one string must match either encoding of other string (default)
+  - "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  """
+  def scored_chunked_compare(left, right) when is_list(left) and is_list(right) do
+    Enum.reduce_while(["strict", "strong", "normal", "weak"], 0, fn threshold, acc ->
+      scores = for l <- left, r <- right do
+          Akin.Metaphone.Double.compare(l, r, threshold)
+        end
+      if Enum.any?(scores, fn s -> s == true end) do
+        {:halt, 1}
+      else
+        {:cont, acc}
+      end
+    end)
   end
 
   defp initial_process(metaphone, position, character) when character in @vowels do

@@ -17,16 +17,17 @@ defmodule Akin.ChunkSet do
       1.0
   """
   use Akin.StringMetric
-  alias Akin.{Primed, Strategy, SubstringComparison}
+  alias Akin.{Primed, Strategy, Helper.SubstringComparison}
 
-  def compare(%Primed{set: %MapSet{} = left}, %Primed{set: %MapSet{} = right}) do
-    similarity(left, right)
-    case Strategy.determine(left, right) do
-      :standard -> similarity(left, right)
-      {:substring, scale} -> substring_similarity(left, right, scale)
+
+  def compare(left, right, _opts), do: compare(left, right)
+
+  def compare(%Primed{} = left, %Primed{} = right) do
+    case Strategy.determine(left.string, right.string) do
+      :standard -> similarity(left.set, right.set)
+      {:substring, scale} -> substring_similarity(left.set, right.set, scale)
     end
   end
-  def compare(_, _), do: 0
 
   def substring_similarity(left, right, scale) do
     similarity(left, right, SubstringComparison) * scale

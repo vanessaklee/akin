@@ -11,9 +11,9 @@ defmodule Akin.Jaccard do
   the specified ngram size
 
   ## Examples
-      iex> Akin.Jaccard.compare("contact", "context", 3)
+      iex> Akin.Jaccard.compare(%Akin.Primed{string: "contact"}, %Akin.Primed{string: "context"}, 3)
       0.25
-      iex> Akin.Jaccard.compare("contact", "context", 1)
+      iex> Akin.Jaccard.compare(%Akin.Primed{string: "contact"}, %Akin.Primed{string: "context"}, 1)
       0.5555555555555556
   """
   def compare(left, right) do

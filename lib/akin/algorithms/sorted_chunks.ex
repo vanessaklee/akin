@@ -7,31 +7,29 @@ defmodule Akin.SortedChunks do
 
   ## Examples
 
-      iex> StringCompare.SortedChunks.standard_similarity("Oscar-Claude Monet", "Monet, Claude")
+      iex> StringCompare.SortedChunks.standard_similarity("Oscar-Claude Monet"}, %Akin.Primed{string: "Monet, Claude"})
       0.8958333333333334
 
-      iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet", "Monet, Claude")
+      iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet"}, %Akin.Primed{string: "Monet, Claude"})
       1.0
   """
   use Akin.StringMetric
-  alias Akin.{Primed, Strategy, SubstringComparison}
+  alias Akin.{Primed, Strategy, Helper.SubstringComparison}
 
-  # def compare(%Primed{chunks: left, stems: left_stems}, %Primed{chunks: right, stems: right_stems})
+  def compare(left, right, _opts), do: compare(left, right)
+
   def compare(%Primed{} = left, %Primed{} = right) do
-    stems = compare(left.stems, right.stems)
-    chunks = compare(left.chunks, right.chunks)
-    Enum.max([stems, chunks])
-  end
-
-  def compare(left, right) when is_list(left) and is_list(right) do
-    case Strategy.determine(left, right) do
-      :standard -> similarity(left, right)
-      {:substring, scale} -> substring_similarity(left, right, scale)
+    case Strategy.determine(left.string, right.string) do
+      :standard ->
+        stems = similarity(left.stems, right.stems)
+        chunks = similarity(left.chunks, right.chunks)
+        Enum.max([stems, chunks])
+      {:substring, scale} ->
+        stems = substring_similarity(left.stems, right.stems, scale)
+        chunks = substring_similarity(left.chunks, right.chunks, scale)
+        Enum.max([stems, chunks])
     end
-    |> Enum.max()
   end
-
-  def compare(left, right), do: compare([left], [right])
 
   def substring_similarity(left, right, scale) do
     similarity(left, right, SubstringComparison) * scale

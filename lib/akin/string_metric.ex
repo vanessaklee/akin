@@ -12,8 +12,9 @@ defmodule Akin.StringMetric do
       @behaviour unquote(__MODULE__)
       def compare(left, right, []), do: compare(left, right)
       def compare(left, right, opts), do: compare(left, right, opts)
+      def compare(left, right), do: compare(left, right)
 
-      defoverridable [compare: 3]
+      defoverridable [compare: 3, compare: 2]
     end
   end
 end

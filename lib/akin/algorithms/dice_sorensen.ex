@@ -1,23 +1,22 @@
-defmodule Akin.Ngram do
+defmodule Akin.DiceSorensen do
   @moduledoc """
-  This module contains functions to calculate the ngram distance between two
-  given strings based on this
-  [paper](webdocs.cs.ualberta.ca/~kondrak/papers/spire05.pdf)
+  This module contains functions to calculate the Sorensen-Dice coefficient of
+  two strings.
   """
-  require IEx
   import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
   use Akin.StringMetric
   alias Akin.Primed
 
   @doc """
-  Calculates the ngram similarity between two given strings with a specified
-  ngram size
-
+  Calculates the Sorensen-Dice coefficient of two given strings with a
+  specified ngram size passed as the third argument.
   ## Examples
-      iex> Akin.Ngram.compare("night", "naght", 3)
-      0.3333333333333333
-      iex> Akin.Ngram.compare("context", "contact", 1)
-      0.7142857142857143
+      iex> Akin.DiceSorensen.compare(%Akin.Primed{string: "night"}, %Akin.Primed{string: "nacht"}, 1)
+      0.6
+      iex> Akin.DiceSorensen.compare(%Akin.Primed{string: "night"}, %Akin.Primed{string: "nacht"}, 2)
+      0.25
+      iex> Akin.DiceSorensen.compare(%Akin.Primed{string: "night"}, %Akin.Primed{string: "nacht"}, 3)
+      0.0
   """
   def compare(left, right) do
     compare(left, right, Akin.default_ngram_size())
@@ -28,9 +27,8 @@ defmodule Akin.Ngram do
   end
 
   def compare(%Primed{string: left}, %Primed{string: right}, ngram_size)
-      when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size do
-        nil
-  end
+      when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size,
+      do: nil
 
   def compare(%Primed{string: left}, %Primed{string: right}, _ngram_size) when left == right, do: 1
 
@@ -38,6 +36,8 @@ defmodule Akin.Ngram do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
     nmatches = intersect(left_ngrams, right_ngrams) |> length
-    nmatches / max(length(left_ngrams), length(right_ngrams))
+    2 * nmatches / (length(left_ngrams) + length(right_ngrams))
   end
+
+  def compare(_, _, _), do: 0
 end

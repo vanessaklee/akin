@@ -4,19 +4,26 @@ defmodule Akin.JaroWinkler do
   Jaro-Winkler_distance) between two strings.
   """
   use Akin.StringMetric
+  alias Akin.Primed
 
   @doc """
   Calculates the Jaro-Winkler distance between two strings.
   ## Examples
-      iex> Akin.JaroWinkler.compare("abc", "")
+      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "abc"}, %Akin.Primed{string: ""})
       nil
-      iex> Akin.JaroWinkler.compare("abc", "xyz")
+      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "abc"}, %Akin.Primed{string: "xyz"})
       0.0
-      iex> Akin.JaroWinkler.compare("compare me", "compare me")
+      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "compare me"}, %Akin.Primed{string: "compare me"})
       1.0
-      iex> Akin.JaroWinkler.compare("natural", "nothing")
+      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "natural"}, %Akin.Primed{string: "nothing"})
       0.5714285714285714
   """
+  def compare(left, right, _opts), do: compare(left, right)
+
+  def compare(%Primed{string: left}, %Primed{string: right}) do
+    compare(left, right)
+  end
+
   def compare(left, right) when is_binary(left) and is_binary(right) do
     left_length = String.length(left)
     right_length = String.length(right)

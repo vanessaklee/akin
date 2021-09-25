@@ -11,11 +11,11 @@ defmodule Akin.Overlap do
   Compares two values using the Overlap Similarity metric and returns the
   coefficient.  It takes the ngram size as the third argument.
   ## Examples
-      iex> Akin.Overlap.compare("compare me", "to me")
+      iex> Akin.Overlap.compare(%Akin.Primed{string: "compare me"}, %Akin.Primed{string: "to me"})
       0.5
-      iex> Akin.Overlap.compare("compare me", "to me", [ngram_size: 1])
+      iex> Akin.Overlap.compare(%Akin.Primed{string: "compare me"}, %Akin.Primed{string: "to me"}, [ngram_size: 1])
       0.8
-      iex> Akin.Overlap.compare("or me", "me", 1)
+      iex> Akin.Overlap.compare(%Akin.Primed{string: "or me"}, %Akin.Primed{string: "me"}, 1)
       1.0
   """
   def compare(left, right) do

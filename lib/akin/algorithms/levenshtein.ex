@@ -1,7 +1,10 @@
 defmodule Akin.Levenshtein do
   @moduledoc """
-  Comnpare two strings for their Levenshtein distance: the minimum number of single-character edits needed to
-  change one word into the other. [Levenshtein](http://en.wikipedia.org/wiki/Levenshtein_distance)
+  Compare two strings for their Levenshtein score. The score is determined by finding the edit
+  distance: the minimum number of single-character edits needed to change one word into the other.
+  The distance is substracted from 1.0 and then divided by the longest length between the two strings.
+  Result is rounded to the tenths.
+  See more [Levenshtein](http://en.wikipedia.org/wiki/Levenshtein_distance)
   """
   use Akin.StringMetric
   alias Akin.Primed
@@ -9,6 +12,8 @@ defmodule Akin.Levenshtein do
   @doc """
   Compares two strings and returns Levenshtein distance as an integer.
   """
+  def compare(left, right, _opts), do: compare(left, right)
+
   def compare(%Primed{string: left}, %Primed{string: right}) do
     compare(left, right)
   end
@@ -20,11 +25,12 @@ defmodule Akin.Levenshtein do
   def compare([], string), do: length(string)
 
   def compare(left, right) when is_binary(left) and is_binary(right) do
-    compare(String.graphemes(left), String.graphemes(right))
+    distance = compare(String.graphemes(left), String.graphemes(right))
+    1.0-distance/Enum.max([String.length(left), String.length(right)]) |> Float.round(2)
   end
 
   def compare(left, right)
-      when is_list(left) and is_list(right) do
+  when is_list(left) and is_list(right) do
     rec_lev(left, right, :lists.seq(0, length(right)), 1)
   end
 
