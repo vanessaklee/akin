@@ -1,17 +1,15 @@
 defmodule DocTest do
   use ExUnit.Case
-  doctest Akin.Phonetic.Metaphone
-  doctest Akin.Similarity.MetaphoneExact
-  doctest Akin.Similarity.MetaphoneScores
-  doctest Akin.Similarity.DiceSorensen
-  doctest Akin.Similarity.Hamming
-  doctest Akin.Similarity.Jaccard
-  doctest Akin.Similarity.JaroWinkler
-  doctest Akin.Similarity.Levenshtein
-  doctest Akin.Similarity.Ngram
-  doctest Akin.Similarity.Overlap
-  doctest Akin.Similarity.Tversky
+  doctest Akin.Metaphone.Metaphone
+  doctest Akin.Metaphone
+  doctest Akin.DiceSorensen
+  doctest Akin.Hamming
+  doctest Akin.Jaccard
+  doctest Akin.JaroWinkler
+  doctest Akin.Levenshtein
+  doctest Akin.Ngram
+  doctest Akin.Overlap
+  doctest Akin.Tversky
   doctest Akin.And
   doctest Akin.Util
-  doctest Akin.AuthorUtil
 end

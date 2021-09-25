@@ -4,8 +4,8 @@ defmodule Akin.And do
 
   ### UNDER DEVELOPMENT ###
   """
-  alias Akin.Similarity.{StringCompare, Levenshtein}
-  alias Akin.AuthorUtil
+  alias Akin.{StringCompare, Levenshtein}
+  alias Akin.Util
 
   @min_bag_distance 0.5
   @jaro_min 0.9
@@ -82,8 +82,8 @@ defmodule Akin.And do
   Return a list of the authors matched.
   """
   def match(given, middle, family, list_of_names) when is_list(list_of_names) do
-    scholar = Enum.join([given, middle, family] |> AuthorUtil.flatten(), " ")
-    scholar_permutations = AuthorUtil.name_parts(given, middle, family)
+    scholar = Enum.join([given, middle, family] |> Util.flatten(), " ")
+    scholar_permutations = Util.name_parts(given, middle, family)
     Enum.reduce(list_of_names, [], fn author, accumulator ->
       match(accumulator, scholar, scholar_permutations, author)
     end)
@@ -172,9 +172,10 @@ defmodule Akin.And do
 
   Return :map
   """
+  def compare(author, scholar, scholar_perms) when is_binary(author) and is_binary(scholar) do
+    compare(Util.prime(author), Util.prime(scholar), scholar_perms)
+  end
   def compare(author, scholar, scholar_perms) do
-    author = AuthorUtil.normalize(author)
-    scholar = AuthorUtil.normalize(scholar)
     compare(author, scholar, scholar_perms, String.bag_distance(author, scholar))
   end
   def compare(author, scholar, scholar_perms, bag_distance) when bag_distance >= @min_bag_distance do
@@ -236,11 +237,10 @@ defmodule Akin.And do
 
   @doc """
   Determines if the first parameter exists in the second parameter when the second parameter is a list.
-
   Return: 1 if true, 0 if false or fails guard
   """
   def score(this, that) when is_list(that) do
-    ithis = AuthorUtil.get_initial(this)
+    ithis = Util.get_initial(this)
     case that do
       [nthat, ithat] ->
         if nthat == this or ithat == this do
@@ -256,7 +256,7 @@ defmodule Akin.And do
   end
   def score(_, _), do: 0
   def score(this, that, :in) when is_list(that) do
-    ithis = AuthorUtil.get_initial(this)
+    ithis = Util.get_initial(this)
     case that do
       [nthat, ithat] ->
         if (nthat == this or String.contains?(nthat, this)) or ithat == this, do: 1, else: 0
@@ -280,14 +280,14 @@ defmodule Akin.And do
     li: li,
     mi: mi
   }, comparator) when mi in ["", nil] do
-    must_have_firsts = [f, fi] |> AuthorUtil.flatten()
-    must_have_lasts = [l, li] |> AuthorUtil.flatten()
+    must_have_firsts = [f, fi] |> Util.flatten()
+    must_have_lasts = [l, li] |> Util.flatten()
     parts_match_scoring(String.split(comparator), must_have_firsts, must_have_lasts)
   end
   def parts_match_score(name_parts, comparator) do
-    must_have_firsts = [name_parts.f, name_parts.fi] |> AuthorUtil.flatten()
-    must_have_middles = [name_parts.m, name_parts.mi] |> AuthorUtil.flatten()
-    must_have_lasts = [name_parts.l, name_parts.li] |> AuthorUtil.flatten()
+    must_have_firsts = [name_parts.f, name_parts.fi] |> Util.flatten()
+    must_have_middles = [name_parts.m, name_parts.mi] |> Util.flatten()
+    must_have_lasts = [name_parts.l, name_parts.li] |> Util.flatten()
     if must_have_middles == [] do
       parts_match_scoring(String.split(comparator), must_have_firsts, must_have_lasts)
     else
@@ -328,7 +328,7 @@ defmodule Akin.And do
   # The scholar's middle name is only an initial
   def parts_match_scoring([f, m, l], must_have_firsts, [must_have_middle], must_have_lasts) when is_binary(must_have_middle) do
     # The name to compare to has only an inital for the middle name; it MUST match exactly
-    mi = AuthorUtil.get_initial(m)
+    mi = Util.get_initial(m)
     if must_have_middle == m || must_have_middle == mi do
       (score(f, must_have_firsts, :in) + score(l, must_have_lasts))/2
     else
@@ -336,7 +336,7 @@ defmodule Akin.And do
     end
   end
   def parts_match_scoring([f, m, l], must_have_firsts, [middle_name, middle_initial] = must_have_middles, must_have_lasts) do
-    mi = AuthorUtil.get_initial(m)
+    mi = Util.get_initial(m)
     if middle_name == m || middle_initial == mi do
       (score(f, must_have_firsts, :in) + score(l, must_have_lasts))/2
     else

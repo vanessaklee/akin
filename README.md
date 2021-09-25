@@ -200,11 +200,11 @@ Akin.compare_using(:metaphone_scores, a, b)
 To see the metaphone results, call the phonetic algorithm directly.
 
 ```elixir
-iex> Akin.Phonetic.Metaphone.compute("virginia")
+iex> Akin.Metaphone.Metaphone.compute("virginia")
 "frjn"
-iex> Akin.Phonetic.Metaphone.compute("woolf")
+iex> Akin.Metaphone.Metaphone.compute("woolf")
 "wlf"
-iex> Akin.Phonetic.Metaphone.compute("woolfe")
+iex> Akin.Metaphone.Metaphone.compute("woolfe")
 "wlf"
 ```
 
@@ -275,7 +275,7 @@ Sorts substrings by words, compares the sorted strings in pairs, and returns the
 ## Tversky 
 
 :tversky
-A generalization of Sørensen–Dice and Jaccard Similarity.
+A generalization of Sørensen–Dice and Jaccard.
 
 # In Development
 

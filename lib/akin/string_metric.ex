@@ -1,6 +1,6 @@
 defmodule Akin.StringMetric do
   @moduledoc """
-  Specifies the string metric api which an module needs to implement to provide
+  Specifies the string metric api which a module needs to implement to provide
   string comparison methods
   """
   @callback compare(String.t(), String.t(), Keyword.t(any())) :: any

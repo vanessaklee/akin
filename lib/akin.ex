@@ -2,10 +2,9 @@ defmodule Akin do
   @moduledoc """
   Compare two strings for similarity. Bias is set to 0.95.
   """
-  import Akin.Util, only: [modulize: 1]
+  import Akin.Util, only: [modulize: 1, prime: 1]
+  alias Akin.Primed
   @default_ngram_size 2
-
-  # TODO use Unicode.String.equals_ignoring_case? "ABS", "abs"
 
   @doc """
   Compare two strings using all supported algorithm. Return a map of metrics.
@@ -15,14 +14,33 @@ defmodule Akin do
 
   opts = [ngram_size: 3]
   """
+  @algorithms ["bag_distance", "chunk_set", "dice_sorensen", "hamming", "jaccard", "jaro_winkler", "levenshtein",
+  "metaphone", "double_metaphone._weak", "double_metaphone._normal", "double_metaphone._strict", "ngram",
+  "overlap", "sorted_chunks", "string_compare", "tversky"]
+
+  # ["bag_distance", "chunk_set", "dice_sorensen", "hamming", "jaccard", "jaro_winkler", "levenshtein",
+  # "metaphone", "double_metaphone._weak", "double_metaphone._normal", "double_metaphone._strict", "ngram",
+  # "overlap", "sorted_chunks", "tversky"]
+
   def compare(left, right, opts \\ [])
-  def compare(left, right, opts) do
-    algorithms = [:bag_distance, :chunk_set, :dice_sorensen, :hamming, :jaccard, :jaro_winkler, :levenshtein,
-      :metaphone_exact, :metaphone_scores, :n_gram, :overlap, :sorted_chunks, :string_compare, :tversky]
-    Enum.reduce(algorithms, %{}, fn algorithm, acc ->
+
+  def compare(left, right, opts) when is_binary(left) and is_binary(right) do
+    compare(prime(left), prime(right), opts)
+  end
+
+  def compare(%Primed{} = left, %Primed{} = right, opts) do
+    IO.inspect(left, label: "left")
+    IO.inspect(right, label: "right")
+    Enum.reduce(@algorithms , %{}, fn algorithm, acc ->
       Map.put(acc, algorithm, apply(modulize(algorithm), :compare, [left, right, opts]))
     end)
-    |> Enum.filter(fn {_, v} -> v != nil end)
+    |> Enum.reduce([], fn {k, v}, acc ->
+      if is_nil(v) do
+        acc
+      else
+        [{String.replace(k, ".", ""), v} | acc]
+      end
+    end)
     |> Enum.into(%{})
   end
 
@@ -36,8 +54,18 @@ defmodule Akin do
   opts = [ngram_size: 3]
   """
   def compare_using(algorithm, left, right, opts \\ [])
-  def compare_using(algorithm, left, right, opts) do
+
+  def compare_using(algorithm, left, right, opts) when is_binary(left) and is_binary(right) do
+    compare_using(algorithm, prime(left), prime(right), opts)
+  end
+
+  def compare_using(algorithm, %Primed{} = left, %Primed{} = right, opts) do
     apply(modulize(algorithm), :compare, [left, right, opts])
+  end
+
+  def max(left, right) do
+    compare(left, right)
+    |> Enum.max_by(fn {_k, v} -> v end)
   end
 
   def default_ngram_size, do: @default_ngram_size
