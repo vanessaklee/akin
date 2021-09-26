@@ -118,6 +118,8 @@ defmodule Akin.Metaphone.Double do
     compare(parse(left), parse(right), threshold)
   end
 
+  def compare({"", ""}, {"", ""}, _), do: false
+
   def compare({primary_left, secondary_left}, {primary_right, secondary_right}, "strict")
       when primary_left == primary_right and
              secondary_left == secondary_right do
@@ -862,8 +864,9 @@ defmodule Akin.Metaphone.Double do
   Accept two lists. Loop through a cartesian product of the two lists. Using a
   reducer, iterate over the thresholds. For each threshold, compare the item
   sets using compare/3. The first, if any, threshold to return a true value
-  from compare/3 stops the reducer and returns 1. Otherwise continue the reducer.
-  If true is never returned, return 0.
+  from compare/3 stops the reducer and percentage of true values found.
+  Otherwise the reducer continues. 0 is returned if no comparison returns
+  true at any threshold.
 
   - "strict": both encodings for each string must match
   - "strong": the primary encoding for each string must match
@@ -876,11 +879,13 @@ defmodule Akin.Metaphone.Double do
         for l <- left, r <- right do
           Akin.Metaphone.Double.compare(l, r, threshold)
         end
-
-      if Enum.any?(scores) do
-        {:halt, 1}
-      else
-        {:cont, acc}
+      IO.inspect scores
+      size = Enum.min([Enum.count(left), Enum.count(right)])
+      IO.inspect size
+      Enum.count(scores, fn s -> s == true end)/size
+      |> case do
+        score when score > 0 -> {:halt, score}
+        _ -> {:cont, acc}
       end
     end)
   end

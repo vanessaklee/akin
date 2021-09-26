@@ -17,6 +17,7 @@ defmodule Akin do
 
   NimbleCSV.define(CSVParse, separator: "\t")
 
+  @match_cutoff 0.9
   @default_ngram_size 2
   @opts [ngram_size: 2, threshold: "normal"]
 
@@ -40,7 +41,34 @@ defmodule Akin do
     "tversky"
   ]
 
-  @substring_algorithms ["chunk_set", "overlap", "sorted_chunks", "double_metaphone._chunks"]
+  %{
+    double_metaphone: 1.0,
+    double_metaphone_chunks: 1.0,
+    hamming: 0.0,
+    jaccard: 0.88,
+    jaro_winkler: 0.95,
+    levenshtein: 0.89,
+    metaphone: 1.0,
+    ngram: 0.88,
+    overlap: 1.0,
+    sorted_chunks: 1.0,
+    tversky: 0.88
+  }
+
+  @substring_set ["chunk_set", "overlap", "sorted_chunks", "double_metaphone._chunks"]
+  @string_set [
+    "bag_distance",
+    "dice_sorensen",
+    "double_metaphone",
+    "hamming",
+    "jaccard",
+    "jaro_winkler",
+    "levenshtein",
+    "metaphone",
+    "ngram",
+    "overlap",
+    "tversky"
+  ]
 
   @spec compare(binary(), binary()) :: float()
   @spec compare(binary(), binary(), list(), keyword() | nil) :: float()
@@ -72,7 +100,7 @@ defmodule Akin do
   @doc """
   Accept one Corpus struct, a list of Corpus structs, and a opts list to then compare the first binary with
   each of the structs in the second parameter. Return a list of binaries from the list which are a likely
-  match for the first binary. A likely match has a max score higher than 0.9
+  match for the first binary. A likely match has a max score higher than @match_cutoff (0.9)
   """
   def match(left, rights, opts \\ [])
 
@@ -83,7 +111,7 @@ defmodule Akin do
 
   def match(%Corpus{} = left, rights, opts) do
     Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
-      if Enum.any?(max(left, right, opts), fn {_algo, score} -> score > 0.9 end) do
+      if Enum.any?(max(left, right, opts), fn {_algo, score} -> score > @match_cutoff end) do
         [Enum.join(right.chunks, " ") | acc]
       else
         acc
@@ -106,23 +134,29 @@ defmodule Akin do
     apply(modulize(algorithm), :compare, [left, right, opts]) |> Float.round(2)
   end
 
-  @spec match(%Corpus{}, %Corpus{}, keyword()) :: float()
+  @spec smart_compare(%Corpus{}, %Corpus{}, keyword()) :: float()
   @doc """
-  Compare two strings using all algorithm that handle substrings and/or chunks:
-  "chunk_set", "overlap", and "sorted_chunks". Return a map of metrics.
+  Compare two strings by first checking for words, i.e. white space within each string.
+  If there is white space in either string, compare using only algorithms that prioritize
+  substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use
+  only algoritms do not prioritize substrings. Return a map of metrics.
   """
-  def substring_compare(left, right, opts \\ @opts)
+  def smart_compare(left, right, opts \\ @opts)
 
-  def substring_compare(left, right, opts) when is_binary(left) and is_binary(right) do
+  def smart_compare(left, right, opts) when is_binary(left) and is_binary(right) do
     if String.contains?(left, " ") or String.contains?(right, " ") do
-      compare(compose(left), compose(right), @substring_algorithms, opts)
+      compare(compose(left), compose(right), @substring_set, opts)
     else
-      compare(compose(left), compose(right), @algorithms, opts)
+      compare(compose(left), compose(right), @string_set, opts)
     end
   end
 
   @spec max(%Corpus{}, %Corpus{}, keyword()) :: list(tuple())
   @spec max(map()) :: float()
+  @doc """
+  Compare two strings using all algorithms. From the metrics returned through the comparision,
+  return only the highest algorithm scores.
+  """
   def max(%{} = scores) do
     {_k, max_val} = Enum.max_by(scores, fn {_k, v} -> v end)
     Enum.filter(scores, fn {_k, v} -> v == max_val end)
@@ -134,6 +168,8 @@ defmodule Akin do
   end
 
   def default_ngram_size, do: @default_ngram_size
+
+  def algorithms, do: @algorithms
 
   defp r(v) when is_float(v), do: Float.round(v, 2)
   defp r(v) when is_binary(v), do: Float.round(String.to_float(v), 2)
