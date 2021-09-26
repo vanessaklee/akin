@@ -91,7 +91,7 @@ defmodule Akin do
     end)
   end
 
-  @spec compare_using(atom(), %Corpus{}, %Corpus{}, keyword()) :: float()
+  @spec compare_using(atom(), %Corpus{} | binary(), %Corpus{} | binary(), keyword()) :: float()
   @doc """
   Compare two strings using a particular algorithm. Return a map of metrics. The algorithm
   name must be an atom (i.e. :jaro_winkler)

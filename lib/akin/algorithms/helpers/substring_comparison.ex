@@ -18,8 +18,11 @@ defmodule Akin.Helper.SubstringComparison do
     |> get_matching_blocks(longer)
     |> Enum.map(&String.jaro_distance(shorter, &1))
     |> case do
-      [] -> 0.0
-      result -> Enum.max(result)
+      [] ->
+        0.0
+
+      result ->
+        Enum.max(result)
     end
   end
 

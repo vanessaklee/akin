@@ -50,46 +50,75 @@ iex> Akin.compare("Oscar-Claude Monet", "Monet, Claude")
 }
 ```
 
-Comparing the two names: "Claude Monet" and "Edouard Manet"
+Comparing Words and Words with spaces (i.e. names)
 ```elixir
-iex> Akin.compare("Claude Monet", "Edouard Manet")
+iex> Akin.compare("Alix", "Alice")
 %{
-  bag_distance: 0.75,
-  chunk_set: 0.71,
-  dice_sorensen: 0.19,
+  bag_distance: 0.6,
+  chunk_set: 0.2,
+  dice_sorensen: 0.57,
+  double_metaphone: 0.0,
+  double_metaphone_chunks: 0.0,
+  jaccard: 0.4,
+  jaro_winkler: 0.85,
+  levenshtein: 0.6,
+  metaphone: 0.0,
+  ngram: 0.5,
+  overlap: 0.67,
+  sorted_chunks: 0.83,
+  tversky: 0.4
+}
+iex> Akin.compare("Alice Pleasance Liddell", "Alice P. Liddell")
+%{
+  bag_distance: 0.62,
+  chunk_set: 0.64,
+  dice_sorensen: 0.75,
   double_metaphone: 0.0,
   double_metaphone_chunks: 1.0,
-  jaccard: 0.11,
-  jaro_winkler: 0.71,
-  levenshtein: 0.42,
+  jaccard: 0.6,
+  jaro_winkler: 0.91,
+  levenshtein: 0.62,
   metaphone: 0.0,
-  ngram: 0.18,
-  overlap: 0.2,
-  sorted_chunks: 0.71,
-  tversky: 0.11
+  ngram: 0.6,
+  overlap: 1.0,
+  sorted_chunks: 0.85,
+  tversky: 0.6
 }
-```
-
-Comparing the two words: "tomato" and "tomahto"
-```elixir
-iex> Akin.compare("tomato", "tomahto")
+iex> Akin.compare("Alice Pleasance Liddell", "Alice Liddell")
 %{
-  bag_distance: 0.86,
-  chunk_set: 0.95,
-  dice_sorensen: 0.73,
-  double_metaphone: 1.0,
+  bag_distance: 0.57,
+  chunk_set: 0.64,
+  dice_sorensen: 0.71,
+  double_metaphone: 0.0,
   double_metaphone_chunks: 1.0,
-  jaccard: 0.57,
-  jaro_winkler: 0.97,
-  levenshtein: 0.86,
+  jaccard: 0.55,
+  jaro_winkler: 0.9,
+  levenshtein: 0.57,
   metaphone: 0.0,
-  ngram: 0.67,
-  overlap: 0.8,
-  sorted_chunks: 0.95,
-  tversky: 0.57
+  ngram: 0.55,
+  overlap: 1.0,
+  sorted_chunks: 0.85,
+  tversky: 0.55
+}
+iex> Akin.compare("Alice Hargreaves", "Alice Liddell")
+%{
+  bag_distance: 0.4,
+  chunk_set: 0.55,
+  dice_sorensen: 0.32,
+  double_metaphone: 0.0,
+  double_metaphone_chunks: 1.0,
+  jaccard: 0.19,
+  jaro_winkler: 0.78,
+  levenshtein: 0.4,
+  metaphone: 0.0,
+  ngram: 0.29,
+  overlap: 0.36,
+  sorted_chunks: 0.64,
+  tversky: 0.19
 }
 ```
 
+Comparing Words with accents
 ```elixir
 iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 %{
@@ -114,38 +143,55 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 Use a single algorithm to comparing two names: "Oscar-Claude Monet" and "Monet, Claude". The return value is a float or a binary depending on the algorithm.
 
 ```elixir
-iex> a = "Oscar-Claude Monet"
-iex> b = "Monet, Claude"
-iex> Akin.compare_using("jaro_winkler", a, b)
-0.66
-
-iex> Akin.compare_using("levenshtein", a, b) 
-0.38
-
-iex> Akin.compare_using("metaphone", a, b)
+iex> left = "Alice P. Liddel"
+iex> right = "Liddel, Alice"
+iex> Akin.compare_using("jaro_winkler", left, right)
+0.71
+iex> Akin.compare_using("levenshtein", left, right) 
+0.33
+iex> Akin.compare_using("metaphone", left, right)
 0.0
-
-iex> Akin.compare_using("double_metaphone._chunks", a, b)
+iex> Akin.compare_using("double_metaphone._chunks", left, right)
 1.0
-
-iex> Akin.compare_using("chunk_set", a, b)
-1.0
-
-iex> Akin.compare_using("sorted_chunks", a, b)
-0.9
-
-iex> Akin.compare_using("tversky", a, b)
-0.13
+iex> Akin.compare_using("chunk_set", left, right)
+0.74
+iex> Akin.compare_using("sorted_chunks", left, right)
+0.97
+iex> Akin.compare_using("tversky", left, right)
+0.4
 ```
 
-The default ngram size for the algorithms is 2. You can change it for particular algorithms by requesting it in the options.
+The default ngram size for the algorithms is 2. You can change by setting 
+a value in opts.
 
 ```elixir
-iex> a = "Oscar-Claude Monet"
-iex> b = "Monet, Claude"
-iex> opts = [ngram_size: 1]
-Akin.compare_using("tversky", a, b, opts)
-0.17
+iex> left = "Alice P. Liddel"
+iex> right = "Liddel, Alice"
+iex> Akin.compare_using("tversky", left, right)
+0.4
+iex> Akin.compare_using("tversky", left, right, [ngram_size: 1])
+0.8
+iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
+0.0
+```
+
+The default match strictness is "normal" You change it by setting 
+a value in opts. Currently it only affects the outcomes of the `chunk_set` and
+`double_metaphone` algorithms
+
+```elixir
+iex> left = "Alice in Wonderland"
+iex> right = "Alice's Adventures in Wonderland"
+iex> Akin.compare_using("chunk_set", left, right)
+0.64
+iex> Akin.compare_using("chunk_set", left, right, [threshold: "weak"])
+0.85
+iex> left = "which way"
+iex> right = "whitch way"
+iex> Akin.compare_using("double_metaphone", left, right, [threshold: "weak"])
+1.0
+iex> Akin.compare_using("double_metaphone", left, right, [threshold: "strict"])
+0.0
 ```
 TODO: add ML info
 TODO: document the Double Metaphone Algo
@@ -222,7 +268,6 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
   * "normal": the primary encoding of one string must match either encoding of other string (default)
   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
-
 ## N-Gram Similarity
 
 :ngram
@@ -250,4 +295,20 @@ A generalization of Sørensen–Dice and Jaccard.
 
 # Resources & Credit
 
+[Disambiguation Datasets](https://github.com/dhwajraj/dataset-person-name-disambiguation)
 [Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)
+[Fuzzy Compare](https://github.com/patrickdet/fuzzy_compare)
+[Python Fuzzy Wuzzy (2011)](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
+[ML Authur Block Dismabiguation](https://github.com/helenamihaljevic/ads_author_disambiguation)
+[ML Author Name Disambiguation](https://medium.com/ai2-blog/s2and-an-improved-author-disambiguation-system-for-semantic-scholar-d09380da30e6)
+[Record Linking](https://en.wikipedia.org/wiki/Record_linkage)
+[The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
+
+# To Do
+
+* Add Damerau-Levenshtein algorithm
+  * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau-Levenshtein_distance)
+  * [Examples](https://datascience.stackexchange.com/questions/60019/damerau-levenshtein-edit-distance-in-python)
+* Add Caverphone algorithm
+  * [Caverphone](https://en.wikipedia.org/wiki/Caverphone)
+  * [Example](https://gist.github.com/kastnerkyle/a697d4e762fa8f53c70eea7bc712eead)

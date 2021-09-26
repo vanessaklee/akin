@@ -482,4 +482,28 @@ defmodule Akin.Util do
         }
     end
   end
+
+  defp string_to_bag(string, bag, length) do
+    case :unicode_util.gc(string) do
+      [gc | rest] -> string_to_bag(rest, bag_store(bag, gc), length + 1)
+      [] -> {bag, length}
+      {:error, <<byte, rest::bits>>} -> string_to_bag(rest, bag_store(bag, <<byte>>), length + 1)
+    end
+  end
+
+  defp bag_store(bag, gc) do
+    case bag do
+      %{^gc => current} -> %{bag | gc => current + 1}
+      %{} -> Map.put(bag, gc, 1)
+    end
+  end
+
+  defp bag_difference(bag1, bag2) do
+    Enum.reduce(bag1, 0, fn {char, count1}, sum ->
+      case bag2 do
+        %{^char => count2} -> sum + max(count1 - count2, 0)
+        %{} -> sum + count1
+      end
+    end)
+  end
 end

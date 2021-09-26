@@ -32,10 +32,10 @@ defmodule Akin.DiceSorensen do
 
   def compare(left, right, ngram_size)
       when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size,
-      do: 0
+      do: 0.0
 
   def compare(left, right, _ngram_size) when left == right,
-    do: 1
+    do: 1.0
 
   def compare(left, right, ngram_size)
       when is_integer(ngram_size) do
@@ -45,5 +45,5 @@ defmodule Akin.DiceSorensen do
     2 * nmatches / (length(left_ngrams) + length(right_ngrams))
   end
 
-  def compare(_, _, _), do: 0
+  def compare(_, _, _), do: 0.0
 end

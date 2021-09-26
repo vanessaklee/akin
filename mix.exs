@@ -12,30 +12,26 @@ defmodule Akin.Mixfile do
       description: description(),
       package: package(),
       deps: deps(),
-      xref: [exclude: [Unicode.Utils]]
+      xref: [exclude: [Unicode.Utils]],
+      test_coverage: [tool: ExCoveralls],
+      preferred_cli_env: [
+        coveralls: :test,
+        "coveralls.detail": :test,
+        "coveralls.post": :test,
+        "coveralls.html": :test
+      ]
     ]
   end
 
-  # Configuration for the OTP application
-  #
-  # Type `mix help compile.app` for more information
   def application do
     [extra_applications: [:logger]]
   end
 
-  # Dependencies can be hex.pm packages:
-  #
-  #   {:mydep, "~> 0.3.0"}
-  #
-  # Or git/path repositories:
-  #
-  #   {:mydep, git: "https://github.com/elixir-lang/mydep.git", tag: "0.1"}
-  #
-  # Type `mix help deps` for more examples and options
   defp deps do
     [
       {:credo, "~> 1.0", only: :dev},
       {:earmark, "~> 1.3", only: :dev},
+      {:excoveralls, "~> 0.10", only: :test},
       {:ex_doc, "~> 0.19", only: :dev},
       {:ex_unicode, "~> 1.0"},
       {:html_entities, "~> 0.5"},
