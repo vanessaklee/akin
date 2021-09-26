@@ -11,8 +11,8 @@ Add a dependency in your mix.exs:
 deps: [{:akin, "~> 1.0"}]
 ```
 
-## Disambiguation using `compare/2` and `compare/3`
-### All Algortithms Together
+## Disambiguation 
+### All Algortithms Together using `compare/2` and `compare/3`
 
 Compare two strings using all of the available algorithms. The return value is a map of scores for each algorithm.
 
@@ -88,7 +88,7 @@ iex> Akin.max(left, right)
 [double_metaphone_chunks: 1.0]
 ```
 
-## Subset of Algorithms
+### Subset of Algorithms
 
 To compare using a subset of algorithms, send a list of algorithms to `compare/4`. 
 
@@ -101,7 +101,7 @@ iex> Akin.max(limited)
 [jaro_winkler: 0.84]
 ```
 
-## Smart Compare
+### Smart Compare
 
 When the strings contain spaces, such as full names, you can narrow the results to only algorithms which take
 substring matches into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If there, then the comaparison will only be done using  only algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use only algoritms do not prioritize substrings.
@@ -178,7 +178,7 @@ iex> Akin.smart_compare("weird", "wierd")
 }
 ```
 
-## Accents
+### Accents
 
 ```elixir
 iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
@@ -200,7 +200,7 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 }
 ```
 
-## Single Algorithms with `compare_using/2`
+### Single Algorithms with `compare_using/2`
 
 Use a single algorithm for comparing two strings. The return value is a float.
 
@@ -225,7 +225,7 @@ iex> Akin.compare_using("tversky", left, right)
 0.4
 ```
 
-## Metaphone
+### Metaphone
 
 Metaphone results can be retrieved directly outside of a comparison.
 
@@ -242,7 +242,7 @@ iex> Akin.Metaphone.Double.parse("woolfe")
 {"alf", "flf"}
 ```
 
-### Closer look at the Double Metaphone Chunks
+#### Closer look at the Double Metaphone Chunks
 
 ```elixir
 iex> left = "Alice Liddel"
@@ -260,7 +260,7 @@ iex> Akin.compare_using("double_metaphone._chunks", left, right)
 0.5
 ```
 
-## NGram Size
+### NGram Size
 
 The default ngram size for the algorithms is 2. You can change by setting 
 a value in opts.
@@ -276,7 +276,7 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 0.0
 ```
 
-## Match Threshold
+### Match Threshold
 
 The default match strictness is "normal" You change it by setting 
 a value in opts. Currently it only affects the outcomes of the `chunk_set` and
@@ -297,7 +297,7 @@ iex> Akin.compare_using("double_metaphone", left, right, [threshold: "strict"])
 0.0
 ```
 
-## Name Disambiguation with `match/2` 
+### Name Disambiguation with `match/2` 
 
 _UNDER DEVELOPMENT_
 
@@ -312,51 +312,51 @@ iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf
 ["virginia woolfe", "v woolf"]
 ```
 
-# Algorithms
+## Algorithms
 _Return: float_
 
-## Bag Distance
+### Bag Distance
 
 The bag distance is a cheap distance measure which always returns a distance smaller or equal to the edit distance. It's meant to be an efficient approximation of the distance between two strings to quickly rule out strings that are largely different.  
 
-## Chunk Set
+### Chunk Set
 
 :bag_distance
 Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
 
-## Sørensen–Dice 
+### Sørensen–Dice 
 
 :dice_sorensen
 Sørensen–Dice coefficient is calculated using bigrams. The equation is `2nt / nx + ny` where nx is the number of bigrams in string x, ny is the number of bigrams in string y, and nt is the number of bigrams in both strings. For example, the bigrams of `night` and `nacht` are `{ni,ig,gh,ht}` and `{na,ac,ch,ht}`. They each have four and the intersection is `ht`. 
 
 ``` (2 · 1) / (4 + 4) = 0.25 ```
 
-## Hamming Distance
+### Hamming Distance
 
 :hamming
 The Hamming distance between two strings of equal length is the number of positions at which the corresponding letters are different. Returns the percentage of change needed to the left string of the comparison of one string (left) with another string (right). Returns 0.0 if the strings are not the same length. Returns 1.0 if the string are equal.
 
-## Jaccard Similarity
+### Jaccard Similarity
 
 :jaccard
 Calculates the similarity of two strings as the size of the intersection divided by the size of the union. Default ngram: 2.
 
-## Jaro-Winkler Similarity
+### Jaro-Winkler Similarity
 
 :jaro_winkler
 Jaro-Winkler calculates the edit distance between two strings. A score of one denotes equality. Unlike the Jaro Similarity, it modifies the prefix scale to gives a more favorable rating to strings that match from the beginning.
 
-## Levenshtein Distance
+### Levenshtein Distance
 
 :levenshtein
 Compare two strings for their Levenshtein score. The score is determined by finding the edit distance: the minimum number of single-character edits needed to change one word into the other. The distance is substracted from 1.0 and then divided by the longest length between the two strings. 
 
-## Metaphone 
+### Metaphone 
 
 :metaphone
 Compares two strings by converting each to an approximate phonetic representation in ASCII and then comparing those phoenetic representations. Returns a 1 if the phoentic representations are an exact match.
 
-## Double Metaphone 
+### Double Metaphone 
 
 Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match threshold: strict, strong, normal (default), or weak. 
 
@@ -365,7 +365,7 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
   * "normal": the primary encoding of one string must match either encoding of other string (default)
   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
-## Sorted Chunked Double Metaphone
+### Sorted Chunked Double Metaphone
 
 Iterate over the cartesian product of the two lists sending each element through
 the Double Metaphone using all strictness thresholds until a true value is found
@@ -373,32 +373,27 @@ in the list of returned booleans from the Double Metaphone algorithm. Return the
 percentage of true values found. If true is never returned, return 0. Increases  
 accuracy for search terms containing more than one word.
 
-## N-Gram Similarity
+### N-Gram Similarity
 
 :ngram
 Calculates the ngram distance between two strings. Default ngram: 2.
 
-## Overlap Metric
+### Overlap Metric
 
 :overlap
 Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
 
-## Sorted Chunks
+### Sorted Chunks
 
 :sorted_chunks
 Sorts substrings by words, compares the sorted strings in pairs, and returns the maximum ratio. If one strings is signficantly longer than the other, this method will compare matching substrings only. 
 
-## Tversky 
+### Tversky 
 
 :tversky
 A generalization of Sørensen–Dice and Jaccard.
 
-# In Development
-
-#### Compare results to Python's FuzzyWuzzy library using [ErlPort](http://erlport.org/)
-#### Author Name Disambiguation (see lib/akin/and.ex for developments)
-
-# Resources & Credit
+## Resources & Credit
 
 [Disambiguation Datasets](https://github.com/dhwajraj/dataset-person-name-disambiguation)
 [Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)
@@ -409,7 +404,9 @@ A generalization of Sørensen–Dice and Jaccard.
 [Record Linking](https://en.wikipedia.org/wiki/Record_linkage)
 [The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
 
-# To Do
+
+## In Development
+
 * Document Machine Learning in ReadMe
 * Add Damerau-Levenshtein algorithm
   * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau-Levenshtein_distance)
@@ -418,3 +415,5 @@ A generalization of Sørensen–Dice and Jaccard.
   * [Caverphone](https://en.wikipedia.org/wiki/Caverphone)
   * [Research](https://caversham.otago.ac.nz/files/working/ctp150804.pdf)
   * [Example](https://gist.github.com/kastnerkyle/a697d4e762fa8f53c70eea7bc712eead)
+* Compare results to Python's FuzzyWuzzy library using [ErlPort](http://erlport.org/)
+* Author Name Disambiguation (see lib/akin/and.ex for developments)
