@@ -1,7 +1,6 @@
 defmodule Akin.Helper.SubstringComparison do
   @moduledoc """
-  This module offers the functionality of comparing strings of different
-  lengths.
+  This module with functions to compare strings of different lengths.
   """
 
   @doc """

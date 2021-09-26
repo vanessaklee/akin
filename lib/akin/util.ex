@@ -2,27 +2,29 @@ defmodule Akin.Util do
   @moduledoc """
   Module for utilities to handle string preparation, manipulation, and inspection.
   """
-  alias Akin.Primed
+  alias Akin.Corpus
 
   @regex ~r/[\p{P}\p{S}]/
 
   @doc """
-  Prime string for disambiguation. Remove punctuation, downcase, trim
-  excess whitespace. Return Primed struct.
+  Compose a string into a corpus of values for disambiguation.
+  Remove punctuation, downcase, trim excess whitespace. Return Corpus struct
+  composed of Chunks, MapSet, String, and Stemmed Chunks.
   """
-  def prime(left, right) when is_binary(left) and is_binary(right) do
-    {prime(left), prime(right)}
+  def compose(left, right) when is_binary(left) and is_binary(right) do
+    {compose(left), compose(right)}
   end
 
-  def prime(string) when is_binary(string) do
+  def compose(string) when is_binary(string) do
     chunks =
       string
       |> String.replace(@regex, " ")
       |> String.downcase()
+      |> deaccentize()
       |> String.split()
       |> Enum.map(&String.trim/1)
 
-    %Primed{
+    %Corpus{
       set: MapSet.new(chunks),
       chunks: chunks,
       string: Enum.join(chunks),
@@ -41,8 +43,10 @@ defmodule Akin.Util do
       end)
       |> Enum.join(" ")
     else
-      :unicode.characters_to_nfd_binary(name)
-      |> String.replace(~r/\W/u, "")
+      case :unicode.characters_to_nfd_binary(name) do
+        {:error, letter, _b} -> letter
+        l -> String.replace(l, ~r/\W/u, "")
+      end
     end
   end
 
@@ -83,13 +87,15 @@ defmodule Akin.Util do
         value
 
       true ->
-        new_value = value
+        new_value =
+          value
           |> String.codepoints()
           |> Stream.chunk_every(2, 1, :discard)
           |> Stream.filter(&(hd(&1) == "c" || hd(&1) != hd(tl(&1))))
           |> Stream.map(&hd(&1))
           |> Enum.to_list()
           |> to_string()
+
         new_value <> String.last(value)
     end
   end
@@ -141,7 +147,9 @@ defmodule Akin.Util do
 
   def ngram_tokenize(characters, n) do
     case n <= 0 || length(characters) < n do
-      true -> nil
+      true ->
+        nil
+
       false ->
         characters
         |> Stream.chunk_every(n, 1, :discard)
@@ -153,9 +161,11 @@ defmodule Akin.Util do
   Camelize input and return as an existing atom, as in referencing functions through apply
   """
   def modulize(list) when is_list(list), do: Enum.map(list, fn l -> modulize(l) end)
+
   def modulize(text) when is_binary(text) do
     String.to_atom("Elixir.Akin." <> Macro.camelize(text))
   end
+
   def modulize(text), do: text
 
   @spec name_parts(String.t() | nil, String.t() | nil, String.t() | nil) :: map()
@@ -273,6 +283,7 @@ defmodule Akin.Util do
   ```
   """
   def name_parts(%{first: first, middle: middle, last: last}), do: name_parts(first, middle, last)
+
   def name_parts(first_name, middle_name, last_name) do
     [f, fi] = parse_name(first_name)
     [m, mi] = parse_name(middle_name)
@@ -293,9 +304,23 @@ defmodule Akin.Util do
     {fimili, _used} = dry_name(combine(fi, mi, li), used)
 
     %{
-      f: f, m: m, l: l, fi: fi, mi: mi, li: li,
-      fml: fml, fmil: fmil, fimil: fimil, fl: fl, fil: fil,
-      fli: fli, fm: fm, fili: fili, fimi: fimi, fim: fim, fimili: fimili
+      f: f,
+      m: m,
+      l: l,
+      fi: fi,
+      mi: mi,
+      li: li,
+      fml: fml,
+      fmil: fmil,
+      fimil: fimil,
+      fl: fl,
+      fil: fil,
+      fli: fli,
+      fm: fm,
+      fili: fili,
+      fimi: fimi,
+      fim: fim,
+      fimili: fimili
     }
   end
 
@@ -316,6 +341,7 @@ defmodule Akin.Util do
       {name, [used, [name]] |> List.flatten()}
     end
   end
+
   def dry_name(_, used), do: {"", used}
 
   @spec get_initial(String.t() | nil) :: String.t()
@@ -331,6 +357,7 @@ defmodule Akin.Util do
   def get_initial(name) when is_binary(name) do
     String.slice(name, 0..0)
   end
+
   def get_initial(nil), do: ""
 
   @spec parse_name(String.t() | nil) :: list(any())
@@ -346,6 +373,7 @@ defmodule Akin.Util do
   def parse_name(name) when is_binary(name) do
     [name, name |> get_initial()]
   end
+
   def parse_name(nil), do: ["", ""]
 
   @spec combine(String.t() | nil, String.t() | nil, String.t() | nil) :: String.t()
@@ -361,6 +389,7 @@ defmodule Akin.Util do
   """
   def combine(one \\ nil, two \\ nil, three \\ nil)
   def combine(nil, nil, nil), do: ""
+
   def combine(one, two, three) do
     [one, two, three]
     |> Enum.intersperse(" ")
@@ -382,22 +411,29 @@ defmodule Akin.Util do
   def split(name, true) do
     # the name contains a comma, like "kurt Kroenke, md" or "sammie davis, jr"
     name = String.replace(name, ",", ", ") |> String.replace("  ", " ")
+
     case String.split(name, ", ") do
       [n, postcomma] ->
         split_name = split(n)
-        l = split_name.last  <> ", " <> postcomma
+        l = split_name.last <> ", " <> postcomma
         f = split_name.first
         m = split_name.middle
+
         %{
           first: f,
           middle: m,
           last: l,
           full: Enum.join([f, m, l], " ")
         }
-      [n] -> String.replace(n, ",", " ") |> String.trim()
-      _ -> name
+
+      [n] ->
+        String.replace(n, ",", " ") |> String.trim()
+
+      _ ->
+        name
     end
   end
+
   def split(name, false) do
     name
     |> String.split()
@@ -409,6 +445,7 @@ defmodule Akin.Util do
           last: l,
           full: Enum.join([f, m, l], " ")
         }
+
       [f, l] ->
         %{
           first: f,
@@ -416,27 +453,33 @@ defmodule Akin.Util do
           last: l,
           full: Enum.join([f, l], " ")
         }
-      [f] -> %{
+
+      [f] ->
+        %{
           first: f,
           middle: "",
           last: "",
           full: ""
         }
+
       [f | tail] ->
         l = List.last(tail)
-        m = tail -- [l] |> Enum.join(" ")
+        m = (tail -- [l]) |> Enum.join(" ")
+
         %{
           first: f,
           middle: m,
           last: l,
           full: Enum.join([f, m, l], " ")
         }
-      _ -> %{
-        first: "",
-        middle: "",
-        last: "",
-        full: ""
-      }
+
+      _ ->
+        %{
+          first: "",
+          middle: "",
+          last: "",
+          full: ""
+        }
     end
   end
 end

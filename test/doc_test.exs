@@ -10,6 +10,5 @@ defmodule DocTest do
   doctest Akin.Ngram
   doctest Akin.Overlap
   doctest Akin.Tversky
-  doctest Akin.And
   doctest Akin.Util
 end

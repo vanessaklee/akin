@@ -3,24 +3,28 @@ defmodule Akin.JaroWinkler do
   Calculates the [Jaro-Winkler Distance](http://en.wikipedia.org/wiki/
   Jaro-Winkler_distance) between two strings.
   """
-  use Akin.StringMetric
-  alias Akin.Primed
+  @behaviour Akin.Task
+  alias Akin.Corpus
 
+  @spec compare(%Corpus{}, %Corpus{}) :: float()
+  @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   @doc """
   Calculates the Jaro-Winkler distance between two strings.
-  ## Examples
-      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "abc"}, %Akin.Primed{string: ""})
-      nil
-      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "abc"}, %Akin.Primed{string: "xyz"})
-      0.0
-      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "compare me"}, %Akin.Primed{string: "compare me"})
-      1.0
-      iex> Akin.JaroWinkler.compare(%Akin.Primed{string: "natural"}, %Akin.Primed{string: "nothing"})
-      0.5714285714285714
-  """
-  def compare(left, right, _opts), do: compare(left, right)
 
-  def compare(%Primed{string: left}, %Primed{string: right}) do
+  ## Examples
+
+    iex> Akin.JaroWinkler.compare(%Akin.Corpus{string: "abc"}, %Akin.Corpus{string: ""})
+    0.0
+    iex> Akin.JaroWinkler.compare(%Akin.Corpus{string: "abc"}, %Akin.Corpus{string: "xyz"})
+    0.0
+    iex> Akin.JaroWinkler.compare(%Akin.Corpus{string: "compare me"}, %Akin.Corpus{string: "compare me"})
+    1.0
+    iex> Akin.JaroWinkler.compare(%Akin.Corpus{string: "natural"}, %Akin.Corpus{string: "nothing"})
+    0.5714285714285714
+  """
+  def compare(%Corpus{string: left}, %Corpus{string: right}, _opts), do: compare(left, right)
+
+  def compare(%Corpus{string: left}, %Corpus{string: right}) do
     compare(left, right)
   end
 
@@ -30,7 +34,7 @@ defmodule Akin.JaroWinkler do
 
     cond do
       left_length == 0 or right_length == 0 ->
-        nil
+        0.0
 
       left == right ->
         1.0
@@ -46,8 +50,10 @@ defmodule Akin.JaroWinkler do
         score + modified_prefix * (1 - score) / 10
     end
   end
+
   def compare(_, _), do: nil
 
+  @spec score(binary(), binary()) :: integer()
   @doc """
   Score the distance between two strings using String.jaro/2.
   """
@@ -56,13 +62,15 @@ defmodule Akin.JaroWinkler do
     right_length = String.length(right)
 
     if left_length == 0 or right_length == 0 do
-      nil
+      0
     else
       String.jaro_distance(left, right)
     end
   end
+
   def score(_, _), do: nil
 
+  @spec score(binary(), binary()) :: integer()
   @doc """
   Modifies the prefix scale, which gives a more favorable rating to strings
   that match from the beginning.
@@ -73,7 +81,7 @@ defmodule Akin.JaroWinkler do
 
   def modify_prefix(left, right, prefix_length, last_character) do
     if prefix_length < last_character &&
-       String.at(left, prefix_length) == String.at(right, prefix_length) do
+         String.at(left, prefix_length) == String.at(right, prefix_length) do
       modify_prefix(left, right, prefix_length + 1, last_character)
     else
       prefix_length

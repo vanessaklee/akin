@@ -6,17 +6,17 @@ defmodule Akin.Metaphone.Metaphone do
 
   import String, only: [downcase: 1, first: 1, split_at: 2, last: 1, at: 2]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1, deduplicate: 1]
-  alias Akin.Primed
 
+  # TODO add typspecs
   @doc """
     Returns the Metaphone phonetic version of the provided string.
     ## Examples
-      iex> Akin.Metaphone.Metaphone.compute(%Akin.Primed{string: "z"})
+      iex> Akin.Metaphone.Metaphone.compute("z")
       "s"
-      iex> Akin.Metaphone.Metaphone.compute(%Akin.Primed{string: "ztiaz"})
+      iex> Akin.Metaphone.Metaphone.compute("ztiaz")
       "sxs"
   """
-  def compute(%Primed{string: value}) do
+  def compute(value) when is_binary(value) do
     cond do
       len(value) == 0 ->
         nil
@@ -145,9 +145,9 @@ defmodule Akin.Metaphone.Metaphone do
 
         "d" ->
           if len(r) >= 2 && first(r) == "g" && at(r, 1) in ["e", "y", "i"] do
-              shift.(1, o <> "j")
+            shift.(1, o <> "j")
           else
-              shift.(1, o <> "t")
+            shift.(1, o <> "t")
           end
 
         "g" ->
@@ -165,8 +165,8 @@ defmodule Akin.Metaphone.Metaphone do
 
         "h" ->
           if (len(p) >= 1 && last(p) in vowels && (len(r) == 0 || first(r) in vowels)) ||
-              (len(p) >= 2 && last(p) == "h" && at(p, len(p) - 2) == "t") ||
-              at(p, len(p) - 2) == "g" do
+               (len(p) >= 2 && last(p) == "h" && at(p, len(p) - 2) == "t") ||
+               at(p, len(p) - 2) == "g" do
             shift.(1, o)
           else
             shift.(1, o <> "h")

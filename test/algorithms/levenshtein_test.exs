@@ -1,37 +1,50 @@
 defmodule LevenshteinTest do
   use ExUnit.Case
-  import Akin.Levenshtein, only: [compare: 2]
-  alias Akin.Primed
+  import Akin.Levenshtein, only: [compare: 3]
+  alias Akin.Corpus
 
   test "returns nil with empty arguments" do
-    assert compare(%Primed{string: ""}, %Primed{string: ""}) == 1
-    assert compare(%Primed{string: "abc"}, %Primed{string: ""}) == 0.0
-    assert compare(%Primed{string: ""}, %Primed{string: "xyz"}) == 0.0
+    assert compare(%Corpus{string: ""}, %Corpus{string: ""}, []) == 1
+    assert compare(%Corpus{string: "abc"}, %Corpus{string: ""}, []) == 0.0
+    assert compare(%Corpus{string: ""}, %Corpus{string: "xyz"}, []) == 0.0
   end
 
   test "return 1 with equal arguments" do
-    assert compare(%Primed{string: "a"}, %Primed{string: "a"}) == 1
-    assert compare(%Primed{string: "abc"}, %Primed{string: "abc"}) == 1
-    assert compare(%Primed{string: "123"}, %Primed{string: "123"}) == 1
+    assert compare(%Corpus{string: "a"}, %Corpus{string: "a"}, []) == 1
+    assert compare(%Corpus{string: "abc"}, %Corpus{string: "abc"}, []) == 1
+    assert compare(%Corpus{string: "123"}, %Corpus{string: "123"}, []) == 1
   end
 
   test "return distance with unequal arguments" do
-    assert compare(%Primed{string: "abc"}, %Primed{string: "xyz"}) == 0.0
-    assert compare(%Primed{string: "123"}, %Primed{string: "456"}) == 0.0
+    assert compare(%Corpus{string: "abc"}, %Corpus{string: "xyz"}, []) == 0.0
+    assert compare(%Corpus{string: "123"}, %Corpus{string: "456"}, []) == 0.0
   end
 
   test "return distance with valid arguments" do
-    assert compare(%Primed{string: "sitting"}, %Primed{string: "kitten"}) == 0.57
-    assert compare(%Primed{string: "kitten"}, %Primed{string: "sitting"}) == 0.57
-    assert compare(%Primed{string: "cake"}, %Primed{string: "drake"}) == 0.6
-    assert compare(%Primed{string: "drake"}, %Primed{string: "cake"}) == 0.6
-    assert compare(%Primed{string: "saturday"}, %Primed{string: "sunday"}) == 0.63
-    assert compare(%Primed{string: "sunday"}, %Primed{string: "saturday"}) == 0.63
-    assert compare(%Primed{string: "book"}, %Primed{string: "back"}) == 0.5
-    assert compare(%Primed{string: "dog"}, %Primed{string: "fog"}) == 0.67
-    assert compare(%Primed{string: "foq"}, %Primed{string: "fog"}) == 0.67
-    assert compare(%Primed{string: "fvg"}, %Primed{string: "fog"}) == 0.67
-    assert compare(%Primed{string: "encyclopedia"}, %Primed{string: "encyclopediaz"}) == 0.92
-    assert compare(%Primed{string: "encyclopediz"}, %Primed{string: "encyclopediaz"}) == 0.92
+    assert compare(%Corpus{string: "sitting"}, %Corpus{string: "kitten"}, []) |> Float.round(2) ==
+             0.57
+
+    assert compare(%Corpus{string: "kitten"}, %Corpus{string: "sitting"}, []) |> Float.round(2) ==
+             0.57
+
+    assert compare(%Corpus{string: "cake"}, %Corpus{string: "drake"}, []) |> Float.round(2) == 0.6
+    assert compare(%Corpus{string: "drake"}, %Corpus{string: "cake"}, []) |> Float.round(2) == 0.6
+
+    assert compare(%Corpus{string: "saturday"}, %Corpus{string: "sunday"}, []) |> Float.round(2) ==
+             0.63
+
+    assert compare(%Corpus{string: "sunday"}, %Corpus{string: "saturday"}, []) |> Float.round(2) ==
+             0.63
+
+    assert compare(%Corpus{string: "book"}, %Corpus{string: "back"}, []) |> Float.round(2) == 0.5
+    assert compare(%Corpus{string: "dog"}, %Corpus{string: "fog"}, []) |> Float.round(2) == 0.67
+    assert compare(%Corpus{string: "foq"}, %Corpus{string: "fog"}, []) |> Float.round(2) == 0.67
+    assert compare(%Corpus{string: "fvg"}, %Corpus{string: "fog"}, []) |> Float.round(2) == 0.67
+
+    assert compare(%Corpus{string: "encyclopedia"}, %Corpus{string: "encyclopediaz"}, [])
+           |> Float.round(2) == 0.92
+
+    assert compare(%Corpus{string: "encyclopediz"}, %Corpus{string: "encyclopediaz"}, [])
+           |> Float.round(2) == 0.92
   end
 end

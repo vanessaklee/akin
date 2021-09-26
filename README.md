@@ -20,13 +20,8 @@ Identity is the challenge of author name disambiguation (AND). The aim of AND is
 Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names (i.e. ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"]), find and return the matches for the author in the list using a combination and hierarchy of string comparison algorithms.
 
 ```elixir
-iex> Akin.And.match("Virginia", nil, "Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
-["V. Woolf", "Virginia Woolfe"]
-```
-
-Run tests against Aminer author disambiguation dataset by using:
-```elixir
-mix test test/similarity/and_test.exs 
+iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
+["virginia woolfe", "v woolf"]
 ```
 
 ## Examples
@@ -34,100 +29,83 @@ mix test test/similarity/and_test.exs
 
 Compare two strings using all of the available algorithms. The return value is a map of scores for each algorithm.
 
-
 Comparing the two names: "Oscar-Claude Monet" and "Monet, Claude"
+
 ```elixir
-iex> Akin.compare(%Akin.Primed{string: "Oscar-Claude Monet"}, %Akin.Primed{string: "Monet, Claude"})
+iex> Akin.compare("Oscar-Claude Monet", "Monet, Claude")
 %{
-  bag_distance: 0.6666666666666667,
+  bag_distance: 0.69,
   chunk_set: 1.0,
-  dice_sorensen: 0.13793103448275862,
-  jaccard: 0.07407407407407407,
-  jaro_winkler: 0.6032763532763533,
-  levenshtein: 13,
-  metaphone_exact: 1,
-  n_gram: 0.11764705882352941,
-  overlap: 0.16666666666666666,
-  sorted_chunks: 0.8958333333333334,
-  string_compare: 1.0,
-  tversky: 0.15384615384615385
+  dice_sorensen: 0.08,
+  double_metaphone: 0.0,
+  double_metaphone_chunks: 1.0,
+  jaccard: 0.04,
+  jaro_winkler: 0.66,
+  levenshtein: 0.38,
+  metaphone: 0.0,
+  ngram: 0.07,
+  overlap: 0.1,
+  sorted_chunks: 0.9,
+  tversky: 0.13
 }
 ```
 
 Comparing the two names: "Claude Monet" and "Edouard Manet"
 ```elixir
-iex> Akin.compare(%Akin.Primed{string: "Claude Monet", %Akin.Primed{string: "Edouard Manet"})
+iex> Akin.compare("Claude Monet", "Edouard Manet")
 %{
-  bag_distance: 0.6923076923076923,
-  chunk_set: 0.7079124579124579,
-  dice_sorensen: 0.2608695652173913,
-  jaccard: 0.15,
-  jaro_winkler: 0.6773504273504273,
-  levenshtein: 7,
-  metaphone_exact: 1,
-  metaphone_scores: %{
-    bag_distance: 0.625,
-    chunk_set: 0.8333333333333334,
-    jaro_winkler: 0.7130952380952381,
-    levenshtein: 3,
-    sorted_chunks: 0.6626984126984127
-  },
-  n_gram: 0.25,
-  overlap: 0.2727272727272727,
-  sorted_chunks: 0.7079124579124579,
-  string_compare: 0.7079124579124579,
-  tversky: 0.15
+  bag_distance: 0.75,
+  chunk_set: 0.71,
+  dice_sorensen: 0.19,
+  double_metaphone: 0.0,
+  double_metaphone_chunks: 1.0,
+  jaccard: 0.11,
+  jaro_winkler: 0.71,
+  levenshtein: 0.42,
+  metaphone: 0.0,
+  ngram: 0.18,
+  overlap: 0.2,
+  sorted_chunks: 0.71,
+  tversky: 0.11
 }
 ```
 
 Comparing the two words: "tomato" and "tomahto"
 ```elixir
-iex> Akin.compare(%Akin.Primed{string: "tomato", %Akin.Primed{string: "tomahto"})
+iex> Akin.compare("tomato", "tomahto")
 %{
-  bag_distance: 0.8571428571428572,
-  chunk_set: 0.9523809523809524,
-  dice_sorensen: 0.7272727272727273,
-  jaccard: 0.5714285714285714,
-  jaro_winkler: 0.9714285714285714,
-  levenshtein: 1,
-  metaphone_exact: 0,
-  metaphone_scores: %{
-    bag_distance: 0.75,
-    chunk_set: 0.9166666666666666,
-    jaro_winkler: 0.9333333333333333,
-    levenshtein: 1,
-    sorted_chunks: 0.9166666666666666
-  },
-  n_gram: 0.6666666666666666,
+  bag_distance: 0.86,
+  chunk_set: 0.95,
+  dice_sorensen: 0.73,
+  double_metaphone: 1.0,
+  double_metaphone_chunks: 1.0,
+  jaccard: 0.57,
+  jaro_winkler: 0.97,
+  levenshtein: 0.86,
+  metaphone: 0.0,
+  ngram: 0.67,
   overlap: 0.8,
-  sorted_chunks: 0.9523809523809524,
-  string_compare: 0.9714285714285714,
-  tversky: 0.5714285714285714
+  sorted_chunks: 0.95,
+  tversky: 0.57
 }
 ```
 
 ```elixir
-iex> Akin.compare(%Akin.Primed{string: "Hubert Łępicki", %Akin.Primed{string: "Hubert Lepicki"})
+iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 %{
-  bag_distance: 0.8571428571428572,
-  chunk_set: 0.8974358974358975,
-  dice_sorensen: 0.7692307692307693,
-  jaccard: 0.625,
-  jaro_winkler: 0.9428571428571428,
-  levenshtein: 2,
-  metaphone_exact: 1,
-  metaphone_scores: %{
-    bag_distance: 0.625,
-    chunk_set: 1.0,
-    jaro_winkler: 0.925,
-    levenshtein: 3,
-    sorted_chunks: 0.8571428571428571
-  },
-  n_gram: 0.7692307692307693,
-  overlap: 0.7692307692307693,
-  sorted_chunks: 0.8974358974358975,
-  string_compare: 0.9384615384615385,
-  tversky: 0.625
+  bag_distance: 0.92,
+  chunk_set: 0.95,
+  dice_sorensen: 0.83,
+  double_metaphone: 0.0,
+  double_metaphone_chunks: 1.0,
+  jaccard: 0.71,
+  jaro_winkler: 0.97,
+  levenshtein: 0.92,
+  metaphone: 0.0,
+  ngram: 0.83,
+  overlap: 0.83,
+  sorted_chunks: 0.95,
+  tversky: 0.71
 }
 ```
 
@@ -136,66 +114,45 @@ iex> Akin.compare(%Akin.Primed{string: "Hubert Łępicki", %Akin.Primed{string: 
 Use a single algorithm to comparing two names: "Oscar-Claude Monet" and "Monet, Claude". The return value is a float or a binary depending on the algorithm.
 
 ```elixir
-iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
-iex> b = %Akin.Primed{string: "Monet, Claude"}
-iex> Akin.compare_using(:jaro_winkler, a, b)
-0.6032763532763533
+iex> a = "Oscar-Claude Monet"
+iex> b = "Monet, Claude"
+iex> Akin.compare_using("jaro_winkler", a, b)
+0.66
 
-iex> Akin.compare_using(:levenshtein, a, b) 
-13
+iex> Akin.compare_using("levenshtein", a, b) 
+0.38
 
-iex> Akin.compare_using(:metaphone_exact, a, b)
-1
+iex> Akin.compare_using("metaphone", a, b)
+0.0
 
-iex> Akin.compare_using(:chunk_set, a, b)
+iex> Akin.compare_using("double_metaphone._chunks", a, b)
 1.0
 
-iex> Akin.compare_using(:sorted_chunks, a, b)
-0.8958333333333334
+iex> Akin.compare_using("chunk_set", a, b)
+1.0
 
-iex> Akin.compare_using(:tversky, a, b)
-0.15384615384615385
+iex> Akin.compare_using("sorted_chunks", a, b)
+0.9
+
+iex> Akin.compare_using("tversky", a, b)
+0.13
 ```
 
 The default ngram size for the algorithms is 2. You can change it for particular algorithms by requesting it in the options.
 
 ```elixir
-iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
-iex> b = %Akin.Primed{string: "Monet, Claude"}
+iex> a = "Oscar-Claude Monet"
+iex> b = "Monet, Claude"
 iex> opts = [ngram_size: 1]
-Akin.compare_using(:tversky, a, b, opts)
-0.2222222222222222
+Akin.compare_using("tversky", a, b, opts)
+0.17
 ```
+TODO: add ML info
+TODO: document the Double Metaphone Algo
+TODO: document the chunked Double Metaphone Algo
+TODO: document the match function
+TODO: document the max function
 
-Currently, the metaphone scores are limited. The two words being compared must include the same number of parts when the words are split. 
-
-```elixir
-iex> a = %Akin.Primed{string: "Oscar-Claude Monet"}
-iex> b = %Akin.Primed{string: "Monet, Claude"}
-iex> Akin.compare_using(:metaphone_scores, a, b)
-nil
-iex> a = %Akin.Primed{string: "Claude Monet"}
-iex> b = %Akin.Primed{string: "Edouard Manet"}
-iex> Akin.compare_using(:metaphone_scores, a, b)
-%{
-  bag_distance: 0.625,
-  chunk_set: 0.8333333333333334,
-  jaro_winkler: 0.7130952380952381,
-  levenshtein: 3,
-  sorted_chunks: 0.6626984126984127
-}
-iex> a = %Akin.Primed{string: "virginia woolfe"}
-iex> b = %Akin.Primed{string: "Virginia Woolf"}
-iex> Akin.compare_using(:metaphone_scores, a, b)
-Akin.compare_using(:metaphone_scores, a, b)   
-%{
-  bag_distance: 1.0,
-  chunk_set: 1.0,
-  jaro_winkler: 1.0,
-  levenshtein: 1,
-  sorted_chunks: 1.0
-}
-```
 
 To see the metaphone results, call the phonetic algorithm directly.
 
@@ -206,13 +163,17 @@ iex> Akin.Metaphone.Metaphone.compute("woolf")
 "wlf"
 iex> Akin.Metaphone.Metaphone.compute("woolfe")
 "wlf"
+iex> Akin.Metaphone.Double.parse("virginia")
+{"frjn", "frkn"}
+iex> Akin.Metaphone.Double.parse("woolfe") 
+{"alf", "flf"}
 ```
 
 # Algorithms
+_Return: float_
 
 ## Bag Distance
 
-_Return: float_
 The bag distance is a cheap distance measure which always returns a distance smaller or equal to the edit distance. It's meant to be an efficient approximation of the distance between two strings to quickly rule out strings that are largely different.  
 
 ## Chunk Set
@@ -254,10 +215,6 @@ Compares two strings by converting each to an approximate phonetic representatio
 
 ## Double Metaphone 
 
-:double_metaphone_strict
-:double_metaphone_strong
-:double_metaphone_normal
-:double_metaphone_weak
 Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match threshold: strict, strong, normal (default), or weak. 
 
   * "strict": both encodings for each string must match
@@ -290,4 +247,7 @@ A generalization of Sørensen–Dice and Jaccard.
 
 #### Compare results to Python's FuzzyWuzzy library using [ErlPort](http://erlport.org/)
 #### Author Name Disambiguation (see lib/akin/and.ex for developments)
-#### Double Metaphone (converting from [python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py))
+
+# Resources & Credit
+
+[Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)

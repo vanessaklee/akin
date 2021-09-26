@@ -1,217 +1,216 @@
 defmodule PhoenticMetaphoneTest do
   use ExUnit.Case
   import Akin.Metaphone.Metaphone, only: [compute: 1]
-  alias Akin.Primed
 
   test "returns nil with empty argument" do
-    assert compute(%Primed{string: ""}) == nil
+    assert compute("") == nil
   end
 
   test "returns nil with non-phonetic argument" do
-    assert compute(%Primed{string: "123"}) == nil
+    assert compute("123") == nil
   end
 
   test "return the expected phonetic responses" do
     # z
-    assert compute(%Primed{string: "z"}) == "s"
-    assert compute(%Primed{string: "zz"}) == "s"
+    assert compute("z") == "s"
+    assert compute("zz") == "s"
 
     # y
-    assert compute(%Primed{string: "y"}) == nil
-    assert compute(%Primed{string: "zy"}) == "s"
-    assert compute(%Primed{string: "zyz"}) == "ss"
-    assert compute(%Primed{string: "zya"}) == "sy"
+    assert compute("y") == nil
+    assert compute("zy") == "s"
+    assert compute("zyz") == "ss"
+    assert compute("zya") == "sy"
 
     # x
-    assert compute(%Primed{string: "x"}) == "s"
-    assert compute(%Primed{string: "zx"}) == "sks"
-    assert compute(%Primed{string: "zxz"}) == "skss"
+    assert compute("x") == "s"
+    assert compute("zx") == "sks"
+    assert compute("zxz") == "skss"
 
     # w
-    assert compute(%Primed{string: "w"}) == nil
-    assert compute(%Primed{string: "zw"}) == "s"
-    assert compute(%Primed{string: "zwz"}) == "ss"
-    assert compute(%Primed{string: "zwa"}) == "sw"
+    assert compute("w") == nil
+    assert compute("zw") == "s"
+    assert compute("zwz") == "ss"
+    assert compute("zwa") == "sw"
 
     # v
-    assert compute(%Primed{string: "v"}) == "f"
-    assert compute(%Primed{string: "zv"}) == "sf"
-    assert compute(%Primed{string: "zvz"}) == "sfs"
+    assert compute("v") == "f"
+    assert compute("zv") == "sf"
+    assert compute("zvz") == "sfs"
 
     # u
-    assert compute(%Primed{string: "u"}) == "u"
-    assert compute(%Primed{string: "zu"}) == "s"
+    assert compute("u") == "u"
+    assert compute("zu") == "s"
 
     # t
-    assert compute(%Primed{string: "t"}) == "t"
-    assert compute(%Primed{string: "ztiaz"}) == "sxs"
-    assert compute(%Primed{string: "ztioz"}) == "sxs"
-    assert compute(%Primed{string: "zthz"}) == "s0s"
-    assert compute(%Primed{string: "ztchz"}) == "sxs"
-    assert compute(%Primed{string: "ztz"}) == "sts"
+    assert compute("t") == "t"
+    assert compute("ztiaz") == "sxs"
+    assert compute("ztioz") == "sxs"
+    assert compute("zthz") == "s0s"
+    assert compute("ztchz") == "sxs"
+    assert compute("ztz") == "sts"
 
     # s
-    assert compute(%Primed{string: "s"}) == "s"
-    assert compute(%Primed{string: "zshz"}) == "sxs"
-    assert compute(%Primed{string: "zsioz"}) == "sxs"
-    assert compute(%Primed{string: "zsiaz"}) == "sxs"
-    assert compute(%Primed{string: "zs"}) == "ss"
-    assert compute(%Primed{string: "zsz"}) == "sss"
+    assert compute("s") == "s"
+    assert compute("zshz") == "sxs"
+    assert compute("zsioz") == "sxs"
+    assert compute("zsiaz") == "sxs"
+    assert compute("zs") == "ss"
+    assert compute("zsz") == "sss"
 
     # r
-    assert compute(%Primed{string: "r"}) == "r"
-    assert compute(%Primed{string: "zr"}) == "sr"
-    assert compute(%Primed{string: "zrz"}) == "srs"
+    assert compute("r") == "r"
+    assert compute("zr") == "sr"
+    assert compute("zrz") == "srs"
 
     # q
-    assert compute(%Primed{string: "q"}) == "k"
-    assert compute(%Primed{string: "zq"}) == "sk"
-    assert compute(%Primed{string: "zqz"}) == "sks"
+    assert compute("q") == "k"
+    assert compute("zq") == "sk"
+    assert compute("zqz") == "sks"
 
     # p
-    assert compute(%Primed{string: "p"}) == "p"
-    assert compute(%Primed{string: "zp"}) == "sp"
-    assert compute(%Primed{string: "zph"}) == "sf"
-    assert compute(%Primed{string: "zpz"}) == "sps"
+    assert compute("p") == "p"
+    assert compute("zp") == "sp"
+    assert compute("zph") == "sf"
+    assert compute("zpz") == "sps"
 
     # o
-    assert compute(%Primed{string: "o"}) == "o"
-    assert compute(%Primed{string: "zo"}) == "s"
+    assert compute("o") == "o"
+    assert compute("zo") == "s"
 
     # n
-    assert compute(%Primed{string: "n"}) == "n"
-    assert compute(%Primed{string: "zn"}) == "sn"
-    assert compute(%Primed{string: "znz"}) == "sns"
+    assert compute("n") == "n"
+    assert compute("zn") == "sn"
+    assert compute("znz") == "sns"
 
     # m
-    assert compute(%Primed{string: "m"}) == "m"
-    assert compute(%Primed{string: "zm"}) == "sm"
-    assert compute(%Primed{string: "zmz"}) == "sms"
+    assert compute("m") == "m"
+    assert compute("zm") == "sm"
+    assert compute("zmz") == "sms"
 
     # l
-    assert compute(%Primed{string: "l"}) == "l"
-    assert compute(%Primed{string: "zl"}) == "sl"
-    assert compute(%Primed{string: "zlz"}) == "sls"
+    assert compute("l") == "l"
+    assert compute("zl") == "sl"
+    assert compute("zlz") == "sls"
 
     # k
-    assert compute(%Primed{string: "k"}) == "k"
-    assert compute(%Primed{string: "zk"}) == "sk"
-    assert compute(%Primed{string: "zck"}) == "sk"
+    assert compute("k") == "k"
+    assert compute("zk") == "sk"
+    assert compute("zck") == "sk"
 
     # j
-    assert compute(%Primed{string: "j"}) == "j"
-    assert compute(%Primed{string: "zj"}) == "sj"
-    assert compute(%Primed{string: "zjz"}) == "sjs"
+    assert compute("j") == "j"
+    assert compute("zj") == "sj"
+    assert compute("zjz") == "sjs"
 
     # i
-    assert compute(%Primed{string: "i"}) == "i"
-    assert compute(%Primed{string: "zi"}) == "s"
+    assert compute("i") == "i"
+    assert compute("zi") == "s"
 
     # h
     # php wrongly says nil
-    assert compute(%Primed{string: "h"}) == "h"
+    assert compute("h") == "h"
     # php wrongly says s
-    assert compute(%Primed{string: "zh"}) == "sh"
-    assert compute(%Primed{string: "zah"}) == "s"
-    assert compute(%Primed{string: "zchh"}) == "sx"
-    assert compute(%Primed{string: "ha"}) == "h"
+    assert compute("zh") == "sh"
+    assert compute("zah") == "s"
+    assert compute("zchh") == "sx"
+    assert compute("ha") == "h"
 
     # g
-    assert compute(%Primed{string: "g"}) == "k"
-    assert compute(%Primed{string: "zg"}) == "sk"
+    assert compute("g") == "k"
+    assert compute("zg") == "sk"
     # php wrongly says sf
-    assert compute(%Primed{string: "zgh"}) == "skh"
+    assert compute("zgh") == "skh"
     # php wrongly says sfs
-    assert compute(%Primed{string: "zghz"}) == "shs"
+    assert compute("zghz") == "shs"
     # php wrongly says sf
-    assert compute(%Primed{string: "zgha"}) == "sh"
+    assert compute("zgha") == "sh"
     # others wrongly say skh
-    assert compute(%Primed{string: "zgn"}) == "sn"
-    assert compute(%Primed{string: "zgns"}) == "skns"
+    assert compute("zgn") == "sn"
+    assert compute("zgns") == "skns"
     # others wrongly says sknt
-    assert compute(%Primed{string: "zgned"}) == "snt"
+    assert compute("zgned") == "snt"
     # php wrongly says snts
-    assert compute(%Primed{string: "zgneds"}) == "sknts"
-    assert compute(%Primed{string: "zgi"}) == "sj"
-    assert compute(%Primed{string: "zgiz"}) == "sjs"
-    assert compute(%Primed{string: "zge"}) == "sj"
-    assert compute(%Primed{string: "zgez"}) == "sjs"
-    assert compute(%Primed{string: "zgy"}) == "sj"
-    assert compute(%Primed{string: "zgyz"}) == "sjs"
-    assert compute(%Primed{string: "zgz"}) == "sks"
+    assert compute("zgneds") == "sknts"
+    assert compute("zgi") == "sj"
+    assert compute("zgiz") == "sjs"
+    assert compute("zge") == "sj"
+    assert compute("zgez") == "sjs"
+    assert compute("zgy") == "sj"
+    assert compute("zgyz") == "sjs"
+    assert compute("zgz") == "sks"
 
     # f
-    assert compute(%Primed{string: "f"}) == "f"
-    assert compute(%Primed{string: "zf"}) == "sf"
-    assert compute(%Primed{string: "zfz"}) == "sfs"
+    assert compute("f") == "f"
+    assert compute("zf") == "sf"
+    assert compute("zfz") == "sfs"
 
     # e
-    assert compute(%Primed{string: "e"}) == "e"
-    assert compute(%Primed{string: "ze"}) == "s"
+    assert compute("e") == "e"
+    assert compute("ze") == "s"
 
     # d
-    assert compute(%Primed{string: "d"}) == "t"
+    assert compute("d") == "t"
     # php wrongly says fj
-    assert compute(%Primed{string: "fudge"}) == "fjj"
+    assert compute("fudge") == "fjj"
     # php wrongly says tj
-    assert compute(%Primed{string: "dodgy"}) == "tjj"
+    assert compute("dodgy") == "tjj"
     # others wrongly say tjjy
     # php wrongly says tj
-    assert compute(%Primed{string: "dodgi"}) == "tjj"
-    assert compute(%Primed{string: "zd"}) == "st"
-    assert compute(%Primed{string: "zdz"}) == "sts"
+    assert compute("dodgi") == "tjj"
+    assert compute("zd") == "st"
+    assert compute("zdz") == "sts"
 
     # c
-    assert compute(%Primed{string: "c"}) == "k"
-    assert compute(%Primed{string: "zcia"}) == "sx"
-    assert compute(%Primed{string: "zciaz"}) == "sxs"
-    assert compute(%Primed{string: "zch"}) == "sx"
-    assert compute(%Primed{string: "zchz"}) == "sxs"
-    assert compute(%Primed{string: "zci"}) == "ss"
-    assert compute(%Primed{string: "zciz"}) == "sss"
-    assert compute(%Primed{string: "zce"}) == "ss"
-    assert compute(%Primed{string: "zcez"}) == "sss"
-    assert compute(%Primed{string: "zcy"}) == "ss"
-    assert compute(%Primed{string: "zcyz"}) == "sss"
-    assert compute(%Primed{string: "zsci"}) == "ss"
-    assert compute(%Primed{string: "zsciz"}) == "sss"
-    assert compute(%Primed{string: "zsce"}) == "ss"
-    assert compute(%Primed{string: "zscez"}) == "sss"
-    assert compute(%Primed{string: "zscy"}) == "ss"
-    assert compute(%Primed{string: "zscyz"}) == "sss"
+    assert compute("c") == "k"
+    assert compute("zcia") == "sx"
+    assert compute("zciaz") == "sxs"
+    assert compute("zch") == "sx"
+    assert compute("zchz") == "sxs"
+    assert compute("zci") == "ss"
+    assert compute("zciz") == "sss"
+    assert compute("zce") == "ss"
+    assert compute("zcez") == "sss"
+    assert compute("zcy") == "ss"
+    assert compute("zcyz") == "sss"
+    assert compute("zsci") == "ss"
+    assert compute("zsciz") == "sss"
+    assert compute("zsce") == "ss"
+    assert compute("zscez") == "sss"
+    assert compute("zscy") == "ss"
+    assert compute("zscyz") == "sss"
     # php wrongly says ssx
-    assert compute(%Primed{string: "zsch"}) == "sskh"
-    assert compute(%Primed{string: "zc"}) == "sk"
-    assert compute(%Primed{string: "zcz"}) == "sks"
+    assert compute("zsch") == "sskh"
+    assert compute("zc") == "sk"
+    assert compute("zcz") == "sks"
 
     # b
-    assert compute(%Primed{string: "b"}) == "b"
-    assert compute(%Primed{string: "zb"}) == "sb"
-    assert compute(%Primed{string: "zbz"}) == "sbs"
-    assert compute(%Primed{string: "zmb"}) == "sm"
+    assert compute("b") == "b"
+    assert compute("zb") == "sb"
+    assert compute("zbz") == "sbs"
+    assert compute("zmb") == "sm"
 
     # a
-    assert compute(%Primed{string: "a"}) == "a"
-    assert compute(%Primed{string: "za"}) == "s"
+    assert compute("a") == "a"
+    assert compute("za") == "s"
 
     # Miscellaneous.
-    assert compute(%Primed{string: "dumb"}) == "tm"
-    assert compute(%Primed{string: "smith"}) == "sm0"
+    assert compute("dumb") == "tm"
+    assert compute("smith") == "sm0"
     # php wrongly says sxl
-    assert compute(%Primed{string: "school"}) == "skhl"
-    assert compute(%Primed{string: "merci"}) == "mrs"
-    assert compute(%Primed{string: "cool"}) == "kl"
-    assert compute(%Primed{string: "aebersold"}) == "ebrslt"
-    assert compute(%Primed{string: "gnagy"}) == "nj"
-    assert compute(%Primed{string: "knuth"}) == "n0"
-    assert compute(%Primed{string: "pniewski"}) == "nsk"
+    assert compute("school") == "skhl"
+    assert compute("merci") == "mrs"
+    assert compute("cool") == "kl"
+    assert compute("aebersold") == "ebrslt"
+    assert compute("gnagy") == "nj"
+    assert compute("knuth") == "n0"
+    assert compute("pniewski") == "nsk"
     # php wrongly says rft
-    assert compute(%Primed{string: "wright"}) == "rht"
-    assert compute(%Primed{string: "phone"}) == "fn"
-    assert compute(%Primed{string: "aggregate"}) == "akrkt"
-    assert compute(%Primed{string: "accuracy"}) == "akkrs"
-    assert compute(%Primed{string: "encyclopedia"}) == "ensklpt"
-    assert compute(%Primed{string: "honorificabilitudinitatibus"}) == "hnrfkblttnttbs"
-    assert compute(%Primed{string: "antidisestablishmentarianism"}) == "anttsstblxmntrnsm"
+    assert compute("wright") == "rht"
+    assert compute("phone") == "fn"
+    assert compute("aggregate") == "akrkt"
+    assert compute("accuracy") == "akkrs"
+    assert compute("encyclopedia") == "ensklpt"
+    assert compute("honorificabilitudinitatibus") == "hnrfkblttnttbs"
+    assert compute("antidisestablishmentarianism") == "anttsstblxmntrnsm"
   end
 end

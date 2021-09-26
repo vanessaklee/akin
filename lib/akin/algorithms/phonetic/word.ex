@@ -16,6 +16,7 @@ defmodule Word do
     prepad = "  "
     postpad = "      "
     decoded = if String.valid?(input), do: input, else: nil
+
     %Word{
       original: input,
       decoded: decoded,
@@ -31,23 +32,23 @@ defmodule Word do
   end
 
   def is_slavo_germanic?(%Word{upper: upper}) do
-    String.contains?(upper, "W")
-    or String.contains?(upper, "K")
-    or String.contains?(upper, "CZ")
-    or String.contains?(upper, "WITZ")
+    String.contains?(upper, "W") or
+      String.contains?(upper, "K") or
+      String.contains?(upper, "CZ") or
+      String.contains?(upper, "WITZ")
   end
 
   def get_letters(%Word{start_index: start_index, buffer: buffer}, start \\ 0, close \\ nil) do
     close = if is_nil(close), do: start + 1, else: close
     start = start_index + start
     close = start_index + close
-    String.slice(buffer, start, (close - start))
+    String.slice(buffer, start, close - start)
   end
 
   def normalize(input) do
     String.normalize(input, :nfd)
     |> String.graphemes()
-    |> Enum.reduce([], fn l, acc ->  if Unicode.category(l) == "Mn", do: acc, else: [l | acc]  end)
+    |> Enum.reduce([], fn l, acc -> if Unicode.category(l) == "Mn", do: acc, else: [l | acc] end)
     |> Enum.reverse()
   end
 end

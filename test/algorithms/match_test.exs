@@ -1,10 +1,9 @@
-# defmodule Akin.AndTest do
+# defmodule Akin.MatchTest do
 #   @moduledoc """
 #   Tests to cover author name disambiguation.
 #   """
 #   use ExUnit.Case
 #   import SweetXml
-#   alias Akin.And
 
 #   @doc """
 #   This data set is used for studying name disambiguation in digital library. It contains 110 author names and their disambiguation results (ground truth). Each author name corresponds to a raw file in the "data" folder and an answer file (ground truth) in the "answers" folder.

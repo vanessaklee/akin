@@ -1,34 +1,33 @@
 defmodule Akin.ChunkSet do
   @moduledoc """
-  Functions for string comparsion where common words between the strings are compared in the
-  following sets.
-
-    * `common_words = "claude monet"`
-    * `common_words_plus_remaining_words_left = "claude monet oscar"`
-    * `common_words_plus_remaining_words_right = "claude monet alice hoschedé was the wife of"`
-
-  Return maximum ratio
-  ## Examples
-
-      iex> StringCompare.ChunkSet.standard_similarity("oscar claude monet", "alice hoschedé was the wife of claude monet")
-      0.8958333333333334
-
-      iex> StringCompare.ChunkSet.substring_similarity("oscar claude monet", "alice hoschedé was the wife of claude monet")
-      1.0
+  Functions for string comparsion where common words between the strings are compared in sets.
   """
-  use Akin.StringMetric
-  alias Akin.{Primed, Strategy, Helper.SubstringComparison}
+  @behaviour Akin.Task
+  alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
 
+  @spec compare(%Corpus{}, %Corpus{}) :: float()
+  @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
+  def compare(%Corpus{} = left, %Corpus{} = right, _opts), do: compare(left, right)
 
-  def compare(left, right, _opts), do: compare(left, right)
-
-  def compare(%Primed{} = left, %Primed{} = right) do
-    case Strategy.determine(left.string, right.string) do
-      :standard -> similarity(left.set, right.set)
-      {:substring, scale} -> substring_similarity(left.set, right.set, scale)
+  def compare(%Corpus{string: left_string, set: left_set}, %Corpus{
+        string: right_string,
+        set: right_set
+      }) do
+    case Strategy.determine(left_string, right_string) do
+      :standard -> similarity(left_set, right_set)
+      {:substring, scale} -> substring_similarity(left_set, right_set, scale)
     end
   end
 
+  @doc """
+  Accepts two MapSets and determines common words.
+
+  * `common_words = "claude monet"`
+  * `common_words_plus_remaining_words_left = "claude monet oscar"`
+  * `common_words_plus_remaining_words_right = "claude monet alice hoschedé was the wife of"`
+
+  Return maximum ratio
+  """
   def substring_similarity(left, right, scale) do
     similarity(left, right, SubstringComparison) * scale
   end
@@ -48,6 +47,7 @@ defmodule Akin.ChunkSet do
     ]
     |> Enum.max()
   end
+
   defp similarity(left, right, ratio_mod) do
     {common_words, common_words_plus_remaining_words_left,
      common_words_plus_remaining_words_right} = set_operations(left, right)
