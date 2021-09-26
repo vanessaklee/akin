@@ -395,14 +395,14 @@ A generalization of Sørensen–Dice and Jaccard.
 
 ## Resources & Credit
 
-[Disambiguation Datasets](https://github.com/dhwajraj/dataset-person-name-disambiguation)
-[Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)
-[Fuzzy Compare](https://github.com/patrickdet/fuzzy_compare)
-[Python Fuzzy Wuzzy (2011)](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
-[ML Authur Block Dismabiguation](https://github.com/helenamihaljevic/ads_author_disambiguation)
-[ML Author Name Disambiguation](https://medium.com/ai2-blog/s2and-an-improved-author-disambiguation-system-for-semantic-scholar-d09380da30e6)
-[Record Linking](https://en.wikipedia.org/wiki/Record_linkage)
-[The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
+* [Disambiguation Datasets](https://github.com/dhwajraj/dataset-person-name-disambiguation)
+* [Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)
+* [Fuzzy Compare](https://github.com/patrickdet/fuzzy_compare)
+* [Python Fuzzy Wuzzy (2011)](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
+* [ML Authur Block Dismabiguation](https://github.com/helenamihaljevic/ads_author_disambiguation)
+* [ML Author Name Disambiguation](https://medium.com/ai2-blog/s2and-an-improved-author-disambiguation-system-for-semantic-scholar-d09380da30e6)
+* [Record Linking](https://en.wikipedia.org/wiki/Record_linkage)
+* [The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
 
 
 ## In Development
@@ -415,5 +415,5 @@ A generalization of Sørensen–Dice and Jaccard.
   * [Caverphone](https://en.wikipedia.org/wiki/Caverphone)
   * [Research](https://caversham.otago.ac.nz/files/working/ctp150804.pdf)
   * [Example](https://gist.github.com/kastnerkyle/a697d4e762fa8f53c70eea7bc712eead)
-* Compare results to Python's FuzzyWuzzy library using [ErlPort](http://erlport.org/)
+* Compare results to Python's [FuzzyWuzzy](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/) library using [ErlPort](http://erlport.org/)
 * Author Name Disambiguation (see lib/akin/and.ex for developments)
