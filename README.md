@@ -70,8 +70,41 @@ iex> Akin.compare("Duane", "Dwayne")
 }
 ```
 
+## Max scores with `max/2` 
+
+Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
+
+```elixir
+iex> Akin.max("weird", "wierd")
+[
+  bag_distance: 1.0,
+  double_metaphone: 1.0,
+  double_metaphone_chunks: 1.0,
+  metaphone: 1.0
+]
+iex> left = "Alice P. Liddel"
+iex> right = "Alice Liddel"
+iex> Akin.max(left, right)
+[double_metaphone_chunks: 1.0]
+```
+
+## Subset of Algorithms
+
+To compare using a subset of algorithms, send a list of algorithms to `compare/4`. 
+
+```elixir
+iex> Akin.algorithms()
+["bag_distance", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
+iex> limited = Akin.compare("Duane", "Dwayne", ["bag_distance", "jaro_winkler", "levenshtein"], [])
+%{bag_distance: 0.67, jaro_winkler: 0.84, levenshtein: 0.67}
+iex> Akin.max(limited)
+[jaro_winkler: 0.84]
+```
+
+## Smart Compare
+
 When the strings contain spaces, such as full names, you can narrow the results to only algorithms which take
-substring matches into account.
+substring matches into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If there, then the comaparison will only be done using  only algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use only algoritms do not prioritize substrings.
 
 ```elixir
 iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
@@ -129,142 +162,24 @@ iex> Akin.smart_compare("Alice Pleasance Liddel", "Liddel, Alice")
   overlap: 0.3,
   sorted_chunks: 0.85
 }
-```
-
-When the strings contain spaces, such as full names, you can narrow the results to only algorithms which take
-substring matches into account with `smart_compare/2` or `smart_compare/3`.
-
-```elixir
-iex> Akin.compare("Alice Pleasance Liddel", "Alice P. Liddel")
+iex> Akin.smart_compare("weird", "wierd")
 %{
-  bag_distance: 0.6,
-  chunk_set: 0.64,
-  dice_sorensen: 0.73,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 0.67,
-  hamming: 0.0,
-  jaccard: 0.58,
-  jaro_winkler: 0.9,
+  bag_distance: 1.0,
+  dice_sorensen: 0.25,
+  double_metaphone: 1.0,
+  hamming: 0.6,
+  jaccard: 0.14,
+  jaro_winkler: 0.94,
   levenshtein: 0.6,
-  metaphone: 0.0,
-  ngram: 0.58,
-  overlap: 1.0,
-  sorted_chunks: 0.85,
-  tversky: 0.58 
-}
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 0.67,
-  overlap: 1.0,
-  sorted_chunks: 0.85
-}
-iex> Akin.compare("Alice Pleasance Liddel", "Alice Liddel")
-%{
-  bag_distance: 0.55,
-  chunk_set: 0.64,
-  dice_sorensen: 0.69,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.53,
-  jaro_winkler: 0.89,
-  levenshtein: 0.55,
-  metaphone: 0.0,
-  ngram: 0.53,
-  overlap: 1.0,
-  sorted_chunks: 0.85,
-  tversky: 0.53
-}
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice Liddel")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 1.0,
-  overlap: 1.0,
-  sorted_chunks: 0.85
-}
-iex> Akin.compare("Alice Pleasance Liddel", "Liddel, Alice")
-%{
-  bag_distance: 0.55,
-  chunk_set: 0.64,
-  dice_sorensen: 0.21,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.12,
-  jaro_winkler: 0.68,
-  levenshtein: 0.35,
-  metaphone: 0.0,
-  ngram: 0.16,
-  overlap: 0.3,
-  sorted_chunks: 0.85,
-  tversky: 0.21
-}
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Liddel, Alice")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 1.0,
-  overlap: 0.3,
-  sorted_chunks: 0.85
+  metaphone: 1.0,
+  ngram: 0.25,
+  overlap: 0.25,
+  tversky: 0.14
 }
 ```
 
-Comparing Words and Words with spaces (i.e. names) 
-```elixir
-iex> Akin.compare("Alice Pleasance Liddell", "Alice P. Liddell")
-%{
-  bag_distance: 0.62,
-  chunk_set: 0.64,
-  dice_sorensen: 0.75,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 0.67,
-  hamming: 0.0,
-  jaccard: 0.6,
-  jaro_winkler: 0.91,
-  levenshtein: 0.62,
-  metaphone: 0.0,
-  ngram: 0.6,
-  overlap: 1.0,
-  sorted_chunks: 0.85,
-  tversky: 0.6 
-}
-iex> Akin.compare("Alice Pleasance Liddell", "Alice Liddell")
-%{
-  bag_distance: 0.57,
-  chunk_set: 0.64,
-  dice_sorensen: 0.71,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.55,
-  jaro_winkler: 0.9,
-  levenshtein: 0.57,
-  metaphone: 0.0,
-  ngram: 0.55,
-  overlap: 1.0,
-  sorted_chunks: 0.85,
-  tversky: 0.55
-}
-iex> Akin.compare("Alice Hargreaves", "Alice Liddell")
-%{
-  bag_distance: 0.4,
-  chunk_set: 0.55,
-  dice_sorensen: 0.32,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 0.5,
-  hamming: 0.0,
-  jaccard: 0.19,
-  jaro_winkler: 0.78,
-  levenshtein: 0.4,
-  metaphone: 0.0,
-  ngram: 0.29,
-  overlap: 0.36,
-  sorted_chunks: 0.64,
-  tversky: 0.19
-}
-```
+## Accents
 
-Comparing Words with accents
 ```elixir
 iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 %{
@@ -285,9 +200,9 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 }
 ```
 
-## Algorithms Independently with `compare_using/2`
+## Single Algorithms with `compare_using/2`
 
-Use a single algorithm to comparing two names: "Oscar-Claude Monet" and "Monet, Claude". The return value is a float or a binary depending on the algorithm.
+Use a single algorithm for comparing two strings. The return value is a float.
 
 ```elixir
 iex> left = "Alice P. Liddel"
@@ -310,7 +225,24 @@ iex> Akin.compare_using("tversky", left, right)
 0.4
 ```
 
-Closer look at the Double Metaphone Chunks
+## Metaphone
+
+Metaphone results can be retrieved directly outside of a comparison.
+
+```elixir
+iex> Akin.Metaphone.Metaphone.compute("virginia")
+"frjn"
+iex> Akin.Metaphone.Metaphone.compute("woolf")
+"wlf"
+iex> Akin.Metaphone.Metaphone.compute("woolfe")
+"wlf"
+iex> Akin.Metaphone.Double.parse("virginia")
+{"frjn", "frkn"}
+iex> Akin.Metaphone.Double.parse("woolfe") 
+{"alf", "flf"}
+```
+
+### Closer look at the Double Metaphone Chunks
 
 ```elixir
 iex> left = "Alice Liddel"
@@ -328,6 +260,8 @@ iex> Akin.compare_using("double_metaphone._chunks", left, right)
 0.5
 ```
 
+## NGram Size
+
 The default ngram size for the algorithms is 2. You can change by setting 
 a value in opts.
 
@@ -341,6 +275,8 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 1])
 iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 0.0
 ```
+
+## Match Threshold
 
 The default match strictness is "normal" You change it by setting 
 a value in opts. Currently it only affects the outcomes of the `chunk_set` and
@@ -360,39 +296,6 @@ iex> Akin.compare_using("double_metaphone", left, right, [threshold: "weak"])
 iex> Akin.compare_using("double_metaphone", left, right, [threshold: "strict"])
 0.0
 ```
-TODO: add ML info
-
-To see the metaphone results, call the phonetic algorithm directly.
-
-```elixir
-iex> Akin.Metaphone.Metaphone.compute("virginia")
-"frjn"
-iex> Akin.Metaphone.Metaphone.compute("woolf")
-"wlf"
-iex> Akin.Metaphone.Metaphone.compute("woolfe")
-"wlf"
-iex> Akin.Metaphone.Double.parse("virginia")
-{"frjn", "frkn"}
-iex> Akin.Metaphone.Double.parse("woolfe") 
-{"alf", "flf"}
-```
-
-## Max scores with `max/2` 
-
-Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
-
-```elixir
-iex> Akin.max("weird", "wierd")
-[
-  bag_distance: 1.0,
-  double_metaphone: 1.0,
-  double_metaphone_chunks: 1.0,
-  metaphone: 1.0
-]
-iex> left = "Alice P. Liddel"
-iex> right = "Alice Liddel"
-iex> Akin.max(left, right)
-[double_metaphone_chunks: 1.0]
 
 ## Name Disambiguation with `match/2` 
 
@@ -507,7 +410,7 @@ A generalization of Sørensen–Dice and Jaccard.
 [The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
 
 # To Do
-
+* Document Machine Learning in ReadMe
 * Add Damerau-Levenshtein algorithm
   * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau-Levenshtein_distance)
   * [Examples](https://datascience.stackexchange.com/questions/60019/damerau-levenshtein-edit-distance-in-python)
