@@ -403,7 +403,7 @@ A generalization of Sørensen–Dice and Jaccard.
 * [ML Author Name Disambiguation](https://medium.com/ai2-blog/s2and-an-improved-author-disambiguation-system-for-semantic-scholar-d09380da30e6)
 * [Record Linking](https://en.wikipedia.org/wiki/Record_linkage)
 * [The Fuzz](https://github.com/smashedtoatoms/the_fuzz)
-
+* [Homophones used in testing metaphone algorithms](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/speech/database/homofonz/)
 
 ## In Development
 
