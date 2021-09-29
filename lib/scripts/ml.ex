@@ -10,32 +10,25 @@ defmodule Akin.ML do
     |> Stream.map(&String.trim(&1))
     |> Enum.to_list()
     |> Enum.map(fn row ->
-      [left, right] = String.split(row, "\t")
+      [left, right, match] = String.split(row, "\t")
 
       Akin.compare(left, right)
-      |> to_csv(left, right, 1)
+      |> to_csv(left, right, match)
     end)
 
-    File.stream!("test/support/nonmatch_names.csv")
-    |> Stream.map(&String.trim(&1))
-    |> Enum.to_list()
-    |> Enum.map(fn row ->
-      [left, right] = String.split(row, "\t")
+    # File.stream!("test/support/nonmatch_names.csv")
+    # |> Stream.map(&String.trim(&1))
+    # |> Enum.to_list()
+    # |> Enum.map(fn row ->
+    #   [left, right] = String.split(row, "\t")
 
-      Akin.compare(left, right)
-      |> to_csv(left, right, 0)
-    end)
+    #   Akin.compare(left, right)
+    #   |> to_csv(left, right, 0)
+    # end)
   end
 
   defp to_csv(%{} = scores, left, right, match) do
     # TODO why is metaphone sometimes missing?
-    metaphone =
-      if Map.get(scores, :metaphone) do
-        Map.get(scores, :metaphone)
-      else
-        0.0
-      end
-
     names = left <> " compared to " <> right
 
     data =
@@ -43,13 +36,12 @@ defmodule Akin.ML do
         [
           scores.bag_distance,
           scores.chunk_set,
-          scores.dice_sorensen,
+          scores.sorensen_dice,
           scores.double_metaphone,
           scores.double_metaphone_chunks,
           scores.jaccard,
           scores.jaro_winkler,
           scores.levenshtein,
-          metaphone,
           scores.ngram,
           scores.overlap,
           scores.sorted_chunks,

@@ -21,10 +21,11 @@ defmodule Akin.Overlap do
     iex> Akin.Overlap.compare(%Akin.Corpus{string: "or me"}, %Akin.Corpus{string: "me"}, 1)
     1.0
   """
-  def compare(left, right, opts \\ [])
+  def compare(left, right, opts \\ Akin.default_opts())
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) when is_list(opts) do
-    compare(left, right, Keyword.get(opts, :ngram_size) || Akin.default_ngram_size())
+    ngram_size = Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
+    compare(left, right, ngram_size)
   end
 
   def compare(%Corpus{string: left}, %Corpus{string: right}, n) when is_integer(n) do

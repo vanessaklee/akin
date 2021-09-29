@@ -11,161 +11,146 @@ Add a dependency in your mix.exs:
 deps: [{:akin, "~> 1.0"}]
 ```
 
-## Disambiguation 
-### All Algortithms Together using `compare/2` and `compare/3`
+## Disambiguation Metrics
+
+### All the Algorithms
+
+To see all of the avialable algorithms:
+
+```elixir
+iex> Akin.algorithms()
+["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
+```
+
+A subset of alogrithms is used for multi-algorithm comparison. Hamming is excluded as it only compares strings of equal length.
+Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
+
+```elixir
+iex> Akin.algorithms("compare")
+["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
+```
 
 Compare two strings using all of the available algorithms. The return value is a map of scores for each algorithm.
 
-```elixir
+ ```elixir
 iex> Akin.compare("weird", "wierd")
 %{
   bag_distance: 1.0,
-  chunk_set: 0.23,
-  dice_sorensen: 0.25,
+  sorensen_dice: 0.25,
   double_metaphone: 1.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.6,
   jaccard: 0.14,
   jaro_winkler: 0.94,
   levenshtein: 0.6,
   metaphone: 1.0,
   ngram: 0.25,
   overlap: 0.25,
-  sorted_chunks: 0.93,
   tversky: 0.14
 }
+```
+
+```elixir
 iex> Akin.compare("beginning", "begining")
 %{
   bag_distance: 0.89,
-  chunk_set: 0.23,
-  dice_sorensen: 0.93,
+  sorensen_dice: 0.93,
   double_metaphone: 1.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
   jaccard: 0.88,
   jaro_winkler: 0.95,
   levenshtein: 0.89,
   metaphone: 1.0,
   ngram: 0.88,
   overlap: 1.0,
-  sorted_chunks: 1.0,
   tversky: 0.88
 }
-iex> Akin.compare("Duane", "Dwayne")
-%{
-  bag_distance: 0.67,
-  chunk_set: 0.21,
-  dice_sorensen: 0.22,
-  double_metaphone: 1.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.13,
-  jaro_winkler: 0.84,
-  levenshtein: 0.67,
-  metaphone: 0.0,
-  ngram: 0.2,
-  overlap: 0.25,
-  sorted_chunks: 0.82,
-  tversky: 0.13
-}
 ```
 
-## Max scores with `max/2` 
+### Options
 
-Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
+The Compare function also accepts options as a Keyword list. The current keys used are `ngram_size`, `match_level`, and `cutoff_length`.
 
-```elixir
-iex> Akin.max("weird", "wierd")
-[
-  bag_distance: 1.0,
-  double_metaphone: 1.0,
-  double_metaphone_chunks: 1.0,
-  metaphone: 1.0
-]
-iex> left = "Alice P. Liddel"
-iex> right = "Alice Liddel"
-iex> Akin.max(left, right)
-[double_metaphone_chunks: 1.0]
-```
+  1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
+  2. `length_cutoff`: only strings with a length greater than the `length_cutoff` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
+  3. `match_cutoff`: 
+  4. `match_level` - match_level for matching used in double metaphone algorithm. Default is "normal".
+      - "strict": both encodings for each string must match
+      - "strong": the primary encoding for each string must match
+      - "normal": the primary encoding of one string must match either encoding of other string (default)
+      - "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
 ### Subset of Algorithms
 
-To compare using a subset of algorithms, send a list of algorithms to `compare/4`. 
+A comparison can be done on a custom subset of algorithms.  
 
 ```elixir
-iex> Akin.algorithms()
-["bag_distance", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
-iex> limited = Akin.compare("Duane", "Dwayne", ["bag_distance", "jaro_winkler", "levenshtein"], [])
-%{bag_distance: 0.67, jaro_winkler: 0.84, levenshtein: 0.67}
+iex> Akin.compare("weird", "wierd", ["bag_distance", "jaro_winkler", "jaccard"])  
+%{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
+
+iex> Akin.compare("weird", "wierd", ["jaccard"], [ngram_size: 1])
+%{jaccard: 0.67} 
+
+iex> Akin.compare("weird", "wierd")
+%{
+  bag_distance: 1.0,
+  sorensen_dice: 0.25,
+  double_metaphone: 1.0,
+  jaccard: 0.14,
+  jaro_winkler: 0.94,
+  levenshtein: 0.6,
+  metaphone: 1.0,
+  ngram: 0.25,
+  overlap: 0.25,
+  tversky: 0.14
+}
+```
+
+### Stemming the Strings 
+
+Compare the stemmed version of two strings.
+
+```elixir
+iex> Akin.compare_stems("write", "writing")
+%{
+  bag_distance: 1.0,
+  sorensen_dice: 1.0,
+  double_metaphone: 1.0,
+  jaccard: 1.0,
+  jaro_winkler: 1.0,
+  levenshtein: 1.0,
+  metaphone: 1.0,
+  ngram: 1.0,
+  overlap: 1.0,
+  tversky: 1.0
+}
+```
+
+### Max 
+
+Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
+The strings are compared using the default list of comparison algorithms unless a list of algorithms is given. Also accepts a keyword list of options. 
+
+```elixir
+iex> Akin.max("weird", "wierd")
+[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
+iex> Akin.max("Alice P. Liddel", "Alice Liddel")
+[jaro_winkler: 0.98]
+iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["double_metaphone_chunks"])
+[double_metaphone_chunks: 1.0]
+iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
+%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
 iex> Akin.max(limited)
-[jaro_winkler: 0.84]
+[jaro_winkler: 0.95]
 ```
 
 ### Smart Compare
 
-When the strings contain spaces, such as full names, you can narrow the results to only algorithms which take
-substring matches into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If there, then the comaparison will only be done using  only algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use only algoritms do not prioritize substrings.
+When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take
+substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is short or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
 
 ```elixir
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 0.67,
-  overlap: 1.0,
-  sorted_chunks: 0.85
-}
-iex> Akin.compare("Alice Pleasance Liddel", "Alice Liddel")
-%{
-  bag_distance: 0.55,
-  chunk_set: 0.64,
-  dice_sorensen: 0.69,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.53,
-  jaro_winkler: 0.89,
-  levenshtein: 0.55,
-  metaphone: 0.0,
-  ngram: 0.53,
-  overlap: 1.0,
-  sorted_chunks: 0.85,
-  tversky: 0.53
-}
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice Liddel")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 1.0,
-  overlap: 1.0,
-  sorted_chunks: 0.85
-}
-iex> Akin.compare("Alice Pleasance Liddel", "Liddel, Alice")
-%{
-  bag_distance: 0.55,
-  chunk_set: 0.64,
-  dice_sorensen: 0.21,
-  double_metaphone: 0.0,
-  double_metaphone_chunks: 1.0,
-  hamming: 0.0,
-  jaccard: 0.12,
-  jaro_winkler: 0.68,
-  levenshtein: 0.35,
-  metaphone: 0.0,
-  ngram: 0.16,
-  overlap: 0.3,
-  sorted_chunks: 0.85,
-  tversky: 0.21
-}
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Liddel, Alice")
-%{
-  chunk_set: 0.64,
-  double_metaphone_chunks: 1.0,
-  overlap: 0.3,
-  sorted_chunks: 0.85
-}
 iex> Akin.smart_compare("weird", "wierd")
 %{
   bag_distance: 1.0,
-  dice_sorensen: 0.25,
+  sorensen_dice: 0.25,
   double_metaphone: 1.0,
   hamming: 0.6,
   jaccard: 0.14,
@@ -175,6 +160,13 @@ iex> Akin.smart_compare("weird", "wierd")
   ngram: 0.25,
   overlap: 0.25,
   tversky: 0.14
+}
+iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
+%{
+  chunk_set: 0.85,
+  double_metaphone_chunks: 0.67,
+  overlap: 1.0,
+  sorted_chunks: 0.85
 }
 ```
 
@@ -185,7 +177,7 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 %{
   bag_distance: 0.92,
   chunk_set: 0.65,
-  dice_sorensen: 0.83,
+  sorensen_dice: 0.83,
   double_metaphone: 0.0,
   double_metaphone_chunks: 0.5,
   hamming: 0.0,
@@ -200,7 +192,7 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 }
 ```
 
-### Single Algorithms with `compare_using/2`
+### Single Algorithms
 
 Use a single algorithm for comparing two strings. The return value is a float.
 
@@ -225,9 +217,9 @@ iex> Akin.compare_using("tversky", left, right)
 0.4
 ```
 
-### Metaphone
+### Metaphone & Double Metaphone
 
-Metaphone results can be retrieved directly outside of a comparison.
+Metaphone and Double Metaphone results can be retrieved directly outside of a comparison.
 
 ```elixir
 iex> Akin.Metaphone.Metaphone.compute("virginia")
@@ -242,30 +234,16 @@ iex> Akin.Metaphone.Double.parse("woolfe")
 {"alf", "flf"}
 ```
 
-#### Closer look at the Double Metaphone Chunks
-
-```elixir
-iex> left = "Alice Liddel"
-iex> right = "Liddel, Alice"
-iex> Akin.compare_using("double_metaphone._chunks", left, right)
-1.0
-iex> right = "Alice P Liddel"
-iex> Akin.compare_using("double_metaphone._chunks", left, right)
-1.0
-iex> right = "Alice Hargreaves"
-iex> Akin.compare_using("double_metaphone._chunks", left, right)
-0.5
-iex> right = "Alice's Adventures in Wonderland"
-iex> Akin.compare_using("double_metaphone._chunks", left, right)
-0.5
-```
-
-### NGram Size
+### n-gram Size
 
 The default ngram size for the algorithms is 2. You can change by setting 
 a value in opts.
 
 ```elixir
+iex> Akin.compare_using("sorensen_dice", "weird", "wierd")
+0.25
+iex> Akin.compare_using("sorensen_dice", "weird", "wierd", [ngram_size: 1])
+0.8
 iex> left = "Alice P. Liddel"
 iex> right = "Liddel, Alice"
 iex> Akin.compare_using("tversky", left, right)
@@ -276,7 +254,7 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 0.0
 ```
 
-### Match Threshold
+### Match Level
 
 The default match strictness is "normal" You change it by setting 
 a value in opts. Currently it only affects the outcomes of the `chunk_set` and
@@ -287,13 +265,13 @@ iex> left = "Alice in Wonderland"
 iex> right = "Alice's Adventures in Wonderland"
 iex> Akin.compare_using("chunk_set", left, right)
 0.64
-iex> Akin.compare_using("chunk_set", left, right, [threshold: "weak"])
+iex> Akin.compare_using("chunk_set", left, right, [match_level: "weak"])
 0.85
 iex> left = "which way"
 iex> right = "whitch way"
-iex> Akin.compare_using("double_metaphone", left, right, [threshold: "weak"])
+iex> Akin.compare_using("double_metaphone", left, right, [match_level: "weak"])
 1.0
-iex> Akin.compare_using("double_metaphone", left, right, [threshold: "strict"])
+iex> Akin.compare_using("double_metaphone", left, right, [match_level: "strict"])
 0.0
 ```
 
@@ -321,44 +299,39 @@ The bag distance is a cheap distance measure which always returns a distance sma
 
 ### Chunk Set
 
-:bag_distance
 Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
 
 ### Sørensen–Dice 
 
-:dice_sorensen
 Sørensen–Dice coefficient is calculated using bigrams. The equation is `2nt / nx + ny` where nx is the number of bigrams in string x, ny is the number of bigrams in string y, and nt is the number of bigrams in both strings. For example, the bigrams of `night` and `nacht` are `{ni,ig,gh,ht}` and `{na,ac,ch,ht}`. They each have four and the intersection is `ht`. 
 
 ``` (2 · 1) / (4 + 4) = 0.25 ```
 
 ### Hamming Distance
 
-:hamming
+Note: Hamming algorithm is not used in an of the comparison functions because it requires the strings being compared are of the same length. It can be called directly, however, so it is still a part of this library.
+
 The Hamming distance between two strings of equal length is the number of positions at which the corresponding letters are different. Returns the percentage of change needed to the left string of the comparison of one string (left) with another string (right). Returns 0.0 if the strings are not the same length. Returns 1.0 if the string are equal.
 
 ### Jaccard Similarity
 
-:jaccard
 Calculates the similarity of two strings as the size of the intersection divided by the size of the union. Default ngram: 2.
 
 ### Jaro-Winkler Similarity
 
-:jaro_winkler
 Jaro-Winkler calculates the edit distance between two strings. A score of one denotes equality. Unlike the Jaro Similarity, it modifies the prefix scale to gives a more favorable rating to strings that match from the beginning.
 
 ### Levenshtein Distance
 
-:levenshtein
 Compare two strings for their Levenshtein score. The score is determined by finding the edit distance: the minimum number of single-character edits needed to change one word into the other. The distance is substracted from 1.0 and then divided by the longest length between the two strings. 
 
 ### Metaphone 
 
-:metaphone
 Compares two strings by converting each to an approximate phonetic representation in ASCII and then comparing those phoenetic representations. Returns a 1 if the phoentic representations are an exact match.
 
 ### Double Metaphone 
 
-Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match threshold: strict, strong, normal (default), or weak. 
+Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match match_level: strict, strong, normal (default), or weak. 
 
   * "strict": both encodings for each string must match
   * "strong": the primary encoding for each string must match
@@ -368,29 +341,25 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
 ### Sorted Chunked Double Metaphone
 
 Iterate over the cartesian product of the two lists sending each element through
-the Double Metaphone using all strictness thresholds until a true value is found
+the Double Metaphone using all strictness match_levels until a true value is found
 in the list of returned booleans from the Double Metaphone algorithm. Return the 
 percentage of true values found. If true is never returned, return 0. Increases  
 accuracy for search terms containing more than one word.
 
 ### N-Gram Similarity
 
-:ngram
 Calculates the ngram distance between two strings. Default ngram: 2.
 
 ### Overlap Metric
 
-:overlap
 Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
 
 ### Sorted Chunks
 
-:sorted_chunks
 Sorts substrings by words, compares the sorted strings in pairs, and returns the maximum ratio. If one strings is signficantly longer than the other, this method will compare matching substrings only. 
 
 ### Tversky 
 
-:tversky
 A generalization of Sørensen–Dice and Jaccard.
 
 ## Resources & Credit

@@ -1,7 +1,6 @@
-defmodule Akin.DiceSorensen do
+defmodule Akin.SorensenDice do
   @moduledoc """
-  This module contains functions to calculate the Sorensen-Dice coefficient of
-  two strings.
+  This module contains functions to calculate the Sorensen-Dice coefficient of two strings.
   """
   @behaviour Akin.Task
   import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
@@ -15,19 +14,20 @@ defmodule Akin.DiceSorensen do
 
   ## Examples
 
-    iex> Akin.DiceSorensen.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [ngram_size: 1])
+    iex> Akin.SorensenDice.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [ngram_size: 1])
     0.6
-    iex> Akin.DiceSorensen.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [])
+    iex> Akin.SorensenDice.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [])
     0.25
-    iex> Akin.DiceSorensen.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [ngram_size: 3])
+    iex> Akin.SorensenDice.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [ngram_size: 3])
     0.0
   """
   def compare(%Corpus{string: left}, %Corpus{string: right}) do
-    compare(left, right, Akin.default_ngram_size())
+    compare(left, right, Keyword.get(Akin.default_opts(), :ngram_size))
   end
 
   def compare(%Corpus{string: left}, %Corpus{string: right}, opts) when is_list(opts) do
-    compare(left, right, Keyword.get(opts, :ngram_size) || Akin.default_ngram_size())
+    ngram_size = Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
+    compare(left, right, ngram_size)
   end
 
   def compare(left, right, ngram_size)
@@ -42,6 +42,7 @@ defmodule Akin.DiceSorensen do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
     nmatches = intersect(left_ngrams, right_ngrams) |> length
+
     2 * nmatches / (length(left_ngrams) + length(right_ngrams))
   end
 

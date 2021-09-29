@@ -9,7 +9,7 @@ defmodule ChunkSetTest do
 
     normal = normal(left, right)
     weak = weak(left, right)
-    assert normal == 0.7
+    assert normal == 0.93
     assert normal < weak
     assert weak == 1.0
   end
@@ -19,7 +19,7 @@ defmodule ChunkSetTest do
     right = "alice through the looking glass"
 
     normal = normal(left, right)
-    assert normal == 0.59
+    assert normal == 0.79
     assert normal < weak(left, right)
   end
 
@@ -28,7 +28,7 @@ defmodule ChunkSetTest do
     right = "my wonderlandia"
 
     normal = normal(left, right)
-    assert normal == 0.16
+    assert normal == 0.22
     assert normal < weak(left, right)
   end
 
@@ -37,7 +37,7 @@ defmodule ChunkSetTest do
     right = "through the looking glass"
 
     normal = normal(left, right)
-    assert normal == 0.11
+    assert normal == 0.15
     assert normal < weak(left, right)
   end
 
@@ -53,7 +53,7 @@ defmodule ChunkSetTest do
     right = "alice's adventures through the looking glass"
 
     normal = normal(left, right)
-    assert normal == 0.59
+    assert normal == 0.79
     assert normal < weak(left, right)
   end
 
@@ -62,6 +62,6 @@ defmodule ChunkSetTest do
   end
 
   defp weak(left, right) do
-    compare(compose(left), compose(right), threshold: "weak") |> Float.round(2)
+    compare(compose(left), compose(right), match_level: "weak") |> Float.round(2)
   end
 end

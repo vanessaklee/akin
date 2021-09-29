@@ -20,7 +20,7 @@ defmodule Akin.ChunkSet do
   * if words are of dissimilar in length according to Akin.Strategy.determine/2
     * ratio is Akin.SubstringComparison.similarity/2 * @ratio * scale (determined by Akin.Strategy)
 
-  Strictness threshold is based on `opt` :threshold
+  Match level is based on `opt` :match_level
 
   * "normal" returns average ratio
   * "weak" returns maximum ratio
@@ -29,27 +29,23 @@ defmodule Akin.ChunkSet do
   alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
 
   @bias 0.95
-  @default_threshold "normal"
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   def compare(
-        %Corpus{string: left_string, set: left_set},
-        %Corpus{
-          string: right_string,
-          set: right_set
-        },
-        opts \\ []
+        %Corpus{string: l_string, set: l_set},
+        %Corpus{string: r_string, set: r_set},
+        opts \\ Akin.default_opts()
       ) do
-    threshold = Keyword.get(opts, :threshold) || @default_threshold
+    match_level = Keyword.get(opts, :match_level)
 
-    case Strategy.determine(left_string, right_string) do
+    case Strategy.determine(l_string, r_string) do
       :standard ->
-        similarity(left_set, right_set) |> score(threshold)
+        similarity(l_set, r_set) |> score(match_level)
 
       {:substring, scale} ->
         score =
-          substring_similarity(left_set, right_set)
-          |> score(threshold)
+          substring_similarity(l_set, r_set)
+          |> score(match_level)
 
         score * @bias * scale
     end
@@ -57,7 +53,9 @@ defmodule Akin.ChunkSet do
 
   defp score(scores, "weak"), do: Enum.max(scores)
 
-  defp score(scores, _), do: Enum.sum(scores) / Enum.count(scores)
+  defp score(scores, _) do
+    Enum.sum(scores) / (Enum.count(scores) - 1)
+  end
 
   defp similarity(left, right) do
     {common_words, common_words_plus_remaining_words_left,
@@ -102,8 +100,8 @@ defmodule Akin.ChunkSet do
       |> Enum.join()
 
     [
-      common_words_plus_remaining_words_left_string,
-      common_words_plus_remaining_words_right_string
+      common_words_plus_remaining_words_l_string,
+      common_words_plus_remaining_words_r_string
     ] =
       [left, right]
       |> Enum.map(fn x ->
@@ -116,8 +114,8 @@ defmodule Akin.ChunkSet do
 
     {
       common_words_string,
-      common_words_plus_remaining_words_left_string,
-      common_words_plus_remaining_words_right_string
+      common_words_plus_remaining_words_l_string,
+      common_words_plus_remaining_words_r_string
     }
   end
 end

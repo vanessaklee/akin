@@ -27,17 +27,13 @@ defmodule Akin.SortedChunks do
     iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet"}, %Akin.Corpus{string: "Monet, Claude"}, Akin.Util.compose("Alice's Adventures in Wonderland"))
     1.0
   """
-  def compare(%Corpus{} = left, %Corpus{} = right, _opts \\ []) do
+  def compare(%Corpus{} = left, %Corpus{} = right, _opts \\ Akin.default_opts()) do
     case Strategy.determine(left.string, right.string) do
       :standard ->
-        stems = similarity(left.stems, right.stems)
-        chunks = similarity(left.chunks, right.chunks)
-        Enum.max([stems, chunks])
+        similarity(left.chunks, right.chunks)
 
       {:substring, scale} ->
-        stems = substring_similarity(left.stems, right.stems)
-        chunks = substring_similarity(left.chunks, right.chunks)
-        Enum.max([stems, chunks]) * @bias * scale
+        substring_similarity(left.chunks, right.chunks) * @bias * scale
     end
   end
 

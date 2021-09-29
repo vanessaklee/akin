@@ -7,7 +7,7 @@ defmodule SortedChunksTest do
     left = "alice in wonderland"
     right = "carroll's alice in wonderland"
 
-    assert normal(left, right) == 0.84
+    assert normal(left, right) == 0.83
   end
 
   test "returns expected float value for comparing string containing non-similar words" do

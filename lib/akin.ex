@@ -1,33 +1,29 @@
 defmodule Akin do
   @moduledoc """
-  Compare two strings for similarity. Bias is set to 0.95.
+  Compare two strings for similarity.
 
-  `opts` is a keyword list of options (i.e. [ngram_size: 3]). There are two
-  available options.
+  Options can be provided in a keyword list (i.e. [ngram_size: 3]). The available options are:
 
-  1. `ngram_size` - default is 2
-  2. `threshold` - default is "normal", threshold for matching (only used in double metaphone algorithm)
+  1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
+  2. `match_level` - threshold for matching used in double metaphone algorithm. Default is "normal".
     * "strict": both encodings for each string must match
     * "strong": the primary encoding for each string must match
     * "normal": the primary encoding of one string must match either encoding of other string (default)
     * "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  3. `length_cutoff`: only strings with a length greater than the `length_cutoff` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
+  4. `match_cutoff`:
   """
   import Akin.Util, only: [modulize: 1, compose: 1]
   alias Akin.Corpus
 
   NimbleCSV.define(CSVParse, separator: "\t")
 
-  @match_cutoff 0.9
-  @default_ngram_size 2
-  @opts [ngram_size: 2, threshold: "normal"]
+  @opts [ngram_size: 2, match_level: "normal", length_cutoff: 8, match_cutoff: 0.9]
 
-  @doc """
-  Compare two strings using all supported algorithm. Return a map of metrics.
-  """
   @algorithms [
     "bag_distance",
     "chunk_set",
-    "dice_sorensen",
+    "sorensen_dice",
     "hamming",
     "jaccard",
     "jaro_winkler",
@@ -41,42 +37,23 @@ defmodule Akin do
     "tversky"
   ]
 
-  %{
-    double_metaphone: 1.0,
-    double_metaphone_chunks: 1.0,
-    hamming: 0.0,
-    jaccard: 0.88,
-    jaro_winkler: 0.95,
-    levenshtein: 0.89,
-    metaphone: 1.0,
-    ngram: 0.88,
-    overlap: 1.0,
-    sorted_chunks: 1.0,
-    tversky: 0.88
-  }
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, list(), keyword()) :: float()
+  @doc """
+  Compare two strings using given or default algorithms. Return map of metrics for the algorithms
+  used.
 
-  @substring_set ["chunk_set", "overlap", "sorted_chunks", "double_metaphone._chunks"]
-  @string_set [
-    "bag_distance",
-    "dice_sorensen",
-    "double_metaphone",
-    "hamming",
-    "jaccard",
-    "jaro_winkler",
-    "levenshtein",
-    "metaphone",
-    "ngram",
-    "overlap",
-    "tversky"
-  ]
-
-  @spec compare(binary(), binary()) :: float()
-  @spec compare(binary(), binary(), list(), keyword() | nil) :: float()
-  @spec compare(%Corpus{}, %Corpus{}, list(), keyword()) :: float()
-  def compare(left, right, algorithms \\ @algorithms, opts \\ @opts)
+  Options accepted as a keyword list. If no options are given, the default values will be used.
+  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
+  (see `algorithms/0`).
+  """
+  def compare(left, right, algorithms \\ [], opts \\ @opts)
 
   def compare(left, right, algorithms, opts) when is_binary(left) and is_binary(right) do
     compare(compose(left), compose(right), algorithms, opts)
+  end
+
+  def compare(%Corpus{} = left, %Corpus{} = right, [], opts) do
+    compare(left, right, algorithms("strings"), opts)
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, algorithms, opts) do
@@ -94,35 +71,29 @@ defmodule Akin do
     |> Enum.into(%{})
   end
 
-  # TODO write tests for match using AMiner like the old And tests
-
-  @spec match(%Corpus{} | binary(), %Corpus{} | binary(), keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, list(), keyword()) :: float()
   @doc """
-  Accept one Corpus struct, a list of Corpus structs, and a opts list to then compare the first binary with
-  each of the structs in the second parameter. Return a list of binaries from the list which are a likely
-  match for the first binary. A likely match has a max score higher than @match_cutoff (0.9)
+  Compare two strings after stemming using given or default algorithms. Return map of metics for each
+  algorithm used.
+
+  Options accepted as a keyword list. If no options are given, the default values will be used.
+  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
+  (see `algorithms/0`).
   """
-  def match(left, rights, opts \\ [])
+  def compare_stems(left, right, algorithms \\ [], opts \\ @opts)
 
-  def match(left, rights, opts) when is_binary(left) and is_list(rights) do
-    rights = Enum.map(rights, fn right -> compose(right) end)
-    match(compose(left), rights, opts)
+  def compare_stems(left, right, algorithms, opts) when is_binary(left) and is_binary(right) do
+    left = compose(left).stems |> Enum.join()
+    right = compose(right).stems |> Enum.join()
+    compare(left, right, algorithms, opts)
   end
 
-  def match(%Corpus{} = left, rights, opts) do
-    Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
-      if Enum.any?(max(left, right, opts), fn {_algo, score} -> score > @match_cutoff end) do
-        [Enum.join(right.chunks, " ") | acc]
-      else
-        acc
-      end
-    end)
-  end
-
-  @spec compare_using(atom(), %Corpus{} | binary(), %Corpus{} | binary(), keyword()) :: float()
+  @spec compare_using(binary(), binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
   Compare two strings using a particular algorithm. Return a map of metrics. The algorithm
-  name must be an atom (i.e. :jaro_winkler)
+  name must be an atom (i.e. "jaro_winkler").
+
+  Options accepted as a keyword list. If no options are given, the default values will be used.
   """
   def compare_using(algorithm, left, right, opts \\ @opts)
 
@@ -134,42 +105,96 @@ defmodule Akin do
     apply(modulize(algorithm), :compare, [left, right, opts]) |> Float.round(2)
   end
 
-  @spec smart_compare(%Corpus{}, %Corpus{}, keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
-  Compare two strings by first checking for words, i.e. white space within each string.
+  Compare two strings by first checking for white space within each string.
   If there is white space in either string, compare using only algorithms that prioritize
   substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use
-  only algoritms do not prioritize substrings. Return a map of metrics.
+  only algoritms do not prioritize substrings. Return a map of metrics for each algorithm used.
+
+  Options accepted as a keyword list. If no options are given, the default values will be used.
   """
   def smart_compare(left, right, opts \\ @opts)
 
   def smart_compare(left, right, opts) when is_binary(left) and is_binary(right) do
     if String.contains?(left, " ") or String.contains?(right, " ") do
-      compare(compose(left), compose(right), @substring_set, opts)
+      compare(compose(left), compose(right), algorithms("substrings"), opts)
     else
-      compare(compose(left), compose(right), @string_set, opts)
+      compare(compose(left), compose(right), algorithms("strings"), opts)
     end
   end
 
-  @spec max(%Corpus{}, %Corpus{}, keyword()) :: list(tuple())
   @spec max(map()) :: float()
+  @spec max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
   @doc """
   Compare two strings using all algorithms. From the metrics returned through the comparision,
   return only the highest algorithm scores.
+
+  Options accepted as a keyword list. If no options are given, the default values will be used.
+  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
+  (see `algorithms/0`).
   """
   def max(%{} = scores) do
     {_k, max_val} = Enum.max_by(scores, fn {_k, v} -> v end)
     Enum.filter(scores, fn {_k, v} -> v == max_val end)
   end
 
-  def max(left, right, opts \\ []) do
-    compare(left, right, @algorithms, opts)
+  def max(left, right, algorithms \\ [], opts \\ @opts) do
+    compare(left, right, algorithms, opts)
     |> max()
   end
 
-  def default_ngram_size, do: @default_ngram_size
+  # TODO write tests for match using AMiner like the old And tests
 
-  def algorithms, do: @algorithms
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, list(), keyword()) :: float()
+  @doc """
+  Compare a string against a list of strings. Return a list of strings from the list which are a likely
+  match for the first binary. A match has a maximum comparison score from at least one of the algorithms
+  equal to or higher than the `match_cutoff`.
+
+  `match_cutoff`, along with other options, are accepted as a list argument. If no options are given, the
+  default values will be used for options. Also accepts a list of algorithms to use for comparison,
+  otherwise the default list is used (see `algorithms/0`), and a keyword list of options.
+  """
+  def match(left, rights, algorithms \\ [], opts \\ @opts)
+
+  def match(left, rights, algorithms, opts) when is_binary(left) and is_list(rights) do
+    rights = Enum.map(rights, fn right -> compose(right) end)
+    match(compose(left), rights, algorithms, opts)
+  end
+
+  def match(%Corpus{} = left, rights, algorithms, opts) do
+    Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
+      if Enum.any?(max(left, right, algorithms, opts), fn {_algo, score} ->
+        score > Keyword.get(@opts, :match_cutoff) end) do
+        [Enum.join(right.chunks, " ") | acc]
+      else
+        acc
+      end
+    end)
+  end
+
+  @doc """
+  Return the default option values
+  """
+  def default_ngram_size, do: Keyword.get(@opts, :ngram_size)
+
+  def default_opts, do: @opts
+
+  @doc """
+  Return a list of algorithms. Default returns all available algorithms. Accepts argument to limit
+  the alorithms to a task.
+
+  * string: algorithms best suited for comparing strings
+  * substring: algorithms best suited for comparing substrings
+  """
+  def algorithms(task \\ nil) do
+    case task do
+      "strings" -> @algorithms -- ["hamming", "chunk_set", "sorted_chunks", "double_metaphone._chunks"]
+      "substrings" -> ["chunk_set", "overlap", "sorted_chunks", "double_metaphone._chunks"]
+      _ -> @algorithms
+    end
+  end
 
   defp r(v) when is_float(v), do: Float.round(v, 2)
   defp r(v) when is_binary(v), do: Float.round(String.to_float(v), 2)
