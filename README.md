@@ -56,7 +56,9 @@ To see all of the avialable algorithms:
 
 ```elixir
 iex> Akin.algorithms()
-["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
+["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
+"levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", 
+"overlap", "sorted_chunks", "tversky"]
 ```
 
 A subset of alogrithms is used for multi-algorithm comparison. Hamming Distance is excluded as it only compares strings of equal length.
@@ -64,7 +66,9 @@ Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
 iex> Akin.algorithms("compare")
-["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
+["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
+"levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", 
+"overlap", "sorted_chunks", "tversky"]
 ```
 
 ### Compare Strings
@@ -123,10 +127,14 @@ A comparison can be done on a custom subset of algorithms.
 ```elixir
 iex> Akin.compare("weird", "wierd", ["bag_distance", "jaro_winkler", "jaccard"])  
 %{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
+```
 
+```elixir
 iex> Akin.compare("weird", "wierd", ["jaccard"], [ngram_size: 1])
 %{jaccard: 0.67} 
+```
 
+```elixir
 iex> Akin.compare("weird", "wierd")
 %{
   bag_distance: 1.0,
@@ -170,12 +178,24 @@ The strings are compared using the default list of comparison algorithms unless 
 ```elixir
 iex> Akin.max("weird", "wierd")
 [bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
+```
+
+```elixir
 iex> Akin.max("Alice P. Liddel", "Alice Liddel")
 [jaro_winkler: 0.98]
+```
+
+```elixir
 iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["double_metaphone_chunks"])
 [double_metaphone_chunks: 1.0]
+```
+
+```elixir
 iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
 %{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
+```
+
+```elixir
 iex> Akin.max(limited)
 [jaro_winkler: 0.95]
 ```
@@ -199,6 +219,9 @@ iex> Akin.smart_compare("weird", "wierd")
   overlap: 0.25,
   tversky: 0.14
 }
+```
+
+```elixir
 iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
 %{
   chunk_set: 0.85,
@@ -320,7 +343,8 @@ Given the name of an author which is divided into the given, middle, and family 
 Matches are determined by `compare/3` to return the match scores of each permutation and `max/1` to find the highest of those scores. If the highest scores are greater than or equal to 0.9, they considered a match and returned in the list.
 
 ```elixir
-iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
+iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", 
+"V White", "Viginia Wolverine", "Virginia Woolfe"])
 ["virginia woolfe", "v woolf"]
 ```
 
