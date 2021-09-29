@@ -3,6 +3,43 @@ Akin
 
 Akin is a collection of string comparison algorithms for Elixir. This solution was born of a [Record Linking](https://en.wikipedia.org/wiki/Record_linkage) project. It combines and modifies [The Fuzz](https://github.com/smashedtoatoms/the_fuzz) and [Fuzzy Compare](https://github.com/patrickdet/fuzzy_compare). Algorithms can be called independently or in total to return a map of metrics. This library was built to facilitiate the disambiguation of names but can be used to compare any two binaries.
 
+<details>
+  <summary>Table of Contents</summary>
+  
+  1. [Installation](#installation)
+  2. [Metrics](#metrics)
+     * [Algorithms](#algorithms)
+     * [Compare Strings](#compare-strings)
+     * [Options](#options)
+     * [Algorithms Subset](#algorithm-subset)
+     * [Stemming](#stemming)
+     * [Max](#max)
+     * [Smart Compare](#smart-compare)
+     * [Accents](#accents)
+     * [Single Algorithms](#single-algorithms)
+     * [Metaphone](#metaphone)
+     * [n-gram Size](#n-gram-size)
+     * [Match Level](#match-level)
+     * [Name Disambiguation](#name-disambiguation)
+  3. [Algorithms](#algorithms)
+     * [Bag Distance](#bag-distance)
+     * [Chunk Set](#chunk-set)
+     * [Sørensen–Dice](#sørensen–dice)
+     * [Hamming Distance](#hamming-distance)
+     * [Jaccard Similarity](#jaccard-similarity)
+     * [Jaro-Winkler Similarity](#jaro-winkler-similarity)
+     * [Levenshtein Distance](#levenshtein-distance)
+     * [Metaphone](#metaphone)
+     * [Double Metaphone](#double-metaphone)
+     * [Double Metaphone Chunks](#double-metaphone-chunks)
+     * [N-Gram Similarity](#n-gram-similarity)
+     * [Overlap Metric](#overlap-metric)
+     * [Sorted Chunks](#sorted-chunks)
+     * [Tversky](#tversky)
+  4. [Resources & Credit](#resources-&-credit)
+  5. [In Development](#in-development)
+</details>
+
 ## Installation
 
 Add a dependency in your mix.exs:
@@ -11,9 +48,9 @@ Add a dependency in your mix.exs:
 deps: [{:akin, "~> 1.0"}]
 ```
 
-## Disambiguation Metrics
+## Metrics
 
-### All the Algorithms
+### Algorithms
 
 To see all of the avialable algorithms:
 
@@ -22,13 +59,15 @@ iex> Akin.algorithms()
 ["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
 ```
 
-A subset of alogrithms is used for multi-algorithm comparison. Hamming is excluded as it only compares strings of equal length.
+A subset of alogrithms is used for multi-algorithm comparison. Hamming Distance is excluded as it only compares strings of equal length.
 Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
 iex> Akin.algorithms("compare")
 ["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", "overlap", "sorted_chunks", "tversky"]
 ```
+
+### Compare Strings
 
 Compare two strings using all of the available algorithms. The return value is a map of scores for each algorithm.
 
@@ -77,7 +116,7 @@ The Compare function also accepts options as a Keyword list. The current keys us
       - "normal": the primary encoding of one string must match either encoding of other string (default)
       - "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
-### Subset of Algorithms
+### Algorithms Subset
 
 A comparison can be done on a custom subset of algorithms.  
 
@@ -103,7 +142,7 @@ iex> Akin.compare("weird", "wierd")
 }
 ```
 
-### Stemming the Strings 
+### Stemming
 
 Compare the stemmed version of two strings.
 
@@ -150,9 +189,8 @@ substrings into account. Do that by using `smart_compare/2` which will check for
 iex> Akin.smart_compare("weird", "wierd")
 %{
   bag_distance: 1.0,
-  sorensen_dice: 0.25,
+  dice_sorensen: 0.25,
   double_metaphone: 1.0,
-  hamming: 0.6,
   jaccard: 0.14,
   jaro_winkler: 0.94,
   levenshtein: 0.6,
@@ -176,18 +214,14 @@ iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
 iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 %{
   bag_distance: 0.92,
-  chunk_set: 0.65,
-  sorensen_dice: 0.83,
+  dice_sorensen: 0.83,
   double_metaphone: 0.0,
-  double_metaphone_chunks: 0.5,
-  hamming: 0.0,
   jaccard: 0.71,
   jaro_winkler: 0.97,
   levenshtein: 0.92,
   metaphone: 0.0,
   ngram: 0.83,
   overlap: 0.83,
-  sorted_chunks: 0.95,
   tversky: 0.71
 }
 ```
@@ -217,7 +251,7 @@ iex> Akin.compare_using("tversky", left, right)
 0.4
 ```
 
-### Metaphone & Double Metaphone
+### Metaphone
 
 Metaphone and Double Metaphone results can be retrieved directly outside of a comparison.
 
@@ -275,7 +309,7 @@ iex> Akin.compare_using("double_metaphone", left, right, [match_level: "strict"]
 0.0
 ```
 
-### Name Disambiguation with `match/2` 
+### Name Disambiguation
 
 _UNDER DEVELOPMENT_
 
@@ -289,6 +323,8 @@ Matches are determined by `compare/3` to return the match scores of each permuta
 iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
 ["virginia woolfe", "v woolf"]
 ```
+
+---
 
 ## Algorithms
 _Return: float_
@@ -338,7 +374,7 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
   * "normal": the primary encoding of one string must match either encoding of other string (default)
   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
-### Sorted Chunked Double Metaphone
+### Double Metaphone Chunks
 
 Iterate over the cartesian product of the two lists sending each element through
 the Double Metaphone using all strictness match_levels until a true value is found
