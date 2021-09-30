@@ -4,11 +4,11 @@ defmodule Akin.Mixfile do
   def project do
     [
       app: :akin,
-      version: "0.5.0",
+      version: "0.1.5",
       elixir: "~> 1.7",
       name: "Akin",
-      source_url: "https://github.com/smashedtoatoms/akin",
-      homepage_url: "https://github.com/smashedtoatoms/akin",
+      source_url: "https://github.com/vanessaklee/akin",
+      homepage_url: "https://github.com/vanessaklee/akin",
       description: description(),
       package: package(),
       deps: deps(),
@@ -44,19 +44,17 @@ defmodule Akin.Mixfile do
 
   defp description do
     """
-    String metrics and phonetic algorithms for Elixir.  Based Heavily on
-    StringMetrics for Scala written by Rocky Madden.
+    A collection of metrics and phonetic algorithms for fuzzy string matching in Elixir.
     """
   end
 
   defp package do
     [
       files: ["lib", "mix.exs", "README*", "LICENSE*"],
-      maintainers: ["Jason Legler", "Kiran Danduprolu", "Craig Waterman"],
+      maintainers: ["Vanessa Lee"],
       licenses: ["Apache 2.0"],
       links: %{
-        "GitHub" => "https://github.com/smashedtoatoms/akin",
-        "Docs" => "https://smashedtoatoms.github.io/akin"
+        "GitHub" => "https://github.com/vanessaklee/akin",
       }
     ]
   end
