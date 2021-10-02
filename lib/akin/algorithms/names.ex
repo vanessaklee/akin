@@ -3,10 +3,11 @@ defmodule Akin.Names do
   Function specific to the comparison and matching of names.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [compose: 1, initials: 1, match_left_initials?: 1, eq?: 2]
+  import Akin.Util
   alias Akin.Corpus
 
   @boost 0.075
+  @shortness_boost 0.015
 
   @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
@@ -26,40 +27,60 @@ defmodule Akin.Names do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) do
-    compare(left, right, opts, match_left_initials?(opts))
+    compare(left, right, opts, boost_initials?(opts))
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts, true) do
-    left_initials = initials(left)
-    left_chunks = (left.chunks -- left_initials)
-    chunks = (right.chunks -- left_chunks)
-
-    matching_initials = match_initials(left_initials, chunks)
-
-    # left = %Corpus{left | chunks: left_chunks}
-    metrics = Akin.smart_max(left, right, opts)
-
-    score(metrics, matching_initials)
+    matching_initials = match_initials(left, right)
+    score(left, right, opts, matching_initials)
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts, false) do
     Akin.smart_max(left, right, opts)
   end
 
-  defp score(metrics, matches) when is_nil(matches) or matches <= 0, do: metrics
-  defp score(metrics, _) do
+  defp score(left, right, opts, matches) do
+    metrics = Akin.smart_max(left, right, opts)
+    percent = matches/Enum.count(right.chunks)
+
+    length_cutoff = length_cutoff(opts)
+    calc(metrics, matches, percent, length_cutoff, len(right.string))
+  end
+
+  defp calc(metrics, matches, _, _, _) when is_nil(matches) or matches <= 0, do: metrics
+
+  defp calc(metrics, _, percent, len_cutoff, len) do
+    boost = @boost * percent
     Enum.map(metrics, fn {k, score} ->
-      {k, score + (score * @boost)}
+      if len <= len_cutoff do
+        {k, score + (score * (boost + @shortness_boost))}
+      else
+        {k, score + (score * boost)}
+      end
     end)
   end
 
-  defp match_initials([], _chunks), do: nil
-  defp match_initials(initials, chunks) do
+  defp match_initials(left, right) do
+    initials = form_initials(left)
+    chunks = right.chunks
+
+    match(initials, chunks)
+  end
+
+  defp match([], _chunks), do: nil
+  defp match(initials, chunks) do
     chunks
     |> Enum.filter(fn c ->
       String.at(c, 0) in initials
     end)
     |> Enum.count()
-    |> eq?(Enum.count(initials))
+  end
+
+  defp form_initials(list) do
+    initials = get_initials(list)
+    for c <- 0..Enum.count(initials) do
+        ngram_tokenize(Enum.join(initials, ""), c)
+      end
+      |> flat_and_uniq()
   end
 end

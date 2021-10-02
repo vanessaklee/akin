@@ -339,7 +339,7 @@ Identity is the challenge of author name disambiguation (AND). The aim of AND is
 
 Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names, find and return the matches for the author in the list. 
 
-This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [match_left_initials: true].
+This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [boost_initials: true].
 
 If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the chunks of the right string. There must be an exact match of each initial against the first character of one of the chunks.
 
@@ -348,14 +348,14 @@ If the comparison metrics produce a score greater than or equal to 0.9, they con
 ```elixir
 iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
 ["v woolfe", "v woolf"]
-iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"], [match_left_initials: true])
+iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"], [boost_initials: true])
 ["virginia woolfe", "v woolf"]
 ```
 
 This may not be what you want. There are likely to be unwanted matches.
 
 ```elixir
-iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", "V Woolf", "Virginia Woolfe"], [match_left_initials: true])
+iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", "V Woolf", "Virginia Woolfe"], [boost_initials: true])
 ["v woolf", "virginia woolf", "victor woolf"]
 ```
 

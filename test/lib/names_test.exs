@@ -9,17 +9,38 @@ defmodule NamesTest do
   end
 
   test "names with initials compared against a name matching those initials receives metrics boost if opt is set" do
-    [chunk_set: results_without] = compare("a p liddell", "alice pleasance liddell")
-    opts = Keyword.put(Akin.default_opts(), :match_left_initials, true)
-    [chunk_set: results_with] = compare("a p liddell", "alice pleasance liddell", opts)
+    results_without = compare("a p liddell", "alice pleasance liddell") |> Keyword.values() |> List.first()
+    opts = Keyword.put(Akin.default_opts(), :boost_initials, true)
+    results_with = compare("a p liddell", "alice pleasance liddell", opts) |> Keyword.values() |> List.first()
 
     assert results_with > results_without
   end
 
-  test "names with initials right name are not given a boost even if opt is set" do
-    [chunk_set: results_without] = compare("alice pleasance liddel", "a p liddel")
-    [chunk_set: results_with] = compare("alice pleasance liddel", "a p liddel", [match_left_initials: true])
+  test "known names in orcid should all match" do
+    File.rm("test/support/orcid/match_names.csv")
 
-    assert results_with == results_without
+    # x = File.stream!("test/support/orcid/bench.csv")
+    x = File.stream!("test/support/orcid/mini.csv")
+      |> Stream.map(&String.trim(&1))
+      |> Enum.to_list()
+      |> Enum.reduce(%{wins: 0, losses: 0}, fn row, %{wins: w, losses: l} = acc ->
+        [a, b, c, d] = String.split(row, "\t")
+        b = String.replace(b, "|", ", ")
+        c = String.replace(c, "_", " ")
+        d = String.replace(d, "_", " ")
+
+        # results = Akin.match_names_metrics(b, [a, c, d], [boost_initials: false])
+        results = Akin.match_names_metrics(b, [a, c, d], [boost_initials: true])
+        wins = Enum.filter(results, fn r -> r.match === 1 end) |> Enum.count()
+        losses = Enum.filter(results, fn r -> r.match === 0 end) |> Enum.count()
+        %{acc | wins: w + wins, losses: l + losses}
+      end)
+    loss_percent = x.losses/(x.wins + x.losses)*100 |> Float.round(2)
+    # win_percent =x.wins/(x.wins + x.losses)*100 |> Float.round(2)
+    # IO.inspect loss_percent
+    # IO.inspect win_percent
+
+    assert loss_percent < 10.0
   end
+
 end

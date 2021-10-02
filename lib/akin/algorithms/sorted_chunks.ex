@@ -34,6 +34,9 @@ defmodule Akin.SortedChunks do
 
       {:substring, scale} ->
         substring_similarity(left.chunks, right.chunks) * @bias * scale
+
+      {:error, _} ->
+        0.0
     end
   end
 

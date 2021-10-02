@@ -9,11 +9,17 @@ defmodule Akin.ML do
     File.stream!("test/support/match_names.csv")
     |> Stream.map(&String.trim(&1))
     |> Enum.to_list()
-    |> Enum.map(fn row ->
+    |> Enum.each(fn row ->
       [left, right, match] = String.split(row, "\t")
 
-      Akin.compare(left, right)
-      |> to_csv(left, right, match)
+      # Akin.compare(left, right)
+      # |> to_csv(left, right, match)
+      case Akin.match_names_metrics(left, [right], [boost_initials: true]) do
+        [%{left: l, right: r, metrics: s, match: m}] ->
+          to_csv(Enum.into(s, %{}), l, r, m, match)
+        _ -> nil
+      end
+
     end)
 
     # File.stream!("test/support/nonmatch_names.csv")
@@ -27,8 +33,7 @@ defmodule Akin.ML do
     # end)
   end
 
-  defp to_csv(%{} = scores, left, right, match) do
-    # TODO why is metaphone sometimes missing?
+  defp to_csv(%{} = scores, left, right, predicted_match, match) do
     names = left <> " compared to " <> right
 
     data =
@@ -37,6 +42,7 @@ defmodule Akin.ML do
           scores.bag_distance,
           scores.chunk_set,
           scores.sorensen_dice,
+          scores.metaphone,
           scores.double_metaphone,
           scores.double_metaphone_chunks,
           scores.jaccard,
@@ -46,6 +52,7 @@ defmodule Akin.ML do
           scores.overlap,
           scores.sorted_chunks,
           scores.tversky,
+          predicted_match,
           match,
           names
         ]

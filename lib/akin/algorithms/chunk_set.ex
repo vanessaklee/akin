@@ -49,6 +49,9 @@ defmodule Akin.ChunkSet do
           |> score(match_level(opts))
 
         score * @bias * scale
+
+      {:error, _} ->
+        0.0
     end
   end
 

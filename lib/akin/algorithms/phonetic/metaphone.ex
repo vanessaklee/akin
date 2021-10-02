@@ -7,7 +7,6 @@ defmodule Akin.Metaphone.Metaphone do
   import String, only: [downcase: 1, first: 1, split_at: 2, last: 1, at: 2]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1, deduplicate: 1]
 
-  # TODO add typspecs
   @doc """
     Returns the Metaphone phonetic version of the provided string.
     ## Examples
@@ -232,7 +231,7 @@ defmodule Akin.Metaphone.Metaphone do
         "z" ->
           shift.(1, o <> "s")
 
-        true ->
+        _ ->
           shift.(1, o)
       end
 

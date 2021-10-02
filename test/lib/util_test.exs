@@ -132,10 +132,10 @@ defmodule UtilTest do
     end
   end
 
-  describe "The match_left_initials is returned correctly" do
-    test "The match_left_initials size is correct when option list contains an match_left_initials value" do
-      assert match_left_initials?([]) == false
-      assert match_left_initials?([match_left_initials: true]) == true
+  describe "The boost_initials is returned correctly" do
+    test "The boost_initials size is correct when option list contains an boost_initials value" do
+      assert boost_initials?([]) == false
+      assert boost_initials?([boost_initials: true]) == true
     end
   end
 end

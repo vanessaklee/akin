@@ -28,6 +28,8 @@ defmodule Akin.Hamming do
     compare(left, right)
   end
 
+  def compare(_, _, _), do: nil
+
   def compare(left, right)
       when byte_size(left) == 0 or
              byte_size(right) == 0 or

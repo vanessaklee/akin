@@ -16,6 +16,7 @@ defmodule Akin do
   import Akin.Util, only: [modulize: 1, compose: 1, match_cutoff: 1, length_cutoff: 1, len: 1]
   alias Akin.Corpus
   alias Akin.Names
+  alias Akin.NamesMetric
 
   NimbleCSV.define(CSVParse, separator: "\t")
 
@@ -182,12 +183,48 @@ defmodule Akin do
   end
 
   def match_names(%Corpus{} = left, rights, opts) do
+    # Enum.reduce(rights, [], fn right, acc ->
+    #   %{scores: scores} = NamesMetric.compare(left, right, opts)
+
+    #   if Enum.any?(scores, fn {_algo, score} -> score > match_cutoff(opts) end) do
+    #     [Enum.join(right.chunks, " ") | acc]
+    #   else
+    #     acc
+    #   end
+    # end)
     Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
       if Enum.any?(Names.compare(left, right, opts), fn {_algo, score} ->
         score > match_cutoff(opts) end) do
         [Enum.join(right.chunks, " ") | acc]
       else
         acc
+      end
+    end)
+  end
+
+  @spec match_names_metrics(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @doc """
+  Compare a string against a list of strings. Return a list of strings from the list which are a likely
+  match for the first binary. A match has a maximum comparison score from at least one of the algorithms
+  equal to or higher than the `match_cutoff`.
+
+  `match_cutoff`, along with other options, are accepted as a list argument. If no options are given, the
+  default values will be used for options. Also a keyword list of options.
+
+  Return the matching names and their metrics.
+  """
+  def match_names_metrics(left, rights, opts \\ @opts)
+
+  def match_names_metrics(left, rights, opts) when is_binary(left) and is_list(rights) do
+    Enum.reduce(rights, [], fn right, acc ->
+      case NamesMetric.compare(left, right, opts) do
+        %{scores: scores} ->
+          if Enum.any?(scores, fn {_algo, score} -> score > match_cutoff(opts) end) do
+            [%{left: left, right: right, metrics: scores, match: 1}  | acc]
+          else
+            [%{left: left, right: right, metrics: scores, match: 0}  | acc]
+          end
+        _ -> acc
       end
     end)
   end
@@ -228,7 +265,10 @@ defmodule Akin do
 
   def algorithms(), do: @algorithms
 
-  defp r(v) when is_float(v), do: Float.round(v, 2)
-  defp r(v) when is_binary(v), do: Float.round(String.to_float(v), 2)
-  defp r(v) when is_integer(v), do: Float.round(v / 1, 2)
+  @doc """
+  Round data types that can be rounded to 2 decimal points.
+  """
+  def r(v) when is_float(v), do: Float.round(v, 2)
+  def r(v) when is_binary(v), do: Float.round(String.to_float(v), 2)
+  def r(v) when is_integer(v), do: Float.round(v / 1, 2)
 end

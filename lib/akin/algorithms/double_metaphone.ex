@@ -13,9 +13,13 @@ defmodule Akin.DoubleMetaphone do
   @doc """
   Compare two strings using the double metaphoen algorithm
   """
-  def compare(%Corpus{string: left}, %Corpus{string: right}, opts \\ []) do
+  def compare(left, right, opts \\ [])
+
+  def compare(%Corpus{string: left}, %Corpus{string: right}, opts) do
     if Double.compare(left, right, match_level(opts)), do: 1.0, else: 0.0
   end
+
+  def compare(_, _, _), do: 0.0
 
   defmodule Chunks do
     @moduledoc """
