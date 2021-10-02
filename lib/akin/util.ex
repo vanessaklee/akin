@@ -10,10 +10,13 @@ defmodule Akin.Util do
   Compose a string into a corpus of values for disambiguation.
   Remove punctuation, downcase, trim excess whitespace. Return Corpus struct
   composed of Chunks, MapSet, String, and Stemmed Chunks.
+  Non-binary terms result in return value nil
   """
   def compose(left, right) when is_binary(left) and is_binary(right) do
-    {compose(left), compose(right)}
+    [compose(left), compose(right)]
   end
+
+  def compose(_, _), do: nil
 
   def compose(string) when is_binary(string) do
     chunks =
@@ -28,11 +31,12 @@ defmodule Akin.Util do
       set: MapSet.new(chunks),
       chunks: chunks,
       string: Enum.join(chunks),
-      stems: Enum.map(chunks, &Stemmer.stem/1)
+      stems: Enum.map(chunks, &Stemmer.stem/1),
+      original: string
     }
   end
 
-  def prepared(_), do: ""
+  def compose(_), do: nil
 
   defp deaccentize(name) when is_binary(name) do
     if String.contains?(name, " ") do
@@ -55,21 +59,16 @@ defmodule Akin.Util do
 
   @doc """
   Checks to see if a string is alphabetic.
-
-  Akin.Util.is_alphabetic?("Jason5")
-  Returns false
-
-  Akin.Util.is_alphabetic?("Jason")
-  Returns true
   """
+  def is_alphabetic?(value) when value in ["", nil], do: false
   def is_alphabetic?(value) do
     !Regex.match?(~r/[\W0-9]/, value)
   end
 
   @doc """
-  Removes duplicates from a string (except for c)
+  Removes duplicates from a string (except for c). Currently used in metaphone algorithm.
   """
-  def deduplicate(value) do
+  def deduplicate(value) when is_binary(value) do
     cond do
       String.length(value) <= 1 ->
         value
@@ -88,12 +87,11 @@ defmodule Akin.Util do
     end
   end
 
+  def deduplicate(value), do: value
+
   @doc """
   Finds the intersection of two lists.  If Strings are provided, it uses the
   codepoints of said string.
-
-  Akin.Util.intersect("context", "contentcontent")
-  Returns ["c", "o", "n", "t", "e", "t"]
   """
   def intersect(left, right) when is_binary(left) and is_binary(right) do
     intersect(String.codepoints(left), String.codepoints(right))
@@ -122,12 +120,18 @@ defmodule Akin.Util do
   end
 
   @doc """
-  [ngram tokenizes](http://en.wikipedia.org/wiki/N-gram) the string provided.
+  Camelize input and return as an existing atom, as in referencing functions through apply
+  """
+  def modulize(list) when is_list(list), do: Enum.map(list, fn l -> modulize(l) end)
 
-  Akin.Util.ngram_tokenize("abcdefghijklmnopqrstuvwxyz", 2)
-  Returns ["ab", "bc", "cd", "de", "ef", "fg", "gh", "hi", "ij", "jk", "kl", "lm",
-  "mn", "no", "op", "pq", "qr", "rs", "st", "tu", "uv", "vw", "wx", "xy",
-  "yz"]
+  def modulize(text) when is_binary(text) do
+    String.to_atom("Elixir.Akin." <> Macro.camelize(text))
+  end
+
+  def modulize(text), do: text
+
+  @doc """
+  Tokenizes the input into N-grams (http://en.wikipedia.org/wiki/N-gram).
   """
   def ngram_tokenize(string, n) when is_binary(string) do
     ngram_tokenize(String.codepoints(string), n)
@@ -145,14 +149,65 @@ defmodule Akin.Util do
     end
   end
 
-  @doc """
-  Camelize input and return as an existing atom, as in referencing functions through apply
-  """
-  def modulize(list) when is_list(list), do: Enum.map(list, fn l -> modulize(l) end)
+  def ngram_tokenize(_), do: []
 
-  def modulize(text) when is_binary(text) do
-    String.to_atom("Elixir.Akin." <> Macro.camelize(text))
+  @spec ngram_size(keyword() | any()) :: integer()
+  @doc """
+  Take the n_gram size from the given options list. If not present, use the default value from the default
+  options list.
+  """
+  # def ngram_size(opts) when Keyword.keyword?(opts) do
+  #   Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
+  # end
+  def ngram_size([{:ngram_size, ngram_size}| _t]), do: ngram_size
+  def ngram_size(_), do: Keyword.get(Akin.default_opts(), :ngram_size)
+
+  @spec length_cutoff(keyword() | any()) :: integer()
+  @doc """
+  Take the ngram_size from the given options list. If not present, use the default value from the default
+  options list.
+  """
+  def length_cutoff([{:length_cutoff, length_cutoff}| _t]), do: length_cutoff
+  def length_cutoff(_), do: Keyword.get(Akin.default_opts(), :length_cutoff)
+
+  @spec match_level(keyword() | any()) :: integer()
+  @doc """
+  Take the match_level from the given options list. If not present, use the default value from the default
+  options list.
+  """
+  def match_level([{:match_level, match_level}| _t]), do: match_level
+  def match_level(_), do: Keyword.get(Akin.default_opts(), :match_level)
+
+  @spec match_cutoff(keyword() | any()) :: integer()
+  @doc """
+  Take the match_cutoff from the given options list. If not present, use the default value from the default
+  options list.
+  """
+  def match_cutoff([{:match_cutoff, match_cutoff}| _t]), do: match_cutoff
+  def match_cutoff(_), do: Keyword.get(Akin.default_opts(), :match_cutoff)
+
+  @spec match_left_initials?(keyword() | any()) :: boolean()
+  @doc """
+  Take the match_left_initials from the given options list. If not present, return false.
+  """
+  def match_left_initials?([{:match_left_initials, match_left_initials}| _t]) do
+    if match_left_initials, do: true, else: false
   end
 
-  def modulize(text), do: text
+  def match_left_initials?(_), do: false
+
+  @doc """
+  Return a list of single letter values (initials) from the `chunks` key in the Corpus struct.
+  Used in name comparison, specifically.
+  """
+  def initials(%Corpus{chunks: chunks}) do
+    Enum.filter(chunks, fn chunk -> String.length(chunk) == 1 end)
+  end
+  def initials(_), do: []
+
+  @doc """
+  Compares to values for equality
+  """
+  def eq?(a, b) when a == b, do: true
+  def eq?(_, _), do: false
 end

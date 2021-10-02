@@ -4,13 +4,12 @@ defmodule Akin.Tversky do
   between two strings.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
   alias Akin.Corpus
 
   @default_alpha 1
   @default_beta 1
 
-  @spec compare(%Corpus{}, %Corpus{}) :: float()
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   @doc """
   Calculates the Tversky index between two strings. Default alpha is 1
@@ -25,25 +24,19 @@ defmodule Akin.Tversky do
     iex> Akin.Tversky.compare(%Akin.Corpus{string: "contact"}, %Akin.Corpus{string: "context"}, [ngram_size: 1])
     0.5555555555555556
   """
-  def compare(%Corpus{} = left, %Corpus{} = right) do
-    compare(left, right, Keyword.get(Akin.default_opts(), :ngram_size))
+  def compare(%Corpus{} = left, %Corpus{} = right, opts \\ []) do
+    perform(left, right, ngram_size(opts))
   end
 
-  def compare(left, right, opts \\ Akin.default_opts())
-
-  def compare(%Corpus{} = left, %Corpus{} = right, opts) when is_list(opts) do
-    ngram_size = Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
-    compare(left, right, ngram_size)
-  end
-
-  def compare(%Corpus{string: left}, %Corpus{string: right}, n)
+  @spec compare(%Corpus{}, %Corpus{}, integer()) :: float()
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, n)
       when n <= 0 or byte_size(left) < n or byte_size(right) < n do
-    nil
+    0.0
   end
 
-  def compare(%Corpus{string: left}, %Corpus{string: right}, _n) when left == right, do: 1
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, _n) when left == right, do: 1.0
 
-  def compare(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)

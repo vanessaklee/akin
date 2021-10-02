@@ -26,7 +26,9 @@ defmodule Akin.ChunkSet do
   * "weak" returns maximum ratio
   """
   @behaviour Akin.Task
+  import Akin.Util, only: [match_level: 1]
   alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
+
 
   @bias 0.95
 
@@ -34,18 +36,17 @@ defmodule Akin.ChunkSet do
   def compare(
         %Corpus{string: l_string, set: l_set},
         %Corpus{string: r_string, set: r_set},
-        opts \\ Akin.default_opts()
+        opts \\ []
       ) do
-    match_level = Keyword.get(opts, :match_level)
 
     case Strategy.determine(l_string, r_string) do
       :standard ->
-        similarity(l_set, r_set) |> score(match_level)
+        similarity(l_set, r_set) |> score(match_level(opts))
 
       {:substring, scale} ->
         score =
           substring_similarity(l_set, r_set)
-          |> score(match_level)
+          |> score(match_level(opts))
 
         score * @bias * scale
     end

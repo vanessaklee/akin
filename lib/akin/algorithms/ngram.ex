@@ -5,7 +5,7 @@ defmodule Akin.Ngram do
   [paper](webdocs.cs.ualberta.ca/~kondrak/papers/spire05.pdf)
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
   alias Akin.Corpus
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
@@ -15,31 +15,24 @@ defmodule Akin.Ngram do
 
   ## Examples
 
-    iex> Akin.Ngram.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "naght"}, 3)
+    iex> Akin.Ngram.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "naght"}, [ngram_size: 3])
     0.3333333333333333
-    iex> Akin.Ngram.compare(%Akin.Corpus{string: "context"}, %Akin.Corpus{string: "contact"}, 1)
+    iex> Akin.Ngram.compare(%Akin.Corpus{string: "context"}, %Akin.Corpus{string: "contact"}, [ngram_size: 1])
     0.7142857142857143
   """
-  def compare(%Corpus{} = left, %Corpus{} = right) do
-    compare(left, right, Keyword.get(Akin.default_opts(), :ngram_size))
+  def compare(%Corpus{} = left, %Corpus{} = right, opts \\ []) do
+    perform(left, right, ngram_size(opts))
   end
 
-  def compare(left, right, opts \\ Akin.default_opts())
-
-  def compare(%Corpus{} = left, %Corpus{} = right, opts) when is_list(opts) do
-    ngram_size = Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
-    compare(left, right, ngram_size)
-  end
-
-  def compare(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
       when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size do
     nil
   end
 
-  def compare(%Corpus{string: left}, %Corpus{string: right}, _ngram_size) when left == right,
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, _ngram_size) when left == right,
     do: 1
 
-  def compare(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
+  defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)

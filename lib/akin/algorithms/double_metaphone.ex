@@ -5,20 +5,16 @@ defmodule Akin.DoubleMetaphone do
   [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html).
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [compose: 1]
+  import Akin.Util, only: [match_level: 1]
   alias Akin.Corpus
   alias Akin.Metaphone.Double
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
-  def compare(left, right, opts \\ Akin.default_opts())
-
-  def compare(left, right, opts) when is_binary(left) and is_binary(right) do
-    compare(compose(left), compose(right), opts)
-  end
-
-  def compare(%Corpus{string: left}, %Corpus{string: right}, opts) do
-    match_level = Keyword.get(opts, :match_level)
-    if Double.compare(left, right, match_level), do: 1.0, else: 0.0
+  @doc """
+  Compare two strings using the double metaphoen algorithm
+  """
+  def compare(%Corpus{string: left}, %Corpus{string: right}, opts \\ []) do
+    if Double.compare(left, right, match_level(opts)), do: 1.0, else: 0.0
   end
 
   defmodule Chunks do
@@ -48,7 +44,7 @@ defmodule Akin.DoubleMetaphone do
     Compares two lists of values phonetically and returns a boolean of whether they match
     reducing all possible matching match_levels.
     """
-    def compare(left, right, opts \\ Akin.default_opts())
+    def compare(left, right, opts \\ [])
 
     def compare(%Corpus{chunks: left}, %Corpus{chunks: right}, opts) when is_list(opts) do
       Double.scored_chunked_compare(left, right, opts) / 1.0

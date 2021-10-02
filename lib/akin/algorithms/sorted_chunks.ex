@@ -27,7 +27,7 @@ defmodule Akin.SortedChunks do
     iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet"}, %Akin.Corpus{string: "Monet, Claude"}, Akin.Util.compose("Alice's Adventures in Wonderland"))
     1.0
   """
-  def compare(%Corpus{} = left, %Corpus{} = right, _opts \\ Akin.default_opts()) do
+  def compare(%Corpus{} = left, %Corpus{} = right, _opts \\ []) do
     case Strategy.determine(left.string, right.string) do
       :standard ->
         similarity(left.chunks, right.chunks)

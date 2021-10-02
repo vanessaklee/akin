@@ -61,11 +61,10 @@ iex> Akin.algorithms()
 "overlap", "sorted_chunks", "tversky"]
 ```
 
-A subset of alogrithms is used for multi-algorithm comparison. Hamming Distance is excluded as it only compares strings of equal length.
-Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
+Other combinations of algorithms are determined by the length of the strings being compared and whether either string contains whitespace.Hamming Distance is always excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
-iex> Akin.algorithms("compare")
+iex> Akin.algorithms([short: false, has_whitespace: false])
 ["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
 "levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", 
 "overlap", "sorted_chunks", "tversky"]
@@ -203,7 +202,7 @@ iex> Akin.max(limited)
 ### Smart Compare
 
 When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take
-substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is short or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
+substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
 
 ```elixir
 iex> Akin.smart_compare("weird", "wierd")
@@ -338,20 +337,31 @@ _UNDER DEVELOPMENT_
 
 Identity is the challenge of author name disambiguation (AND). The aim of AND is to match an author's name to that author when the author appears in a list of many authors. Complexity arises from homonymity (many people with the same name) and synonymity (when one person uses different forms/spellings of their name in publications). 
 
-Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names (i.e. ["W Shakespeare", "L. M Montgomery", "V. Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"]), find and return the matches for the author in the list. 
+Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names, find and return the matches for the author in the list. 
 
-Matches are determined by `compare/3` to return the match scores of each permutation and `max/1` to find the highest of those scores. If the highest scores are greater than or equal to 0.9, they considered a match and returned in the list.
+This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [match_left_initials: true].
+
+If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the chunks of the right string. There must be an exact match of each initial against the first character of one of the chunks.
+
+If the comparison metrics produce a score greater than or equal to 0.9, they considered a match and returned in the list.
 
 ```elixir
-iex> Akin.match("Virginia Woolf", ["W Shakespeare", "L. M Montgomery", "V. Woolf", 
-"V White", "Viginia Wolverine", "Virginia Woolfe"])
+iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
+["v woolfe", "v woolf"]
+iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"], [match_left_initials: true])
 ["virginia woolfe", "v woolf"]
+```
+
+This may not be what you want. There are likely to be unwanted matches.
+
+```elixir
+iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", "V Woolf", "Virginia Woolfe"], [match_left_initials: true])
+["v woolf", "virginia woolf", "victor woolf"]
 ```
 
 ---
 
 ## Algorithms
-_Return: float_
 
 ### Bag Distance
 

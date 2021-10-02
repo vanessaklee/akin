@@ -3,10 +3,9 @@ defmodule Akin.SorensenDice do
   This module contains functions to calculate the Sorensen-Dice coefficient of two strings.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
   alias Akin.Corpus
 
-  @spec compare(%Corpus{}, %Corpus{}) :: float()
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   @doc """
   Calculates the Sorensen-Dice coefficient of two given strings with a
@@ -21,23 +20,18 @@ defmodule Akin.SorensenDice do
     iex> Akin.SorensenDice.compare(%Akin.Corpus{string: "night"}, %Akin.Corpus{string: "nacht"}, [ngram_size: 3])
     0.0
   """
-  def compare(%Corpus{string: left}, %Corpus{string: right}) do
-    compare(left, right, Keyword.get(Akin.default_opts(), :ngram_size))
+  def compare(%Corpus{string: left}, %Corpus{string: right}, opts \\ []) do
+    perform(left, right, ngram_size(opts))
   end
 
-  def compare(%Corpus{string: left}, %Corpus{string: right}, opts) when is_list(opts) do
-    ngram_size = Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
-    compare(left, right, ngram_size)
-  end
-
-  def compare(left, right, ngram_size)
+  defp perform(left, right, ngram_size)
       when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size,
       do: 0.0
 
-  def compare(left, right, _ngram_size) when left == right,
+  defp perform(left, right, _ngram_size) when left == right,
     do: 1.0
 
-  def compare(left, right, ngram_size)
+  defp perform(left, right, ngram_size)
       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
@@ -46,5 +40,5 @@ defmodule Akin.SorensenDice do
     2 * nmatches / (length(left_ngrams) + length(right_ngrams))
   end
 
-  def compare(_, _, _), do: 0.0
+  defp perform(_, _, _), do: 0.0
 end
