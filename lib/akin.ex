@@ -1,26 +1,23 @@
 defmodule Akin do
   @moduledoc """
-  Compare two strings for similarity.
-
-  Options can be provided in a keyword list (i.e. [ngram_size: 3]). The available options are:
+  Compare two strings for similarity. Options accepted in a keyword list (i.e. [ngram_size: 3]).
 
   1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
-  2. `match_level` - threshold for matching used in double metaphone algorithm. Default is "normal".
+  2. `level` - threshold for matching used in double metaphone algorithm. Default is "normal".
     * "strict": both encodings for each string must match
     * "strong": the primary encoding for each string must match
     * "normal": the primary encoding of one string must match either encoding of other string (default)
     * "weak":   either primary or secondary encoding of one string must match one encoding of other string
-  3. `length_cutoff`: only strings with a length greater than the `length_cutoff` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
-  4. `match_cutoff`:
+  3. `short_length`: only strings with a length greater than the `short_length` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
+  4. `match_at`:
   """
-  import Akin.Util, only: [modulize: 1, compose: 1, match_cutoff: 1, length_cutoff: 1, len: 1]
+  import Akin.Util, only: [modulize: 1, compose: 1, match_at: 1, short_length: 1, len: 1]
   alias Akin.Corpus
-  alias Akin.Names
   alias Akin.NamesMetric
 
   NimbleCSV.define(CSVParse, separator: "\t")
 
-  @opts [ngram_size: 2, match_level: "normal", length_cutoff: 8, match_cutoff: 0.9]
+  @opts [ngram_size: 2, level: "normal", short_length: 8, match_at: 0.9]
 
   @algorithms [
     "bag_distance",
@@ -39,27 +36,20 @@ defmodule Akin do
     "tversky"
   ]
 
-  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, list(), keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
-  Compare two strings using given or default algorithms. Return map of metrics for the algorithms
-  used.
+  Compare two strings. Return map of algorithm metrics.
 
-  Options accepted as a keyword list. If no options are given, the default values will be used.
-  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
-  (see `algorithms/0`).
+  Options accepted as a keyword list. If no options are given, default values will be used.
   """
-  def compare(left, right, algorithms \\ [], opts \\ @opts)
+  def compare(left, right, opts \\ @opts)
 
-  def compare(left, right, algorithms, opts) when is_binary(left) and is_binary(right) do
-    compare(compose(left), compose(right), algorithms, opts)
+  def compare(left, right, opts) when is_binary(left) and is_binary(right) do
+    compare(compose(left), compose(right), opts)
   end
 
-  def compare(%Corpus{} = left, %Corpus{} = right, [], opts) do
-    compare(left, right, algorithms(), opts)
-  end
-
-  def compare(%Corpus{} = left, %Corpus{} = right, algorithms, opts) do
-    Enum.reduce(algorithms, %{}, fn algorithm, acc ->
+  def compare(%Corpus{} = left, %Corpus{} = right, opts) do
+    Enum.reduce(algorithms(opts), %{}, fn algorithm, acc ->
       Map.put(acc, algorithm, apply(modulize(algorithm), :compare, [left, right, opts]))
     end)
     |> Enum.reduce([], fn {k, v}, acc ->
@@ -73,21 +63,16 @@ defmodule Akin do
     |> Enum.into(%{})
   end
 
-  @spec compare_stems(binary() | %Corpus{}, binary() | %Corpus{}, list(), keyword()) :: float()
+  @spec compare_stems(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
-  Compare two strings after stemming using given or default algorithms. Return map of metics for each
-  algorithm used.
-
-  Options accepted as a keyword list. If no options are given, the default values will be used.
-  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
-  (see `algorithms/0`).
+  Compare two strings after stemming. Return map of algorithm. Options accepted as a keyword list.
   """
-  def compare_stems(left, right, algorithms \\ [], opts \\ @opts)
+  def compare_stems(left, right, opts \\ @opts)
 
-  def compare_stems(left, right, algorithms, opts) when is_binary(left) and is_binary(right) do
+  def compare_stems(left, right, opts) when is_binary(left) and is_binary(right) do
     left = compose(left).stems |> Enum.join()
     right = compose(right).stems |> Enum.join()
-    compare(left, right, algorithms, opts)
+    compare(left, right, opts)
   end
 
   @spec compare_using(binary(), binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
@@ -108,6 +93,7 @@ defmodule Akin do
   end
 
   @spec smart_compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+
   @doc """
   Compare two strings by first checking for white space within each string.
   If there is white space in either string, compare using only algorithms that prioritize
@@ -129,44 +115,39 @@ defmodule Akin do
 
   def smart_compare(%Corpus{} = left, %Corpus{} = right, opts) do
     has_whitespace? = String.contains?(left.original, " ") or String.contains?(right.original, " ")
-    cutoff = length_cutoff(opts)
+    cutoff = short_length(opts)
     short? = len(left.string) <= cutoff or len(right.string) <= cutoff
-    scope = if has_whitespace? do
+
+    unit = if has_whitespace? do
         "parts"
       else
         if short? do
-          "full"
+          "whole"
         end
       end
+    opts = Keyword.put(opts, :unit, unit)
 
-    algorithms = algorithms([scope: scope])
-    compare(left, right, algorithms, opts)
+    compare(left, right, opts)
   end
 
   @spec max(map()) :: float()
   @spec max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
   @doc """
-  Compare two strings using all algorithms. Return only the highest algorithm metrics.
-
-  Options accepted as a keyword list. If no options are given, the default values will be used.
-  Also accepts a list of algorithms to use for comparison, otherwise the default list is used
-  (see `algorithms/0`).
+  Compare two strings. Return only the highest algorithm metrics. Options accepted as a keyword list.
   """
   def max(%{} = scores) do
     {_k, max_val} = Enum.max_by(scores, fn {_k, v} -> v end)
     Enum.filter(scores, fn {_k, v} -> v == max_val end)
   end
 
-  def max(left, right, algorithms \\ [], opts \\ @opts) do
-    compare(left, right, algorithms, opts)
+  def max(left, right, opts \\ @opts) do
+    compare(left, right, opts)
     |> max()
   end
 
   @spec smart_max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
   @doc """
-  Compare two strings using smart_compare/3. Return only the highest algorithm metrics.
-
-  Options accepted as a keyword list. If no options are given, the default values will be used..
+  Compare two strings using smart_compare/3. Return only the highest algorithm metrics. Options accepted as a keyword list.
   """
   def smart_max(left, right, opts) do
     smart_compare(left, right, opts)
@@ -175,12 +156,8 @@ defmodule Akin do
 
   @spec match_names(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
-  Compare a string against a list of strings. Return a list of strings from the list which are a likely
-  match for the first binary. A match has a maximum comparison score from at least one of the algorithms
-  equal to or higher than the `match_cutoff`.
-
-  `match_cutoff`, along with other options, are accepted as a list argument. If no options are given, the
-  default values will be used for options. Also a keyword list of options.
+  Compare a string against a list of strings.  Matches are determined by algorithem metrics equal to or higher than the
+  `match_at` option. Return a list of strings that are a likely match.
   """
   def match_names(left, rights, opts \\ @opts)
 
@@ -190,26 +167,23 @@ defmodule Akin do
   end
 
   def match_names(%Corpus{} = left, rights, opts) do
-    Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
-      if Enum.any?(Names.compare(left, right, opts), fn {_algo, score} ->
-        score > match_cutoff(opts) end) do
-        [Enum.join(right.list, " ") | acc]
-      else
-        acc
+    Enum.reduce(rights, [], fn right, acc ->
+      case NamesMetric.compare(left, right, opts) do
+        %{scores: scores} ->
+          if Enum.any?(scores, fn {_algo, score} -> score > match_at(opts) end) do
+            [right.original | acc]
+          else
+            acc
+          end
+        _ -> acc
       end
     end)
   end
 
   @spec match_names_metrics(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
-  Compare a string against a list of strings. Return a list of strings from the list which are a likely
-  match for the first binary. A match has a maximum comparison score from at least one of the algorithms
-  equal to or higher than the `match_cutoff`.
-
-  `match_cutoff`, along with other options, are accepted as a list argument. If no options are given, the
-  default values will be used for options. Also a keyword list of options.
-
-  Return the matching names and their metrics.
+  Compare a string against a list of strings. Matches are determined by algorithem metrics equal to or higher than the
+  `match_at` option. Return a list of strings that are a likely match and their algorithm metrics.
   """
   def match_names_metrics(left, rights, opts \\ @opts)
 
@@ -217,7 +191,7 @@ defmodule Akin do
     Enum.reduce(rights, [], fn right, acc ->
       case NamesMetric.compare(left, right, opts) do
         %{scores: scores} ->
-          if Enum.any?(scores, fn {_algo, score} -> score > match_cutoff(opts) end) do
+          if Enum.any?(scores, fn {_algo, score} -> score > match_at(opts) end) do
             [%{left: left, right: right, metrics: scores, match: 1}  | acc]
           else
             [%{left: left, right: right, metrics: scores, match: 0}  | acc]
@@ -227,55 +201,67 @@ defmodule Akin do
     end)
   end
 
+
+  @spec algorithms() :: list()
+  @spec algorithms(list() | Keyword.t()) :: list()
+  @spec algorithms(binary(), binary(), list()) :: list()
   @doc """
   Return the default option values
   """
   def default_opts, do: @opts
 
   @doc """
-  Return a list of algorithms. Default returns all available algorithms.
+  Return a list of algorithms.
 
-  Accept options in a keyword list.
+  Accepts a list of algorithm names or a keyword list of options. Default returns all available.
 
   | Options |          |            | Default |
   | ------- | -------- | ---------- | ------- |
   | metric  | "string" | "phonetic" | both    |
-  | scope   | "full"   | "parts"    | both    |
+  | unit    | "whole"  | "parts"    | both    |
 
   """
   def algorithms(), do: @algorithms
 
   def algorithms(opts) when is_list(opts) do
-    sub_algorithms(Keyword.get(opts, :metric), Keyword.get(opts, :scope))
+    metric = Keyword.get(opts, :metric)
+    unit = Keyword.get(opts, :unit)
+    algorithms = Keyword.get(opts, :algorithms) || []
+
+    algorithms(metric, unit, algorithms)
   end
 
   def algorithms(_), do: @algorithms
 
-  defp sub_algorithms("string", "full") do
+  defp algorithms("string", "whole", []) do
     ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "hamming", "tversky", "sorensen_dice"]
   end
 
-  defp sub_algorithms("string", "parts") do
+  defp algorithms("string", "parts", []) do
     ["substring_set", "substring_sort", "overlap", "ngram"]
   end
 
-  defp sub_algorithms("string", _) do
-    sub_algorithms("string", "full") ++ sub_algorithms("string", "parts")
+  defp algorithms("string", _, []) do
+    algorithms("string", "whole", []) ++ algorithms("string", "parts", [])
   end
 
-  defp sub_algorithms("phonetic", "full") do
+  defp algorithms("phonetic", "whole", []) do
     ["metaphone", "double_metaphone"]
   end
 
-  defp sub_algorithms("phonetic", "parts") do
+  defp algorithms("phonetic", "parts", []) do
     ["substring_double_metaphone"]
   end
 
-  defp sub_algorithms("phonetic", _) do
-    sub_algorithms("phonetic", "full") ++ sub_algorithms("phonetic", "parts")
+  defp algorithms("phonetic", _, []) do
+    algorithms("phonetic", "whole", []) ++ algorithms("phonetic", "parts", [])
   end
 
-  defp sub_algorithms(_, _) do
+  defp algorithms(_, _, algorithms) when is_list(algorithms) do
+    Enum.filter(algorithms, fn a -> a in @algorithms end)
+  end
+
+  defp algorithms(_, _, _) do
     @algorithms -- ["hamming"]
   end
 

@@ -105,17 +105,17 @@ defmodule Akin.Metaphone.Double do
 
   @doc """
   Compare two strings, returning the outcome of the comparison using the
-  strictness of the match_level.
+  strictness of the level.
 
   - "strict": both encodings for each string must match
   - "strong": the primary encoding for each string must match
   - "normal": the primary encoding of one string must match either encoding of other string (default)
   - "weak":   either primary or secondary encoding of one string must match one encoding of other string
   """
-  def compare(left, right, match_level \\ "normal")
+  def compare(left, right, level \\ "normal")
 
-  def compare(left, right, match_level) when is_binary(left) and is_binary(right) do
-    compare(parse(left), parse(right), match_level)
+  def compare(left, right, level) when is_binary(left) and is_binary(right) do
+    compare(parse(left), parse(right), level)
   end
 
   def compare({"", ""}, {"", ""}, _), do: false
@@ -862,11 +862,11 @@ defmodule Akin.Metaphone.Double do
 
   @doc """
   Accept two lists. Loop through a cartesian product of the two lists. Using a
-  reducer, iterate over the match_levels. For each match_level, compare the item
-  sets using compare/3. The first, if any, match_level to return a true value
+  reducer, iterate over the levels. For each level, compare the item
+  sets using compare/3. The first, if any, level to return a true value
   from compare/3 stops the reducer and percentage of true values found.
   Otherwise the reducer continues. 0 is returned if no comparison returns
-  true at any match_level.
+  true at any level.
 
   - "strict": both encodings for each string must match
   - "strong": the primary encoding for each string must match
@@ -874,10 +874,10 @@ defmodule Akin.Metaphone.Double do
   - "weak":   either primary or secondary encoding of one string must match one encoding of other string
   """
   def substring_compare(left, right, _opts) when is_list(left) and is_list(right) do
-    Enum.reduce_while(["strict", "strong", "normal", "weak"], 0, fn match_level, acc ->
+    Enum.reduce_while(["strict", "strong", "normal", "weak"], 0, fn level, acc ->
       scores =
         for l <- left, r <- right do
-          Akin.Metaphone.Double.compare(l, r, match_level)
+          Akin.Metaphone.Double.compare(l, r, level)
         end
       size = Enum.min([Enum.count(left), Enum.count(right)])
       Enum.count(scores, fn s -> s == true end)/size

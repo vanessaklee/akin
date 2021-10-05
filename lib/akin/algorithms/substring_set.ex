@@ -20,13 +20,13 @@ defmodule Akin.SubstringSet do
   * if words are of dissimilar in length according to Akin.Strategy.determine/2
     * ratio is Akin.SubstringComparison.similarity/2 * @ratio * scale (determined by Akin.Strategy)
 
-  Match level is based on `opt` :match_level
+  Match level is based on `opt` :level
 
   * "normal" returns average ratio
   * "weak" returns maximum ratio
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [match_level: 1]
+  import Akin.Util, only: [level: 1]
   alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
 
 
@@ -41,12 +41,12 @@ defmodule Akin.SubstringSet do
 
     case Strategy.determine(l_string, r_string) do
       :standard ->
-        similarity(l_set, r_set) |> score(match_level(opts))
+        similarity(l_set, r_set) |> score(level(opts))
 
       {:substring, scale} ->
         score =
           substring_similarity(l_set, r_set)
-          |> score(match_level(opts))
+          |> score(level(opts))
 
         score * @bias * scale
 

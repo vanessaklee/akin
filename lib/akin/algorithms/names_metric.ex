@@ -39,19 +39,21 @@ defmodule Akin.NamesMetric do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts, false) do
-    %{scores: Akin.compare(left, right, algorithms(), opts)}
+    opts = Keyword.put(opts, :algorithms, algorithms())
+    %{scores: Akin.compare(left, right, opts)}
     # Akin.max(left, right, opts)
     # Akin.smart_max(left, right, opts)
   end
 
   defp score(%Corpus{} = left, %Corpus{} = right, opts, matches) do
-    metrics = Akin.compare(left, right, algorithms(), opts)
+    opts = Keyword.put(opts, :algorithms, algorithms())
+    metrics = Akin.compare(left, right, opts)
     # metrics = Akin.smart_compare(left, right, opts)
     # max = Akin.max(metrics)
     percent = matches/Enum.count(right.list)
 
-    length_cutoff = length_cutoff(opts)
-    score = calc(metrics, matches, percent, length_cutoff, len(right.string))
+    short_length = short_length(opts)
+    score = calc(metrics, matches, percent, short_length, len(right.string))
       |> Enum.map(fn {k, v} -> {k, Akin.r(v)} end)
     %{scores: score}
   end

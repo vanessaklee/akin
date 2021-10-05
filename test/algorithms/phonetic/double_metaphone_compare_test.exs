@@ -3,7 +3,7 @@ defmodule DoubleCompareTest do
 
   import Akin.Metaphone.Double
 
-  test "return the expected boolean on comparison with default/normal match_level" do
+  test "return the expected boolean on comparison with default/normal level" do
     assert compare(parse("judge"), parse("juge"))
     assert compare(parse("judge"), parse("jawge"))
     assert compare(parse("knock"), parse("nock"))
@@ -14,7 +14,7 @@ defmodule DoubleCompareTest do
     refute compare(parse("wood"), parse("would"))
   end
 
-  test "return the expected boolean on comparison with weak match_level" do
+  test "return the expected boolean on comparison with weak level" do
     assert compare(parse("judge"), parse("juge"), "weak")
     assert compare(parse("judge"), parse("jawge"), "weak")
     assert compare(parse("knock"), parse("nock"))
@@ -25,7 +25,7 @@ defmodule DoubleCompareTest do
     refute compare(parse("wood"), parse("would"))
   end
 
-  test "return the expected boolean on comparison with strong match_level" do
+  test "return the expected boolean on comparison with strong level" do
     assert compare(parse("judge"), parse("juge"), "strong")
     assert compare(parse("judge"), parse("jawge"), "strong")
     assert compare(parse("knock"), parse("nock"))
@@ -36,7 +36,7 @@ defmodule DoubleCompareTest do
     refute compare(parse("wood"), parse("would"))
   end
 
-  test "return the expected boolean on comparison with strict match_level" do
+  test "return the expected boolean on comparison with strict level" do
     refute compare(parse("judge"), parse("juge"), "strict")
     refute compare(parse("judge"), parse("jawge"), "strict")
     refute compare(parse("wood"), parse("would"))

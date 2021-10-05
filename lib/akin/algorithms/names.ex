@@ -43,8 +43,8 @@ defmodule Akin.Names do
     metrics = Akin.smart_max(left, right, opts)
     percent = matches/Enum.count(right.list)
 
-    length_cutoff = length_cutoff(opts)
-    calc(metrics, matches, percent, length_cutoff, len(right.string))
+    short_length = short_length(opts)
+    calc(metrics, matches, percent, short_length, len(right.string))
   end
 
   defp calc(metrics, matches, _, _, _) when is_nil(matches) or matches <= 0, do: metrics

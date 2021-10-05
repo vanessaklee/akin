@@ -68,9 +68,9 @@ Hamming Distance is always excluded as it only compares strings of equal length.
 ```elixir
 iex> Akin.algorithms([metric: "phonetic"])
 ["metaphone", "double_metaphone", "substring_double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", scope: "full"]) 
+iex> Akin.algorithms([metric: "phonetic", unit: unit]) 
 ["metaphone", "double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", scope: "parts"])
+iex> Akin.algorithms([metric: "phonetic", unit: "parts"])
 ["substring_double_metaphone"]
 ```
 
@@ -112,34 +112,35 @@ iex> Akin.compare("beginning", "begining")
 
 ### Options
 
-The Compare function also accepts options as a Keyword list. The current keys used are `ngram_size`, `match_level`, and `cutoff_length`.
+Comparison accepts options in a Keyword list. 
 
-  1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
-  2. `length_cutoff`: only strings with a length greater than the `length_cutoff` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
-  3. `match_cutoff`: the score at which to declare a match; default is 0.9
-  4. `match_level` - match_level for matching used in double metaphone algorithm. Default is "normal".
+  1. `algorithms`: algorithms to use in comparision. Accepts the name or a keyword list. Default is algorithms/0.
+      1. `metric` - algorithm metric. Default is both
+        - "string": uses string algorithms
+        - "phonetic": uses phonetic algorithms
+      1. `unit` - algorithm unit. Default is both.
+        - "whole": uses algorithms best suited for whole string comparison (distance)
+        - "parts": uses algorithms best suited for partial string comparison (substring)
+  1. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
+  1. `match_at`: an algorith scoare equal to or above this value is condsidered a match. Default is 0.9
+  1. `level` - level for double phonetic matching. Default is "normal".
       - "strict": both encodings for each string must match
       - "strong": the primary encoding for each string must match
       - "normal": the primary encoding of one string must match either encoding of other string (default)
       - "weak":   either primary or secondary encoding of one string must match one encoding of other string
-  5. `metric` - algorithm metric; default is both
-      - "string": uses string algorithms
-      - "phonetic": uses phonetic algorithms
-  6. `scope` - algorithm scope; default is both
-      - "full": uses algorithms best suited for full string comparison
-      - "parts": uses algorithms best suited for partial string comparison
+  1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
 
 ### Algorithms Subset
 
-A comparison can be done on a custom subset of algorithms.  
+Comparison can request a subset of algorithms.  
 
 ```elixir
-iex> Akin.compare("weird", "wierd", ["bag_distance", "jaro_winkler", "jaccard"])  
+iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
 %{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
 ```
 
 ```elixir
-iex> Akin.compare("weird", "wierd", ["jaccard"], [ngram_size: 1])
+iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
 %{jaccard: 0.67} 
 ```
 
@@ -330,13 +331,13 @@ iex> left = "Alice in Wonderland"
 iex> right = "Alice's Adventures in Wonderland"
 iex> Akin.compare_using("substring_set", left, right)
 0.64
-iex> Akin.compare_using("substring_set", left, right, [match_level: "weak"])
+iex> Akin.compare_using("substring_set", left, right, [level: "weak"])
 0.85
 iex> left = "which way"
 iex> right = "whitch way"
-iex> Akin.compare_using("double_metaphone", left, right, [match_level: "weak"])
+iex> Akin.compare_using("double_metaphone", left, right, [level: "weak"])
 1.0
-iex> Akin.compare_using("double_metaphone", left, right, [match_level: "strict"])
+iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
 0.0
 ```
 
@@ -412,7 +413,7 @@ Compares two strings by converting each to an approximate phonetic representatio
 
 ### Double Metaphone 
 
-Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match match_level: strict, strong, normal (default), or weak. 
+Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match level: strict, strong, normal (default), or weak. 
 
   * "strict": both encodings for each string must match
   * "strong": the primary encoding for each string must match
@@ -422,7 +423,7 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
 ### Substring Double Metaphone
 
 Iterate over the cartesian product of the two lists sending each element through
-the Double Metaphone using all strictness match_levels until a true value is found
+the Double Metaphone using all strictness levels until a true value is found
 in the list of returned booleans from the Double Metaphone algorithm. Return the 
 percentage of true values found. If true is never returned, return 0. Increases  
 accuracy for search terms containing more than one word.

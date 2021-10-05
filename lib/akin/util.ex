@@ -35,7 +35,7 @@ defmodule Akin.Util do
       list: set,
       string: Enum.join(set),
       stems: Enum.map(set, &Stemmer.stem/1),
-      original: ""
+      original: string
     }
   end
 
@@ -167,39 +167,43 @@ defmodule Akin.Util do
 
   @spec ngram_size(keyword() | any()) :: integer()
   @doc """
-  Take the n_gram size from the given options list. If not present, use the default value from the default
+  Take the n_gram size from the options. If not present, use the default value from the default
   options list.
   """
   def ngram_size([{:ngram_size, ngram_size}| _t]), do: ngram_size
+
   def ngram_size(_), do: Keyword.get(Akin.default_opts(), :ngram_size)
 
-  @spec length_cutoff(keyword() | any()) :: integer()
+  @spec short_length(keyword() | any()) :: integer()
   @doc """
-  Take the ngram_size from the given options list. If not present, use the default value from the default
+  Take the short_length from the options. If not present, use the default value from the default
   options list.
   """
-  def length_cutoff([{:length_cutoff, length_cutoff}| _t]), do: length_cutoff
-  def length_cutoff(_), do: Keyword.get(Akin.default_opts(), :length_cutoff)
+  def short_length([{:short_length, short_length}| _t]), do: short_length
 
-  @spec match_level(keyword() | any()) :: integer()
-  @doc """
-  Take the match_level from the given options list. If not present, use the default value from the default
-  options list.
-  """
-  def match_level([{:match_level, match_level}| _t]), do: match_level
-  def match_level(_), do: Keyword.get(Akin.default_opts(), :match_level)
+  def short_length(_), do: Keyword.get(Akin.default_opts(), :short_length)
 
-  @spec match_cutoff(keyword() | any()) :: integer()
+  @spec level(keyword() | any()) :: integer()
   @doc """
-  Take the match_cutoff from the given options list. If not present, use the default value from the default
+  Take the level from the options. If not present, use the default value from the default
   options list.
   """
-  def match_cutoff([{:match_cutoff, match_cutoff}| _t]), do: match_cutoff
-  def match_cutoff(_), do: Keyword.get(Akin.default_opts(), :match_cutoff)
+  def level([{:level, level}| _t]), do: level
+
+  def level(_), do: Keyword.get(Akin.default_opts(), :level)
+
+  @spec match_at(keyword() | any()) :: integer()
+  @doc """
+  Take the match_at from the options. If not present, use the default value from the default
+  options list.
+  """
+  def match_at([{:match_at, match_at}| _t]), do: match_at
+
+  def match_at(_), do: Keyword.get(Akin.default_opts(), :match_at)
 
   @spec boost_initials?(keyword() | any()) :: boolean()
   @doc """
-  Take the boost_initials from the given options list. If not present, return false.
+  Take the boost_initials from the options. If not present, return false.
   """
   def boost_initials?([{:boost_initials, boost_initials}| _t]) do
     if boost_initials, do: true, else: false
@@ -214,12 +218,14 @@ defmodule Akin.Util do
   def get_initials(%Corpus{list: lists}) do
     Enum.map(lists, fn list -> String.at(list, 0) end)
   end
+
   def get_initials(_), do: []
 
   @doc """
   Compares to values for equality
   """
   def eq?(a, b) when a == b, do: true
+
   def eq?(_, _), do: false
 
   @doc """

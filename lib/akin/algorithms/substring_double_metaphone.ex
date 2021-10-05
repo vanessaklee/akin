@@ -25,7 +25,7 @@ defmodule Akin.SubstringDoubleMetaphone do
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   @doc """
   Compares two lists of values phonetically and returns a boolean of whether they match
-  reducing all possible matching match_levels.
+  reducing all possible matching levels.
   """
   def compare(left, right, opts \\ [])
 

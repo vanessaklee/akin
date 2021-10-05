@@ -81,54 +81,54 @@ defmodule UtilTest do
     end
   end
 
-  describe "The length_cutoff is returned correctly" do
+  describe "The short_length is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :length_cutoff)}
+      %{default: Keyword.get(Akin.default_opts(), :short_length)}
     end
 
-    test "The length_cutoff size is correct when option list contains an length_cutoff value", cxt do
-      assert length_cutoff(Akin.default_opts()) == cxt.default
-      assert length_cutoff([length_cutoff: 10]) == 10
+    test "The short_length size is correct when option list contains an short_length value", cxt do
+      assert short_length(Akin.default_opts()) == cxt.default
+      assert short_length([short_length: 10]) == 10
     end
 
-    test "The length_cutoff size is default size when not present", cxt do
-      assert length_cutoff(nil) == cxt.default
-      assert length_cutoff([not_length_cutoff: 3]) == cxt.default
-      assert length_cutoff([]) == cxt.default
+    test "The short_length size is default size when not present", cxt do
+      assert short_length(nil) == cxt.default
+      assert short_length([not_short_length: 3]) == cxt.default
+      assert short_length([]) == cxt.default
     end
   end
 
-  describe "The match_level is returned correctly" do
+  describe "The level is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :match_level)}
+      %{default: Keyword.get(Akin.default_opts(), :level)}
     end
 
-    test "The match_level size is correct when option list contains an match_level value", cxt do
-      assert match_level(Akin.default_opts()) == cxt.default
-      assert match_level([match_level: 10]) == 10
+    test "The level size is correct when option list contains an level value", cxt do
+      assert level(Akin.default_opts()) == cxt.default
+      assert level([level: 10]) == 10
     end
 
-    test "The match_level size is default size when not present", cxt do
-      assert match_level(nil) == cxt.default
-      assert match_level([not_match_level: 3]) == cxt.default
-      assert match_level([]) == cxt.default
+    test "The level size is default size when not present", cxt do
+      assert level(nil) == cxt.default
+      assert level([not_level: 3]) == cxt.default
+      assert level([]) == cxt.default
     end
   end
 
-  describe "The match_cutoff is returned correctly" do
+  describe "The match_at is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :match_cutoff)}
+      %{default: Keyword.get(Akin.default_opts(), :match_at)}
     end
 
-    test "The match_cutoff size is correct when option list contains an match_cutoff value", cxt do
-      assert match_cutoff(Akin.default_opts()) == cxt.default
-      assert match_cutoff([match_cutoff: 10]) == 10
+    test "The match_at size is correct when option list contains an match_at value", cxt do
+      assert match_at(Akin.default_opts()) == cxt.default
+      assert match_at([match_at: 10]) == 10
     end
 
-    test "The match_level size is default size when not present", cxt do
-      assert match_cutoff(nil) == cxt.default
-      assert match_cutoff([not_match_cutoff: 3]) == cxt.default
-      assert match_cutoff([]) == cxt.default
+    test "The level size is default size when not present", cxt do
+      assert match_at(nil) == cxt.default
+      assert match_at([not_match_at: 3]) == cxt.default
+      assert match_at([]) == cxt.default
     end
   end
 

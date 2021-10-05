@@ -62,6 +62,6 @@ defmodule SubstringSetTest do
   end
 
   defp weak(left, right) do
-    compare(compose(left), compose(right), match_level: "weak") |> Float.round(2)
+    compare(compose(left), compose(right), level: "weak") |> Float.round(2)
   end
 end
