@@ -7,7 +7,7 @@ defmodule Akin.Util do
   @doc """
   Compose a string into a corpus of values for disambiguation.
   Remove punctuation, downcase, trim excess whitespace. Return Corpus struct
-  composed of Chunks, MapSet, String, and Stemmed Chunks.
+  composed of List, MapSet, String, and Stemmed List.
   Non-binary terms result in return value nil
 
   ## Deaccentization
@@ -22,7 +22,7 @@ defmodule Akin.Util do
   def compose(_, _), do: nil
 
   def compose(string) when is_binary(string) do
-    chunks =
+    set =
       string
       |> String.replace(["'", "-"], " ")
       |> deaccentize()
@@ -31,10 +31,10 @@ defmodule Akin.Util do
       |> Enum.map(&String.trim/1)
 
     %Corpus{
-      set: MapSet.new(chunks),
-      chunks: chunks,
-      string: Enum.join(chunks),
-      stems: Enum.map(chunks, &Stemmer.stem/1),
+      set: MapSet.new(set),
+      list: set,
+      string: Enum.join(set),
+      stems: Enum.map(set, &Stemmer.stem/1),
       original: ""
     }
   end
@@ -208,17 +208,13 @@ defmodule Akin.Util do
   def boost_initials?(_), do: false
 
   @doc """
-  Return a list of initial letter values (initials) from the `chunks` key in the Corpus struct.
+  Return a list of initial letter values (initials) from the `list` key in the Corpus struct.
   Used in name comparison, specifically.
   """
-  def get_initials(%Corpus{chunks: chunks}) do
-    Enum.map(chunks, fn chunk -> String.at(chunk, 0) end)
+  def get_initials(%Corpus{list: lists}) do
+    Enum.map(lists, fn list -> String.at(list, 0) end)
   end
   def get_initials(_), do: []
-  # def initials(%Corpus{chunks: chunks}) do
-  #   Enum.filter(chunks, fn chunk -> String.length(chunk) == 1 end)
-  # end
-  # def initials(_), do: []
 
   @doc """
   Compares to values for equality

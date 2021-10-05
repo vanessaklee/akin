@@ -22,9 +22,9 @@ defmodule Orcid do
     r = Map.get(map, :right)
     l = Map.get(map, :left)
     list = Map.get(map, :metrics)
-    cs = Keyword.get(list, :chunk_set) || 0.0
-    sc = Keyword.get(list, :sorted_chunks) || 0.0
-    dmc = Keyword.get(list, :double_metaphone_chunks) || 0.0
+    cs = Keyword.get(list, :substring_set) || 0.0
+    sc = Keyword.get(list, :substring_sort) || 0.0
+    dmc = Keyword.get(list, :substring_double_metaphone) || 0.0
     o = Keyword.get(list, :overlap) || 0.0
 
     cs = cs |> Float.round(2)

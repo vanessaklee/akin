@@ -32,17 +32,17 @@ defmodule Akin.ML do
             [
               [
                 scores.bag_distance,
-                scores.chunk_set,
+                scores.substring_set,
                 scores.sorensen_dice,
                 scores.metaphone,
                 scores.double_metaphone,
-                scores.double_metaphone_chunks,
+                scores.substring_double_metaphone,
                 scores.jaccard,
                 scores.jaro_winkler,
                 scores.levenshtein,
                 scores.ngram,
                 scores.overlap,
-                scores.sorted_chunks,
+                scores.substring_sort,
                 scores.tversky,
                 match
               ]
@@ -82,17 +82,17 @@ defmodule Akin.ML do
           [
             [
               scores.bag_distance,
-              scores.chunk_set,
+              scores.substring_set,
               scores.sorensen_dice,
               scores.metaphone,
               scores.double_metaphone,
-              scores.double_metaphone_chunks,
+              scores.substring_double_metaphone,
               scores.jaccard,
               scores.jaro_winkler,
               scores.levenshtein,
               scores.ngram,
               scores.overlap,
-              scores.sorted_chunks,
+              scores.substring_sort,
               scores.tversky,
               names,
               match

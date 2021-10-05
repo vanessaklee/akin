@@ -23,7 +23,7 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
      * [Name Disambiguation](#name-disambiguation)
   3. [Algorithms](#algorithms)
      * [Bag Distance](#bag-distance)
-     * [Chunk Set](#chunk-set)
+     * [Substring Set](#substring-set)
      * [Sørensen–Dice](#sørensen–dice)
      * [Hamming Distance](#hamming-distance)
      * [Jaccard Similarity](#jaccard-similarity)
@@ -31,10 +31,10 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
      * [Levenshtein Distance](#levenshtein-distance)
      * [Metaphone](#metaphone)
      * [Double Metaphone](#double-metaphone)
-     * [Double Metaphone Chunks](#double-metaphone-chunks)
+     * [Substring Double Metaphone](#substring-double-metaphone)
      * [N-Gram Similarity](#n-gram-similarity)
      * [Overlap Metric](#overlap-metric)
-     * [Sorted Chunks](#sorted-chunks)
+     * [Substring Sort](#substring-sort)
      * [Tversky](#tversky)
   4. [Resources & Credit](#resources-&-credit)
   5. [In Development](#in-development)
@@ -56,9 +56,9 @@ To see all of the avialable algorithms:
 
 ```elixir
 iex> Akin.algorithms()
-["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
-"levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", 
-"overlap", "sorted_chunks", "tversky"]
+["bag_distance", "substring_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
+"levenshtein", "metaphone", "double_metaphone", "substring_double_metaphone", "ngram", 
+"overlap", "substring_sort", "tversky"]
 ```
 
 Subsets of algorithems 
@@ -67,11 +67,11 @@ Hamming Distance is always excluded as it only compares strings of equal length.
 
 ```elixir
 iex> Akin.algorithms([metric: "phonetic"])
-["metaphone", "double_metaphone", "double_metaphone._chunks"]
+["metaphone", "double_metaphone", "substring_double_metaphone"]
 iex> Akin.algorithms([metric: "phonetic", scope: "full"]) 
 ["metaphone", "double_metaphone"]
 iex> Akin.algorithms([metric: "phonetic", scope: "parts"])
-["double_metaphone._chunks"]
+["substring_double_metaphone"]
 ```
 
 ### Compare Strings
@@ -195,8 +195,8 @@ iex> Akin.max("Alice P. Liddel", "Alice Liddel")
 ```
 
 ```elixir
-iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["double_metaphone_chunks"])
-[double_metaphone_chunks: 1.0]
+iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
+[substring_double_metaphone: 1.0]
 ```
 
 ```elixir
@@ -211,7 +211,7 @@ iex> Akin.max(limited)
 
 ### Smart Compare
 
-When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
+When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings: "substring_set", "overlap", and "substring_sort". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
 
 ```elixir
 iex> Akin.smart_compare("weird", "wierd")
@@ -232,10 +232,10 @@ iex> Akin.smart_compare("weird", "wierd")
 ```elixir
 iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
 %{
-  chunk_set: 0.85,
-  double_metaphone_chunks: 0.67,
+  substring_set: 0.85,
+  substring_double_metaphone: 0.67,
   overlap: 1.0,
-  sorted_chunks: 0.85
+  substring_sort: 0.85
 }
 ```
 
@@ -272,11 +272,11 @@ iex> Akin.compare_using("metaphone", left, right)
 0.0
 iex> Akin.compare_using("double_metaphone", left, right)  
 0.0
-iex> Akin.compare_using("double_metaphone._chunks", left, right)
+iex> Akin.compare_using("substring_double_metaphone", left, right)
 1.0
-iex> Akin.compare_using("chunk_set", left, right)
+iex> Akin.compare_using("substring_set", left, right)
 0.74
-iex> Akin.compare_using("sorted_chunks", left, right)
+iex> Akin.compare_using("substring_sort", left, right)
 0.97
 iex> Akin.compare_using("tversky", left, right)
 0.4
@@ -322,15 +322,15 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 ### Match Level
 
 The default match strictness is "normal" You change it by setting 
-a value in opts. Currently it only affects the outcomes of the `chunk_set` and
+a value in opts. Currently it only affects the outcomes of the `substring_set` and
 `double_metaphone` algorithms
 
 ```elixir
 iex> left = "Alice in Wonderland"
 iex> right = "Alice's Adventures in Wonderland"
-iex> Akin.compare_using("chunk_set", left, right)
+iex> Akin.compare_using("substring_set", left, right)
 0.64
-iex> Akin.compare_using("chunk_set", left, right, [match_level: "weak"])
+iex> Akin.compare_using("substring_set", left, right, [match_level: "weak"])
 0.85
 iex> left = "which way"
 iex> right = "whitch way"
@@ -350,7 +350,7 @@ Given the name of an author which is divided into the given, middle, and family 
 
 This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [boost_initials: true].
 
-If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the chunks of the right string. There must be an exact match of each initial against the first character of one of the chunks.
+If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the sets of the right string. There must be an exact match of each initial against the first character of one of the sets.
 
 Hamming Distance algorithm is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
@@ -378,7 +378,7 @@ iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", 
 
 The bag distance is a cheap distance measure which always returns a distance smaller or equal to the edit distance. It's meant to be an efficient approximation of the distance between two strings to quickly rule out strings that are largely different.  
 
-### Chunk Set
+### Substring Set
 
 Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
 
@@ -419,7 +419,7 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
   * "normal": the primary encoding of one string must match either encoding of other string (default)
   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
 
-### Double Metaphone Chunks
+### Substring Double Metaphone
 
 Iterate over the cartesian product of the two lists sending each element through
 the Double Metaphone using all strictness match_levels until a true value is found
@@ -435,7 +435,7 @@ Calculates the ngram distance between two strings. Default ngram: 2.
 
 Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
 
-### Sorted Chunks
+### Substring Sort
 
 Sorts substrings by words, compares the sorted strings in pairs, and returns the maximum ratio. If one strings is signficantly longer than the other, this method will compare matching substrings only. 
 

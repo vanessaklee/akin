@@ -8,9 +8,9 @@ defmodule UtilTest do
     assert compose("WORD").string == "word"
     assert compose("Two   WORDS").string == "twowords"
     assert compose("Two   WORDS").string == "twowords"
-    assert compose("Two 123  WORDS").chunks == ["two", "123", "words"]
+    assert compose("Two 123  WORDS").list == ["two", "123", "words"]
     assert compose("Łępicki").string == "łepicki"
-    assert compose("") == %Corpus{chunks: [], set: MapSet.new(), stems: [], string: "", original: ""}
+    assert compose("") == %Corpus{list: [], set: MapSet.new(), stems: [], string: "", original: ""}
     assert compose(nil) == nil
   end
 
@@ -21,7 +21,7 @@ defmodule UtilTest do
 
     assert is_struct(left)
     assert right.string == Enum.join(list)
-    assert right.chunks == [a, b, c]
+    assert right.list == [a, b, c]
     assert right.stems == [Stemmer.stem(a), Stemmer.stem(b), Stemmer.stem("łepicki")]
     assert compose(nil, nil) == nil
   end

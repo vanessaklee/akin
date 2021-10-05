@@ -1,4 +1,4 @@
-defmodule Akin.SortedChunks do
+defmodule Akin.SubstringSort do
   @moduledoc """
   Use Chunk Sorting to compare two strings using substrings.
 
@@ -21,19 +21,19 @@ defmodule Akin.SortedChunks do
 
   ## Examples
 
-    iex> Akin.SortedChunks.compare(Akin.Util.compose("Alice in Wonderland"), Akin.Util.compose("Alice's Adventures in Wonderland"))
+    iex> Akin.SubstringSort.compare(Akin.Util.compose("Alice in Wonderland"), Akin.Util.compose("Alice's Adventures in Wonderland"))
     0.63
 
-    iex> StringCompare.SortedChunks.substring_similarity("Oscar-Claude Monet"}, %Akin.Corpus{string: "Monet, Claude"}, Akin.Util.compose("Alice's Adventures in Wonderland"))
+    iex> StringCompare.SubstringSort.substring_similarity("Oscar-Claude Monet"}, %Akin.Corpus{string: "Monet, Claude"}, Akin.Util.compose("Alice's Adventures in Wonderland"))
     1.0
   """
   def compare(%Corpus{} = left, %Corpus{} = right, _opts \\ []) do
     case Strategy.determine(left.string, right.string) do
       :standard ->
-        similarity(left.chunks, right.chunks)
+        similarity(left.list, right.list)
 
       {:substring, scale} ->
-        substring_similarity(left.chunks, right.chunks) * @bias * scale
+        substring_similarity(left.list, right.list) * @bias * scale
 
       {:error, _} ->
         0.0

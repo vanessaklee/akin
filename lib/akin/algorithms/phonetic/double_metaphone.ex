@@ -873,7 +873,7 @@ defmodule Akin.Metaphone.Double do
   - "normal": the primary encoding of one string must match either encoding of other string (default)
   - "weak":   either primary or secondary encoding of one string must match one encoding of other string
   """
-  def scored_chunked_compare(left, right, _opts) when is_list(left) and is_list(right) do
+  def substring_compare(left, right, _opts) when is_list(left) and is_list(right) do
     Enum.reduce_while(["strict", "strong", "normal", "weak"], 0, fn match_level, acc ->
       scores =
         for l <- left, r <- right do

@@ -20,38 +20,4 @@ defmodule Akin.DoubleMetaphone do
   end
 
   def compare(_, _, _), do: 0.0
-
-  defmodule Chunks do
-    @moduledoc """
-    Chunk the search terms into lists split by white space and compare the cartesian product of the lists.
-
-    ## Examples
-
-      iex> left = "Alice Liddel"
-      iex> right = "Liddel, Alice"
-      iex> Akin.compare_using("double_metaphone._chunks", left, right)
-      1.0
-      iex> right = "Alice P Liddel"
-      iex> Akin.compare_using("double_metaphone._chunks", left, right)
-      1.0
-      iex> right = "Alice Hargreaves"
-      iex> Akin.compare_using("double_metaphone._chunks", left, right)
-      0.5
-      iex> right = "Alice's Adventures in Wonderland"
-      iex> Akin.compare_using("double_metaphone._chunks", left, right)
-      0.5
-    """
-    @behaviour Akin.Task
-
-    @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
-    @doc """
-    Compares two lists of values phonetically and returns a boolean of whether they match
-    reducing all possible matching match_levels.
-    """
-    def compare(left, right, opts \\ [])
-
-    def compare(%Corpus{chunks: left}, %Corpus{chunks: right}, opts) when is_list(opts) do
-      Double.scored_chunked_compare(left, right, opts) / 1.0
-    end
-  end
 end

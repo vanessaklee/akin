@@ -1,6 +1,6 @@
-defmodule SortedChunksTest do
+defmodule SubstringSortTest do
   use ExUnit.Case
-  import Akin.SortedChunks, only: [compare: 2]
+  import Akin.SubstringSort, only: [compare: 2]
   import Akin.Util, only: [compose: 1]
 
   test "returns expected float value for comparing string containing similar words" do

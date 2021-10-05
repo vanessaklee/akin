@@ -24,7 +24,7 @@ defmodule Akin do
 
   @algorithms [
     "bag_distance",
-    "chunk_set",
+    "substring_set",
     "sorensen_dice",
     "hamming",
     "jaccard",
@@ -32,10 +32,10 @@ defmodule Akin do
     "levenshtein",
     "metaphone",
     "double_metaphone",
-    "double_metaphone._chunks",
+    "substring_double_metaphone",
     "ngram",
     "overlap",
-    "sorted_chunks",
+    "substring_sort",
     "tversky"
   ]
 
@@ -111,7 +111,7 @@ defmodule Akin do
   @doc """
   Compare two strings by first checking for white space within each string.
   If there is white space in either string, compare using only algorithms that prioritize
-  substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, use
+  substrings: "substring_set", "overlap", and "substring_sort". Otherwise, use
   only algoritms do not prioritize substrings.
 
   if either string is shorter than or equal to `length cutoff`, then N-Gram alogrithms are
@@ -190,19 +190,10 @@ defmodule Akin do
   end
 
   def match_names(%Corpus{} = left, rights, opts) do
-    # Enum.reduce(rights, [], fn right, acc ->
-    #   %{scores: scores} = NamesMetric.compare(left, right, opts)
-
-    #   if Enum.any?(scores, fn {_algo, score} -> score > match_cutoff(opts) end) do
-    #     [Enum.join(right.chunks, " ") | acc]
-    #   else
-    #     acc
-    #   end
-    # end)
     Enum.reduce(rights, [], fn %Corpus{} = right, acc ->
       if Enum.any?(Names.compare(left, right, opts), fn {_algo, score} ->
         score > match_cutoff(opts) end) do
-        [Enum.join(right.chunks, " ") | acc]
+        [Enum.join(right.list, " ") | acc]
       else
         acc
       end
@@ -265,7 +256,7 @@ defmodule Akin do
   end
 
   defp sub_algorithms("string", "parts") do
-    ["chunk_set", "sorted_chunks", "overlap", "ngram"]
+    ["substring_set", "substring_sort", "overlap", "ngram"]
   end
 
   defp sub_algorithms("string", _) do
@@ -277,7 +268,7 @@ defmodule Akin do
   end
 
   defp sub_algorithms("phonetic", "parts") do
-    ["double_metaphone._chunks"]
+    ["substring_double_metaphone"]
   end
 
   defp sub_algorithms("phonetic", _) do

@@ -1,4 +1,4 @@
-defmodule Akin.ChunkSet do
+defmodule Akin.SubstringSet do
   @moduledoc """
   Functions for string comparsion where common words between the strings are compared in sets.
 

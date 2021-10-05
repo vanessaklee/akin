@@ -3,7 +3,7 @@ defmodule AkinTest do
   import Akin
 
   test "comparing two exact strings returns all 1.0 values" do
-    results = compare("Alice", "Alice")
+    results = compare("Alice", "Alice", Akin.algorithms([]))
 
     assert Enum.all?(results, fn {_k, v} -> v == 1.0 end)
   end

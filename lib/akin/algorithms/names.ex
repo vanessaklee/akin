@@ -14,11 +14,11 @@ defmodule Akin.Names do
   Manage the comparison steps of comparing two names. If the left string includes initials,
   they may have a lower score when compared to the full name if it exists in the right string.
   If initials exist in the left name, perform a separate comparison of the initals and the
-  chunks of the right string. There must be an exact match of each initial against the first
-  character of one of the chunks. Metrics are are result of a smart comparison of
-  all remaining non-initial chunks of the left Corpus and the original right Corpus.
+  set of the right string. There must be an exact match of each initial against the first
+  character of one of the set. Metrics are are result of a smart comparison of
+  all remaining non-initial set of the left Corpus and the original right Corpus.
 
-  If all the initials match to something in the right chunks, metrics are boosted by @boost.
+  If all the initials match to something in the right set, metrics are boosted by @boost.
   """
   def compare(left, right, opts \\ [])
 
@@ -41,7 +41,7 @@ defmodule Akin.Names do
 
   defp score(left, right, opts, matches) do
     metrics = Akin.smart_max(left, right, opts)
-    percent = matches/Enum.count(right.chunks)
+    percent = matches/Enum.count(right.list)
 
     length_cutoff = length_cutoff(opts)
     calc(metrics, matches, percent, length_cutoff, len(right.string))
@@ -62,14 +62,14 @@ defmodule Akin.Names do
 
   defp match_initials(left, right) do
     initials = form_initials(left)
-    chunks = right.chunks
+    list = right.list
 
-    match(initials, chunks)
+    match(initials, list)
   end
 
-  defp match([], _chunks), do: nil
-  defp match(initials, chunks) do
-    chunks
+  defp match([], _list), do: nil
+  defp match(initials, list) do
+    list
     |> Enum.filter(fn c ->
       String.at(c, 0) in initials
     end)

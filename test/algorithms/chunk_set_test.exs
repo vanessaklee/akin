@@ -1,6 +1,6 @@
-defmodule ChunkSetTest do
+defmodule SubstringSetTest do
   use ExUnit.Case
-  import Akin.ChunkSet, only: [compare: 2, compare: 3]
+  import Akin.SubstringSet, only: [compare: 2, compare: 3]
   import Akin.Util, only: [compose: 1]
 
   test "returns expected float value for comparing string containing multiple, but similar words" do
