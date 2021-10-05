@@ -170,9 +170,6 @@ defmodule Akin.Util do
   Take the n_gram size from the given options list. If not present, use the default value from the default
   options list.
   """
-  # def ngram_size(opts) when Keyword.keyword?(opts) do
-  #   Keyword.get(opts, :ngram_size) || Keyword.get(Akin.default_opts(), :ngram_size)
-  # end
   def ngram_size([{:ngram_size, ngram_size}| _t]), do: ngram_size
   def ngram_size(_), do: Keyword.get(Akin.default_opts(), :ngram_size)
 

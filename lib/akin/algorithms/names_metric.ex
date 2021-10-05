@@ -39,13 +39,13 @@ defmodule Akin.NamesMetric do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts, false) do
-    %{scores: Akin.compare(left, right, Akin.algorithms(), opts)}
+    %{scores: Akin.compare(left, right, algorithms(), opts)}
     # Akin.max(left, right, opts)
     # Akin.smart_max(left, right, opts)
   end
 
   defp score(%Corpus{} = left, %Corpus{} = right, opts, matches) do
-    metrics = Akin.compare(left, right, Akin.algorithms(), opts)
+    metrics = Akin.compare(left, right, algorithms(), opts)
     # metrics = Akin.smart_compare(left, right, opts)
     # max = Akin.max(metrics)
     percent = matches/Enum.count(right.chunks)
@@ -95,5 +95,9 @@ defmodule Akin.NamesMetric do
         ngram_tokenize(Enum.join(initials, ""), c)
       end
       |> flat_and_uniq()
+  end
+
+  defp algorithms() do
+    Akin.algorithms() -- ["hamming"]
   end
 end

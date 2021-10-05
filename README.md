@@ -61,13 +61,17 @@ iex> Akin.algorithms()
 "overlap", "sorted_chunks", "tversky"]
 ```
 
-Other combinations of algorithms are determined by the length of the strings being compared and whether either string contains whitespace.Hamming Distance is always excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
+Subsets of algorithems 
+
+Hamming Distance is always excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
-iex> Akin.algorithms([short: false, has_whitespace: false])
-["bag_distance", "chunk_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
-"levenshtein", "metaphone", "double_metaphone", "double_metaphone._chunks", "ngram", 
-"overlap", "sorted_chunks", "tversky"]
+iex> Akin.algorithms([metric: "phonetic"])
+["metaphone", "double_metaphone", "double_metaphone._chunks"]
+iex> Akin.algorithms([metric: "phonetic", scope: "full"]) 
+["metaphone", "double_metaphone"]
+iex> Akin.algorithms([metric: "phonetic", scope: "parts"])
+["double_metaphone._chunks"]
 ```
 
 ### Compare Strings
@@ -112,12 +116,18 @@ The Compare function also accepts options as a Keyword list. The current keys us
 
   1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
   2. `length_cutoff`: only strings with a length greater than the `length_cutoff` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
-  3. `match_cutoff`: 
+  3. `match_cutoff`: the score at which to declare a match; default is 0.9
   4. `match_level` - match_level for matching used in double metaphone algorithm. Default is "normal".
       - "strict": both encodings for each string must match
       - "strong": the primary encoding for each string must match
       - "normal": the primary encoding of one string must match either encoding of other string (default)
       - "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  5. `metric` - algorithm metric; default is both
+      - "string": uses string algorithms
+      - "phonetic": uses phonetic algorithms
+  6. `scope` - algorithm scope; default is both
+      - "full": uses algorithms best suited for full string comparison
+      - "parts": uses algorithms best suited for partial string comparison
 
 ### Algorithms Subset
 
@@ -201,8 +211,7 @@ iex> Akin.max(limited)
 
 ### Smart Compare
 
-When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take
-substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
+When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings and/or chunks: "chunk_set", "overlap", and "sorted_chunks". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
 
 ```elixir
 iex> Akin.smart_compare("weird", "wierd")
@@ -342,6 +351,8 @@ Given the name of an author which is divided into the given, middle, and family 
 This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [boost_initials: true].
 
 If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the chunks of the right string. There must be an exact match of each initial against the first character of one of the chunks.
+
+Hamming Distance algorithm is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 If the comparison metrics produce a score greater than or equal to 0.9, they considered a match and returned in the list.
 

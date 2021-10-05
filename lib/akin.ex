@@ -55,7 +55,7 @@ defmodule Akin do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, [], opts) do
-    compare(left, right, algorithms([short: false, has_whitespace: false]), opts)
+    compare(left, right, algorithms(), opts)
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, algorithms, opts) do
@@ -131,8 +131,15 @@ defmodule Akin do
     has_whitespace? = String.contains?(left.original, " ") or String.contains?(right.original, " ")
     cutoff = length_cutoff(opts)
     short? = len(left.string) <= cutoff or len(right.string) <= cutoff
+    scope = if has_whitespace? do
+        "parts"
+      else
+        if short? do
+          "full"
+        end
+      end
 
-    algorithms = algorithms([short: short?, has_whitespace: has_whitespace?])
+    algorithms = algorithms([scope: scope])
     compare(left, right, algorithms, opts)
   end
 
@@ -235,35 +242,51 @@ defmodule Akin do
   def default_opts, do: @opts
 
   @doc """
-  Return a list of algorithms. Default returns all available algorithms. Accepts argument to limit
-  the alorithms to a task.
+  Return a list of algorithms. Default returns all available algorithms.
 
-  Accept a keyword list with two keys: short & has_whitespace.
+  Accept options in a keyword list.
 
-  If short is true, one of the string
-  is shorter than or equal to the `length cutoff`. There fore N-Gram alogrithms are excluded
-  (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
+  | Options |          |            | Default |
+  | ------- | -------- | ---------- | ------- |
+  | metric  | "string" | "phonetic" | both    |
+  | scope   | "full"   | "parts"    | both    |
 
-  If has_whitespace is true, use algorithms best suited for comparing substrings (Sorensen-Dice,
-  Jaccard, NGram, Overlap, and Tversky)
   """
-  def algorithms([short: true, has_whitespace: true]) do
-    ["chunk_set", "sorted_chunks", "double_metaphone._chunks"]
-  end
-
-  def algorithms([short: false, has_whitespace: true]) do
-    ["chunk_set", "overlap", "sorted_chunks", "double_metaphone._chunks"]
-  end
-
-  def algorithms([short: true, has_whitespace: false]) do
-    ["bag_distance", "sorensen_dice", "jaro_winkler", "levenshtein", "metaphone", "double_metaphone"]
-  end
-
-  def algorithms([short: false, has_whitespace: false]) do
-    @algorithms -- ["hamming", "chunk_set", "sorted_chunks", "double_metaphone._chunks"]
-  end
-
   def algorithms(), do: @algorithms
+
+  def algorithms(opts) when is_list(opts) do
+    sub_algorithms(Keyword.get(opts, :metric), Keyword.get(opts, :scope))
+  end
+
+  def algorithms(_), do: @algorithms
+
+  defp sub_algorithms("string", "full") do
+    ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "hamming", "tversky", "sorensen_dice"]
+  end
+
+  defp sub_algorithms("string", "parts") do
+    ["chunk_set", "sorted_chunks", "overlap", "ngram"]
+  end
+
+  defp sub_algorithms("string", _) do
+    sub_algorithms("string", "full") ++ sub_algorithms("string", "parts")
+  end
+
+  defp sub_algorithms("phonetic", "full") do
+    ["metaphone", "double_metaphone"]
+  end
+
+  defp sub_algorithms("phonetic", "parts") do
+    ["double_metaphone._chunks"]
+  end
+
+  defp sub_algorithms("phonetic", _) do
+    sub_algorithms("phonetic", "full") ++ sub_algorithms("phonetic", "parts")
+  end
+
+  defp sub_algorithms(_, _) do
+    @algorithms -- ["hamming"]
+  end
 
   @doc """
   Round data types that can be rounded to 2 decimal points.
