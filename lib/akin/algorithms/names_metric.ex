@@ -41,8 +41,6 @@ defmodule Akin.NamesMetric do
   def compare(%Corpus{} = left, %Corpus{} = right, opts, false) do
     opts = Keyword.put(opts, :algorithms, algorithms())
     %{scores: Akin.compare(left, right, opts)}
-    # Akin.max(left, right, opts)
-    # Akin.smart_max(left, right, opts)
   end
 
   defp score(%Corpus{} = left, %Corpus{} = right, opts, matches) do

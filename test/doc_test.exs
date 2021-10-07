@@ -1,6 +1,6 @@
 defmodule DocTest do
   use ExUnit.Case
-  doctest Akin.Metaphone.Metaphone
+  doctest Akin.Metaphone.Single
   doctest Akin.Metaphone
   doctest Akin.SorensenDice
   doctest Akin.Hamming

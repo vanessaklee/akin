@@ -5,7 +5,7 @@ defmodule AkinTest do
   test "requesting a subset of algorithms in the options results in expected phonetic algorithms" do
     all_phonetic = algorithms([metric: "phonetic"])
     whole_phonetic = algorithms([metric: "phonetic", unit: "whole"])
-    partial_phonetic = algorithms([metric: "phonetic", unit: "parts"])
+    partial_phonetic = algorithms([metric: "phonetic", unit: "partial"])
 
     assert all_phonetic == ["metaphone", "double_metaphone", "substring_double_metaphone"]
     assert whole_phonetic == ["metaphone", "double_metaphone"]
@@ -15,7 +15,7 @@ defmodule AkinTest do
   test "requesting a subset of algorithms in the options results in expected string algorithms" do
     all_string = algorithms([metric: "string"])
     whole_string = algorithms([metric: "string", unit: "whole"])
-    partial_string = algorithms([metric: "string", unit: "parts"])
+    partial_string = algorithms([metric: "string", unit: "partial"])
 
     assert all_string == [
       "bag_distance",

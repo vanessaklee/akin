@@ -2,27 +2,14 @@ defmodule Akin.ML do
 
   def training_data() do
     NimbleCSV.define(CSVParse, separator: ",", escape: "\\")
-    File.rm("compare.csv")
+    File.rm("test/support/metrics_for_training.csv")
 
-    # File.stream!("test/support/match_names.csv")
-    File.stream!("test/support/match_names.csv")
+    File.stream!("test/support/dblp_for_training.csv")
     |> Stream.map(&String.trim(&1))
     |> Enum.to_list()
     |> Enum.each(fn row ->
       [left, right, match] = String.split(row, "\t")
 
-      # Phase 1 axon
-      # Akin.compare(left, right)
-      # |> to_csv(left, right, match)
-
-      # Phase 2 axon
-      # case Akin.match_names_metrics(left, [right], [boost_initials: true]) do
-      #   [%{left: l, right: r, metrics: s, match: m}] ->
-      #     to_csv(Enum.into(s, %{}), l, r, m, match)
-      #   _ -> nil
-      # end
-
-      # Phase 3 tangram
       case Akin.match_names_metrics(left, [right], [boost_initials: true]) do
         [%{left: _, right: _, metrics: scores, match: _}] ->
           # names = l <> " <- (" <> to_string(m) <> ") -> " <> r
@@ -49,19 +36,17 @@ defmodule Akin.ML do
             ]
             |> CSVParse.dump_to_iodata()
 
-          File.write!("compare.csv", [data], [:append])
+          File.write!("test/support/metrics_for_training.csv", [data], [:append])
         _ -> nil
       end
-
     end)
   end
 
   def tangram_data() do
     NimbleCSV.define(CSVParse, separator: "\t")
-    File.rm("tangram_predictions.csv")
+    File.rm("test/support/metrics_for_predicting.csv")
 
-    # File.stream!("test/support/orcid/bench.csv")
-    File.stream!("test/support/orcid/predict_a.csv")
+    File.stream!("test/support/orcid/orcid_for_predicting.csv")
     # File.stream!("test/support/orcid/predict_b.csv")
     |> Stream.map(&String.trim(&1))
     |> Enum.to_list()
@@ -100,7 +85,7 @@ defmodule Akin.ML do
           ]
           |> CSVParse.dump_to_iodata()
 
-        File.write!("tangram_predictions.csv", [data], [:append])
+        File.write!("test/support/metrics_for_predicting.csv", [data], [:append])
       end)
       acc
     end)

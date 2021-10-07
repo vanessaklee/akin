@@ -92,44 +92,6 @@ defmodule Akin do
     apply(modulize(algorithm), :compare, [left, right, opts]) |> Float.round(2)
   end
 
-  @spec smart_compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
-
-  @doc """
-  Compare two strings by first checking for white space within each string.
-  If there is white space in either string, compare using only algorithms that prioritize
-  substrings: "substring_set", "overlap", and "substring_sort". Otherwise, use
-  only algoritms do not prioritize substrings.
-
-  if either string is shorter than or equal to `length cutoff`, then N-Gram alogrithms are
-  excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
-
-  Return a map of metrics for each algorithm used.
-
-  Options accepted as a keyword list. If no options are given, the default values are used.
-  """
-  def smart_compare(left, right, opts \\ @opts)
-
-  def smart_compare(left, right, opts) when is_binary(left) and is_binary(right) do
-    smart_compare(compose(left), compose(right), opts)
-  end
-
-  def smart_compare(%Corpus{} = left, %Corpus{} = right, opts) do
-    has_whitespace? = String.contains?(left.original, " ") or String.contains?(right.original, " ")
-    cutoff = short_length(opts)
-    short? = len(left.string) <= cutoff or len(right.string) <= cutoff
-
-    unit = if has_whitespace? do
-        "parts"
-      else
-        if short? do
-          "whole"
-        end
-      end
-    opts = Keyword.put(opts, :unit, unit)
-
-    compare(left, right, opts)
-  end
-
   @spec max(map()) :: float()
   @spec max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
   @doc """
@@ -142,15 +104,6 @@ defmodule Akin do
 
   def max(left, right, opts \\ @opts) do
     compare(left, right, opts)
-    |> max()
-  end
-
-  @spec smart_max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
-  @doc """
-  Compare two strings using smart_compare/3. Return only the highest algorithm metrics. Options accepted as a keyword list.
-  """
-  def smart_max(left, right, opts) do
-    smart_compare(left, right, opts)
     |> max()
   end
 
@@ -201,6 +154,22 @@ defmodule Akin do
     end)
   end
 
+  @spec phonemes(binary() | %Corpus{}) :: list()
+  @doc """
+  Returns list of unqieu phonetic representations of a  string resulting from the single and
+  double metaphone algorithms.
+  """
+  def phonemes(string) when is_binary(string) do
+    phonemes(compose(string))
+  end
+
+  def phonemes(%Corpus{string: string}) do
+    single = Akin.Metaphone.Single.compute(string)
+    double = Akin.Metaphone.Double.parse(string) |> Tuple.to_list()
+    [single | double]
+    |> List.flatten()
+    |> Enum.uniq()
+  end
 
   @spec algorithms() :: list()
   @spec algorithms(list() | Keyword.t()) :: list()
@@ -218,7 +187,7 @@ defmodule Akin do
   | Options |          |            | Default |
   | ------- | -------- | ---------- | ------- |
   | metric  | "string" | "phonetic" | both    |
-  | unit    | "whole"  | "parts"    | both    |
+  | unit    | "whole"  | "partial"    | both    |
 
   """
   def algorithms(), do: @algorithms
@@ -237,32 +206,32 @@ defmodule Akin do
     ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "hamming", "tversky", "sorensen_dice"]
   end
 
-  defp algorithms("string", "parts", []) do
+  defp algorithms("string", "partial", []) do
     ["substring_set", "substring_sort", "overlap", "ngram"]
   end
 
   defp algorithms("string", _, []) do
-    algorithms("string", "whole", []) ++ algorithms("string", "parts", [])
+    algorithms("string", "whole", []) ++ algorithms("string", "partial", [])
   end
 
   defp algorithms("phonetic", "whole", []) do
     ["metaphone", "double_metaphone"]
   end
 
-  defp algorithms("phonetic", "parts", []) do
+  defp algorithms("phonetic", "partial", []) do
     ["substring_double_metaphone"]
   end
 
   defp algorithms("phonetic", _, []) do
-    algorithms("phonetic", "whole", []) ++ algorithms("phonetic", "parts", [])
+    algorithms("phonetic", "whole", []) ++ algorithms("phonetic", "partial", [])
+  end
+
+  defp algorithms(_, _, []) do
+    @algorithms -- ["hamming"]
   end
 
   defp algorithms(_, _, algorithms) when is_list(algorithms) do
     Enum.filter(algorithms, fn a -> a in @algorithms end)
-  end
-
-  defp algorithms(_, _, _) do
-    @algorithms -- ["hamming"]
   end
 
   @doc """

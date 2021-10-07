@@ -1,6 +1,6 @@
 defmodule NamesTest do
   use ExUnit.Case
-  import Akin.Names, only: [compare: 2, compare: 3]
+  import Akin.NamesMetric, only: [compare: 2, compare: 3]
 
   test "comparing a name against a matching name, returns a 1.0 metrics" do
     results = compare("alice", "alice")
@@ -19,7 +19,6 @@ defmodule NamesTest do
   test "known names in orcid should all match" do
     File.rm("test/support/orcid/match_names.csv")
 
-    # x = File.stream!("test/support/orcid/bench.csv")
     x = File.stream!("test/support/orcid/mini.csv")
       |> Stream.map(&String.trim(&1))
       |> Enum.to_list()

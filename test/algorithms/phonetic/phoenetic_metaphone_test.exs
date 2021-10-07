@@ -1,6 +1,6 @@
 defmodule PhoenticMetaphoneTest do
   use ExUnit.Case
-  import Akin.Metaphone.Metaphone, only: [compute: 1]
+  import Akin.Metaphone.Single, only: [compute: 1]
 
   test "returns nil with empty argument" do
     assert compute("") == nil

@@ -70,7 +70,7 @@ iex> Akin.algorithms([metric: "phonetic"])
 ["metaphone", "double_metaphone", "substring_double_metaphone"]
 iex> Akin.algorithms([metric: "phonetic", unit: unit]) 
 ["metaphone", "double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", unit: "parts"])
+iex> Akin.algorithms([metric: "phonetic", unit: "partial"])
 ["substring_double_metaphone"]
 ```
 
@@ -120,7 +120,7 @@ Comparison accepts options in a Keyword list.
         - "phonetic": uses phonetic algorithms
       1. `unit` - algorithm unit. Default is both.
         - "whole": uses algorithms best suited for whole string comparison (distance)
-        - "parts": uses algorithms best suited for partial string comparison (substring)
+        - "partial": uses algorithms best suited for partial string comparison (substring)
   1. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
   1. `match_at`: an algorith scoare equal to or above this value is condsidered a match. Default is 0.9
   1. `level` - level for double phonetic matching. Default is "normal".
@@ -160,104 +160,6 @@ iex> Akin.compare("weird", "wierd")
 }
 ```
 
-### Stemming
-
-Compare the stemmed version of two strings.
-
-```elixir
-iex> Akin.compare_stems("write", "writing")
-%{
-  bag_distance: 1.0,
-  sorensen_dice: 1.0,
-  double_metaphone: 1.0,
-  jaccard: 1.0,
-  jaro_winkler: 1.0,
-  levenshtein: 1.0,
-  metaphone: 1.0,
-  ngram: 1.0,
-  overlap: 1.0,
-  tversky: 1.0
-}
-```
-
-### Max 
-
-Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
-The strings are compared using the default list of comparison algorithms unless a list of algorithms is given. Also accepts a keyword list of options. 
-
-```elixir
-iex> Akin.max("weird", "wierd")
-[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
-```
-
-```elixir
-iex> Akin.max("Alice P. Liddel", "Alice Liddel")
-[jaro_winkler: 0.98]
-```
-
-```elixir
-iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
-[substring_double_metaphone: 1.0]
-```
-
-```elixir
-iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
-%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
-```
-
-```elixir
-iex> Akin.max(limited)
-[jaro_winkler: 0.95]
-```
-
-### Smart Compare
-
-When the strings contain spaces, such as a name comprised of a given and family nam, you can narrow the results to only algorithms which take substrings into account. Do that by using `smart_compare/2` which will check for white space in either of the strings being compared. If white space is found, then the comaparison will use algorithms that prioritize substrings: "substring_set", "overlap", and "substring_sort". Otherwise, the comparison will use  algoritms which do not prioritize substrings. Furthermore, if either string is shorter than or equal to the `length cutoff`, then N-Gram alogrithms are excluded (Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky)
-
-```elixir
-iex> Akin.smart_compare("weird", "wierd")
-%{
-  bag_distance: 1.0,
-  dice_sorensen: 0.25,
-  double_metaphone: 1.0,
-  jaccard: 0.14,
-  jaro_winkler: 0.94,
-  levenshtein: 0.6,
-  metaphone: 1.0,
-  ngram: 0.25,
-  overlap: 0.25,
-  tversky: 0.14
-}
-```
-
-```elixir
-iex> Akin.smart_compare("Alice Pleasance Liddel", "Alice P. Liddel")
-%{
-  substring_set: 0.85,
-  substring_double_metaphone: 0.67,
-  overlap: 1.0,
-  substring_sort: 0.85
-}
-```
-
-### Accents
-
-```elixir
-iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
-%{
-  bag_distance: 0.92,
-  dice_sorensen: 0.83,
-  double_metaphone: 0.0,
-  jaccard: 0.71,
-  jaro_winkler: 0.97,
-  levenshtein: 0.92,
-  metaphone: 0.0,
-  ngram: 0.83,
-  overlap: 0.83,
-  tversky: 0.71
-}
-```
-
 ### Single Algorithms
 
 Use a single algorithm for comparing two strings. The return value is a float.
@@ -283,24 +185,62 @@ iex> Akin.compare_using("tversky", left, right)
 0.4
 ```
 
-### Metaphone
-
-Metaphone and Double Metaphone results can be retrieved directly outside of a comparison.
+#### Retrive phonetic values of a single string.
 
 ```elixir
-iex> Akin.Metaphone.Metaphone.compute("virginia")
-"frjn"
-iex> Akin.Metaphone.Metaphone.compute("woolf")
-"wlf"
-iex> Akin.Metaphone.Metaphone.compute("woolfe")
-"wlf"
-iex> Akin.Metaphone.Double.parse("virginia")
-{"frjn", "frkn"}
-iex> Akin.Metaphone.Double.parse("woolfe") 
-{"alf", "flf"}
+iex> Akin.phonemes("virginia") 
+["frjn", "frkn"]
+iex> Akin.phonemes("beginning")
+["bjnnk", "pjnnk", "pknnk"]
+iex> Akin.phonemes("wonderland")
+["wntrlnt", "antrlnt", "fntrlnt"]
 ```
 
-### n-gram Size
+### Stemming
+
+Compare the stemmed version of two strings.
+
+```elixir
+iex> Akin.compare_stems("write", "writing")
+%{
+  bag_distance: 1.0,
+  sorensen_dice: 1.0,
+  double_metaphone: 1.0,
+  jaccard: 1.0,
+  jaro_winkler: 1.0,
+  levenshtein: 1.0,
+  metaphone: 1.0,
+  ngram: 1.0,
+  overlap: 1.0,
+  tversky: 1.0
+}
+```
+
+### Max 
+
+Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
+Accepts options. 
+
+```elixir
+iex> Akin.max("weird", "wierd")
+[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
+```
+
+```elixir
+iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
+[substring_double_metaphone: 1.0]
+```
+
+```elixir
+iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
+%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
+iex> Akin.max(limited)
+[jaro_winkler: 0.95]
+```
+
+### Options
+
+#### n-gram Size
 
 The default ngram size for the algorithms is 2. You can change by setting 
 a value in opts.
@@ -320,7 +260,7 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 0.0
 ```
 
-### Match Level
+#### Match Level
 
 The default match strictness is "normal" You change it by setting 
 a value in opts. Currently it only affects the outcomes of the `substring_set` and
@@ -339,6 +279,24 @@ iex> Akin.compare_using("double_metaphone", left, right, [level: "weak"])
 1.0
 iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
 0.0
+```
+
+### Accents
+
+```elixir
+iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
+%{
+  bag_distance: 0.92,
+  dice_sorensen: 0.83,
+  double_metaphone: 0.0,
+  jaccard: 0.71,
+  jaro_winkler: 0.97,
+  levenshtein: 0.92,
+  metaphone: 0.0,
+  ngram: 0.83,
+  overlap: 0.83,
+  tversky: 0.71
+}
 ```
 
 ### Name Disambiguation
@@ -458,7 +416,7 @@ A generalization of Sørensen–Dice and Jaccard.
 
 ## In Development
 
-* Document Machine Learning in ReadMe
+* Author Name Disambiguation (see lib/akin/and.ex for developments)
 * Add Damerau-Levenshtein algorithm
   * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau-Levenshtein_distance)
   * [Examples](https://datascience.stackexchange.com/questions/60019/damerau-levenshtein-edit-distance-in-python)
@@ -466,5 +424,3 @@ A generalization of Sørensen–Dice and Jaccard.
   * [Caverphone](https://en.wikipedia.org/wiki/Caverphone)
   * [Research](https://caversham.otago.ac.nz/files/working/ctp150804.pdf)
   * [Example](https://gist.github.com/kastnerkyle/a697d4e762fa8f53c70eea7bc712eead)
-* Compare results to Python's [FuzzyWuzzy](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/) library using [ErlPort](http://erlport.org/)
-* Author Name Disambiguation (see lib/akin/and.ex for developments)

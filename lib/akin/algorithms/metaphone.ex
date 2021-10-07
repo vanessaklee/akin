@@ -4,7 +4,7 @@ defmodule Akin.Metaphone do
   Metaphone) metric of two strings.
   """
   @behaviour Akin.Task
-  import Akin.Metaphone.Metaphone, only: [compute: 1]
+  import Akin.Metaphone.Single, only: [compute: 1]
   import Akin.Util, only: [len: 1, is_alphabetic?: 1]
   import String, only: [first: 1]
   alias Akin.Corpus
