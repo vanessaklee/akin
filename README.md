@@ -15,8 +15,7 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
          * [Accents](#accents)
      * [Single Algorithms](#single-algorithms)
      * [Metaphone](#metaphone)
-     * [Option Examples](#options-examples)
-         * [List Algorithms](#algorithm-subset)
+     * [Using Options](#options-examples)
          * [Max](#max)
          * [Stems](#stemming)
          * [n-gram Size](#n-gram-size)
@@ -211,7 +210,7 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 }
 ```
 
-### Option Examples
+### Using Options
 
 #### Max 
 
@@ -315,43 +314,60 @@ iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", 
 
 ## Algorithms
 
-### Bag Distance
+<details>
+  <summary><u>Bag Distance</u></summary>
 
 The bag distance is a cheap distance measure which always returns a distance smaller or equal to the edit distance. It's meant to be an efficient approximation of the distance between two strings to quickly rule out strings that are largely different.  
+</details>
 
-### Substring Set
+<details>
+  <summary><u>Substring Set</u></summary>
 
 Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
+</details>
 
-### Sørensen–Dice 
+<details>
+  <summary><u>Sørensen–Dice</u></summary>
 
 Sørensen–Dice coefficient is calculated using bigrams. The equation is `2nt / nx + ny` where nx is the number of bigrams in string x, ny is the number of bigrams in string y, and nt is the number of bigrams in both strings. For example, the bigrams of `night` and `nacht` are `{ni,ig,gh,ht}` and `{na,ac,ch,ht}`. They each have four and the intersection is `ht`. 
 
 ``` (2 · 1) / (4 + 4) = 0.25 ```
+</details>
 
-### Hamming Distance
+<details>
+  <summary><u>Hamming Distance</u></u></summary>
 
 Note: Hamming algorithm is not used in an of the comparison functions because it requires the strings being compared are of the same length. It can be called directly, however, so it is still a part of this library.
 
 The Hamming distance between two strings of equal length is the number of positions at which the corresponding letters are different. Returns the percentage of change needed to the left string of the comparison of one string (left) with another string (right). Returns 0.0 if the strings are not the same length. Returns 1.0 if the string are equal.
+</details>
 
-### Jaccard Similarity
+<details>
+  <summary><u>Jaccard Similarity</u></summary>
 
 Calculates the similarity of two strings as the size of the intersection divided by the size of the union. Default ngram: 2.
+</details>
 
-### Jaro-Winkler Similarity
+<details>
+  <summary><u>Jaro-Winkler Similarity</u></summary>
 
 Jaro-Winkler calculates the edit distance between two strings. A score of one denotes equality. Unlike the Jaro Similarity, it modifies the prefix scale to gives a more favorable rating to strings that match from the beginning.
+</details>
 
-### Levenshtein Distance
+<details>
+  <summary><u>Levenshtein Distance</u></summary>
 
 Compare two strings for their Levenshtein score. The score is determined by finding the edit distance: the minimum number of single-character edits needed to change one word into the other. The distance is substracted from 1.0 and then divided by the longest length between the two strings. 
+</details>
 
-### Metaphone 
+<details>
+  <summary><u>Metaphone</u></summary>
 
 Compares two strings by converting each to an approximate phonetic representation in ASCII and then comparing those phoenetic representations. Returns a 1 if the phoentic representations are an exact match.
+</details>
 
-### Double Metaphone 
+<details>
+  <summary><u>Double Metaphone</u></summary>
 
 Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match level: strict, strong, normal (default), or weak. 
 
@@ -359,30 +375,41 @@ Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dad
   * "strong": the primary encoding for each string must match
   * "normal": the primary encoding of one string must match either encoding of other string (default)
   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
+</details>
 
-### Substring Double Metaphone
+<details>
+  <summary><u>Substring Double Metaphone</u></summary>
 
 Iterate over the cartesian product of the two lists sending each element through
 the Double Metaphone using all strictness levels until a true value is found
 in the list of returned booleans from the Double Metaphone algorithm. Return the 
 percentage of true values found. If true is never returned, return 0. Increases  
 accuracy for search terms containing more than one word.
+</details>
 
-### N-Gram Similarity
+<details>
+  <summary><u>N-Gram Similarity</u></summary>
 
 Calculates the ngram distance between two strings. Default ngram: 2.
+</details>
 
-### Overlap Metric
+<details>
+  <summary><u>Overlap Metric</u></summary>
 
 Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
+</details>
 
-### Substring Sort
+<details>
+  <summary><u>Substring Sort</u></summary>
 
 Sorts substrings by words, compares the sorted strings in pairs, and returns the maximum ratio. If one strings is signficantly longer than the other, this method will compare matching substrings only. 
+</details>
 
-### Tversky 
+<details>
+  <summary><u>Tversky</u></summary> 
 
 A generalization of Sørensen–Dice and Jaccard.
+</details>
 
 ## Resources & Credit
 
