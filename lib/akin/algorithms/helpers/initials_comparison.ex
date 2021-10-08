@@ -14,8 +14,8 @@ defmodule Akin.Helpers.InitialsComparison do
 
   # do the inital letters of each string match?
   def similarity(left, right, true) do
-    left_initials = get(left)
-    right_initials = get(right)
+    left_initials = initials(left)
+    right_initials = initials(right)
 
     left_i_count = Enum.count(left_initials)
     right_i_count = Enum.count(right_initials)
@@ -34,13 +34,15 @@ defmodule Akin.Helpers.InitialsComparison do
 
   def similarity(_, _, false), do: false
 
-  defp get(string), do: initials(string)
-
   defp initials(%Corpus{list: lists}) do
     Enum.map(lists, fn list -> String.at(list, 0) end)
   end
 
   defp initials(_), do: []
+
+  defp actual_initials(list) do
+    Enum.filter(list, fn l -> String.length(l) == 1 end)
+  end
 
   def cartesian_initials(initials) do
     cartesian = for c <- 1..Enum.count(initials) do
@@ -81,9 +83,5 @@ defmodule Akin.Helpers.InitialsComparison do
       [Enum.map(ps, fn p -> l <> p end) | acc]
     end)
     |> List.flatten()
-  end
-
-  defp actual_initials(list) do
-    Enum.filter(list, fn l -> String.length(l) == 1 end)
   end
 end

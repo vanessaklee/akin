@@ -11,6 +11,7 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
   1. [Metrics](#metrics)
      * [Compare Strings](#compare-strings)
      * [Options](#options)
+         * [Algorithm Subset](#algorithm_subset)
          * [Max](#max)
          * [Stems](#stemming)
          * [n-gram Size](#n-gram-size)
@@ -56,17 +57,6 @@ iex> Akin.algorithms()
 ["bag_distance", "substring_set", "sorensen_dice", "jaccard", "jaro_winkler", 
 "levenshtein", "metaphone", "double_metaphone", "substring_double_metaphone", "ngram", 
 "overlap", "substring_sort", "tversky"]
-```
-
-Subsets of algorithems 
-
-```elixir
-iex> Akin.algorithms([metric: "phonetic"])
-["metaphone", "double_metaphone", "substring_double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", unit: unit]) 
-["metaphone", "double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", unit: "partial"])
-["substring_double_metaphone"]
 ```
 
 ## Metrics
@@ -128,16 +118,15 @@ Comparison accepts options in a Keyword list.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
-##### Examples
+#### Algorithm Subset
 
 ```elixir
-iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
-%{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
-```
-
-```elixir
-iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
-%{jaccard: 0.67} 
+iex> Akin.algorithms([metric: "phonetic"])
+["metaphone", "double_metaphone", "substring_double_metaphone"]
+iex> Akin.algorithms([metric: "phonetic", unit: unit]) 
+["metaphone", "double_metaphone"]
+iex> Akin.algorithms([metric: "phonetic", unit: "partial"])
+["substring_double_metaphone"]
 ```
 
 #### Max 
@@ -205,6 +194,18 @@ iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_meta
 %{bag_distance: 0.57, double_metaphone: 0.0}
 iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"], stem: true])
 %{bag_distance: 1.0, double_metaphone: 1.0}
+```
+
+##### Additional Examples
+
+```elixir
+iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
+%{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
+```
+
+```elixir
+iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
+%{jaccard: 0.67} 
 ```
 
 ### Preprocessing
