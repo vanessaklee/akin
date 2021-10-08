@@ -130,9 +130,7 @@ Comparison accepts options in a Keyword list.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
-#### List Algorithms
-
-Comparison can request a subset of algorithms.  
+#### Examples
 
 ```elixir
 iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
@@ -142,22 +140,6 @@ iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler",
 ```elixir
 iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
 %{jaccard: 0.67} 
-```
-
-```elixir
-iex> Akin.compare("weird", "wierd")
-%{
-  bag_distance: 1.0,
-  sorensen_dice: 0.25,
-  double_metaphone: 1.0,
-  jaccard: 0.14,
-  jaro_winkler: 0.94,
-  levenshtein: 0.6,
-  metaphone: 1.0,
-  ngram: 0.25,
-  overlap: 0.25,
-  tversky: 0.14
-}
 ```
 
 ### Single Algorithms
@@ -196,81 +178,7 @@ iex> Akin.phonemes("wonderland")
 ["wntrlnt", "antrlnt", "fntrlnt"]
 ```
 
-### Max 
-
-Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
-Accepts options. 
-
-```elixir
-iex> Akin.max("weird", "wierd")
-[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
-```
-
-```elixir
-iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
-[substring_double_metaphone: 1.0]
-```
-
-```elixir
-iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
-%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
-iex> Akin.max(limited)
-[jaro_winkler: 0.95]
-```
-
-### n-gram Size
-
-The default ngram size for the algorithms is 2. You can change by setting 
-a value in opts.
-
-```elixir
-iex> Akin.compare_using("sorensen_dice", "weird", "wierd")
-0.25
-iex> Akin.compare_using("sorensen_dice", "weird", "wierd", [ngram_size: 1])
-0.8
-iex> left = "Alice P. Liddel"
-iex> right = "Liddel, Alice"
-iex> Akin.compare_using("tversky", left, right)
-0.4
-iex> Akin.compare_using("tversky", left, right, [ngram_size: 1])
-0.8
-iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
-0.0
-```
-
-### Match Level
-
-The default match strictness is "normal" You change it by setting 
-a value in opts. Currently it only affects the outcomes of the `substring_set` and
-`double_metaphone` algorithms
-
-```elixir
-iex> left = "Alice in Wonderland"
-iex> right = "Alice's Adventures in Wonderland"
-iex> Akin.compare_using("substring_set", left, right)
-0.64
-iex> Akin.compare_using("substring_set", left, right, [level: "weak"])
-0.85
-iex> left = "which way"
-iex> right = "whitch way"
-iex> Akin.compare_using("double_metaphone", left, right, [level: "weak"])
-1.0
-iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
-0.0
-```
-
-### Stems
-
-Compare the stemmed version of two strings.
-
-```elixir
-iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"]])
-%{bag_distance: 0.57, double_metaphone: 0.0}
-iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"], stem: true])
-%{bag_distance: 1.0, double_metaphone: 1.0}
-```
-
-### Preprocesing
+### Preprocessing
 
 Before being compared, strings are converted to downcase and unicode standard, whitespace is standardized, nontext (like punctuation & emojis) is replaced, and accents are converted. The string is then composed into a struct representing the corpus of data used by the comparison algorithms. 
 
@@ -301,6 +209,82 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
   overlap: 0.83,
   tversky: 0.71
 }
+```
+
+### Option Examples
+
+#### Max 
+
+Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
+Accepts options. 
+
+```elixir
+iex> Akin.max("weird", "wierd")
+[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
+```
+
+```elixir
+iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
+[substring_double_metaphone: 1.0]
+```
+
+```elixir
+iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
+%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
+iex> Akin.max(limited)
+[jaro_winkler: 0.95]
+```
+
+#### n-gram Size
+
+The default ngram size for the algorithms is 2. You can change by setting 
+a value in opts.
+
+```elixir
+iex> Akin.compare_using("sorensen_dice", "weird", "wierd")
+0.25
+iex> Akin.compare_using("sorensen_dice", "weird", "wierd", [ngram_size: 1])
+0.8
+iex> left = "Alice P. Liddel"
+iex> right = "Liddel, Alice"
+iex> Akin.compare_using("tversky", left, right)
+0.4
+iex> Akin.compare_using("tversky", left, right, [ngram_size: 1])
+0.8
+iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
+0.0
+```
+
+#### Match Level
+
+The default match strictness is "normal" You change it by setting 
+a value in opts. Currently it only affects the outcomes of the `substring_set` and
+`double_metaphone` algorithms
+
+```elixir
+iex> left = "Alice in Wonderland"
+iex> right = "Alice's Adventures in Wonderland"
+iex> Akin.compare_using("substring_set", left, right)
+0.64
+iex> Akin.compare_using("substring_set", left, right, [level: "weak"])
+0.85
+iex> left = "which way"
+iex> right = "whitch way"
+iex> Akin.compare_using("double_metaphone", left, right, [level: "weak"])
+1.0
+iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
+0.0
+```
+
+#### Stems
+
+Compare the stemmed version of two strings.
+
+```elixir
+iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"]])
+%{bag_distance: 0.57, double_metaphone: 0.0}
+iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"], stem: true])
+%{bag_distance: 1.0, double_metaphone: 1.0}
 ```
 
 ### Name Disambiguation
