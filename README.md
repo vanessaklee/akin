@@ -7,21 +7,20 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
   <summary>Table of Contents</summary>
   
   1. [Installation](#installation)
-  2. [Metrics](#metrics)
-     * [Algorithms](#algorithms)
+  1. [Algorithms](#algorithms)
+  1. [Metrics](#metrics)
      * [Compare Strings](#compare-strings)
      * [Options](#options)
-     * [Preprocessing](#preprocessing)
-         * [Accents](#accents)
-     * [Single Algorithms](#single-algorithms)
-     * [Metaphone](#metaphone)
-     * [Using Options](#options-examples)
          * [Max](#max)
          * [Stems](#stemming)
          * [n-gram Size](#n-gram-size)
          * [Match Level](#match-level)
+     * [Preprocessing](#preprocessing)
+         * [Accents](#accents)
+     * [Single Algorithms](#single-algorithms)
+     * [Metaphone](#metaphone)
      * [Name Disambiguation](#name-disambiguation)
-  3. [Algorithms](#algorithms)
+  1. [Algorithms](#algorithms)
      * [Bag Distance](#bag-distance)
      * [Substring Set](#substring-set)
      * [Sørensen–Dice](#sørensen–dice)
@@ -36,8 +35,8 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
      * [Overlap Metric](#overlap-metric)
      * [Substring Sort](#substring-sort)
      * [Tversky](#tversky)
-  4. [Resources & Credit](#resources-&-credit)
-  5. [In Development](#in-development)
+  1. [Resources & Credit](#resources-&-credit)
+  1. [In Development](#in-development)
 </details>
 
 ## Installation
@@ -48,9 +47,7 @@ Add a dependency in your mix.exs:
 deps: [{:akin, "~> 1.0"}]
 ```
 
-## Metrics
-
-### Algorithms
+## Algorithms
 
 To see all of the avialable algorithms. Hamming Distance is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
@@ -71,6 +68,8 @@ iex> Akin.algorithms([metric: "phonetic", unit: unit])
 iex> Akin.algorithms([metric: "phonetic", unit: "partial"])
 ["substring_double_metaphone"]
 ```
+
+## Metrics
 
 ### Compare Strings
 
@@ -129,7 +128,7 @@ Comparison accepts options in a Keyword list.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
-#### Examples
+##### Examples
 
 ```elixir
 iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
@@ -140,77 +139,6 @@ iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler",
 iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
 %{jaccard: 0.67} 
 ```
-
-### Single Algorithms
-
-Use a single algorithm for comparing two strings. The return value is a float.
-
-```elixir
-iex> left = "Alice P. Liddel"
-iex> right = "Liddel, Alice"
-iex> Akin.compare_using("jaro_winkler", left, right)
-0.71
-iex> Akin.compare_using("levenshtein", left, right) 
-0.33
-iex> Akin.compare_using("metaphone", left, right)
-0.0
-iex> Akin.compare_using("double_metaphone", left, right)  
-0.0
-iex> Akin.compare_using("substring_double_metaphone", left, right)
-1.0
-iex> Akin.compare_using("substring_set", left, right)
-0.74
-iex> Akin.compare_using("substring_sort", left, right)
-0.97
-iex> Akin.compare_using("tversky", left, right)
-0.4
-```
-
-#### Retrive phonetic values of a single string.
-
-```elixir
-iex> Akin.phonemes("virginia") 
-["frjn", "frkn"]
-iex> Akin.phonemes("beginning")
-["bjnnk", "pjnnk", "pknnk"]
-iex> Akin.phonemes("wonderland")
-["wntrlnt", "antrlnt", "fntrlnt"]
-```
-
-### Preprocessing
-
-Before being compared, strings are converted to downcase and unicode standard, whitespace is standardized, nontext (like punctuation & emojis) is replaced, and accents are converted. The string is then composed into a struct representing the corpus of data used by the comparison algorithms. 
-
-"Alice Liddell" becomes
-```
-%Akin.Corpus{
-  list: ["alice", "liddell"],
-  original: "alice liddell",
-  set: #MapSet<["alice", "liddell"]>,
-  stems: ["alic", "liddel"],
-  string: "aliceliddell"
-}
-```
-
-#### Accents
-
-```elixir
-iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
-%{
-  bag_distance: 0.92,
-  dice_sorensen: 0.83,
-  double_metaphone: 0.0,
-  jaccard: 0.71,
-  jaro_winkler: 0.97,
-  levenshtein: 0.92,
-  metaphone: 0.0,
-  ngram: 0.83,
-  overlap: 0.83,
-  tversky: 0.71
-}
-```
-
-### Using Options
 
 #### Max 
 
@@ -225,13 +153,6 @@ iex> Akin.max("weird", "wierd")
 ```elixir
 iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
 [substring_double_metaphone: 1.0]
-```
-
-```elixir
-iex> limited = Akin.compare("beginning", "begining", ["bag_distance", "jaro_winkler", "levenshtein"], [])
-%{bag_distance: 0.89, jaro_winkler: 0.95, levenshtein: 0.89} 
-iex> Akin.max(limited)
-[jaro_winkler: 0.95]
 ```
 
 #### n-gram Size
@@ -284,6 +205,75 @@ iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_meta
 %{bag_distance: 0.57, double_metaphone: 0.0}
 iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"], stem: true])
 %{bag_distance: 1.0, double_metaphone: 1.0}
+```
+
+### Preprocessing
+
+Before being compared, strings are converted to downcase and unicode standard, whitespace is standardized, nontext (like punctuation & emojis) is replaced, and accents are converted. The string is then composed into a struct representing the corpus of data used by the comparison algorithms. 
+
+"Alice Liddell" becomes
+```
+%Akin.Corpus{
+  list: ["alice", "liddell"],
+  original: "alice liddell",
+  set: #MapSet<["alice", "liddell"]>,
+  stems: ["alic", "liddel"],
+  string: "aliceliddell"
+}
+```
+
+#### Accents
+
+```elixir
+iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
+%{
+  bag_distance: 0.92,
+  dice_sorensen: 0.83,
+  double_metaphone: 0.0,
+  jaccard: 0.71,
+  jaro_winkler: 0.97,
+  levenshtein: 0.92,
+  metaphone: 0.0,
+  ngram: 0.83,
+  overlap: 0.83,
+  tversky: 0.71
+}
+```
+
+### Single Algorithms
+
+Use a single algorithm for comparing two strings. The return value is a float.
+
+```elixir
+iex> left = "Alice P. Liddel"
+iex> right = "Liddel, Alice"
+iex> Akin.compare_using("jaro_winkler", left, right)
+0.71
+iex> Akin.compare_using("levenshtein", left, right) 
+0.33
+iex> Akin.compare_using("metaphone", left, right)
+0.0
+iex> Akin.compare_using("double_metaphone", left, right)  
+0.0
+iex> Akin.compare_using("substring_double_metaphone", left, right)
+1.0
+iex> Akin.compare_using("substring_set", left, right)
+0.74
+iex> Akin.compare_using("substring_sort", left, right)
+0.97
+iex> Akin.compare_using("tversky", left, right)
+0.4
+```
+
+#### Retrive phonetic values of a single string.
+
+```elixir
+iex> Akin.phonemes("virginia") 
+["frjn", "frkn"]
+iex> Akin.phonemes("beginning")
+["bjnnk", "pjnnk", "pknnk"]
+iex> Akin.phonemes("wonderland")
+["wntrlnt", "antrlnt", "fntrlnt"]
 ```
 
 ### Name Disambiguation
