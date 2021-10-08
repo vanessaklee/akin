@@ -64,6 +64,25 @@ defmodule UtilTest do
     assert ngram_tokenize(nil) == []
   end
 
+  test "Naughty strings don't cause trouble" do
+    naughty_strings = ["undefined", "True", "false", "None", "hasKeys?", "then", "$1.00", "1E+02", "1/0", "-2147483648/-1", "NaN", "infinity", "<>?:\"{}|_+", "¡™£¢∞§¶•ªº–≠", "⁰⁴⁵₀₁₂", "表ポあA鷗ŒéＢ逍Üßªąñ丂㐀𠀀", "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ", "👨🏿‍🦰💌 💙💪🏿👩‍👩‍👧 🆒 🏧7️⃣", "בְּרֵאשִׁית, בָּרָא אֱלֹהִים", "﷽", "k̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩", "lɐ ɐuƃɐɯ ǝɹolo", "𝒓𝒐𝒘𝒏 𝒇𝒐𝒙 𝒋", "<script>alert(0)</script>"]
+
+    Enum.each(naughty_strings, fn ns ->
+      assert check_struct(compose(ns))
+    end)
+
+    a = "Alice"
+    Enum.each(naughty_strings, fn ns ->
+      assert Akin.compare(a, ns)
+    end)
+  end
+
+  test "Integers don't cause trouble" do
+    Enum.each(1..10, fn x ->
+      assert compose(x) |> is_nil()
+    end)
+  end
+
   describe "The ngram_size is returned correctly" do
     setup do
       %{default: Keyword.get(Akin.default_opts(), :ngram_size)}
@@ -132,4 +151,7 @@ defmodule UtilTest do
       assert opts([], :match_at) == cxt.default
     end
   end
+
+  defp check_struct(%Corpus{}), do: true
+  defp check_struct(_), do: false
 end

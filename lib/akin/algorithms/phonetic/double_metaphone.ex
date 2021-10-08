@@ -873,6 +873,8 @@ defmodule Akin.Metaphone.Double do
   - "normal": the primary encoding of one string must match either encoding of other string (default)
   - "weak":   either primary or secondary encoding of one string must match one encoding of other string
   """
+  def substring_compare(left, right, _opts) when left == [] or right == [], do: 0
+
   def substring_compare(left, right, _opts) when is_list(left) and is_list(right) do
     Enum.reduce_while(["strict", "strong", "normal", "weak"], 0, fn level, acc ->
       scores =
@@ -880,6 +882,7 @@ defmodule Akin.Metaphone.Double do
           Akin.Metaphone.Double.compare(l, r, level)
         end
       size = Enum.min([Enum.count(left), Enum.count(right)])
+
       Enum.count(scores, fn s -> s == true end)/size
       |> case do
         score when score > 0 -> {:halt, score}

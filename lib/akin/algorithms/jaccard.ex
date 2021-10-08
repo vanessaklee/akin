@@ -32,6 +32,7 @@ defmodule Akin.Jaccard do
       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
+
     nmatches = left_ngrams |> intersect(right_ngrams) |> length
     nmatches / (length(left_ngrams) + length(right_ngrams) - nmatches)
   end

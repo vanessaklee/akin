@@ -24,7 +24,7 @@ defmodule Akin.Util do
   @spec compose(binary(), binary()) :: list()
   @spec compose(binary()) :: struct() | nil
   @doc """
-  Convert string to downcase and unicode standard, standardize whitespace, replace nontext (like emojis), replace punctuation, and convert accents. Then compose a string into a corpus of values for disambiguation.
+  Convert string to downcase and unicode standard, standardize whitespace, replace nontext (like emojis), replace punctuation, and convert accents. Then compose a string into a corpus of values for disambiguation. Returns nil when given non-binary.
   )
   """
   def compose(left, right) when is_binary(left) and is_binary(right) do
@@ -133,7 +133,12 @@ defmodule Akin.Util do
     intersect(String.codepoints(left), String.codepoints(right))
   end
 
-  def intersect(left, right), do: intersect(left, right, length(left), length(right), [])
+  def intersect(left, right) when is_list(left) and is_list(right) do
+    intersect(left, right, length(left), length(right), [])
+  end
+
+  def intersect(_, _), do: []
+
   defp intersect(_, _, s1, s2, acc) when s1 == 0 or s2 == 0, do: acc
 
   defp intersect(left, right, s1, s2, acc) do
@@ -237,7 +242,7 @@ defmodule Akin.Util do
   def ngram_tokenize(characters, n) do
     case n <= 0 || length(characters) < n do
       true ->
-        nil
+        []
 
       false ->
         characters

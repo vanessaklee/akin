@@ -33,8 +33,8 @@ defmodule Akin.SorensenDice do
 
   defp perform(left, right, ngram_size)
       when is_integer(ngram_size) do
-    left_ngrams = left |> ngram_tokenize(ngram_size)
-    right_ngrams = right |> ngram_tokenize(ngram_size)
+    left_ngrams = (left |> ngram_tokenize(ngram_size))
+    right_ngrams = (right |> ngram_tokenize(ngram_size))
     nmatches = intersect(left_ngrams, right_ngrams) |> length
 
     2 * nmatches / (length(left_ngrams) + length(right_ngrams))
