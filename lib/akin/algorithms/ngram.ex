@@ -5,7 +5,7 @@ defmodule Akin.Ngram do
   [paper](webdocs.cs.ualberta.ca/~kondrak/papers/spire05.pdf)
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]
   alias Akin.Corpus
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
@@ -21,7 +21,7 @@ defmodule Akin.Ngram do
     0.7142857142857143
   """
   def compare(%Corpus{} = left, %Corpus{} = right, opts \\ []) do
-    perform(left, right, ngram_size(opts))
+    perform(left, right, opts(opts, :ngram_size))
   end
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)

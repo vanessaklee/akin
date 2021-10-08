@@ -26,7 +26,7 @@ defmodule Akin.SubstringSet do
   * "weak" returns maximum ratio
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [level: 1]
+  import Akin.Util, only: [opts: 2]
   alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
 
 
@@ -41,12 +41,12 @@ defmodule Akin.SubstringSet do
 
     case Strategy.determine(l_string, r_string) do
       :standard ->
-        similarity(l_set, r_set) |> score(level(opts))
+        similarity(l_set, r_set) |> score(opts(opts, :level))
 
       {:substring, scale} ->
         score =
           substring_similarity(l_set, r_set)
-          |> score(level(opts))
+          |> score(opts(opts, :level))
 
         score * @bias * scale
 

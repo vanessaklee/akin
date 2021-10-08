@@ -10,7 +10,7 @@ defmodule Akin.ML do
     |> Enum.each(fn row ->
       [left, right, match] = String.split(row, "\t")
 
-      case Akin.match_names_metrics(left, [right], [boost_initials: true]) do
+      case Akin.match_names_metrics(left, [right]) do
         [%{left: _, right: _, metrics: scores, match: _}] ->
           # names = l <> " <- (" <> to_string(m) <> ") -> " <> r
           match = if match == "1", do: "match", else: "non-match"
@@ -58,7 +58,7 @@ defmodule Akin.ML do
       c = String.replace(c, "_", " ")
       d = String.replace(d, "_", " ")
 
-      Akin.match_names_metrics(b, [a, c, d], [boost_initials: true])
+      Akin.match_names_metrics(b, [a, c, d])
       |> Enum.each(fn %{left: l, right: r, metrics: s, match: m} ->
         names = l <> " <- (" <> to_string(m) <> ") -> " <> r
         scores = Enum.into(s, %{})

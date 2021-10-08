@@ -23,7 +23,7 @@ defmodule UtilTest do
     assert right.string == Enum.join(list)
     assert right.list == [a, b, c]
     assert right.stems == [Stemmer.stem(a), Stemmer.stem(b), Stemmer.stem("łepicki")]
-    assert compose(nil, nil) == nil
+    assert compose(nil, nil) == []
   end
 
   test "Can determine if a string is alphabetic" do
@@ -70,14 +70,14 @@ defmodule UtilTest do
     end
 
     test "The n_gram size is correct when option list contains an ngram_size value", cxt do
-      assert ngram_size(Akin.default_opts()) == cxt.default
-      assert ngram_size([ngram_size: 3]) == 3
+      assert opts(Akin.default_opts(), :ngram_size) == cxt.default
+      assert opts([ngram_size: 3], :ngram_size) == 3
     end
 
     test "The n_gram size is default size when not present", cxt do
-      assert ngram_size(nil) == cxt.default
-      assert ngram_size([not_ngram_size: 3]) == cxt.default
-      assert ngram_size([]) == cxt.default
+      assert opts(nil, :ngram_size) == cxt.default
+      assert opts([not_ngram_size: 3], :ngram_size) == cxt.default
+      assert opts([], :ngram_size) == cxt.default
     end
   end
 
@@ -87,14 +87,15 @@ defmodule UtilTest do
     end
 
     test "The short_length size is correct when option list contains an short_length value", cxt do
-      assert short_length(Akin.default_opts()) == cxt.default
-      assert short_length([short_length: 10]) == 10
+      assert opts(Akin.default_opts(), :short_length) == cxt.default
+      assert opts([short_length: 10], :short_length) == 10
     end
 
     test "The short_length size is default size when not present", cxt do
-      assert short_length(nil) == cxt.default
-      assert short_length([not_short_length: 3]) == cxt.default
-      assert short_length([]) == cxt.default
+      assert opts(nil, :short_length) == cxt.default
+      assert opts(nil, nil) == nil
+      assert opts([not_short_length: 3], :short_length) == cxt.default
+      assert opts([], :short_length) == cxt.default
     end
   end
 
@@ -104,14 +105,14 @@ defmodule UtilTest do
     end
 
     test "The level size is correct when option list contains an level value", cxt do
-      assert level(Akin.default_opts()) == cxt.default
-      assert level([level: 10]) == 10
+      assert opts(Akin.default_opts(), :level) == cxt.default
+      assert opts([level: 10], :level) == 10
     end
 
     test "The level size is default size when not present", cxt do
-      assert level(nil) == cxt.default
-      assert level([not_level: 3]) == cxt.default
-      assert level([]) == cxt.default
+      assert opts(nil, :level) == cxt.default
+      assert opts([not_level: 3], :level) == cxt.default
+      assert opts([], :level) == cxt.default
     end
   end
 
@@ -121,21 +122,14 @@ defmodule UtilTest do
     end
 
     test "The match_at size is correct when option list contains an match_at value", cxt do
-      assert match_at(Akin.default_opts()) == cxt.default
-      assert match_at([match_at: 10]) == 10
+      assert opts(Akin.default_opts(), :match_at) == cxt.default
+      assert opts([match_at: 10], :match_at) == 10
     end
 
     test "The level size is default size when not present", cxt do
-      assert match_at(nil) == cxt.default
-      assert match_at([not_match_at: 3]) == cxt.default
-      assert match_at([]) == cxt.default
-    end
-  end
-
-  describe "The boost_initials is returned correctly" do
-    test "The boost_initials size is correct when option list contains an boost_initials value" do
-      assert boost_initials?([]) == false
-      assert boost_initials?([boost_initials: true]) == true
+      assert opts(nil, :match_at) == cxt.default
+      assert opts([not_match_at: 3], :match_at) == cxt.default
+      assert opts([], :match_at) == cxt.default
     end
   end
 end

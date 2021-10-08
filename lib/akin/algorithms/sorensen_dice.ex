@@ -3,7 +3,7 @@ defmodule Akin.SorensenDice do
   This module contains functions to calculate the Sorensen-Dice coefficient of two strings.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]
   alias Akin.Corpus
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
@@ -21,7 +21,7 @@ defmodule Akin.SorensenDice do
     0.0
   """
   def compare(%Corpus{string: left}, %Corpus{string: right}, opts \\ []) do
-    perform(left, right, ngram_size(opts))
+    perform(left, right, opts(opts, :ngram_size))
   end
 
   defp perform(left, right, ngram_size)

@@ -22,7 +22,6 @@ defmodule AkinTest do
       "levenshtein",
       "jaro_winkler",
       "jaccard",
-      "hamming",
       "tversky",
       "sorensen_dice",
       "substring_set",
@@ -30,7 +29,7 @@ defmodule AkinTest do
       "overlap",
       "ngram"
     ]
-    assert whole_string == ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "hamming", "tversky", "sorensen_dice"]
+    assert whole_string == ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "tversky", "sorensen_dice"]
     assert partial_string == ["substring_set", "substring_sort", "overlap", "ngram"]
   end
 
@@ -39,12 +38,9 @@ defmodule AkinTest do
     a_set = algorithms([algorithms: a])
     b = ["overlap", "substring_double_metaphone"]
     b_set = algorithms([algorithms: b])
-    c = ["hamming"]
-    c_set = algorithms([algorithms: ["hamming"]])
 
     assert a_set == a
     assert b_set == b
-    assert c_set == c
   end
 
   test "comparing two exact strings returns all 1.0 values" do
@@ -57,19 +53,9 @@ defmodule AkinTest do
     assert match_names("alice", ["alice"]) == ["alice"]
   end
 
-  test "comparing a name with inials against a list of names in which a name matching those initials, gets a boost" do
-    result_without = match_names("a liddell", ["alice liddell"])
-    opts = Keyword.put(Akin.default_opts(), :boost_initials, true)
-    results_with = match_names("a liddell", ["alice liddell"], opts)
-
-    assert result_without == []
-    assert results_with == ["alice liddell"]
-  end
-
   test "comparing a name with initials matches names with all of those initials match" do
-    opts = Keyword.put(Akin.default_opts(), :boost_initials, true)
     names_to_match = ["a liddell", "alice liddel", "alice p liddell", "a pleasance liddell", "ap liddell", "alice b liddell"]
-    results = match_names("a p liddell", names_to_match, opts)
+    results = match_names("a p liddell", names_to_match)
 
     expected = names_to_match -- ["alice b liddell"]
 

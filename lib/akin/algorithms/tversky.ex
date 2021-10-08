@@ -4,7 +4,7 @@ defmodule Akin.Tversky do
   between two strings.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]
   alias Akin.Corpus
 
   @default_alpha 1
@@ -25,7 +25,7 @@ defmodule Akin.Tversky do
     0.5555555555555556
   """
   def compare(%Corpus{} = left, %Corpus{} = right, opts \\ []) do
-    perform(left, right, ngram_size(opts))
+    perform(left, right, opts(opts, :ngram_size))
   end
 
   @spec compare(%Corpus{}, %Corpus{}, integer()) :: float()

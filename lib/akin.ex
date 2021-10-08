@@ -2,39 +2,30 @@ defmodule Akin do
   @moduledoc """
   Compare two strings for similarity. Options accepted in a keyword list (i.e. [ngram_size: 3]).
 
-  1. `ngram_size` - number of contiguous letters to split strings into for comparison; used in Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky algorithm. Default is 2.
-  2. `level` - threshold for matching used in double metaphone algorithm. Default is "normal".
-    * "strict": both encodings for each string must match
-    * "strong": the primary encoding for each string must match
-    * "normal": the primary encoding of one string must match either encoding of other string (default)
-    * "weak":   either primary or secondary encoding of one string must match one encoding of other string
-  3. `short_length`: only strings with a length greater than the `short_length` are analyzed by the algorithms which perform more accurately with long strings. Used by Sorensen-Dice, Jaccard, NGram, Overlap, and Tversky. Default is 8.
-  4. `match_at`:
+  1. `algorithms`: algorithms to use in comparision. Accepts the name or a keyword list. Default is algorithms/0.
+      1. `metric` - algorithm metric. Default is both
+        - "string": uses string algorithms
+        - "phonetic": uses phonetic algorithms
+      1. `unit` - algorithm unit. Default is both.
+        - "whole": uses algorithms best suited for whole string comparison (distance)
+        - "partial": uses algorithms best suited for partial string comparison (substring)
+  1. `level` - level for double phonetic matching. Default is "normal".
+      - "strict": both encodings for each string must match
+      - "strong": the primary encoding for each string must match
+      - "normal": the primary encoding of one string must match either encoding of other string (default)
+      - "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  1. `match_at`: an algorith score equal to or above this value is condsidered a match. Default is 0.9
+  1. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
+  1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
+  1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
   """
-  import Akin.Util, only: [modulize: 1, compose: 1, match_at: 1, short_length: 1, len: 1]
+  import Akin.Util, only: [list_algorithms: 0, list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
   alias Akin.Corpus
-  alias Akin.NamesMetric
+  alias Akin.Names
 
   NimbleCSV.define(CSVParse, separator: "\t")
 
   @opts [ngram_size: 2, level: "normal", short_length: 8, match_at: 0.9]
-
-  @algorithms [
-    "bag_distance",
-    "substring_set",
-    "sorensen_dice",
-    "hamming",
-    "jaccard",
-    "jaro_winkler",
-    "levenshtein",
-    "metaphone",
-    "double_metaphone",
-    "substring_double_metaphone",
-    "ngram",
-    "overlap",
-    "substring_sort",
-    "tversky"
-  ]
 
   @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
@@ -45,7 +36,13 @@ defmodule Akin do
   def compare(left, right, opts \\ @opts)
 
   def compare(left, right, opts) when is_binary(left) and is_binary(right) do
-    compare(compose(left), compose(right), opts)
+    if opts(opts, :stem) do
+      left = compose(left).stems |> Enum.join(" ")
+      right = compose(right).stems |> Enum.join(" ")
+      compare(compose(left), compose(right), opts)
+    else
+      compare(compose(left), compose(right), opts)
+    end
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) do
@@ -61,18 +58,6 @@ defmodule Akin do
     end)
     |> Enum.map(fn {k, v} -> {String.to_atom(k), r(v)} end)
     |> Enum.into(%{})
-  end
-
-  @spec compare_stems(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
-  @doc """
-  Compare two strings after stemming. Return map of algorithm. Options accepted as a keyword list.
-  """
-  def compare_stems(left, right, opts \\ @opts)
-
-  def compare_stems(left, right, opts) when is_binary(left) and is_binary(right) do
-    left = compose(left).stems |> Enum.join()
-    right = compose(right).stems |> Enum.join()
-    compare(left, right, opts)
   end
 
   @spec compare_using(binary(), binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
@@ -121,9 +106,9 @@ defmodule Akin do
 
   def match_names(%Corpus{} = left, rights, opts) do
     Enum.reduce(rights, [], fn right, acc ->
-      case NamesMetric.compare(left, right, opts) do
+      case Names.compare(left, right, opts) do
         %{scores: scores} ->
-          if Enum.any?(scores, fn {_algo, score} -> score > match_at(opts) end) do
+          if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
             [right.original | acc]
           else
             acc
@@ -142,9 +127,9 @@ defmodule Akin do
 
   def match_names_metrics(left, rights, opts) when is_binary(left) and is_list(rights) do
     Enum.reduce(rights, [], fn right, acc ->
-      case NamesMetric.compare(left, right, opts) do
+      case Names.compare(left, right, opts) do
         %{scores: scores} ->
-          if Enum.any?(scores, fn {_algo, score} -> score > match_at(opts) end) do
+          if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
             [%{left: left, right: right, metrics: scores, match: 1}  | acc]
           else
             [%{left: left, right: right, metrics: scores, match: 0}  | acc]
@@ -160,10 +145,10 @@ defmodule Akin do
   double metaphone algorithms.
   """
   def phonemes(string) when is_binary(string) do
-    phonemes(compose(string))
+    phonemes(compose(string), string)
   end
 
-  def phonemes(%Corpus{string: string}) do
+  defp phonemes(%Corpus{string: string}, _original_string) do
     single = Akin.Metaphone.Single.compute(string)
     double = Akin.Metaphone.Double.parse(string) |> Tuple.to_list()
     [single | double]
@@ -171,68 +156,17 @@ defmodule Akin do
     |> Enum.uniq()
   end
 
-  @spec algorithms() :: list()
-  @spec algorithms(list() | Keyword.t()) :: list()
-  @spec algorithms(binary(), binary(), list()) :: list()
   @doc """
   Return the default option values
   """
   def default_opts, do: @opts
 
   @doc """
-  Return a list of algorithms.
-
-  Accepts a list of algorithm names or a keyword list of options. Default returns all available.
-
-  | Options |          |            | Default |
-  | ------- | -------- | ---------- | ------- |
-  | metric  | "string" | "phonetic" | both    |
-  | unit    | "whole"  | "partial"    | both    |
-
+  List of algorithms available for us in making comparisons.
   """
-  def algorithms(), do: @algorithms
+  def algorithms(), do: list_algorithms()
 
-  def algorithms(opts) when is_list(opts) do
-    metric = Keyword.get(opts, :metric)
-    unit = Keyword.get(opts, :unit)
-    algorithms = Keyword.get(opts, :algorithms) || []
-
-    algorithms(metric, unit, algorithms)
-  end
-
-  def algorithms(_), do: @algorithms
-
-  defp algorithms("string", "whole", []) do
-    ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "hamming", "tversky", "sorensen_dice"]
-  end
-
-  defp algorithms("string", "partial", []) do
-    ["substring_set", "substring_sort", "overlap", "ngram"]
-  end
-
-  defp algorithms("string", _, []) do
-    algorithms("string", "whole", []) ++ algorithms("string", "partial", [])
-  end
-
-  defp algorithms("phonetic", "whole", []) do
-    ["metaphone", "double_metaphone"]
-  end
-
-  defp algorithms("phonetic", "partial", []) do
-    ["substring_double_metaphone"]
-  end
-
-  defp algorithms("phonetic", _, []) do
-    algorithms("phonetic", "whole", []) ++ algorithms("phonetic", "partial", [])
-  end
-
-  defp algorithms(_, _, []) do
-    @algorithms -- ["hamming"]
-  end
-
-  defp algorithms(_, _, algorithms) when is_list(algorithms) do
-    Enum.filter(algorithms, fn a -> a in @algorithms end)
-  end
+  def algorithms(opts), do: list_algorithms(opts)
 
   @doc """
   Round data types that can be rounded to 2 decimal points.

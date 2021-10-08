@@ -12,7 +12,7 @@ defmodule Orcid do
       c = String.replace(c, "_", " ")
       d = String.replace(d, "_", " ")
 
-      Akin.match_names_metrics(b, [a, c, d], [boost_initials: true])
+      Akin.match_names_metrics(b, [a, c, d])
       |> Enum.each(fn m -> to_csv(m) end)
     end)
   end

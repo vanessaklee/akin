@@ -19,7 +19,7 @@ defmodule Akin.Hamming do
 
     iex> Akin.Hamming.compare(%Akin.Corpus{string: "toned"}, %Akin.Corpus{string: "roses"}, [])
     0.6
-    iex> Akin.Hamming.compare(%Akin.Corpus{string: "toned"}, %Akin.Corpus{string: "hamming"}, [])
+    iex> Akin.Hamming.compare(%Akin.Corpus{string: "toned"}, %Akin.Corpus{string: "peanut"}, [])
     nil
     iex> Akin.Hamming.compare(%Akin.Corpus{string: "toned"}, %Akin.Corpus{string: "toned"}, [])
     0.0

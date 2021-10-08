@@ -3,7 +3,7 @@ defmodule Akin.Jaccard do
   This module contains functions to calculate the Jaccard similarity between two strings
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [ngram_tokenize: 2, ngram_size: 1, intersect: 2]
+  import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]
   alias Akin.Corpus
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
@@ -18,7 +18,7 @@ defmodule Akin.Jaccard do
     0.5555555555555556
   """
   def compare(left, right, opts \\ []) when is_list(opts) do
-    perform(left, right, ngram_size(opts))
+    perform(left, right, opts(opts, :ngram_size))
   end
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, n)

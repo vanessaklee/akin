@@ -5,7 +5,7 @@ defmodule Akin.DoubleMetaphone do
   [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html).
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [level: 1]
+  import Akin.Util, only: [opts: 2]
   alias Akin.Corpus
   alias Akin.Metaphone.Double
 
@@ -16,7 +16,7 @@ defmodule Akin.DoubleMetaphone do
   def compare(left, right, opts \\ [])
 
   def compare(%Corpus{string: left}, %Corpus{string: right}, opts) do
-    if Double.compare(left, right, level(opts)), do: 1.0, else: 0.0
+    if Double.compare(left, right, opts(opts, :level)), do: 1.0, else: 0.0
   end
 
   def compare(_, _, _), do: 0.0

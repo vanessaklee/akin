@@ -11,10 +11,9 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
      * [Algorithms](#algorithms)
      * [Compare Strings](#compare-strings)
      * [Options](#options)
-     * [Algorithms Subset](#algorithm-subset)
-     * [Stemming](#stemming)
+     * [Algorithm Subset](#algorithm-subset)
      * [Max](#max)
-     * [Smart Compare](#smart-compare)
+     * [Stems](#stemming)
      * [Accents](#accents)
      * [Single Algorithms](#single-algorithms)
      * [Metaphone](#metaphone)
@@ -52,18 +51,16 @@ deps: [{:akin, "~> 1.0"}]
 
 ### Algorithms
 
-To see all of the avialable algorithms:
+To see all of the avialable algorithms. Hamming Distance is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
 iex> Akin.algorithms()
-["bag_distance", "substring_set", "sorensen_dice", "hamming", "jaccard", "jaro_winkler", 
+["bag_distance", "substring_set", "sorensen_dice", "jaccard", "jaro_winkler", 
 "levenshtein", "metaphone", "double_metaphone", "substring_double_metaphone", "ngram", 
 "overlap", "substring_sort", "tversky"]
 ```
 
 Subsets of algorithems 
-
-Hamming Distance is always excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
 iex> Akin.algorithms([metric: "phonetic"])
@@ -121,14 +118,15 @@ Comparison accepts options in a Keyword list.
       1. `unit` - algorithm unit. Default is both.
         - "whole": uses algorithms best suited for whole string comparison (distance)
         - "partial": uses algorithms best suited for partial string comparison (substring)
-  1. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
-  1. `match_at`: an algorith scoare equal to or above this value is condsidered a match. Default is 0.9
   1. `level` - level for double phonetic matching. Default is "normal".
       - "strict": both encodings for each string must match
       - "strong": the primary encoding for each string must match
       - "normal": the primary encoding of one string must match either encoding of other string (default)
       - "weak":   either primary or secondary encoding of one string must match one encoding of other string
+  1. `match_at`: an algorith score equal to or above this value is condsidered a match. Default is 0.9
+  1. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
+  1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
 ### Algorithms Subset
 
@@ -196,26 +194,6 @@ iex> Akin.phonemes("wonderland")
 ["wntrlnt", "antrlnt", "fntrlnt"]
 ```
 
-### Stemming
-
-Compare the stemmed version of two strings.
-
-```elixir
-iex> Akin.compare_stems("write", "writing")
-%{
-  bag_distance: 1.0,
-  sorensen_dice: 1.0,
-  double_metaphone: 1.0,
-  jaccard: 1.0,
-  jaro_winkler: 1.0,
-  levenshtein: 1.0,
-  metaphone: 1.0,
-  ngram: 1.0,
-  overlap: 1.0,
-  tversky: 1.0
-}
-```
-
 ### Max 
 
 Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
@@ -281,6 +259,17 @@ iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
 0.0
 ```
 
+### Stems
+
+Compare the stemmed version of two strings.
+
+```elixir
+iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"]])
+%{bag_distance: 0.57, double_metaphone: 0.0}
+iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_metaphone"], stem: true])
+%{bag_distance: 1.0, double_metaphone: 1.0}
+```
+
 ### Accents
 
 ```elixir
@@ -305,27 +294,21 @@ _UNDER DEVELOPMENT_
 
 Identity is the challenge of author name disambiguation (AND). The aim of AND is to match an author's name to that author when the author appears in a list of many authors. Complexity arises from homonymity (many people with the same name) and synonymity (when one person uses different forms/spellings of their name in publications). 
 
-Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names, find and return the matches for the author in the list. 
-
-This method manages a name with initials. If the left string includes initials, the name may have a lower score when compared to the full name if it exists in the right string. Therefore there is an option available to the name matching method to compare initials: [boost_initials: true].
-
-If the option is set and initials exist in the left name, a separate comparison is performed for the initals and the sets of the right string. There must be an exact match of each initial against the first character of one of the sets.
-
-Hamming Distance algorithm is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
+Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names, find and return the matches for the author in the list. If initials exist in the left name, a separate comparison is performed for the initals and the sets of the right string.
 
 If the comparison metrics produce a score greater than or equal to 0.9, they considered a match and returned in the list.
 
 ```elixir
 iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
 ["v woolfe", "v woolf"]
-iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"], [boost_initials: true])
+iex> Akin.match_names("V. Woolf", ["V Woolf", "V Woolfe", "Virginia Woolf", "V White", "Viginia Wolverine", "Virginia Woolfe"])
 ["virginia woolfe", "v woolf"]
 ```
 
 This may not be what you want. There are likely to be unwanted matches.
 
 ```elixir
-iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", "V Woolf", "Virginia Woolfe"], [boost_initials: true])
+iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", "V Woolf", "Virginia Woolfe"])
 ["v woolf", "virginia woolf", "victor woolf"]
 ```
 
