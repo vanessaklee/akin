@@ -11,14 +11,16 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
      * [Algorithms](#algorithms)
      * [Compare Strings](#compare-strings)
      * [Options](#options)
-     * [Algorithm Subset](#algorithm-subset)
-     * [Max](#max)
-     * [Stems](#stemming)
-     * [Accents](#accents)
+     * [Preprocessing](#preprocessing)
+         * [Accents](#accents)
      * [Single Algorithms](#single-algorithms)
      * [Metaphone](#metaphone)
-     * [n-gram Size](#n-gram-size)
-     * [Match Level](#match-level)
+     * [Option Examples](#options-examples)
+         * [List Algorithms](#algorithm-subset)
+         * [Max](#max)
+         * [Stems](#stemming)
+         * [n-gram Size](#n-gram-size)
+         * [Match Level](#match-level)
      * [Name Disambiguation](#name-disambiguation)
   3. [Algorithms](#algorithms)
      * [Bag Distance](#bag-distance)
@@ -128,7 +130,7 @@ Comparison accepts options in a Keyword list.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
-### Algorithms Subset
+#### List Algorithms
 
 Comparison can request a subset of algorithms.  
 
@@ -216,9 +218,7 @@ iex> Akin.max(limited)
 [jaro_winkler: 0.95]
 ```
 
-### Options
-
-#### n-gram Size
+### n-gram Size
 
 The default ngram size for the algorithms is 2. You can change by setting 
 a value in opts.
@@ -238,7 +238,7 @@ iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
 0.0
 ```
 
-#### Match Level
+### Match Level
 
 The default match strictness is "normal" You change it by setting 
 a value in opts. Currently it only affects the outcomes of the `substring_set` and
@@ -270,7 +270,22 @@ iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_meta
 %{bag_distance: 1.0, double_metaphone: 1.0}
 ```
 
-### Accents
+### Preprocesing
+
+Before being compared, strings are converted to downcase and unicode standard, whitespace is standardized, nontext (like punctuation & emojis) is replaced, and accents are converted. The string is then composed into a struct representing the corpus of data used by the comparison algorithms. 
+
+"Alice Liddell" becomes
+```
+%Akin.Corpus{
+  list: ["alice", "liddell"],
+  original: "alice liddell",
+  set: #MapSet<["alice", "liddell"]>,
+  stems: ["alic", "liddel"],
+  string: "aliceliddell"
+}
+```
+
+#### Accents
 
 ```elixir
 iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
