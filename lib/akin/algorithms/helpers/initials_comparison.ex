@@ -20,8 +20,12 @@ defmodule Akin.Helpers.InitialsComparison do
     left_i_count = Enum.count(left_initials)
     right_i_count = Enum.count(right_initials)
 
-    left_c_intials = cartesian_initials(left_initials) |> List.flatten() |> Enum.uniq()
-    right_c_intials = cartesian_initials(right_initials) |> List.flatten() |> Enum.uniq()
+    left_c_intials = cartesian_initials(left_initials, left.list)
+      |> List.flatten()
+      |> Enum.uniq()
+    right_c_intials = cartesian_initials(right_initials, right.list)
+      |> List.flatten()
+      |> Enum.uniq()
 
     case {left_i_count, right_i_count} do
       {li, ri} when li == ri -> left_initials == right_initials
@@ -44,13 +48,14 @@ defmodule Akin.Helpers.InitialsComparison do
     Enum.filter(list, fn l -> String.length(l) == 1 end)
   end
 
-  def cartesian_initials(initials) do
+  def cartesian_initials(initials, list) do
     cartesian = for c <- 1..Enum.count(initials) do
         ngram_tokenize(Enum.join(initials, ""), c)
       end
       |> List.flatten()
 
-    cartesian -- initials |> Enum.uniq()
+    c = [cartesian | list] |> List.flatten() |> Enum.uniq()
+    c -- initials
   end
 
   defp cartesian_match(true, _, _), do: true
@@ -74,7 +79,7 @@ defmodule Akin.Helpers.InitialsComparison do
 
     Enum.filter(left_permuations, fn lp -> lp in right_permuations end)
     |> Enum.count()
-    |> Kernel.>(0)
+    |> Kernel.>(1)
   end
 
   defp get_permuations(list) do

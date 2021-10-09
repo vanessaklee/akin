@@ -118,7 +118,7 @@ defmodule Akin do
     end)
   end
 
-  @spec match_names_metrics(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @spec match_names_metrics(binary(), list(), keyword()) :: float()
   @doc """
   Compare a string against a list of strings. Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match and their algorithm metrics.
@@ -127,16 +127,35 @@ defmodule Akin do
 
   def match_names_metrics(left, rights, opts) when is_binary(left) and is_list(rights) do
     Enum.reduce(rights, [], fn right, acc ->
-      case Names.compare(left, right, opts) do
-        %{scores: scores} ->
-          if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
-            [%{left: left, right: right, metrics: scores, match: 1}  | acc]
-          else
-            [%{left: left, right: right, metrics: scores, match: 0}  | acc]
-          end
-        _ -> acc
+      %{left: left, right: right, metrics: scores, match: match} = match_name_metrics(left, right, opts)
+      if match == 1 do
+        [%{left: left, right: right, metrics: scores, match: 1}  | acc]
+      else
+        [%{left: left, right: right, metrics: scores, match: 0}  | acc]
       end
     end)
+  end
+
+  @spec match_name_metrics(binary(), binary(), keyword()) :: float()
+  @doc """
+  Compare a string to a string with logic specific to names. Matches are determined by algorithem
+  metrics equal to or higher than the `match_at` option. Return a list of strings that are a likely
+  match and their algorithm metrics.
+  """
+  def match_name_metrics(left, right, opts) when is_binary(left) and is_binary(right) do
+    left = compose(left)
+    right = compose(right)
+    case Names.compare(left, right, opts) do
+      %{scores: scores} ->
+        left =  Enum.join(left.list, " ")
+        right =  Enum.join(right.list, " ")
+        if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
+          %{left: left, right: right, metrics: scores, match: 1}
+        else
+          %{left: left, right: right, metrics: scores, match: 0}
+        end
+      _ -> nil
+    end
   end
 
   @spec phonemes(binary() | %Corpus{}) :: list()

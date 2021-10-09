@@ -29,8 +29,7 @@ defmodule Akin.Names do
   end
 
   defp score(%Corpus{} = left, %Corpus{} = right, opts, weight) do
-    opts = Keyword.put(opts, :algorithms, Akin.algorithms())
-    metrics = Akin.compare(left, right, opts)
+    metrics = Akin.compare(left, right)
 
     short_length = opts(opts, :short_length)
     score = calc(metrics, weight, short_length, len(right.string))
