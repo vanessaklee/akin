@@ -142,6 +142,8 @@ defmodule Akin do
   metrics equal to or higher than the `match_at` option. Return a list of strings that are a likely
   match and their algorithm metrics.
   """
+  def match_name_metrics(left, rights, opts \\ @opts)
+
   def match_name_metrics(left, right, opts) when is_binary(left) and is_binary(right) do
     left = compose(left)
     right = compose(right)
