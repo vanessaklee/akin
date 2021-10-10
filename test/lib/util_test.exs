@@ -10,13 +10,24 @@ defmodule UtilTest do
     assert compose("Two   WORDS").string == "twowords"
     assert compose("Two 123  WORDS").list == ["two", "123", "words"]
     assert compose("Łępicki").string == "łepicki"
-    assert compose("") == %Corpus{list: [], set: MapSet.new(), stems: [], string: "", original: ""}
+
+    assert compose("") == %Corpus{
+             list: [],
+             set: MapSet.new(),
+             stems: [],
+             string: "",
+             original: ""
+           }
+
     assert compose(nil) == nil
   end
 
   test "Removes punction & whitespace, downcases, and returns a Corpus struct for two values unless nil value sent" do
-    [a, b, c] = list = ["mORe123", "WORDS", "Łepicki"]
+    [a, b, c] =
+      list =
+      ["mORe123", "WORDS", "Łepicki"]
       |> Enum.map(fn x -> String.downcase(x) end)
+
     [left, right] = compose("word", Enum.join(list, " "))
 
     assert is_struct(left)
@@ -57,21 +68,47 @@ defmodule UtilTest do
 
   test "Tokenizes the input into N-grams" do
     str = "abcdefg"
-    assert  Enum.all?(ngram_tokenize(str, 2), fn x -> String.length(x) == 2 end)
-    assert  Enum.all?(ngram_tokenize(str, 3), fn x -> String.length(x) == 3 end)
-    assert  Enum.all?(ngram_tokenize(str, 5), fn x -> String.length(x) == 5 end)
+    assert Enum.all?(ngram_tokenize(str, 2), fn x -> String.length(x) == 2 end)
+    assert Enum.all?(ngram_tokenize(str, 3), fn x -> String.length(x) == 3 end)
+    assert Enum.all?(ngram_tokenize(str, 5), fn x -> String.length(x) == 5 end)
     assert ngram_tokenize(123) == []
     assert ngram_tokenize(nil) == []
   end
 
   test "Naughty strings don't cause trouble" do
-    naughty_strings = ["undefined", "True", "false", "None", "hasKeys?", "then", "$1.00", "1E+02", "1/0", "-2147483648/-1", "NaN", "infinity", "<>?:\"{}|_+", "¡™£¢∞§¶•ªº–≠", "⁰⁴⁵₀₁₂", "表ポあA鷗ŒéＢ逍Üßªąñ丂㐀𠀀", "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ", "👨🏿‍🦰💌 💙💪🏿👩‍👩‍👧 🆒 🏧7️⃣", "בְּרֵאשִׁית, בָּרָא אֱלֹהִים", "﷽", "k̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩", "lɐ ɐuƃɐɯ ǝɹolo", "𝒓𝒐𝒘𝒏 𝒇𝒐𝒙 𝒋", "<script>alert(0)</script>"]
+    naughty_strings = [
+      "undefined",
+      "True",
+      "false",
+      "None",
+      "hasKeys?",
+      "then",
+      "$1.00",
+      "1E+02",
+      "1/0",
+      "-2147483648/-1",
+      "NaN",
+      "infinity",
+      "<>?:\"{}|_+",
+      "¡™£¢∞§¶•ªº–≠",
+      "⁰⁴⁵₀₁₂",
+      "表ポあA鷗ŒéＢ逍Üßªąñ丂㐀𠀀",
+      "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+      "👨🏿‍🦰💌 💙💪🏿👩‍👩‍👧 🆒 🏧7️⃣",
+      "בְּרֵאשִׁית, בָּרָא אֱלֹהִים",
+      "﷽",
+      "k̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩",
+      "lɐ ɐuƃɐɯ ǝɹolo",
+      "𝒓𝒐𝒘𝒏 𝒇𝒐𝒙 𝒋",
+      "<script>alert(0)</script>"
+    ]
 
     Enum.each(naughty_strings, fn ns ->
       assert check_struct(compose(ns))
     end)
 
     a = "Alice"
+
     Enum.each(naughty_strings, fn ns ->
       assert Akin.compare(a, ns)
     end)
@@ -105,7 +142,8 @@ defmodule UtilTest do
       %{default: Keyword.get(Akin.default_opts(), :short_length)}
     end
 
-    test "The short_length size is correct when option list contains an short_length value", cxt do
+    test "The short_length size is correct when option list contains an short_length value",
+         cxt do
       assert opts(Akin.default_opts(), :short_length) == cxt.default
       assert opts([short_length: 10], :short_length) == 10
     end

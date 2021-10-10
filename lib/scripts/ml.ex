@@ -1,5 +1,4 @@
 defmodule Akin.ML do
-
   def training_data() do
     NimbleCSV.define(CSVParse, separator: ",", escape: "\\")
     File.rm("test/support/metrics_for_training.csv")
@@ -15,6 +14,7 @@ defmodule Akin.ML do
           # names = l <> " <- (" <> to_string(m) <> ") -> " <> r
           match = if match == "1", do: "match", else: "non-match"
           scores = Enum.into(scores, %{})
+
           data =
             [
               [
@@ -37,7 +37,9 @@ defmodule Akin.ML do
             |> CSVParse.dump_to_iodata()
 
           File.write!("test/support/metrics_for_training.csv", [data], [:append])
-        _ -> nil
+
+        _ ->
+          nil
       end
     end)
   end
@@ -63,6 +65,7 @@ defmodule Akin.ML do
         names = l <> " <- (" <> to_string(m) <> ") -> " <> r
         scores = Enum.into(s, %{})
         match = "match"
+
         data =
           [
             [
@@ -87,6 +90,7 @@ defmodule Akin.ML do
 
         File.write!("test/support/metrics_for_predicting.csv", [data], [:append])
       end)
+
       acc
     end)
   end

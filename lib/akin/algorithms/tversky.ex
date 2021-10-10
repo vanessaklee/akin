@@ -30,14 +30,14 @@ defmodule Akin.Tversky do
 
   @spec compare(%Corpus{}, %Corpus{}, integer()) :: float()
   defp perform(%Corpus{string: left}, %Corpus{string: right}, n)
-      when n <= 0 or byte_size(left) < n or byte_size(right) < n do
+       when n <= 0 or byte_size(left) < n or byte_size(right) < n do
     0.0
   end
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, _n) when left == right, do: 1.0
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
-      when is_integer(ngram_size) do
+       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
 

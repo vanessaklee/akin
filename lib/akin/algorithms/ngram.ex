@@ -25,7 +25,7 @@ defmodule Akin.Ngram do
   end
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
-      when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size do
+       when ngram_size == 0 or byte_size(left) < ngram_size or byte_size(right) < ngram_size do
     nil
   end
 
@@ -33,7 +33,7 @@ defmodule Akin.Ngram do
     do: 1
 
   defp perform(%Corpus{string: left}, %Corpus{string: right}, ngram_size)
-      when is_integer(ngram_size) do
+       when is_integer(ngram_size) do
     left_ngrams = left |> ngram_tokenize(ngram_size)
     right_ngrams = right |> ngram_tokenize(ngram_size)
 

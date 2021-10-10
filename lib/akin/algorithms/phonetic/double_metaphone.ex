@@ -881,9 +881,10 @@ defmodule Akin.Metaphone.Double do
         for l <- left, r <- right do
           Akin.Metaphone.Double.compare(l, r, level)
         end
+
       size = Enum.min([Enum.count(left), Enum.count(right)])
 
-      Enum.count(scores, fn s -> s == true end)/size
+      (Enum.count(scores, fn s -> s == true end) / size)
       |> case do
         score when score > 0 -> {:halt, score}
         _ -> {:cont, acc}

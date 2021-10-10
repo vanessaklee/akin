@@ -29,7 +29,6 @@ defmodule Akin.SubstringSet do
   import Akin.Util, only: [opts: 2]
   alias Akin.{Corpus, Strategy, Helper.SubstringComparison}
 
-
   @bias 0.95
 
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
@@ -38,7 +37,6 @@ defmodule Akin.SubstringSet do
         %Corpus{string: r_string, set: r_set},
         opts \\ []
       ) do
-
     case Strategy.determine(l_string, r_string) do
       :standard ->
         similarity(l_set, r_set) |> score(opts(opts, :level))

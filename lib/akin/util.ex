@@ -71,8 +71,10 @@ defmodule Akin.Util do
   end
 
   defp replace_accents({:error, string, _b}), do: string
+
   defp replace_accents(string) do
     string = String.replace(string, ~r/\W/u, "")
+
     if String.valid?(string) do
       string
     else
@@ -94,9 +96,10 @@ defmodule Akin.Util do
   Checks to see if a string is alphabetic.
   """
   def is_alphabetic?(value) when value in ["", nil], do: false
+
   def is_alphabetic?(value) do
-    !Regex.match?(~r/[0-9]/, value)
-    and (!Regex.match?(~r/\A[\p{L}\p{M}]+\z/, value) or !Regex.match?(~r/[\W0-9]/, value))
+    !Regex.match?(~r/[0-9]/, value) and
+      (!Regex.match?(~r/\A[\p{L}\p{M}]+\z/, value) or !Regex.match?(~r/[\W0-9]/, value))
   end
 
   @spec deduplicate(binary()) :: binary()

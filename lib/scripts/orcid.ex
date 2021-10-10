@@ -1,5 +1,4 @@
 defmodule Orcid do
-
   def prep() do
     File.rm("test/support/orcid/match_names.csv")
 
@@ -33,6 +32,7 @@ defmodule Orcid do
     o = o |> Float.round(2)
 
     match = if m, do: 1, else: 0
+
     data =
       [
         [

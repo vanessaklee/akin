@@ -3,9 +3,9 @@ defmodule AkinTest do
   import Akin
 
   test "requesting a subset of algorithms in the options results in expected phonetic algorithms" do
-    all_phonetic = algorithms([metric: "phonetic"])
-    whole_phonetic = algorithms([metric: "phonetic", unit: "whole"])
-    partial_phonetic = algorithms([metric: "phonetic", unit: "partial"])
+    all_phonetic = algorithms(metric: "phonetic")
+    whole_phonetic = algorithms(metric: "phonetic", unit: "whole")
+    partial_phonetic = algorithms(metric: "phonetic", unit: "partial")
 
     assert all_phonetic == ["metaphone", "double_metaphone", "substring_double_metaphone"]
     assert whole_phonetic == ["metaphone", "double_metaphone"]
@@ -13,31 +13,40 @@ defmodule AkinTest do
   end
 
   test "requesting a subset of algorithms in the options results in expected string algorithms" do
-    all_string = algorithms([metric: "string"])
-    whole_string = algorithms([metric: "string", unit: "whole"])
-    partial_string = algorithms([metric: "string", unit: "partial"])
+    all_string = algorithms(metric: "string")
+    whole_string = algorithms(metric: "string", unit: "whole")
+    partial_string = algorithms(metric: "string", unit: "partial")
 
     assert all_string == [
-      "bag_distance",
-      "levenshtein",
-      "jaro_winkler",
-      "jaccard",
-      "tversky",
-      "sorensen_dice",
-      "substring_set",
-      "substring_sort",
-      "overlap",
-      "ngram"
-    ]
-    assert whole_string == ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "tversky", "sorensen_dice"]
+             "bag_distance",
+             "levenshtein",
+             "jaro_winkler",
+             "jaccard",
+             "tversky",
+             "sorensen_dice",
+             "substring_set",
+             "substring_sort",
+             "overlap",
+             "ngram"
+           ]
+
+    assert whole_string == [
+             "bag_distance",
+             "levenshtein",
+             "jaro_winkler",
+             "jaccard",
+             "tversky",
+             "sorensen_dice"
+           ]
+
     assert partial_string == ["substring_set", "substring_sort", "overlap", "ngram"]
   end
 
   test "requesting a subset of algorithms in the options results in expected subset of algorithms" do
     a = ["metaphone", "bag_distance", "substring_sort"]
-    a_set = algorithms([algorithms: a])
+    a_set = algorithms(algorithms: a)
     b = ["overlap", "substring_double_metaphone"]
-    b_set = algorithms([algorithms: b])
+    b_set = algorithms(algorithms: b)
 
     assert a_set == a
     assert b_set == b

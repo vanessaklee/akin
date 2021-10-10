@@ -11,7 +11,8 @@ defmodule NamesTest do
   test "known names in orcid should all match" do
     File.rm("test/support/orcid/match_names.csv")
 
-    x = File.stream!("test/support/orcid/mini.csv")
+    x =
+      File.stream!("test/support/orcid/mini.csv")
       |> Stream.map(&String.trim(&1))
       |> Enum.to_list()
       |> Enum.reduce(%{wins: 0, losses: 0}, fn row, %{wins: w, losses: l} = acc ->
@@ -25,9 +26,9 @@ defmodule NamesTest do
         losses = Enum.filter(results, fn r -> r.match === 0 end) |> Enum.count()
         %{acc | wins: w + wins, losses: l + losses}
       end)
-    loss_percent = x.losses/(x.wins + x.losses)*100 |> Float.round(2)
+
+    loss_percent = (x.losses / (x.wins + x.losses) * 100) |> Float.round(2)
 
     assert loss_percent < 10.0
   end
-
 end

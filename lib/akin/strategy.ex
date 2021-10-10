@@ -14,7 +14,8 @@ defmodule Akin.Strategy do
     determine(left, right, left_length, right_length)
   end
 
-  def determine(_left, _right, left_length, right_length) when left_length > 0 and right_length > 0 do
+  def determine(_left, _right, left_length, right_length)
+      when left_length > 0 and right_length > 0 do
     length_ratio = Enum.max([left_length, right_length]) / Enum.min([left_length, right_length])
 
     cond do

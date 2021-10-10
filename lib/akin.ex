@@ -19,7 +19,9 @@ defmodule Akin do
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
   """
-  import Akin.Util, only: [list_algorithms: 0, list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
+  import Akin.Util,
+    only: [list_algorithms: 0, list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
+
   alias Akin.Corpus
   alias Akin.Names
 
@@ -113,7 +115,9 @@ defmodule Akin do
           else
             acc
           end
-        _ -> acc
+
+        _ ->
+          acc
       end
     end)
   end
@@ -127,11 +131,13 @@ defmodule Akin do
 
   def match_names_metrics(left, rights, opts) when is_binary(left) and is_list(rights) do
     Enum.reduce(rights, [], fn right, acc ->
-      %{left: left, right: right, metrics: scores, match: match} = match_name_metrics(left, right, opts)
+      %{left: left, right: right, metrics: scores, match: match} =
+        match_name_metrics(left, right, opts)
+
       if match == 1 do
-        [%{left: left, right: right, metrics: scores, match: 1}  | acc]
+        [%{left: left, right: right, metrics: scores, match: 1} | acc]
       else
-        [%{left: left, right: right, metrics: scores, match: 0}  | acc]
+        [%{left: left, right: right, metrics: scores, match: 0} | acc]
       end
     end)
   end
@@ -147,16 +153,20 @@ defmodule Akin do
   def match_name_metrics(left, right, opts) when is_binary(left) and is_binary(right) do
     left = compose(left)
     right = compose(right)
+
     case Names.compare(left, right, opts) do
       %{scores: scores} ->
-        left =  Enum.join(left.list, " ")
-        right =  Enum.join(right.list, " ")
+        left = Enum.join(left.list, " ")
+        right = Enum.join(right.list, " ")
+
         if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
           %{left: left, right: right, metrics: scores, match: 1}
         else
           %{left: left, right: right, metrics: scores, match: 0}
         end
-      _ -> nil
+
+      _ ->
+        nil
     end
   end
 
@@ -172,6 +182,7 @@ defmodule Akin do
   defp phonemes(%Corpus{string: string}, _original_string) do
     single = Akin.Metaphone.Single.compute(string)
     double = Akin.Metaphone.Double.parse(string) |> Tuple.to_list()
+
     [single | double]
     |> List.flatten()
     |> Enum.uniq()

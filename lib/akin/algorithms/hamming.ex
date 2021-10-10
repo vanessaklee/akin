@@ -40,10 +40,12 @@ defmodule Akin.Hamming do
   def compare(left, right) when left == right, do: 0.0
 
   def compare(left, right) when is_binary(left) and is_binary(right) do
-    score = left
+    score =
+      left
       |> String.codepoints()
       |> Enum.zip(right |> String.codepoints())
       |> Enum.count(fn {cp1, cp2} -> cp1 != cp2 end)
-    score/byte_size(left)
+
+    score / byte_size(left)
   end
 end

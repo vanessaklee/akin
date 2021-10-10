@@ -44,8 +44,9 @@ defmodule SorensenDiceTest do
 
     assert compare(compose("context"), compose("contact"), ngram_size: 1) ==
              0.7142857142857143
+
     assert compare(compose("weird"), compose("wierd"), []) == 0.25
-    assert compare(compose("weird"), compose("wierd"), [ngram_size: 1]) == 0.8
+    assert compare(compose("weird"), compose("wierd"), ngram_size: 1) == 0.8
     assert compare(compose("night"), compose("nacht"), ngram_size: 2) == 0.25
     assert compare(compose("night"), compose("naght"), ngram_size: 2) == 0.5
     assert compare(compose("context"), compose("contact"), ngram_size: 2) == 0.5

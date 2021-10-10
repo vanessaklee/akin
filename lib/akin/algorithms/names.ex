@@ -1,5 +1,5 @@
 defmodule Akin.Names do
-  @moduledoc"""
+  @moduledoc """
   Function specific to the comparison and matching of names. Returns matching names and metrics.
   """
   @behaviour Akin.Task
@@ -24,7 +24,7 @@ defmodule Akin.Names do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) do
-    weight = if InitialsComparison.similarity(left, right), do: @weight, else: @weight * - 1
+    weight = if InitialsComparison.similarity(left, right), do: @weight, else: @weight * -1
     score(left, right, opts, weight)
   end
 
@@ -32,17 +32,20 @@ defmodule Akin.Names do
     metrics = Akin.compare(left, right)
 
     short_length = opts(opts, :short_length)
-    score = calc(metrics, weight, short_length, len(right.string))
+
+    score =
+      calc(metrics, weight, short_length, len(right.string))
       |> Enum.map(fn {k, v} -> {k, Akin.r(v)} end)
+
     %{scores: score}
   end
 
   defp calc(metrics, weight, len_cutoff, len) do
     Enum.map(metrics, fn {k, score} ->
       if len <= len_cutoff do
-        return_calc(k, (score + (weight + @shortness_boost)))
+        return_calc(k, score + (weight + @shortness_boost))
       else
-        return_calc(k, score + (weight))
+        return_calc(k, score + weight)
       end
     end)
   end

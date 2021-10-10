@@ -1,5 +1,5 @@
 defmodule Akin.Helpers.InitialsComparison do
-  @moduledoc"""
+  @moduledoc """
   Function specific to the comparison and matching of names. Returns matching names and metrics.
   """
   import Akin.Util, only: [ngram_tokenize: 2]
@@ -20,10 +20,13 @@ defmodule Akin.Helpers.InitialsComparison do
     left_i_count = Enum.count(left_initials)
     right_i_count = Enum.count(right_initials)
 
-    left_c_intials = cartesian_initials(left_initials, left.list)
+    left_c_intials =
+      cartesian_initials(left_initials, left.list)
       |> List.flatten()
       |> Enum.uniq()
-    right_c_intials = cartesian_initials(right_initials, right.list)
+
+    right_c_intials =
+      cartesian_initials(right_initials, right.list)
       |> List.flatten()
       |> Enum.uniq()
 
@@ -49,7 +52,8 @@ defmodule Akin.Helpers.InitialsComparison do
   end
 
   def cartesian_initials(initials, list) do
-    cartesian = for c <- 1..Enum.count(initials) do
+    cartesian =
+      for c <- 1..Enum.count(initials) do
         ngram_tokenize(Enum.join(initials, ""), c)
       end
       |> List.flatten()
@@ -63,8 +67,8 @@ defmodule Akin.Helpers.InitialsComparison do
   # do any of the cartesian products of the inital letters match?
   defp cartesian_match(false, left, right) do
     Enum.filter(left, fn l -> l in right end)
-      |> Enum.count()
-      |> Kernel.>(0)
+    |> Enum.count()
+    |> Kernel.>(0)
   end
 
   defp permutation_match(true, _, _), do: true
