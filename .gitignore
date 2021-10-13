@@ -11,4 +11,4 @@ erl_crash.dump
 .DS_Store
 .credo.exs
 mix.lock
-/lib/scripts/
+/lib/scripts/*
