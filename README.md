@@ -11,32 +11,16 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
   1. [Metrics](#metrics)
      * [Compare Strings](#compare-strings)
      * [Options](#options)
-         * [Algorithm Subset](#algorithm_subset)
-         * [Max](#max)
-         * [Stems](#stemming)
+         * [Algorithms](#algorithms)
+         * [Stems](#stems)
          * [n-gram Size](#n-gram-size)
          * [Match Level](#match-level)
      * [Preprocessing](#preprocessing)
          * [Accents](#accents)
-     * [Single Algorithms](#single-algorithms)
-     * [Metaphone](#metaphone)
+     * [Phonemes](#phonemes)
      * [Name Disambiguation](#name-disambiguation)
-  1. [Algorithms](#algorithms)
-     * [Bag Distance](#bag-distance)
-     * [Substring Set](#substring-set)
-     * [Sørensen–Dice](#sørensen–dice)
-     * [Hamming Distance](#hamming-distance)
-     * [Jaccard Similarity](#jaccard-similarity)
-     * [Jaro-Winkler Similarity](#jaro-winkler-similarity)
-     * [Levenshtein Distance](#levenshtein-distance)
-     * [Metaphone](#metaphone)
-     * [Double Metaphone](#double-metaphone)
-     * [Substring Double Metaphone](#substring-double-metaphone)
-     * [N-Gram Similarity](#n-gram-similarity)
-     * [Overlap Metric](#overlap-metric)
-     * [Substring Sort](#substring-sort)
-     * [Tversky](#tversky)
-  1. [Resources & Credit](#resources-&-credit)
+  1. Algorithm [Definitions](#definitions)
+  1. [Resources](#resources)
   1. [In Development](#in-development)
 </details>
 
@@ -227,7 +211,7 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
 }
 ```
 
-#### Retrive phonetic values of a single string.
+### Phonemes
 
 ```elixir
 iex> Akin.phonemes("virginia") 
@@ -264,7 +248,7 @@ iex> Akin.match_names("V. Woolf", ["Victor Woolf", "Virginia Woolf", "V White", 
 
 ---
 
-## Algorithms
+## Definitions
 
 <details>
   <summary><u>Bag Distance</u></summary>
@@ -363,7 +347,7 @@ Sorts substrings by words, compares the sorted strings in pairs, and returns the
 A generalization of Sørensen–Dice and Jaccard.
 </details>
 
-## Resources & Credit
+## Resources
 
 * [Disambiguation Datasets](https://github.com/dhwajraj/dataset-person-name-disambiguation)
 * [Double Metaphone in python](https://github.com/oubiwann/metaphone/blob/master/metaphone/metaphone.py)
