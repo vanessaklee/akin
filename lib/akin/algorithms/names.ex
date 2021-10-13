@@ -32,10 +32,12 @@ defmodule Akin.Names do
     metrics = Akin.compare(left, right)
 
     short_length = opts(opts, :short_length)
+    initials_match? = if weight > 0, do: 1.0, else: 0.0
 
     score =
       calc(metrics, weight, short_length, len(right.string))
       |> Enum.map(fn {k, v} -> {k, Akin.r(v)} end)
+      |> Keyword.put(:initials, initials_match?)
 
     %{scores: score}
   end
