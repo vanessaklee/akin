@@ -4,7 +4,7 @@ defmodule Akin.Mixfile do
   def project do
     [
       app: :akin,
-      version: "0.1.5",
+      version: "0.1.6",
       elixir: "~> 1.7",
       name: "Akin",
       source_url: "https://github.com/vanessaklee/akin",
