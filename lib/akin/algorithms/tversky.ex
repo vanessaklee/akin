@@ -1,6 +1,6 @@
 defmodule Akin.Tversky do
   @moduledoc """
-  This module contains functions to calculate the Tversky index
+  Functions to calculate the Tversky index
   between two strings.
   """
   @behaviour Akin.Task

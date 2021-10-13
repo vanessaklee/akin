@@ -1,6 +1,6 @@
 defmodule Akin.SorensenDice do
   @moduledoc """
-  This module contains functions to calculate the Sorensen-Dice coefficient of two strings.
+  Functions to calculate the Sorensen-Dice coefficient of two strings.
   """
   @behaviour Akin.Task
   import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]

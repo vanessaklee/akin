@@ -1,6 +1,6 @@
 defmodule Akin.BagDistance do
   @moduledoc """
-  This module contains the function to calculate the Bag Distance between two strings
+  Function to calculate the Bag Distance between two strings
   """
   @behaviour Akin.Task
   alias Akin.Corpus

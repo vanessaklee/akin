@@ -55,7 +55,15 @@ defmodule Akin.Mixfile do
       licenses: ["Apache 2.0"],
       links: %{
         "GitHub" => "https://github.com/vanessaklee/akin"
-      }
+      },
+      exclude_patterns: [
+        ".DS_Store",
+        "config/*.secret.exs",
+        ".elixir_ls/",
+        ".credo.exs",
+        "lib/scripts",
+        "lib/scripts/*"
+      ]
     ]
   end
 end

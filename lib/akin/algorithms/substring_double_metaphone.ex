@@ -6,17 +6,14 @@ defmodule Akin.SubstringDoubleMetaphone do
 
     iex> left = "Alice Liddel"
     iex> right = "Liddel, Alice"
-    iex> Akin.compare_using("substring_double_metaphone", left, right)
-    1.0
+    iex> Akin.compare(left, right, [algorithms: ["substring_double_metaphone"]])
+    %{double_metaphone: 1.0}
     iex> right = "Alice P Liddel"
-    iex> Akin.compare_using("substring_double_metaphone", left, right)
-    1.0
+    iex> Akin.compare(left, right, [algorithms: ["substring_double_metaphone"]])
+    %{substring_double_metaphone: 1.0}
     iex> right = "Alice Hargreaves"
-    iex> Akin.compare_using("substring_double_metaphone", left, right)
-    0.5
-    iex> right = "Alice's Adventures in Wonderland"
-    iex> Akin.compare_using("substring_double_metaphone", left, right)
-    0.5
+    iex> Akin.compare(left, right, [algorithms: ["substring_double_metaphone"]])
+    %{substring_double_metaphone: 0.5}
   """
   @behaviour Akin.Task
   alias Akin.Corpus

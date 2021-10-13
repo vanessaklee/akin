@@ -20,7 +20,7 @@ defmodule Akin do
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
   """
   import Akin.Util,
-    only: [list_algorithms: 0, list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
+    only: [list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
 
   alias Akin.Corpus
   alias Akin.Names
@@ -48,7 +48,7 @@ defmodule Akin do
   end
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) do
-    Enum.reduce(algorithms(opts), %{}, fn algorithm, acc ->
+    Enum.reduce(list_algorithms(opts), %{}, fn algorithm, acc ->
       Map.put(acc, algorithm, apply(modulize(algorithm), :compare, [left, right, opts]))
     end)
     |> Enum.reduce([], fn {k, v}, acc ->
@@ -62,39 +62,7 @@ defmodule Akin do
     |> Enum.into(%{})
   end
 
-  @spec compare_using(binary(), binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
-  @doc """
-  Compare two strings using a particular algorithm. Return a map of metrics. The algorithm
-  name must be an atom (i.e. "jaro_winkler").
-
-  Options accepted as a keyword list. If no options are given, the default values will be used.
-  """
-  def compare_using(algorithm, left, right, opts \\ @opts)
-
-  def compare_using(algorithm, left, right, opts) when is_binary(left) and is_binary(right) do
-    compare_using(algorithm, compose(left), compose(right), opts)
-  end
-
-  def compare_using(algorithm, %Corpus{} = left, %Corpus{} = right, opts) do
-    apply(modulize(algorithm), :compare, [left, right, opts]) |> Float.round(2)
-  end
-
-  @spec max(map()) :: float()
-  @spec max(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: list()
-  @doc """
-  Compare two strings. Return only the highest algorithm metrics. Options accepted as a keyword list.
-  """
-  def max(%{} = scores) do
-    {_k, max_val} = Enum.max_by(scores, fn {_k, v} -> v end)
-    Enum.filter(scores, fn {_k, v} -> v == max_val end)
-  end
-
-  def max(left, right, opts \\ @opts) do
-    compare(left, right, opts)
-    |> max()
-  end
-
-  @spec match_names(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @spec match_names(binary() | %Corpus{}, binary() | %Corpus{} | list(), keyword()) :: float()
   @doc """
   Compare a string against a list of strings.  Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match.
@@ -108,16 +76,11 @@ defmodule Akin do
 
   def match_names(%Corpus{} = left, rights, opts) do
     Enum.reduce(rights, [], fn right, acc ->
-      case Names.compare(left, right, opts) do
-        %{scores: scores} ->
-          if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
-            [right.original | acc]
-          else
-            acc
-          end
-
-        _ ->
-          acc
+      %{scores: scores} = Names.compare(left, right, opts)
+      if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
+        [right.original | acc]
+      else
+        acc
       end
     end)
   end
@@ -142,7 +105,12 @@ defmodule Akin do
     end)
   end
 
-  @spec match_name_metrics(binary(), binary(), keyword()) :: float()
+  @spec match_name_metrics(binary(), binary(), Keyword.t()) :: %{
+    :left => binary(),
+    :match => 0 | 1,
+    :metrics => [any()],
+    :right => binary()
+  }
   @doc """
   Compare a string to a string with logic specific to names. Matches are determined by algorithem
   metrics equal to or higher than the `match_at` option. Return a list of strings that are a likely
@@ -154,25 +122,20 @@ defmodule Akin do
     left = compose(left)
     right = compose(right)
 
-    case Names.compare(left, right, opts) do
-      %{scores: scores} ->
-        left = Enum.join(left.list, " ")
-        right = Enum.join(right.list, " ")
+    %{scores: scores} = Names.compare(left, right, opts)
+    left = Enum.join(left.list, " ")
+    right = Enum.join(right.list, " ")
 
-        if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
-          %{left: left, right: right, metrics: scores, match: 1}
-        else
-          %{left: left, right: right, metrics: scores, match: 0}
-        end
-
-      _ ->
-        nil
+    if Enum.any?(scores, fn {_algo, score} -> score > opts(opts, :match_at) end) do
+      %{left: left, right: right, metrics: scores, match: 1}
+    else
+      %{left: left, right: right, metrics: scores, match: 0}
     end
   end
 
   @spec phonemes(binary() | %Corpus{}) :: list()
   @doc """
-  Returns list of unqieu phonetic representations of a  string resulting from the single and
+  Returns list of unique phonetic encodings produces by the single and
   double metaphone algorithms.
   """
   def phonemes(string) when is_binary(string) do
@@ -192,13 +155,6 @@ defmodule Akin do
   Return the default option values
   """
   def default_opts, do: @opts
-
-  @doc """
-  List of algorithms available for us in making comparisons.
-  """
-  def algorithms(), do: list_algorithms()
-
-  def algorithms(opts), do: list_algorithms(opts)
 
   @doc """
   Round data types that can be rounded to 2 decimal points.

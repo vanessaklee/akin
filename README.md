@@ -53,7 +53,7 @@ deps: [{:akin, "~> 1.0"}]
 To see all of the avialable algorithms. Hamming Distance is excluded as it only compares strings of equal length. Hamming may be called directly. See: [Single Algorithms](#single-algorithms)
 
 ```elixir
-iex> Akin.algorithms()
+iex> Akin.Util.list_algorithms()
 ["bag_distance", "substring_set", "sorensen_dice", "jaccard", "jaro_winkler", 
 "levenshtein", "metaphone", "double_metaphone", "substring_double_metaphone", "ngram", 
 "overlap", "substring_sort", "tversky"]
@@ -118,30 +118,24 @@ Comparison accepts options in a Keyword list.
   1. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
 
-#### Algorithm Subset
+#### Algorithms
+
+Restrict the list of algorithms by name or metric and/or unit.
 
 ```elixir
-iex> Akin.algorithms([metric: "phonetic"])
-["metaphone", "double_metaphone", "substring_double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", unit: unit]) 
-["metaphone", "double_metaphone"]
-iex> Akin.algorithms([metric: "phonetic", unit: "partial"])
-["substring_double_metaphone"]
-```
-
-#### Max 
-
-Compare two strings using all algorithms. From the metrics returned through the comparision, return only the highest algorithm scores.
-Accepts options. 
-
-```elixir
-iex> Akin.max("weird", "wierd")
-[bag_distance: 1.0, double_metaphone: 1.0, metaphone: 1.0]
-```
-
-```elixir
-iex> Akin.max("Alice P. Liddel", "Alice Liddel", ["substring_double_metaphone"])
-[substring_double_metaphone: 1.0]
+iex> opts = [algorithms: ["bag_distance", "jaccard", "jaro_winkler"]]
+iex> Akin.compare("weird", "wierd", opts]) 
+%{
+bag_distance: 1.0, 
+jaccard: 0.14, 
+jaro_winkler: 0.94
+}
+iex> opts = [metric: "phonetic", unit: “whole”]
+iex > Akin.compare("weird", "wierd", opts)
+%{
+double_metaphone: 1.0, 
+metaphone: 1.0
+}
 ```
 
 #### n-gram Size
@@ -150,18 +144,10 @@ The default ngram size for the algorithms is 2. You can change by setting
 a value in opts.
 
 ```elixir
-iex> Akin.compare_using("sorensen_dice", "weird", "wierd")
-0.25
-iex> Akin.compare_using("sorensen_dice", "weird", "wierd", [ngram_size: 1])
-0.8
-iex> left = "Alice P. Liddel"
-iex> right = "Liddel, Alice"
-iex> Akin.compare_using("tversky", left, right)
-0.4
-iex> Akin.compare_using("tversky", left, right, [ngram_size: 1])
-0.8
-iex> Akin.compare_using("tversky", left, right, [ngram_size: 3])
-0.0
+iex> Akin.compare("weird", "wierd", [algorithms: ["sorensen_dice"]])
+%{sorensen_dice: 0.25}
+iex> Akin.compare("weird", "wierd", [algorithms: ["sorensen_dice"], ngram_size: 1])
+%{sorensen_dice: 0.8}
 ```
 
 #### Match Level
@@ -173,16 +159,16 @@ a value in opts. Currently it only affects the outcomes of the `substring_set` a
 ```elixir
 iex> left = "Alice in Wonderland"
 iex> right = "Alice's Adventures in Wonderland"
-iex> Akin.compare_using("substring_set", left, right)
-0.64
-iex> Akin.compare_using("substring_set", left, right, [level: "weak"])
-0.85
+iex> Akin.compare(left, right, [algorithms: ["substring_set"]])
+%{substring_set: 0.85}
+iex> Akin.compare(left, right, [algorithms: ["substring_set"], level: "weak"])
+%{substring_set: 0.85}
 iex> left = "which way"
 iex> right = "whitch way"
-iex> Akin.compare_using("double_metaphone", left, right, [level: "weak"])
-1.0
-iex> Akin.compare_using("double_metaphone", left, right, [level: "strict"])
-0.0
+iex> Akin.compare(left, right, [algorithms: ["double_metaphone"], level: "weak"])
+%{double_metaphone: 1.0}
+iex> Akin.compare(left, right, [algorithms: ["double_metaphone"], level: "strict"])
+%{double_metaphone: 0.0}
 ```
 
 #### Stems
@@ -239,31 +225,6 @@ iex> Akin.compare("Hubert Łępicki", "Hubert Lepicki")
   overlap: 0.83,
   tversky: 0.71
 }
-```
-
-### Single Algorithms
-
-Use a single algorithm for comparing two strings. The return value is a float.
-
-```elixir
-iex> left = "Alice P. Liddel"
-iex> right = "Liddel, Alice"
-iex> Akin.compare_using("jaro_winkler", left, right)
-0.71
-iex> Akin.compare_using("levenshtein", left, right) 
-0.33
-iex> Akin.compare_using("metaphone", left, right)
-0.0
-iex> Akin.compare_using("double_metaphone", left, right)  
-0.0
-iex> Akin.compare_using("substring_double_metaphone", left, right)
-1.0
-iex> Akin.compare_using("substring_set", left, right)
-0.74
-iex> Akin.compare_using("substring_sort", left, right)
-0.97
-iex> Akin.compare_using("tversky", left, right)
-0.4
 ```
 
 #### Retrive phonetic values of a single string.

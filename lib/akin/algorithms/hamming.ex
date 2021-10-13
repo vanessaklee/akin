@@ -1,8 +1,7 @@
 defmodule Akin.Hamming do
   @moduledoc """
-  This module contains functions to calculate the Hamming Distance between 2 given strings. The
-  Hamming Distance is the the smallest number of substitutions needed to change one string into the
-  other string.
+  Functions to calculate the Hamming Distance between 2 given strings. The Hamming Distance
+  is the the smallest number of substitutions needed to change one string into the other string.
 
   If the strings are not the same length, nil is returned
   If the string are equal, 0.0 is returned.

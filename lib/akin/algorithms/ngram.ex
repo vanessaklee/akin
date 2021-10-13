@@ -1,7 +1,6 @@
 defmodule Akin.Ngram do
   @moduledoc """
-  This module contains functions to calculate the ngram distance between two
-  given strings based on this
+  Functions to calculate the ngram distance between two given strings based on this
   [paper](webdocs.cs.ualberta.ca/~kondrak/papers/spire05.pdf)
   """
   @behaviour Akin.Task

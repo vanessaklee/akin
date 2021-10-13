@@ -1,6 +1,6 @@
 defmodule Akin.Jaccard do
   @moduledoc """
-  This module contains functions to calculate the Jaccard similarity between two strings
+  Functions to calculate the Jaccard similarity between two strings
   """
   @behaviour Akin.Task
   import Akin.Util, only: [ngram_tokenize: 2, opts: 2, intersect: 2]

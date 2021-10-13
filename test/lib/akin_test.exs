@@ -1,59 +1,59 @@
 defmodule AkinTest do
   use ExUnit.Case
   import Akin
+  import Akin.Util
 
   test "requesting a subset of algorithms in the options results in expected phonetic algorithms" do
-    all_phonetic = algorithms(metric: "phonetic")
-    whole_phonetic = algorithms(metric: "phonetic", unit: "whole")
-    partial_phonetic = algorithms(metric: "phonetic", unit: "partial")
+    all_phonetic = list_algorithms([algorithms: [metric: "phonetic"]])
+    whole_phonetic = list_algorithms([algorithms: [metric: "phonetic", unit: "whole"]])
+    partial_phonetic = list_algorithms([algorithms: [metric: "phonetic", unit: "partial"]])
 
-    assert all_phonetic == ["metaphone", "double_metaphone", "substring_double_metaphone"]
-    assert whole_phonetic == ["metaphone", "double_metaphone"]
+    assert all_phonetic == ["double_metaphone", "metaphone", "substring_double_metaphone"]
+    assert whole_phonetic == ["double_metaphone", "metaphone"]
     assert partial_phonetic == ["substring_double_metaphone"]
   end
 
-  test "requesting a subset of algorithms in the options results in expected string algorithms" do
-    all_string = algorithms(metric: "string")
-    whole_string = algorithms(metric: "string", unit: "whole")
-    partial_string = algorithms(metric: "string", unit: "partial")
+  test "requesting a subset of whole string algorithms in the options results in expected string algorithms" do
+    whole_string = list_algorithms([algorithms: [metric: "string", unit: "whole"]])
+
+    assert whole_string == ["bag_distance", "jaccard", "jaro_winkler", "levenshtein", "sorensen_dice", "tversky"]
+  end
+
+  test "requesting a subset of partial string algorithms in the options results in expected string algorithms" do
+    partial_string = list_algorithms([algorithms: [metric: "string", unit: "partial"]])
+
+    assert partial_string == ["ngram", "overlap", "substring_set", "substring_sort"]
+  end
+
+  test "requesting a subset of string algorithms in the options results in expected string algorithms" do
+    all_string = list_algorithms([algorithms: [metric: "string"]])
 
     assert all_string == [
-             "bag_distance",
-             "levenshtein",
-             "jaro_winkler",
-             "jaccard",
-             "tversky",
-             "sorensen_dice",
-             "substring_set",
-             "substring_sort",
-             "overlap",
-             "ngram"
-           ]
-
-    assert whole_string == [
-             "bag_distance",
-             "levenshtein",
-             "jaro_winkler",
-             "jaccard",
-             "tversky",
-             "sorensen_dice"
-           ]
-
-    assert partial_string == ["substring_set", "substring_sort", "overlap", "ngram"]
+        "bag_distance",
+        "jaccard",
+        "jaro_winkler",
+        "levenshtein",
+        "ngram",
+        "overlap",
+        "sorensen_dice",
+        "substring_set",
+        "substring_sort",
+        "tversky"
+      ]
   end
 
   test "requesting a subset of algorithms in the options results in expected subset of algorithms" do
-    a = ["metaphone", "bag_distance", "substring_sort"]
-    a_set = algorithms(algorithms: a)
+    a = ["bag_distance", "metaphone", "substring_sort"]
+    a_set = list_algorithms([algorithms: a])
     b = ["overlap", "substring_double_metaphone"]
-    b_set = algorithms(algorithms: b)
+    b_set = list_algorithms([algorithms: b])
 
     assert a_set == a
     assert b_set == b
   end
 
   test "comparing two exact strings returns all 1.0 values" do
-    results = compare("Alice", "Alice", Akin.algorithms([]))
+    results = compare("Alice", "Alice", [])
 
     assert Enum.all?(results, fn {_k, v} -> v == 1.0 end)
   end

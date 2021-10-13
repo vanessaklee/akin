@@ -1,7 +1,7 @@
 defmodule Akin.Strategy do
   @moduledoc """
-  This module is used to determine whether all comparison functions should use
-  the simple ratio function or the substring ratio function.
+  Determine whether all comparison functions should use the simple ratio function or
+  the substring ratio function.
   """
   @substring_similarity_threshold 1.5
   @substring_default_scale 0.9
