@@ -12,3 +12,4 @@ erl_crash.dump
 .credo.exs
 mix.lock
 /lib/scripts/*
+coveralls.json
