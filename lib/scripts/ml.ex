@@ -1,6 +1,6 @@
 defmodule Akin.ML do
+  NimbleCSV.define(CSVParse, separator: ",", escape: "\\")
   def training_data() do
-    NimbleCSV.define(CSVParse, separator: ",", escape: "\\")
     File.rm("test/support/metrics_for_training.csv")
 
     File.stream!("test/support/dblp_for_training.csv")
@@ -61,12 +61,8 @@ defmodule Akin.ML do
       d = String.replace(d, "_", " ")
 
       Akin.match_names_metrics(b, [a, c, d])
-      |> Enum.each(fn %{left: l, right: r, metrics: s, match: m} ->
-        names = l <> " <- (" <> to_string(m) <> ") -> " <> r
+      |> Enum.each(fn %{left: _l, right: _r, metrics: s, match: _m} ->
         scores = Enum.into(s, %{})
-        match = "match"
-
-        IO.inspect scores
 
         data =
           [
