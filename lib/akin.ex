@@ -72,6 +72,8 @@ defmodule Akin do
   """
   def match_names(left, rights, opts \\ default_opts())
 
+  def match_names(_, [], _), do: []
+
   def match_names(left, rights, opts) when is_binary(left) and is_list(rights) do
     rights = Enum.map(rights, fn right -> compose(right) end)
     match_names(compose(left), rights, opts)

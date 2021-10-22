@@ -257,17 +257,14 @@ The bag distance is a cheap distance measure which always returns a distance sma
 </details>
 
 <details>
-  <summary><u>Substring Set</u></summary>
+  <summary><u>Double Metaphone</u></summary>
 
-Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
-</details>
+Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match level: strict, strong, normal (default), or weak. 
 
-<details>
-  <summary><u>Sørensen–Dice</u></summary>
-
-Sørensen–Dice coefficient is calculated using bigrams. The equation is `2nt / nx + ny` where nx is the number of bigrams in string x, ny is the number of bigrams in string y, and nt is the number of bigrams in both strings. For example, the bigrams of `night` and `nacht` are `{ni,ig,gh,ht}` and `{na,ac,ch,ht}`. They each have four and the intersection is `ht`. 
-
-``` (2 · 1) / (4 + 4) = 0.25 ```
+  * "strict": both encodings for each string must match
+  * "strong": the primary encoding for each string must match
+  * "normal": the primary encoding of one string must match either encoding of other string (default)
+  * "weak":   either primary or secondary encoding of one string must match one encoding of other string
 </details>
 
 <details>
@@ -303,14 +300,23 @@ Compares two strings by converting each to an approximate phonetic representatio
 </details>
 
 <details>
-  <summary><u>Double Metaphone</u></summary>
+  <summary><u>N-Gram Similarity</u></summary>
 
-Calculates the [Double Metaphone Phonetic Algorithm](https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html) metric of two strings. The return value is based on the match level: strict, strong, normal (default), or weak. 
+Calculates the ngram distance between two strings. Default ngram: 2.
+</details>
 
-  * "strict": both encodings for each string must match
-  * "strong": the primary encoding for each string must match
-  * "normal": the primary encoding of one string must match either encoding of other string (default)
-  * "weak":   either primary or secondary encoding of one string must match one encoding of other string
+<details>
+  <summary><u>Overlap Metric</u></summary>
+
+Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
+</details>
+
+<details>
+  <summary><u>Sørensen–Dice</u></summary>
+
+Sørensen–Dice coefficient is calculated using bigrams. The equation is `2nt / nx + ny` where nx is the number of bigrams in string x, ny is the number of bigrams in string y, and nt is the number of bigrams in both strings. For example, the bigrams of `night` and `nacht` are `{ni,ig,gh,ht}` and `{na,ac,ch,ht}`. They each have four and the intersection is `ht`. 
+
+``` (2 · 1) / (4 + 4) = 0.25 ```
 </details>
 
 <details>
@@ -324,15 +330,9 @@ accuracy for search terms containing more than one word.
 </details>
 
 <details>
-  <summary><u>N-Gram Similarity</u></summary>
+  <summary><u>Substring Set</u></summary>
 
-Calculates the ngram distance between two strings. Default ngram: 2.
-</details>
-
-<details>
-  <summary><u>Overlap Metric</u></summary>
-
-Uses the Overlap Similarity metric to compare two strings by tokenizing the strings and measuring their overlap. Default ngram: 1.
+Splits the strings on spaces, sorts, re-joins, and then determines Jaro-Winkler distance. Best when the strings contain irrelevent substrings. 
 </details>
 
 <details>
@@ -361,7 +361,7 @@ A generalization of Sørensen–Dice and Jaccard.
 
 ## In Development
 
-* Author Name Disambiguation (see lib/akin/and.ex for developments)
+* Further enhancements to name matching
 * Add Damerau-Levenshtein algorithm
   * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau-Levenshtein_distance)
   * [Examples](https://datascience.stackexchange.com/questions/60019/damerau-levenshtein-edit-distance-in-python)

@@ -5,17 +5,9 @@ defmodule Akin.Helpers.InitialsComparison do
   import Akin.Util, only: [ngram_tokenize: 2]
   alias Akin.Corpus
 
-  # the mean bag distance from training is 0.71
-  @min_bag_distance 0.5
-
   def similarity(%Corpus{} = left, %Corpus{} = right) do
-    similarity(left, right, String.bag_distance(left.string, right.string) >= @min_bag_distance)
-  end
-
-  # do the inital letters of each string match?
-  def similarity(left, right, true) do
-    left_initials = initials(left)
-    right_initials = initials(right)
+    left_initials = initials(left) |> Enum.sort()
+    right_initials = initials(right) |> Enum.sort()
 
     left_i_count = Enum.count(left_initials)
     right_i_count = Enum.count(right_initials)
@@ -30,10 +22,34 @@ defmodule Akin.Helpers.InitialsComparison do
       |> List.flatten()
       |> Enum.uniq()
 
-    case {left_i_count, right_i_count} do
-      {li, ri} when li == ri -> left_initials == right_initials
-      {li, ri} when li > ri -> left_initials -- right_initials == []
-      {li, ri} when li < ri -> right_initials -- left_initials == []
+    if String.contains?(left.original, ["-", "'"]) or String.contains?(right.original, ["-", "'"]) do
+      case {left_i_count, right_i_count} do
+        {li, ri} when li == ri -> left_initials == right_initials
+        {li, ri} when li > ri ->
+          case left_initials -- right_initials do
+            [] -> true
+            [_i] ->
+              combined_hyphenation = right.list -- left.list
+              full_permutations = get_permuations(left.list)
+              combined_hyphenation -- full_permutations == []
+            _ -> false
+          end
+        {li, ri} when li < ri ->
+          case right_initials -- left_initials do
+            [] -> true
+            [_i] ->
+              combined_hyphenation = left.list -- right.list
+              full_permutations = get_permuations(right.list)
+              combined_hyphenation -- full_permutations == []
+            _ -> false
+          end
+      end
+    else
+      case {left_i_count, right_i_count} do
+        {li, ri} when li == ri -> left_initials == right_initials
+        {li, ri} when li > ri -> left_initials -- right_initials == []
+        {li, ri} when li < ri -> right_initials -- left_initials == []
+      end
     end
     |> cartesian_match(left_c_intials, right_c_intials)
     |> permutation_match(left.list, right.list)
@@ -43,6 +59,10 @@ defmodule Akin.Helpers.InitialsComparison do
 
   defp initials(%Corpus{list: lists}) do
     Enum.map(lists, fn list -> String.at(list, 0) end)
+  end
+
+  defp initials(list) when is_list(list) do
+    Enum.map(list, fn l -> String.at(l, 0) end)
   end
 
   defp initials(_), do: []
@@ -68,7 +88,7 @@ defmodule Akin.Helpers.InitialsComparison do
   defp cartesian_match(false, left, right) do
     Enum.filter(left, fn l -> l in right end)
     |> Enum.count()
-    |> Kernel.>(0)
+    |> Kernel.>(1)
   end
 
   defp permutation_match(true, _, _), do: true

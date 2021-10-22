@@ -50,10 +50,10 @@ defmodule SubstringSetTest do
 
   test "returns expected float value for comparing string of extreme length difference" do
     left = "alice in wonderland"
-    right = "alice's adventures through the looking glass"
+    right = "alice's adventures in wonderland"
 
     normal = normal(left, right)
-    assert normal == 0.79
+    assert normal == 0.83
     assert normal < weak(left, right)
   end
 

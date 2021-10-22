@@ -87,6 +87,7 @@ defmodule Akin.Util do
   end
 
   defp replace(string) do
+    string = String.replace(string, "'", "")
     Regex.replace(@nontext_codepoints, string, " ")
     |> String.replace(~r/[\p{P}\p{S}]/u, " ")
     |> :unicode.characters_to_nfd_binary()

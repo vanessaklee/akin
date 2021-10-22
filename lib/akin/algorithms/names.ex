@@ -10,7 +10,6 @@ defmodule Akin.Names do
   @weight 0.05
   @shortness_boost 0.0175
 
-  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
   Manage the steps of comparing two names. Collect metrics from the algorithms requested
   in the options or the default algorithms. Give weight to the consideration of initials
@@ -32,10 +31,12 @@ defmodule Akin.Names do
     metrics = Akin.compare(left, right)
 
     short_length = opts(opts, :short_length)
+    initials_match? = if weight > 0, do: 1.0, else: 0.0
 
     score =
       calc(metrics, weight, short_length, len(right.string))
       |> Enum.map(fn {k, v} -> {k, r(v)} end)
+      |> Keyword.put(:initials, initials_match?)
 
     %{scores: score}
   end
