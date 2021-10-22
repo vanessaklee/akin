@@ -1,6 +1,13 @@
 defmodule Akin do
   @moduledoc """
-  Compare two strings for similarity. Options accepted in a keyword list (i.e. [ngram_size: 3]).
+  Akin
+  =======
+
+  Functions for comparing two strings for similarity using a collection of string comparison algorithms for Elixir. Algorithms can be called independently or in total to return a map of metrics.
+
+  ## Options
+
+  Options accepted in a keyword list (i.e. [ngram_size: 3]).
 
   1. `algorithms`: algorithms to use in comparision. Accepts the name or a keyword list. Default is algorithms/0.
       1. `metric` - algorithm metric. Default is both
@@ -20,14 +27,10 @@ defmodule Akin do
   1. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
   """
   import Akin.Util,
-    only: [list_algorithms: 1, modulize: 1, compose: 1, opts: 2]
+    only: [list_algorithms: 1, modulize: 1, compose: 1, opts: 2, r: 1, default_opts: 0]
 
   alias Akin.Corpus
   alias Akin.Names
-
-  NimbleCSV.define(CSVParse, separator: "\t")
-
-  @opts [ngram_size: 2, level: "normal", short_length: 8, match_at: 0.9]
 
   @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
   @doc """
@@ -35,7 +38,7 @@ defmodule Akin do
 
   Options accepted as a keyword list. If no options are given, default values will be used.
   """
-  def compare(left, right, opts \\ @opts)
+  def compare(left, right, opts \\ default_opts())
 
   def compare(left, right, opts) when is_binary(left) and is_binary(right) do
     if opts(opts, :stem) do
@@ -67,7 +70,7 @@ defmodule Akin do
   Compare a string against a list of strings.  Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match.
   """
-  def match_names(left, rights, opts \\ @opts)
+  def match_names(left, rights, opts \\ default_opts())
 
   def match_names(left, rights, opts) when is_binary(left) and is_list(rights) do
     rights = Enum.map(rights, fn right -> compose(right) end)
@@ -90,7 +93,7 @@ defmodule Akin do
   Compare a string against a list of strings. Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match and their algorithm metrics.
   """
-  def match_names_metrics(left, rights, opts \\ @opts)
+  def match_names_metrics(left, rights, opts \\ default_opts())
 
   def match_names_metrics(left, rights, opts) when is_binary(left) and is_list(rights) do
     Enum.reduce(rights, [], fn right, acc ->
@@ -116,7 +119,7 @@ defmodule Akin do
   metrics equal to or higher than the `match_at` option. Return a list of strings that are a likely
   match and their algorithm metrics.
   """
-  def match_name_metrics(left, rights, opts \\ @opts)
+  def match_name_metrics(left, rights, opts \\ default_opts())
 
   def match_name_metrics(left, right, opts) when is_binary(left) and is_binary(right) do
     left = compose(left)
@@ -150,16 +153,4 @@ defmodule Akin do
     |> List.flatten()
     |> Enum.uniq()
   end
-
-  @doc """
-  Return the default option values
-  """
-  def default_opts, do: @opts
-
-  @doc """
-  Round data types that can be rounded to 2 decimal points.
-  """
-  def r(v) when is_float(v), do: Float.round(v, 2)
-  def r(v) when is_binary(v), do: Float.round(String.to_float(v), 2)
-  def r(v) when is_integer(v), do: Float.round(v / 1, 2)
 end

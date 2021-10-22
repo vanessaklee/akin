@@ -17,7 +17,7 @@ defmodule Akin.Jaccard do
     iex> Akin.Jaccard.compare(%Akin.Corpus{string: "contact"}, %Akin.Corpus{string: "context"}, [ngram_size: 1])
     0.5555555555555556
   """
-  def compare(left, right, opts \\ []) when is_list(opts) do
+  def compare(left, right, opts \\ []) do
     perform(left, right, opts(opts, :ngram_size))
   end
 

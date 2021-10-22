@@ -3,7 +3,7 @@ defmodule Akin.Names do
   Function specific to the comparison and matching of names. Returns matching names and metrics.
   """
   @behaviour Akin.Task
-  import Akin.Util, only: [compose: 1, opts: 2, len: 1]
+  import Akin.Util, only: [compose: 1, opts: 2, len: 1, r: 1]
   alias Akin.Helpers.InitialsComparison
   alias Akin.Corpus
 
@@ -35,7 +35,7 @@ defmodule Akin.Names do
 
     score =
       calc(metrics, weight, short_length, len(right.string))
-      |> Enum.map(fn {k, v} -> {k, Akin.r(v)} end)
+      |> Enum.map(fn {k, v} -> {k, r(v)} end)
 
     %{scores: score}
   end

@@ -26,7 +26,7 @@ defmodule Akin.SubstringDoubleMetaphone do
   """
   def compare(left, right, opts \\ [])
 
-  def compare(%Corpus{list: left}, %Corpus{list: right}, opts) when is_list(opts) do
+  def compare(%Corpus{list: left}, %Corpus{list: right}, opts) do
     Double.substring_compare(left, right, opts) / 1.0
   end
 end

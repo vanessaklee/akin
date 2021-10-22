@@ -122,11 +122,11 @@ defmodule UtilTest do
 
   describe "The ngram_size is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :ngram_size)}
+      %{default: Keyword.get(default_opts(), :ngram_size)}
     end
 
     test "The n_gram size is correct when option list contains an ngram_size value", cxt do
-      assert opts(Akin.default_opts(), :ngram_size) == cxt.default
+      assert opts(default_opts(), :ngram_size) == cxt.default
       assert opts([ngram_size: 3], :ngram_size) == 3
     end
 
@@ -139,12 +139,12 @@ defmodule UtilTest do
 
   describe "The short_length is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :short_length)}
+      %{default: Keyword.get(default_opts(), :short_length)}
     end
 
     test "The short_length size is correct when option list contains an short_length value",
          cxt do
-      assert opts(Akin.default_opts(), :short_length) == cxt.default
+      assert opts(default_opts(), :short_length) == cxt.default
       assert opts([short_length: 10], :short_length) == 10
     end
 
@@ -158,11 +158,11 @@ defmodule UtilTest do
 
   describe "The level is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :level)}
+      %{default: Keyword.get(default_opts(), :level)}
     end
 
     test "The level size is correct when option list contains an level value", cxt do
-      assert opts(Akin.default_opts(), :level) == cxt.default
+      assert opts(default_opts(), :level) == cxt.default
       assert opts([level: 10], :level) == 10
     end
 
@@ -175,11 +175,11 @@ defmodule UtilTest do
 
   describe "The match_at is returned correctly" do
     setup do
-      %{default: Keyword.get(Akin.default_opts(), :match_at)}
+      %{default: Keyword.get(default_opts(), :match_at)}
     end
 
     test "The match_at size is correct when option list contains an match_at value", cxt do
-      assert opts(Akin.default_opts(), :match_at) == cxt.default
+      assert opts(default_opts(), :match_at) == cxt.default
       assert opts([match_at: 10], :match_at) == 10
     end
 
