@@ -33,7 +33,7 @@ defmodule Akin.Mixfile do
       {:earmark, "~> 1.3", only: :dev},
       {:excoveralls, "~> 0.10", only: :test},
       {:ex_doc, "~> 0.19", only: :dev},
-      {:ex_unicode, "~> 1.12"},
+      {:unicode, "~> 1.13"},
       {:html_entities, "~> 0.5"},
       {:nimble_csv, "~> 1.1"},
       {:stemmer, "~> 1.0"},
