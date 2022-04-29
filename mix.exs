@@ -4,7 +4,7 @@ defmodule Akin.Mixfile do
   def project do
     [
       app: :akin,
-      version: "0.1.9",
+      version: "0.1.10",
       elixir: "~> 1.7",
       name: "Akin",
       source_url: "https://github.com/vanessaklee/akin",
@@ -37,7 +37,7 @@ defmodule Akin.Mixfile do
       {:nimble_csv, "~> 1.1"},
       {:stemmer, "~> 1.0"},
       {:sweet_xml, "~> 0.7.0"},
-      {:unicode_string, "~> 1.0"}
+      {:unicode, "~> 1.0"}
     ]
   end
 
