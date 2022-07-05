@@ -32,7 +32,7 @@ defmodule Akin do
   alias Akin.Corpus
   alias Akin.Names
 
-  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: map()
   @doc """
   Compare two strings. Return map of algorithm metrics.
 
@@ -52,17 +52,14 @@ defmodule Akin do
 
   def compare(%Corpus{} = left, %Corpus{} = right, opts) do
     Enum.reduce(list_algorithms(opts), %{}, fn algorithm, acc ->
-      Map.put(acc, algorithm, apply(modulize(algorithm), :compare, [left, right, opts]))
-    end)
-    |> Enum.reduce([], fn {k, v}, acc ->
-      if is_nil(v) do
+      score = apply(modulize(algorithm), :compare, [left, right, opts])
+
+      if is_nil(score) do
         acc
       else
-        [{String.replace(k, ".", ""), v} | acc]
+        Map.put(acc, String.to_atom(algorithm), r(score))
       end
     end)
-    |> Enum.map(fn {k, v} -> {String.to_atom(k), r(v)} end)
-    |> Enum.into(%{})
   end
 
   @spec match_names(binary() | %Corpus{}, binary() | %Corpus{} | list(), keyword()) :: float()
@@ -111,11 +108,11 @@ defmodule Akin do
   end
 
   @spec match_name_metrics(binary(), binary(), Keyword.t()) :: %{
-    :left => binary(),
-    :match => 0 | 1,
-    :metrics => [any()],
-    :right => binary()
-  }
+          :left => binary(),
+          :match => 0 | 1,
+          :metrics => [any()],
+          :right => binary()
+        }
   @doc """
   Compare a string to a string with logic specific to names. Matches are determined by algorithem
   metrics equal to or higher than the `match_at` option. Return a list of strings that are a likely
