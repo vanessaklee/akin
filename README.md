@@ -108,13 +108,13 @@ Restrict the list of algorithms by name or metric and/or unit.
 
 ```elixir
 iex> opts = [algorithms: ["bag_distance", "jaccard", "jaro_winkler"]]
-iex> Akin.compare("weird", "wierd", opts]) 
+iex> Akin.compare("weird", "wierd", opts) 
 %{
 bag_distance: 1.0, 
 jaccard: 0.14, 
 jaro_winkler: 0.94
 }
-iex> opts = [metric: "phonetic", unit: “whole”]
+iex> opts = [algorithms: [metric: "phonetic", unit: "whole"]]
 iex > Akin.compare("weird", "wierd", opts)
 %{
 double_metaphone: 1.0, 
@@ -169,13 +169,20 @@ iex> Akin.compare("write", "writing", [algorithms: ["bag_distance", "double_meta
 ##### Additional Examples
 
 ```elixir
-iex> Akin.compare("weird", "wierd", [algorithms: "bag_distance", "jaro_winkler", "jaccard"])  
+iex> Akin.compare("weird", "wierd", algorithms: ["bag_distance", "jaro_winkler", "jaccard"])
 %{bag_distance: 1.0, jaccard: 0.14, jaro_winkler: 0.94}
 ```
 
 ```elixir
-iex> Akin.compare("weird", "wierd", [ngram_size: 1, metric: "string", unit: "whole"])
-%{jaccard: 0.67} 
+iex> Akin.compare("weird", "wierd", algorithms: [metric: "string", unit: "whole"], ngram_size: 1)
+%{
+  bag_distance: 1.0,
+  jaccard: 0.67,
+  jaro_winkler: 0.94,
+  levenshtein: 0.6,
+  sorensen_dice: 0.8,
+  tversky: 1.0
+}
 ```
 
 ### Preprocessing
