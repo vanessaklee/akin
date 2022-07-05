@@ -32,7 +32,7 @@ defmodule Akin do
   alias Akin.Corpus
   alias Akin.Names
 
-  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: map()
   @doc """
   Compare two strings. Return map of algorithm metrics.
 
