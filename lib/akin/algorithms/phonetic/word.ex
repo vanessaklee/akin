@@ -46,9 +46,8 @@ defmodule Word do
   end
 
   def normalize(input) do
-    String.normalize(input, :nfd)
-    |> String.graphemes()
-    |> Enum.reduce([], fn l, acc -> if Unicode.category(l) == "Mn", do: acc, else: [l | acc] end)
-    |> Enum.reverse()
+    input
+    |> String.normalize(:nfd)
+    |> Unicode.unaccent()
   end
 end

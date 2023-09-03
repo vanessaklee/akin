@@ -1,0 +1,177 @@
+# Akin Examples
+
+## Akin
+
+Akin is a collection of string comparison algorithms for Elixir. Algorithms can be called independently or combined to return a map of metrics. This library was built to facilitiate the disambiguation of names but can be used to compare any two binaries.
+
+## Algorithms
+
+Utilities are provided to return all avialable algorithms.
+
+```elixir
+Akin.Util.list_algorithms()
+```
+
+**Note**: Hamming Distance is excluded as it only compares strings of equal length. To use the Hamming Distance algorithm, call it directly (see: [Independent Algorithms](#independent-algorithms)).
+
+## Combined Algorithms
+
+### Metrics
+
+Results from all algorithms are returned as a map of metrics.
+
+<!-- livebook:{"break_markdown":true} -->
+
+#### Compare Strings
+
+Experiment by changing the value of the strings.
+
+```elixir
+a = "weird"
+b = "wierd"
+
+Akin.compare(a, b)
+```
+
+### Options
+
+Comparison accepts options in a Keyword list.
+
+1. `algorithms`: algorithms to use in comparision. Accepts the name or a keyword list. Default is algorithms/0.
+   1. `metric` - algorithm metric. Default is both
+      * "string": uses string algorithms
+      * "phonetic": uses phonetic algorithms
+   2. `unit` - algorithm unit. Default is both.
+      * "whole": uses algorithms best suited for whole string comparison (distance)
+      * "partial": uses algorithms best suited for partial string comparison (substring)
+2. `level` - level for double phonetic matching. Default is "normal".
+   * "strict": both encodings for each string must match
+   * "strong": the primary encoding for each string must match
+   * "normal": the primary encoding of one string must match either encoding of other string (default)
+   * "weak":   either primary or secondary encoding of one string must match one encoding of other string
+3. `match_at`: an algorith score equal to or above this value is condsidered a match. Default is 0.9
+4. `ngram_size`: number of contiguous letters to split strings into. Default is 2.
+5. `short_length`: qualifies as "short" to recieve a shortness boost. Used by Name Metric. Default is 8.
+6. `stem`: boolean representing whether to compare the stemmed version the strings; uses Stemmer. Default `false`
+
+```elixir
+opts = [algorithms: ["bag_distance", "jaccard", "jaro_winkler"]]
+Akin.compare(a, b, opts)
+```
+
+```elixir
+opts = [algorithms: [metric: "phonetic", unit: "whole"]]
+Akin.compare(a, b, opts)
+```
+
+```elixir
+Akin.compare(a, b, algorithms: [metric: "string", unit: "whole"], ngram_size: 1)
+```
+
+#### n-gram Size
+
+The default ngram size for the algorithms is 2. You can change by setting 
+a value in opts.
+
+```elixir
+opts = [algorithms: ["sorensen_dice"]]
+Akin.compare(a, b, opts)
+```
+
+```elixir
+opts = [algorithms: ["sorensen_dice"], ngram_size: 1]
+Akin.compare(a, b, opts)
+```
+
+#### Match Level
+
+The default match strictness is "normal" You change it by setting 
+a value in opts. Currently it only affects the outcomes of the `substring_set` and
+`double_metaphone` algorithms
+
+```elixir
+left = "Alice in Wonderland"
+right = "Alice's Adventures in Wonderland"
+
+Akin.compare(left, right, algorithms: ["substring_set"])
+```
+
+```elixir
+Akin.compare(left, right, algorithms: ["substring_set"], level: "weak")
+```
+
+```elixir
+left = "which way"
+right = "whitch way"
+
+Akin.compare(left, right, algorithms: ["double_metaphone"], level: "weak")
+```
+
+```elixir
+Akin.compare(left, right, algorithms: ["double_metaphone"], level: "strict")
+```
+
+#### Stems
+
+Compare the stemmed version of two strings.
+
+```elixir
+not_gerund = "write"
+gerund = "writing"
+
+Akin.compare(not_gerund, gerund, algorithms: ["bag_distance", "double_metaphone"])
+```
+
+```elixir
+Akin.compare(not_gerund, gerund, algorithms: ["bag_distance", "double_metaphone"], stem: true)
+```
+
+### Preprocessing
+
+Before being compared, strings are converted to downcase and unicode standard, whitespace is standardized, nontext (like punctuation & emojis) is replaced, and accents are converted. The string is then composed into a struct representing the corpus of data used by the comparison algorithms.
+
+```elixir
+name = "Alice Liddell"
+
+Akin.Util.compose(name)
+```
+
+### Accents
+
+```elixir
+name_a = "Hubert Łępicki"
+
+Akin.Util.compose(name_a)
+```
+
+```elixir
+name_b = "Hubert Lepicki"
+
+Akin.compare(name_a, name_b)
+```
+
+### Phonemes
+
+```elixir
+Akin.phonemes(name)
+```
+
+```elixir
+Akin.phonemes("wonderland")
+```
+
+## Independent Algorithms
+
+Each algorithm can be called directly. Module names are camelcased versions of the the snakecased algorithm names returned by `list_algorithms/0`.
+
+```elixir
+a = Akin.Util.compose("weird")
+b = Akin.Util.compose("wierd")
+Akin.BagDistance.compare(a, b)
+```
+
+Hamming Distance is excluded from `list_algorithms/0` and the combined algorithm metrics as it only compares strings of equal length. To use the Hamming Distance algorithm, call it directly.
+
+```elixir
+Akin.Hamming.compare("weird", "wierd")
+```

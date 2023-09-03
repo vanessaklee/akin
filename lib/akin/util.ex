@@ -93,8 +93,6 @@ defmodule Akin.Util do
     |> :unicode.characters_to_nfd_binary()
   end
 
-  defp replace_accents({:error, string, _b}), do: string
-
   defp replace_accents(string) do
     string = String.replace(string, ~r/\W/u, "")
 
@@ -253,54 +251,6 @@ defmodule Akin.Util do
     |> Enum.sort()
   end
 
-
-  # defp list_algorithms(metric, nil, _) do
-  #   Enum.reduce(@typed_algorithms, [], fn {name, m, _}, acc ->
-  #     if metric == m, do: [name | acc], else: = acc
-  #   end)
-  #   |> Enum.sort()
-  # end
-
-  # defp list_algorithms(nil, unit, _) do
-  #   Enum.reduce(@typed_algorithms, [], fn {name, _, u}, acc ->
-  #     if metric == m, do: [name | acc], else: = acc
-  #   end)
-  #   |> Enum.sort()
-  # end
-
-  # defp list_algorithms(nil, nil, []), do: @algorithms
-
-  # defp list_algorithms(metric, unit, []) do
-  #   Enum.filter(@typed_algorithms, fn {_, m, u} ->
-  #     unit == u && metric == m
-  #   end)
-  #   # ["bag_distance", "levenshtein", "jaro_winkler", "jaccard", "tversky", "sorensen_dice"]
-  # end
-
-  # defp list_algorithms(_, _, algorithms) when is_list(algorithms) do
-  #   Enum.filter(algorithms, fn a -> a in @algorithms end)
-  # end
-
-  # defp list_algorithms("string", "partial", []) do
-  #   ["substring_set", "substring_sort", "overlap", "ngram"]
-  # end
-
-  # defp list_algorithms("string", _, []) do
-  #   list_algorithms("string", "whole", []) ++ list_algorithms("string", "partial", [])
-  # end
-
-  # defp list_algorithms("phonetic", "whole", []) do
-  #   ["metaphone", "double_metaphone"]
-  # end
-
-  # defp list_algorithms("phonetic", "partial", []) do
-  #   ["substring_double_metaphone"]
-  # end
-
-  # defp list_algorithms("phonetic", _, []) do
-  #   list_algorithms("phonetic", "whole", []) ++ list_algorithms("phonetic", "partial", [])
-  # end
-
   @spec ngram_tokenize(any, any) :: list
   @doc """
   Tokenizes the input into N-grams (http://en.wikipedia.org/wiki/N-gram).
@@ -323,7 +273,7 @@ defmodule Akin.Util do
 
   def ngram_tokenize(_), do: []
 
-  @spec opts(keyword(), atom()) :: integer() | boolean()
+  @spec opts(keyword(), atom()) :: any()
   @doc """
   Take the value for the key from the options. If not present, use the default value from the default
   options list.

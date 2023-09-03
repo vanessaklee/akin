@@ -30,6 +30,7 @@ defmodule Akin.Mixfile do
   defp deps do
     [
       {:credo, "~> 1.0", only: :dev},
+      {:dialyxir, "~> 1.3", only: [:dev], runtime: false},
       {:earmark, "~> 1.3", only: :dev},
       {:excoveralls, "~> 0.10", only: :test},
       {:ex_doc, "~> 0.19", only: :dev},

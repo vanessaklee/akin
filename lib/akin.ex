@@ -3,7 +3,8 @@ defmodule Akin do
   Akin
   =======
 
-  Functions for comparing two strings for similarity using a collection of string comparison algorithms for Elixir. Algorithms can be called independently or in total to return a map of metrics.
+  Functions for comparing two strings for similarity using a collection of string comparison algorithms for Elixir. 
+  Algorithms can be called independently or in total to return a map of metrics.
 
   ## Options
 
@@ -32,7 +33,7 @@ defmodule Akin do
   alias Akin.Corpus
   alias Akin.Names
 
-  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: float()
+  @spec compare(binary() | %Corpus{}, binary() | %Corpus{}, keyword()) :: map()
   @doc """
   Compare two strings. Return map of algorithm metrics.
 
@@ -69,6 +70,14 @@ defmodule Akin do
   @doc """
   Compare a string against a list of strings.  Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match.
+
+  Future Plans 
+  * _if_ the name part is an initial, give the `initials` score its weight, otherwise reduce it
+  * if the `initials` score is significantly higher than the average of the others, reduce the `initials` score to the average of the others 
+  * add options 
+    * "use_average", "top_three", and/or "average_of_top_three"
+    * "group" to results into strong matches and weak matches
+    * "details" to include the scores in the result list
   """
   def match_names(left, rights, opts \\ default_opts())
 
@@ -90,7 +99,7 @@ defmodule Akin do
     end)
   end
 
-  @spec match_names_metrics(binary(), list(), keyword()) :: float()
+  @spec match_names_metrics(binary(), list(), keyword()) :: list()
   @doc """
   Compare a string against a list of strings. Matches are determined by algorithem metrics equal to or higher than the
   `match_at` option. Return a list of strings that are a likely match and their algorithm metrics.

@@ -5,6 +5,7 @@ defmodule Akin.Levenshtein do
   @behaviour Akin.Task
   alias Akin.Corpus
 
+  @spec compare(list(), list()) :: float()
   @spec compare(%Corpus{}, %Corpus{}) :: float()
   @spec compare(%Corpus{}, %Corpus{}, Keyword.t()) :: float()
   @doc """
@@ -21,14 +22,14 @@ defmodule Akin.Levenshtein do
 
   def compare([], string), do: length(string)
 
-  def compare(left, right) when is_binary(left) and is_binary(right) do
-    distance = compare(String.graphemes(left), String.graphemes(right))
-    1.0 - distance / Enum.max([String.length(left), String.length(right)])
-  end
-
   def compare(left, right)
       when is_list(left) and is_list(right) do
     rec_lev(left, right, :lists.seq(0, length(right)), 1)
+  end
+
+  def compare(left, right) when is_binary(left) and is_binary(right) do
+    distance = compare(String.graphemes(left), String.graphemes(right))
+    1.0 - distance / Enum.max([String.length(left), String.length(right)])
   end
 
   defp rec_lev([src_head | src_tail], right, distlist, step) do

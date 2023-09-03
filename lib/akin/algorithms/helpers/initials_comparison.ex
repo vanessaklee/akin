@@ -61,10 +61,6 @@ defmodule Akin.Helpers.InitialsComparison do
     Enum.map(lists, fn list -> String.at(list, 0) end)
   end
 
-  defp initials(list) when is_list(list) do
-    Enum.map(list, fn l -> String.at(l, 0) end)
-  end
-
   defp initials(_), do: []
 
   defp actual_initials(list) do

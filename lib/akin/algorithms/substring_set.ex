@@ -39,7 +39,8 @@ defmodule Akin.SubstringSet do
       ) do
     case Strategy.determine(l_string, r_string) do
       :standard ->
-        similarity(l_set, r_set) |> score(opts(opts, :level))
+        similarity(l_set, r_set) 
+        |> score(opts(opts, :level))
 
       {:substring, scale} ->
         score =
@@ -53,10 +54,11 @@ defmodule Akin.SubstringSet do
     end
   end
 
-  defp score(scores, "weak"), do: Enum.max(scores)
-
-  defp score(scores, _) do
-    Enum.sum(scores) / (Enum.count(scores) - 1)
+  defp score(scores, level) do
+    case level do
+      "weak" -> Enum.max(scores)
+      _ -> Enum.sum(scores) / (Enum.count(scores) - 1)
+    end
   end
 
   defp similarity(left, right) do
