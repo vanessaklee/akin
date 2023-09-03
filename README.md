@@ -39,7 +39,7 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
 Add a dependency in your mix.exs:
 
 ```elixir
-deps: [{:akin, "~> 0.1.8"}]
+deps: [{:akin, "~> 0.2.0"}]
 ```
 
 ## Algorithms
