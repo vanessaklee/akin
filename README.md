@@ -3,6 +3,14 @@ Akin
 
 Akin is a collection of string comparison algorithms for Elixir. This solution was born of a [Record Linking](https://en.wikipedia.org/wiki/Record_linkage) project. It combines and modifies [The Fuzz](https://github.com/smashedtoatoms/the_fuzz) and [Fuzzy Compare](https://github.com/patrickdet/fuzzy_compare). Algorithms can be called independently or in total to return a map of metrics. This library was built to facilitiate the disambiguation of names but can be used to compare any two binaries. 
 
+## New! Notebooks
+
+Disambiguation
+[![Run Disambiguation in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2Fvanessaklee%2Fakin%2Fblob%2Fmain%2Fnotebooks%2Fdisambiguation.livemd)
+
+Name Disambiguation
+[![Run Name Disambiguation in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2Fvanessaklee%2Fakin%2Fblob%2Fmain%2Fnotebooks%2Fname_disambiguation.livemd)
+
 <details>
   <summary>Table of Contents</summary>
   

@@ -1,0 +1,93 @@
+# Name Disambiguation
+
+## Match
+
+_UNDER DEVELOPMENT_
+
+Identity is the challenge of author name disambiguation (AND). The aim of AND is to match an author's name to that author when the author appears in a list of many authors. Complexity arises from homonymity (many people with the same name) and synonymity (when one person uses different forms/spellings of their name in publications).
+
+Given the name of an author which is divided into the given, middle, and family name parts (i.e. "Virginia", nil, "Woolf") and a list of possible matching author names, find and return the matches for the author in the list. If initials exist in the left name, a separate comparison is performed for the initals and the sets of the right string.
+
+If the comparison metrics produce a score greater than or equal to 0.9, they considered a match and returned in the list.
+
+We want to find possible matches to the name "V. Woolf"
+
+```elixir
+name = "Virginia Woolf"
+```
+
+in a list of other names
+
+```elixir
+other_names = [
+  "V Woolf",
+  "V Woolfe",
+  "Virginia Woolf",
+  "V White",
+  "Viginia Wolverine",
+  "Virginia Woolfe"
+]
+```
+
+The most likely matches are returned.
+
+```elixir
+Akin.match_names(name, other_names)
+```
+
+Use options to require stricter matching.
+
+```elixir
+other_names = [
+  "Victor Woolf",
+  "V Woolf",
+  "V Woolfe",
+  "Virginia Woolf",
+  "V White",
+  "Viginia Wolverine",
+  "Virginia Woolfe"
+]
+```
+
+```elixir
+opts = [match_at: 0.99]
+
+Akin.match_names(name, other_names, opts)
+```
+
+### Initials
+
+The results are good even if we only have an initial for part of the name we are disambiguating.
+
+```elixir
+name = "V. Woolf"
+```
+
+```elixir
+Akin.match_names(name, other_names)
+```
+
+### Not Perfect
+
+The results are imperfect and can lead to unwanted matches. See how "Victor" fairs.
+
+```elixir
+other_names = [
+  "Victor Woolf",
+  "V Woolfe",
+  "Virginia Woolf",
+  "V White",
+  "Viginia Wolverine",
+  "Virginia Woolfe"
+]
+```
+
+```elixir
+Akin.match_names(name, other_names)
+```
+
+```elixir
+opts = [match_at: 0.99, algorithms: ["bag_distance", "jaccard", "jaro_winkler"]]
+
+Akin.match_names(name, other_names, opts)
+```
