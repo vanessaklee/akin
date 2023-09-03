@@ -5,10 +5,12 @@ Akin is a collection of string comparison algorithms for Elixir. This solution w
 
 ## New! Notebooks
 
-Disambiguation
+### Disambiguation
+
 [![Run Disambiguation in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2Fvanessaklee%2Fakin%2Fblob%2Fmain%2Fnotebooks%2Fdisambiguation.livemd)
 
-Name Disambiguation
+### Name Disambiguation
+
 [![Run Name Disambiguation in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2Fvanessaklee%2Fakin%2Fblob%2Fmain%2Fnotebooks%2Fname_disambiguation.livemd)
 
 <details>
